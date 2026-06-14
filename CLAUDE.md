@@ -31,9 +31,16 @@ Then open `bg3_console.html` directly (no server needed).
 currently stores only `name → tier`, so descriptions render blank — e.g. the
 Arrow of Darkness card). The reasoning lives in the `transcripts/`.
 
+**How it surfaces in the app:** the render already supports it — `renderTierlist`
+in `src/index.html` shows `tl.notes[name]` as a `.detail-note` in each item's
+expanded card. **No JS or schema change is needed.** Just add a `"notes": {item:
+why}` object to a tier list in `tierlists.json` (see the `arrows` entry as the
+template) and rebuild.
+
 **Status:** 1 of 27 lists done.
-- ✅ `arrows` — verified in `review/arrows_verified.json` (all 21 tiers confirmed
-  correct; reasoning written). **Not yet merged into `tierlists.json` or rendered.**
+- ✅ `arrows` — verified, and the 21 `why` strings are merged into the `arrows`
+  entry's `notes` in `tierlists.json` and rendering live (e.g. Arrow of Darkness).
+  Source of the prose: `review/arrows_verified.json`.
 - ⬜ The other 26 lists — not started.
 
 **Recipe per list** (do NOT trust `extract_ratings.py`'s tiers — read the source):
@@ -42,12 +49,6 @@ Arrow of Darkness card). The reasoning lives in the `transcripts/`.
 2. Read those transcript(s) and, for each rated item, confirm the spoken tier and
    write a one-sentence `why`.
 3. Save as `review/<key>_verified.json`, same shape as `review/arrows_verified.json`.
-4. This can be fanned out across sub-agents (one list per agent).
-
-**Then wire it into the app (one-time, do after a few lists exist):**
-1. Schema: change each `ratings` value in `tierlists.json` from `"S+"` to
-   `{"t":"S+","why":"…"}`. Merge the verified `why` text in. Keep it
-   backward-compatible OR update all 27 lists at once.
-2. Render: update the tier-list / item-card rendering in `src/index.html` to show
-   `why` under the tier badge when present, blank when absent.
-3. `uv run build.py` and confirm e.g. the Arrow of Darkness card now shows text.
+4. Merge the `why` strings into that list's `notes` object in `tierlists.json`
+   (mirror the small Python snippet used for arrows), then `uv run build.py`.
+5. Steps 1-3 can be fanned out across sub-agents (one list per agent).

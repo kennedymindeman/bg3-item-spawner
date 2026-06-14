@@ -34,7 +34,30 @@
       "Arrow of Roaring Thunder": "D"
     },
     "context": "Baldur's Gate 3 honour mode guide",
-    "is_gameplay_only": false
+    "is_gameplay_only": false,
+    "notes": {
+      "Arrow of Acid": "Acid surface gives a no-save -2 AC to whatever you hit, effectively free archery fighting style; damage is irrelevant but the to-hit boost is huge for Sharpshooter archers.",
+      "Arrow of Fire": "Fire surface deals a guaranteed 1d4 even on a miss and can stack in packed fights; a solid default but falls off as enemies gain fire resistance.",
+      "Arrow of Ice": "Ice surface forces a prone save that can burn whole enemy turns and break concentration, plus strong surface-combo synergies (steam, water, electrified).",
+      "Arrow of Lightning": "Identical to the other elemental arrows but creates no surface, so it's only a small chance at marginal damage - not worth stockpiling.",
+      "Arrow of Beast Slaying": "Doubles damage vs beasts, but only sold late in Act 1 after the hardest beast fights are over.",
+      "Arrow of Construct Slaying": "Great for the dangerous Act 3 construct fights, though piercing resistance and single-instance-damage mechanics blunt it somewhat.",
+      "Arrow of Elemental Slaying": "Sold from Act 2; misses the deadly early elementals but shines in a couple of dangerous late-game elemental encounters.",
+      "Arrow of Fiend Slaying": "Fiends are common and mostly filler, but the arrow is very useful in the few genuinely hard fiend fights.",
+      "Arrow of Monstrosity Slaying": "Monstrosities cluster in one Act 1 zone and are rarely threatening; usefulness depends entirely on play order.",
+      "Arrow of Undead Slaying": "Undead appear in huge numbers across all three acts including some of the hardest fights - grab as many as possible.",
+      "Arrow of Aberration Slaying": "Surprisingly few aberration fights, but they're high-priority targets in the most important encounters, so doubling damage matters.",
+      "Arrow of Dragon Slaying": "Only a handful of dragon fights, but they're among the deadliest, and you can stockpile enough to use exclusively against them.",
+      "Arrow of Humanoid Slaying": "About half the enemies in the game are humanoid, so this comes up constantly - stockpile for every party.",
+      "Arrow of Darkness": "Casts a 3-turn no-concentration Darkness as an attack action, breaking action economy; S+ for darkness/warlock builds, merely S otherwise.",
+      "Arrow of Ilmater": "Stops healing for a turn (good vs natural regenerators) plus a weak hit-only 1d4 necrotic; situational, occasionally backfires by denying the AI a wasted heal.",
+      "Arrow of Roaring Thunder": "No bonus damage, low strength-save knockback that enemies resist easily, and often forces you to forgo hitting an enemy to aim it.",
+      "Arrow of Arcane Interference": "Guaranteed no-save concentration break is decent (great for non-archers), but the intended silence barely functions due to BG3's duration timing.",
+      "Arrow of Many Targets": "Hits up to 4 targets with near-full damage each, multiplies crit chances and on-hit stacks (fastest Arcane Acuity stacking) - roughly 3.5x damage, wipes encounters.",
+      "Arrow of Salving": "Always-hit ally heal that removes poison/paralysis/blind as an attack - a rare but valuable panic button, especially for characters without lesser restoration.",
+      "Arrow of Smokepowder": "A free Fireball-on-an-arrow (8d6 split fire/force) plus knockback, no spell slot - a third-level spell as an attack action, massive damage.",
+      "Arrow of Transposition": "Free 60ft Misty Step as an attack; rarely your primary mobility (a bonus action is usually better) but great to keep one on every character."
+    }
   },
   {
     "key": "barrels",
