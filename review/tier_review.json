@@ -1,0 +1,6290 @@
+[
+  {
+    "key": "arrows",
+    "subject": "Arrows",
+    "sources": [
+      "030"
+    ],
+    "rows": [
+      {
+        "item": "Arrow of Aberration Slaying",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "e 3 s tier arrow for sure the arrow of aberration slaying so balers gate 3 is an incredibly aberration centric campaign they re some of the main antagonists throughout"
+      },
+      {
+        "item": "Arrow of Acid",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Arrow of Arcane Interference",
+        "current": "B",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "ge in combat d tier arrow the arrow of arcane interference so the arcane interference arrow uh breaks the target s concentration with no saving throw so any enemy that"
+      },
+      {
+        "item": "Arrow of Beast Slaying",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Arrow of Construct Slaying",
+        "current": "A",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "m going to put in c tier the arrow of construct slaying so the construct slaying arrow doubles your damage against construct or rolls your damage twice against const"
+      },
+      {
+        "item": "Arrow of Darkness",
+        "current": "S+",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "l that i m going to place the arrow of darkness in s tier if you aren t a a build that is attempting to abuse darkness so you don t have let s say the eversi"
+      },
+      {
+        "item": "Arrow of Dragon Slaying",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Arrow of Elemental Slaying",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Arrow of Fiend Slaying",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "tier is where they belong the arrow of fiend slaying so there s a lot of fiends in this game they show up pretty frequently throughout the the game um but with a"
+      },
+      {
+        "item": "Arrow of Fire",
+        "current": "A",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "the acid arrow is s tier the arrow of fire so the arrow of fire is exactly the same as the arrow of acid and its basic effect it does a deck save dc12 t"
+      },
+      {
+        "item": "Arrow of Humanoid Slaying",
+        "current": "S",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "ainst dragons are finally the arrow of humanoid slaying well something like half of the enemies in the game are humanoid including several of the most dangerous enco"
+      },
+      {
+        "item": "Arrow of Ice",
+        "current": "S",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "comes in handy so a tier the arrow of ice so the arrow of ice same thing is the others uh dc12 deck save or 2d for cold damage and the surface that it"
+      },
+      {
+        "item": "Arrow of Ilmater",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Arrow of Lightning",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Arrow of Many Targets",
+        "current": "S+",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Arrow of Monstrosity Slaying",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Arrow of Roaring Thunder",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Arrow of Salving",
+        "current": "B",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "ounters on its own s tier the arrow of salving so the salving arrow works a little bit differently than all of the other arrows because it s not a damaging"
+      },
+      {
+        "item": "Arrow of Smokepowder",
+        "current": "S+",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Arrow of Transposition",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Arrow of Undead Slaying",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "barrels",
+    "subject": "Barrels, satchels, and fireworks",
+    "sources": [
+      "032"
+    ],
+    "rows": [
+      {
+        "item": "Acid Barrel",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "art you can safely ignore the acid barrel d tier next the brine barrel so the brine barrel similar to the acid barrel can either be thrown or broken op"
+      },
+      {
+        "item": "Box of Fireworks",
+        "current": "B",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "ut them in c tier next up the box of fireworks and the box of odd fire fireworks works these are functionally identical items again although the box of odd"
+      },
+      {
+        "item": "Box of Oddfire Fireworks",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Brine Barrel",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "u ve got it then throwing a a brine barrel isn t a totally embarrassing use of an action i m going to put it in c tier because it can occasionally come"
+      },
+      {
+        "item": "Firewine Barrel",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Nautiloid Tank",
+        "current": "B",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "fire wine barrel next up the nautiloid tank and the oil barrel so these are functionally identical items they do exactly the same thing in practice despi"
+      },
+      {
+        "item": "Oil Barrel",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Popdrake",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Runepowder Barrel",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Runepowder Bomb",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Runepowder Vial",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Smokepowder Barrel",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Smokepowder Satchel",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Squidjins",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Surprise-Based Teddy Bear",
+        "current": "B",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "put it in a tier next up the surprise based teddy bear so this is a complete side note but before i talk about this item i do have to talk about the name because th"
+      },
+      {
+        "item": "Water Barrel",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "and good for yourself so the water barrel is of course s tier my favorite use for the water barrel is uh when thrown uh by a berserker barbarian becaus"
+      },
+      {
+        "item": "Wogglims",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "boots",
+    "subject": "Boots",
+    "sources": [
+      "046"
+    ],
+    "rows": [
+      {
+        "item": "Acrobat Shoes",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "your entire boot slot to the acrobat shoes you re much better off using a mobility or offensive item d tier for these the boots of apparent death the bo"
+      },
+      {
+        "item": "Blackguard's Greaves",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Bonespike Boots",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Boots of Aid and Comfort",
+        "current": "S",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "t up the first real boots the boots of aid and comfort these give you whenever you heal a target that target also gains three temporary hit points so they get whate"
+      },
+      {
+        "item": "Boots of Apparent Death",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Boots of Arcane Bolstering",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Boots of Brilliance",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Boots of Elemental Momentum",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Boots of Genial Striding",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Boots of Persistence",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Boots of Psionic Movement",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Boots of Speed",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Boots of Stormy Clamour",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Boots of Striding",
+        "current": "A",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "st way to do it so s tier the boots of striding the boots of striding require medium armor proficiency and to give you whenever you cast a concentration spel"
+      },
+      {
+        "item": "Boots of Uninhibited Kushigo",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Boots of Very Fast Blinking",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Cinder Shoes",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "here so i m going to give the cinder shoes c tier uh though i think unless you are really very spe specifically building around triggering this item it"
+      },
+      {
+        "item": "Dark Justiciar Boots",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Disintegrating Night Walkers",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "y party that doesn t want the disintegrating night walkers uh so obviously it s going into s tier these are probably the best boots in the game and will stay relevant a"
+      },
+      {
+        "item": "Evasive Shoes",
+        "current": "S",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "he end of act two we have the evasive shoes the evasive shoes give you plus one to your acrobatics and plus one to your armor class um plus one to your a"
+      },
+      {
+        "item": "Helldusk Boots",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hoarfrost Shoes",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Leather Boots",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Linebreaker Boots",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Metallic Boots",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Mystra's Grace",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Slinging Shoes",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "larly exciting d tier for the slinging shoes although i do love them the space shunt boots uh these give you no passive effects but once per long rest you"
+      },
+      {
+        "item": "Spacehunt Boots",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Spiderstep Boots",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Springstep Boots",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Swiresy Shoes",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "The Speedy Lightfeet",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "The Watersparkers",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Tyrannical Jackboots",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Unwanted Masterwork Greaves",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Varsh Ko'kuu's Boots",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Vital Conduit Boots",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "other medium armor caster the vital conduit boots can give them a pretty nice benefit and keep them alive s tier for spor druids and still a tier for other cas"
+      }
+    ]
+  },
+  {
+    "key": "cantrips",
+    "subject": "D&D 5e cantrips",
+    "sources": [
+      "078",
+      "003"
+    ],
+    "rows": [
+      {
+        "item": "Acid Splash",
+        "current": "D",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "fectiveness i m going to give acid splash c tier for marginal because evocation wizards make good use of it nobody else should usually take this spell"
+      },
+      {
+        "item": "Blade Ward",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "an around it a little bit but blade ward is very good and we re going to put it in a tier bone chill bone chill is another one of the damaging cantrip"
+      },
+      {
+        "item": "Bone Chill",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "initely have access to a tier bone chill bone chill is available to sorcerers wizards and warlocks as well as death domain clerics and does a d8 of ne"
+      },
+      {
+        "item": "Dancing Lights",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Eldritch Blast",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Firebolt",
+        "current": "B",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "ling enemies obviously s tier firebolt firebolt is available to sorcerers and wizards and is a 60 ft range uh attack roll for a d10 of fire damage g"
+      },
+      {
+        "item": "Friends",
+        "current": "B",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "s that have access to friends friends is usually going to be better so i m going to say that thmagy is a c tier spell uh but bump this up a little"
+      },
+      {
+        "item": "Guidance",
+        "current": "S",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "to use on lower difficulties guidance so guidance in terms of the impact that it has on your playthrough is probably the single best spell in bould"
+      },
+      {
+        "item": "Light",
+        "current": "B",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "entire game obviously s tier light light does what it says on the tin it makes a light you cast it on an object and it makes that object glow ca"
+      },
+      {
+        "item": "Mage Hand",
+        "current": "S",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "most parties want that a tier mage hand so mage hand is unique amongst canrips in that it s not free to cast you can only cast it once per short rest"
+      },
+      {
+        "item": "Minor Illusion",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "e party should have access to minor illusion it is just so incredibly good poison spray poison spray is another damage cantrip and it starts really well i"
+      },
+      {
+        "item": "Poison Spray",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Produce Flame",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "th useful spells i think that produce flame is actually quite strong um it s not my first pick in general of the a tier can trips but it s it s just a go"
+      },
+      {
+        "item": "Ray of Frost",
+        "current": "A",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "s spell frequently s tier for ray of frost uh just incredible resistance resistance is a concentration cantrip that gives the target an extra 1d4 on any"
+      },
+      {
+        "item": "Resistance",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "ly try to get this b tier for resistance sacred flame so this is another cantrip where the evaluation of this spell has changed significantly since pa"
+      },
+      {
+        "item": "Sacred Flame",
+        "current": "B",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "a pretty rare combination so sacred flame just really doesn t have a role anymore pull the dead has eaten it completely d tier for sacred flame chalet"
+      },
+      {
+        "item": "Shillelagh",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Shocking Grasp",
+        "current": "C",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "should leave home without it shocking grasp get ready cuz this one may well shock you shocking grasp is a melee range damage cantrip um that targets enem"
+      },
+      {
+        "item": "Thaumaturgy",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Thorn Whip",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "True Strike",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Vicious Mockery",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "cloaks",
+    "subject": "Cloaks",
+    "sources": [
+      "042"
+    ],
+    "rows": [
+      {
+        "item": "Cindermoth Cloak",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Cloak",
+        "current": "D",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "r party composition in c tier cloaks that most parties won t be able to use but do have a narrow use case available within the game and in d tier"
+      },
+      {
+        "item": "Cloak of Cunning Brume",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Cloak of Displacement",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "arty setup but either way the cloak of displacement is going to be absolutely excellent and goes straight into s tier the cloak of the weave the cloak of the wea"
+      },
+      {
+        "item": "Cloak of Elemental Absorption",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Cloak of Protection",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "int even more valuable so the cloak of protection is just excellent going straight into s tier and someone in your party will almost certainly be wearing this"
+      },
+      {
+        "item": "Cloak of the Weave",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "n to that for that reason the cloak of the weave is of course s tier for any caster and is going to be best in slot for casters in the end game the mantle of"
+      },
+      {
+        "item": "Deathstalker Mantle",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Derivation Cloak",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Fleshmelter Cloak",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Mantle of the Holy Warrior",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Nymph Cloak",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Reverse Rain Cloak",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Shade-Slayer Cloak",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "ding while making attacks the shade slayer cloak is excellent for that reason i m going to put it in a tier because it s just a powerful offensive ability for"
+      },
+      {
+        "item": "Thunderskin Cloak",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Vivacious Cloak",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "for a specific build but the vivacious cloak is uh also just a solid item that you will be happy to have special mention for spor druids as well who can u"
+      },
+      {
+        "item": "Wavemother's Cloak",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "cloth_armor",
+    "subject": "Robes, clothes, and cloth armor",
+    "sources": [
+      "036"
+    ],
+    "rows": [
+      {
+        "item": "Armour of Uninhibited Kushigo",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Bided Time",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Bloodguzzler Garb",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Bonespike Garb",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Cloth Armour",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Cloth of Authority",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "ful in the first place so the cloth of authority is unfortunately i m going to say c tier uh the main thing that you would want it for is the advantage on ins"
+      },
+      {
+        "item": "Drunken Cloth",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "he moon devotion robe has the drunken cloth i m going to say is a c tier item by this point in the game you should really have your con saves and your co"
+      },
+      {
+        "item": "Enraging Heart Garb",
+        "current": "A",
+        "detected": "B",
+        "status": "conflict",
+        "snippet": "ually real so b tier item the enraging heart garb the enraging heart garb gives you plus two to your constitution which is a pretty powerful ability by itself"
+      },
+      {
+        "item": "Garb of the Land and Sky",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Graceful Cloth",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "is is very very important the graceful cloth is an easy and obvious s tier item the infernal robe so this requires a specific and somewhat unusual story c"
+      },
+      {
+        "item": "Icebite Robe",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Infernal Robe",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Mighty Cloth",
+        "current": "B",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "ry good so a tier next up the mighty cloth so the mighty cloth is the equivalent of the graceful cloth but for strength instead of for dexterity it give"
+      },
+      {
+        "item": "Moon Devotion Robe",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Mutilated Carapace",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Obsidian Laced Robe",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Poisoner's Robe",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "ws you to go first more often poisoner s robe is a d tier item i just don t think there s any circumstance where this is going to be better than an alterna"
+      },
+      {
+        "item": "Potent Robe",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "ivability for long fights the potent robe obviously s tier best with eldrich blast but don t be afraid to equip it on other characters as well and fina"
+      },
+      {
+        "item": "Protecty Sparkswall",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Robe of Exquisite Focus",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "er party or whatever then the robe of exquisite focus will still see some play uh so i m going to put it in b tier but the protect sparks wall is strictly dominant"
+      },
+      {
+        "item": "Robe of Summer",
+        "current": "D",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "item available in act one the robe of summer the robe of summer just gives you resistance to cold damage straight up um in order for this to be good you w"
+      },
+      {
+        "item": "Robe of Supreme Defences",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Robe of the Weave",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "or something like that uh the robe of the weave is just going to be the best for every spellcaster s tier item the robe of supreme defenses the robe of supre"
+      },
+      {
+        "item": "Shelter of Athkatla",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Veil of the Morning",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Vest of Soul Rejuvenation",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "item that you want to use the vest of soul rejuvenation is sort of in s tier by default because there just aren t really good monk clothings um on into the late game"
+      },
+      {
+        "item": "Viconia's Priestess Robe",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Wavemother's Robe",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "elixirs",
+    "subject": "Elixirs",
+    "sources": [
+      "027"
+    ],
+    "rows": [
+      {
+        "item": "Arcane Cultivation",
+        "current": "C",
+        "detected": "B",
+        "status": "conflict",
+        "snippet": "e quite a bit better than the arcane cultivation elixir uh does that bump it up from c to b tier i think the answer is still basically no um this is still pre"
+      },
+      {
+        "item": "Barkskin",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Battlemage's Power",
+        "current": "S+",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Bloodlust",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "e our first s tier elixir the bloodlust elixir so the bloodlust elixir gives you an additional action and five temporary hit points whenever you kill"
+      },
+      {
+        "item": "Cloud Giant Strength",
+        "current": "S+",
+        "detected": "S+",
+        "status": "match",
+        "snippet": "n that the the hill giant and cloud giant strength elixir drunk daily are outside of the intended balance of the game and just massively powerful as a side note"
+      },
+      {
+        "item": "Colossus",
+        "current": "A",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "s so s tier the elixir of the colossus so this is functionally the same as the enlarged spell giving you a number of small benefits you get bigger o"
+      },
+      {
+        "item": "Darkvision",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Greater Arcane Cultivation",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Guileful Movement",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Heroism",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "ling enemies that will prefer heroism so it s just a a great option and definitely one that you should consider a tier for sure uh a tier minimum f"
+      },
+      {
+        "item": "Hill Giant Strength",
+        "current": "S+",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "for getting that damage boost hill giant strength elixir even used normally therefore is an s tier elixir next i m going to skip uh over one and talk about clo"
+      },
+      {
+        "item": "Peerless Focus",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "port spell and then drink the peerless focus elixir as your second elixir um so this i think is b tier but relatively high b tier the resistant elixir so"
+      },
+      {
+        "item": "Resistance",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "where that s the appropriate resistance to have but for the most part you re going to be better off with other elixir so b tier c invisibility so thi"
+      },
+      {
+        "item": "See Invisibility",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Superior Arcane Cultivation",
+        "current": "B",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "longs in c tier the elixir of superior arcane cultivation which gives you a level three spell is where these start to be really much more interesting level three spell"
+      },
+      {
+        "item": "Supreme Arcane Cultivation",
+        "current": "A",
+        "detected": "B",
+        "status": "conflict",
+        "snippet": "hat one in b tier finally the supreme arcane cultivation elixir gives you an additional fourth level spell slot these can be bought from any merchant who sells elixir"
+      },
+      {
+        "item": "Tadpole Elixir",
+        "current": "F",
+        "detected": "F",
+        "status": "match",
+        "snippet": "und trying to make use of the tadpole elixir so i think that it is an f tier elixir best avoided use heroism instead use bloodlust instead there s a much"
+      },
+      {
+        "item": "Viciousness",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Vigilance",
+        "current": "S+",
+        "detected": "S+",
+        "status": "match",
+        "snippet": "lar surprise i think that the vigilance elixir is is going to go in s plus tier um plus five to initiative when initiative is as it is in boulders ga"
+      }
+    ]
+  },
+  {
+    "key": "finesse_weapons",
+    "subject": "Finesse weapons (daggers, shortswords, scimitars)",
+    "sources": [
+      "060",
+      "061"
+    ],
+    "rows": [
+      {
+        "item": "+1 Dagger",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Scimitar",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Shortsword",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Syringe",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Dagger",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Scimitar",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Shortsword",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Adamantine Scimitar",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ambusher",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Artificial Leech",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Assassin's Touch",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Belm",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Bloodthirst",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "up using in the late game so bloodthirst of course is going straight into s tier next up cold snap now i m going to admit right off the start that thi"
+      },
+      {
+        "item": "Coldsnap",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Crimson Mischief",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "type of character s tier for crimson mischief the dollar amaris the dollar amaris is a plus two dagger uh with the passive effect of whenever you critical"
+      },
+      {
+        "item": "Dagger",
+        "current": "B",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "m going to give the plus one dagger c tier the plus one simitar a tier cuz it s basically identical to the short sword so you ll buy whichever on"
+      },
+      {
+        "item": "Dolor Amarus",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Dread Iron Dagger",
+        "current": "D",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "chance weapons in s tier the dread iron dagger uh the dread iron dagger is a plus one dagger that when you are hidden deals an extra d6 necron damage um thi"
+      },
+      {
+        "item": "Fleshrender",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Gleamdance Dagger",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hunter's Dagger",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Justiciar's Scimitar",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Knife of the Undermountain King",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Kurwin's Cauteriser",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Murderous Cut",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "y well outclassed item so the murderous cut is never going to see use d tier raps cid rap cid is a fascinating weapon that s going to annihilate game bal"
+      },
+      {
+        "item": "Poo-Scraper",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Render of Body and Mind",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Rhapsody",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Ritual Dagger",
+        "current": "C",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "e render of mind and body the ritual dagger of sh the ritual dagger of sh not to be confused with the ritual dagger despite having the same name same pic"
+      },
+      {
+        "item": "Ritual Dagger of Shar",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Salty Scimitar (RRR)",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Scimitar",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "in general i m going to place scimitars in d tier uh because shortswords do exactly the same thing and just have a better weapon action in my opinio"
+      },
+      {
+        "item": "Shortsword",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Shortsword of First Blood",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Slicing Shortsword",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Speedy Reply",
+        "current": "B",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "so it s going into s tier the speedy reply the speedy reply is a another magical weapon in this case a simitar without an enhancement bonus so it attack"
+      },
+      {
+        "item": "Steelforged Sword",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Stillmaker",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Sussur Dagger",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Sword of Clutching Umbra",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Sword of Life Stealing",
+        "current": "S",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "r potential hiding builds the sword of life stealing the sword of life stealing is a plus two short sword available at the same point early in act 2 from the same"
+      },
+      {
+        "item": "Sylvan Scimitar",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "The Baneful",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Thorn Blade",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "ing on a spell a tier for the thorn blade because it just does a reasonable version of its effect slightly worse than weapons that just do more damage"
+      },
+      {
+        "item": "Trepan",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Worgfang",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "gloves",
+    "subject": "Gloves and gauntlets",
+    "sources": [
+      "043",
+      "044",
+      "045"
+    ],
+    "rows": [
+      {
+        "item": "(Rare) Dark Justiciar Gauntlets",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Abyss Beckoners",
+        "current": "B",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "ut them in d tier next up the abyss beckoners this is a super cool item with an extremely powerful effect and also an extremely negative downside those oft"
+      },
+      {
+        "item": "Bhaalist Gloves",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Blackguard's Gauntlets",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Bonespike Gloves",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Bracers of Defence",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Braindrain Gloves",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Cerebral Citadel Gloves",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Cindersnap Gloves",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Craterflesh Gloves",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Daredevil Gloves",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "oles and save dcs both uh the daredevil gloves are definitely going to make an appearance on a lot of characters s tier the fleet fingers the fleet fingers"
+      },
+      {
+        "item": "Dark Displacement Gloves",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Dark Justiciar Gauntlets",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Flawed Helldusk Gloves",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Fleetfingers",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Gauntlet of the Tyrant",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "by a lot of spell casters so gauntlet of the tyrant is going right into s tier they re probably the best spellcaster gloves in the end game if you re just trying"
+      },
+      {
+        "item": "Gauntlets of Hill Giant Strength",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Gauntlets of Surging Accuracy",
+        "current": "B",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "the slot and s tier item the gauntlets of surging accuracy so these are actually only the second set of gloves we ve looked at that require medium armor proficiency in"
+      },
+      {
+        "item": "Gauntlets of the Warmaster",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Gemini Gloves",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Gloves of Archery",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Gloves of Baneful Striking",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Gloves of Battlemage's Power",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Gloves of Belligerent Skies",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Gloves of Cinder and Sizzle",
+        "current": "S",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "variety of builds a tier the gloves of cinder and sizzle the gloves of cinder and sizzle give you you an additional 1 d4 fire damage to every one of your unarmed stri"
+      },
+      {
+        "item": "Gloves of Crushing",
+        "current": "C",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "hey don t function d tier the gloves of crushing the gloves of crushing give you a plus one ti your attack rules and plus two to damage with your unarmed atta"
+      },
+      {
+        "item": "Gloves of Dexterity",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "educe your stats to eight the gloves of dexterity are just absurdly good um if there was an s tier in this se list i elected not to include one they would obvi"
+      },
+      {
+        "item": "Gloves of Hail of Thorns",
+        "current": "C",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "t item in the game s tier the gloves of hail of thorns the gloves of hail of thorns let you cast hail of thorns once per short rest which does your weapon damage an"
+      },
+      {
+        "item": "Gloves of Heroism",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "nce paladin self cast bug the gloves of heroism can be pretty powerful for that reason i m going to put them in b tier most paladins are going to have better"
+      },
+      {
+        "item": "Gloves of Missile Snaring",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "mp on a vulnerable caster the gloves of missile snaring can have a place so i m going to put them in c tier uh most of the time you re fairly safe not paying too muc"
+      },
+      {
+        "item": "Gloves of Power",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "these in b tier alongside the gloves of power cuz they re functionally equivalent the gloves of uninhibited cigo the gloves of uninhibited kigo give you pl"
+      },
+      {
+        "item": "Gloves of Soul Catching",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "g them by the end of the game gloves of soul catching of course s tier the numbers on this item are just so ridiculously high that they outclass everything else av"
+      },
+      {
+        "item": "Gloves of Thievery",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Gloves of Uninhibited Kushigo",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Gloves of the Automaton",
+        "current": "S",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "h the hell dust gloves or the gloves of the automaton all of the normal suspect so i m going to give these a tier but for characters that they re good for they are"
+      },
+      {
+        "item": "Gloves of the Balanced Hands",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Gloves of the Duelist",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Gloves of the Growling Underdog",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Helldusk Gloves",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hellrider's Pride",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Herbalist's Gloves",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hra'cknir Bracers",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Ichorous Gloves",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Jhannyl's Gloves",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Knock Knuckle",
+        "current": "C",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "tier for the hust gloves the knock knuckle gloves these give you plus one to your sight of hand which is duplicated by a bunch of other effects and the"
+      },
+      {
+        "item": "Leather Gloves",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Legacy of the Masters",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "t use both but uh you get the legacy of the masters a little bit early earlier than the hell dust gloves in most playthroughs so yeah s tier for the legacy of th"
+      },
+      {
+        "item": "Luminous Gloves",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "need to go into it again the luminous gloves of course are s tier for any character who s doing radiating orbs stacking the poisoners gloves uh the poison"
+      },
+      {
+        "item": "Martial Exertion Gloves",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Metallic Gloves",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Nimblefinger Gloves",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Poisoner's Gloves",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Quickspell Gloves",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Raven Gloves",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Reason's Grasp",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Seraphic Pugilist Gloves",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Servitor of the Black Hand Gloves",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Snow-Dusted Monastery Gloves",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Spell-Seeking Gloves",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "way way less costly than the spell seeking gloves d tier for these i think you should really avoid using them the stalker gloves the stalker gloves give you pl"
+      },
+      {
+        "item": "Spellmight Gloves",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Stalker Gloves",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "can most afford to spare the stalker gloves could be pretty useful i m going to give them b tier because uh you can just never count initiative out entir"
+      },
+      {
+        "item": "Swordmaster Gloves",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "The Reviving Hands",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "ters will of course switch to the reviving hands so s tier for those the thunder palm strikers these are another one of the monk gloves that does a specific k"
+      },
+      {
+        "item": "The Sparkle Hands",
+        "current": "A",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "etter effect than this d tier the sparkle hands the sparkle hands give you two lightning charges whenever you hit an enemy with an unarmed strike lightning c"
+      },
+      {
+        "item": "Thermoarcanic Gloves",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Thunderpalm Strikers",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Unlucky Thief's Gloves",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Unwanted Masterwork Gloves",
+        "current": "D",
+        "detected": "B",
+        "status": "conflict",
+        "snippet": "never see play similar to the unwanted masterwork gloves these are b tier gloves all right my friends that is every single glove in the game all the gloves in act 3 a"
+      },
+      {
+        "item": "Winkling Gloves",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "e play d tier and finally the winkling gloves uh these give you plus one to your slight of hand and plus one to your attack rolles and it s exactly the sam"
+      },
+      {
+        "item": "Winter's Clutches",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "saving throw so d tier on the winter s clutches though again if you have a cool winter s clutches build let me know cuz this is a powerful enough effect that"
+      },
+      {
+        "item": "Wondrous Gloves",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "so just very very good so the wondrous gloves are just going to go into s tier and remain relevant for characters that just want to increase their armor cl"
+      }
+    ]
+  },
+  {
+    "key": "grenades",
+    "subject": "Grenades and throwables",
+    "sources": [
+      "029"
+    ],
+    "rows": [
+      {
+        "item": "Acid Vial",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "e up sometimes b tier for the acid vial alchemists fire another fairly early game focused uh grenade this one does sets enemies on fire and it inflic"
+      },
+      {
+        "item": "Alchemist's Fire",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Caustic Bulb",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Flashblinder",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Fungal Bamboozler",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Grease Bottle",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "nade plays out identically to grease bottle and is a tier similarly as a result the fungal bamboozler so the fungal bamboozler creates a timas spores are"
+      },
+      {
+        "item": "Haste Spore Flask",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "f course an s tier option the haste spore flask so this is a unique version of the hast sp grenade and while i m normally not covering unique um ades i wante"
+      },
+      {
+        "item": "Haste Spore Grenade",
+        "current": "S",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "nerally speaking won t be the haste spore grenade well it has one of my favorite words in the name so uh let s see if it lives up to it the haste spore grenade"
+      },
+      {
+        "item": "Hearthlight Bomb",
+        "current": "D",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "to put it also in a tier the hearthlight bomb so the hearth light bomb basically casts dancing lights it s exactly the same as the cantrip so it duplicates"
+      },
+      {
+        "item": "Holy Water",
+        "current": "C",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "carrying it around so d tier holy water so a holy a flask of holy water can be thrown to deal 3d6 radiant damage in a 7 foot radius aoe so a fairly s"
+      },
+      {
+        "item": "Noxious Spore Grenade",
+        "current": "C",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "urse for this one as well the noxious spore grenade so this creates a cloud of noxious fumes with a 7 foot radius that deal 1 d4 poison damage per turn to creatu"
+      },
+      {
+        "item": "Oil Flask",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Sanguine Explosive",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Scrap and Shrapnel Grenade",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Sleeping Potion",
+        "current": "D",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "erous enemies s tier item the sleeping potion so i mentioned this one in my potions tier list as not actually being a potion really it s really a grenade b"
+      },
+      {
+        "item": "Smokepowder Bomb",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Spiked Bulb",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Void Bulb",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "o get a reasonable use out of void bulbs and i do recommend carrying them i m going to put them in a tier i don t think they quite crack s tier uh be"
+      },
+      {
+        "item": "Water",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "could do is throw a bottle of water s tier absolutely the web grenade so web grenade is creates a surface that is exactly the same as the level t"
+      },
+      {
+        "item": "Web Grenade",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "helmets",
+    "subject": "Helmets and headgear",
+    "sources": [
+      "047",
+      "048",
+      "049"
+    ],
+    "rows": [
+      {
+        "item": "Assassin of Bhaal Cowl",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Birthright",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Bonespike Helmet",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Browbeaten Circlet",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Cap of Curing",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Cap of Wrath",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "eally solid uh a tier for the cap of wrath you do have to plan around it but it s just a pretty powerful effect if you aren t building around it if you"
+      },
+      {
+        "item": "Circle of Bones",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Circlet of Blasting",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Circlet of Hunting",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Circlet of Mental Anguish",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Circlet of Psionic Revenge",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Coldbrim Hat",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Covert Cowl",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "so a tier and one reason the covert cowl is a tier is the dark justice ear helmet not to be confused with the dark justicier helm uh incidentally it d"
+      },
+      {
+        "item": "Dark Justiciar Helm",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Dark Justiciar Helmet",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Dark Justiciar Mask",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Devilfoil Mask",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Diadem of Arcane Synergy",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Fistbreaker Helm",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Flawed Helldusk Helmet",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Gibus of the Worshipful Servant",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Grymskull Helm",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Haste Helm",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "ions in combat s tier for the haste helm i would be surprised if there was a party that didn t want this when they picked it up the helmet of autonomy"
+      },
+      {
+        "item": "Hat",
+        "current": "D",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "y one of the best ways to do that s tier for the ciret of hunting the ciret of mental anguish this gives you whenever an enemy fails a mental s"
+      },
+      {
+        "item": "Hat of Fire Acuity",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "th a lot of builds and so the hat of fire acuity of course is s tier uh both for builds that are built around using it and also you can just randomly stick it"
+      },
+      {
+        "item": "Hat of Storm Scion's Power",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hat of Uninhibited Kushigo",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hat of the Sharp Caster",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "ssile builds specifically the hat of the sharp caster is b tier um but most other characters that are making spell attacks are not interested in this because they"
+      },
+      {
+        "item": "Helldusk Helmet",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Helm of Balduran",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Helmet",
+        "current": "C",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "it s better than a lot of the helmets in s tier it s just that overall if you re trying to do arcane acuity stacking the other two helmets are bet"
+      },
+      {
+        "item": "Helmet of Arcane Acuity",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Helmet of Autonomy",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Helmet of Grit",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "itive uh but i think that the helmet of grit because the effect is so powerful justifies the a tier that i m going to give it um because there are builds"
+      },
+      {
+        "item": "Helmet of Smiting",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Holy Lance Helm",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Hood of the Weave",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "nd for those spellcasters the hood of the weave is going to be best in slot so s tier pretty easy one cuz two plus two to save dcs and spell attacks is great"
+      },
+      {
+        "item": "Horns of the Berserker",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Jannath's Hat",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Key of the Ancients",
+        "current": "C",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "going to put it in s tier the key of the ancients uh this gives you plus one to your nature checks which is almost totally irrelevant nature might be the singl"
+      },
+      {
+        "item": "Leather Helmet",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "to wear this item d tier the leather helmet gives you plus one to your dexterity saving pros and requires light armor proficiency and while this is proba"
+      },
+      {
+        "item": "Marksmanship Hat",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Mask of Soul Perception",
+        "current": "S",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "e run so d tier for danat the mask of soul perception the mask of soul soul perception gives you detect thoughts once per short rest which is basically useless det"
+      },
+      {
+        "item": "Mask of the Shapeshifter",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Pyroquickness Hat",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Sarevok's Horned Helmet",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Scabby Pugilist Circlet",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Shadow of Menzoberranzan",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Shapeshifter Hat",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Steel Watcher Helmet",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "The Lifebringer",
+        "current": "C",
+        "detected": "B",
+        "status": "conflict",
+        "snippet": "bat and okay in combat b tier the lifebringer uh the lifebringer gives you three temporary hit points every time you gain lightning charges and then if you"
+      },
+      {
+        "item": "The Pointy Hat",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "o your party uh so c tier for the pointy hat although it is of course as it says glorious so summing up act three helmets wow um what a collection of item"
+      },
+      {
+        "item": "The Shadespell Circlet",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Wapira's Crown",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Warped Headband of Intellect",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Whispering Mask",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "light_armor",
+    "subject": "Light armor",
+    "sources": [
+      "037"
+    ],
+    "rows": [
+      {
+        "item": "+1 Leather Armour",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Padded Armour",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Studded Leather",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Leather Armour",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Padded Armour",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Studded Leather",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Armour of Landfall",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Armour of Moonbasking",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Armour of the Sporekeeper",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Bhaalist Armour",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Blazer of Benevolence",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Drow Studded Leather",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Elegant Studded Leather",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "e to some for that reason the elegant studded leather is an s tier armor just an excellent armor set it is always good um i think it is a rare party that isn t goi"
+      },
+      {
+        "item": "Padded Armour",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Penumbral Armour",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Scarlet Leather",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Shadeclinger Armour",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Spidersilk Armour",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Studded Leather",
+        "current": "A",
+        "detected": "B",
+        "status": "conflict",
+        "snippet": "so b tier armor the plus one studded leather so the plus one studded leather also has 13 base ac uh and one bludgeoning damage resistance and appears in m"
+      }
+    ]
+  },
+  {
+    "key": "medium_armor",
+    "subject": "Medium armor",
+    "sources": [
+      "038"
+    ],
+    "rows": [
+      {
+        "item": "(Rare) Dark Justiciar Half-Plate",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Breastplate",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Chain Shirt",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Half Plate",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Hide Armour",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Scale Mail",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Breastplate",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Chain Shirt",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Half Plate",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Hide",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Scale Mail",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Adamantine Scale Mail",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Armour of Agility",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Barkskin Armour",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Breastplate",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "m a breastplate a non magical breastplate available only in act 3 is a d tier item but it is a very funny joke and uh just for completion sake we re in"
+      },
+      {
+        "item": "Chain Shirt",
+        "current": "C",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "bility so d tier the plus two chain shirt this is another leveled version of the plus of the chain shirt and plus one chain shirt and in this case it g"
+      },
+      {
+        "item": "Damaged Scale Mail",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Dark Justiciar Half Plate",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Dark Justiciar Mail",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Elven Chain",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Flame Enamelled Armour",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Githyanki Half Plate",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Half Plate",
+        "current": "D",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "ng generous here the plus one half plate so this is 16 ac armor that provides you with one damage resistance to piercing damage which is the best type"
+      },
+      {
+        "item": "Hedge Wanderer Armour",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Luminous Armour",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Psionic Ward Armour",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Scale Mail",
+        "current": "A",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "n to ever pick up the damaged scale mail and it s going straight into d tier the chain shirt so first off i m going to try not to nitpick the accuracy"
+      },
+      {
+        "item": "Sharpened Snare Cuirass",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Slippery Chain Shirt",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "The Jolty Vest",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "The Oak Father's Embrace",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Unwanted Masterwork Scalemail",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Yuan-Ti Scale Mail",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "one_handed_weapons",
+    "subject": "One-handed weapons (rapiers, flails, morningstars, war picks)",
+    "sources": [
+      "066"
+    ],
+    "rows": [
+      {
+        "item": "+1 Flail",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Morningstar",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Rapier",
+        "current": "A",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "the harmonic dueler is a plus1 rapier that lets you once per short rest make a dc15 performance check which by act three any character that wants t"
+      },
+      {
+        "item": "+1 War Pick",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Flail",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Rapier",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Corrosive Flail",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Deep Delver",
+        "current": "C",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "uh d tier for this weapon the deep delver the deep delver is a war pick with no enhancement bonus so attacks just like a normal non magical war pick bu"
+      },
+      {
+        "item": "Defender Flail",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Duellist's Prerogative",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Flail",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "ason to ever buy the plus one flail uh so it s going to go into d tier but the plus one morning star is very interesting for the same reasons tha"
+      },
+      {
+        "item": "Flail of Ages",
+        "current": "A",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "r the dualist prerogative the flail of ages the flail of ages is a plus one flail that lets you once per long rest cast elemental age um to buff the weap"
+      },
+      {
+        "item": "Flail of the Vortex",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Harmonic Dueller",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hoppy",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Infernal Rapier",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "do battle dramatically so the infernal rapier of course is going to be s tier this weapon is incredible and is exactly what you re looking for for a a spel"
+      },
+      {
+        "item": "Morningstar",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Myrkulite Scourge",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Pelorsun Blade",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Rapier",
+        "current": "D",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "ravitate towards the plus one rapier and so is going to i m going to give that a tier cuz this will come up reasonably often and the plus one war"
+      },
+      {
+        "item": "Ravengard's Scourger",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Rupturing Blade",
+        "current": "B",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "to use this weapon d tier the rupturing blade the rupturing blade is a plus one rapier with a unique short rest weapon action once per short rest you can d"
+      },
+      {
+        "item": "Sword of Screams",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "The Sacred Star",
+        "current": "S",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "avengard scourger and finally the sacred star the sacred star is a plus two morning star which again morning stars they re great uh that deals an extra d4"
+      },
+      {
+        "item": "Twist of Fortune",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "War Pick",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "poisons_oils",
+    "subject": "Poisons, oils, and coatings",
+    "sources": [
+      "031"
+    ],
+    "rows": [
+      {
+        "item": "Arsonist's Oil",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Basic Poison",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "be worth remembering that the basic poison exists and using it in the early game i m going to place it in c tier because of the extremely low save dc an"
+      },
+      {
+        "item": "Crawler Mucus",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Diluted Oil of Sharpness",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "ady said it s better than the diluted oil of sharpness which is in s tier so it s probably no surprise that the oil of accuracy is also s tier um when in doubt the"
+      },
+      {
+        "item": "Drow Poison",
+        "current": "A",
+        "detected": "B",
+        "status": "conflict",
+        "snippet": "ns uh or than like crawler or drow poison which both have much more debilitating conditions attached so i m going to put it in b tier because i think i"
+      },
+      {
+        "item": "Karabasan's Poison",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Malice",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Oil of Accuracy",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "probably no surprise that the oil of accuracy is also s tier um when in doubt the oil of accuracy is a little bit better but both of these oils are incredi"
+      },
+      {
+        "item": "Oil of Bane",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Oil of Combustion",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "ery attack that you re making oil of combustion s tier the oil of freezing so the oil of freezing is another oil you apply it to your weapon and then for 10"
+      },
+      {
+        "item": "Oil of Diminution",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "u some damage but overall the oil of diminution is just better off sold most of the time d tier the wizard bane oil so another oil has to be applied directly"
+      },
+      {
+        "item": "Oil of Freezing",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "mage in an attack anyways the oil of freezing is going to go in b tier but for a build that is centered around doing enough damage instances to make it tri"
+      },
+      {
+        "item": "Purple Worm Toxin",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "f selling them d tier for the purple worm toxin and as always when i do something like this if you re looking to amuse yourself you can feel free to scroll d"
+      },
+      {
+        "item": "Serpent Fang Toxin",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "me for a very marginal effect serpent fang toxin also d tier next the wyvern toxin so the wyvern toxin is the same as the previous two toxins but in this case"
+      },
+      {
+        "item": "Simple Toxin",
+        "current": "D",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "it sometimes c tier next the simple toxin so i ve grouped all four of the toxins here together because they all work in exactly the same way you can ap"
+      },
+      {
+        "item": "Thisobald's Brewed-Up Bellyglummer",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Wizardsbane Oil",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Wyvern Toxin",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "polearms",
+    "subject": "Polearms (spears, pikes, glaives, halberds)",
+    "sources": [
+      "064"
+    ],
+    "rows": [
+      {
+        "item": "+1 Glaive",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Halberd",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Pike",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Spear",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Spear",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Breaching Pikestaff",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Drakethroat Glaive",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Glaive",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "rd is slightly worse than the glaive which i already gave d tier so is also going to go into d tier pikes share a very similar stat line with 1 d1"
+      },
+      {
+        "item": "Halberd",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Halberd of Vigilance",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Harmonium Halberd",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hellbeard Halberd",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Infernal Spear",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "poison so d tier for the inf infernal spear the magical pike is just a normal plus one pike that for some reason has a different name um so obviously an"
+      },
+      {
+        "item": "Jagged Spear",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Light of Creation",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Lightning Jabber",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "mentioned bugs either way the lightning jabber gets s tier because in honor mode eldrich knights want to use this over the other available options in the ea"
+      },
+      {
+        "item": "Magical Pike",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Merregon Halberd",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Monster Slayer Glaive",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "ters so i m going to give the monster slayer glaive a tier plus 1 d4 bonus to attack and damage in some pretty dangerous early game encounters is a huge bonus an"
+      },
+      {
+        "item": "Moonlight Glaive",
+        "current": "B",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "see that much play c tier the moonlight glaive the moonlight glaive is a plus two glaive that deals an extra d4 of radiant damage on every attack um and als"
+      },
+      {
+        "item": "Pike",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "m going to go ahead and give pikes c tier because while of course you ll swap as soon as you get good magical weapons a pike is one of the best"
+      },
+      {
+        "item": "Returning Pike",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Selune's Spear of Night",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Shar's Spear of Evening",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "rategies s tier of course for shar s spear of evening the spear of knight is a story weapon it s a plus one spear with no other magical effect so it s at this poin"
+      },
+      {
+        "item": "Sorrow",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Spear",
+        "current": "C",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "f course they go in s tier sh spear of evening is on the short list for the absolute best weapon in the entire game as is the drake throat glaive"
+      },
+      {
+        "item": "Spear of Night",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "The Dancing Breeze",
+        "current": "A",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "nd finally the last full arms the dancing breeze the dancing breeze is a plus two glaive that once per short rest lets you use whirlwind attack to attack ever"
+      },
+      {
+        "item": "The Skinburster",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "The Watcher's Guide",
+        "current": "B",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "for the skin burster next up the watcher s guide uh the watchers guide is depending on your route through the game quite possibly the first magical weapon tha"
+      },
+      {
+        "item": "Unseen Menace",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Vision of the Absolute",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "potions",
+    "subject": "Potions",
+    "sources": [
+      "028"
+    ],
+    "rows": [
+      {
+        "item": "Angelic Reprieve",
+        "current": "A",
+        "detected": "F",
+        "status": "conflict",
+        "snippet": "ing like that so it s like an angelic reprieve potion but without the positive effect obviously another one to avoid f tier for the essence of ether as well"
+      },
+      {
+        "item": "Angelic Slumber",
+        "current": "S",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "ut it in a tier the potion of angelic slumber so this is similar to the angelic reprieve potion puts you to sleep for two turns and if you stay asleep for"
+      },
+      {
+        "item": "Animal Speaking",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Antidote",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "els right to me the potion of antidote so an antidote can be used to remove uh poison and it removes both the poisoned condition and any other condi"
+      },
+      {
+        "item": "Basilisk Oil",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "t really need to worry about basilisk oil in boulder s gate the potion of feather fall so this gives you 10 turns worth of feather and prevents falling"
+      },
+      {
+        "item": "Dream Mist",
+        "current": "F",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Essence of Ether",
+        "current": "F",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Feather Fall",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Flying",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "l potion s tier the potion of flying so the potion of flying is exactly the same as the level three spell of the same name it gives you flight for"
+      },
+      {
+        "item": "Gaseous Form",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "hose are great a tier for the gaseous form potion the potion of glorious vaulting so this is exactly the same as the enhanced leap spell it gives you tr"
+      },
+      {
+        "item": "Glorious Vaulting",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Greater Healing",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "s why it s going in a tier so greater healing potion a tier potion the potion of superior healing so this one gives you 8 d4 plus 8 so is double the greate"
+      },
+      {
+        "item": "Healing",
+        "current": "S",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "s going in a tier so greater healing potion a tier potion the potion of superior healing so this one gives you 8 d4 plus 8 so is double the greate"
+      },
+      {
+        "item": "Invisibility",
+        "current": "A",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "potion for sure the potion of invisibility so this works again exactly the same as the spell of the same name which is a level two spell that requires c"
+      },
+      {
+        "item": "Mind Reading",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Remedial",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "that was very distracting but remedial potions they re pretty good a tier the potion of angelic reprieve so this it gives you this puts your charact"
+      },
+      {
+        "item": "Silkroot",
+        "current": "F",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Speed",
+        "current": "S+",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "the turn that you lost so the speed potion is always going to be an incredible bargain and of course goes into s tier i don t think there s anybo"
+      },
+      {
+        "item": "Superior Healing",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Supreme Healing",
+        "current": "S+",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Terazul",
+        "current": "S+",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Universal Resistance",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "are invaluable s tier for the universal resistance elixir all right my friends i hope that you ve enjoyed this potions tier list this was a really interesting o"
+      },
+      {
+        "item": "Vitality",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "ut it in b tier the potion of vitality so the potion of vitality is an upgraded potion of antidote basically it is the same as antidote in that it c"
+      }
+    ]
+  },
+  {
+    "key": "ranged_weapons",
+    "subject": "Bows and crossbows",
+    "sources": [
+      "059"
+    ],
+    "rows": [
+      {
+        "item": "+1 Hand Crossbow",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Heavy Crossbow",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Light Crossbow",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Longbow",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Shortbow",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Hand Crossbow",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Longbow",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Blightbringer",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Bow of Awareness",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "don t get to go second so the bow of awareness is of course s tier the bow of the banshee the bow of the banshee is a plus one short bow so it s a d6 damage"
+      },
+      {
+        "item": "Bow of the Banshee",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Crossbow of Arcane Force",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "o i just don t think that the crossbow of arcane force really has a place that being said i going to give it c tier because it s an okay damage option so if you re"
+      },
+      {
+        "item": "Darkfire Shortbow",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Fabricated Arbalest",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "e this c tier even though the fabricated arbalest in and of itself isn t a particularly interesting weapon um but if you are trying to maximally stack radiatin"
+      },
+      {
+        "item": "Firestoker",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Gandrel's Aspiration",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Giantbreaker",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Gontr Mael",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hand Crossbow",
+        "current": "B",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "hand regardless the plus two hand crossbow is going to be a tier uh because it s very very good in a specific uh setup but for a character that s not us"
+      },
+      {
+        "item": "Harold",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Heavy Crossbow",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "me they show up so d tier for heavy crossbows hand crossbows so hand crossbows are a little weird they don t always compete with the other items in this l"
+      },
+      {
+        "item": "Hellfire Engine Crossbow",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Hellfire Hand Crossbow",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Hellrider Longbow",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hunting Shortbow",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Least Expected",
+        "current": "A",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "the weapon type so s tier the least expected the least expected is a plus two short bow with a plus one d4 bonus to hit if you re obscured in shadow so if"
+      },
+      {
+        "item": "Light Crossbow",
+        "current": "B",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "t bow proficiency mostly have light crossbow proficiency there s basically no reason to ever use a short bow d tier the long bow the long bow has the hams"
+      },
+      {
+        "item": "Longbow",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "early game you might equip a longbow c tier for the non magical longbow because you will obviously replace it as soon as possible but there might"
+      },
+      {
+        "item": "Ne'er Misser",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Shortbow",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Spellthief",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "The Dead Shot",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "The Joltshooter",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "The Long Arm of the Gur",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Titanstring Bow",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Vicious Shortbow",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "rings",
+    "subject": "Rings",
+    "sources": [
+      "053",
+      "054",
+      "055"
+    ],
+    "rows": [
+      {
+        "item": "After Death Do Us Part",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Band of the Mystic Scoundrel",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Bracing Band",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "n to eldridge blast at all so bracing band i m going to say is a tier it s very good for a lot of characters there are often uh better options just beca"
+      },
+      {
+        "item": "Burnished Ring",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Callous Glow Ring",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Caustic Band",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Coruscation Ring",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Crusher's Ring",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "party that is going to leave crusher s ring on the table uh just because the effect is so universally applicable s tier for crushers ring move speed is g"
+      },
+      {
+        "item": "Crypt Lord Ring",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Djinni Ring",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Eversight Ring",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "d around darkness uh then the eversight ring is mandatory so this is a slightly odd a tier because it really depends on your party composition and for the"
+      },
+      {
+        "item": "Explorer's Ring",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Family Ring",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Fetish of Callarduran Smoothhands",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Firzu's Ring of Trading",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Guiding Light",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "e useful so i m going to give guiding light b tier and i would move chira s amulet down to b tier as well uh for the similar reasons because you can get"
+      },
+      {
+        "item": "Guild Ring",
+        "current": "D",
+        "detected": "B",
+        "status": "conflict",
+        "snippet": "very lowest end of b tier the guild ring the guild ring is a quest item with no mechanical effect it first shows up as an orange item but then when yo"
+      },
+      {
+        "item": "Keepsake Ring",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "ful overall so d tier for the keepsake ring the oric ring the oric ring gives you a cast of confusion once per long rest the confusion is a level four sp"
+      },
+      {
+        "item": "Killer's Sweetheart",
+        "current": "A",
+        "detected": "B",
+        "status": "conflict",
+        "snippet": "still a very minor bonus the killer s sweetheart uh you may notice that some of the items jumped around here i realized i had an alphabetized the tier lft pro"
+      },
+      {
+        "item": "Mage's Friend",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Mattis's Rings",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Orphic Ring",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Poisoner's Ring",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring",
+        "current": "D",
+        "detected": "C",
+        "status": "conflict",
+        "snippet": "our survival up the explorers ring i think is c tier because it does technically have some uses but those uses are extremely minor and you can m"
+      },
+      {
+        "item": "Ring of Absolute Force",
+        "current": "A",
+        "detected": "B",
+        "status": "conflict",
+        "snippet": "are actually quite useful the ring of absolute force the ring of absolute force lets you cast thunder wave once per short rest um which is a decent spell to have"
+      },
+      {
+        "item": "Ring of Arcane Synergy",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Blink",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Colour Spray",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Elemental Infusion",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "g at so i m going to give the ring of elemental infusion c tier i think if you build a character around using this ring you can get some value out of it i just don t"
+      },
+      {
+        "item": "Ring of Evasion",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "playing honor mode um but the ring of evasion lets you patch that weakness if that s a weakness that your characters have uh s tier because it s an incredi"
+      },
+      {
+        "item": "Ring of Exalted Marrow",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Feywild Sparks",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Flinging",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Free Action",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Geniality",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Jumping",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "hat you re duplicating so the ring of jumping is rarely going to show up for most parties um i m going to put it in c tier because uh duplicating a ritual"
+      },
+      {
+        "item": "Ring of Mental Inhibition",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Mind Shielding",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Poison Resistance",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "a little bit generous for the ring of poison resistance just cuz resistances are kind of good in principle the ring of protection the ring of protection gives you pl"
+      },
+      {
+        "item": "Ring of Protection",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Regeneration",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "se builds it s incredible the ring of regeneration is s tier it s going to go in any build that s using the whispering promise and the reviving hands which a lo"
+      },
+      {
+        "item": "Ring of Salving",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "ill so we re going to put the ring of salving in a tier but this is a very uh high tier pick if you are a character that is dedicated to healing like a lif"
+      },
+      {
+        "item": "Ring of Self Immolation",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Shadows",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Spiteful Thunder",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "pretty good um so overall the ring of spiteful thunder is is an a tier item it s just very solid for reverberation builds that are based on thunder damage the effec"
+      },
+      {
+        "item": "Ring of Truthfulness",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring of Twilight",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Risky Ring",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "lf advantage on saves but the risky ring is too good to leave at home s tier the shadow blade ring the shadow blade ring lets you as a bonus action su"
+      },
+      {
+        "item": "Seemingly Gleaming Ring",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Shadow Blade Ring",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "m going to say b tier for the shadow blade ring if you build around psychic damage vulnerability specifically it can be pretty good um but for most character"
+      },
+      {
+        "item": "Shadow Cloaked Ring",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Shapeshifter's Boon Ring",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Shifting Corpus Ring",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "cast of invisibility and the shifting corpus ring is there for you b tier as with a lot of the items that save you spell slots this will be useful if you hang"
+      },
+      {
+        "item": "Smuggler's Ring",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Snowburst Ring",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Spurred Band",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Strange Conduit Ring",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "atically uh when you have the strange conduit ring active s tier of course and i think this is one of the items that s going to see some of the most play in the"
+      },
+      {
+        "item": "Tarnished Ring",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "The Sparkswall",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "The Whispering Promise",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Till Death Do Us Part",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "True Love's Caress",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "True Love's Embrace",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "shields",
+    "subject": "Shields",
+    "sources": [
+      "041"
+    ],
+    "rows": [
+      {
+        "item": "+1 Shield",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Abdel's Trusted Shield",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Absolute's Protector",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Absolute's Warboard",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Adamantine Shield",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Broken Shield",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Gloomstrand Shield",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Glowing Shield",
+        "current": "B",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "oing straight into s tier the glowing shield so the glowing shield gives you the normal two armor class and once per short rest if you take damage while y"
+      },
+      {
+        "item": "Ironvine Shield",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Justiciar's Greatshield",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Ketheric's Shield",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Safeguard Shield",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Sentinel Shield",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Shield",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "party if you could s tier the shield of devotion so this gives you again the normal two armor class and one additional level one spell slot the ad"
+      },
+      {
+        "item": "Shield of Devotion",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Shield of Scorching Reprisal",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Shield of Shielding",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "microing then you can use the shield of shielding for that uh for that reason i m going to put it in c tier uh but in general you can safely ignore this one sw"
+      },
+      {
+        "item": "Shield of the Undevout",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Swires' Sledboard",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "The Real Sparky Sparkswall",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Viconia's Walking Fortress",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Watcher's Shield",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Wood Woad Shield",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "simple_weapons",
+    "subject": "Simple weapons (clubs, maces, sickles, javelins, handaxes, light hammers, torches)",
+    "sources": [
+      "063"
+    ],
+    "rows": [
+      {
+        "item": "+1 Club",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Handaxe",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Javelin",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Light Hammer",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Mace",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Mace",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Adamantine Mace",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "have a use so c tier for the adamantine mace the ceremonial mace is a normal plus one mace that s used in a story event um by the time you get access to t"
+      },
+      {
+        "item": "Ceremonial Mace",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Club",
+        "current": "D",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "really good value out of the club that i m going to give it a tier the dragon s grasp the dragon s g grasp is a magical handaxe with no enhance"
+      },
+      {
+        "item": "Club of Hill Giant Strength",
+        "current": "A",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "d in story events next up the club of hill giant strength the club of hill giant strength is a normal light club with no enhancement bonus so no bonus to hit or damage"
+      },
+      {
+        "item": "Comeback Handaxe",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Deva Mace",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Devotee's Mace",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Dragon's Grasp",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Handaxe",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Handmaiden's Mace",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Infernal Mace",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ironwood Club",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Javelin",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "url it enemies b tier for the javelin as well the light hammer has all exactly the same weapon properties as clubs with the concussive smash weapon"
+      },
+      {
+        "item": "Light Hammer",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "nds of weapons d tier for the light hammer the mace does a d6 of damage and has concussive smash just like the club and light hammer so when wielded in"
+      },
+      {
+        "item": "Loviatar's Scourge",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Mace",
+        "current": "C",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "fects just being a plus three mace would be enough to put it in s tier but it also passively blinds undead and and fiends making it incredibly u"
+      },
+      {
+        "item": "Moonlantern",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Redcap Sickle",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Ritual Axe",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "you can really work with the ritual axe in the early game to win boss fights by debuffing them stacks really well with radiating orb as well for even"
+      },
+      {
+        "item": "Salami",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "hink so i m going to give the salami c tier because it s used in one niche uh kind of goofy build um and then obviously a bunch of like goofy yout"
+      },
+      {
+        "item": "Shadow Lantern",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Shattered Flail",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "and of itself s tier for the shattered flail although of course you do need to be take care to mitigate the risks that come with using this item the shini"
+      },
+      {
+        "item": "Shining Staver-of-Skulls",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Sickle",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "can guess that unsurprisingly sickles are also d tier the plus one versions of these weapons are available for merchants right from the beginning"
+      },
+      {
+        "item": "Sickle of Boooal",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Skybreaker",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Sussur Sickle",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "The Blood of Lathander",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Torch",
+        "current": "B",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "it definitely is next up the torch uh the torch the humble non magical torch that every character starts with is actually a surprisingly good we"
+      },
+      {
+        "item": "Torch of Revocation",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Wavemother's Sickle",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Wulbren's Hammer",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Xyanyde",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "skills",
+    "subject": "D&D 5e skills",
+    "sources": [
+      "001"
+    ],
+    "rows": [
+      {
+        "item": "Acrobatics",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "as well as video games so for acrobatics i m going to place it in b tier it is very useful when it comes up but significantly less useful than its cou"
+      },
+      {
+        "item": "Animal Handling",
+        "current": "F",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Arcana",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Athletics",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Deception",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "History",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Insight",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Intimidation",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Investigation",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Medicine",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "ation wizard i m going to say medicine is an a tier skill without a transmutation wizard it would fall somewhere in c tier um being useful primarily"
+      },
+      {
+        "item": "Nature",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Perception",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Performance",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Persuasion",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Religion",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Sleight of Hand",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Stealth",
+        "current": "S+",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "course that i m going to play stealth in the s tier because it by itself can win you the game stealth allows you to make attacks and then not be de"
+      },
+      {
+        "item": "Survival",
+        "current": "F",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "staves",
+    "subject": "Staves and quarterstaves",
+    "sources": [
+      "062"
+    ],
+    "rows": [
+      {
+        "item": "+1 Quarterstaff",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Quarterstaff",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Bigby's Chew Toy",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Cacophony",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Caitiff Staff",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Corellon's Grace",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Creation's Echo",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Despair of Athkatla",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Gold Wyrmling Staff",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Harper Sacredstriker",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hollow's Staff",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Incandescent Staff",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Markoheshkir",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Melf's First Staff",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Mourning Frost",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Nature's Snare",
+        "current": "C",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "rse for the morning frost the nature s snare the nature s snare is a magical quarter staff with no enhancement bonus that whenever an enemy is hit with it"
+      },
+      {
+        "item": "Pale Oak",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "ngle effects based around the pale oak so i ll give it a generous c tier for that sort of very narrow use case rain dancer rain dancer has no enhanc"
+      },
+      {
+        "item": "Quarterstaff",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Rain Dancer",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "s at your camp d tier for the rain dancer the staff of arcane blessing the staff of arcane blessing has no enhancement bonus un let you cast bless once"
+      },
+      {
+        "item": "Staff of Arcane Blessing",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Staff of Cherished Necromancy",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Staff of Crones",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Staff of Interruption",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "ame from affecting you so the staff of interruption just makes a great safety option to have in any party for that reason it s going into a tier it s not going t"
+      },
+      {
+        "item": "Staff of Spellpower",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Staff of a Mumbling Wizard",
+        "current": "D",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "ion to place it in s tier the staff of a mumbling wizard uh this is one of the joke items that you get from the it lets you cast firebolt question mark at will uh whi"
+      },
+      {
+        "item": "Staff of the Emperor",
+        "current": "A",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "of course is also s tier the staff of the emperor the staff of the emperor is a plus two staff that i think probably most players haven t seen cuz you have to"
+      },
+      {
+        "item": "Staff of the Ram",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "The Spellsparkler",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Woe",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "two_handed_weapons",
+    "subject": "Two-handed weapons (greatswords, greataxes, mauls, greatclubs)",
+    "sources": [
+      "065"
+    ],
+    "rows": [
+      {
+        "item": "+1 Greataxe",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Greatclub",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Greatsword",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Maul",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Greataxe",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Argument Solver",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Balduran's Giantslayer",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Blooded Greataxe",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Corpsegrinder",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Defender Greataxe",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Doom Hammer",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Everburn Blade",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Exterminator's Axe",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Foebreaker",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Githyanki Greatsword",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Greataxe",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Greatclub",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Greatsword",
+        "current": "C",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "y default cuz it s a plus one greatsword with uh the ability to deal half damage even on a miss if you happen to need that so you can finish off low h"
+      },
+      {
+        "item": "Hamarhraft",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hellfire Greataxe",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Jorgoral's Greatsword",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Maul",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Punch-Drunk Bastard",
+        "current": "A",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "defender grade a next up the punch drunk bastard the punch drunk bastard is a plus one great club though weirdly enough it gives you completely different weap"
+      },
+      {
+        "item": "Rat Bat",
+        "current": "C",
+        "detected": "A",
+        "status": "conflict",
+        "snippet": "ct two weapons the ratbat the rat bat is a plus one great club uh though unlike other great clubs it only comes with concussive smash it doesn t ha"
+      },
+      {
+        "item": "Sethan",
+        "current": "C",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "is going into s tier next up sethan or seean uh sethan i don t know uh according to the wiki this is a jojo reference but i haven t seen it so um"
+      },
+      {
+        "item": "Silver Sword of the Astral Plane",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Soulbreaker Greatsword",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Sussur Greatsword",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Svartlebee's Woundseeker",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Sword of Chaos",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "tier because i think that the sword of chaos is overall a quite interesting weapon that enables unique strategies and also just isn t bad as a pretty soli"
+      },
+      {
+        "item": "Sword of Justice",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "The Undead Bane",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Very Heavy Greataxe",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "versatile_weapons",
+    "subject": "Versatile weapons (longswords, warhammers, battleaxes, tridents, katanas)",
+    "sources": [
+      "067",
+      "068"
+    ],
+    "rows": [
+      {
+        "item": "+1 Battleaxe",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Longsword",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Trident",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Warhammer",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Longsword",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Adamantine Longsword",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Azer Warhammer",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "t exploding so a tier for the azer warhammer the blade of oppressed souls the blade of oppressed souls is a plus one long sword available quite late in ac"
+      },
+      {
+        "item": "Battleaxe",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Blackguard's Sword",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Blade of Oppressed Souls",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ceremonial Battleaxe",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Ceremonial Longsword",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Ceremonial Warhammer",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Charge-Bound Warhammer",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "e just so high s tier for the charge bound warhammer the cruel sting the cruel sting is a plus one long sword that lets you cast the spell in snaring strands once"
+      },
+      {
+        "item": "Clown Hammer",
+        "current": "A",
+        "detected": "B",
+        "status": "conflict",
+        "snippet": "to give it b tier next up the clown hammer the clown hammer is a weapon that seems like a joke but really isn t um this is a plus two warhammer that whe"
+      },
+      {
+        "item": "Cruel Sting",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "m not that impressed with the cruel sting i mean give it c tier because i think there are some cool things that you can do with it uh but for the most"
+      },
+      {
+        "item": "Duke Ravengard's Longsword",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Dwarven Thrower",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "r as fast as possible and the dwarven thrower is by far the best way to do that s tier for the dwarven thrower the hammer of the just the hammer of the jus"
+      },
+      {
+        "item": "Faithbreaker",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Githyanki Longsword",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Hammer of the Just",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "of enemies as well um so the hammer of the just is just a a pretty solid weapon a tier the katana um this is just a plus one long sword that s been reskinned"
+      },
+      {
+        "item": "Intransigent Warhammer",
+        "current": "A",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "u never need these d tier the intransigent warhammer so confession time somehow i had never picked up this weapon until i started this tier list and decided to te"
+      },
+      {
+        "item": "Katana",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ketheric's Warhammer",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Larethian's Wrath",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Longsword",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Nyrulna",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Orphic Hammer",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Phalar Aluve",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Sword of the Emperor",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "for so i m going to give the sword of the emperor b tier if you have a character that really needs to pass saves against spells this can be a great weapon for"
+      },
+      {
+        "item": "The Sparky Points",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "ul staff um i m going to give the sparky points c tier because while i think it is like a little better than a plus one trident it s not that much better tha"
+      },
+      {
+        "item": "Thermodynamo Axe",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Trident",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "m going to give it c tier the trident so quick historical aside about trident this might seem like a goofy or madeup weapon but these actually were"
+      },
+      {
+        "item": "Trident of the Depths",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "with highl strike because the trident of the depths uh is so good for characters without extra attack s tier the trident of the waves the trident of the waves is"
+      },
+      {
+        "item": "Trident of the Waves",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Vicious Battleaxe",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Voss's Silver Sword",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Voss's Silver Sword (Act 3)",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Warhammer",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "m going to bump the plus one warhammer up to c tier it s the best of these three versatile weapons and while it is true that two handed weapons will"
+      },
+      {
+        "item": "Witchbreaker",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      }
+    ]
+  },
+  {
+    "key": "amulets",
+    "subject": "Amulets",
+    "sources": [
+      "050",
+      "051",
+      "052"
+    ],
+    "rows": [
+      {
+        "item": "Aberration Hunters' Amulet",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "t it s good in b tier for the aberration hunters amulet cuz obviously you won t use it when you re not fighting aberration but if you are then it s very good the abs"
+      },
+      {
+        "item": "Absolute Confidence Amulet",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Absolute's Talisman",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Amulet (non-magical)",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Amulet of Bhaal",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Amulet of Branding",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "ood advantage of this but the amulet of branding is very solid for burning down dangerous enemies quickly um it s going to go in b tier but this is another on"
+      },
+      {
+        "item": "Amulet of Elemental Torment",
+        "current": "B",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Amulet of Greater Health",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Amulet of Misty Step",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Amulet of Restoration",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Amulet of Selûne's Chosen",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Amulet of Silvanus",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Amulet of Windrider",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Amulet of the Devout",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "to put it on so uh s tier the amulet of the devout so the amulet of the devout is one reason why you might not want the amulet of greater health on a spellcaste"
+      },
+      {
+        "item": "Amulet of the Drunkard",
+        "current": "B",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "y offensive caster s tier the amulet of the drunkard the amulet of the drunker gives you when you re drunk you regenerate two d4 hit points per round uh and you i"
+      },
+      {
+        "item": "Amulet of the Harpers",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "nd it s going into s tier the amulet of the harpers uh more bangers in act two the amulet of the harpers gives you advantage on wisdom saving throws and shield o"
+      },
+      {
+        "item": "Amulet of the Unworthy",
+        "current": "B",
+        "detected": "B",
+        "status": "match",
+        "snippet": "owerful effect b tier for the amulet of the unworthy again comes in in certain encounters the beast master chain the beast master chain gives you animal friendshi"
+      },
+      {
+        "item": "Beastmaster's Chain",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Broodmother's Revenge",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Champion's Chain",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Chancer's Carcanet",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Corvid Token",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Dog Collar",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Envoy's Amulet",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Fey Semblance Amulet",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Fireheart",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Frost Prince",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "heart the frost prins uh the frost prince gives you ice knife once per long rest the level one spell ice knife um ice knife isn t a bad spell especiall"
+      },
+      {
+        "item": "Hammergrim Mist Amulet",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Khalid's Gift",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Kill Collar",
+        "current": "D",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "that it goes into s tier the kill collar uh this is here really only for completionism sake this is an amulet that you can put on and it gives a speci"
+      },
+      {
+        "item": "Komira's Locket",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Moondrop Pendant",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Necklace of Elemental Augmentation",
+        "current": "A",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Pearl of Power Amulet",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Periapt of Wound Closure",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Psychic Spark",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "it of uh of safety margin the psychic spark is an s tier amulet that you should equip somewhere in all of your parties uh just cuz it s so valuable to ha"
+      },
+      {
+        "item": "Sentient Amulet (Rare)",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Sentient Amulet (Very Rare)",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Shar's Temptation",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Silver Pendant",
+        "current": "S",
+        "detected": "S",
+        "status": "match",
+        "snippet": "that needs a second copy the silver pendant is s tier um one of the the most important items in the game and one that you should definitely rush to acqui"
+      },
+      {
+        "item": "Spell Savant Amulet",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Spellcrux Amulet",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Spineshudder Amulet",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Strange Tendril Amulet",
+        "current": "A",
+        "detected": "S",
+        "status": "conflict",
+        "snippet": "item is busted uh s tier the strange tendril amulet this is another amulet with a bound spell it lets you cast evard s black tentacles uh once per long rest that"
+      },
+      {
+        "item": "Surgeon's Subjugation Amulet",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Tarnished Charm",
+        "current": "D",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "The Amulet of Lost Voices",
+        "current": "A",
+        "detected": "D",
+        "status": "conflict",
+        "snippet": "tem in the entire game d tier the amulet of lost voices the amulet of lost voices allows you to cast speak with dead once per long rest um which is a third level spe"
+      },
+      {
+        "item": "The Blast Pendant",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "haracters will be able to use the blast pendant anyways so i m going to put it in c tier because the play pattern with this item is just too awkward to actua"
+      },
+      {
+        "item": "The Ever-Seeing Eye",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "The Spectator Eyes",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Tressym Collar",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Uncovered Mysteries",
+        "current": "C",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Unflinching Protector Amulet",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "y last amulet in the game the unflinching protector amulet the unflinching protector amulet allows you to once per short rest when one of your allies is targeted by an"
+      }
+    ]
+  },
+  {
+    "key": "heavy_armor",
+    "subject": "Heavy armor",
+    "sources": [
+      "039"
+    ],
+    "rows": [
+      {
+        "item": "+1 Chain Mail",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Plate Armour",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Ring Mail",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+1 Splint Armour",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Chain Mail",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Plate Armour",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Ring Mail",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "+2 Splint Armour",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Adamantine Splint Armour",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Armour of Devotion",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Armour of Persistence",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Blackguard's Plate",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Cerebral Citadel Armour",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Chain Mail",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "y i just like that all of the chain mails are going in c tier so i m going to put it in c tier just for for the symmetry um but this is just not one t"
+      },
+      {
+        "item": "Dwarven Splintmail",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Emblazoned Plate of the Marshal",
+        "current": "A",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Flawed Helldusk Armour",
+        "current": "C",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Helldusk Armour",
+        "current": "S",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Plate Armour",
+        "current": "B",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      },
+      {
+        "item": "Protective Plate",
+        "current": "C",
+        "detected": "C",
+        "status": "match",
+        "snippet": "rmor in most playthroughs the protective plate so this is kind of a weird one the protective plate has some just sort of oddness around it that make me thin"
+      },
+      {
+        "item": "Reaper's Embrace",
+        "current": "S",
+        "detected": null,
+        "status": "no_tier_found",
+        "snippet": null
+      },
+      {
+        "item": "Ring Mail",
+        "current": "D",
+        "detected": "D",
+        "status": "match",
+        "snippet": "re you d ever want to use the ring mail because you start the game with armor that s just strictly superior than it so d tier chain mail okay so quic"
+      },
+      {
+        "item": "Rippling Force Mail",
+        "current": "A",
+        "detected": "A",
+        "status": "match",
+        "snippet": "then you can make use of the rippling force mail i m going to put it in a tier because you do have to build around it but it is one of those items where if yo"
+      },
+      {
+        "item": "Splint Armour",
+        "current": "D",
+        "detected": null,
+        "status": "not_mentioned",
+        "snippet": null
+      }
+    ]
+  }
+]
