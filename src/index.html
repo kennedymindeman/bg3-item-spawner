@@ -1,0 +1,1433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BG3 Script Extender Console</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-deep: #0e0a07;
+    --bg-panel: #1a130d;
+    --bg-panel-2: #221811;
+    --border: #3d2a18;
+    --border-bright: #5c3f24;
+    --gold: #d4a548;
+    --gold-bright: #f0c060;
+    --ember: #c45a2c;
+    --ink: #e8d9b8;
+    --ink-dim: #a89070;
+    --ink-faint: #6b5a40;
+    --parchment: #f0e3c4;
+    --shadow: rgba(0,0,0,0.6);
+
+    /* Tier badge colors */
+    --tier-splus: #e63946;   --tier-splus-bg: rgba(230, 57, 70, 0.15);
+    --tier-s:     #ffb627;   --tier-s-bg:     rgba(255, 182, 39, 0.15);
+    --tier-a:     #6abf69;   --tier-a-bg:     rgba(106, 191, 105, 0.13);
+    --tier-b:     #5a9bd4;   --tier-b-bg:     rgba(90, 155, 212, 0.13);
+    --tier-c:     #a89070;   --tier-c-bg:     rgba(168, 144, 112, 0.12);
+    --tier-d:     #6b5a40;   --tier-d-bg:     rgba(107, 90, 64, 0.12);
+    --tier-f:     #555;      --tier-f-bg:     rgba(85, 85, 85, 0.18);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    background: var(--bg-deep);
+    color: var(--ink);
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 17px;
+    line-height: 1.55;
+    min-height: 100vh;
+  }
+  body {
+    background-image:
+      radial-gradient(ellipse at 20% 0%, rgba(196, 90, 44, 0.08), transparent 50%),
+      radial-gradient(ellipse at 80% 100%, rgba(212, 165, 72, 0.05), transparent 50%);
+    padding: 40px 24px 80px;
+  }
+  .frame { max-width: 1100px; margin: 0 auto; }
+
+  header {
+    text-align: center;
+    margin-bottom: 36px;
+    padding-bottom: 28px;
+    border-bottom: 1px solid var(--border);
+    position: relative;
+  }
+  header::after {
+    content: '';
+    position: absolute;
+    bottom: -1px; left: 50%; transform: translateX(-50%);
+    width: 80px; height: 1px;
+    background: var(--gold);
+    box-shadow: 0 0 12px var(--gold);
+  }
+  h1 {
+    font-family: 'Cinzel', serif;
+    font-weight: 600;
+    font-size: 2.4rem;
+    letter-spacing: 0.18em;
+    color: var(--gold);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    text-shadow: 0 0 20px rgba(212, 165, 72, 0.2);
+  }
+  h1 .ornament { color: var(--ember); font-size: 0.7em; margin: 0 0.5em; vertical-align: middle; }
+  .subtitle { font-style: italic; color: var(--ink-dim); font-size: 1.05rem; letter-spacing: 0.04em; }
+
+  .tabs {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 32px;
+    flex-wrap: wrap;
+  }
+  .tab {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--ink-dim);
+    padding: 10px 24px;
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .tab:hover { border-color: var(--border-bright); color: var(--ink); }
+  .tab.active { background: var(--bg-panel); border-color: var(--gold); color: var(--gold); }
+
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  .search-input {
+    width: 100%;
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    padding: 14px 18px;
+    font-family: 'EB Garamond', serif;
+    font-size: 1.1rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .search-input::placeholder { color: var(--ink-faint); font-style: italic; }
+  .search-input:focus {
+    outline: none;
+    border-color: var(--gold);
+    box-shadow: 0 0 0 1px var(--gold), 0 0 20px rgba(212, 165, 72, 0.15);
+  }
+
+  .commands {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+    gap: 20px;
+  }
+  @media (max-width: 480px) {
+    .commands { grid-template-columns: 1fr; }
+    body { padding: 24px 16px 60px; }
+    h1 { font-size: 1.5rem; letter-spacing: 0.1em; }
+    .tab { padding: 8px 16px; font-size: 0.75rem; }
+  }
+
+  .card {
+    background: linear-gradient(180deg, var(--bg-panel) 0%, var(--bg-panel-2) 100%);
+    border: 1px solid var(--border);
+    padding: 22px 24px;
+    position: relative;
+    transition: border-color 0.2s;
+  }
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0;
+    width: 3px; height: 100%;
+    background: linear-gradient(180deg, var(--gold) 0%, var(--ember) 100%);
+    opacity: 0.5;
+    transition: opacity 0.2s;
+  }
+  .card:hover { border-color: var(--border-bright); }
+  .card:hover::before { opacity: 1; }
+  .card.hidden { display: none; }
+
+  .card-header { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 6px; gap: 12px; }
+  .card-num { font-family: 'Cinzel', serif; color: var(--ember); font-size: 0.85rem; letter-spacing: 0.15em; font-weight: 500; }
+  .card-title { font-family: 'Cinzel', serif; font-weight: 600; font-size: 1.15rem; color: var(--gold-bright); letter-spacing: 0.04em; }
+  .card-desc { color: var(--ink-dim); font-size: 0.95rem; margin-bottom: 16px; font-style: italic; }
+
+  .input-group { margin-bottom: 12px; }
+  .input-group label {
+    display: block;
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    color: var(--ink-faint);
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .input-group input, .input-group select {
+    width: 100%;
+    background: rgba(0,0,0,0.3);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    padding: 8px 12px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.88rem;
+  }
+  .input-group input:focus, .input-group select:focus { outline: none; border-color: var(--gold); }
+  .input-group select { font-family: 'EB Garamond', serif; font-size: 0.95rem; }
+
+  .cmd-output {
+    background: #050402;
+    border: 1px solid var(--border);
+    padding: 12px 14px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.82rem;
+    color: var(--parchment);
+    word-break: break-all;
+    margin-bottom: 12px;
+    min-height: 44px;
+    line-height: 1.5;
+  }
+  .cmd-output.invalid {
+    color: var(--ink-faint);
+    font-style: italic;
+    font-family: 'EB Garamond', serif;
+  }
+
+  .copy-btn {
+    background: transparent;
+    border: 1px solid var(--gold);
+    color: var(--gold);
+    padding: 8px 18px;
+    font-family: 'Cinzel', serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s, box-shadow 0.2s;
+    width: 100%;
+  }
+  .copy-btn:hover:not(:disabled) {
+    background: var(--gold);
+    color: var(--bg-deep);
+    box-shadow: 0 0 16px rgba(212, 165, 72, 0.4);
+  }
+  .copy-btn:disabled { opacity: 0.35; cursor: not-allowed; border-color: var(--ink-faint); color: var(--ink-faint); }
+  .copy-btn.copied { background: var(--ember); border-color: var(--ember); color: var(--parchment); }
+
+  /* Items panel controls */
+  .attribution {
+    color: var(--ink-faint);
+    font-size: 0.85rem;
+    font-style: italic;
+    margin-bottom: 14px;
+    text-align: center;
+  }
+  .items-controls {
+    display: grid;
+    grid-template-columns: 1fr 180px 130px 130px 90px;
+    gap: 10px;
+    margin-bottom: 18px;
+  }
+  @media (max-width: 900px) {
+    .items-controls {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  @media (max-width: 480px) {
+    .items-controls { grid-template-columns: 1fr; }
+  }
+  .items-controls select, .items-controls input[type="number"] {
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    padding: 14px 14px;
+    font-family: 'EB Garamond', serif;
+    font-size: 0.98rem;
+  }
+  .items-controls select:focus, .items-controls input[type="number"]:focus { outline: none; border-color: var(--gold); }
+  .items-controls input[type="number"] { font-family: 'JetBrains Mono', monospace; text-align: center; }
+
+  /* Combobox (searchable category) */
+  .combobox {
+    position: relative;
+  }
+  .combobox-input {
+    width: 100%;
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    padding: 14px 14px;
+    padding-right: 32px;
+    font-family: 'EB Garamond', serif;
+    font-size: 0.98rem;
+    cursor: pointer;
+  }
+  .combobox-input::placeholder { color: var(--ink-faint); font-style: italic; }
+  .combobox-input:focus { outline: none; border-color: var(--gold); }
+  .combobox-input:not([readonly]) { cursor: text; }
+  .combobox::after {
+    content: '\25BE'; /* down triangle */
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--ink-faint);
+    pointer-events: none;
+    font-size: 0.8rem;
+  }
+  .combobox.open::after { content: '\25B4'; /* up triangle */ }
+  .combobox-dropdown {
+    position: absolute;
+    top: calc(100% + 2px);
+    left: 0;
+    right: 0;
+    background: var(--bg-panel);
+    border: 1px solid var(--gold);
+    max-height: 320px;
+    overflow-y: auto;
+    z-index: 10;
+    box-shadow: 0 6px 20px var(--shadow);
+  }
+  .combobox-dropdown::-webkit-scrollbar { width: 8px; }
+  .combobox-dropdown::-webkit-scrollbar-track { background: var(--bg-deep); }
+  .combobox-dropdown::-webkit-scrollbar-thumb { background: var(--border-bright); }
+  .combobox-option {
+    padding: 9px 14px;
+    cursor: pointer;
+    color: var(--ink);
+    font-size: 0.95rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .combobox-option:last-child { border-bottom: none; }
+  .combobox-option:hover,
+  .combobox-option.active {
+    background: var(--bg-panel-2);
+    color: var(--gold);
+  }
+  .combobox-option.empty {
+    color: var(--ink-faint);
+    font-style: italic;
+    cursor: default;
+  }
+  .combobox-option mark {
+    background: transparent;
+    color: var(--gold);
+    font-weight: 600;
+  }
+  .qty-wrap { position: relative; }
+  .qty-wrap::before {
+    content: 'QTY';
+    position: absolute;
+    top: -8px;
+    left: 12px;
+    background: var(--bg-deep);
+    padding: 0 6px;
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    letter-spacing: 0.18em;
+    color: var(--ink-faint);
+    pointer-events: none;
+  }
+
+  .results-meta {
+    color: var(--ink-faint);
+    font-size: 0.88rem;
+    font-style: italic;
+    margin-bottom: 12px;
+    padding: 0 4px;
+  }
+
+  .item-list {
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    max-height: 70vh;
+    overflow-y: auto;
+  }
+  .item-list::-webkit-scrollbar { width: 10px; }
+  .item-list::-webkit-scrollbar-track { background: var(--bg-deep); }
+  .item-list::-webkit-scrollbar-thumb { background: var(--border-bright); }
+  .item-list::-webkit-scrollbar-thumb:hover { background: var(--gold); }
+
+  .item-row {
+    display: grid;
+    grid-template-columns: 50px 1fr auto auto auto;
+    align-items: center;
+    gap: 14px;
+    padding: 10px 18px;
+    border-bottom: 1px solid var(--border);
+    transition: background 0.1s;
+  }
+  .item-row:hover { background: var(--bg-panel-2); }
+  .item-row:last-child { border-bottom: none; }
+
+  .tier-badge {
+    font-family: 'Cinzel', serif;
+    font-weight: 600;
+    font-size: 0.85rem;
+    letter-spacing: 0.05em;
+    text-align: center;
+    padding: 4px 0;
+    border: 1px solid;
+    cursor: pointer;
+    transition: filter 0.15s;
+  }
+  .tier-badge:hover { filter: brightness(1.3); }
+  .tier-splus { color: var(--tier-splus); border-color: var(--tier-splus); background: var(--tier-splus-bg); }
+  .tier-s     { color: var(--tier-s);     border-color: var(--tier-s);     background: var(--tier-s-bg); }
+  .tier-a     { color: var(--tier-a);     border-color: var(--tier-a);     background: var(--tier-a-bg); }
+  .tier-b     { color: var(--tier-b);     border-color: var(--tier-b);     background: var(--tier-b-bg); }
+  .tier-c     { color: var(--tier-c);     border-color: var(--tier-c);     background: var(--tier-c-bg); }
+  .tier-d     { color: var(--tier-d);     border-color: var(--tier-d);     background: var(--tier-d-bg); }
+  .tier-f     { color: var(--tier-f);     border-color: var(--tier-f);     background: var(--tier-f-bg); }
+  .tier-none {
+    color: var(--ink-faint);
+    border: 1px dashed var(--border);
+    font-size: 0.7rem;
+    padding: 4px 0;
+    text-align: center;
+    font-style: italic;
+    font-family: 'EB Garamond', serif;
+    cursor: default;
+  }
+
+  .item-name { color: var(--ink); font-size: 1rem; display: flex; align-items: center; gap: 10px; min-width: 0; }
+  .item-name-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .act-tag {
+    flex: none;
+    font-family: 'Cinzel', serif;
+    font-size: 0.6rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-dim);
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    padding: 1px 6px;
+    white-space: nowrap;
+  }
+  .tier-row-items .act-tag { margin: 2px 8px 2px 4px; }
+  .item-cat {
+    font-family: 'Cinzel', serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.12em;
+    color: var(--ink-faint);
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .item-copy {
+    background: transparent;
+    border: 1px solid var(--border-bright);
+    color: var(--gold);
+    padding: 6px 16px;
+    font-family: 'Cinzel', serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.15s;
+    min-width: 90px;
+  }
+  .item-copy:hover { background: var(--gold); color: var(--bg-deep); border-color: var(--gold); }
+  .item-copy.copied { background: var(--ember); border-color: var(--ember); color: var(--parchment); }
+  .item-wiki {
+    display: inline-block;
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--ink-dim);
+    padding: 6px 14px;
+    font-family: 'Cinzel', serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+  .item-wiki:hover { background: var(--border-bright); color: var(--parchment); border-color: var(--border-bright); }
+
+  @media (max-width: 480px) {
+    .item-row { grid-template-columns: 44px 1fr auto auto; gap: 10px; padding: 12px 14px; }
+    .item-cat { display: none; }
+    .item-name-text { white-space: normal; }
+  }
+
+  .empty-state { text-align: center; padding: 60px 20px; color: var(--ink-faint); font-style: italic; }
+  .empty-state.hidden { display: none; }
+
+  /* Tier list reference panel */
+  .tierlist-section {
+    margin-bottom: 40px;
+  }
+  .tierlist-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1.3rem;
+    color: var(--gold);
+    letter-spacing: 0.08em;
+    margin-bottom: 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--border);
+  }
+  .tierlist-context {
+    font-style: italic;
+    color: var(--ink-faint);
+    font-size: 0.88rem;
+    margin-bottom: 18px;
+  }
+  .tier-row {
+    display: grid;
+    grid-template-columns: 70px 1fr;
+    gap: 14px;
+    margin-bottom: 8px;
+    align-items: stretch;
+  }
+  .tier-row-label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Cinzel', serif;
+    font-weight: 600;
+    font-size: 1.1rem;
+    border: 1px solid;
+    padding: 12px 0;
+  }
+  .tier-row-items {
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    padding: 12px 16px;
+    color: var(--ink);
+    line-height: 1.85;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .act-filter { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+  .act-filter-btn {
+    font-family: 'Cinzel', serif;
+    font-size: 0.68rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-dim);
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    padding: 5px 12px;
+    cursor: pointer;
+    transition: all 0.12s;
+  }
+  .act-filter-btn:hover { border-color: var(--border-bright); color: var(--parchment); }
+  .act-filter-btn.active { background: var(--gold); color: var(--bg-deep); border-color: var(--gold); }
+  .tier-row-items .item-pill {
+    display: inline-block;
+    font-family: inherit;
+    padding: 2px 10px;
+    margin: 2px 4px 2px 0;
+    background: var(--bg-panel-2);
+    border: 1px solid var(--border);
+    font-size: 0.92rem;
+    line-height: 1.5;
+    color: var(--ink);
+    text-decoration: none;
+    text-align: left;
+    cursor: pointer;
+    transition: all 0.12s;
+  }
+  .tier-row-items .item-pill:hover { background: var(--border-bright); border-color: var(--border-bright); color: var(--parchment); }
+  .tier-row-items .item-pill.pill-active { background: var(--gold); border-color: var(--gold); color: var(--bg-deep); }
+  .pill-detail {
+    flex-basis: 100%;
+    display: none;
+    background: var(--bg-deep);
+    border-left: 2px solid var(--gold);
+    padding: 10px 14px;
+    margin: 4px 0 10px 0;
+  }
+  .pill-detail.open { display: block; }
+  .detail-act {
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 6px;
+  }
+  .detail-note {
+    font-family: 'EB Garamond', serif;
+    font-size: 0.95rem;
+    line-height: 1.55;
+    color: var(--ink);
+    margin-bottom: 10px;
+  }
+  .detail-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .detail-copy, .detail-wiki {
+    font-family: 'Cinzel', serif;
+    font-size: 0.68rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 6px 14px;
+    cursor: pointer;
+    transition: all 0.15s;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .detail-copy { background: var(--ember); border: 1px solid var(--ember); color: var(--parchment); }
+  .detail-copy:hover { filter: brightness(1.15); }
+  .detail-copy.copied { background: var(--gold); border-color: var(--gold); color: var(--bg-deep); }
+  .detail-wiki { background: transparent; border: 1px solid var(--border-bright); color: var(--ink-dim); }
+  .detail-wiki:hover { background: var(--border-bright); color: var(--parchment); }
+  .tier-defs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 18px;
+    color: var(--ink-faint);
+    font-size: 0.85rem;
+    margin-bottom: 18px;
+    font-style: italic;
+  }
+  .tier-defs span strong {
+    color: var(--ink-dim);
+    font-style: normal;
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.08em;
+    margin-right: 4px;
+  }
+
+  .footer-note {
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    text-align: center;
+    color: var(--ink-faint);
+    font-size: 0.88rem;
+    font-style: italic;
+  }
+  .footer-note code {
+    font-family: 'JetBrains Mono', monospace;
+    font-style: normal;
+    color: var(--ink-dim);
+    background: var(--bg-panel);
+    padding: 2px 6px;
+    font-size: 0.85em;
+  }
+</style>
+</head>
+<body>
+<div class="frame">
+  <header>
+    <h1>The Script <span class="ornament">&#10086;</span> Extender</h1>
+    <div class="subtitle">A console reference for Baldur's Gate III</div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab active" data-tab="items">Item Spawner</button>
+    <button class="tab" data-tab="commands">Commands</button>
+    <button class="tab" data-tab="tierlists">Tier Lists</button>
+  </nav>
+
+  <section class="panel active" id="panel-items">
+    <div class="attribution">Tier ratings sourced from Cephalopocalypse's Honour Mode guides. Filter or sort by tier to focus on what matters.</div>
+    <div class="items-controls">
+      <input type="text" id="item-search" class="search-input" placeholder="Search items by name..." autocomplete="off">
+      <div class="combobox" id="item-category-combo">
+        <input type="text" id="item-category" class="combobox-input" placeholder="All categories" readonly autocomplete="off">
+        <div class="combobox-dropdown" id="item-category-dropdown" hidden></div>
+      </div>
+      <select id="item-tier">
+        <option value="">All tiers</option>
+        <option value="rated">Any tier (rated only)</option>
+        <option value="S+">S+ only</option>
+        <option value="S">S only</option>
+        <option value="A">A only</option>
+        <option value="B">B only</option>
+        <option value="C">C only</option>
+        <option value="D">D only</option>
+        <option value="F">F only</option>
+        <option value="SA+">S+ / S / A</option>
+      </select>
+      <select id="item-sort">
+        <option value="alpha">Sort: A → Z</option>
+        <option value="tier">Sort: by tier</option>
+      </select>
+      <div class="qty-wrap"><input type="number" id="item-qty" value="1" min="1" max="999"></div>
+    </div>
+    <div class="results-meta" id="results-meta"></div>
+    <div class="item-list" id="item-list"></div>
+    <div class="empty-state hidden" id="item-empty">No items match those filters.</div>
+  </section>
+
+  <section class="panel" id="panel-commands">
+    <input type="text" id="cmd-search" class="search-input" placeholder="Search commands..." style="margin-bottom: 24px;">
+    <div class="commands" id="commands"></div>
+    <div class="empty-state hidden" id="cmd-empty">No commands match that search.</div>
+  </section>
+
+  <section class="panel" id="panel-tierlists">
+    <div class="attribution">Tier lists from Cephalopocalypse. Skills and Cantrips are reference-only — they aren't spawnable items.</div>
+    <div id="tierlists-content"></div>
+  </section>
+
+  <div class="footer-note">
+    Open the in-game console with <code>&grave;</code> (backtick) and paste. Requires the BG3 Script Extender mod.
+  </div>
+</div>
+
+<script>
+const ITEMS=/*@DATA:items*/[];
+
+const TIERLISTS=/*@DATA:tierlists*/[];
+
+const companions = [
+  { name: "Karlach",     uuid: "S_Player_Karlach_2c76687d-93a2-477b-8b18-8a14b549304c" },
+  { name: "Minsc",       uuid: "S_Player_Minsc_0de603c5-42e2-4811-9dad-f652de080eba" },
+  { name: "Minthara",    uuid: "S_GOB_DrowCommander_25721313-0c15-4935-8176-9f134385451b" },
+  { name: "Halsin",      uuid: "S_GLO_Halsin_7628bc0e-52b8-42a7-856a-13a6fd413323" },
+  { name: "Jaheira",     uuid: "S_Player_Jaheira_91b6b200-7d00-4d62-8dc9-99e8339dfa1a" },
+  { name: "Gale",        uuid: "S_Player_Gale_ad9af97d-75da-406a-ae13-7071c563f604" },
+  { name: "Astarion",    uuid: "S_Player_Astarion_c7c13742-bacd-460a-8f65-f864fe41f255" },
+  { name: "Lae'zel",     uuid: "S_Player_Laezel_58a69333-40bf-8358-1d17-fff240d7fb12" },
+  { name: "Wyll",        uuid: "S_Player_Wyll_c774d764-4a17-48dc-b470-32ace9ce447d" },
+  { name: "Shadowheart", uuid: "S_Player_ShadowHeart_3ed74f06-3c60-42dc-83f6-f034cb47c679" },
+];
+
+const commands = [
+  { num: "I", title: "Add Gold", desc: "Add gold to the host character's purse.",
+    keywords: "gold money currency coin",
+    inputs: [{ id: "amount", label: "Amount", type: "number", default: "1000", min: "1" }],
+    build: v => v.amount ? `AddGold(GetHostCharacter(), ${v.amount})` : null },
+  { num: "II", title: "Add Experience", desc: "Adds exploration XP. Run once per party member.",
+    keywords: "experience xp level exploration",
+    inputs: [{ id: "amount", label: "XP Amount", type: "number", default: "1000", min: "1" }],
+    build: v => v.amount ? `Osi.AddExplorationExperience(GetHostCharacter(), ${v.amount})` : null },
+  { num: "III", title: "Set Tadpole State", desc: "Toggle willingness to use illithid powers.",
+    keywords: "tadpole illithid worm parasite power state",
+    inputs: [{ id: "state", label: "State", type: "select", options: [
+      { v: "1", t: "1 \u2014 Hesitant to use worm powers" },
+      { v: "2", t: "2 \u2014 Ready to use worm powers" },
+    ]}],
+    build: v => v.state ? `SetTadpoleTreeState(GetHostCharacter(), ${v.state})` : null },
+  { num: "IV", title: "Add Tadpoles", desc: "Adds parasites for spending on illithid powers.",
+    keywords: "tadpole illithid worm parasite",
+    inputs: [{ id: "amount", label: "Tadpoles", type: "number", default: "1", min: "1" }],
+    build: v => v.amount ? `AddTadpole(GetHostCharacter(), ${v.amount})` : null },
+  { num: "V", title: "Add Inspiration Points", desc: "Grants inspiration to the host character.",
+    keywords: "inspiration points reroll bardic",
+    inputs: [{ id: "amount", label: "Points", type: "number", default: "1", min: "1" }],
+    build: v => v.amount ? `Osi.GiveInspirationPoints(GetHostCharacter(), ${v.amount}, "", "")` : null },
+  { num: "VI", title: "Change Appearance", desc: "Opens the appearance editor. Save first; may misbehave on origins without the Appearance Enhanced mod.",
+    keywords: "appearance change face hair customize edit",
+    inputs: [], build: () => `Osi.StartChangeAppearance(GetHostCharacter())` },
+  { num: "VII", title: "Respec", desc: "Opens respec for the host character.",
+    keywords: "respec class build level reset",
+    inputs: [], build: () => `Osi.StartRespec(GetHostCharacter())` },
+  { num: "VIII", title: "Change Approval", desc: "Adjust a companion's approval rating. Use a negative number to reduce.",
+    keywords: "approval companion karlach minsc minthara halsin jaheira gale astarion laezel wyll shadowheart",
+    inputs: [
+      { id: "companion", label: "Companion", type: "select", options: companions.map(c => ({ v: c.uuid, t: c.name })) },
+      { id: "amount", label: "Amount", type: "number", default: "10" },
+    ],
+    build: v => (v.companion && v.amount !== "" && v.amount !== undefined)
+      ? `Osi.ChangeApprovalRating("${v.companion}", GetHostCharacter(), 0, ${v.amount})` : null },
+  { num: "IX", title: "Change Party Limit", desc: "Increases the max party size without PartyLimitBegone.",
+    keywords: "party size limit max companions",
+    inputs: [{ id: "size", label: "Party Size", type: "number", default: "12", min: "2" }],
+    build: v => v.size ? `SetMaxPartySizeOverride(${v.size})` : null },
+];
+
+// ============== TAB SWITCHING ==============
+document.querySelectorAll('.tab').forEach(t => {
+  t.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+    document.querySelectorAll('.panel').forEach(x => x.classList.remove('active'));
+    t.classList.add('active');
+    document.getElementById('panel-' + t.dataset.tab).classList.add('active');
+  });
+});
+
+// ============== CLIPBOARD ==============
+function fallbackCopy(text) {
+  const ta = document.createElement('textarea');
+  ta.value = text;
+  ta.style.position = 'fixed'; ta.style.top = '0'; ta.style.left = '0'; ta.style.opacity = '0';
+  document.body.appendChild(ta);
+  ta.focus(); ta.select();
+  let ok = false;
+  try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
+  document.body.removeChild(ta);
+  return ok;
+}
+function flashCopied(btn, label) {
+  const orig = btn.textContent;
+  btn.textContent = label || 'Copied';
+  btn.classList.add('copied');
+  setTimeout(() => { btn.textContent = orig; btn.classList.remove('copied'); }, 1200);
+}
+function flashFailed(btn, label) {
+  btn.textContent = 'Failed';
+  setTimeout(() => { btn.textContent = label || 'Copy'; }, 1200);
+}
+function copyToClipboard(text, btn, label) {
+  if (navigator.clipboard && window.isSecureContext) {
+    navigator.clipboard.writeText(text)
+      .then(() => flashCopied(btn, label))
+      .catch(() => { if (fallbackCopy(text)) flashCopied(btn, label); else flashFailed(btn, label); });
+  } else {
+    if (fallbackCopy(text)) flashCopied(btn, label); else flashFailed(btn, label);
+  }
+}
+
+// ============== TIER UTILITIES ==============
+const TIER_ORDER = ['S+', 'S', 'A', 'B', 'C', 'D', 'F'];
+const TIER_RANK = { 'S+': 0, 'S': 1, 'A': 2, 'B': 3, 'C': 4, 'D': 5, 'F': 6 };
+function tierClass(t) {
+  if (!t) return 'tier-none';
+  if (t === 'S+') return 'tier-splus';
+  return 'tier-' + t.toLowerCase();
+}
+
+// ============== ITEMS ==============
+const itemSearch = document.getElementById('item-search');
+const itemCategory = document.getElementById('item-category');
+const itemTier = document.getElementById('item-tier');
+const itemSort = document.getElementById('item-sort');
+const itemQty = document.getElementById('item-qty');
+const itemList = document.getElementById('item-list');
+const itemEmpty = document.getElementById('item-empty');
+const resultsMeta = document.getElementById('results-meta');
+const MAX_RENDER = 250;
+
+// ---- Fuzzy / typo-tolerant search ----
+const SPELL_CANON = [
+  [/armour/g, 'armor'], [/defence/g, 'defense'], [/colour/g, 'color'],
+  [/jewellery/g, 'jewelry'], [/sceptre/g, 'scepter'], [/centre/g, 'center'],
+  [/mould/g, 'mold'], [/grey/g, 'gray']
+];
+function canon(str) {
+  let s = (str || '').toLowerCase();
+  for (const [re, rep] of SPELL_CANON) s = s.replace(re, rep);
+  s = s.replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim();
+  return s.replace(/^the /, '');
+}
+function lev(a, b, max) {
+  const m = a.length, n = b.length;
+  if (Math.abs(m - n) > max) return max + 1;
+  let prev2 = null;
+  let prev = []; for (let j = 0; j <= n; j++) prev[j] = j;
+  for (let i = 1; i <= m; i++) {
+    const cur = [i]; let best = i;
+    for (let j = 1; j <= n; j++) {
+      const cost = a[i - 1] === b[j - 1] ? 0 : 1;
+      let v = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + cost);
+      if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) {
+        v = Math.min(v, prev2[j - 2] + 1);   // adjacent transposition
+      }
+      cur[j] = v;
+      if (v < best) best = v;
+    }
+    if (best > max) return max + 1;
+    prev2 = prev; prev = cur;
+  }
+  return prev[n];
+}
+function tokThreshold(len) { return len <= 2 ? 0 : (len <= 5 ? 1 : 2); }
+function tokenScore(tok, words, full) {
+  if (full.indexOf(tok) !== -1) return 0;            // substring anywhere = best
+  const thr = tokThreshold(tok.length);
+  if (thr === 0) return null;
+  let best = null;
+  for (const w of words) {
+    const cmp = w.length > tok.length ? w.slice(0, tok.length) : w;  // tolerate prefix typos
+    const d = lev(tok, cmp, thr);
+    if (d <= thr && (best === null || d < best)) best = d;
+    if (best === 0) break;
+  }
+  return best === null ? null : best + 0.5;          // fuzzy ranks below substring
+}
+function fuzzyScore(qTokens, item) {
+  let score = 0;
+  for (const tok of qTokens) {
+    const s = tokenScore(tok, item.sw, item.sc);
+    if (s === null) return null;                     // every token must match
+    score += s;
+  }
+  return score;
+}
+
+ITEMS.forEach(i => {
+  i.s = (i.n + ' ' + i.c + ' ' + (i.t || '') + ' ' + (i.a || '')).toLowerCase();
+  i.sc = canon(i.n + ' ' + i.c + ' ' + (i.t || '') + ' ' + (i.a || '') + ' ' + (i.e || ''));
+  i.sw = i.sc.split(' ').filter(Boolean);
+});
+
+// canonical-name -> item, for resolving tier-list entries to spawnable items.
+// Also index potion/elixir/etc. short names so a list entry like "Supreme Healing"
+// resolves to the item "Potion of Supreme Healing".
+const NAME_INDEX = {};
+const LINK_PREFIXES = ['potion of ', 'elixir of ', 'scroll of ', 'oil of ', 'coating of '];
+ITEMS.forEach(i => {
+  const k = canon(i.n);
+  if (!(k in NAME_INDEX)) NAME_INDEX[k] = i;
+  for (const p of LINK_PREFIXES) {
+    if (k.startsWith(p)) {
+      const short = k.slice(p.length).trim();
+      if (short && !(short in NAME_INDEX)) NAME_INDEX[short] = i;
+      break;
+    }
+  }
+});
+
+const cats = [...new Set(ITEMS.map(i => i.c))].sort();
+
+// ============== CATEGORY COMBOBOX ==============
+// State held externally so renderItems() can read itemCategoryValue rather than itemCategory.value
+let itemCategoryValue = ''; // empty = all
+const comboWrap = document.getElementById('item-category-combo');
+const comboDropdown = document.getElementById('item-category-dropdown');
+let comboActiveIdx = -1; // index into the currently visible options
+let comboVisibleOptions = []; // [{value, label}] of currently rendered options
+
+function comboSelect(value, label) {
+  itemCategoryValue = value;
+  itemCategory.value = label;
+  itemCategory.placeholder = 'All categories';
+  comboClose();
+  renderItems();
+}
+
+function highlightMatch(text, query) {
+  if (!query) return text;
+  const idx = text.toLowerCase().indexOf(query.toLowerCase());
+  if (idx === -1) return text;
+  return text.slice(0, idx) + '<mark>' + text.slice(idx, idx + query.length) + '</mark>' + text.slice(idx + query.length);
+}
+
+function comboRender(query) {
+  const q = (query || '').trim().toLowerCase();
+  const all = [{value: '', label: 'All categories'}, ...cats.map(c => ({value: c, label: c}))];
+  comboVisibleOptions = q ? all.filter(o => o.label.toLowerCase().includes(q)) : all;
+
+  comboDropdown.innerHTML = '';
+  if (comboVisibleOptions.length === 0) {
+    const empty = document.createElement('div');
+    empty.className = 'combobox-option empty';
+    empty.textContent = 'No matching categories';
+    comboDropdown.appendChild(empty);
+    comboActiveIdx = -1;
+    return;
+  }
+
+  comboVisibleOptions.forEach((opt, i) => {
+    const el = document.createElement('div');
+    el.className = 'combobox-option';
+    el.innerHTML = highlightMatch(opt.label, q);
+    el.addEventListener('mousedown', e => {
+      e.preventDefault(); // don't blur the input before click
+      comboSelect(opt.value, opt.label);
+    });
+    el.addEventListener('mouseenter', () => {
+      comboActiveIdx = i;
+      updateComboActiveClass();
+    });
+    comboDropdown.appendChild(el);
+  });
+
+  // Set active to the current selection if visible, else first
+  comboActiveIdx = comboVisibleOptions.findIndex(o => o.value === itemCategoryValue);
+  if (comboActiveIdx === -1) comboActiveIdx = 0;
+  updateComboActiveClass();
+}
+
+function updateComboActiveClass() {
+  const opts = comboDropdown.querySelectorAll('.combobox-option:not(.empty)');
+  opts.forEach((el, i) => el.classList.toggle('active', i === comboActiveIdx));
+  // Scroll active into view
+  if (comboActiveIdx >= 0 && opts[comboActiveIdx]) {
+    opts[comboActiveIdx].scrollIntoView({block: 'nearest'});
+  }
+}
+
+function comboOpen() {
+  itemCategory.removeAttribute('readonly');
+  itemCategory.value = ''; // clear so user can type fresh
+  comboDropdown.hidden = false;
+  comboWrap.classList.add('open');
+  comboRender('');
+  itemCategory.focus();
+}
+
+function comboClose() {
+  comboDropdown.hidden = true;
+  comboWrap.classList.remove('open');
+  itemCategory.setAttribute('readonly', '');
+  // Restore display label
+  if (itemCategoryValue) {
+    itemCategory.value = itemCategoryValue;
+  } else {
+    itemCategory.value = '';
+  }
+}
+
+itemCategory.addEventListener('mousedown', e => {
+  if (comboDropdown.hidden) {
+    e.preventDefault();
+    comboOpen();
+  } else {
+    comboClose();
+  }
+});
+
+itemCategory.addEventListener('input', () => {
+  if (comboDropdown.hidden) return;
+  comboRender(itemCategory.value);
+});
+
+itemCategory.addEventListener('keydown', e => {
+  if (comboDropdown.hidden) {
+    if (e.key === 'ArrowDown' || e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      comboOpen();
+    }
+    return;
+  }
+  const opts = comboVisibleOptions;
+  if (e.key === 'ArrowDown') {
+    e.preventDefault();
+    if (opts.length) {
+      comboActiveIdx = (comboActiveIdx + 1) % opts.length;
+      updateComboActiveClass();
+    }
+  } else if (e.key === 'ArrowUp') {
+    e.preventDefault();
+    if (opts.length) {
+      comboActiveIdx = (comboActiveIdx - 1 + opts.length) % opts.length;
+      updateComboActiveClass();
+    }
+  } else if (e.key === 'Enter') {
+    e.preventDefault();
+    if (comboActiveIdx >= 0 && opts[comboActiveIdx]) {
+      comboSelect(opts[comboActiveIdx].value, opts[comboActiveIdx].label);
+    }
+  } else if (e.key === 'Escape') {
+    e.preventDefault();
+    comboClose();
+  }
+});
+
+// Close on outside click
+document.addEventListener('mousedown', e => {
+  if (!comboWrap.contains(e.target) && !comboDropdown.hidden) {
+    comboClose();
+  }
+});
+
+// Populate placeholder with item count
+itemSearch.placeholder = `Search ${ITEMS.length.toLocaleString()} items by name...`;
+
+function buildItemCmd(uuid) {
+  const q = Math.max(1, parseInt(itemQty.value) || 1);
+  return `TemplateAddTo("${uuid}", GetHostCharacter(), ${q})`;
+}
+
+// Best-effort bg3.wiki article name: drop leading/trailing parentheticals and +N suffixes
+function wikiName(name) {
+  return name
+    .replace(/^\+\d+\s*/, '')
+    .replace(/^\([^)]*\)\s*/, '')
+    .replace(/\s*\([^)]*\)\s*$/, '')
+    .replace(/\s*\+\d+\s*$/, '')
+    .trim() || name;
+}
+function wikiUrl(name) {
+  return 'https://bg3.wiki/wiki/' + encodeURIComponent(wikiName(name).replace(/ /g, '_'));
+}
+
+function applyTierFilter(items, tierVal) {
+  if (!tierVal) return items;
+  if (tierVal === 'rated') return items.filter(i => i.t);
+  if (tierVal === 'SA+') return items.filter(i => i.t === 'S+' || i.t === 'S' || i.t === 'A');
+  return items.filter(i => i.t === tierVal);
+}
+
+function renderItems() {
+  const cat = itemCategoryValue;
+  const tier = itemTier.value;
+  const sort = itemSort.value;
+
+  let matches = ITEMS;
+  if (cat) matches = matches.filter(i => i.c === cat);
+  matches = applyTierFilter(matches, tier);
+
+  const qTokens = canon(itemSearch.value).split(' ').filter(Boolean);
+  let relevanceSorted = false;
+  if (qTokens.length) {
+    const scored = [];
+    for (const it of matches) {
+      const s = fuzzyScore(qTokens, it);
+      if (s !== null) scored.push([s, it]);
+    }
+    scored.sort((a, b) => a[0] - b[0] || a[1].n.localeCompare(b[1].n, undefined, {sensitivity: 'base'}));
+    matches = scored.map(x => x[1]);
+    relevanceSorted = true;
+  }
+
+  if (sort === 'tier') {
+    // Tier-sorted overrides relevance: rated first by tier rank, unrated last
+    matches = matches.slice().sort((a, b) => {
+      const ra = a.t ? TIER_RANK[a.t] : 99;
+      const rb = b.t ? TIER_RANK[b.t] : 99;
+      if (ra !== rb) return ra - rb;
+      return a.n.localeCompare(b.n, undefined, {sensitivity: 'base'});
+    });
+  }
+  // else with no query: items.json is already alphabetized; with a query: relevance order kept
+
+  const total = matches.length;
+  const shown = Math.min(total, MAX_RENDER);
+
+  if (total === 0) {
+    itemList.innerHTML = '';
+    itemEmpty.classList.remove('hidden');
+    resultsMeta.textContent = '';
+    return;
+  }
+  itemEmpty.classList.add('hidden');
+
+  if (total > MAX_RENDER) {
+    resultsMeta.textContent = `Showing first ${MAX_RENDER} of ${total} matches \u2014 type to refine.`;
+  } else {
+    resultsMeta.textContent = total + (total === 1 ? ' item' : ' items');
+  }
+
+  const frag = document.createDocumentFragment();
+  for (let i = 0; i < shown; i++) {
+    const item = matches[i];
+    const row = document.createElement('div');
+    row.className = 'item-row';
+
+    const badge = document.createElement('div');
+    badge.className = 'tier-badge ' + tierClass(item.t);
+    badge.textContent = item.t || '\u2014';
+    if (item.t) {
+      badge.title = `Click to filter to tier ${item.t}`;
+      badge.addEventListener('click', () => {
+        // Filter dropdown to this tier
+        const opt = [...itemTier.options].find(o => o.value === item.t);
+        if (opt) { itemTier.value = item.t; renderItems(); }
+      });
+    } else {
+      badge.classList.add('tier-none');
+      badge.style.cursor = 'default';
+    }
+
+    const name = document.createElement('div');
+    name.className = 'item-name';
+    const nameText = document.createElement('span');
+    nameText.className = 'item-name-text';
+    nameText.textContent = item.d;
+    name.appendChild(nameText);
+    if (item.a) {
+      const act = document.createElement('span');
+      act.className = 'act-tag';
+      act.textContent = item.a;
+      act.title = 'Found in ' + item.a;
+      name.appendChild(act);
+    }
+
+    const catEl = document.createElement('div');
+    catEl.className = 'item-cat';
+    catEl.textContent = item.c;
+
+    const wiki = document.createElement('a');
+    wiki.className = 'item-wiki';
+    wiki.textContent = 'Wiki';
+    wiki.href = wikiUrl(item.n);
+    wiki.target = '_blank';
+    wiki.rel = 'noopener';
+    wiki.title = 'Open ' + wikiName(item.n) + ' on bg3.wiki';
+
+    const btn = document.createElement('button');
+    btn.className = 'item-copy';
+    btn.textContent = 'Copy';
+    btn.addEventListener('click', () => copyToClipboard(buildItemCmd(item.u), btn));
+
+    row.appendChild(badge);
+    row.appendChild(name);
+    row.appendChild(catEl);
+    row.appendChild(wiki);
+    row.appendChild(btn);
+    frag.appendChild(row);
+  }
+  itemList.innerHTML = '';
+  itemList.appendChild(frag);
+}
+
+let renderTimer = null;
+itemSearch.addEventListener('input', () => {
+  clearTimeout(renderTimer);
+  renderTimer = setTimeout(renderItems, 80);
+});
+itemTier.addEventListener('change', renderItems);
+itemSort.addEventListener('change', renderItems);
+itemQty.addEventListener('input', () => {
+  if (parseInt(itemQty.value) < 1 || isNaN(parseInt(itemQty.value))) itemQty.value = 1;
+});
+
+renderItems();
+
+// ============== COMMANDS ==============
+const cmdContainer = document.getElementById('commands');
+const cmdEmpty = document.getElementById('cmd-empty');
+const cmdSearch = document.getElementById('cmd-search');
+
+commands.forEach(cmd => {
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.dataset.search = (cmd.title + ' ' + cmd.desc + ' ' + cmd.keywords).toLowerCase();
+
+  let inputsHtml = '';
+  cmd.inputs.forEach(inp => {
+    if (inp.type === 'select') {
+      const opts = inp.options.map(o => `<option value="${o.v}">${o.t}</option>`).join('');
+      inputsHtml += `<div class="input-group"><label>${inp.label}</label><select data-input="${inp.id}">${opts}</select></div>`;
+    } else {
+      const def = inp.default !== undefined ? `value="${inp.default}"` : '';
+      const min = inp.min !== undefined ? `min="${inp.min}"` : '';
+      inputsHtml += `<div class="input-group"><label>${inp.label}</label><input type="${inp.type}" data-input="${inp.id}" ${def} ${min}></div>`;
+    }
+  });
+
+  card.innerHTML = `
+    <div class="card-header">
+      <div class="card-title">${cmd.title}</div>
+      <div class="card-num">${cmd.num}</div>
+    </div>
+    <div class="card-desc">${cmd.desc}</div>
+    ${inputsHtml}
+    <div class="cmd-output" data-output></div>
+    <button class="copy-btn" data-copy>Copy Command</button>
+  `;
+  cmdContainer.appendChild(card);
+
+  const inputs = card.querySelectorAll('[data-input]');
+  const output = card.querySelector('[data-output]');
+  const btn = card.querySelector('[data-copy]');
+
+  function update() {
+    const vals = {};
+    inputs.forEach(el => { vals[el.dataset.input] = el.value; });
+    const cmdStr = cmd.build(vals);
+    if (cmdStr) {
+      output.textContent = cmdStr;
+      output.classList.remove('invalid');
+      btn.disabled = false;
+    } else {
+      output.textContent = 'Fill in the fields above to generate the command.';
+      output.classList.add('invalid');
+      btn.disabled = true;
+    }
+  }
+  inputs.forEach(el => {
+    el.addEventListener('input', update);
+    el.addEventListener('change', update);
+  });
+  btn.addEventListener('click', () => {
+    if (btn.disabled) return;
+    copyToClipboard(output.textContent, btn, 'Copied to Clipboard');
+  });
+  update();
+});
+
+cmdSearch.addEventListener('input', () => {
+  const q = cmdSearch.value.trim().toLowerCase();
+  let visible = 0;
+  cmdContainer.querySelectorAll('.card').forEach(card => {
+    const match = !q || card.dataset.search.includes(q);
+    card.classList.toggle('hidden', !match);
+    if (match) visible++;
+  });
+  cmdEmpty.classList.toggle('hidden', visible !== 0);
+});
+
+// ============== TIER LISTS REFERENCE ==============
+const tierlistsContent = document.getElementById('tierlists-content');
+
+// Group items by tier within each tierlist
+function renderTierlist(tl) {
+  const section = document.createElement('div');
+  section.className = 'tierlist-section';
+
+  const title = document.createElement('div');
+  title.className = 'tierlist-title';
+  title.textContent = tl.subject;
+  section.appendChild(title);
+
+  if (tl.context) {
+    const ctx = document.createElement('div');
+    ctx.className = 'tierlist-context';
+    ctx.textContent = tl.context;
+    section.appendChild(ctx);
+  }
+
+  // Tier definitions header
+  if (tl.tier_definitions && Object.keys(tl.tier_definitions).length) {
+    const defs = document.createElement('div');
+    defs.className = 'tier-defs';
+    TIER_ORDER.forEach(t => {
+      if (tl.tier_definitions[t]) {
+        const span = document.createElement('span');
+        const strong = document.createElement('strong');
+        strong.textContent = t;
+        span.appendChild(strong);
+        span.appendChild(document.createTextNode(tl.tier_definitions[t]));
+        defs.appendChild(span);
+      }
+    });
+    section.appendChild(defs);
+  }
+
+  const hasActs = tl.acts && Object.keys(tl.acts).length > 0;
+
+  function resolveEntry(name) {
+    if (tl.uuids && tl.uuids[name]) {
+      return { u: tl.uuids[name], wname: (tl.wnames && tl.wnames[name]) || name };
+    }
+    const it = NAME_INDEX[canon(name)];
+    if (it) return { u: it.u, wname: it.n };
+    return { u: null, wname: name };
+  }
+
+  function buildDetail(name) {
+    const d = document.createElement('div');
+    d.className = 'pill-detail';
+    const res = resolveEntry(name);
+
+    if (tl.acts && tl.acts[name]) {
+      const a = document.createElement('div');
+      a.className = 'detail-act';
+      a.textContent = 'Found in ' + tl.acts[name];
+      d.appendChild(a);
+    }
+    if (tl.notes && tl.notes[name]) {
+      const n = document.createElement('div');
+      n.className = 'detail-note';
+      n.textContent = tl.notes[name];
+      d.appendChild(n);
+    }
+
+    const actions = document.createElement('div');
+    actions.className = 'detail-actions';
+    if (res.u) {
+      const copy = document.createElement('button');
+      copy.type = 'button';
+      copy.className = 'detail-copy';
+      copy.textContent = 'Copy spawn command';
+      copy.addEventListener('click', () => copyToClipboard(buildItemCmd(res.u), copy));
+      actions.appendChild(copy);
+    }
+    const wiki = document.createElement('a');
+    wiki.className = 'detail-wiki';
+    wiki.textContent = 'Open on bg3.wiki';
+    wiki.href = wikiUrl(res.wname);
+    wiki.target = '_blank';
+    wiki.rel = 'noopener';
+    actions.appendChild(wiki);
+    d.appendChild(actions);
+    return d;
+  }
+
+  // Act filter (only when this list carries act data)
+  let actFilter = 'all';
+  const rowsWrap = document.createElement('div');
+
+  if (hasActs) {
+    const present = [...new Set(
+      Object.values(tl.acts).flatMap(a => a.split('/').map(s => s.trim()))
+    )].filter(a => /^Act\s+\d/.test(a)).sort();
+
+    const bar = document.createElement('div');
+    bar.className = 'act-filter';
+    const makeBtn = (label, val) => {
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'act-filter-btn' + (val === actFilter ? ' active' : '');
+      b.textContent = label;
+      b.addEventListener('click', () => {
+        actFilter = val;
+        [...bar.children].forEach(c => c.classList.toggle('active', c === b));
+        renderRows();
+      });
+      return b;
+    };
+    bar.appendChild(makeBtn('All acts', 'all'));
+    present.forEach(a => bar.appendChild(makeBtn(a, a)));
+    section.appendChild(bar);
+  }
+
+  section.appendChild(rowsWrap);
+
+  function matchesAct(name) {
+    if (actFilter === 'all') return true;
+    const a = tl.acts && tl.acts[name];
+    if (!a) return false;
+    return a.split('/').map(s => s.trim()).indexOf(actFilter) !== -1;
+  }
+
+  function renderRows() {
+    rowsWrap.innerHTML = '';
+    const grouped = {};
+    Object.entries(tl.ratings).forEach(([name, t]) => {
+      if (!matchesAct(name)) return;
+      if (!grouped[t]) grouped[t] = [];
+      grouped[t].push(name);
+    });
+    Object.values(grouped).forEach(arr => arr.sort((a, b) => a.localeCompare(b, undefined, {sensitivity: 'base'})));
+
+    TIER_ORDER.forEach(t => {
+      if (!grouped[t]) return;
+      const row = document.createElement('div');
+      row.className = 'tier-row';
+
+      const label = document.createElement('div');
+      label.className = 'tier-row-label tier-badge ' + tierClass(t);
+      label.style.cursor = 'default';
+      label.textContent = t;
+      row.appendChild(label);
+
+      const items = document.createElement('div');
+      items.className = 'tier-row-items';
+      grouped[t].forEach(name => {
+        const pill = document.createElement('button');
+        pill.type = 'button';
+        pill.className = 'item-pill';
+        pill.textContent = name;
+        pill.setAttribute('aria-expanded', 'false');
+        const detail = buildDetail(name);
+        pill.addEventListener('click', () => {
+          const open = detail.classList.toggle('open');
+          pill.classList.toggle('pill-active', open);
+          pill.setAttribute('aria-expanded', open ? 'true' : 'false');
+        });
+        items.appendChild(pill);
+        items.appendChild(detail);
+      });
+      row.appendChild(items);
+      rowsWrap.appendChild(row);
+    });
+  }
+
+  renderRows();
+  return section;
+}
+
+// Sort tier lists: gameplay-only first (Skills, Cantrips), then items alphabetically by subject
+const sortedTierlists = TIERLISTS.slice().sort((a, b) => {
+  if (a.is_gameplay_only !== b.is_gameplay_only) return a.is_gameplay_only ? -1 : 1;
+  return a.subject.localeCompare(b.subject);
+});
+
+sortedTierlists.forEach(tl => {
+  tierlistsContent.appendChild(renderTierlist(tl));
+});
+</script>
+</body>
+</html>
