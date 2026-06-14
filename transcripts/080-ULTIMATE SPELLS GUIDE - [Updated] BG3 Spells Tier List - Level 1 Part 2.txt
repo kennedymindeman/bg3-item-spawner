@@ -1,0 +1,1667 @@
+Hello, my friends and welcome back to
+another Balders's Gate 3 tier list and
+guide. Hope you're all doing well.
+Today, we're continuing to look at the
+level one spells. In part one of this
+video, we looked at the first half of
+the 52 level one spells, so we're going
+to continue and look at the remaining
+26. I've already gone over the rating
+system and the definitions of the tiers
+in part one, so we won't repeat that.
+But before I begin, I do want to take a
+quick moment to say thank you so much to
+Radu Trendir for the $25 donation, Eris
+Box for the $5, Dark Quas for the 2500
+yen, and Carlo and Shan Swaford for
+becoming channel members. Thank you so
+much, my friends. I really appreciate
+the support. It really means a lot to
+me. All right, let's dive right back in.
+First up, we're going to talk about
+Greece. Greece is a non-conentration
+battlefield control spell, and any
+control spell, especially an AoE spell
+that's not concentration, is always
+going to be pretty interesting. It's a
+13 ft radius surface where when you cast
+it, everything inside it immediately has
+to make a dexterity save or fall prone.
+And if enemies walk in the surface, or
+characters in general walk in the
+surface, it's difficult terrain, so they
+move at half speed and they again have
+to make a deck save or fall prone. Just
+like we talked about with chromatic orb,
+when you create a surface where enemies
+can fall prone when they walk on it in
+Boulders's Gate, it's incredible crowd
+control. Cuz when an enemy falls prone
+on their turn, they lose the rest of
+their turn. Most enemies move before
+doing their other actions. So, you're
+very likely to get repeated stuns. When
+you have a surface that enemies can slip
+and fall on, grease is a pretty good way
+to produce this cuz it's a large radius.
+It uses your spell save DC. So, it ends
+up being a very strong crowdcontrol
+spell. By the way, the radius on the
+wiki right now says 17 ft, which is
+incorrect. It's 13 ft um in game, and
+that's at the actual radius of the
+spell. So, at time of recording, there's
+an error on the wiki. Uh if you're
+following along there, a moderately
+large radius non-conentration stun is
+obviously excellent. And also just by
+default, knocking enemies prone by
+casting a spell on them and then they
+fall over is pretty good cuz you can
+knock enemies prone and then make
+attacks with advantage with the rest of
+your party members against those now
+prone enemies. It's also a great way to
+interrupt concentration on spellcasters.
+When they fall over, they immediately
+lose concentration on their spells. So
+the effect of grease is very very
+strong. However, there are two things in
+Boulders's Gate that hold this spell
+back a little bit or at least um reduce
+the priority of this spell. The first is
+that it is somewhat redundant with
+bottles of grease. You can find bottles
+that create a grease surface and throw
+them and then it creates a very similar
+surface. Um but the bottle has some key
+differences. So, I think it doesn't
+entirely replace the spell. Firstly,
+it's a smaller radius and when you
+reduce the radius of a circle, it
+decreases the area of that circle
+dramatically. So even small changes in
+radius mean it's much harder to hit lots
+of enemies in the spell. And secondly,
+when you use a bottle, it has a fixed
+save DC of 12, whereas when you cast the
+spell, it uses your spell save DC. So
+enemies that you hit with the spell are
+much more likely to fall over. So the
+existence of the bottle, sometimes
+you'll see people say that you don't
+need grease cuz those exist. I don't
+think they replace the spell. The bigger
+downside for grease is that it is
+flammable. When you hit any uh grease
+surface with fire, it turns into a fire
+surface. And the ability to accidentally
+just delete your spell that you spent a
+spell slot on is obviously pretty bad.
+Now, you'll have gotten the initial
+value of knocking enemies prone. And
+even if you cast it into a fire, it'll
+still knock enemies over and then set
+them on fire, which you can do on
+purpose as well. Um, but usually you
+would prefer not to set the grease on
+fire and it's very easy to accidentally
+do this and lose control of the
+battlefield as a result. A lot of
+enemies have random fire damage. A lot
+of arenas have random fires. Uh, it's
+very easy to cast it on a lit torch that
+you just didn't see and not get the full
+effect. So, this spell is a little bit
+harder to use thanks to the fact that
+it's flammable. Nonetheless, it's such a
+powerful effect that you're still going
+to use it in a lot of fights, especially
+at early levels. An AoE non-conentration
+stun is just massive. So, I'm going to
+give it a tier. Um, it would be S tier
+if it wasn't flammable. Guiding Bolt.
+Guiding Bolt is a cleric damage spell.
+It's 60 ft range targeting a single
+enemy, and you make an attack roll, so
+you roll against their armor class. If
+you hit, you do 4 d6 radiant damage. 4d6
+damage is an okay amount of damage for a
+first level spell. It's 14 average
+damage to a single target. Um, which is
+decent. It's not incredible, but it's
+worth spending the spell slot on a
+decent amount of the time. And then also
+the next attack against that target has
+advantage. The actual damage from the
+spell is reasonable and made a little
+more attractive because clerics don't
+have a lot of great options for direct
+damage in the early game. Um although
+now that they get toll the dead clerics
+will often want to use a cantrip rather
+than a first level spell on doing direct
+damage to an enemy. So guiding bolt has
+become less attractive in that sense
+because you now just have a good ranged
+damage spell available on every cleric.
+Um but even so there are times when you
+just need a little more punch and
+guiding bolt will provide that. Radiant
+damage is also a relevant damage type. A
+lot of clerics are going to be using
+radiating orb stuff so it's a great way
+to apply that as well. Advantage on your
+next attack roll against an enemy is
+also solid. Obviously, gaining advantage
+is good. The fact that it only works for
+one attack roll, though, is much less
+attractive because a lot of the time the
+character that you would want to have
+advantage on their next attack um can
+get that anyways. If they're a rogue,
+they can bonus action hide. You can move
+them into a darkened area or something
+like that. Um there's a lot of other
+ways to gain advantage on one attack or
+multiple attacks. So, while Guiding
+Bolt's bonus is nice and definitely uh
+you will be happy to have it, it's not
+something that you're going to go wild
+over. That basically sums up the spell.
+This is a solid spell that you're never
+going to be sad to have. You will use it
+pretty frequently. Um but it's never
+going to be an allstar. It's more a
+filler action for when you don't have
+something better to do with your turn.
+Circle of the Star Druids also get
+Guiding Bolt. Uh and they get free casts
+of Guiding Bolt. Now, they'll almost
+never prepare and cast this using their
+actual spell slots, but the free casts
+of Guiding Bolt from their class feature
+they're going to use all the time. Um,
+but as a spell, it's not particularly
+important to them. Guiding bolt, I
+think, is another very classic Btier
+spell. It is a great filler action for
+when you don't have anything better to
+do. Uh, so you're never sad to have it,
+but it's not something that really draws
+you to playing cleric specifically. Hail
+of Thorns. Hail of Thorns is a ranger
+spell cast as part of making an attack
+roll costs your bonus action and the
+target of the attack and everyone within
+7 ft of them takes a d10 of piercing
+damage with a dexterity saving throw for
+half. That's 1d10, so 5 1/2 average
+damage and a deck save for half. You're
+spending your first level spell slot on
+this spell to do a tiny amount of
+damage, an extremely negligible amount
+of damage in a very small radius with
+restricted targeting. Um, and it takes
+your bonus action. It's obviously this
+spell is just terrible. It's a damage
+spell that does very little damage and
+is hard to use. Uh, Dtier. Next up,
+Healing Word. Healing Word is the good
+healing spell. When Cure Wounds is
+having a bad day, which is most days, it
+lies awake at night thinking about
+Healing Word and wishing it had stayed
+in school. Healing Word is a 60 foot
+range bonus action that heals for 1d4
+plus your spell-casting modifier. Being
+a ranged and a bonus action makes this
+spell actually usable as a healing spell
+in combat. There's three main uses for
+healing word. First is as a panic
+button. It's the best way to get a
+downed ally back on their feet if an
+enemy if an ally has been reduced to
+zero hit points. Healing word
+immediately gets them back into the
+fight. It only costs your bonus action.
+You don't have to reposition or
+anything. So, it is the best way to
+revive an ally who has gone down in
+combat and continue the fight in your
+favor. The second is to apply buffs. In
+Boulders's Gate 3, the buff on heal
+items are extremely powerful. The
+whispering promise and the hell rider's
+pride um can provide bless and blade
+ward to your allies. Being able to apply
+those as a bonus action at range means
+that you can refresh those buffs in
+combat and not just have them for the
+first turn of combat by throwing a
+healing potion or something like that.
+So, your character that's using those
+items can apply these extremely powerful
+buffs to your allies. It also, of
+course, benefits from any other bonuses
+to healing that you have. There's a lot
+of items that give you additional uh
+like extra healing on top of your
+default healing. Class features like
+life cleric that benefit from uh an ally
+being healed. Things like the Rude
+Mother's Revenge ring that go off when a
+character is healed. Being able to
+trigger all of those effects as a bonus
+action is way better than triggering
+them with an action. Um and doing it at
+a 60oot range means that you can do so
+pretty much no matter what the fight
+looks like. Finally, there is the last
+usage of the spell, and this is probably
+the least common, but still relevant,
+which is actually just using it as a
+healing spell to give your ally enough
+hit points to survive the next enemy
+attack. If an enemy is doing an average
+of 10 damage and your character has, you
+know, 8 HP, sometimes it can be worth it
+to throw a healing word on them to make
+sure that they get their next turn. So
+pay attention to how much damage enemies
+are doing. And healing word can often
+buy you a whole extra turn with a
+character, even in a fight that's going
+badly. Any one of these uses is enough
+to make this a pretty powerful spell.
+All three of them together mean that
+healing word is just a spell that you
+should have in pretty much any party.
+Just makes your playthrough safer,
+smoother, and easier at any given time.
+Um, you will try not to spend too many
+level one spell slots on healing word
+because obviously a spell slot you're
+spending on healing word is one you're
+not spending on command, for example.
+Um, but this is still an extremely
+powerful spell. It just gets better as
+the game goes on too and level one spell
+slots uh become less important to your
+character. S tier for healing word. Next
+up, Hellish Rebuke. Hellish Rebuke is a
+warlock damage spell that does 2d10 fire
+damage with a dexterity save for half um
+as a reaction when an enemy attacks you.
+11 average damage with a deck save for
+half is obviously not a good ratio for a
+level one spell. That is a waste of a
+spell slot most of the time. Um but the
+fact that this spell doesn't cost you an
+action does make it more interesting. On
+the face of it, the damage is pretty
+poor. But since it happens on the enemy
+turn, if you kill an enemy on their
+turn, you can do something else with
+your next turn. And even better, if you
+kill an enemy that has multiple actions
+on their first action, they won't get a
+second action, and you'll actually gain
+action economy. So, this spell can
+sometimes snowball the fight in your
+favor by getting you more effective
+turns. It's very expensive to do that
+and fairly unlikely because the damage
+is so low. So, the hit point totals have
+to line up pretty perfectly for Hellish
+Rebuke to actually end up gaining you
+actions. But when it does, it's pretty
+powerful. The real advantage of this
+spell, though, is that it has synergy
+with specific builds, which are uh
+builds based around retaliation. Armor
+of Agthus, also a warlock spell, is a
+very powerful strategy, and Hellish
+Rebuke adds a nice amount of retaliation
+damage to that. There's also a couple
+bugs that you can abuse with Hellish
+Rebuke. Firstly, despite being a spell,
+it works while you're in barbarian rage.
+Uh there's a couple spells that work
+while you're raging as a barbarian. So,
+if you're multiclassed with barbarian
+and warlock, hellish rebuke is a nice um
+additional damage to a character combo
+that probably is going to be taking hits
+a lot. Uh and also, if you react to a
+multi-attack or a spell with multiple
+parts like magic missile or scorching
+ray, um the game will throw up the
+reaction in response to the first damage
+instance that you take. And then if you
+use hellish rebuke in response to that,
+it the game just forgets that the rest
+of them exist. So if you hellish rebuke
+a scorching ray from an enemy, you eat
+all but the first scorching ray. So you
+can actually use this to uh delete parts
+of enemies turns thanks to that bug.
+between the ways that you can build
+around this with the sort of bugs that
+uh this spell has and the fact that it
+has some synergy with specific builds. I
+think that it is a Ctier spell uh on in
+terms of just ratio of damage output to
+spell slot. It's terrible, but there are
+enough cool things that you can do with
+it that sometimes you're going to want
+to use it anyways. Next up, heroism.
+Heroism is a concentration-based buff
+spell. So you cast it on one of your
+allies and for 10 turns it gives them
+immunity to fear as well as five
+temporary hit points every turn. You can
+also upcast it and you can target one
+additional creature for every spell
+level that you upcast it with. So with a
+fourth level spellcast of heroism, you
+can target your entire party.
+Heroism has uh some really interesting
+things going for it. Five temp HP every
+turn is obviously not that much, but in
+fights that go long, this will add up to
+an enormous amount of hit points. If you
+were theoretically to end up in a fight
+that lasted for 10 turns and took at
+least five damage every turn, you would
+get 50 temp HP out of this spell, which
+is very good. But if you don't take any
+damage, then the temp HP that you get in
+subsequent turns is wasted. And in
+shorter combats, obviously, you're going
+to get significantly less value out of
+it. There's two main uses for heroism.
+The first is at early levels when fights
+are more likely to go long, you can put
+this on your main melee character.
+They'll be consistently taking damage
+and it can act as a regeneration spell
+to keep them healed up throughout the
+fight. The second is at later levels um
+when there are encounters where you want
+fear immunity, you can use a third or
+fourth level spell slot on this spell
+and give your whole party or anyone
+who's going to be hit by the fear effect
+immunity to that. And that can really
+give you some advantages in some
+otherwise fairly difficult encounters.
+There's a lot of ways to get fear
+immunity in the game, but heroism is a
+pretty good one. It doesn't take any
+action. it gives you the extra healing
+value by giving you the extra temp HP.
+So, if you need uh fear immunity, this
+is not a totally embarrassing way to do
+it. That being said, the value of this
+spell is still going to be fairly low in
+most encounters. You need a lot of
+conditions in order for heroism to be
+good because you need to be consistently
+taking damage. You need to not be using
+other sources of temporary hit points
+cuz they won't stack. So, you're going
+to lose a lot of value if you have a
+character who's using stuff like armor
+of Agthus or if you're using the uh item
+that gives you temp HP when you heal an
+ally, things like that. It also doesn't
+count as healing, so it doesn't trigger
+the onheal effect. Um, and you also need
+to have fear immunity be relevant. For
+fights where those things are all true,
+heroism is a pretty good effect, but
+that describes a very small number of
+fights. I'll be honest and say that this
+is kind of a pet spell of mine. I think
+that this spell is a little bit
+underrated in particular in the late
+game. Um, spending a fourth level spell
+slot on this before you have heroes
+feast online to get fear immunity for
+your whole party can solve some
+otherwise uh fairly difficult encounters
+and you get a lot of hit point value out
+of it. So, if you're a lower damage
+party setup, then you can use it. But
+from an objective standpoint, uh,
+heroism is only going to be valuable in
+a very small subset of encounters. So,
+I'm going to give it C tier. I was kind
+of tempted to give it B tier because I
+actually really like this spell and
+think that it should be used a little
+more than it is and a lot of people
+would have it in D tier, I think. Um,
+but uh C tier, I think, given that its
+uses are pretty narrow, is very fair for
+heroism. Next up, hex. Hex is a warlock
+spell. Costs a bonus action and it uses
+your concentration. Um, and you cast it
+on a target within 60 ft. And as long as
+you're concentrating on that spell, all
+of your attacks against that target do
+an extra 1d6 of necrotic damage. Counts
+for any time you roll an attack roll
+against the enemy. So if you hit them
+with a weapon, if you fire an Eldrich
+blast at them, anything that rolls an
+attack roll is going to deal an extra d6
+of damage with hex. Doesn't work if
+they're making a saving throw. So a
+fireball won't do extra damage. Um, but
+anything that rolls an attack will. This
+is especially good with effects that
+roll multiple attacks, like a warlock's
+Eldrich Blast, which can fire up to
+three beams, or a scorching ray or
+something like that, because you get the
+extra 1d6 damage on every one of those
+individual attacks. For each attack roll
+that you make, you're going to get an
+extra d6 of damage with hex. This can
+add up to a ton of damage. I've already
+talked about how uh with guiding bolt,
+4d6 damage is a pretty reasonable ratio
+for a level one spell. Hex can do that
+in one turn if you use a hasted action
+to fire two Eldrich blasts at level
+five. Um and then continues to do
+additional damage as long as that enemy
+is hexed. And then when you kill the
+enemy, you get the ability to reapply
+the hex as long as you maintain
+concentration on it. you can spend
+another bonus action and no spell slot
+to hex a new creature. So basically,
+every single target that you fight for
+the entire day, cuz it lasts all day,
+you're going to be doing an extra d6 of
+damage on every attack against them, as
+long as you have a bonus action and
+don't lose concentration on the spell.
+This can add up to hundreds of damage
+over the course of longer adventuring
+days, even potentially thousands if you
+take really, really long adventuring
+days. Um, and obviously for a level one
+spell, that's incredible value. Now,
+it's a warlock spell, so you're not just
+spending a level one spell slot on this.
+If you're a higher level warlock, then
+you're automatically upcasting it and
+maybe spending a much more valuable
+spell slot. But for a character who is
+um multiclassed into Warlock, the level
+one warlock spell is incredible. or if
+you have level one slots from
+multiclassing out of warlock. And even
+for a warlock with higher level options
+available, hex is still an extremely
+efficient spell that does tons and tons
+of damage and is going to be very useful
+for increasing your damage output over
+the course of the day. Hex also has a
+secondary effect, which is that it gives
+the target disadvantage on ability
+checks with an ability of your choice.
+Um, but importantly, this is ability
+checks, not things like attack rolls and
+saving throws. So, skill checks. So, you
+can make an enemy worse at picking a
+lock, but you can't make them worse at
+shooting a bow or dodging a fireball.
+Most of the time, you don't care about
+enemy skill checks at all. There's one
+relevant skill check that enemies will
+make, which is an athletics check. So,
+almost always you're going to use hex on
+strength to make enemies worse at
+shoving you around and worse at
+resisting being shoved. Sometimes you
+could use dexterity if you know they
+have higher acrobatics, but honestly, if
+you just always pick strength and never
+put any brain power into considering
+which ability you're going to use with
+hex, you're going to be happier and
+better off. I would actually say that
+for me, this ability is mostly a
+downside because it makes the spell take
+an extra click to cast, uh, which is
+much worse than the benefits of the
+spell in my opinion. All that said
+though, the extra damage that you get
+from hex is absurd. I mean, it's a first
+level spell that can add up to a
+thousand damage uh with just one spell
+slot. Obviously, that's over many, many
+encounters and everything, but the
+potential on this spell is really good.
+The actual effect in combat is great. It
+makes it much faster for you to kill
+high health enemies. It's better against
+bosses cuz the tougher an enemy is, the
+more value you're going to get out of
+hex. Just an incredible spell that does
+enormous amount of damage. Pretty much
+every warlock is going to take this
+spell and use it. uh constantly through
+the early game. You may replace this at
+later levels when your warlock levels
+have scaled up enough that you have
+access to lots of higher level spells
+and there's other stuff you want to
+concentrate on, but hex is so much
+damage and is going to see see so much
+use, it can't go anywhere other than S
+tier. Next up, Hunter Mark. Hunter Mark
+is the ranger version of Hex, it's
+mechanically identical except for a
+couple small differences. Firstly,
+instead of working on every attack, it
+only works on weapon attacks, not
+unarmed strikes or spells. And secondly,
+instead of doing a d6 of necrotic
+damage, it does a d6 of the damage type
+of your weapon. That's mostly an
+advantage because often that damage type
+will be piercing. So you can use the
+ballist armor or the bloodthirst dagger
+in order to double the damage that this
+does in the late game. Um, so mostly
+these mechanical differences don't
+matter. You're going to use it exactly
+the same way that a warlock would use
+hex to deal an extra 1d6 damage on all
+of your attacks. It also doesn't have
+the debuff on skill checks, but again,
+that mostly doesn't matter. Just like
+for warlocks, hex is uh incredible for
+rangers. Tons and tons of extra damage,
+and you're going to use it on every
+ranger. Always happy to have this spell
+S tier. Next up, ice knife. Ice Knife is
+a damage spell. You target a creature
+within 60 ft and make an attack roll
+against them. And then if you hit, they
+take 1d10 piercing damage. Um, and then
+whether you hit or miss, everything
+within 7 ft of the target, including the
+target itself, has to make a dexterity
+save or take 2d6 cold damage. If they
+pass the save, the 2d6 cold damage is
+completely negated. They don't take half
+on a failure. It also leaves behind an
+ice surface in that 7 ft radius. And we
+know already exactly how good ice
+surfaces are. We've talked a lot about
+that already. Ice Knife is very similar
+to casting chromatic orb for cold. It's
+a direct damage spell that leaves behind
+an ice surface, and that is a very
+powerful thing for a spell to be. It
+does a little bit more damage. Uh, ice
+knife does an average of 12 1/2 damage
+compared to cold chromatic orbs, nine
+damage. Um, and does 19 1/2 damage if
+the enemy is wet, compared to chromatic
+orbs, 18 damage against a wet enemy. Uh,
+so it definitely uh has a slight edge in
+that it does more damage, but obviously
+you sacrifice all of the incredible
+versatility from chromatic orb. The
+question is, is the extra couple points
+of damage worth losing all the
+versatility from chromatic orb? And the
+answer is basically no. For wizards and
+sorcerers who get access to both
+chromatic orb and ice knife, you're
+almost always just going to use
+chromatic orb instead. However, this
+spell is also available to druids who
+don't get chromatic orb. And for druids,
+this is just going to be a mainstay
+combat spell. Even a slightly worse
+version of chromatic orb is still an
+excellent uh non-conentration
+control and damage spell. So druids are
+going to be casting this all the time. A
+tier for ice knife, just going to be
+cast very frequently. Inflict wounds.
+Inflict wounds is a cleric damage spell.
+It's melee range, uh, which is both good
+and bad for a damage spell. bad
+obviously because it makes the targeting
+and positioning much more restrictive
+because you can't use it on an enemy
+who's far away, but good because if an
+enemy has closed to melee with your
+cleric, you won't take disadvantage on
+the attack roll that you're making with
+inflict wounds. If you hit the target
+with it, they take 3d10 necrotic damage,
+which is 16 and a half average damage.
+That's the highest average damage for a
+level one spell, unless you count things
+like hex and hunter mark. um and is
+actually one of the highest damage
+actions available at first level.
+Compare this to a paladin with a smite
+attack. A a paladin with a one-handed
+weapon, like a long sword, is going to
+do 7 and 12 weapon damage on average,
+plus nine average damage from their
+smite for 16 12. So, inflict wounds is
+basically like giving a cleric the
+ability to make a paladin smite using a
+first level spell. That's still not as
+amazing as it sounds because clerics
+will often have things that they want to
+do uh that that they would rather do on
+their turn. Things like casting command
+and clerics obviously still don't want
+to be in melee as much as paladins do.
+They'll often be concentrating on
+something. So putting them in danger is
+can be fairly risky. But inflict wounds
+does the damage to back up uh using the
+spell. It's a very good ratio of spell
+slot to damage output. It also has some
+uses at higher levels. You can upcast it
+and it does an extra d10 of damage for
+every level that you upcast it, which is
+pretty powerful. You can also extend the
+range if you're multiclassed with
+sorcerer and use extended inflict
+wounds, which is a really solid ranged
+attack if you want to go that route. So,
+there's some ways you can build around
+the spell at uh most clerics are not
+going to be using inflict wounds that
+often, but in some cases where you just
+need an enemy dead, this is a great way
+to do it. Uh, so I'm going to give it B
+tier. If you're comparing this spell
+directly to Guiding Bolt, um, in
+general, I think inflict wounds is very
+slightly better now that Toll the Dead
+exists. So, clerics have another ranged
+damage option. Um, but both of these are
+just going to be solid spells that your
+clerics will use when appropriate. Uh,
+but not your usual go-to cuz you're
+going to be casting other spells like
+command. Longstrider. Longstrider is a
+ritual spell, meaning that when cast
+outside of combat, it doesn't cost a
+spell slot. It lasts all day, doesn't
+require concentration, and gives the
+target plus 10 to their movement speed.
+That means because of those features
+that you can have it on every character
+in your party, on every summon in your
+party, and everything all the time. You
+can use a character who stays at camp to
+cast this spell, or you can take it on a
+member of your active party. And either
+way, um, every single party member in
+Boulders's Gate should always have
+Longstrider at all times. 10 ft of extra
+movement speed completely for free is
+ridiculous. Mobility is one of the most
+important things in the game, and this
+gives it to you without any cost. Uh,
+honestly, I could go on and on about how
+good this spell is, but the only thing
+that you really need to know is it lasts
+all day, it's free, and it's a huge
+bonus. S tier for Longstrider. Um, if
+there was an S+ tier on this tier list,
+it would definitely go in that. Mage
+armor. Mage armor is another dayong
+buff, though it actually costs a spell
+slot. And how it works is you cast it on
+a character who's not wearing armor, and
+it changes their base armor class from
+10 to 13. Every character has a base AC
+of 10 plus their dexterity modifier.
+With mage armor, that becomes 13 plus
+their dexterity modifier, as long as
+they're not wearing any other form of
+armor. You can use a shield with mage
+armor, just not any uh set of armor that
+has light, medium, or heavy in its item
+description. Uh and that includes
+helmets and boots. So, this only works
+if your character is completely in
+cloth. That's okay because for the
+characters that want to use this spell,
+mostly sorcerers and wizards, there are
+a lot of good robes and cloth armor item
+sets. So, those characters would
+probably be in robes anyways. And for
+them, it's just plus three AC for free
+uh for the entire day or for for the uh
+very cheap cost of a level one spell
+slot. At low levels, you're almost
+certainly not going to be using mage
+armor significantly. Spending a level
+one spell slot on plus three AC is not
+an amazing trade. You would rather spend
+that spell slot on an offensive spell
+and combat faster. Uh and a lot of races
+in Balders's Gate 3 have natural armor
+proficiencies. Gail, for example, is a
+human, so he can just wear light armor
+and have 13 AC um without having to
+spend a spell slot. But at later levels,
+once you start getting powerful robes
+that would make you want to wear cloth
+armors anyways, mage armor becomes
+extremely valuable. So, at low levels,
+you're not going to cast this spell, but
+at higher levels, it's going to be a
+basically mandatory part of the setup
+for almost any character that is going
+unarmored. For that reason, I'm going to
+give it a tier because it has very low
+impact on the most dangerous part of the
+game, the early game when you're not
+going to use it. But in the late game,
+uh, this spell is extremely helpful.
+Just a, uh, powerful bonus that you can
+get at the cost of a spell that lasts
+all day. It's also worth noting that
+this spell persists even if the
+character leaves your party. So, you can
+have a character stay at camp and cast
+this on your wizard and then you get it
+for free. um which is obviously more
+powerful when you get something for
+free, but if cast from your active
+party, this is still a very powerful
+spell. Magic missile. Magic missile
+fires three missiles at targets within
+60 ft. You can split these up over three
+different targets or target them all at
+the same creature. And each missile does
+1d4 + one force damage. Force damage is
+a good damage type. Almost nothing
+resists it. And the important thing
+about magic missile is that it just
+always works. The only way to block a
+magic missile is with the shield spell.
+Otherwise, it can't miss. It will always
+hit its target. Uh, and it goes around
+corners. It doesn't care about line of
+sight. So, as long as the enemy is
+within 60 ft, you can target them with
+magic missile and they will take damage.
+Guaranteed damage is excellent. And
+being able to split that up across
+multiple lowhealth enemies to finish
+them off is very powerful. There's a lot
+of fights where you just need a little
+bit of damage on a few different targets
+spread around the battlefield. And magic
+missile does that excellently. What's
+more, it's multiple damage instances.
+So, it combines very very well with any
+effect that adds extra damage uh anytime
+you hit an enemy. Things like the callus
+glow ring add two damage per missile.
+Lightning charges uh from the spell
+sparkler build up on each missile. So
+you're going to get significant
+additional damage there. Shriek from
+Farara Lou, Hex Blades Curse. There's
+lots of ways to increase your damage per
+missile. And if you check out my
+one-shot kills without dice build, I go
+into how you can build magic missile up
+to the point where it just one-shot
+kills with 100% accuracy uh every single
+enemy in the game. Even if you're not
+building around the spell though to just
+one-shot everything, it's still an
+incredible spell. Guaranteed damage, no
+questions asked, um that goes around
+corners that uh doesn't care where your
+enemies are or what they're doing is
+just incredibly versatile and incredibly
+powerful. And when you take into account
+the additional synergies that you get,
+this spell is just even better. Uh
+there's almost nothing that you just
+can't do with magic missile. It can be
+your mainstay combat spell. It can be a
+utility spell to win certain encounters.
+It can be used only as backup to finish
+off low health enemies, but no matter
+what, pretty much every party is going
+to want magic missile because the number
+of times where you just need a little
+bit of damage on an enemy are incredibly
+high. It also has a really strong
+synergy with the cold the weak elithid
+power. If an enemy is at low health, you
+can magic missile get them below the co
+the week threshold and then pop a bunch
+of enemies with coal the week. Uh, so
+there are tons and tons of applications
+and synergies, but even at base, the
+spell is just excellent because it
+always works. The enemy of optimization
+is randomness, and magic missile is the
+least random thing in the game. S tier.
+Protection from evil and good.
+Protection from evil and good is a long
+rest buff spell. Uh, so you that
+requires your concentration. So you
+target an ally and until the you long
+rest or until you drop concentration on
+the spell, they get a protection effect
+against certain kinds of creatures. The
+creatures this works against are
+aberrations, celestials, elementals,
+fay, fiends, and undead, which um do
+represent a fair subset of the
+encounters in Boulders's Gate. In
+particular, aberrations and undead are
+very common in Boulders's Gate 3. So,
+protection from evil and good actually
+works in a lot more encounters than you
+might think that it would. What the buff
+that it gives you against these enemies
+is they all get disadvantage on their
+attack roles against you. That's pretty
+powerful. A concentrationbased buff that
+gives your main the character who's
+going to be taking the most attacks um
+gives enemies disadvantage against them
+is going to prevent a decent amount of
+damage in the encounters where it's
+relevant. And on a day where you're
+going to be taking mostly fights against
+this type of creature, that can be a
+pretty powerful buff. The main downside
+is that it conflicts with your
+concentration, and a lot of characters
+that get access to this spell will want
+to be concentrating on something else.
+In addition to that effect, protection
+from evil and good also has a secondary
+effect, which is that it makes the
+target immune to frightened. That's not
+what the tool tip says, but the tool tip
+is wrong. The tool tip says that it uh
+makes the target immune to charmed,
+frightened, and possession by the listed
+creatures, but it actually does nothing
+against charm and prevents frightened
+from everything, not just the creatures
+that it's supposed to work against. Uh
+so basically, you can think of it as
+immunity to frightened and all of those
+types of creatures get disadvantage on
+their attack roles against you. That's a
+pretty solid buff. It's not going to
+work in every combat obviously, but in
+the combats where it will work, it's
+pretty good. Giving all enemies
+disadvantage on attacks against you in
+in a given fight can be pretty solid.
+Uh, and immunity to frightened is also a
+pretty relevant status. Though, in
+general, I think you're going to be
+better off if you want to get this from
+a concentration source using heroism or
+using at later levels things like hero's
+fee in order to get fear immunity. All
+that said, even in the encounters where
+you can use this spell, it's often going
+to be better to use your concentration
+on something more proactive and
+powerful. So, even when this spell is
+usable, it's still not often going to be
+the best thing that you could do. I'm
+going to give it Ctier because it does
+have uses in some encounters, but a lot
+of the time you're going to prefer to do
+something else. Next up, Ray of
+Sickness. Ray of sickness is a damage
+spell. 60 foot range attack roll. And if
+you hit, they take 2d8 poison damage,
+which is a very small amount of damage
+for a level level one spell. And poison
+damage is the worst damage type in the
+game. Like half the enemies in the game
+are resistant or immune to poison. They
+also, if they're not immune to poison,
+have to make a constitution save or
+become poisoned for two turns, which
+gives them disadvantage on attack rolls.
+This is a pretty small debuff and a lot
+of the enemies that you would want to
+get this debuff on will have really good
+constitution saves. Constitution in
+general is the worst save to target
+because enemies will tend to have pretty
+high constitution saves. And in
+particular, characters who you want to
+give disadvantage on their attack roles
+will often have very good con saves. So,
+it's a damage spell that doesn't really
+do damage, a debuff spell that's
+unreliable with a bad debuff. Uh, this
+spell is just not good. Don't waste your
+time. Dt tier sanctuary. Sanctuary is a
+cleric spell. It's a bonus action that
+lasts for 10 turns and does not require
+your concentration. While a character is
+in Sanctuary, enemies cannot directly
+target them with attacks. They can still
+be caught in AoE attacks, but they can't
+be targeted by enemies for direct
+attacks. The sanctuary will break if the
+creature inside of it uh harms another
+character, so does damage or causes a
+negative condition. So, you can't attack
+from sanctuary, and you can't debuff
+from sanctuary, but you can safely heal
+and buff your allies, maintain
+concentration on spells that have
+already been put in place. So, if you
+lock down an enemy uh using a debuffing
+spell that doesn't do damage, and then
+sanctuary that character, they will not
+be able to be attacked and thus won't
+lose concentration on the spell. This is
+one of the most versatile and powerful
+spells in the entire game. It's only a
+bonus action and it can prevent uh enemy
+turns entirely. If they were mostly
+going to attack one character,
+sanctuarying that character will prevent
+the enemies from acting. It can be used
+to perfect to operate in perfect safety
+while healing and buffing your allies or
+maintaining concentration on powerful
+spells like haste. You can haste your
+allies or twin haste with a sorcerer,
+then put sanctuary on that sorcerer and
+then they will maintain concentration on
+that haste uh basically for free. While
+you do have to be a little bit careful
+around AoE damage cuz you can still be
+hurt in Sanctuary. You just can't be
+attacked. Um this spell gives you so
+much flexibility and so much
+invulnerability that it is just one of
+the most powerful spells in the game.
+Not only is the default use of just
+sitting your healer or haste bot in
+Sanctuary just incredible, you can also
+use this in tremendously creative ways.
+You can block a doorway with a
+completely immune character with it. You
+can use it to cluster enemies around
+you. If they can only see the sanctuary
+character, they'll cluster around them
+and then uh move that character away and
+then drop a fireball on those enemies.
+Minor illusion is better for this, but
+if the character's already sanctuary,
+then why not? Uh there are tons and tons
+of other effects. You can also just use
+it to save a lowhealth ally who you want
+out of the fight um to make sure that
+they don't go down. You can use it on a
+character who is suddenly in danger in
+order to keep them alive. Uh the uses
+both proactively and reactively for this
+spell are incredible. I could just keep
+going on and on about the uses for this
+spell, but sanctuary is just uh absurdly
+valuable and it's one of the best tools
+for getting out of bad situations and
+making good situations better. S tier
+searing smite. Searing smite is a
+paladin spell. It's one of their special
+smite attacks. Um but as a spell, it has
+some slight differences from the normal
+divine smite that paladins can just
+always use.
+You make it as part of a weapon attack,
+but it also requires your bonus action.
+So unlike normal divine smite, you have
+to both make the attack and spend a
+bonus action. You can also use this
+alongside a normal divine smite attack.
+So you could do both divine smite and
+searing thunderous or wrathful smite in
+the same turn. Searing smite in
+particular requires your bonus action,
+your concentration, and a level one
+spell slot to do an extra 1d6 of fire
+damage. And then enemy the enemy has to
+make a constitution save. Uh and if they
+fail, they take an extra 1d6 of fire
+damage every turn as long as you for 10
+turns as long as you maintain
+concentration on the spell. Each turn
+they get a new constitution save in
+order to end to end this effect. Let's
+compare this to just the default divine
+smite. If you spend a level one spell
+slot on divine smite, you get nine
+damage up front. Spend it on searing
+smite, you get three and a half damage
+up front. And then if the enemy fails
+the save, you get another three and a
+half damage next turn. And then if they
+fail the save again, you get another
+three and a half damage. So not only
+does does it do less damage than divine
+smite, it also delays the damage
+compared to just using this spell slot
+on divine smite. If the other special
+smites didn't exist, this might have
+some usage because you could still do
+both divine smite and searing smite in
+the same turn, but it's also just worse
+than the other special smites. There is
+no reason to cast searing smite. It's
+the worst of the smite spells by far. Uh
+D tier. The only uh use for this spell
+is if you get it for free as a Zariel
+tling, not as a paladin. Uh cuz then
+it's obviously doesn't cost you anything
+to use, so they'll still use it. But
+paladins should never cast this spell.
+shield. In the two years that I've been
+doing Boulders Gate 3 build guides, I
+probably talked more about this spell
+than pretty much any other feature of
+the game at all. Shield is an incredible
+defensive reaction. The way that it
+works is when an enemy attacks you, you
+can cast shield and increase your armor
+class by five until the beginning of
+your next turn. The game will only
+prompt you to do this if it would turn a
+hit into a miss from an enemy. So every
+time you're using shield, you're always
+negating at least one enemy attack, but
+then you also keep the plus five AC
+bonus for the rest of the turn. So
+future attacks from that enemy or other
+enemies are also more likely to miss.
+You can also use this to block magic
+missile. It makes you completely immune
+to magic missile. And some enemies in
+the game do cast that, so that will come
+up very occasionally, but the vast
+majority of times that you're using
+this, it's going to be to turn a
+dangerous enemy weapon attack into a
+missed attack. Turning a hit into a miss
+as a reaction is incredible. You're
+spending none of your turn because
+you're using your reaction to negate
+often the enemy's entire turn or maybe
+even multiple turns from enemies if they
+then are not able to hit your newly
+higher AC. This is really good on
+characters with low AC. enemies will
+preferentially target them and then you
+can trick them uh by turning those hits
+into misses and then suddenly your
+squishy wizard or whatever is now really
+hard to hit. Really good on on
+characters with high AC because uh it
+turns your already difficult to hit
+armor class into nearly impossible for
+enemies to hit. shield won't stop
+critical hits, but the for most
+characters, if you have decent AC, it's
+going to turn pretty much any attack
+that you want an enemy to miss into a
+miss because your AC should be high
+enough that it's within five of them
+missing on most normal attack rolls that
+they make. Uh, so this spell is going to
+save you tens of thousands of points of
+damage across a playthrough. the number
+of additional uh hit points, uh actions
+that you get cuz your characters stay
+alive, actions that your enemies lose
+because they are missing spell missing
+attacks that they thought they were
+going to hit. It also works against
+spells with attack rules, so they may be
+even burning resources in order to now
+miss with an attack that cost them a
+highle spell slot. Uh shield is just a
+ridiculous spell. any character that can
+have access to this spell should try to
+and it's often worth dipping into a
+class that gets shield pretty much just
+for this spell. S tier for shield. Um
+it's even better now that hexlade exists
+because you can get it on basically
+everyone for more or less free cuz hex
+blade is so strong. Uh just again one of
+the very strongest effects in the game.
+Shield of faith. Shield of faith is a
+concentration dayong buff. So it lasts
+until you lose concentration on it. Uh,
+and it gives the target plus two to
+their armor class. Unlike mage armor, it
+doesn't have any requirements. It will
+always work no matter what armor the
+creature is wearing. The only thing it
+doesn't stack with is more copies of
+Shield of Faith. Plus two to your AC is
+a small but very relevant buff um that
+most characters would be pretty happy to
+have. The main downside of Shield of
+Faith is just the opportunity cost
+because it takes your concentration. A
+lot of characters will not want to be
+using Shield of Faith because they have
+more important things to concentrate on.
+As a cleric and paladin spell, clerics
+will usually want to be concentrating on
+bless at low levels and on spirit
+guardians at high levels and may have
+other utility spells like protection
+from evil that they want to concentrate
+on in certain encounters. So just using
+your concentration on shield of faith
+all day may not be the best for a
+cleric. For a paladin, it's a little
+more attractive. Uh, paladins are less
+likely to drop concentration on spells
+because they have good saving throws and
+good armor class. They can cast shield
+of faith on themsel in order to make an
+even more defensive paladin. And one
+nice thing about this spell is it
+increases your AC. So, if you cast it on
+yourself, you're less likely to drop
+concentration on it cuz you're less
+likely to take damage. So, it protects
+itself a little bit unlike most other
+concentration spells. The real use of
+this spell though is for characters who
+have a onelevel dip in cleric. Something
+like a fighter or ranger with a onelevel
+cleric dip can use shield of faith and
+just concentrate on it all day for a
+nice bonus. Uh, and those characters can
+make pretty solid use of this spell. And
+a lot of the time they want to be
+concentrating on something anyways.
+Maybe they're using the strange conduit
+ring that gives you extra damage on
+concentration when you're concentrating
+on something. Shield of Faith is a great
+way to trigger that while also getting a
+pretty useful bonus for the characters
+that actually get this spell. Uh,
+clerics and paladins, this is less
+exciting, clerics in particular won't
+usually want to be concentrating on this
+spell. But for characters that have one
+level dips in cleric, this is very good.
+So, while it's not for everybody, it's
+solid for certain builds. And I'm going
+to give it B tier. Next up, sleep. Sleep
+is a debuffing spell, and it's one
+without a saving throw, which makes it
+always worth looking at. It actually
+works a little bit differently than
+almost any other spell in the game. You
+target creatures and it affects them
+based on their total HP. So, it will
+affect up to 24 total hit points of
+creatures and put them to sleep. So, if
+you hit three 8 HP characters with it,
+all three of them will fall asleep. Hit
+two 10 HP characters, they'll both fall
+asleep. Hit one 20 HP enemy, it'll fall
+asleep. But hit a 30 HP enemy and it
+does nothing. The
+uh putting an enemy to sleep prevents
+them from acting at all, which obviously
+is incredibly powerful. And it has no
+saving throw. So, as long as enemies are
+below the hit point total, sleep will
+always work, which makes it extremely
+strong at low levels. The problem for
+this spell is that enemy hit point
+totals pretty quickly outscale 24 total
+hit points. Um, on higher difficulties,
+enemies have pretty solid hit point
+values. And, uh, very quickly once you
+hit level three or so, you're going to
+find that even weak enemies will have
+enough hit points that you'll only get
+one, maybe maximum two of them with
+sleep. And if you don't get a lot of
+enemies in an encounter, they will wake
+each other up. Characters can be woken
+from sleep with a bonus action shove,
+and the AI will do this. So, if you
+don't catch a lot of enemies with the
+sleep, then it will more or less not do
+anything cuz they'll just wake each
+other up and then act normally. But at
+low levels, when you can catch a big
+chunk of an encounter with sleep, it's
+extremely powerful. You can also upcast
+it. You get eight more hit points worth
+of enemies per level that you upcast it,
+which can let you hit higher level
+enemies even later into the game. And of
+course, as you damage, kill, and lower
+enemy HP, uh, you can target more and
+more powerful enemies with sleep just
+because you've done a little bit of
+damage to them. So, even later on, it
+can be relevant. But mostly, this spell
+is a very early game spell. But for the
+first three levels, this spell is
+incredible. No save, complete disable on
+uh half or even an entire encounter is
+awesome. So, for the first three levels,
+this spell is an all-star. After that
+point, you're going to swap it out. For
+that reason, it's a little bit hard to
+rate. I'm going to give it B tier
+because it's so good at the beginning of
+the game. Um, which is also the most
+important part of the game, but then
+later on falls off a cliff completely.
+So, you're going to swap out of this
+spell for almost every character that
+takes it, but in the early game it'll be
+excellent. Speak with animals. Speak
+with animals is a ritual spell, so it
+doesn't cost a spell slot and it lasts
+all day, so it's free and it lets you
+talk with animals. There's a surprising
+number of animals in the game that you
+can have conversations with. And a lot
+of the time, this will let you bypass
+skill checks in order to achieve
+something. So, some quests you can get,
+some uh bonuses or treasures and things
+like that, you can get without having to
+roll a skill check if you can talk with
+an animal. So, it does have some uh
+reasonable mechanical benefits um when
+it comes to gaining power and winning
+the game. Aside from that, it's also
+just really fun because you can talk
+with animals and that's just great to
+do. So, I personally will never play a
+party that doesn't have access to this
+effect in some way. That in some way is
+fairly loadbearing here though because
+the actual speak with animals spell
+mostly isn't necessary. The game will
+shower you with speak with animal
+potions, especially in the early game.
+you're just going to get so many potions
+of animal speaking that you can talk to
+every animal in the game using a potion
+and never cast this spell once pretty
+easily without ever buying or
+stockpiling or worrying about uh
+acquiring them. Uh cuz the game really
+wants you to be able to, you know, see
+that content. So, it makes it very easy
+for you to do that. For that reason,
+speak with animals mostly just saves you
+like a little bit of gold in some
+circumstances and a little bit of
+clicking and inventory management, which
+I personally find worthwhile. But from a
+a mechanical standpoint, the extreme
+prevalence of speak with animals potions
+makes actually taking the spell somewhat
+redundant. I'm gonna give it C tier
+because it is a real benefit and talking
+with animals is useful, but uh the game
+will give you so many sources of this
+for free that you mostly don't need to
+actually take this spell. Tasha's
+hideous laughter. Tasha's hideous
+laughter is a concentration-based
+singlet target control spell. Target an
+enemy and u they have to make a wisdom
+saving throw which if they fail, they
+fall prone and immediately start
+laughing becoming incompletely
+incapacitated. So, very similar to
+command, it's a wisdom save or the enemy
+is just out of the fight. It lasts for
+10 turns or until you drop
+concentration, but each of those 10
+turns, the enemy gets an additional
+wisdom save to try to break out of it.
+And every time you damage them, they
+also get another wisdom save to try to
+break out of it. So, in the early game,
+before your save DCs are really high,
+this will be fairly unreliable. Whenever
+you damage the enemy, they're going to
+get a chance to snap out of it, and they
+often will. In the late game, once
+you've stacked up a lot of save DC gear
+and enemies are less likely to succeed
+on their saving throws, Tasha's hideous
+laughter is just 10 turns of full
+disable. It's especially useful on honor
+mode because a lot of bosses have
+immunity to incapacitation effects, but
+for whatever reason, no immunity to
+Tasha's hideous laughter. So, a lot of
+enemies that are immune to uh tons and
+tons of other sources of crowd control,
+you can still hit with this and it takes
+them out of the fight completely. You
+can just drop some of the strongest
+enemies in the game and watch them
+helplessly lying there laughing on the
+ground while you finish them off at your
+leisure. Especially if your safe DCs are
+high enough that they can't pass the the
+saving throw. obviously excellent,
+especially cuz it's an enchantment spell
+with Arcane Acuity, Band of the Mystic
+Scoundrel casters, but even any other
+spellcaster with high spell save DCs can
+use Tasha's hideous laughter to win some
+of the most most dangerous late game
+encounters. So, in the early game, the
+spell is usually fairly safe to skip.
+You will not get a ton of value out it
+out of it early on when enemies can more
+easily break out of the save. Once
+you've stacked up a lot of save DC gear,
+this is very powerful. It's a little
+worse than some other crowd control
+options, but it works on so many more
+things that you should usually have this
+spell uh on a character that can cast
+it. So, I'm going to give it a tier.
+Thunderous Smite. Thunderous Smite is
+another one of the Paladin smite spells,
+just like Searing Smite. So, you make it
+as part of an attack. It takes your
+bonus action, although unlike Searing
+Smite, not your concentration. Uh, and
+it does 2d6 of thunder damage. And then
+enemies have to make a strength save.
+And if they fail the save, they're
+knocked 10 feet backwards and fall
+prone. Knocking an enemy backwards and
+knocking them prone is pretty powerful.
+And as a strength save, it often will
+succeed against the types of enemies
+that you want to knock prone. Uh, this
+is especially good against casters who
+are concentrating on spells cuz if you
+knock them prone, they immediately lose
+concentration on their spell. So when
+you compare this to a normal divine
+smite per 2d8 radiant damage, thunderous
+smite is often going to compare
+favorably. Doing two less average damage
+in exchange for knocking enemies prone
+and immediately breaking concentration,
+maybe knocking them off a cliff. That's
+often going to be a trade that you're
+going to want to make. Um so even if you
+compare uh divine smite and thunderous
+smite directly, thunderous smite will
+often win. However, you don't have to
+choose. You can use divine smite and
+thunderous smite both in the same turn.
+It costs two spell slots whatever level
+you made the smite attack at plus
+thunderous smite. So it can be very
+expensive in terms of resources. But if
+you really need an enemy dead, spending
+two smites on the same attack can
+guarantee kill that enemy by doing tons
+and tons of damage. So, it not only does
+it provide crowd control as an
+alternative to divine smite, it also
+provides burst damage on top of divine
+smite and is the best of the the paladin
+smite spells at doing that. For that
+reason, thunderous smite is a spell that
+almost every paladin is going to take
+and you're going to use it pretty
+frequently. So, I'm going to give it a
+tier. Uh you will often use it instead
+of divine smites or in addition to
+divine smites because it is comparable
+damage with a nice bonus effect.
+Thunderwave. Thunderwave is kind of a
+defensive damage spell. It's available
+to bards, druids, sorcerers, and
+wizards. And it's cast in a 17 foot
+cube, so uh actually a square. The tool
+tip says cube, but like almost every
+other AoE spell in Boulders's Gate, it
+completely ignores the vertical axis.
+So, it's a 17x7
+square next to the caster. Uh if you
+enemies caught in it take 2d8 thunder
+damage with a constitution saving throw
+for half and if they fail the save they
+are flung uh 27 ft backwards. So uh
+almost 30 ft straight backwards uh which
+is of course going to buy you a lot of
+space. You can use this to push melee
+enemies away and then run away from
+them. And you can use it to push enemies
+off of cliffs or into hazardous effects.
+So, this is a pretty solid uh panic
+button spell if you're starting if your
+caster is starting to get surrounded.
+Um, and it's also a good way to take
+advantage of cliff faces and uh ground
+targeting effects that you might have on
+the ground. You can use thunderwave to
+push a bunch of enemies into it. The
+targeting on this spell is pretty
+awkward. A 17 ft square is smaller than
+it sounds and somewhat hard to hit more
+than like two enemies with it in most
+cases. Uh, but if you do hit two
+enemies, then the damage is okay. Uh, if
+it's, you know, 2d8 thunder spread
+across two enemies, then that's a pretty
+solid damage output. Uh, though a con
+save for half, means that a lot of
+enemies are going to succeed on the
+save. The real thing that is holding
+this spell back is that it's a
+constitution save and the enemies that
+you most want to push, i.e. things like
+fighters and barbarians that are getting
+up close to your casters, are going to
+be really good at resisting it. And if
+you cast this spell and just do a small
+amount of damage and then can't leave
+melee range and run away, it gets you in
+a lot of trouble. This spell certainly
+won't be used every encounter, but it's
+definitely solid enough that you'll use
+it some of the time. So, I'm going to
+give it B tier. Witchbolt. Witchbolt is
+an attack targeted damage spell. So, uh
+you make an attack roll and if you hit
+the enemy takes a d12 of lightning
+damage. You can then concentrate on the
+spell and each turn for up to 10 turns,
+you can spend your action to reactivate
+it again, dealing a d12 of lightning
+damage. This is pretty bad for a first
+level spell. A d12 of lightning damage
+is an embarrassing amount of damage for
+a spell. And the ability to waste your
+turn over and over uh and also your
+concentration does not particularly make
+this spell more attractive at first
+level. This is just a damage spell that
+simply does not do enough damage to ever
+be worth casting. However, this spell
+does have one distinction, which is that
+because it gains a d12 of damage for
+each level that you upcast it. It is the
+best spell for one specific build. You
+can find my build video called the
+oneshot lightning lord which makes use
+of witchbolt at when you're using a
+fourth level or higher spell slot and
+maximizing the damage with tempest
+cleric doubling the damage with wet and
+getting automatic critical hits because
+it's an attack role. Witch bolt is the
+highest damage spell in the game. So you
+can use this spell to deal guaranteed uh
+damage in the mid300s with that specific
+build. But outside of that one abusive
+use case, Witchbolt is useless. I'm
+going to give it Ctier cuz there's one
+build where you use it and the rest of
+the time you should never cast this
+spell. And finally, the last of the
+first level spells, Wrathful Smite.
+Wrathful Smite is another Paladin Smite,
+although as of patch 8, it is now also
+available to Hexblade Warlocks who get
+it at level one. It's a weapon attack
+that does an extra 1d6 psychic damage uh
+and requires your bonus action and
+concentration to use alongside the
+weapon attack. And then also enemies
+have to make a wisdom save or they
+become frightened for two turns. Now
+frightening an enemy is a pretty good
+debuff. It gives them disadvantage on
+attack rolls and prevents them from
+moving. And while it's a little worse to
+frighten an enemy in melee range with
+your hex blade or paladin uh than it
+would be to frighten them at range where
+you can stop melee enemies from
+attacking you, you're still not usually
+sad to have an enemy immobilized next to
+a dangerous melee attacker like a
+paladin or hexlade. Wrathful smite
+therefore does have some uses when you
+want to lock down a character that you
+suspect is trying to get away. Wrathful
+smite is pretty good. While it's much
+lower damage than thunderous smite doing
+only 1d6 instead of 2d6 and without the
+potential of punting an enemy off a
+cliff for even more damage. Uh it the
+debuff on wrathful smite is actually
+really good. So you're still going to
+use this sometime. Sometimes paladins
+will use this I think a little more than
+hex blades just cuz hex blade spell list
+is so good and there are other first
+level spells that you really are going
+to want. Things like hex and shield are
+going to be basically mandatory for for
+hex blades. Um, but for paladins, having
+access to wrathful smite definitely
+gives you more options for how you fight
+in combat. And being able to frighten
+and thus keep an enemy next to you will
+definitely come up. I'm going to give it
+B tier. You're going to use it a lot
+less than thunderous smite, but when you
+do, it's going to be very solid. All
+right, my friends. That is all 52 of the
+first level spells rated. Uh, I guess
+your homework because there's 52 of them
+is let me know which spells correspond
+to which card in a deck of playing cards
+in your opinion.
+One thing that should be pretty clear
+looking at this spell list is that first
+level spells are not used for damage.
+Primarily, the best first level spells
+are buffs, crowd control, especially
+repeatable crowd control, and utility
+spells. But mostly the damage available
+at this level is not very high, and
+we're going to get our first really
+strong damage spells starting at spell
+level two. The best first level spells
+also stay powerful throughout the game
+and upcast well. So, you're going to be
+looking for spells that you can spend
+higher level spell slots on. And
+something that's going to be important
+to keep in mind as we look at higher
+level spells is that they are always
+competing against first level spells.
+So, the higher a spell level we get, the
+more spells it's competing against. So,
+you're probably going to see fewer and
+fewer S tier spells as we climb the tier
+list because every subsequent spell
+level is competing against first level
+spells. As always, of course, if you've
+enjoyed this video, uh, definitely leave
+a comment. And if you think there's
+anything that I should move around on
+this tier list, definitely leave a
+comment and give me your reasoning for
+that as well. I'm very open to moving
+things around. If you compare this to my
+previous first level spells tier list,
+you can see I think almost half of the
+spells have changed here, either because
+the game has changed or my opinion has
+changed. So, uh, if you have good
+reasons that you think I should move any
+of these spells to another tier,
+definitely do let me know. I'm very open
+to that. I will also, uh, zoom in and
+take the cursor off the list. So, if
+you're looking to get a clean
+screenshot, then you can do that. So,
+uh, go ahead and do that now. And of
+course, thank you so much for watching.
+Leave a comment, hit like for the
+algorithm. I appreciate you taking the
+time to do that. And of course, you can
+subscribe to my channel for future spell
+tier lists for the other five spell
+levels and other Balders's Gate 3 build
+guides and other strategy game analysis.
+Cheers, friends. I'll catch you next

@@ -1,0 +1,1853 @@
+Hello my friends and welcome back to
+another Balders's Gate 3 tier list and
+guide. Hope you're all doing well. Today
+we're covering spells. This is of course
+an update to my previous spells tier
+list because enough has changed in the
+last year both mechanically in the game
+and in my evaluations that I wanted to
+go over the spells again to make a much
+more definitive honor mode tier list.
+So, we'll be going over every single
+spell in the game, its strengths and
+weaknesses, the best characters to make
+use of it, and how to get the most out
+of casting it so that we can make the
+most complicated system and one of the
+most important choices in the game,
+which spells to use simple and easy. How
+I'm rating these spells is very simple.
+Should you learn or prepare them on
+characters that have access to them? And
+if you cast them frequently, will you be
+more likely to win honor mode? Of
+course, as with any tier list, the
+actual tier that a spell goes in is the
+least important part of it. So, consider
+this a jumping off point for learning
+about the spells. And also, the most
+important part of a spell is that you
+have fun using it. So, if you enjoy a
+spell that I have rated lower, then
+definitely keep casting it. I'm also
+going to be making two assumptions while
+rating these spells. First, that you
+aren't long resting after every single
+encounter. Obviously, that's a totally
+viable and even optimal play style, but
+when resource management isn't a real
+consideration, it makes a spell tier
+list much less useful because you just
+use your highest level spell slots every
+single turn of combat. And secondly,
+that most of your spell casting is done
+by your active party rather than by
+campcasters. The stats that we have show
+that that's by far the more common play
+style. Most players don't use
+campcasters. And again, when resources
+are free, evaluating the spells is much
+less interesting. Though, I will mention
+when a spell is particularly good to be
+cast by a camp follower. In S tier,
+these are spells that are critical.
+Pretty much every character that has
+access to these spells will want to take
+them and use them constantly, and you'll
+often structure your party composition
+specifically around having access to
+these spells. In A tier, these are great
+spells that will be the workh horses of
+your party. Uh they'll be excellent uses
+of your turn and your spell slot and
+will be main stays of your strategy if
+your party has access to them, but maybe
+you won't build an entire character
+specifically for just this spell. In B
+tier, these are spells that are
+extremely useful. While you may not use
+them every encounter, they're either
+going to have a ton of utility or
+provide really high impact in certain
+situations or just be a great secondary
+option if your S and A tier spells are
+less impactful in that scenario. In
+Ctier, these marginal spells are still
+useful. Uh, but maybe they're only for
+specific builds or for a very narrow
+subset of encounters. So, while you can
+still definitely get some use out of
+them, they're going to be more uncommon
+picks. And then finally, in Dtier, these
+are spells that are overall pretty weak
+and can usually be safely skipped,
+although even these do sometimes still
+have their uses in certain very specific
+situations.
+And finally, before I begin, I do want
+to take a quick moment to say thank you
+so much to Monkeyc Pooh for the 20
+donation, as well as Linguslicker for
+the $5. Great names to have in the same
+donor shoutout, as well as Travis
+Barnum, Lucas Tomsu, and Doug NYC for
+becoming channel members. Thank you so
+much, my friends. I really appreciate
+the support. It really means a lot. All
+right, let's talk spells. We're going to
+start with a nice, easy one. Animal
+Friendship. Animal friendship is a
+wisdom save, single target, though by
+casting it with a higher level spell
+slot, you can increase the number of
+targets. Uh, only can target an animal,
+and if they fail the wisdom save, then
+they become charmed for 10 turns. The
+charm condition prevents that character
+from attacking the spellcaster, but they
+can still freely attack your allies. So,
+for the most part, even if you land this
+spell on an animal, they'll still just
+take their turn as normal. like charm
+person. It can also be used in dialogue
+to gain advantage on charisma checks. So
+any conversation checks that you're
+making in dialogue with an animal. Um
+but that's rarely going to come up in
+Balders's Gate because the vast majority
+of dialogue checks that you would make
+with an animal, you can just auto
+succeed on. The existence of speak with
+animals lets you auto succeed on most of
+those checks or you can bypass them in
+some other way or they're not impactful
+or not very high. So, animal friendship
+used in dialogue is rarely going to come
+up. Used in combat, it's also extremely
+weak. It is probably the weakest crowd
+control condition in the game. And if
+you're going to make an animal fail a
+wisdom save, why not make them fail
+something like command? Um, and then you
+actually just win the fight outright
+rather than this minor debuff. And even
+aside from the fact that it's a
+relatively low impact spell, it also
+only works in some of the easiest
+encounters in the game. There's very few
+animal fights in Balders's Gate 3 and
+they are typically not threatening
+encounters. There's a couple that can be
+a little more difficult, but again, you
+can just use better crowd control on
+them. So, animal friendship just doesn't
+ever come up in a useful way. Dtier,
+Armor of Agthus. Armor of Agthus is a
+warlock spell and is also available to
+draconic sorcerers using the white
+dragon bloodline. And it gives you five
+temporary hit points. And when you are
+struck by a melee attacker, they take
+five cold damage. This effect lasts
+until those temp HP are depleted or
+until long rest. So, uh you can have
+this up all day as long as you can
+preserve the temporary hit points. By
+itself, five temp HP and five damage.
+Not that exciting. But when you upcast
+armor of Agthus, you get five more temp
+HP and five more retaliation damage per
+level. Since it's cold damage, you can
+also double the retaliation damage
+against a wet enemy. Uh cuz cold and
+lightning damage doubles against enemies
+who have the wet condition. So this can
+be a lot of retaliation damage. Since
+this is a warlock spell, a lot of the
+time when you cast it, you're going to
+be upcasting it for free cuz warlocks
+always use their highest level spell
+slot. So with a level five spell with a
+highle warlock, you get 25 temp HP and
+25 cold damage. You can combine this
+with sources of damage reduction like
+blade ward um or heavy armor that comes
+with inherent damage reduction in order
+to preserve these temp HP and end up
+doing a lot of additional damage to
+melee attackers over the course of the
+game. By default, this is a pretty solid
+pickup for warlocks. The 25 temp HP that
+they get at high level lets them turn a
+short rest resource, a warlock spell
+slot, into a long rest benefit cuz armor
+of Agthus lasts until it goes away. Uh,
+which is always a great trade. And also,
+there's a lot of builds that can be
+built around maximizing armor of Agthus.
+The most impactful of these is the
+Abjuration Wizard, whose arcane ward
+damage reduction means that armor of
+Agthus temporary temp HP will last
+forever. And every melee attacker is
+going to take 60 cold damage in return
+as long as you get them wet. So
+obviously that's a huge amount of
+additional damage that you can deal to
+enemies. Um, and that's one of the most
+powerful builds in the game. An
+abjgeration wizard with a level of
+warlock or sorcerer in order to pick up
+armor of Agthus uh will just break the
+game in half. For a normal warlock, this
+is still a solid option, but if you're
+building around it, then it's absolutely
+incredible. For that reason, we're going
+to give it a tier. Even if you aren't
+building around it, it's still an
+excellent use of a spell slot, and some
+of the most powerful builds in the game
+are specifically built around maximizing
+armor of Agthus. Arms of Hadar. Arms of
+Hadar is the first damage spell on this
+list. And when you're evaluating a
+damage spell, there's really one
+overriding consideration, which is how
+much damage does it do. You usually
+don't want to cast a damage spell that
+does less than the most damage available
+at that level because that's what you're
+typically casting damage spells to do is
+the most damage possible. Arms of Hadar
+does 2d6 of necrotic damage, which is
+pretty low for a first level spell slot
+in a 10-ft radius around the caster. If
+you can group up a lot of enemies and
+run your warlock into the middle of
+them, then you can hit a decent amount
+of damage with this. But that of course
+puts a relatively squishy character,
+unless you're a hex blade, into a fairly
+dangerous situation. So may not be
+viable to get the maximum damage out of
+this spell. Enemies also get a strength
+save for half damage, so that 2d6 can
+become effectively 1d6. And if they fail
+the save and take the full damage, they
+also can't take reactions for a turn.
+Preventing reactions is typically pretty
+good in Boulders's Gate, but much less
+important at low levels when this spell
+is most likely to be cast. So, the
+debuff is not that strong. The damage is
+low, and it's fairly awkward to get into
+position to cast this spell. At higher
+levels, if you upcast it, you only get
+one extra d6 of damage per level, so it
+does not scale well for a warlock. So,
+at low levels, it's pretty weak, and at
+higher levels, it's even worse. Most
+players first encounter with arms of
+Hadar is also going to be will casting
+it in the fight outside the durig grove
+uh for absolutely no value. So you're
+going to get a bad impression of this
+spell right away. And that bad
+impression is correct. Arms of Hadar
+just does way too little damage to be
+worth spending a spell slot on. Being a
+strength save is marginally interesting,
+but it would only be good if it actually
+did enough damage to make enemies likely
+failing the save worth it. Arms of Hadar
+Dtier. Next up, Bane. Bane is a spell
+that can be a little bit non-intuitive
+to rate because while thematically and
+numerically it's the opposite of bless.
+So, you might think these two spells go
+together, they actually fill very
+different roles. And if you compare them
+directly, then you're going to
+misvaluate the use of these two spells.
+Bane is a concentration debuff. It can
+target up to three creatures plus one
+per level that you upcast the spell
+within 30 ft. Those creatures have to
+make a charisma saving throw or for 10
+turns or as long as you maintain
+concentration. They take a minus 1d4
+penalty to their attack roles and to
+their saving throws. This is obviously
+not a huge penalty, but it's a little
+more relevant than it sounds like at
+first. Dungeons and Dragons is pretty
+carefully balanced around odds of
+success. And fifth edition, the system
+Balders's Gate 3 is based on, uses a
+system called bounded accuracy, meaning
+that weapons and spell effects typically
+fall within a fairly tightly constrained
+array of probabilities. No matter the
+weapon you're using or the target or the
+level of the character, you are never
+going to have odds of success that are
+too high or too low. So even small
+penalties can tip enemies over that
+point to the point where your more
+dangerous crowd control spells land very
+reliably and where enemy attacks can't
+hit your high AC characters in the early
+game. This is still not worth spending a
+spell slot on. A level one spell slot
+for an extremely small debuff is just
+not worth um the expenditure cuz that
+represents a fairly high proportion of
+your party's total resources. But
+interestingly enough about Bane, this is
+a spell that actually gets significantly
+better as you get later into the game.
+There's a couple reasons for this. In
+the late game, a lot of enemies have
+significant differences between their
+saving throws. Their strong saving
+throws will be very hard to land saves
+on, and their weak saving throws, which
+often include charisma, the save that
+Bane targets, will be much easier to
+land spells on. So even though Bane is a
+weaker effect than something like
+command, you might be able to land Bane
+much more easily and then you can use
+that penalty to land a more dangerous
+spell like command or hold person on a
+higher wisdom save. Also, a lot of
+bosses in the late game are immune to a
+lot of the more dangerous spells out
+there, but very few enemies are immune
+to Bane. So, this in a longer fight is a
+penalty that you can actually apply to
+lateg game bosses uh even if they're
+immune to a lot of the other things that
+your characters can do. So, Bane, while
+you will never want to cast it in early
+levels, it definitely has its place in
+some late game fights, it's not going to
+be your go-to spell, but there are times
+where casting it and spending your
+concentration on this penalty can
+actually be fairly useful. It also is
+fairly easy to target. It's any enemies
+within 30 feet, you just choose three of
+them. So, even if the battlefield is
+fairly confused, you can still sometimes
+land Bane. There are other ways to apply
+this buff uh debuff. There are items and
+stuff that do it, but actually casting
+the spell in late game encounters can be
+a totally reasonable thing to do. I'm
+going to give it B tier. Although I will
+say that this is a spell that you're
+going to use only in fights that are
+going to go long and only in the late
+game. So it's fairly good in those
+scenarios, but if you use it outside of
+them, it's going to be weaker. So this
+is a spell you need to pay attention to
+when you're using. Hence B tier. Next
+up, bless. So bless is numerically the
+opposite of Bane. You cast it on your
+allies uh up to three characters with a
+first level slot plus one per level that
+you upcast it. lasts for 10 turns,
+requires your concentration, and gives
+you plus 1d4 to your attack rolls and to
+your saving throws. This is an enormous
+bonus. The amount that you get from this
+is absurd. A plus 1d4 bonus is an
+average of an additional 2 and a half on
+each of these rolls. And a level one
+character should have a plus five bonus
+to their chance to hit with their
+attacks. So adding two and a half
+increases their hit bonus by 50%.
+Imagine also a character that has an 80%
+chance of hitting their attacks. Adding
+2 and a half to that increases their hit
+chance by 12 1.5% just a flat additional
+12 1.5% um to 92.5%.
+So that character with previously an 80%
+hit chance has less than half the chance
+of missing if they have bless on than
+they did without it. Over the course of
+a long playthrough, that's going to
+convert an enormous number of misses
+into hits. an enormous number of failed
+saving throws into successes. And since
+hitting with your attacks and succeeding
+on saving throws are basically the two
+most important things that you do in
+Balders's Gate 3, this spell giving you
+a hugely impactful bonus to those things
+is absolutely incredible. Every
+character that is making attack rolls
+should try to have bless on at all
+times. It's just such an enormous bonus
+to your ability to land your attacks. It
+also by itself makes a lot of um
+characters that come with attack
+penalties much more viable. If you have
+great weapon master, for example, you
+can significantly offset the penalty of
+that with bless and land the extra
+damage from great weapon master or
+sharpshooter vastly more reliably thanks
+to the existence of this spell. The
+bonus is ridiculous. I can't overstate
+how important this effect is to your
+playthroughs. However, in Balders's Gate
+3, there is one thing that holds the
+actual spell bless back a little bit,
+and that's the existence of the
+whispering promise ring. This ring lets
+you apply bless to any creature that you
+heal. So, you can wear this ring and get
+bless for free. It lasts for two turns,
+doesn't take your concentration, and can
+be applied in an AoE by like throwing a
+healing potion at your allies or
+something like that. So, you'll often
+see people say that you don't need to
+take the bless spell because the
+whispering promise exists. I don't think
+that's actually true though. The spell
+bless lasts for 10 turns. It will so it
+will last the entire combat. You can
+cast it before combat starts. So you
+don't spend an action on it and then if
+the combat goes longer than one turn,
+you still have bless, which is very,
+very important. Uh you don't have to
+reapply it during the fight cuz you can
+just maintain concentration on it. So
+you're not going to spend actions on
+healing in order to reapply the bless.
+So, actually knowing the spell bless,
+which is just such an absurdly impactful
+spell, I think is still extremely
+important. S tier. Next up, burning
+hands. Burning hands is another damage
+spell, a 17 ft cone with a dexterity
+saving throw for half that does 3d6 fire
+damage. Um, this is a decent amount of
+damage for a first level spell and it's
+in an AoE, so that part is good, but it
+does require your character to get
+fairly close to the enemies in order to
+cast. And it targets a dexterity save,
+which is one of the worst saves to
+target, especially in the early game
+when your enemies are often goblins or
+spiders or things like that that have
+very strong dexterity saves. So, you
+will often have enemies succeed and take
+only half damage from this spell. Now,
+any spell that can do guaranteed damage
+to an enemy uh is still pretty uh useful
+because if an enemy is at low health,
+burning hands is always going to kill
+them pretty much. Even if they take half
+damage, if they're at two health, you're
+going to be able to finish them off. And
+if you can do that while putting damage
+on their healthier allies or finish off
+a couple low enemies in one go, then
+that definitely has some uses. That
+being said, this spell is still a pretty
+weak way to do that. The AoE is
+relatively small and close range, so you
+have to put yourself in a fairly awkward
+position, and enemies have to be
+clustered fairly tightly together for
+you to hit more than two of them with
+burning hands reliably. And the amount
+of damage that it does is fairly low,
+targeting a fairly bad save. So, for
+most characters with access to burning
+hands, you just aren't going to want to
+use or cast this spell. If you need
+guaranteed damage, magic missile exists.
+If you need AoE damage, there are much
+better options available as well.
+There's one exception though, which is
+that this spell is available to light
+domain clerics as a domain spell. And
+since they don't need to actually
+prepare the spell, they're not wasting a
+spell preparation slot on it, they will
+sometimes cast burning hands, um, having
+that guaranteed damage for a light
+domain cleric to be able to finish off
+an enemy who's at low health is
+something that you will sometimes use.
+For that reason, I'll give it Ctier uh,
+marginal usage for late domain clerics.
+And it's not a complete zero for
+sorcerers, wizards, and fiend warlocks,
+but this spell is still relatively weak.
+And if you never cast it, you honestly
+wouldn't be missing that much. Charm
+person. Charm person is animal
+friendship, but for people. Uh, you cast
+it on one creature per spell level that
+you upcast it, and they have to make a
+wisdom saving throw, otherwise they
+become charmed and can't attack the
+caster, but can still freely attack your
+allies. Enemies or actively hostile
+creatures also have advantage on this
+wisdom save. So, it's going to be fairly
+unreliable to use this in combat. And
+even if you succeed, it's an extremely
+marginal effect. So, casting this in
+combat is just a waste of a level one
+spell slot. There are good ways to apply
+charm with archfe warlock or
+glamourbard, but casting charm person is
+definitely not one of them. Very low
+impact crowd control and extremely
+unreliable used in combat. Just like
+animal friendship, you can also use this
+in dialogue to gain advantage on
+charisma checks with the character that
+you use charm person with. Um, and they
+might it's a crime on tactician and
+honor mode. All of the same things with
+that work with other charm effects. Uh,
+but friends and
+exist as cantrips. So, you can get this
+effect in dialogue using a cantrip
+instead of spending a spell slot on it.
+And obviously you're going to use a
+cantrip rather than spending a spell
+slot if you want the effect of advantage
+on charisma checks in dialogue. So both
+in dialogue it's completely superseded
+by a free effect and outside and in
+combat it's extremely low impact and
+unreliable. There's basically never any
+reason to use charm person detail.
+Chromatic orb. Chromatic orb is another
+damage spell but it's also so much more
+than that. It's an attack role. Um, so
+targeting enemies armor class, and you
+choose an elemental type when you fire
+the chromatic orb. It will either deal
+3d8 thunder damage, very good for a
+level one spell slot, or 2d8 acid, cold,
+fire, lightning, or poison damage, and
+create a surface of one of those types.
+Each of these surfaces is incredibly
+useful, and the versatility and power of
+this spell gives it a ton of utility
+both at low levels and at high levels.
+Poison surface you probably won't use
+that often. It just does a little
+damage, but it's a little weaker than
+the fire or lightning versions of the
+damage surfaces, but fire or lightning
+damage can be used to finish off
+lowhealth enemies guaranteed. An enemy
+standing on a fire will just die,
+guaranteed, cuz they will always take a
+D4 of fire damage. So, the fire or
+lightning versions can be used similarly
+to burning hands in order to finish off
+lowhealth enemies while also putting
+damage on a higher health ally standing
+near them. Acid surfaces reduce the
+armor class of creatures standing on
+them by two with no saving throw. So, if
+you need to be able to hit an enemy uh
+more easily, the acid surface can set up
+for all of your allies who roll attacks
+in order to hit those attacks more
+frequently. And finally, ice surfaces.
+Now, ice surfaces are going to come up a
+lot when we're talking about spells. So,
+it's important to talk about why ice
+surfaces are so absurdly strong in
+Balders's Gate 3. In BG3, when an enemy
+moves on an ice surface, they have to
+make a dexterity saving throw or fall
+prone. When a enemy is prone, when a
+creature is prone in Boulders's Gate,
+they can't use any reactions. Um, and
+you get advantage on attack rolls
+against them. And if they fall prone on
+their turn, they lose the rest of their
+turn. So if you put an ice surface under
+an enemy and they move, and most enemies
+will move before they attack just cuz
+the AI usually makes those decisions in
+that order, there they have to make a
+dexterity saving throw or just get
+stunned and lose the rest of their turn.
+And it's even better than stunned
+because of all the other advantages that
+prone gives you. So ice surfaces in
+Boulders's Gate are some of the best
+crowd control that you can possibly
+apply. Chromatic Orb lets you do it
+without a concentration, uh, without
+concentrating while also doing a bunch
+of damage. Chromatic Orb also interacts
+with another mechanic that's going to
+come up a lot as we talk about spells,
+wet. When an enemy is wet, they take
+double damage from cold or lightning
+damage, both of which chromatic orb
+conveniently does. So, you can deal 3d8
+thunder damage, or if they're wet, 4d8
+lightning or cold damage. And if you use
+cold damage, also apply a an extremely
+powerful crowd control effect. So, this
+spell lets you do some of the best
+non-conentration crowd control out there
+and also do great damage. On top of
+that, it's incredibly versatile. If an
+enemy is immune to one of the damage
+types, well, this does six possible
+damage types. So, you can swap to get
+around immunities or resistance. you can
+use the surface that makes that has the
+most impact in the encounter that you're
+in. So, not only is the power level on
+this spell extremely high, the
+optionality and versatility is extremely
+high. A character that can cast this is
+probably going to spend more of their
+turns casting chromatic orb than doing
+almost anything else. So, it's going
+straight into S tier. Color spray. Color
+spray is a 17t cone that blinds enemies
+without a saving throw up to a total
+combined hit points of 33. So it looks
+at the enemy's hit point total and then
+will blind them up until you hit 33
+total hit points of creatures blinded.
+What that means is that in the early
+game or if you've done a little bit of
+damage in an encounter, you'll usually
+be able to get two enemies with this
+debuff. Uh, and then later on you'll
+only get one and then eventually it'll
+stop hitting anything at all. Blinded
+for one turn without a concentration
+save is not a particularly powerful
+debuff. And although any spell that
+works without a saving throw is worth
+looking at, color spray suffers from a
+couple major flaws. The first is that
+against the most dangerous enemies, it
+doesn't work cuz they're going to have
+high enough hit points to uh ignore the
+spell entirely. And second is that if
+you want an enemy to be blinded for one
+turn without a saving throw, fogcloud
+does that and then also does a million
+other things while not caring about um
+enemy hit point totals. So even if color
+spray was an effect that you wanted,
+there's another spell that does that
+effect significantly better while also
+doing a bunch of other stuff besides.
+And one turn of blind is an okay debuff,
+but not amazing. So, it's not even clear
+that this is an effect you want to spend
+your action on. Color spray very weak
+spell detail. Command. So, command has
+been talked about more than almost any
+other spell in Boulders Gate 3 and with
+good reason. Command is a control spell.
+It has 60 ft range with a wisdom saving
+throw to negate the effect. And you can
+target one creature with a level one
+spell plus one per level that you upcast
+the spell, which you're going to be
+doing pretty often because this spell is
+so powerful that casting it using higher
+level spell slots is a great use of
+those spell slots. In fact, for any
+character that has access to command,
+you pretty much have to compare every
+single higher level spell use to what if
+I just spent this spell slot on
+upcasting command instead. And most
+higher level spells compare unfavorably
+to that usage of the spell command. Uh
+enemies have to make a wisdom saving
+throw. And if they fail, you get to
+apply one of five effects. Approach,
+drop, flee, gravel, and halt. Um but 95%
+of the time you're going to be using
+gravel. The other 5% are probably mostly
+drop. So I'm going to talk about those
+two primarily. Command drop lets you
+cause an enemy to drop their weapon. So,
+especially on the Nautiloid to get the
+Everburn blade or a couple other
+situations where you really want a
+specific weapon, command drop is a great
+use of an action, but mostly you're
+using command gravel that causes an an
+enemy to drop prone. Uh, obviously a
+very powerful debuff and skip their next
+turn. So, you trade your action for the
+enemy's action or if you upcast the
+spell, you trade your action for
+multiple enemies actions.
+Dungeons and Dragons is basically about
+action economy. The goal is to take as
+many actions as possible and to minimize
+the number of actions that your enemies
+are taking. So, command is a great way
+to do that cuz you choose when you trade
+your action for the enemy action and can
+maximize the impact and make certain
+that you are getting more useful turns
+than your enemies are getting. It
+doesn't cost your concentration, so you
+can use it while concentrating on bless.
+And for most clerics, their level one
+spell slots are going to be like 90%
+bless command and sanctuary. Um, and
+command is what you're going to be doing
+most often. Uh, so this spell works with
+pretty much any tactic because you can
+cast it while also doing other stuff. In
+addition, it has a lot of really
+powerful combos. It's an enchantment
+spell, so it works with as a bonus
+action with the band of the mystic
+scoundrel, um, which is a very, very
+powerful build. It also works with
+extend spells. So, if you're a sorcerer
+and have the extend spell meta magic,
+you can get command that lasts two
+turns, which is two turns of
+concentration free crowd control.
+Incredibly powerful. If you're a fiend
+warlock, you get this spell and get to
+upcast it for free. So, a fiend warlock
+at level 9 can cast uh five person
+command um using their normal warlock
+spell slots without having to spend
+higher level resources. So, that's
+incredibly powerful as well. This spell
+is just so absurdly impactful. A lot of
+the most uh powerful builds in the game
+are built around maximizing command. And
+even if you aren't building around it,
+it is just one of the best things you
+can possibly do on your turn. It has
+extremely low opportunity cost because
+it doesn't require your concentration or
+anything. Um, and if the enemy fails to
+save against it, you almost certainly
+win that combat. S tier for command, of
+course. Compelled Duel. Compelled Duel
+is a paladin spell. It only costs a
+bonus action to use, which is pretty
+nice. Uh, any spell that can be cast as
+a bonus action is worth looking at
+because again, action economy is the
+most important thing. So if you can do
+two impactful things in a turn, then
+that is going to be extremely useful. It
+targets one enemy, they make a wisdom
+saving throw, and if they fail, then
+they have to attack the caster, gaining
+disadvantage on their attacks against
+anything else. However, they don't
+actually have to attack the caster. Um,
+in Balders's Gate 3, the only
+implemented effect of Compelled Duel is
+that they have disadvantage on attack
+roles against everybody else. Uh if an
+enemy casts compelled duel on you, you
+lose control of your character
+completely and the spell actually works
+the way that the description says that
+it does. Um but when you cast it on an
+enemy, it basically doesn't function. A
+bonus action in a first level spell slot
+to give en the enemy disadvantage on
+their attacks against your allies is not
+a great trade, and it's especially a bad
+trade for a paladin because that first
+level spell slot could just be a smite.
+Um, and if you uh, and also it requires
+your concentration, which of course is a
+real opportunity cost as well, cuz you
+could be concentrate concentrating on
+something a little more powerful. If
+this spell actually did what it said it
+did and forced the enemies to attack
+only the paladin, then that would be a a
+much more interesting effect. But since
+it doesn't, it's just a Dtier spell uh,
+that basically doesn't work. Create or
+destroy water. I've just called it
+create water in the tier list because
+let's be real, that's what you're using
+it for almost all the time. Create or
+destroy water lets you do just that. You
+can make a big puddle of water. This
+doesn't sound like a big deal, but in
+Balders's Gate 3, being able to summon
+water is actually pretty significant.
+There's a lot of times where you want to
+put out a fire or create a water
+surface, which you can then hit with
+cold damage to create an ice surface.
+talked about how chromatic orb uh is
+powerful because it summons an ice
+surface. Setting up water on the
+battlefield to make ice surfaces or
+steam or lightning electrified uh water
+surfaces is also very powerful. By
+itself, that would mostly just be a
+pretty nice utility spell. But create or
+destroy water also lets you apply one of
+the most powerful debuffs in Boulders's
+Gate 3. Wet. When you cast create water
+over an enemy, they get wet. And not
+only is getting your enemies wet amazing
+for fanfiction, it also in Boulders's
+Gate 3 doubles cold or lightning damage
+that they take. Being able to apply
+vulnerability to a damage type, breaks
+the math of Dungeons and Dragons
+completely. A fight that was supposed to
+take four turns, if an enemy is taking
+double damage, takes two turns. an enemy
+that was supposed to survive for two
+turns dies in the first turn and never
+gets to attack you back. So, being able
+to apply vulnerability to a damage type
+that's pretty easy to do um with a level
+one spell is a ridiculously powerful
+utility effect. And a lot of builds are
+built around maximizing
+create water and then applying lightning
+damage. You can look up my one-shot
+lightning lord uh build in order to just
+one-shot enemies immediately before they
+ever get to act.
+Free water is a spell that has changed a
+little mechanically since my first spell
+tier list. Uh at the time it was bugged
+and you could cast a version of it as a
+cantrip, but that bug has long since
+been patched out. So you do have to
+actually spend a spell slot on this and
+if you spend a higher level spell slot,
+you get a bigger AoE of create water.
+Um, but the effect of this spell is
+ridiculously powerful because doubling
+the damage that enemies take, of course,
+is nonsensically strong. There is one
+thing that holds create water back
+though in Balders's Gate 3, and that's
+the existence of the humble water
+bottle. A a lot of the time you can get
+the effect of create water uh by instead
+of spending a spell slot and an action,
+spending an attack and throwing a water
+bottle at an enemy. Um, but water
+bottles, especially in honor mode where
+they they were made rarer, are actually
+a fairly uh valuable resource. So, being
+able to use a first level spell slot to
+not have to spend uh one of those water
+bottles is actually extremely impactful.
+It sounds weird that preserving bottles
+of water is uh one of the biggest
+resource management concerns for an
+honor mode run, but that's actually true
+for any party that is using wet and cold
+damage. And so, they're definitely going
+to want create water. Even aside from
+that abuse though, crate water is just a
+great utility spell. You're going to
+find times where it comes up uh in lots
+of encounters all throughout the game.
+And because of just how impactful the
+wet condition is, I still can't imagine
+giving this spell anything other than S
+tier.
+Pure wounds. Pure wounds is a healing
+spell. It's touch range, so you have to
+be in melee range with the creature
+you're healing. and they get 1d8 plus
+your spellcasting modifier in healing.
+So, if you're a cleric with 16 wisdom,
+uh then they'll get four and a half
+average healing from the d8 plus three
+for 7 and 1/2 healing on average. This
+is the numbers just don't add up on this
+spell. And this is what makes healing in
+general a weak primary strategy in
+Balders's Gate 3 is that the numbers
+just don't keep up with incoming damage
+and you're spending resources. An enemy
+attack at level one is going to do
+somewhere between like seven and 10
+damage. A great sword user, for example,
+will do seven damage plus three from
+having 16 strength for a total of 10
+damage. Um, and so if enemies who are
+attacking you without using a special
+ability, without spending any resource,
+are doing 10 damage every turn, and
+you're healing seven and a half healing
+every turn, you're not even breaking
+even and you're spending spell slots in
+order to catch up. So healing just on
+the face of it simply does not provide
+enough value to spend your action on
+healing with fewer wounds. If you need
+to heal using an action, throwing a
+potion is a much more valuable use of
+your um action to heal. You'll get much
+higher numbers cuz healing potions are
+extremely prevalent in Boulders's Gate
+3. And of course, you only need to use
+one attack to do this. So, uh,
+characters with multiple attacks can
+actually be better healers than, uh,
+characters casting cure wounds. However,
+there is one use case for cure wounds
+that's new, uh, as of patch 8, and that
+is the existence of the star druid. Star
+Druid's chalice healing ability uh
+allows you to whenever you cast a
+healing spell, and it has to be a spell,
+can't be a potion. You also get to
+activate the chalice ability for free
+and heal an ally at range um for a d8
+plus your spell-casting modifier. So, it
+sort of doubles the effectiveness of
+cure wounds. Now, even then, most of the
+time you're going to be using healing
+word, a wildly better spell um in order
+to trigger chalice healing. But there
+are times when you will want to trigger
+chalice healing using your action rather
+than your bonus action. Uh and so the
+cure wounds does now have a very
+specific use case for star druids. It
+lets you trigger your ability um with a
+much easier uh set of actions. You you
+now have more control over what action
+you're using to trigger your ability if
+you have both cure wounds and healing
+word. For that reason, I'm going to put
+it in C tier. Technically, um, it can
+also be used by dedicated healing builds
+like life clerics for big boosts, bursts
+of healing when you upcast it. Typically
+not going to be a good use of your
+action, but can be useful in some
+circumstances there. Uh, and life
+clerics get it by default, so they don't
+need to waste a spell prepared slot on
+it. Um, but for the most part, cure
+wounds is an extremely weak spell only
+saved by the existence of star droid
+because they sometimes are going to want
+to weave their actions in such a way
+where casting a spell using an action is
+better than casting it using a bonus
+action. Disguise self. Disguise self
+does what it says on the tin. It lets
+you pretend to be somebody else. You
+choose from a big list of pre-generated
+characters and your character turns into
+uh a copy of that character for the
+entire day when you cast disguise self.
+It's a ritual spell, so it doesn't
+require a spell slot to use. Um, which
+means you can cast it out of combat for
+free. Uh, and you can dispel it at any
+time if you want to look like yourself
+again. Disguise self has tons of cool
+uses in Balders's Gate 3. Here's a few
+of them. Firstly, you can use it to get
+out of crimes. Um, when an uh an NPC is
+looking for the person who committed a
+crime, they actually will not consider
+you if you're disguised. So, you can use
+it to commit a crime and then get away
+with it. You can also use it to get the
+racial uh attitude bonuses because most
+characters in Boulders Gate 3 will tend
+to like uh members of the same race as
+them more. So, if you are talking to a
+merchant, disguising as a member of that
+merchant's race will allow you to get a
+bonus on your uh bartering prices and
+everything with that merchant. So, you
+get better prices. You can get out of
+crimes. You can also do racial specific
+dialogue. Disguising as a drow in the
+early game can let you get a lot of the
+drow specific dialogue and bypass a
+bunch of the early game encounters uh
+without having to spend any skill
+checks. So, disguise self gives you a
+lot of tools uh outside of combat to
+progress the story and gain small
+advantages already. That's really good.
+But there's also one other thing that
+disguise self does in Boulders's Gate 3
+that's extremely powerful, and that's
+that it lets you use items that are
+normally restricted to certain races.
+Items like the githy Yankee, uh the the
+swords that gain bonuses if you're a
+Gith Yankee, you can use um to their
+fullest effect if you disguise as a
+Gith. Items like the dwarven thrower
+that gain a bonus if you're a dwarf, you
+can use to full effectiveness if you
+disguise as a dwarf. So, you don't
+actually have have to be playing a dwarf
+in order to get the maximum benefit out
+of that extremely powerful weapon.
+In addition to all of those benefits,
+there are some items in the game that
+key off of being shapeshifted or
+disguised. And disguise self lets you
+get those for free without spending
+resources on them. So, you get to use
+the very powerful effects of, for
+example, the shape shifters boon ring uh
+just by casting disguise self on
+yourself and then having that ring
+equipped and you just get the bonus
+without spending any resource. So, there
+are a lot of use cases for this spell.
+It's very powerful. It's not going to
+win combats on its own, though it will
+let you skip some. Um, but the number of
+advantages that you can get by casting
+this spell at appropriate times over the
+course of the game are immense. This
+spell also gets better the more you play
+the game because you'll know when there
+are times where there's a race specific
+dialogue or something that you might
+want to use and you can use disguise
+self in order to get that. So, as you
+gain more experience, the spell
+continuously gets stronger as well. It's
+not quite S tier, I think, because you
+can definitely play the game without it.
+Um, but it's a very powerful spell, and
+we're going to put it in an A tier. Next
+up, Dissonant Whispers. Dissonant
+Whispers is available to bards and great
+old one warlocks and is a mixture of a
+damage spell and a control spell. It has
+60 ft range uh and does 3d6 of psychic
+damage to a single target, so okay
+damage for a first level spell slot. It
+has a wisdom save for half damage. Uh,
+so you always do at least some damage to
+the enemy, but if the enemy fails the
+wisdom save, they also become frightened
+for two turns. A frightened creature
+cannot move and has disadvantage on
+their attack roles. And a melee enemy
+who can't move is not a threat. So if
+you can land dissonant whispers on a
+melee enemy, you've effectively stunned
+them because they won't be able to move
+in order to get into melee range and
+actually use their attacks. Two turns of
+stunning a melee enemy is very very
+powerful. And Dissonant Whispers doesn't
+require your concentration. So, it will
+be able to be used alongside
+concentration spells uh in order to just
+shut out melee enemies while also doing
+great damage. In addition to that, it's
+a wisdom save. And most enemies that you
+care about frightening and don't want
+them to get into melee range will have
+weak wisdom saves. cuz if it's say an
+enemy raging barbarian, they're going to
+have good strength saves, probably
+decent decks and con saves, um but
+relatively low wisdom. So, you're going
+to land dissonant whispers pretty
+reliably against the targets that it's
+best against.
+This is a powerful effect, decent damage
+for a first level spell slot, also on a
+class that normally does not get direct
+damage spells, so is one of the best
+ways for bards to do damage and just
+contribute to combat in general. and
+also is two turns of crowd control
+without your concentration. This is a
+ridiculously strong effect. Um, you
+don't need to upcast it cuz all you get
+is additional damage. So unlike command,
+you can't hit multiple enemies with it.
+If you could, it would be incredible.
+Uh, but as a first level spell that just
+takes a melee enemy out of the fight for
+two solid turns, uh, dissonant whispers
+is incredible. Every bard should be
+taking this and casting it all the time.
+Great old one warlocks benefit a ton
+from dissonant whispers as well. Uh this
+spell is again some of the best
+non-conentration damage and crowd
+control in the game. S tier divine
+favor. Divine favor is a paladin spell.
+So like other paladin spells, you have
+to compare it to a smite. And it does
+not compare favorably, no pun intended,
+uh to using that spell slot on a smite.
+Divine Favor does requires your bonus
+action to cast and then uses your
+concentration to make your weapon
+attacks do an extra D4 of radiant damage
+uh for three turns. If you just spent
+that spell slot on a smite, you get 2d8
+radiant damage up front for an average
+of nine damage. So, if you're only
+making one attack per turn, you deal 7
+and 12 damage with divine favor over
+three turns. So, it's less damage and
+takes longer to deal. You get a little
+more damage once you hit later paladin
+levels and get extra attack. Doing um 15
+damage compared to the nine average from
+a smite if you get the full three turns
+of attacks with divine favor is a lot
+better. But even so, at that point, you
+probably uh still just want to end
+fights quickly cuz you're a paladin. So,
+spending spell slots on divine favor is
+rarely going to be great for a paladin.
+just use the spell slots on smite or
+thunderous smite or something like that
+instead because that's a character
+that's all about burst damage. However,
+there is a use case for divine favor and
+that's that it's not just paladins that
+get it. War clerics have this as a
+domain spell. So, if you're a character
+that has a onelevel dip in war cleric in
+order to get the bonus action attacks
+and is just making a lot of weapon
+attacks, like say a swordbard with a war
+cleric dip or a a fighter with a war
+cleric dip for bonus action attacks, um
+then divine favor can power up your
+attacks. And because it is radiant
+damage, it does work well with uh
+radiating orb and reverberation gear.
+Um, so adding an extra D4 of radiant
+damage to the attacks of a character
+who's doing radiating orb or rever
+reverberation stuff can be reasonably
+effective. Even so, is it worth your
+concentration, a bonus action, and a
+level one spell for a small amount of
+extra damage? Maybe for some builds. For
+most builds, it's not going to be, but
+uh because war clerics can use this on
+weapon attacking uh builds that have one
+level of war cleric, I'll give it C
+tier. Though, this is another Ctier
+spell where if you didn't cast it,
+you're probably not missing that much.
+Enhanced leap. Enhanced leap is one of
+the spells I recently posted about in my
+video, the most underrated spells in
+Balders's Gate 3. So, for a
+demonstration and a more detailed
+discussion of how to use this spell, uh,
+definitely check that video out. I show
+off a bunch of ways in which you can use
+it. Enhanced leap is a ritual spell that
+so it doesn't cost a spell slot if cast
+outside of combat, lasts for 10 turns,
+and triples the targets jump distance.
+If you uh cast this on your entire
+party, it basically gives your entire
+party a bonus action teleport for free
+for 10 turns. You're not spending any
+resources. It doesn't require your
+concentration. And tripling your jump
+distance means that even a character
+with low jump distance can still reach
+high ground, get away from enemies super
+easily using their bonus action, so they
+can kite enemies backwards, staying out
+of range of them, um, or take up
+positions where enemies can't get to
+them. There are tons of uses in arenas
+for enhanced leap. If an enemy melee
+character is on low ground, you can jump
+up to ceiling beams or height and get
+away from them. If an enemy archer is on
+high ground, you can get up to them in
+order to engage them in melee. Uh you
+can also just move further every turn
+because having high jump distance gives
+you more movement speed. Uh since you
+always spend 10 ft of your movement
+speed to jump, um but your jump distance
+will change. Having enhanced sleep means
+that you can get an a huge increase to
+your effective movement distance um when
+you are tripling your jump distance.
+This spell gives you so much agency in
+combat and it's totally free to use.
+Although it does take some real life
+time because you have to cast it before
+combat begins on all of your party
+members. And unfortunately unlike
+Longstrider, you can't upcast it to cast
+on multiple creatures at once. Uh, so
+you have to individually cast it on each
+of your party members. But even with
+that micromanagement, it's well worth
+the effort. Gaining this much mobility
+completely for free. And mobility is one
+of the most important things that uh you
+can have in Boulders's Gate is um I mean
+it's free. It's super powerful and it's
+free. And there are no two better things
+for a spell to be S tier for enhanced
+leap. Ins snaring strike. Ins snaring
+strike is a spell is a ranger spell cast
+as part of a weapon attack. So you make
+a normal weapon attack and then also
+spend your bonus action and the spell
+slot as well as your concentration in
+order to cast ins snaring strike. If the
+attack hits the enemy, they have to make
+a strength save. And if they fail that
+save, they become ins snared, being
+unable to move and taking a d6 of
+piercing damage every turn for 10 turns.
+Being able to make a normal weapon
+attack and then also add a crowd control
+effect on top of it is very good cuz
+you're not losing any damage output. So
+you're not u costing yourself any opport
+there's no opportunity cost for using in
+snaring strike or low opportunity cost
+for using in staring strike cuz you're
+still doing your normal weapon damage
+and then on top of that you might lock
+an enemy out of the fight completely. Uh
+an a melee enemy that can't move is of
+course not a threat similar to dissonant
+whispers. And while this takes your
+concentration, it does last for 10
+turns. And it's a ranger spell. And
+rangers uh want to be making weapon
+attacks and are not going to be using
+their level one spell slots for much
+other than this anyways. So ins snaring
+strike is a great use for that ranger
+spell. In addition to that, uh rangers
+have access to the bounty hunter class
+feature, which if you take it gives
+enemies disadvantage on the saving throw
+for ins snaring strike. While a lot of
+melee enemies are going to be good at
+passing strength saves, which is a
+downside of the spell is it entangles
+melee enemies but is a strength save. It
+entangles creatures but is a strength
+save. Um giving them disadvantage means
+that they will fail that saving throw
+pretty reliably even with good strength
+saves. And if you use it on a rogue type
+character with low strength but high
+dexterity or on a spellcaster that you
+want to lock into place, they're
+extremely likely to fail the save. So, a
+ranger with bounty hunter can use and
+snaring strike very reliably because it
+uses your weapon attack. If you're an
+archer, you can use it at range and an
+archer locking enemies in place is very
+powerful. Um, so this is a pretty
+powerful effect that has very low cost.
+Just takes your bonus action and you're
+still doing your normal weapon damage.
+So, a very solid spell overall. A tier
+for ins snaring strike. Most rangers are
+going to want to take bounty hunter and
+use in snaring strike pretty frequently.
+Entangle. Entangle is the first spell
+that we've talked about whose primary
+purpose is creating a hazard on the
+battlefield. We've talked a little bit
+about this with chromatic orb already,
+but entangle is the first battlefield
+control spell where that's the only
+thing that it does. These spells tend to
+be pretty good cuz you can usually hit a
+lot of enemies in the effect and uh
+control the movement or lock down entire
+encounters. So, battlefield control
+spells tend to be a fairly powerful
+subset of spells. Entangle in particular
+is a 60 ft range, 10ft radius surface.
+So you cast it on the ground, it makes a
+20 ft across uh circle of twisting
+vines. It costs your concentration.
+Enemies inside the spell have to make a
+strength save or they become entangled.
+Entangled enemies can't move. You have
+advantage on attacks against them and
+they have disadvantage on attacks
+against you. Though that's a pretty
+powerful debuff. Though the fact that
+it's a strength save does um hurt the
+spell somewhat because
+uh a lot of the enemies that you most
+want to prevent from moving will have
+high strength saves. Very similar in
+that way to in snaring strike. Entangle
+is a pretty good concentration
+crowdcontrol spell. Um the effect is
+really nice. It's a big AoE lasts for 10
+turns so you can keep it going. But
+there are two major things that hold
+this spell back a little bit. The first
+is that it is flammable. There's a lot
+of random fire damage in Boulders's
+Gate, and spending your concentration
+and having the enemies uh break out of
+this control spell because someone did a
+random point of fire damage somewhere on
+the map uh is definitely a real problem.
+And while you can control it to do a
+little bit of fire damage, making a big
+fire surface is not what you want to
+spend a valuable spell slot on. You can
+do that a lot of other ways. So,
+entangle is being flammable is
+definitely a real disadvantage. The
+other disadvantage to this spell is that
+it's a druid spell. And as a druid, you
+can starting at level two, wild shape
+into a spider and spit webs for free.
+Webs are very similar to entangle. Um,
+but you get them for free if you're in
+spider form. And so if you need this
+effect, being a spider, which is one of
+the best wild shape forms for a druid,
+is going to to supersede the effect of
+entangle a lot of the time cuz you're
+just going to cover the the arena in
+free webs rather than spending your
+concentration on entangle. That being
+said, when you're in human form, the
+spell still provides a pretty solid
+debuff over a pretty big area. So, if
+you aren't using fire damage and you're
+in an encounter where enemies don't use
+it, entangle is a very solid control
+spell at early levels and definitely
+worth casting. I'm going to give it B
+tier because its usage is a little more
+restricted uh than a lot of other
+control spells, but the effect is very
+powerful. Expeditious Retreat.
+Expeditious Retreat is a bonus action
+spell that takes your concentration and
+when you cast it, you can immediately
+dash. So you get to move your movement
+and then every turn thereafter as long
+as you concentrate on it, you can dash
+as a bonus action again. You can
+concentrate on it all day. This spell
+will last up to long rest. So for a
+level one spell slot, you get bonus
+action dashes the entire day. Now
+spending your concentration on this is a
+real cost, especially because it's a
+sorcerer, wizard, and warlock spell, and
+those classes will usually have better
+things to spend their concentration on.
+But the extra mobility that you get from
+this is pretty useful. Mobility is
+always good. And in the early game, this
+is a great way to get out of a bad
+situation. Being able to run away from a
+fight that's turning against you can be
+very important. There are a couple
+reasons why this isn't as good as it
+maybe sounds, though. First is that um
+obviously concentration is a real cost.
+And second is that there's a lot of
+other ways to get this effect that are
+maybe stronger. Once you get level two
+spells, misty step is just a better
+escape spell most of the time. And even
+at level one, enhanced sleep makes bonus
+action jumping, which every character
+can do, pretty much just as good as
+bonus action dashing for increasing your
+mobility. And of course, as a jump, you
+can go up and down as well. Uh, with
+enhanced sleep not costing a spell slot
+and not costing your concentration, you
+can get the effect of expeditious
+retreat in terms of increasing your
+mobility. basically for free if you have
+uh enhanced sleep available in your
+party. However, there are a couple
+bonuses that expeditious retreat has.
+First, although losing your
+concentration is a real penalty, it can
+also be a bonus. There are some items
+like the strange conduit ring that
+trigger off of concentrating on stuff.
+So, having a dayong concentration spell
+can just be useful for characters using
+those. Uh, and uh there are some items
+and effects that trigger off of dashing
+as well. So having a bonus action dash
+can specifically be good in order to
+gain the benefits like lightning charges
+from the item that gives those when you
+dash multiple times per turn using your
+bonus action dashes from expeditious
+retreat or without spending your action
+as well. So there are some synergies
+with this spell that are actually pretty
+strong. By default, the mobility version
+of the spell is okay, but mostly
+superseded by other things, but there
+are a couple builds and item synergies
+that make the spell a little bit more
+interesting. Overall, I'm going to give
+it C tier because you really do need a
+reason to take expeditious retreat.
+Otherwise, the cost of a level one spell
+slot and your concentration is very
+high. Uh, but if you do have those
+synergies, then it can be it can be very
+much worth it. Fairy fire. Fairy fire is
+a concentration debuff spell. It has a
+20 foot radius, which is a huge radius
+for a level one spell. And enemies who
+are caught within it have to make a
+dexterity saving throw, or attacks
+against them gain advantage as long as
+you maintain concentration on the spell.
+They also can't turn invisible, and if
+they were invisible when they failed to
+save, they lose invisibility. Gaining
+advantage on attacks against enemies is
+pretty powerful, but there's a lot of
+other ways to do that. Uh, you can hide
+before combat starts to gain advantage.
+You can cast something like entangle,
+which gives you advantage on attacks and
+prevents enemies from moving. You can
+cast something like command, which gives
+you advantage on attacks and costs the
+enemy their turn and doesn't take your
+concentration. Um, so the fairy fire
+debuff is not bad, but there's a lot of
+ways that are generally going to be
+better. Fog cloud also provides you
+advantage on attacks against enemies in
+exchange for your concentration, but
+with no saving throw. So, like I said,
+there's a lot of ways to get the effect
+of fairy fire um without using a spell
+that only does that. You can use a spell
+that does a bunch more stuff beside.
+The advantage of fairy fire is that it
+has a gigantic radius, meaning that
+you'll usually be able to hit a whole
+encounter with it. And that can be
+useful, but a lot of the characters that
+would want to be concentrating on fairy
+fire also just have more important
+things to concentrate on. So, uh, in
+general, I think that you're usually not
+going to concentrate on this spell. This
+spell also specifically counters
+invisibility, but there's a lot of ways
+in Balders's Gate 3 to counter
+invisibility. Enemies who are wet can't
+be invisible cuz they're dripping water.
+So, if you hit an enemy with create
+water, they lose invisibility. Um, and a
+lot of times you can use AoE damage to
+just reveal the location of an enemy as
+well. Uh, and then you don't need to
+worry about them being invisible. So,
+while the invisibility can come up, um
+the the loss of invisibility can come
+up, it mostly isn't going to be a
+significant deal. All of these things
+together mean that fairy fire is mostly
+just outclassed at what it's trying to
+do by other options. But being a weaker
+version of a bunch of very strong spells
+is still sometimes an okay thing to be.
+There may be encounters where you need
+the extra radius on fairy fire or where
+the combination of giving advantage on
+attacks and breaking invisibility is
+what you're looking for. While it won't
+come up very often and most of the time
+you're going to be using one of the
+other spells that does the same thing
+but better, fair can still come up. So,
+I'm going to put it in C tier and say
+that uh this spell does have its uses
+even though most of the time you'll use
+something else. False life. False Lake
+gives you seven temporary hit points
+until your next long rest. So basically,
+you cast it and it prevents the next
+seven damage that you would take from
+enemies. By itself, this is a terrible
+waste of a level one spell slot. Seven
+damage prevention for a level one spell
+is not a good ratio. Um, and it's also
+anti-ynergistic because you can't use
+other sources of temp HP since temp HP
+doesn't stack. There's a lot of good
+sources of temporary hit points in the
+early game. Uh, so false life is both
+weak on the merits and anti-inergistic
+with other powerful effects. You might
+wonder why I say false life is bad and
+armor of agthus is good. Armor of agthus
+does damage so it progresses your game
+plan. False life does not progress your
+game plan. So it's weak numerically and
+weak conceptually. Dtier. Featherfall.
+Featherfall is a ritual spell, so it
+doesn't take a spell slot when cast
+outside of combat, making it effectively
+free to use uh when traversing the
+world, and it just prevents falling
+damage for 10 turns. It's AoE, so it'll
+affect your whole party. Obviously, this
+is useful in a bunch of dungeons to get
+down from a height, and it lets you take
+approaches to fights that you wouldn't
+otherwise be able to take, where you can
+come up behind enemies and maybe be in a
+more advantageous situation. You can
+skip a bunch of traps in a bunch of
+dungeons as well. You can also skip a
+bunch of loading screens sometimes in
+the game uh by using featherfall. So for
+speedr runners really like this. Very
+good when combined with enhanced sleep
+cuz you'll often be up on heights and
+you don't want to take damage or fall
+prone when you jump down from those
+heights. So feather falling your party
+before going into combat can also be
+useful. Mostly this is for out of combat
+traversal. Uh, but in combat arenas with
+a lot of height, it can be useful to
+preemptively cast featherfall in order
+to use that height more effectively. Um,
+traversal spells are pretty helpful in
+Boulders's Gate, uh, especially before
+you've memorized all the dungeons and
+encounters. So, having Featherfall ready
+can be pretty helpful. Unlike tabletop D
+and D, you have to cast it before you
+fall. You can't cast it while falling as
+a reaction, which is how it works in
+tabletop. So, you do need to know that
+you're about to fall, but getting down
+from heights without taking damage is
+just very useful in Boulders's Gate 3. I
+think Featherfall is the quintessential
+Btier spell. It's pretty useful in some
+scenarios in certain combat encounters.
+Uh, and it's basically free, so you
+should usually try to have it. Find
+familiar. Find familiar is a summoning
+spell. It's a ritual, so it doesn't cost
+a spell slot, but it can only be used
+once per short rest per character. So,
+you can't just have infinite familiars.
+You do have to be careful to keep them
+alive if you want to always have a
+familiar active. This is one of the
+coolest and most versatile spells in the
+game. And the limits to how powerful it
+can be are basically only how creative
+you are and how patient you are. Fine.
+Familiar can be used for a huge number
+of different things. When you cast a
+spell, you get a choice of cat, crab,
+frog, rat, raven, or spider. Normally,
+you're going to want to go with the
+raven because it has flying, so it's
+very mobile and it has a blinding
+attack, which is a pretty good debuff.
+And once you have a familiar, you can
+use it for a huge number of things. You
+can send it to scout. You can use it to
+drag objects over vents and uh onto
+pressure plates and things like that.
+You can use it to set up threatened uh
+spaces to trigger sneak attack by your
+rogue. Um, you can use its attacks to
+debuff enemies. You can use it to absorb
+attacks from enemies because they can
+attack your familiar. They'll die in one
+hit, but uh spending no resources to
+absorb one hit from an enemy is all
+always pretty powerful. The amount of uh
+benefits that you can get from find
+familiar are limited mostly by your
+creativity and of course by your
+patience because in order to maximize
+this spell, you have to do a lot of
+micromanagement. So, for the majority of
+players, uh, you're not going to be
+willing to put in the amount of effort
+that you want in order to get the
+absolute most out of this spell. It can
+still be really good, though. Just
+summoning a Raven Familiar and having it
+blind your enemies occasionally is
+really nice and doesn't cost you
+anything. Uh, and so this is still just
+a very, very powerful spell if you have
+access to it. There is one thing holding
+Fine Familiar back a little bit, which
+is the existence of the Cheeky Quaset
+summon. Most parties are going to get
+access to that and it will fill a lot of
+the roles that you want a familiar for
+better. But find familiar is still just
+free value and an enemy occasionally
+being blinded or wasting an attack on
+your raven is very valuable. I'm going
+to give it a tier because it's an
+extremely powerful spell, but it does
+require uh a lot of management in order
+to get the most out of it. But if you're
+a player who is uh willing to put in
+that effort, I can definitely see
+bumping it up to S tier. Um, and you
+know if that's you, if you love using
+summons, find familiar is obviously an
+incredible one. Fogcloud. So, we've
+already talked a little about fogcloud
+during this tier list. It's come up a
+few times already. So, let's go into
+more detail about why that is. Fogcloud
+is a battlefield control spell. You cast
+it on the ground and it has a 17 ft
+radius and takes your concentration.
+Funnily enough, that 17 ft radius is
+actually 3 ft less than fairy fire's
+20ft radius. Um because although they're
+both 20 foot spells in tabletop D and D,
+they converted fogcloud to metric and
+made it five meters or 17 feet and
+didn't convert fairy fire. So it's
+actually 20 ft. So uh it's very funny
+that some distances they converted and
+some they didn't. And fog cloud was
+unfortunately a victim of shrinkage as a
+result.
+Within the area of the fog cloud,
+creatures inside of it are blinded and
+heavily obscured. There's no saving
+throw for the blind. So, anything that's
+inside the fog cloud, if it's not
+completely immune to blind, will be
+blinded, which causes its attacks to
+have disadvantage and attacks against it
+to have uh advantage. So, if you put it
+on your enemies, they have disadvantage,
+you have advantage. Um, and they're
+heavily obscured, which basically means
+it counts as an unlit area, so you can
+hide even if enemies are looking at it.
+Uh, enemy vision cones won't extend into
+the fog cloud. That means there's
+basically two uses for fog cloud. You
+can cast it uh in order to create a
+space for your rogue to hide or another
+character to hide inside of it.
+Marginal, but useful for stealing items
+in towns and stuff. Um having a place
+where you can guaranteed hide and nobody
+can see you is very helpful. Uh and you
+can cast it on enemies to blind them
+without a saving throw. Any debuff that
+happens without a saving throw is always
+worth considering. And fog cloud is easy
+to apply and a pretty bad debuff. Blind
+is a pretty powerful effect. Uh enemies
+who are blinded can't jump because they
+can't target anything more than five
+feet away from themselves. They have
+disadvantage on their attack roles and
+they have uh and you have advantage on
+attack rolls against them. If you can
+keep enemies inside the fog cloud,
+that's just going to win an encounter.
+And there's a lot of good ways to do
+that. Placing a fog cloud with an enemy
+on the outer edge of it lets you move
+your ally next to the fog cloud and then
+your ally is not blinded but are still
+able to melee attack the enemy and if
+they try to move away they're going to
+take an attack of opportunity. There's
+also a lot of enemies in the game
+including some powerful bosses that
+can't move. So if you put fogcloud on
+those they're just blinded forever with
+no saving throw and that's going to make
+those encounters much easier. So,
+Fogcloud uh is just a very powerful
+debuff with no save in a big AoE as long
+as you can fill the relatively simple
+constraint of keeping enemies inside it.
+And even if you can't, getting advantage
+on your attacks against an enemy with no
+saving throw is still a pretty valuable
+tool. If you have three marshall
+characters and one spellcaster, having
+the spellcaster cast fogcloud and then
+everybody else's attacks are with
+advantage for the rest of that turn is
+pretty good. Um, and then you can also
+potentially make it even better if you
+can keep the enemy inside the fog cloud.
+So, no save debuff, pretty powerful. Uh,
+there are some fights where you can just
+win the fight outright by casting fog
+cloud and also it gives you a place to
+hide so you can steal stuff in town.
+Just a very solid spell that you're
+going to be using very, very frequently.
+I don't think it quite cracks S tier
+because uh while there are lots of
+encounters where fogcloud won't be
+particularly relevant, but the ones
+where it is good, it's very good. A tier
+for fogcloud. Good. Good is a druid or
+ranger spell that when cast creates four
+goodberries which uh sit in your
+inventory, last until long rest, and can
+be eaten to restore 1d4 hit points. So
+basically, you cast it and you make four
+healing potions that are half as
+effective as the basic healing potion,
+which heals 2d4. The good berries heal
+1d4. That's still an okay amount of
+healing for a first level spell. It's
+better than cure wounds, though it
+obviously takes your bonus actions to
+use. Um, and uh, having some extra
+healing potions can sometimes be useful.
+It also the goodberries count as camp
+supplies. Each is worth one. So, if you
+spend enough spell slots on casting
+Goodberry, you can long rest infinitely
+without spending camp supplies. Uh,
+which means that you can get infinite
+free spell slot restoration if you have
+some campcasters casting goodberry all
+the time. Most players, I think, are not
+going to be willing to waste their time
+doing that. It's certainly not
+necessary. There are plenty of camp
+supplies in the game, but it is
+something that you can do if you want to
+long rest a lot. Healing potions are so
+prevalent in Balders's Gate 3, though
+that the ability to summon four healing
+potions, which would be incredible in
+most tabletop campaigns, is pretty poor
+in Balders's Gate 3. You'll just have
+healing potions that you can use instead
+of goodberries, and they heal for more.
+Uh they can be thrown unlike the
+Goodberries, which gives them a lot of
+extra utility. So, in general, you're
+just going to want to use healing
+potions. and summoning potions with good
+berry is not particularly effective. If
+you do want this effect as well, the
+raspberries that you can find in the
+first act, you can heal yourself without
+spending uh an action at all, but they
+take no action to consume. So, the bonus
+action healing from goodberries is
+outdone by some items that you can just
+find in the game. Goodberry is really a
+spell that just replaces an item. Other
+than the use case of infinite long
+rests, uh I just don't think that you
+really want to spend your spell slots on
+it. So, I'm going to say that this is D
+tier. Though, if you are long resting
+after every single fight and using
+campcasters as well, then good is a way
+to make sure that you don't run out of
+camp supplies. All right, my friends,
+that is 26 of the 52 first level spells.
+So, we're halfway there. And since this
+video is already over an hour, I'm going
+to split it into two parts, just as I
+did last time I did a spells tier list.
+Uh, as always, of course, if you think
+that there is a spell that should be
+moved to a different tier, definitely
+let me know in the comments and why you
+think that. I'm very open to moving
+things around as we construct this tier
+list. Uh, if there are good reasons that
+people have for changing the tier of any
+of these spells. So, let me know what
+you think and why. As always, of course,
+if you've enjoyed the video, feel free
+to leave a comment and hit like. Uh,
+helps me out with the algorithm, so I
+appreciate you taking the time to do
+this. We will definitely be back uh
+continuing this saga of raiding all of
+the spells in Balders's Gate 3. So, look
+forward to that. And of course, you can
+subscribe to my channel for more
+Boulders Gate 3 build guides, future
+spell tier lists, as well as other tier
+lists, and other strategy game analysis.
+Cheers, my friends. I'll catch you next

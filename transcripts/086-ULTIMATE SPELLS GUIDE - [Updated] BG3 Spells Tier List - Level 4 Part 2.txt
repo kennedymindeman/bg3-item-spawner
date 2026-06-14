@@ -1,0 +1,1191 @@
+Hello my friends and welcome back to
+another Boulders Gate 3 tier list and
+guide. Hope you're all doing well. Today
+we're of course continuing my updated
+ultimate guide to spells for the second
+half of the level four spells. By now
+you know the drill. I already went over
+the rating system in part one. So, we're
+just going to dive right into it right
+after I take a quick moment to say thank
+you so much to Nubadir for the £25
+donation, Lucas Tonsu for the 500 Crona,
+Wanda Husbando for the £5, and Soite and
+Jared Rhodess for becoming channel
+members. Thank you so much, my friends.
+I really appreciate the support. It
+really means so much to me. All right,
+let's talk spells. Freedom of movement.
+Freedom of movement is another spell
+that featured in my recent video, the
+five most underrated spells in
+Boulders's Gate 3. So, for extreme
+detail on using this spell, you can
+check out that video. Freedom of
+movement is a dayong non-conentration
+buff spell that makes the target immune
+to paralyzed and restrained. So, effects
+like entangle or hold person simply
+won't work on a character that has the
+freedom of movement buff onto it on
+them. In addition to this dayong effect,
+when you initially cast the spell, it
+will also break a character out of any
+stun that's affecting them. This
+includes a lot of stuns that the game
+doesn't actually label as a stun
+specifically. So things like the
+lethargic effect from having haste
+expire or having your concentration
+break on a haste spell uh will be
+removed by freedom of movement. That
+means there's kind of two ways to use
+this ability. One is as a dayong buff
+just for the immunities that it
+provides, which are pretty solid
+immunities that make your party members
+significantly safer. And two is to have
+it prepared as a panic button in case an
+ally gets stunned in a bad spot and then
+you need to use freedom of movement to
+break them out of it. With that usage,
+it's action neutral because it takes the
+action of one character, but you regain
+the action of another character. So,
+you're not really wasting actions in
+combat casting freedom of movement. And
+of course, uh, if you are early in your
+adventuring day, you still benefit from
+the dayong immunities for the rest of
+the day if you have to use freedom of
+movement to break an ally out of a stun.
+So, you can either cast this at the
+start of the adventuring day, just get
+the buffs immediately, or use it to
+break allies out of stuns. Also, of
+course, as a dayong non-conentration
+buff, you can use this from a camp
+caster, a character that remains at
+camp, and just get the benefits for
+free. I'm mostly not considering that
+for this tier list as you know, but it
+is worth mentioning that freedom of
+movement is one of the best spells to
+cast from a camp cer. In general, if
+you're spending your actual party's
+spell slots on this, I don't think it's
+usually worth casting freedom of
+movement at the beginning of the day. A
+fourth level spell slot is really
+expensive. There's lots of ways to get
+these immunities otherwise. A lot of the
+time when a character is paralyzed or
+restrained, you can break them out of it
+by breaking the concentration of the
+character that is uh concentrating on
+the effect that's doing that to them.
+So, there's lots of other ways to
+prevent these effects from taking place
+on your character. Also, just having
+good saving throws makes this uh less
+important. Um, but having a character
+have freedom of movement prepared in
+order to act as a panic button to break
+an ally out out of a stun, I think, is
+an extremely powerful use of this spell.
+Most parties, I think, should have a
+character prepare freedom of movement
+just in case they need it. You'll try
+not to spend spell slots on this, but
+when you have to, you really, really
+have to. So, having it available is
+great. The best character for this is a
+Tempest cleric. They of course are a
+cleric with high wisdom and wisdom
+proficiency, so they're unlikely to be
+stunned themselves. Um, and they get it
+as a domain spell, so they don't have to
+spend a spell prepared slot on having
+freedom of movement. So, a Tempest
+cleric in your party gives you access to
+this effect whenever you want it. Uh,
+but any character that can take this
+spell can be the designated freedom of
+movement carrier, and then you have this
+panic button for when you need it, which
+is very powerful. It's especially useful
+if you find yourself accidentally
+casting another concentration spell
+while concentrating on haste, or if a
+fight goes long when you drank a haste
+potion and you just time out and the
+character gets stunned, you can use
+freedom of movement to break them out of
+it. Another uh important usage for
+freedom of movement is that if you are
+playing a solo run, you almost certainly
+want some way to get freedom of
+movement. There's a couple items that'll
+give it to you passively for free, but
+you can also cast it on yourself if you
+are playing a solo character that gets
+this spell. Uh because these effects are
+absolutely devastating in solo play.
+Parties can usually arrange to break
+each other out of them, but solo
+characters don't have that option. So
+preventing them is critically important.
+For party play where you're actually
+spending your spell slots on this, I'm
+going to give freedom of movement B
+tier. It's very powerful when you need
+it, but you're usually going to try not
+to use spell slots on it. But for the
+other cases I mentioned, like solo play
+or campcasters, of course, it's uh
+wildly more powerful for those cases.
+Next up, Grasping Vine. This is a spell
+that many of you may have never cast at
+all because this spell used to be
+completely 100% useless, but was
+actually buffed pretty significantly a
+couple patches ago. In fact, it was
+buffed while I was doing my previous
+spells tier list. So, it jumped in some
+in tier uh during the creation of that
+tier list, and it's now a lot more
+interesting after those buffs. Grasping
+vine is a bonusa action non-conentration
+summon spell. So similar in that way to
+spiritual weapon where you only have to
+spend your bonus action and can do this
+alongside another powerful action in the
+same turn. And it summons a 20 HP 13
+armor class vine. So very weak for a
+fourth level spell slot and will
+probably die in one or maximum two
+attacks from most enemies. um that
+doesn't do damage but can pull enemies
+to it uh every single turn. In addition,
+when you summon the grasping vine, it
+creates an area of twisting vines, which
+is the same surface that the level one
+spell entangle creates in a 10-ft radius
+around it. Now, it's actually uh
+slightly larger than entangle's 10ft
+radius because the the radius for the
+entangle from grasping vine is measured
+from the outside edge of the creature
+instead of from the center point. So,
+it's actually more like a an 11 or 12
+foot radius. Um, that mostly doesn't
+matter, but basically you're getting a
+level one spell alongside a summon when
+you cast grasping vine. And all it's
+costing you is a bonus action. Unlike
+entangle as well, it doesn't cost you
+your concentration. So, you get a fairly
+reasonable battlefield control effect
+that you can summon just with a bonus
+bonus action and then still be
+concentrating on something else when you
+cast this spell. As far as a level four
+spell slot goes, that's still pretty
+minor. There are some cases where it can
+be really good to entangle enemies as a
+bonus action. The best use for this
+spell, as with many spells, is to put it
+inside a hunger of Hadar or Darkness or
+something like that. Um, where not only
+will it entangle enemies inside that
+damaging effect, you can also use the
+vine to pull enemies in where they'll be
+affected by the uh damaging effect and
+then also will get entangled and can
+potentially get stuck in there forever.
+So, you can use grasping vine to lock
+enemies inside other hazardous effects.
+You have to be careful not to kill the
+vine itself with the damage from that
+effect, but there are ways that you can
+get around that. And it's immune to
+blind, so it doesn't care about being
+inside of a fog cloud. The main downside
+of this spell though is that it costs a
+fourth level spell slot. And the
+competition for druid fourth level spell
+slots is incredibly fierce. This spell
+is competing against conjure woodland
+being conjure minor elemental ice storm
+wall of fire and the likelihood that you
+have a fourth level spell slot left over
+for burning on a bonus action grasping
+vine is pretty low in most
+circumstances. This spell can be good to
+cast if you long rest all the time, but
+uh in most encounters it's going to be
+worse to spend your spell slot on this
+than one of the more powerful spells.
+So, you rarely are going to want to
+actually cast this spell. I'm getting a
+bit Ctier because it does have some
+interesting uses and you can build
+strategies around using Grasping Vine,
+but the expense is really high. Spending
+a fourth level spell slot on this
+compared to more powerful spells is
+usually not worth it. Greater
+invisibility. Greater invisibility is a
+10- turn long concentration buff spell
+cast on yourself or an ally. Uh, and it
+works exactly the same as normal
+invisibility where enemies can't see or
+interact with you. you have or target
+you. You have advantage on all of your
+attack roles and so on. Except unlike
+normal invisibility, when you attack,
+cast a spell, interact with an object,
+or take an action that would break
+invisibility, it doesn't break. Instead,
+you're going to make a stealth check
+with a DC of 15 in order to maintain the
+greater invisibility. Each time you make
+the stealth check, it gets successively
+more difficult. But as long as you keep
+making that stealth check, you can
+attack enemies over and over while
+remaining invisible and they won't be
+able to interact with you, which can let
+you end entire encounters without
+enemies ever taking a turn. The DC that
+you have to make in order to maintain
+greater invisibility is funny. Of
+course, this being Balders's Gate, it's
+never explained to the player what
+you're going to have to roll. Um, and
+it's actually changed in patch 8. Prior
+to patch 8, this was DC-15 and then it
+would skip to 17. For some reason, there
+was no 16 and then go up by one every
+time you succeeded. So, the first uh
+roll would be a DC-15, then 17, 18, 19,
+20, and so on. This was very easy to
+make extremely consistently. In patch 8,
+they've changed how the stealth check
+works. It's actually easier to make now
+on tactician mode or below because it no
+longer skips DC16.
+So your first stealth check will be a
+15, then 16, 17, 18, 19, 20. Meaning
+that you can make a lot of checks very
+consistently while attacking on
+tactician mode or lower. On honor mode,
+they've made it more difficult. It's the
+DC is 15 plus the square of the number
+of times that you've succeeded. So it'll
+be 15, 16, 19, 24, and then 31. I think
+I'm doing the math right there. Um, and
+uh then 40. and it so it gets more
+difficult significantly faster on honor
+mode. Now, a character wi who is set up
+to make these stealth checks can still
+make them extremely consistently for
+several checks in a row. Uh, if you have
+stealth expertise, that's going to be
+plus eight to your stealth checks. The
+spell pass without trace gives you plus
+10, and then 15 dexterity gives you five
+more. So, a character set up to make
+stealth checks, even discounting items
+and stuff. The minimum you can roll is
+24. Conveniently, that's the fourth
+stealth checks that stealth check that
+greater invisibility asks you to make.
+So, a character set up to succeed on
+these checks will always get a minimum
+of four attacks before failing the
+stealth check. And that's even if that's
+only if they roll a fairly low roll on
+their actual die roll. um and will be
+able to do a lot of damage before
+enemies can start seeing them. So, you
+can see that if you build a round using
+greater invisibility, the spell is
+absolutely broken. Getting four or five
+attacks before combat starts and then
+you still get a surprise round after you
+fail your eventually do fail your
+stealth check um is incredible cuz
+usually you're going to be able to kill
+at least one major enemy and often more
+than one major enemy uh before combat
+actually begins. And a lot of fights you
+can end uh completely without
+interacting with enemies at all if you
+build around maximizing your upfront
+damage and amusing greater invisibility.
+For a character that's not built around
+having extremely high stealth checks,
+this is still a very good spell. You'll
+usually be able to get one or two
+attacks uh for free before combat starts
+and then still get a surprise round
+which is very very powerful regardless.
+So greater invisibility is really useful
+there also. Now, whether this is worth
+spending a level four spell slot on kind
+of depends on the encounter. In a lot of
+encounters where you can get the
+surprise round otherwise, greater
+invisibility is going to work out to
+basically two attacks before combat
+starts, which is still a lot of damage,
+but not necessarily worth spending a
+fourth level spell slot on compared to
+spending that on a damage or control
+spell. Um, but in encounters where it is
+more difficult to get surprise, where
+you can't just approach stealth or uh
+surprise enemies in another way, greater
+invisibility is both a pretty powerful
+damage spell uh with the potential to be
+even more powerful if you roll lucky on
+your stealth checks and then also
+triggers a surprise round, which of
+course is incredibly strong. It does
+compete a little bit with potions of
+invisibility and just casting
+invisibility for surprise rounds, but if
+you want that effect anyways, the
+greater version can be really good.
+There's also some story events where you
+need to uh interact with objects in
+order to progress them. And having
+greater rather than normal invisibility
+can help you do that unseen if that's a
+goal that you have for that particular
+location or quest or whatever. If you
+build around this spell, it's one of the
+most broken things you can do in
+Boulders's Gate 3. For parties that
+haven't built around this spell, it's
+still very solid. Uh, I'm going to give
+it a tier because for most parties, this
+is a decent amount of upfront damage and
+a surprise round, which is very strong,
+but can be gotten other ways. Uh, but
+obviously if you built your party around
+abusing this spell to the maximum, then
+it is kind of free wins in Balders's
+Gate 3. I will say if this is your first
+playthrough, do not build your party
+around greater invisibility. Uh just
+watch a streamer do that playthrough and
+save yourself a bunch of clicking. Uh
+because you won't really interact with
+the game when you're playing that play
+style. Um but uh for a player who wants
+to really play with the AI and
+experience how weird the game can get
+when the enemies can't see you, this can
+be pretty fun. Guardian of Faith.
+Guardian of Faith is another spell that
+I talked about in my underrated spells
+video, so check that out for examples of
+using this spell in actual play. This is
+a cleric summon spell, and it creates a
+creature with 60 hit points and 20 armor
+class. So, it's actually pretty hard to
+kill at the level at which you get it. A
+lot of enemies are going to struggle to
+take this thing down because 20 AC is
+still pretty reasonable at this point in
+the game. When enemies move within 10 ft
+of this creature, it will automatically
+try to attack them, which will make them
+make a dexterity saving throw or they
+take 20 damage. And if they succeed on
+the save, uh, and that's radiant damage.
+And if they succeed on the save, they'll
+take half damage. However much damage
+the Guardian of Faith did, it will then
+take itself. So if three enemies fail on
+saving throws against it, it will do 60
+damage and then dissipate. Um, and it
+will do less damage if enemies do more
+than 20 damage when attacking it
+themselves because it will then get
+fewer attacks before it expires. This is
+a pretty reasonable ratio of spell slot
+to damage. A level four spell slot for
+60 damage to one or two targets is uh
+not a terrible ratio if it works out
+that way. Even spread out across
+multiple enemies, this can be better
+than a lot of other fourth level damage
+spells in terms of the total damage
+output that it does. Uh, but just as a
+damage spell, this is not that exciting
+and not really what you're using it for.
+You're using it because it's a giant
+creature with good armor class and hit
+points that enemies will attack, get
+stuck on, and be unable to move past.
+Placing this spell in a doorway can
+completely block the doorway. putting it
+where enemies need to pass through will
+often cause them not to pass through it.
+So, you can really control enemy
+movement with it. It doesn't take your
+concentration or anything. So, you get
+the benefits of this spell uh just by
+casting it and then can continue to cast
+other stuff alongside such as for
+example spirit guardians. Um so, you can
+put out damage with the guardian of
+faith and spirit guardians and a
+spiritual weapon all at the same time um
+if you're a cleric. and that actually
+lets you do significant amounts of
+damage uh just with a single character.
+The other thing that the Guardian of
+Faith has is the hidden passive that
+it's big. It's just a it's just a big
+burly boy. Uh and so it will fill up a
+lot of space on the battlefield and you
+can put it in a doorway and it will fill
+even fairly large doorways that your
+characters themselves might not be able
+to block enemy movement through. So, you
+can really use this to control enemy
+spacing and movement pretty
+significantly.
+It's still not going to be used in every
+encounter. You need a battlefield that
+is conducive to wanting to divide it by
+putting up a guardian of faith or
+enemies who you think are likely to
+attack it. Not every party composition
+is going to be able to use it either cuz
+if you have low AC characters, then
+enemies might prefer to attack them over
+the guardian. But this is still a very
+powerful spell and when used correctly
+can win encounters outright. I'm going
+to give it B tier because it does
+require some specific circumstances to
+work well, but in those circumstances,
+it's very powerful. A couple other
+tricks with this, you can increase its
+hit points with aid. You can buff it in
+various ways, and there's a bug where
+you can make it move around if you give
+it movement speed uh using Menthara's
+soul branding ability. So, there's some
+bugs you can abuse to do really weird
+things with this spell. Um, but mostly
+you're just using it to block a doorway,
+which it does phenomenally well. Next
+up, Ice Storm. Ice Storm is an AoE
+damage and control spell. It is similar
+to Fireball in that it's just an AoE
+damage spell with a dexterity saving
+throw for half. And it does 2d8
+bludgeoning and four d6 cold damage. So
+that's an average of nine bludgeoning
+damage and 14 cold damage, which of
+course can be doubled to 28 cold damage
+if enemies are wet. All of that's with a
+dexterity saving throw for half. So
+unless enemies are wet, it's going to do
+less damage than a fireball. And against
+wet enemies, it's going to do less
+damage than a lightning bolt. Both of
+which are level three spells. So just in
+terms of the damage output, the spell is
+not very efficient. It has a 20ft radius
+though, which makes it easier to hit a
+lot of enemies with ice storm than with
+either of the two uh third level AOE
+damage spells. Um, so you can usually
+get like one extra target which does
+make up for the lower damage somewhat,
+but still you won't be using this spell
+primarily for the damage. The upside of
+this spell is that it leaves behind an
+ice surface and a non-conentration way
+to create a 20ft radius ice surface is
+very powerful. This is a worse control
+effect than sleet storm which is a 30ft
+radius and will last for 10 turns and
+will refresh itself every turn even if
+it gets melted. but it doesn't require
+your concentration. So, you can use ice
+storm alongside another concentration
+effect. And that is incredibly useful
+for characters that want to use um
+control effects and then also control
+other parts of the battlefield or layer
+control effects on top of one another.
+Putting down a spike growth and then
+dropping ice storm on top of it, for
+example, very powerful. Uh putting down
+a hunger of hadar and dropping ice storm
+on top of it, similarly, very powerful.
+So, the fact that this is just a way to
+set up a big AoE control effect, and ice
+surfaces, as we've talked about, are
+incredibly strong in Balders's Gate 3,
+uh, stunning enemies repeatedly every
+single turn, is very powerful cuz you
+can lock down a whole encounter without
+even using your concentration. The
+damage from the spell is a medium bonus.
+uh you're mostly not very excited about
+the amount of damage that it does, but
+when you're hitting a bunch of enemies
+with a control effect, adding a little
+bit of extra damage to that can help.
+But mostly this is just a a 40 foot
+across ice surface that you can cast
+without spending concentration on it.
+And that in Balders's Gate 3 is enough
+to make this spell amazing. I'm going to
+give it a tier. You'll almost always
+cast a concentration control spell
+first, but ice storm in a lot of
+encounters is going to be the best
+follow-up spell after casting one of
+those, which means that this spell is
+going to see a lot of use. Otuk's
+resilient sphere. This spell can be cast
+on either allies or enemies and lasts
+for three turns and effectively removes
+the target from the game. whatever
+creature it's cast on cannot take damage
+or be affected by things from outside of
+the sphere and can't deal damage or
+affect things outside of the sphere
+itself. There are a couple minor
+exceptions to this rule because you can
+still move at half speed while in Ot's
+resilient sphere. Some creatures that
+have effects just when they move around
+the battlefield can still do stuff, but
+the vast majority of uh enemies in the
+game will be uh effectively removed from
+the game for three turns. You can think
+of it very similar to banishment in that
+it just removes a character from combat
+until you are finished concentrating on
+the spell. When cast on an enemy, they
+get a dexterity saving throw to negate
+the effect. And it can't be cast on huge
+or larger creatures, so some enemies are
+immune to the effects of resilient
+sphere. But you can use it very
+similarly to a dexterity targeting
+banishment. For the most part, that's
+not very exciting. Banishment is already
+a niche spell and useful mostly because
+it targets charisma, which is often a
+very low saving throw. There are fewer
+enemies whose dexterity saves are
+significantly worse than their other
+saves than there are uh enemies with
+really low charisma saves, though they
+do exist. So, against some very specific
+enemies, resilience here can be good.
+But in general, the fact that it targets
+dexterity is going to make it
+significantly worse than banishment. and
+also the limitations on what enemies it
+can target removes some of the most
+dangerous enemies in the game because
+some of the most dangerous enemies are
+big um from possibilities for affecting
+with resilience sphere. So, as an
+offensive spell, this is okay. It's very
+niche um and generally speaking,
+banishment is going to be sufficient for
+a niche single target removed from the
+game effect. Uh and most of the time,
+you're still going to prefer to hit them
+with other crowd control spells. There's
+a lot of I if dexterity saves are weak
+on a creature, sleet storm will usually
+remove them from the fight and also
+affect the rest of the encounter as
+well. So, resilience fear is rarely
+going to be the best tool for the job.
+Where this spell is more useful is when
+cast on an ally. There's no saving
+throw. And when an ally is in danger,
+either a party member or much more
+frequently an NPC ally, removing them
+from the fight for three turns can keep
+them alive. There's a lot of encounters
+in the game where you have to keep an
+NPC alive uh just for a couple turns and
+the AI is not good at self-preservation.
+So NPC allies will charge into the
+middle of huge piles of enemies. Putting
+them in a hamster ball for three turns
+can really help keep them alive. So
+Otto's resilient sphere is useful for
+those encounters. Typically you're not
+going to cast it on enemies, although it
+can happen. But using it to save an ally
+in a bad spot in particular. There's a
+couple fights in act two where this is
+really powerful can make the resilience
+sphere pretty useful. I'm going to give
+it C tier cuz it only comes up I think
+like two or three times in the game, but
+when it does it is a pretty nice tool
+for the job. Next up, Fantasmal Killer.
+Fantasmal Killer is a single target uh
+damage over time and disable spell. You
+target a creature with it and for 10
+turns they cannot move and take 4d10
+psychic damage every turn. However, uh
+this requires your concentration and
+enemies get a wisdom save when you
+initially target them with the spell,
+which if they succeed, it does nothing.
+And at the beginning of each of their
+turns while under the effects of this
+spell, they get another wisdom save. So
+they have to fail two saving throws
+before this does anything to them at
+all. before they get one turn of not
+being able to move or take any damage.
+Um, and then they have to continuously
+fail additional saving throws every turn
+thereafter for Fantasmal Killer to do
+anything. As a single target
+concentration disable spell, that
+doesn't even fully prevent enemies from
+doing stuff. A melee enemy, of course,
+whose fear is much less of a threat, but
+by the time you're casting fourth level
+spells, even some melee enemies will
+have a lot of ranged options, so it
+won't completely take them out of
+combat. Uh the fact that it requires two
+saving throws before it does anything
+definitely makes this spell
+significantly worse. For a wizard to
+whom this spell is mostly available, uh
+this spell is just not very exciting. A
+fourth level spell slot is a very
+valuable resource and spending it on a
+spell that's unreliable and honestly not
+even that exciting if it does land fear
+and some damage over time. The damage
+isn't bad, but a little bit of damage
+over time just are not really what you
+want to be spending your fourth level
+spell slots on when you could be instead
+shutting down an entire encounter. And
+wizards have lots of great options to
+duplicate this effect in a superior way.
+Um, so they usually will not want to
+cast fantasmal killer. However, in patch
+8, this spell did get a little bit of
+new life because it is available also to
+hexlade warlocks. Hexblade warlocks of
+course don't care that it costs a fourth
+level spell slot because warlocks
+automatically upcast their spells and
+it's actually going to deal an extra d10
+of damage uh when you upcast it with the
+fifth level spell slot as well. So they
+even get a slight upgrade on fantasmal
+killer uh because of the way that
+warlock spell casting works when you're
+casting this spell and it's not costing
+you something really expensive. It is a
+little more interesting, especially if
+you are a hexblade warlock with high
+arcane acuity save DCs. A lot of hexlade
+warlocks are going to be cuz you're
+making weapon attacks which can trigger
+arcane acuity, boost your save DCs, and
+then casting spells. Fantasmal killer
+can be extremely effective against some
+enemies because if they can't make if
+they reliably fail the saving throws,
+then this spell keeps them in place and
+does pretty good damage over time. It's
+also psychic damage, which if you're a
+hexblade warlock, there's a very good
+chance you're using the shadow blade and
+a the resonance stone, which will then
+double psychic damage from s fantasmal
+killer as well. So, there's some synergy
+there. The thing is that warlocks, hex
+blade warlocks don't really need help
+killing any enemy that isn't immune to
+psychic damage. Um, if the enemy can be
+hit by fear and is vulnerable to psychic
+damage, then the hexlade warlock can
+just kill it with melee attacks and
+doesn't need to spend spell slots on
+this. So, this sort of solves a problem
+that they don't have, but for a hexlade
+warlock, this can still be a powerful
+spell to use in some encounters. I'm
+going to give it C tier. Wizards will
+never want to cast this. Warlocks can
+make some decent use of it. Uh, but in
+general, you're just going to be better
+off hitting with your weapon and using
+your concentration on AOE disables.
+Polymorph. Polymorph is a single target
+disable spell. Enemies get a wisdom
+saving throw uh or they are turned into
+a sheep for five turns. Five turns is
+longer than most disable spells in the
+game. It's one wisdom save or they're
+just out of the fight for five turns.
+And almost any other full disable in the
+game does not last that long or gives
+them multiple saving throws to recover
+from it. So polymorph is a little bit
+unique in that it actually turns off an
+enemy's ability to participate in combat
+for five full turns. However, there's a
+major downside to polymorph, which is
+that the sheep only has three HP. And
+when the enemies lost those when the
+sheep has lost those three HP, the
+original enemy comes back with all of
+their hit points and abilities and
+everything uh again. So, if you do any
+damage to the creature while it's
+polymorphed, you got no value out of
+this spell. If you can be sure that an
+enemy won't get caught in a stray AoE or
+something, you can use this to take one
+creature out of the fight for five
+turns, which can be pretty useful in
+some encounters. But again, most of the
+time, if you want that effect, uh,
+banishment is better. And with a wisdom
+save targeting effect, stuff like hold
+person and hold monster is going to be
+way better than polymorph. So, usually
+this spell, because it's just a single
+target disable with a an extremely heavy
+downside, is not going to be
+particularly useful. This is in contrast
+to how the spell works in tabletop D and
+D, uh, where you can use Polymorph to
+turn a creature into almost any animal.
+So, you can turn your party member into
+a Tyrannosaurus and have them just go to
+town there, it's awesome. But when all
+it can do is turn an enemy into a sheep
+and then as soon as you hit them they
+turn back, that is a much less exciting
+effect. I'm honestly this is one of the
+spells I'm most disappointed with how
+they decided to implement it in
+Boulders's Gate 3. However, there are
+some corner cases where polymorph can
+still be very good. It does actually
+turn the enemy fully into a sheep and
+they take on the properties of being a
+sheep, including its size and weight. So
+enemies that are too large to move
+otherwise, you can pick up and throw
+while they're in sheep form. You can
+shove them around. Even enemies who are
+completely immune to forced movement
+lose that when they're in sheep form. So
+you can use it to move enemies who
+otherwise can't be moved at all. Um, and
+a lot of enemies who can't be moved at
+all are placed suspiciously near cliffs.
+So if you polymorph them, you can boot
+them into a hole and then win the fight
+instantly. The fact that they turn back
+into their normal form after taking
+three hit points of damage does nothing
+against instant death effects like being
+dropped into a chasm. So, polymorph can
+be used to just one-shot some enemies if
+they are near any area where you can
+just one-shot creatures. There's also a
+pretty severe bug that's been being
+discussed quite a bit recently, uh,
+where if you polymorph an enemy into a
+sheep and then cast dominate beast on
+them and then do some fiddling with
+removing them and adding them to your
+roster. There's a couple steps to make
+this glitch work. You can get any NPC in
+the game as a permanent follower. The
+dominate effect will not wear off uh
+after it normally should, and when they
+turn back from being a sheep, you just
+have any character in the game following
+you. So, polymorph can be pretty
+powerful in that case if you're willing
+to abuse that bug. I'm not going to
+consider that bug um for the purpose of
+raiding this spell um because it it's
+very clearly a glitch. may or may not be
+fixed by the time you are watching this
+video. Uh, but even so, it's clearly
+abusive, so we're not going to consider
+it for the purpose of the spell rating.
+I'm going to give Polymorph C tier
+because the ability to turn a dangerous
+enemy into a sheep and kick them off a
+cliff is very powerful in some
+encounters. Does cost you loot, so you
+won't want to use it against enemies who
+have items you care about, but that is
+pretty powerful. But a lot of the time,
+if you can land a wisdom save targeting
+disable on an enemy anyways, you don't
+need to kick them off a cliff because
+you've just already won the encounter
+regardless. So polymorph is rarely going
+to be uh an incredibly important spell.
+Next up, staggering smite. This is a new
+spell that was added in patch 8, or
+rather it existed in the game
+previously, but was only available to
+two specific NPCs. couldn't be used by
+players at all, but as of patch 8 is now
+available to hexlade warlocks.
+Staggering smite is a smite spell like
+the paladin smite spells. Um, but
+because it's a warlock spell slot, it's
+always going to be used at level four or
+five. Uh, it doesn't matter whether it's
+level four or five, it gains no benefit
+from upcasting it. This smite spell does
+uh requires your bonus action and your
+concentration. Does four d6 snake
+psychic damage in addition to your
+normal attack. So, an average of 14
+additional damage. Um, and enemies have
+to make a wisdom saving throw or they
+become staggered for one turn. Staggered
+gives them disadvantage on attack rolls
+and they can't use reactions. So, you
+can use staggering smite to turn off the
+reactions of certain types of bosses.
+Being psychic damage, of course, this
+synergizes very well with the shadow
+blade and the resonant stone, which is a
+strategy that hexlade warlocks will
+often use. And additional burst damage
+on your weapon attacks for a hex blade
+warlock is a pretty powerful tool.
+Hexlade warlocks of course are going to
+be making attacks a lot and having
+additional burst damage can be very
+powerful. The downside of this is that
+warlock spell slots are somewhat
+limited. You're spending this on 14
+extra damage or 28 if you double it with
+the resonant stone. More if you
+critically hit, which obviously
+increases the value if you have critical
+hit gear. um and a minor debuff for one
+turn. Uh so it's a pretty expensive
+resource to expend on this and it
+requires your concentration. Warlock
+concentration is incredibly in demand.
+It is a very rare fight where you're not
+going to be concentrating on hex or
+darkness or hunger or fedar or something
+along those lines or a control spell and
+can afford to break those concentrations
+by using staggering smite. But when it
+does come up, the extra burst damage can
+end fights a little bit faster. I like
+this spell overall for hexlade warlocks
+because doing weapon attacks with a hex
+blade is exactly what they want to do.
+And there are cases where you're going
+to use staggering smite just to finish
+off an enemy more easily. Uh a lot of
+the time you won't want to break
+concentration on it, but sometimes
+staggering smite is just going to be the
+best choice. I'm going to give it B tier
+because um just having the ability to do
+extra damage, just knowing this spell so
+you can add extra burst damage to a turn
+that you already wanted to do, which is
+just, you know, attacking with your
+weapon with your weapon attacking
+character is a powerful tool. You
+probably won't actually cast the spell
+that often, but having it available
+gives you a ton of powerful tactical
+options. Um, and so I recommend usually
+taking it on a hex blade warlock. Next
+up, stone skin. Stone skin is a long
+rest concentration buff spell that gives
+the targeted creature resistance on
+non-magical, bludgeoning, piercing, and
+slashing damage uh for the entire day or
+until you lose concentration. You could
+cast it on yourself and it makes it a
+little easier to maintain concentration
+cuz you're less likely to take damage or
+cast it on an ally. The problem with
+this spell is just that it's a purely
+defensive buff and it mostly doesn't
+work. Um, by the time you get fourth
+level spells, most enemy damage is
+magical anyways. So, stone skin won't be
+providing any resistance to that damage.
+It conflicts with other sources of
+resistance like the blade ward canrip,
+which is free, or the blade ward that
+you get from the buff on heel item set,
+which a lot of parties are going to
+have, that doesn't stack with stone
+skin, so it's completely useless to
+parties that are using that item set.
+Um, and the number of enemies that this
+actually works against is pretty
+minimal. If you know you're doing a set
+of fights that have a lot of enemies
+that just do non-magical physical
+damage, you could maybe prepare and cast
+stone skin, but it would require
+structuring your adventuring days in a
+pretty weird and specific way to chain
+those fights together and get use out of
+this spell. So, it's really just not
+worth the effort. You have to go pretty
+far out of your way to make this spell
+actually work. And then you're just
+getting a powerful effect, but one that
+you can get in much cheaper and less
+complex ways uh using much less
+expensive resources. So there's just no
+real reason to cast stone skin Dtier.
+And finally for the fourth level spells,
+wall of fire. Wall of fire is a
+groundtargeting AOE damage spell, and
+it's the first of the wall spells, which
+you draw between two points and make a
+straight line between those two points.
+It does 5d8 fire damage uh to enemies
+who are in it when you initially cast it
+with a dexterity saving throw for half
+and then also does that damage again to
+enemies who enter it on their turn or
+end their turn inside it after already
+having started their turn in the wall of
+fire. So if enemies stay inside it,
+they'll take 5d8 damage every turn. If
+they walk into it, they'll immediately
+take damage. And when you cast it on top
+of them, they'll immediately take
+damage. Balders's Gate weirdly uses
+different timing rules for groundargeted
+damage spells. This one, the damage
+happens at the end of their turn. So,
+you won't get to double dip on the
+damage before enemies take their turn,
+but 5d8 fire damage uh is still a pretty
+significant amount of damage to do in a
+big AoE, especially because it's
+relatively easy to place these wall
+spells where you can hit multiple
+enemies. Wall of fire also creates a
+burning surface on the ground. So
+enemies inside of it take an extra D4 of
+damage uh from the burning surface on
+the ground and then also catch fire
+themselves and will take a D4 of damage
+every turn. So it adds a little bit of
+additional damage to the 5d8 that the
+spell uh is listed as doing. There's a
+couple subtleties with using wall of
+fire. One is that the targeting on wall
+spells in Boulders's Gate 3 is kind of
+janky. A lot of terrain will interrupt
+it that you wouldn't think would. Um,
+any difference in height, even like a
+single step will often interrupt the
+walls. A lamp post or really thin pillar
+will interrupt the walls and you'll have
+to draw around it. Um, even some objects
+on the ground like barrels and stuff
+like that that the wall would normally
+just destroy will still interrupt
+targeting. So, the targeting can be a
+little fiddly, but you can usually hit a
+lot of enemies with this spell. Uh it is
+it has up to 120 foot length in terms of
+how long you can make the line, but each
+end point has to be within 60 ft of the
+character. So the only way you could
+actually get that 120 ft line is if you
+drew it directly over the top of
+yourself. Most of the time you're going
+to end up with a wall of fire that's
+like 30 or 40 ft long. There's two ways
+to make this spell incredible. One is
+when you're in an open area, so you can
+make a big long line and enemies are
+coming towards you. Uh melee enemies
+will have to walk through the wall of
+fire to get to you if you block off the
+arena or divide the arena in half. And
+they'll take tons of damage on their way
+to you. And that can kill weaker enemies
+very easily. In particular, in act two,
+which is when you're going to get this
+spell, there's a lot of encounters that
+are just a bunch of weak melee enemies
+running in a straight line directly at
+you. And wall of fire just eats those
+encounters for breakfast, ending them
+instantly. Another amazing way to use
+Wall of Fire is if there is a hallway or
+long corridor in a combat arena, you
+could put it lengthwise down the hallway
+and force enemies to take three or four
+turns running through the wall of fire
+to get to you, and then they're going to
+take an enormous amount of damage on the
+way. Finally, of course, if you can keep
+enemies inside of it, like say stacking
+wall of fire and ever's black tentacles,
+then enemies are going to take
+consistent damage turnover overturn. So,
+there's a couple types of encounters
+where enemies have to move towards you.
+The wall of fire just single-handedly
+wins outright. And you can also use this
+just on top of enemies that can't move
+or enemies that you're holding in place
+with another control effect to deal
+excellent turnover turn damage.
+Concentrating on wall of fire when an
+enemy is stuck inside it or several of
+them is some of the most efficient
+damage output that a character can do.
+And of course, they can keep using their
+other actions uh while they're maintain
+maintaining concentration on this spell.
+Wall of fire is also a great way to
+start combat. It's a good way to
+surprise enemies. Um because the enemies
+who are surprised will end their turn uh
+will will just end their first turn. So
+they will take double damage from the
+wall of fire before they get a turn. Uh
+if you cast wall of fire on top of them
+because they'll take the initial damage,
+then they'll pass their turn during the
+surprise round and take the damage
+again. So, wall of fire is an excellent
+way to begin combats from invisibility
+and a great thing or from hiding and a
+great thing to concentrate on as those
+combats go longer. A couple other fun
+tricks with wall of fire. You can put it
+under a banished enemy where they're
+about to return and they'll take 10d8
+fire damage plus the uh 2d4 of burning
+damage before they get to act again
+because they'll take it when they come
+back and then at the end of their turn
+that they pass. Um, and an evocation
+wizard, uh, because it's an evocation
+spell, evocation wizards are immune to
+the damage of evocation spells, so you
+can stand inside your own wall of fire
+safely. You aren't immune to the damage
+from the burning surface, but if you are
+wet or have enough damage reduction to
+ignore the 1d4 damage, um, then you can
+just stand completely safely inside your
+own wall of fire, which makes you
+basically immune to melee enemies. So,
+there's a couple like fun little tricks
+that you can do with this spell, but
+just by default, this spell is just very
+good. It does excellent damage. There's
+some encounters that it just wins
+outright. And even in other encounters,
+it's just a great thing to concentrate
+on. A lot of the time, you would rather
+use a control spell than a damage spell.
+So, you won't use this in every fight,
+but wall of fire is just a very good
+spell. A tier for wall of fire. All
+right, my friends. That is the fourth
+level spells. Fourth level spells are
+really interesting, I think. Um, there's
+a lot of subtleties with their use.
+There's a few spells, of course, that
+are just generically very, very powerful
+and will be used by most parties in a
+lot of encounters, but a lot of these
+spells are useful for specific builds or
+specific tactical situations. And
+knowing when to use them and when
+they're not appropriate, I think is a
+really interesting strategic layer to
+the fourth level spells. And in some
+ways, that makes them more fun to use
+than uh earlier spells that are more
+just sort of overall powerful. um
+because the fourth level spells are only
+used sometimes. So, you have to really
+think about when you're going to use
+them. Especially in Ctier, there's a lot
+of spells here that are only good for
+some builds or for a couple encounters
+per game, but are very good for those
+builds or encounters. And in B tier,
+there's a lot of spells that you're
+going to sub in for more generically
+useful spells uh when the situation is
+right for them, and they'll be very good
+in those situations, which is exactly
+the type of sidegraded tactical option
+that I think is cool in a strategy game
+like Balders's Gate 3. As always, of
+course, if you think that I've misplaced
+any of the spells, especially if you
+think I've underrated any of the spells,
+definitely let me know. Um I'm very
+interested in hearing your thoughts on
+those. And obviously if you look at this
+tier list and compare it to my last
+fourth level spells tier list, there's a
+lot of differences. So we are very happy
+to move things around if you have good
+arguments as to why. Uh and of course if
+you've enjoyed the video, feel free to
+leave a comment and hit like. Helps me
+out with the algorithm. So I appreciate
+you taking the time to do that. YouTube
+is also yelling at me about how people
+can now hype my videos. Uh so I guess if
+that's an option that you have
+available, I don't know what it does,
+but YouTube loves it when you push
+buttons. So, feel free to do that. And
+of course, you can subscribe to my
+channel for more Balders's Gate 3 spell
+tier lists. We'll come back with level
+five and six spells, BG3 build guides,
+and other strategy game analysis.
+Cheers, my friends. I'll catch you next

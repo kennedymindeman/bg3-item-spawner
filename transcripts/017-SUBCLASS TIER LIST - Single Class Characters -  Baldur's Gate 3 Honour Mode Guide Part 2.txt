@@ -1,0 +1,2041 @@
+hello my friends and welcome back to
+another balers Gate 3 character building
+guide hope you're all doing well today
+we're continuing the second part of my
+subclasses tier list going over every
+single subass in the game in exacting
+detail covering their strengths and
+weaknesses and what draws you to play
+the character and how powerful they are
+if you take 12 levels of that character
+we're covering single class characters
+today so 12 levels in the same subass
+and then in a future installment I'll
+cover these characters and their
+strengths as multiclass characters but
+this will give us a great basis for
+understanding the strengths of
+weaknesses of the class before we talk
+about the class as as added to other
+classes I'm recording this the same day
+that I posted part one of this video and
+so I want to thank everyone for the
+extremely helpful comments I really
+appreciate everyone's feedback I'm not
+going to move any of the sub classes as
+a result but I do want to take the time
+to correct two errors from the previous
+video and then answer a couple questions
+that came up pretty frequently in the
+comments first up I'm going to correct
+the most obvious error which is that I
+swapped the icons for eldrich Knight and
+battl master um I even checked cuz I
+thought these looked weird but uh the
+wiki has them backwards as well so I saw
+on the wiki that they were like this and
+was like okay must must have been right
+on the wiki um but of course those are
+backwards so we need to swap those
+secondly I mentioned a few times that
+cleric Channel Divinity comes back on a
+long rest is on a long rest cooldown and
+of course that's not correct it comes
+back on a short rest cool down so I want
+to set the record straight there I also
+want to answer a question that came up
+pretty frequently which is
+about the tiers if the B and C tiers are
+going to be mostly empty by the end of
+this video and as you can see they're
+currently mostly empty why even have
+those tiers at all the answer is that
+the design goal of balers Gate 3 of
+Dungeons and Dragons in general is for
+every subass to be cool viable and
+Powerful this is a single player or
+cooperative game and the goal is to let
+you leave out the power fantasy that
+that subass represents not to make you
+choose between different viabilities of
+classes there's no such thing as a
+challenge mode class in this game the
+way there might be in a Rog like or
+something like that every class is
+supposed to be really really good at
+what it does because it lets you live
+out the fantasy of playing Dungeons and
+Dragons so it's a testament to the
+balance work that went into this game
+that most of the classes fall in the
+higher tiers on the tier
+list overall I I think we will see very
+few classes that don't offer spectacular
+things to the player and that's a good
+thing so that's why these bottom two
+tiers are going to be mostly empty
+because in a sense every class that
+falls into those tiers represent a Miss
+on the intended balancing goals of the
+game I mentioned that I think that
+Battlemaster and wildart Barbarian are
+sort of the perfect balancing points for
+the game and so every class that and and
+that means that those should represent
+roughly speaking the balance floor in
+terms of power level every class that
+falls below those may need to be brought
+up in terms of power level to meet that
+standard
+before I begin I also want to reiterate
+that we're measuring these classes both
+on their raw power level how strong are
+they when they've put when you've put
+them into a party but also how versatile
+they are how easy is it to fit them into
+a party how greedy are they for items
+how much do they restrict your play
+style I'm also considering how easy is
+it to play because I know that everyone
+watching has never made a play mistake
+we are all perfect but for other players
+honor mode represents hundreds of hours
+of inputs and play mistakes for those
+people are inevitable so the amount of
+forgiveness that the class has is really
+important to your honor mode playthrough
+that's one reason I think eldrich Knight
+for example is such a powerful class
+being a tanky character with the shield
+spell and very good access to AC you can
+almost never miss your attacks thanks to
+the broken uh nature of Tavern brawler
+means that even if you make several play
+mistakes with eldrich Knight you will be
+able to recover some of the classes that
+offer more raw damage or whatever are
+not as forgiving and so I think that
+that's an important consideration when
+talking about how powerful these classes
+are also just to quickly reiterate how
+we're measuring the ti in S Plus tier I
+have characters that have give you too
+much they are balanced outside the
+normal balancing uh balancing goals for
+the game and just fall outside the power
+level that should be appropriate to a d
+andd character in s tier I have
+characters that are both extremely
+versatile fit into any party and
+extremely powerful in a tier I have
+characters that are either extremely
+versatile or extremely power but usually
+not both at the same time in B tier I
+have characters that are slightly less
+versatile or powerful than the a tier
+characters and and also not the other
+thing and in C tier I have characters
+that uh restrict your play in some way
+because of a drawback that the class
+adds to your party again these are not
+bad characters and the margins between
+these tiers are extremely thin I do want
+to emphasize that uh again um but these
+characters add a sort of more restricted
+play style to your party because of
+something that they do that causes you
+to have to play around them in some way
+finally in the bottom tier I have
+subclasses that are still often good but
+totally outclassed in the same role by
+another subass within their same class
+so for example a Valor Bard fills
+exactly the same role in a party as a
+sword Bard it doesn't really get any
+abilities that sword Bard doesn't get
+and sword Bard gets lots of other stuff
+besides and also does all the things
+Valor Bard does but better so
+um while it's still a great character
+valer bards are still awesome in the
+current state of balers Gate 3 balance
+they're just uh superseded by the
+existence of Sword Bard so let's jump in
+and start talking about monks beginning
+with the way of the four elements subass
+now I rated monks B tier in my class
+tier list which I know caused some
+controversy um but just bear in mind
+that we're talking about single class
+characters many of you are probably
+remembering your monk Thief multiclass
+who do 50% more damage than a monoc
+class monk as well as having the
+additional utility of the rogue's
+resource free bonus action movements not
+that monocl class monks are bad by any
+means of course that's still an
+incredible character that does tons and
+tons of damage but without multiclassing
+they do give up a lot of the damage that
+you you expect from most monk builds and
+monks are squishy so the main downsides
+of monks are that they are um
+straightforward to play but still very
+difficult to play because play mistakes
+with monks can be very costly with few
+defensive abilities relatively low AC
+and hit points compared to other
+Marshall characters putting your monk in
+a bad position is much worse than
+putting your fighter in a bad position
+all that said of course monks still do
+dish out tons of stuns do massive damage
+to enemies and overall are an excellent
+class so we're still working from a
+pretty high Baseline when we talk about
+the monk sub classes let's talk about
+the way of the four elements Monk and
+what that actually gives you way of the
+four elements gives you a bunch of uh
+spell effects that you can cast using
+key points most of these spells are
+duplicates of other classes low-level
+spells SPS um that you get at much later
+levels than those classes get the Spells
+and which will have worse DCS than those
+classes versions of the spells because
+they key off your wisdom which is going
+to be typically speaking lower than
+another class's main casting stat would
+be some of the standouts here include
+chromatic sphere and Ice knife uh both
+of which are very good you can get if
+you can get your safety C's high enough
+to be reliable you can use um clinch of
+the north wind which is the equivalent
+of hold person but mostly you're here
+for the four unique spells that the that
+this character gets these are fangs of
+the fire snake fist of unbroken air
+water Whip and shaping of the ice and
+fangs of the fire snake basically gives
+you ranged punches as well as increasing
+your damage Fist of the uh unbroken air
+gives you a range punch that pushes an
+enemy back water whip it pulls them
+towards you and shaping of the ice lets
+you make a little ice block to block a
+doorway climb on top of it or do some
+cool things the ice block is actually
+surprisingly good it's something that
+can really be used to mess up enemy
+movement in combat however what you're
+mostly getting is the ability to spend
+key points on bad versions of another
+class's spell which you would be better
+off just casting from a scroll or uh on
+these unique spells which the best of
+them fangs of the fire snake just gives
+you an extra D gives you the ranged
+punches but just gives you an extra D6
+of damage which is mostly superseded by
+the passive additional damage that um we
+the Open Hand must gets it's not that
+four elements monk has no role it's just
+that they uh don't do a lot that the
+base Monk class doesn't already do and
+the things that they do are very costly
+they burn through key points really
+really fast so even with their
+additional key recovery uh from Harmony
+of Fire and Water they're still going to
+be even more short rest dependent than
+the already very resource Hungry Monk uh
+and you aren't getting much that you
+aren't getting from other Monk subass
+classes that being said the ability to
+punch at range is a unique effect and
+that's kind of cool um and the ability
+to create those ice blocks actually does
+add a little bit of dimensionality to
+your combat uh and of course monks are
+still just really solid regardless but I
+think overall this class does not that
+much um compared to just the base the
+subass does not that much compared to
+just the base class which is very solid
+but puts the subass in B tier uh sorry I
+said D6 extra fire damage ONN fangs of
+the fire snake I meant an additional d10
+on the initial attack and then D4 on the
+rest of your attacks that round which is
+basically worse than a a open hand
+Monk's ability to add just D4 plus their
+wisdom to every single attack now you do
+get it a little earlier which is why I
+think that this class isn't totally
+superseded by open hand monk but for the
+most part the uh Fist of the fire snake
+is more of a cool ability that gives you
+uh make lets you look radical and uh do
+some cool tricks more than it is a huge
+power boost to the monk
+overall way of the Open Hand way of the
+open hand is by far the most common monk
+uh picked and the one that you'll see
+very often in build guides for good
+reason way of the Open Hands focus is
+doing massive damage and combined with
+Monk's already existing focus on doing
+massive damage you can imagine that the
+damage levels you reach are pretty
+staggering way of the open hand gets you
+three main class features one it
+improves your Flurry of Blows which is
+already one of the best abilities in the
+game of course by adding crowd control
+effects to Flurry of Blows at the cost
+of no additional key points and this is
+really important you can either knock an
+enemy prone stagger them or push them in
+a lot of circumstances that's as good as
+stunning them and so lets you double dip
+on your key points by doing an
+additional uh by doing a Flurry of Blows
+which costs you a key but also
+effectively stunning the enemy if you
+can arrange it so that a push or a prone
+is as good as stunning them which again
+it often is if you can then like move
+away from the enemy so they can't get
+back to you and uh get back in range of
+you uh to make their attack on their
+turn this lets you waste enemy turns
+while also outputting the massive damage
+that monk is known for and of course
+you're the best uh of the monks at
+abusing Tavern brawler as a result
+because you're going to be making more
+and more consistent unarmed strikes than
+every than all the other monk subclasses
+not that they don't but the Open Hand
+Monk Is is the best at it and abusing
+Tavern brawler is one of the best things
+to do in this game of course in terms of
+raw power level at level six you also
+get to add an additional 1 D4 plus your
+wisdom of one of three different damage
+types which you can choose on the fly to
+every single attack you make you'll be
+making uh usually four attacks per round
+because you will have a a flurry a bonus
+action Flurry of Blows plus your two
+main hand attacks and so that's going to
+be an enormous amount of additional
+damage especially if you're using Elixir
+and other stat items to allow you to
+boost your wisdom to very high levels
+you can combine that with the boots of
+unlimited kuso to give you uh which I'm
+sure I'm pronouncing incorrectly uh to
+give you even more wi wisdom to damage
+and double dip on your stat meaning that
+you will be able to double dip both on
+strength and wisdom with this character
+with the right item setup using Elixir
+and the boots that is an enormous amount
+of damage even without the additional
+two attacks from thief and the fact that
+one of the three damage types you can do
+is radiant damage is very relevant as
+well because it allows you to apply
+radiating orbs another one of the most
+broken mechanics in balers Gate 3 you
+also at this level get wholeness of body
+which is even better it's a way to
+restore uh key points that's just
+straight up better than the four
+elements way to restore key points
+because it also gives you half your key
+back but then gives you three more over
+the next three turns um and gives you
+bonus hit points and the the fact that
+that ability is just superior to the
+Four Element monks version I is kind of
+insulting to be honest I think they need
+to fix that that uh and then at level 9
+you get the key resonation abilities
+that give you some AOE damage um and
+also just let you add even more damage
+to every attack at the expense of key
+points this gives you um additional
+power to every single attack you're
+you're on average dealing more damage
+per attack than the other monk
+subclasses of course and that just
+increases as you level up because up to
+ninth level in in open hand monk you
+continue to get good class features open
+hand monk does fall off a little bit in
+the very late game because compared to
+other classes other melee damage classes
+like fighter at that point in the game
+an action surging fighter is doing six
+attacks on their burst damage turn to
+your only four because remember this is
+a single class monk so we don't have the
+additional flurry from Thief Rogue that
+means that while you do amazing
+sustained damage and are going to do
+probably as much or more damage than the
+fighter over longer combats because you
+can do those four attacks every turn and
+the fighter will only only be making
+three on subsequent turns of Combat
+Action surge obviously is only once per
+short rest so it's only for high burst
+damage turns your initial burst damage
+is lower than dedicated burst damage
+classes like fighter and Paladin and
+since the game honor mode specifically
+and Dungeons and Dragons in general is
+so heavily tilted towards burst damage
+that means that a pure open-hand monk
+does suffer in some encounters where you
+really need to kill a high Health enemy
+immediately you do also because you have
+very few defensive abilities and your
+positioning is very important um have a
+slightly harder play style in again in
+the very late game than those other
+burst damage classes which are a little
+bit tankier since you don't have you
+have lower AC and lower hit points than
+a fighter or Paladin equivalent class
+your positioning matters much more so
+it's easier to make play mistakes with
+monk overall that being said none of
+that is a huge penalty and the
+incredible sustained damage crowd could
+control effects and overall just massive
+burst damage available to open hand monk
+puts them solidly in s tier you may be
+wondering how it jumps straight from B
+tier to S tier but remember on the
+general class tier list I was focused a
+little bit more on versatility on the
+subclass tier list where you've already
+decided what role this character is
+going to play in your party we're going
+to tilt the scale a little more heavily
+towards power level and so just the
+sheer damage crowd control ability
+sustainability over long adventuring
+days compared to other monk subclasses
+puts open hand monk I think solidly into
+s tier Shadow Monks Shadow monk is one
+of my very favorite subclasses one of my
+favorite tabletop characters because I
+think they're just so cool the ability
+to Shadow Dash between different areas
+of darkness is thematically awesome um
+and I think it's extremely powerful as
+well when it works in Boulders Gate 3
+unfortunately the lighting mechanics are
+such that shadowstep is quite white
+buggy um and in addition in Boulders
+gate there's a lot of other things
+holding back this ability compared to
+tabletop let's quickly go over what the
+class actually gives you and then I'll
+talk about um the strengths and
+weaknesses so Shadow monk gives you the
+ability to hide as a bonus action just
+like a rogue it gives you a few level
+two spells that you can cast at the cost
+of two key points those being pass
+without Trace darkness dark vision and
+Silent both silent and darkness are very
+useful to have on melee characters um if
+you combine the darkness with the
+eversight ring then you can do the whole
+warlock Darkness ability and of course
+you can get extra cast of Darkness if
+you're a Dr or half Dr um so you can
+definitely benefit from
+those very powerful mechanics as well
+and of course you can also just cast
+Darkness on yourself if you need to be
+immune to range attacks for a turn two
+key points is a fairly steep price for
+it but not so steep that it's not
+something that you won't want to do and
+of course silence is just a very
+powerful spell overall although given
+that silence is is a ritual that costs
+your spellcaster buddies nothing to cast
+and costs you two key points to cast
+you're paying a lot more for the silence
+effect than you would be if you cast it
+with a spellcaster you also get the
+ability to become invisible while
+obscured uh as in in dark areas and I
+have found this ability to be kind of a
+trap more often than not because um
+while you can inspect to see what areas
+of an arena are dark or not the game is
+very inconsistent about what it actually
+counts as dark or not and lighting
+conditions will randomly change while
+your character is Midway through moving
+or maybe like your hand will happen to
+tag the edge of a torch and it will
+break your invisibility break your
+stealth and enter combat when you
+weren't expecting to the chance of
+entering combat when you weren't
+expecting to is much worse that I think
+than the advantage you actually get from
+using this invisibility so I think in
+general it's safest not to use it
+although of course if you're very
+confident that uh you can use it safely
+then you can get some edges with it um
+but since monks have basically perfect
+positioning regardless thanks to their
+incredibly long move distance and jump
+distance the invisibility to start a
+fight from where you want to start
+fights from is less powerful than it
+would be on another class then at level
+six you get the the keynote feature of
+the class the the main reason that you
+are in this subass is for shadow step
+this lets you as a bonus action teleport
+from Shadow to Shadow uh up to a range
+of 60 ft so basically a misty step
+provided that
+the um
+the area that you leave and the
+destination are both obscured again the
+same caveats apply but of course the
+game won't let you just walk it you you
+can only actually use this ability if it
+will work so it's not like you're going
+to be bumped out of invisibility the way
+you will with the invisibility thing I
+love Misty step and I'm probably one of
+the world's biggest misy step partisans
+and this is basically free act free use
+Misty step you can use it as much as you
+want it doesn't cost a resource that
+doesn't cost key to use and it gives you
+advantage on your next attack role when
+you arrive however in balers Gate 3 a
+bonus action teleport for a monk is
+significantly less useful than it would
+be in than it is in tabletop because
+items that give you Misty step are
+extremely plentiful and uh every
+character can jump as a bonus action
+monks get bonus jump distance and of
+course if you're playing a monk a Tavern
+brawler monk which is the usual way to
+play a monk then you're going to be
+using an Elixir every day for 20
+strength giving you almost 60 ft of jump
+distance just by default even without
+the Monk's bonus jump distance so the
+shadow step teleport costs your bonus
+action to do something that most of the
+time you can already do and monks really
+need their bonus actions because that's
+how they do most of their damage through
+Flurry of Blows
+attacks that means that you're giving up
+a lot every time you use this the
+advantage on a single strike does not
+make up for giving up two more strikes
+obviously it's it's a like true strike
+but even worse and so this ability is
+only useful if you really need the
+mobility and restricted Mobility is
+worse obviously than unrestricted
+Mobility like Misty step and a lot of
+the time you would have been able to get
+to the same point simply by jumping
+because you're a monk with step of the
+wind and additional bonus jump distance
+and uh additional movement speed so
+Shadow step is unfortunately because
+it's one of my favorite abilities in
+Dungeons and Dragons much less useful in
+Baler skate three than you might
+otherwise think finally at level 11 you
+get Shadow strike which lets you spend
+three key points that's a pretty uh
+significant allocation of resources to
+do that to teleport to a foe um from a
+hidden position they don't need to be in
+darkness for you to to jump to them but
+you need to be hidden uh and then you
+deal your unarmed strike attack or
+weapon attack and 3d8 additional psychic
+damage this isn't bad 3d8 additional
+damage is basically a a paladin Smite
+and it it just costs your action so it's
+not like you're giving up your bonus
+action the way you are for shadow strike
+and the addition of a paladin Smite on
+top of Monk's already good consistent
+damage gives Shadow monk a really nice
+burst to damage option in the very late
+game of course you have to wait till
+level 11 to get this ability so it comes
+online pretty late but it does patch
+monk one of Monk's uh only weaknesses as
+a damaging class which is its low
+relatively low burst damage of course
+3d8 damage um
+you you will probably need to get some
+form of guaranteed critical to make that
+worth a lot and psychic damage is a very
+poor damage type in the late game
+because a lot of enemies are immune to
+it um so it's not going to come up as
+often as you would like it to and
+overall the amount of damage compared to
+open hand monk that you're giving up up
+to get to this point is a lot I think
+that shadow monk unfortunately because a
+lot of its abilities are duplicated
+elsewhere and better you can c cast
+Darkness from a warlock you can cast
+Silence from any spellcaster for free
+um it and its damage just doesn't quite
+keep up to the other monk subclasses is
+just not a significantly different
+effect than just playing a monk with no
+subclass it's super cool and it feels
+really really good to use this character
+I think it is an incredibly strong
+roleplaying option and of course like
+all other monks any multiclass once we
+add multiclassing back into the equation
+it patches a lot of the weaknesses of
+this subass you can find many Shadow
+monk builds that I've done on this
+channel because I really like the class
+but as 12 levels of of Shadow monk it
+just does not give you much it costs you
+damage and sustainability because its
+main damaging ability costs three key
+points and then you'll want to use a
+fourth to do a Flurry of Blows um and it
+doesn't have any way to restore key
+points unlike the other two monk sub
+classes and what you get out of it is
+stuff that's already duplicated by
+Monk's core chassis because the mobility
+is something Monk already excels at as a
+and the bonus action teleport cost you
+one of your most important Action
+Resources in a turn so all that put
+together I think Shadow Monk Is
+unfortunately a b tier class um and that
+is just because of the the circumstances
+of balder's gate and the way that
+lighting is handled and the way that
+every class has the ability to jump as a
+bonus action um when the unique thing
+that this character does is shared
+across every single class obviously it's
+going to be a little bit worse paladins
+Paladin is another class that was
+somewhat held back in the previous tier
+list because I was focusing more on
+versatility than on raw power level
+paladins have some of the highest raw
+power level in the game thanks to the
+incredible burst damage of their smites
+and so you'll probably see them rank a
+little higher on the subclass tier list
+than they did at a tier in the class
+tier list for paladins there are four
+subclasses including one sort of semi
+secet subass um and we will Begin by
+talking about Oath of the Ancients oath
+of the Ancients gives you a few
+different things it's kind of the
+support Paladin it gives you healing
+Radiance which for a channel oath charge
+gives you um your proficiency plus
+Paladin level plus Charisma modifier in
+hit points which is going to be usually
+about like 10 hit points in the mid game
+going up to 20 hit points in the end
+game um to you and all nearby allies and
+then again the following turn this is
+both a lot of hit points for just a
+channel oath charge um and then combined
+with your lay on hands is actually a
+pretty solid way to give you in combat
+healing um especially because it's just
+a bonus action to activate but also the
+fact that it triggers twice means that
+it double applies all the Buffs from uh
+heal on from buff on heal items so if
+you aren't using them on a cleric
+healing Radiance is an excellent way to
+apply those effects this gets you three
+turns of Blade Ward because it will
+re-trigger the effect it gets you twice
+as many uh temporary hit points from the
+vital conduit boots if you've been
+taking additional damage gets you three
+turns of bless and so on that's a a
+pretty significant buff all on top of a
+very powerful healing effect which as a
+bonus action is significantly more
+usable in combat than a life cleric
+healing effect obviously um this is not
+healing in combat is still capped at
+sort of how good it can be because it's
+still not going to keep up with incoming
+damage but the amount of healing that
+you get with this in an AOE from a bonus
+effect is very powerful basically this
+gives you several extra casts of mass
+healing word per day which is an
+extremely useful effect
+you also get a channel oath action to
+restrain an enemy mostly useless because
+the save DC will probably be relatively
+low unless you're drinking a lot of
+potions and maxing out your charisma um
+and uh you'd rather usually just hit an
+enemy than spend an action restraining
+them and an action to make Fay and
+fiends become turned causing them to
+flee which is very useful in fights
+against them if your DCS are high enough
+to do it reliably your unique spell list
+on oath of the Ancients Paladin is also
+quite good including Misty step one of
+the best spells to get on a Melee
+character of course and plant growth
+which doesn't require save DC and so can
+actually be extremely useful especially
+when combined with the aforementioned
+Misty step now of course every spell
+that you cast on a paladin is a Smite
+that you're not smiting and that's a
+real cost so the spell list isn't a huge
+component of the Paladin subclass power
+level but is definitely something
+important and with an a utility spell
+like Misty step is really worth paying
+attention to because while you won't
+always need myy step every combat when
+you want it you really want it and
+having access to it just right from your
+spells spell list is very solid finally
+I've saved the best for last because at
+level seven the unique aura that this
+subass gives you is making you and
+nearby allies giving you resistance to
+damage from spells this is having all
+damage from spells and most damaging
+spells do half damage on a successful
+saving throw so combined with your
+Paladin saves Aura you are probably
+taking one quarter damage on your party
+from all Paladin uh from all damaging
+spells not all spells are damaging so
+this doesn't have an effect on a lot of
+spells that would otherwise be super
+dangerous but against enemies that do
+damage that do spell damage um the O of
+the ancient Paladin basically negates
+the damage by increasing your saves and
+giving you the uh heal giving you the
+resistance Aura combined with the
+healing to heal up any damage you might
+have taken a fireball dropped on the
+head of your party if it does on average
+28 damage at one quarter damage that is
+going to be seven damage that you take
+and then your healing Radiance is going
+to heal up way more than that and so
+suddenly this Paladin's healing is
+outpacing incoming damage something that
+is almost never true with for D andd
+healing this is a very defensive set of
+class features but it goes very well
+with Paladin's incredible offensive set
+of class features because Paladin smites
+are just some of the most damaging
+effects in the game and while it does
+need some Charisma this Paladin can get
+away with not having that much charisma
+because the save DC effects from your
+channel Oaths are not the important
+parts that you get and your spell list
+doesn't require you to have good save
+DCS to make the optimal use of plant
+growth in misy Step anyways overall uh
+oath of the Ancients Paladin is
+therefore less multiattribute dependent
+especially if you build it with
+dexterity as in my build guide the
+safest character in Boulders Gate 3 so
+check that out for an oath of the
+ancient Paladin build and I think is one
+of the easiest characters to slot into a
+party if you have of a Melee character
+because you can mitigate the
+multiattribute dependency by building
+them for dexterity and make your party
+very safe through all of the additional
+uh healing and damage mitigation that
+you get altogether this makes your your
+Paladin fit very well and do all the
+damage that paladins are famous for S to
+your character I think pretty easily
+oath of devotion oath of devotion
+Paladin it distinguishes itself in part
+by being I think the easiest oath to not
+accidentally break this is something I
+should actually have mentioned for
+paladins for Honor mode is that I think
+um Paladin OES because of the somewhat
+inconsistent way balers gate handles
+breaking them where often any crime will
+break your oath I I think it would be a
+rare player who plays all the way
+through honor mode without accidentally
+breaking their oath at least a couple
+times and since the cost to restore your
+oath scales significantly um up to
+10,000 gold the third time you break it
+there is a financial tax to playing a
+paladin now money in this game is mostly
+free but 10,000 gold is enough that it
+is kind of annoying to get your hands on
+that much especially if it happens early
+so Paladin rewards preparation
+memorizing the story events that will
+break your oath which is maybe not to
+everybody's taste and also careful play
+around NPCs so you don't accidentally
+hit them with a spell or something or
+pick up something that you weren't
+supposed to pick up and instantly break
+your oath oath of devotion is one of the
+easier ones not to break because there
+are not that many story events um and
+they're all pretty clearly telegraphed
+because it's all just very very evil
+things that break the oath of devotion
+Paladin's oath so it it mitigates that
+downside somewhat for what it gets
+actually mechanically is um holy rebuke
+which lets you as an action make a
+single character deal 1 D4 radiant
+damage back to melee attackers for two
+turns obviously that's a terrible use of
+an action that will never do enough
+damage to justify casting it and
+spending the channel oath charge on it
+um compare that to just making a weapon
+attack and you need to get hit like five
+or six times in order to do enough
+damage back that it matters maybe with a
+radiant orb stacking build you could do
+something with like a cleric with um
+spiritual Guardians and then holy rebuke
+on it and have them do the radiant orb
+stuff I don't actually know if um the D4
+radiant counts as you doing it or counts
+as the target doing the damage back so
+if somebody knows uh that let me know uh
+you could probably do some sort of
+interesting radiant orb stuff with that
+but other than that this ability is
+useless um radi in orb excuse me you get
+uh turn the undead and fiends which are
+the two best things to turn turning
+Undead and fiends is going to come up a
+lot so if you have have high Charisma
+you can turn enemies pretty easily um
+and your spell list is terrible uh and
+the aura that you get is immunity to
+charm which is mostly useless as well
+the main class feature of oath of
+devotion Paladin is a sacred weapon
+which lets you use your channel oath to
+turn your weapon into a sacred weapon
+making it Glow and also added your
+charisma modifier to attack roles now
+for a monoc class Paladin this is
+probably less in terms of total attack
+bonus uh but this is still probably at
+least a plus two or plus three bonus for
+10 solid turns which is pretty nice
+compare that though to a Vengeance
+Paladin's advantage on attack roles and
+you can see because Vengeance Paladin is
+able to give itself advantage against
+certain enemies I'll talk about that in
+a second and you can see that plus two
+or plus uh three on attack roles is
+probably not significant so you really
+need to be maxing Charisma and using
+strength Elixir or whatever to get the
+most out of this ability if you do that
+it makes your attacks more likely to hit
+but still approximately equivalent to
+Vengeance Paladin's uh attack Buffs
+without Vengeance Paladin's anything
+else good um oath of devotion Paladin
+unfortunately that's the only ability
+they get that's good and it's basically
+superseded by Vengeance Paladin's
+ability uh so I think overall oath of
+devotion Paladin falls in the outclass
+tier still an incredibly good class
+obviously cuz it's a paladin you could
+still just kill things with smites and
+everything and adding your charisma to
+attack roles means your smites hit more
+often so that's still a good feature but
+if you want that feature oath of
+Vengeance Paladin just does it better in
+the current state of the game so it
+falls into the outclass tier where
+another uh another subass fills its same
+role but better if I wanted to fix oath
+of devotion Paladin and kind of give it
+its own unique Niche I think that step
+one would be to fix the bug with oath of
+Vengeance Paladin which we'll talk about
+in a second um and step two would just
+be to improve its spell list the fact
+that it only gets sanctuary as a
+relevant spell and that's a level one
+spell that you're casting with paladin
+spell slots instead of being able to
+cast it from a cleric uh means that it
+is held back significantly compared to
+the Paladin uh subclasses that actually
+get relevant spells and it's AA doesn't
+do anything so I think just it just
+needs slight tweaks to make it an
+accurate focused Paladin maybe add
+spells like magic weapon or something
+like that that could be more interesting
+for this character but as it stands its
+spell list doesn't help it and it um its
+main class ability is superseded by
+another
+class since I just talked about the oath
+of Vengeance and oathbreaker is sort of
+the secret fourth Paladin class I'll
+talk about vengeance paladins next
+Vengeance paladins get really uh two
+main things that distinguish them
+compared to the other Paladin
+one they get by far the best spell list
+even better than ancient spell list they
+also get misy step but in addition to
+misy step they get haste which is
+incredible although you do have to be a
+little bit careful when self- buffing
+with haste um and they get hold person
+making them the best Paladin at using
+Arcane Acuity Stacks or even just having
+high Charisma in addition to um a
+strength Elixir to guarantee Critical
+Hits guaranteed Critical Hits on a hold
+person Target are incredibly powerful
+for Paladin smites of course because
+they do massive damage with the Paladin
+smites and so you can benefit from that
+as well you also get Hunter's Mark which
+while usually less damage than using
+that level one spell for a Smite you
+know a level one spell gets you 2 d8
+damage Hunter Mark is a D6 on every
+attack if you know that a fight is going
+to go long and has one specific enemy
+that you're going to be hitting over and
+over again with your Vengeance Paladin
+Hunter Mark is a pretty solid use of a
+bonus action and a spell slot and will
+add up to more damage than using that
+spell slot for Smite will over the
+course of longer fights so Hunter Mark
+actually is a pretty significant
+addition to your damage as well you also
+um get inquisitor's might which lets you
+add as a bonus action make your attacks
+do additional damage equal to your
+charisma so if again if you are boosting
+your charisma by taking eight strength
+and 20 Charisma and using strength
+Elixir to make sure that you're attacks
+are actually hitting uh then you can
+have very high additional damage on
+every attack plus five damage on every
+attack um for two turns is pretty
+reasonable as a bonus action for a
+channel oath charge it's not going to
+make or break most fights but it's a
+nice additional boost for damage and the
+fact that it's a bonus action means it
+doesn't usually conflict with other
+things that your Paladin is attempting
+to do you also get the same uh abjure
+enemy the ability to use an action to
+inflict a condition on an enemy
+frightened is worse than oath of the
+Ancients restrained and neither of these
+abilities are going to come up that
+often so it's not a huge uh component of
+the Paladin ability and at level seven
+instead of getting a really powerful
+Aura you get a very situational ability
+that increases your movement speed when
+you make an opportunity attack not
+something that matters that much oath of
+Vengeance paladins also have their core
+class feature vow of enmity which lets
+you spend your channel oath to gain
+advantage on attack roles against a
+specific enemy and here is where
+something that's a little odd to judge
+comes into play because in the current
+state of the game this is bugged where
+if you cast it on yourself you just get
+advantage on all attack roles that you
+make for the next 10 turns this is a a
+bug because it's definitely not how the
+ability Works in tabletop and it's not
+how it says it works in the description
+not how it's supposed to work but it's a
+known bug that uh Larry and have known
+about for a long time and haven't fixed
+so it's not clear why they have chosen
+not to fix this and if they've decided
+that it's just how the ability should
+work um and have just chosen not to
+update the description although the
+descriptions in Boulder's Gate are hit
+and miss uh kind of regardless so that
+puts me in kind of an awkward position
+for judging this character gaining 10
+turns of advantage on every single
+attack you make is massive whereas
+gaining 10 turns of advantage against a
+single enemy is still very powerful but
+nowhere near the level of power that
+just free advantage on every attack
+represents for a paladin who also loves
+to try to critically hit an advantage
+gives you increased chances of
+critically hitting because benefit so
+strongly from Critical Hits luckily I
+don't think it makes a huge difference
+to the placement of this character class
+because I still think that oath of
+Vengeance paladins thanks to their
+excellent uh class features are an stier
+class um but overall I think that uh I I
+would like to get some clarity on
+whether that bug is intentional or not
+and if so what um how to judge it uh or
+and if so why
+they decided to make that change I guess
+because that's not how it works in
+tabletop um for now you can continue to
+just self-cast o of the vow of enmity
+and gain advantage on all your attacks
+and you will wipe the floor with a lot
+of enemies I do think that even if this
+bug is fixed and you can only use vow of
+enmity on a single Target rather than to
+gain advantage on everyone oath of
+Vengeance Paladin won't lose actually
+that much in Play Because typically the
+advantage is most important on the
+character that you want to kill quickly
+anyway ways and oath of Vengeance
+Paladin or paladins in general excel at
+dropping a single enemy quickly that's
+what they're there for is to use your
+smites burn through your somewhat
+limited short rest or somewhat limited
+long rest resources to kill priority
+targets quickly oath avengence Paladin
+does that extremely well even without
+the bugged advantage against everybody
+and so we'll still fill the Paladin's
+role excellently and thanks to their
+very good um spell list gains a lot of
+additional abilities that you wouldn't
+have otherwise
+oath breaker oath breaker is the secret
+fourth Paladin class that you get by
+breaking one of the other three Oaths
+and then deciding to become an oath
+breaker that means you're no longer
+paying the Paladin tax because you can't
+re you don't have to pay to regain your
+broken oath if you've decided to become
+an oath breaker so it saves you that
+large chunk of change um that you are
+spending if you accidentally break your
+other Paladin Oaths and want to get them
+back oathbreaker gets a bunch of
+abilities starting with spiteful
+suffering which gives you advantage on
+attack rolles against a specific enemy
+just like vow of enmity and they also
+take a D4 damage plus your charisma
+every turn that sounds better but it's
+significantly worse because instead of
+being an act a bonus action it's an
+action so it takes your full turn to
+activate this and they get a a save
+against it it targets Charisma which is
+kind of interesting so some enemies
+won't be able to save easily against it
+but this effect is so weak for an action
+that it's just never worth casting
+Dreadful aspect lets you frighten um
+nearby enemies and the fact that this is
+an AOE is pretty good so if you have
+decent save DCS on oathbreaker then
+frightening nearby enemies is pretty
+powerful uh and you can control Undead
+basically the same as dominate person a
+a reasonable effect that adds some
+utility if you can get your saf DC high
+enough un certain Undead your spell list
+is pretty weak overall being things that
+either um do less damage than just
+spending that spell on a Smite I.E H
+hellish rebuke or wounds are just worse
+than spending those spells on smites
+usually um and Crown of Madness requires
+enemies to fail saves and is also
+currently bugged and doesn't really work
+that well darkness is the only really
+good one and you need to have the
+eversight ring in order to make the best
+use of it which is an item that's pretty
+in demand if you're doing any sort of
+Darkness stuff so overall not an amazing
+spell list some additional utility but
+not incredible the main draw here is uh
+Aura of hate and animate de
+which you get at level 9 Aura of hate
+gives you additional damage equal to
+your charisma on every single weapon
+attack you make and on every weapon
+attack made by friendly Undead which
+sounds awesome but insultingly doesn't
+work none of the friendly Undead in the
+game have weapons so this ability this
+Aura does not work on any summons so
+basically you're taking this Aura to
+boost just your weapon attacks by your
+charisma in damage that's very useful
+for a multiclass blade packed warlock
+but for a solo oath of devotion or oath
+of um oathbreaker Paladin is just not
+adding that much damage you get the same
+amount of additional damage from the
+Vengeance Paladin's uh active ability
+and while it's passive and so will come
+up pretty often you've had to spend
+seven levels not getting much out of
+your Paladin subass in order to get to
+this point the fact that it doesn't work
+with animate dead means that it is going
+to just not add that much damage on on a
+monoc class Paladin remember again they
+we're judging monoc class abilities here
+and so oathbreaker as a monoc class I
+think again just tries to do the same
+thing as Vengeance but doesn't quite get
+there it's just the the damage based
+Paladin but vengeance is just better at
+doing damage um the spell list is is
+worse and the
+overall abilities are just not as strong
+adding animate dead is a a nice ability
+that is pretty useful but then you're
+spending a level three spell slot which
+is a paladin of an extremely valuable
+resource for a paladin being worth a ton
+of extra Smite damage on um on animate
+dead which you would much rather get
+from an ally if you're going for a
+summon build oath of uh oathbreaker
+Paladin as a result I think just doesn't
+really have a niche it's a damage-based
+paladin that just does does the whole
+thing whole damage thing a little worse
+than oath of Vengeance Paladin and as
+it's niche that it should fill being an
+undead Army it doesn't work in the game
+which uh I find a little bizarre and
+feel like has to have been some kind of
+oversight that this does not work even
+with your own zombies that you summon
+like maybe they could fix it so that the
+oathbreaker zombies have um weapons so
+that it will trigger their Aura of hate
+or allow it to work with the animate
+Dead skeletons which do have weapons but
+it only works on melee weapons so this
+this feels like it's just a design Miss
+from that perspective in that the cool
+thing that this character is supposed to
+do power up all your Undead allies it
+doesn't do um because it its ability
+literally doesn't work with the undead
+allies available in the game as a result
+I'm going to place it in the outclass
+tier and I feel like it would be an easy
+fix to give this a niche as a as a
+paladin that wants to support a horde of
+summons um but unfortunately in the
+current state of the game it doesn't do
+that Rangers I rated Rangers a tier in
+my class list which I think occasioned
+some remark from people because they
+thought that Rangers should be
+considered weaker um I disagree I think
+that Rangers are incredibly strong
+especially in the context of a monoc
+class uh tier list because Rangers are
+one of the classes that benefits the
+most from the Restriction to monoc class
+characters in general Rangers and
+boulders Gate 3 were given level 11
+Capstone abilities and consistent
+ability gain as they level up making
+them one of the classes that benefits
+some of the most from going all 12
+levels in the same class you get
+actually a lot of really cool stuff as
+you level up in Ranger case in point
+beastmas Ranger whose beasts
+continuously gain in power every couple
+levels gaining new abilities all of
+which are unique and interesting and
+more hit points and uh some additional
+stuff there are five different a BEAST's
+summons that you can use the bear the
+boar the dire Raven the wolf and the
+spider at generally speaking at low
+levels I think you're best off with the
+spider and at high levels you're best
+off with the Raven because it's ability
+to Blind enemies and poop out darkness
+is really powerful and the spider's
+ability to web enemies and poison them
+at low levels is extremely strong um but
+in general I think all five of the
+different Beast forms have their uses in
+different fights and you should base
+which one you are going to summon on
+what fight you intend to take at that
+point and kind of your party comp in
+general the main downside of course of
+Beast Master is that the Beast can die
+it's not got great AC or hit points and
+so it is quite vulnerable especially if
+you leave it in vulnerable positions in
+fights which means that Beast Master
+Ranger requires more careful positioning
+than most other classes that being said
+if the Beast does die you're still just
+a sharpshooter Archer which is an
+excellent thing to be you've got you
+know archery fighting style extra attack
+and Sharpshooter so you're still going
+to be putting out totally reasonable
+consistent damage in the fight um but
+obviously not as much as if your Beast
+was alive since the Beast only comes
+back on a short rest coold down the
+penalty for losing the Beast is quite
+significant so it's something that you
+really have to be aware of in play and
+increases the the requirements on your
+play somewhat steeply I wouldn't say as
+steeply as some other classes but still
+something that you just have to be aware
+of when you're playing however what you
+get for it is awesome the amount of
+damage and utility that these beasts put
+out is incredible of course just having
+multiple actions per turn is uh great
+and the Capstone abilities that they get
+have tons of utility the Raven's ability
+to do clouds of dark multiple Clouds Of
+Darkness every turn for free is
+basically unparalleled in terms of
+utility in the late game it just blinds
+enemies makes enemies makes your whole
+party immune to Darkness of course this
+will play best with the ring and helmet
+that make you immune to Blind but um if
+you're building a dark uh Beast Master
+comp you're probably going to want to
+use those and combine them with a
+warlock I would recommend that in
+general anyways
+um and even if you aren't using that
+specific ability then the other beastmas
+companions also have their uses as well
+you also get additional damage every
+turn because the companions use your
+proficiency for damage they add your
+proficiency to damage and they add
+Hunter Mark if you have that up to
+damage meaning in the end game you can
+apply Hunter mark four times per turn
+for 46 of extra damage between your two
+Beast attacks and your two mainhand
+attacks yourself I guess even more if
+you're using two hand
+crossbows overall this is a significant
+amount of damage and utility and uh
+combined with just the fact that Rangers
+by virtue of just being
+Sharpshooter um archery fighting style
+characters already do great in stealth
+archery or just archery in general is
+such a powerful play style in balers
+gate it does not take much I think to
+make them just a really powerful
+character I don't I think that the
+vulnerability of the Beast does mean
+that they aren't going to quite hit the
+ranks of s tier but I think that Beast
+Master Ranger is a solid a tier
+character and in fact I think it's also
+notable as one of the characters that I
+think Nails the game balance very well
+you'll have tense moments but always
+feel like you're doing something cool
+and so I think like alongside
+Battlemaster fighter and wild heart
+Barbarian this is uh what the game
+should strive to be balanced around this
+type of character gloomstalker
+gloomstalker occupies is kind of a funny
+Place culturally in D and D this isn't
+super relevant to the strength of the
+subass but there's something I felt like
+talking about a little bit because
+gloomstalker Ranger plus Assassin Rogue
+was basically the first broken build
+that people discovered in fifth edition
+Dungeons and Dragons this kind of the
+the first standard for really optimized
+build and so gloomstalker Ranger became
+kind of a byword for a Min Maxi or
+munchkin play style wanting to play a
+gloomstalker ranger at a table in early
+fifth edition uh play like if you went
+went to a convention bringing a Gloom
+stalker Ranger people would look as
+scant at you because they'd assume that
+you were there just to purely minmax
+just an interesting facet of the history
+of this character what the character
+gives you is plus three uh you get dread
+ambusher at level three you get plus
+three bonus to initiative additional
+movement speed and on the first turn of
+combat you can make an additional attack
+for free taking no action at all no no
+kind of action at all and that attack
+does an extra d8 of damage you also get
+bonus action hide um just this works the
+same as a rogue's action hide uh
+and you get the ability to turn uh
+yourself invisible outside of combat um
+which lets you basically start combat
+from the perfect location a few time uh
+whenever you have this ability available
+the in outof combat invisibility even
+though it says that you need to be
+obscured to use it that means to
+activate it you don't need to be to stay
+OB unlike the monk version you don't
+need to stay obscured and can move to to
+any location in the arena while
+invisible and start the fight from
+wherever you want to start it in the
+perfect position um you also get
+disguise self which isn't huge but is a
+nice little bonus if you're playing as a
+face character and then at later levels
+you get Misty step which is of course a
+huge benefit to any character in the
+game but especially Marshall characters
+who otherwise struggle to access it
+Proficiency in wisdom and intelligence
+saving throws gaining proficiency and
+wisdom saving throws is huge lots of
+characters will spend an entire on that
+um because uh wisdom saving throws are
+so powerful and it's one of the few ways
+to to actually die with this character
+is to get hit by a wisdom saving throw
+effect and get and lose your turn
+because it's very hard to kill most
+Rangers since they have resistance to
+all Elemental damage and are ranged
+characters who are very far away from
+melee enemies you've got bonus actions
+to hide and and whatever so you and you
+have Missy step so you're very resilient
+in terms of survival ability unless you
+get CCD in some way but with Proficiency
+in wisdom saves plus your good wisdom
+you'll probably not have that happen um
+and then you also get at level 11 as
+your Capstone whenever you miss within
+attack you can take another attack uh
+for free once per turn so basically
+gives you pseudo Advantage for your
+attacks on your turn since you're making
+three attacks in the opening round of
+combat it's not impossible that one will
+miss so this ability will come up pretty
+frequently um it's not a huge bonus to
+your damage but is something that is
+pretty relevant the main thing though is
+the dread ambusher attack an extra
+attack to start combat means that you
+are killing an extra enemy uh much much
+faster than you usually would at level
+three this gives you two attacks to open
+combat with with the bonus d8 of damage
+which is a lot of damage and that will
+kill almost any enemy in in the game at
+that point that uh or almost any any
+non-boss enemy in the game at that point
+and then at level four when you you get
+sharp shooter you get to add basically
+20 damage to your opening round of
+combat or 24 and a half damage to your
+opening round of combat plus whatever
+your bow attack and dexterity does so
+this gives you a lot of additional
+opening damage and burst damage in this
+game is of course heavily uh favored
+over sustained damage so the ability to
+gain an additional attack for probably
+20 25 damage at the start of most
+combats is going to make your combat
+significantly easier because you're
+going to start just with one fewer enemy
+on the field in a lot of fights in in
+the game that combined with uh your
+ability to start to position your
+character exactly where you want it
+thanks to Misty step and the outof
+combat invisibility and the very good
+defensive abilities that this character
+gets so even if it does get targeted you
+have lots of ways to get out because
+you're a ranger I think makes this class
+um just an excellent class overall that
+being said the damage is somewhat capped
+you you only get three attacks they are
+at at max level when you are a monoc
+class gloomstalker um they're very very
+likely to hit and they will do very good
+damage because you have Sharpshooter and
+everything and you have the ability to
+reroll Misses but you won't reach the
+level of burst damage that other damage
+Focus classes will you do that damage
+more safely than for example a paladin
+or a monk who has to get up close in
+personal to do the damage but um you
+aren't going to be one-shotting enemies
+the way a leveled up fighter or Paladin
+will do and so that does cap your
+efficiency but for builds that are
+focused around longer fights or taking
+out one enemy and then having the fights
+go a little bit longer overall I think
+gloomstalker is just an excellent
+character class and it has the advantage
+of being incredibly safe to play because
+you you have sort of inbuilt free
+perfect positioning you can bonus action
+hide uh after taking your shot shots to
+make sure the enemies never Target you
+and if they do Target you you have all
+of the Rangers resiliencies and whatever
+Plus the ability to shrug off most
+wisdom targeting effects I think that's
+just another solid a tier character and
+again I think it's very close in Balance
+to to beastmas I think they did a great
+job balancing the the those two Ranger
+sub classes hunter hunter gets uh choice
+of three abilities at level three choice
+of three abilities at level seven and
+then an incredibly powerful ability at
+level 11 which I'll talk about in a
+moment this is a fairly backloaded class
+meaning almost all of its power budget
+comes at the end of the class which is
+definitely going to count against it
+because most of the game is played
+before level 11 at level three you get
+your choice between Colossus Slayer
+Giant Killer and horde breaker and giant
+killer is for melee Rangers who
+definitely suffer compared to other
+melee characters so I'm mostly going to
+discount it other than saying that if
+you want to play a melee Ranger it's
+probably the right pick and it's pretty
+reasonable hord breaker allows you to
+make multiple attacks if enemies are
+very close together and they have to be
+extremely close together within 5T of
+one another um but extra attacks as we
+talked about with gloomstalker are
+really good and so even situational ex
+extra attacks are very powerful and
+Colossus Slayer lets you do an extra de8
+of damage once per turn to an enemy
+that's below full health people love
+this ability by the way and when I say
+that Colossus Slayer is pretty weak I
+get a lot of flack over it um but I just
+don't see it an extra d8 of damage once
+per turn
+is 4 and a half extra damage per turn a
+gloomstalker extra attack made at the
+beginning of combat is probably 25
+additional damage so you need combat to
+have gone for five turns before Colossus
+Slayer equals the damage of a single
+extra attack that you'd get from
+gloomstalker or from just taking hord
+breaker on Hunter Ranger and having that
+trigger come up um I I just don't think
+that Colossus Slayer will ever add up to
+enough damage even if you're getting
+regular critical hits with it which is
+still not guaranteed
+you still need combats to go very long
+before this um this ability actually
+adds up to more damage than making an
+extra attack with a gloomstalker would
+or extra attacks from hord breaker if
+you can manage to trigger those which is
+possible if you're building a hunter
+Ranger you're probably going for Black
+Hole um which is the way to like pull
+enemies close together for volley and so
+you can trigger hord breaker with that
+as well I recommend taking hord breaker
+on this character as a result and I also
+just wanted to take a moment to talk
+about why I think coloss the Slayer is
+just weak cuz the numbers just don't add
+up to as much damage as any of the other
+abilities it also suffers from Overkill
+if you drop two enemies to five Health a
+gloomstalker Ranger with its two attacks
+would kill both of those enemies the
+Colossus Slayer Hunter doesn't so um
+that's just another count against it at
+level seven you get three basically
+useless abilities um Escape The Horde
+giving opportunity attacks against you
+disadvantage is probably the best cuz if
+enemies get in into melee you can leave
+and then shoot um advantage on saves
+against being frightened is pretty
+useless because you should find
+frightened immunity uh either through
+casting Cal emotions or through Heroes
+Feast um and multi-attack defense makes
+enemies suffer uh penalties if they're
+attacking you more than once this can be
+useful especially if you're like a Solo
+character um or something weird like
+that but uh in general it will come up
+occasionally against some of the more
+powerful bosses in the game who have
+like many attacks in a round and some
+archers won't be able to hit you a
+second time but the minus four penalty
+to attack rolles won't even guarantee
+that they miss their subsequent attacks
+uh it's it'll be harder but it's not
+certainly not guaranteed so I think
+Escape The Horde is the best of these
+three but which of them you pick won't
+really matter that much but what we're
+here for is the level 11 Capstone
+ability volley volley lets you attack um
+every single character in an AOE a big
+AOE as an attack action so you can do it
+multiple times per round because it just
+takes your normal attack this is
+obviously super powerful because it
+doubles or triples the number of attacks
+you're making around and when you're
+when you take your two attacks per round
+up to six attacks per round suddenly the
+amount of damage that you're doing
+catches back up with the other uh Ranger
+subclasses very very rapidly Hunter is
+entirely back looed as a result because
+this is one of the strongest abilities
+in the entire game but you have to drag
+your Hunter through many levels of just
+being relatively weak as a result so
+what I'm going to say is that Hunter
+post level 11 is an S tier character and
+so if you Respec into Hunter at level 11
+you're going to be very happy with your
+Hunter but if you try to play your
+hunter from Level 1 to 12 which I'm
+going to assume for the purpose of this
+tier list you're going to just be behind
+on damage compared to the other Ranger
+sub classes and compared to other
+characters in general you won't have the
+burst damage that most damage dealing
+characters need or offer any form of
+utility and you don't get uh good
+defensive abilities either so uh Hunter
+as considered levels 1 through 12 all
+the way through is a b tier character
+but if you Respec into Hunter at level
+11 um and just go with a monoc class
+Hunter starting at level 11 then it
+would be an S tier character so just uh
+a split there because the class is so
+heavily backloaded in terms of its power
+but Bud Rogues so Rogue is of course the
+class that suffers the most from the
+Restriction to monoc classing and in my
+class tier list i r it C tier as a
+result because Rogue typically gets very
+little past level three since almost all
+of the power budget of Rogue is in its
+sub classes and most of them don't get
+any bonuses or two of them don't get any
+real bonuses past third level however
+there are some interesting things going
+on with full class Rogues that are uh
+still pretty interesting to contemplate
+and so let's talk about those and what
+the strengths of these sub classes
+actually are we'll start with Arcane
+trickster which has the most different
+play style from uh normal Base Class
+Rogue but also the most different play
+Styles within the same run of just about
+any other character because your ability
+that you get at level 9 kind of changes
+the character the the character of the
+character a lot um what Arcane trickster
+gets is the ability to add a few wizard
+spells to your spell list most of these
+have to be enchantment or illusion
+spells which are typically saving throw
+targeting spells and therefore not
+terribly useful to a rogue who won't
+have great save DCS but you also get
+access to the whole wizard spell list so
+you get to be a rogue with Shield or a
+rogue with Misty step um all of which
+are things that are really nice to have
+on a rogue even bad Spell access as we
+saw with eldrich Knight um can add a lot
+of Dimensions to a marshall character
+and so the ability to have a few
+different utility spells on your Rogue
+can really help fill some of the gaps
+that this class otherwise has you get a
+bunch of canant trips most of which are
+damage canant trips but you're going to
+want to take utility canant trips
+because if you're if you want to do
+damage well you're a rogue just hit
+something um and you get enchantment and
+illusion spells at level one uh
+including charm person sleep tashas
+color spray and disguise self having
+disguise self in charm person on an
+arcane trickster Rogue means that you're
+actually a pretty solid uh party face
+because you can get friends charm person
+disguise self um and because you're a
+rogue you have these skill expertises
+and great skill selection so you can
+actually be a a totally solid party face
+as an Arcane trickster Rogue having
+access to some of the effects that make
+something like a Bard a top to your
+party face now you won't have as high
+Charisma a Bard warlock sorcerer Etc but
+you can do pretty good a pretty good
+impression of them thanks to the skill
+expertises that you have and you get to
+have a lot of the other skills as well
+um since you cast off of intelligence
+you're incentivized to have relatively
+high intelligence and the intelligent
+skills are mostly used in dialogue so an
+Arcane trickster does add the ability to
+have a rogue as your party face meaning
+that you don't necessarily need a
+Charisma character to fill that role if
+you have
+one um you also get at level nine
+magical Ambush which gives you the
+ability to while hiding give enemies
+disadvantage on your spells this sounds
+like it won't come up that often but
+actually is a pretty cool ability even
+if you only have 14 or 16 intelligence
+and therefore not very high saf DC's
+those saves made at disadvantage will
+still be harder to pass than saves of
+other characters um that of a dedicated
+spellcaster uh disadvantage is roughly
+equal to like -4 -4 and a half against
+most enemies so although since the the
+base numbers are lower it's probably
+closer to- 3 and a half or-4 but if you
+have 16 intelligence and then give
+enemies Aus 3 and a half on that save
+that's a harder save to make than a a
+wizard making that casting that same
+spell with 20 intelligence so giving
+enemies disadvantage is very powerful
+for landing spells most notably hold
+person probably because that's an
+enchantment spell that you can use you
+can use it with the band of the Mystic
+scoundrel if you want um but you'll
+probably have to bonus action hide and
+then cast old person and it must be said
+that in a world where Arcane Acuity
+exists the ability to reliably uh cause
+an enemy to fail a save against hold
+person is much less valuable than it
+would be if that uh mechanic did not
+exist in Boulders Gate 3 but if you're
+like me and don't like using Arcane
+Acuity then Arcane trickster is one of
+the actually most reliable ways to make
+use of harm of hold person which is one
+of the most powerful effects in the game
+that being said you pay for it because
+you don't get any any damage steroids on
+this character at all compared to to
+base Rogue uh just the basic rogue
+damage and basic rogue damage is well
+behind other damage dealing classes so
+while you get a little bit of utility on
+this class and a little bit of
+additional uh cool stuff um and it's
+very very hard for you to die on this
+character thanks to rogue's uh pretty
+excellent defensive abilities evasion
+and uncanny Dodge combined with Shield
+um and combined with the possibility of
+getting shield and Misty step bonus
+action hides and dashes and stuff um you
+won't be adding a lot of damage to your
+party but because Arcane tricksters can
+be a party face and also uh give you and
+and fill some other utility slots in
+your party that you need from spells
+while also being basically unkillable I
+don't think I'm going to rate them C
+tier because while they don't do much
+damage the fact that they can always get
+out of combat does give you some
+additional options in the uh in your
+playthrough and so as a monoc class
+character I actually think Arcane
+trickster might even be the best of the
+Rogues um and comes in at B tier
+assassins so assassins basically only
+get any abilities at level three their
+level 9 ability is so weak as to be
+honestly pretty insulting it's disguise
+self a level one ritual spell available
+as a level 9 class feature I mean I'd
+Rather Have Nothing honestly don't slap
+me in the face like that um but at level
+three you get uh a very very powerful
+class feature which is that you when
+entering combat if you have used your
+action bonus action or bonus action to
+initiate combat you restore those
+actions at the beginning of the the
+combat round when the combat actually
+starts and any enemies who are surprised
+you gain automatic Critical Hits against
+automatic Critical Hits are very
+powerful when you are a rogue of course
+because they let you double your sneak
+attack damage but since you can only
+apply sneak attack once per turn and the
+pre combat uh turn where you fire your
+initial combat your initial attack
+doesn't count as a separate turn for
+that so you only get one sneak attack in
+your initial two attacks um means that
+you are only doubling your just normal
+Rogue damage which is somewhat
+lackluster as a monoc class Rogue you
+also get uh advantage on attack roles
+against enemies who haven't taken a turn
+yet which is pretty nice that's that's
+just a nice solid bonus uh that will
+allow you to trigger sneak attack more
+regularly and land your attacks more
+often and since it's so painful to miss
+with Rogues the ability to gain
+Advantage um is both good for sneak
+attacks but also good for stopping you
+from missing your attacks and being sad
+because you only get one attack per turn
+assassins basically get two attacks in
+the opening round of combat and are uh
+if you use them to start combat which
+you always will um and are excellent
+damage dealers for like the first three
+levels as for the for the first uh four
+or two six levels as a result of that
+but when other characters start getting
+extra attacks and other class features
+that increase their damage Assassin
+Rogue damage really starts to fall
+behind this is a class that just does
+not get anything past level three and so
+you're spending the entire game
+basically getting weaker relative to
+every other class and that's just not a
+spot that you want to be in your power
+Spike coming at level three is nice cuz
+that's one of the harder points in the
+game but for the rest of the game you're
+going to spend uh the whole game just
+feeling worse and worse compared to your
+other damage dealers and um it also
+restricts your strategy because you
+always have to initiate combat by
+attacking with your assassin to gain any
+use out of the Assassin's alacrity
+ability and sometimes you would rather
+initiate combat doing something else
+compare a critical hit from an initial
+attack from an assassin to initial
+damage from say initiating combat from
+hiding with a wall of fire um and you'll
+see that you are actually giving up a
+lot of damage to make use of the
+Assassin's class feature absent the
+additional damage that you would get
+from another uh
+character and so you are actually
+actively hampering your party's damage
+in order to make use of this feature
+which is the only thing that assassins
+actually get as a result I'm going to
+place them in C tier because they
+restrict your party strategy and don't
+give you that much for it the initial
+damage is very good especially in the
+early game but later on it's going to
+stop killing stuff and then you will
+just be um doing lower damage when you
+start combats in order to enable a
+character who still isn't bringing that
+much to the table thief thief gains an
+additional bonus action at level three
+and then another insulting ability at
+level 9 you get the ability to become
+invisible on a short rest something that
+other characters get access to starting
+at like level three or five um and
+that's just in general very weak for an
+invisible for a stealth Focus character
+who won't usually need invisibility to
+get where you're going anyways on the
+other hand an extra bonus action at
+level three is an incredibly powerful
+ability and that's why Thief is the core
+component of a lot of multiclass builds
+but as a monoc class build only getting
+an ability at level three um really does
+make Thief uh suffer compared to other
+characters and the ability that you get
+while it does increase your damage
+through offhand weapon attacks it
+doesn't increase your damage relative to
+other characters who or to other Marsh
+characters because you don't get extra
+attack you can make two offhand hand
+crossbow attacks in a turn with Thief
+but without extra attack that's still
+only three attacks per round a ranger
+for example could still make three hand
+crossbow attacks two main hand and one
+offand um and so would be doing more
+damage because two of them would be
+mainhand attacks which are typically
+better uh while not and Thief doesn't
+give you anything that those characters
+don't
+get on the other hand the utility from
+the extra bonus action is really good
+bonus actions can let you jump and on a
+rogue they can let you hide Dash and
+disengage all of which are really
+powerful and makes thieves very very
+difficult to kill they are excellent at
+positioning in combat because they have
+basically three move actions every turn
+if you want them um and so you can
+basically always position safely you can
+almost always hide and because unlike
+other Rogues you get multiple attacks
+per round with if you're using two
+weapon fighting of some kind uh or you
+get three attacks per round you will
+basically always land your sneak attack
+because you have multiple attacks so
+you're much less prone to variant than
+other Rogue characters who if they miss
+their one attack per round are not
+getting sneak attack and therefore are
+are not doing the main thing that their
+character does all that said Thief
+damage is still Thief is still just a
+damage focused class that just does not
+do that much damage the offhand weapon
+attacks are not going to be significant
+damage and if you give up uh an off if
+you use one of your unique Rogue
+abilities to gain the positioning that
+this character is good at then you're
+giving up damage and if you get to the
+point where you're positioned perfectly
+and make your attacks but don't actually
+kill anything then that's definitely not
+going to uh pull its weight in terms of
+a damage focused character class Rogue
+of course always gives you skill access
+at everything and uh thief thief Rogue
+is no better at that than any other
+Rogue unfortunately Arcane trickster is
+probably the one that has the most uses
+for the skill access cuz they get spells
+which can enhance their skill access
+Thief Rogues skill access is good but
+nothing spectacular compared to other
+Rogues so the only thing that they get
+the bonus action is just overtaken by
+other uh Marshall characters because
+they just simply do more damage Rogues
+not gaining extra attack means that
+their damage is always going to lag
+behind now that being said applying
+three Sharpshooter attacks in a turn is
+still a lot of damage so you can still
+be fine with an Archer Rogue with hand
+crossbows but hand crossbows also limit
+you to worse weapons than using the
+mainhand bows because the available hand
+crossbows in the game are not that
+strong honestly uh and so real Marshall
+characters get the option to use more
+powerful bows as
+well what Thief doesn't do is pull your
+party in a bad Direction strategically
+like Assassin does in order to get the
+most out of Assassin's abilities you
+have to initiate combat with them in
+order to get the most out of thief's
+abilities well they just have to be
+using bonus actions which they're going
+to be doing every single turn so it's
+not the same like uh
+counter productive pull that assassin
+has but still just having a damage
+character in your party that doesn't
+pull its weight in terms of damage I do
+think is a negative um in honor mode and
+as a monoc class character Thief really
+suffers as a result and your party is
+going to somewhat be held back by having
+a damage character that doesn't do
+damage in it so Thief I still think is a
+CER character even without this kind of
+negative strategic implications of
+assassin uh assassin at least gets way
+more damage as a result of of pulling in
+that direction Thief doesn't even get
+that much damage and so um while it
+doesn't pull you as far in the wrong
+direction as assassin it also doesn't do
+very much in the right direction and so
+I think it's a CER character all right
+my friends I have once again spent more
+than hour talking about these subclasses
+but I think it was worth going over
+especially monks and paladins which have
+really interesting subass uh
+interactions in quite significant detail
+and so we're going to be breaking this
+into video into a third part and
+returning shortly with Sorcerers Wizards
+and warlocks I expect to have a lot uh
+to say about those subclasses as well CU
+especially Wizards really change how you
+play the character depending on what
+subass you take so really looking
+forward to getting into those but for
+now we're going to make the cut in this
+video as always of course if you've
+enjoyed the video please feel free to
+leave a comment uh like the video both
+of those things help me out a ton with
+the algorithm and I really do appreciate
+it and you can of course subscribe to my
+channel for more guides like this and
+other strategy game content and if
+you've really enjoyed the video and want
+to support me further you can uh feel
+free to leave some money uh behind by
+hitting the buttons underneath the video
+cheers my friends I'll catch you next
+time

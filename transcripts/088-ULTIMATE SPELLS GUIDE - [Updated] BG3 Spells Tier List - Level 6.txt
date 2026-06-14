@@ -1,0 +1,1737 @@
+Hello my friends and welcome back to
+another Balders's Gate 3 tier list and
+guide. Hope you're all doing well. Today
+we're continuing my updated ultimate
+guide to spells with the level six
+spells, the most powerful spells in the
+game. A level six spell slot is the most
+important resource that any character
+has in Balders's Gate 3. It's capable of
+single-handedly winning entire
+encounters or making every encounter for
+an entire day vastly easier. as the peak
+of your spellcaster's power level. You
+want these spells to be earthshaking in
+their impact. And fortunately, they are.
+At this point, you know the drill. We've
+already talked about the rating system
+and definitions of the tiers in part
+one, so we're just going to get right
+into it. But before I do, I do want to
+take a quick moment to say thank you so
+much to Tarantula for the $10 donation,
+Hi for the $5, Joe Rundle for the $25,
+and John Bryant and Alexander Spragel
+for becoming channel members. Thank you
+so much, my friends. I really appreciate
+your support. All right, let's talk the
+most powerful spells in the game. We're
+going to start with Arcane Gate, which
+is one of the weirder and more
+interesting spells in the game. It's a
+teleport spell. It takes an action to
+cast and requires your concentration
+lasting for up to 10 turns. And it
+basically lets you link two points where
+uh people can move freely in between
+those two points without having to spend
+movement or pass in through the
+intervening area. Those points each have
+to be within 60 ft of the caster when
+you cast it. So you can get a maximum
+distance between two gates of 120 ft if
+you cast them on exactly opposite sides
+of your spellcaster. So a lot of
+characters will have more mobility than
+this by the time you get access to this
+spell naturally. So a lot of the time
+you won't actually gain extra distance
+on the character who's casting it. But
+for the rest of your party or in
+particular for NPC allies, Arcane Gate
+can give them a lot of free movement.
+The AI in the game will pass through the
+arcane gate. Uh it's actually kind of
+cool. They will always take it into
+account and they'll walk through it. Um
+so you can use this to move NPCs around
+pretty easily. And so you can use this
+in encounters where you have to have a
+lot of characters traverse a large
+distance and in particular a lot of
+non-player characters traverse a large
+distance in order to allow them to do
+that. Obviously the cost is staggeringly
+high. a sixth level spell slot is an
+incredible price to pay for just a
+mobility effect. Um, so you need to be
+in an encounter where you require a ton
+of mobility between two specific points
+in order for Arcane Gate to be good.
+Especially if for whatever reason you
+need to move back and forth between
+those points, then Arcane Gate can give
+you some outs. The main downside of this
+spell is just it's so expensive. It's
+short range. It takes your
+concentration. It's a little fiddly to
+use. And all you get is the ability to
+move between two points, which your
+player characters will have uh better
+sources of that already because by the
+time you've gotten to this point, you
+really should have gotten everybody
+enough mobility that they don't need
+this effect. But there's a couple
+encounters in the game where you need to
+move NPCs, and Arcane Gate can be good
+for that. Usually, dimension door is
+going to do the same job, but Arcane
+Gate does work for those encounters as
+well. And there's also a couple other
+niche interactions that this spell has
+um where you can do some kind of weird
+and tricky things with it. One of those
+is enemies can use this spell as well
+and they'll follow you through the
+portal. So you can use this to lure
+enemies through the portal into say a
+locked room or behind bars and then stop
+concentrating on the arcane gate. uh you
+can like move through it, the enemy
+follows you through, you move back
+through it and then stop concentrating
+to leave them trapped in a room. You can
+use that combined with damaging effects
+on the ground in order to kill a lot of
+enemies, even very dangerous enemies
+quite safely. There's also glitches
+where you can force move enemies through
+it, though those are obviously uh
+exploits, but you can do that in order
+to get some instant kills on some pretty
+powerful bosses. Another thing about
+Arcane Gate that's a weird and funny
+interaction is that you can move through
+it an infinite number of times in a
+turn. It's just a free action. So, you
+can keep moving back and forth. There
+are some damaging effects that do damage
+to you every time you enter them. Um, no
+ma in no matter how many times you do
+that per turn. So, you can use Arcane
+Gate to instantly reduce a character's
+health to zero. This can actually be
+useful with Death Ward, which restores
+your action when your health is reduced
+to zero. So, you can use the combination
+of Arcane Gate and Death Ward and a
+damaging effect in order to get infinite
+actions. Obviously, another exploit, but
+pretty funny that that works. Uh,
+there's also some other neat stuff you
+can do with this. You can hop through as
+a free action. Free action, drop a bunch
+of explosive barrels next to an enemy,
+hop back, and then set those barrels
+off. So, that can be a way that you can
+use barrelmancy extremely safely. All of
+these are extremely niche interactions,
+but they are kind of cool. Anytime you
+have a mobility option, there's always
+some fun stuff you can do with it, but
+obviously Arcane Gate is the most
+expensive possible way to get this
+mobility option. At the end of the day,
+there's one encounter in which I would
+say Arcane Gate is actively pretty good,
+and maybe one other in which it's still
+not bad, but dimension door is better.
+Technically, I'm going to give it C tier
+because it does have uh one or two uses,
+but for the most part, if you forgot
+that this spell existed, there are
+plenty of other ways to solve those
+encounters. So, it's a very low C tier.
+Blade barrier. Blade barrier is a cleric
+damage spell. It's a wall spell like
+wall of fire. So, you draw it in a line,
+which of course comes with the glitchy
+targeting that all wall spells have, or
+you may not be able to get this on as
+many enemies as you would think you
+would, cuz pretty much any intervening
+terrain blocks it. Enemies inside of the
+wall take 6d10 slashing damage with a
+dexterity save for half. So, that's an
+average of 33 damage on 6d10. Um, and
+like a lot of other damage on the ground
+effect, it does its damage both when
+enemies initially enter the wall and at
+the beginning of their turn. So before
+they act, they will take 66 damage uh on
+average um which can kill some enemies.
+However, this spell has some problems.
+Firstly, it's a level six damage spell,
+and 33 damage a turn is not terrible,
+but for a level six spell, you really
+want a spell that will just instantly
+win an encounter. and it's not enough
+damage to do that. And secondly, it has
+a dexterity save for half. Enemies will
+typically have very good dexterity
+saves. And what's worse, Blade Barrier's
+save DC is completely bugged. It will
+always have a fixed DC of 15, no matter
+your spellcaster's save DC. And on
+subsequent turns, it will have a fixed
+to DC of three. You heard that right,
+three. So enemies will succeed on the
+saving throw against Blade Barrier and
+take half damage pretty much 100% of the
+time. That obviously vastly reduces the
+impact of this spell um thanks to that
+bug. Even if the damage wasn't bugged,
+it still just wouldn't be that
+impressive cuz it's a wall spell, so
+it's hard to get on enemies. And uh that
+much damage for a cleric level six spell
+slot, which are extremely valuable
+resources, is just not that exciting.
+But Blade Barrier is unfortunately
+bugged and doesn't do nearly as much
+damage as it should because enemies
+always succeed on the save. It's also
+slashing damage, which you can't easily
+give them vulnerability on or anything
+like that. So, Blade Barrier, thanks to
+the bugs and already just not being a
+great spell even if it worked properly,
+Dtier. Chain Lightning. Chain Lightning
+is a direct damage spell that does 10 d8
+of lightning damage to the initial
+target with a dexterity save for half.
+So that's 45 average damage and then
+arcs to up to three other creatures
+within 60 ft of the initial target. That
+means it'll almost always hit four
+enemies if there's four enemies in the
+encounter. And if you hit four wet
+enemies with chain lightning, that 45
+average damage gets doubled to 90. So
+you'll usually get 360 damage on average
+from a cast of chain lightning. That's a
+lot of damage and you can end a lot of
+encounters that way. So the use pattern
+for chain lightning is very simple. You
+get them wet, then you blast them, and
+that finishes the encounter. The jokes
+write themselves. So, the upside of
+chain lightning is that it is a huge
+amount of damage for the spell slot.
+It's a great damage to spell slot ratio.
+Uh, and you can often just end
+encounters with it outright. The
+downside is it's just direct damage. So,
+if you don't kill a huge chunk of the
+encounter, then you haven't accomplished
+anything with your sixth level spell
+slot. Um, the enemies will still just
+get to take their turns. So, you need to
+make sure that chain lightning is doing
+enough damage to let you easily kill off
+uh kill off a big chunk of the encounter
+in order to reduce the threats. What
+that means is similar to cone of cold,
+this spell is best used in multiples,
+which you can do either by having more
+than one character capable of casting it
+or using Maraheshar in order to cast
+this spell or using abilities that let
+you refresh your level six spell slots.
+And with multiple casts of chain
+lightning, you're basically guaranteed
+to instantly end an encounter. Of
+course, the goal for a level six spell
+is that you shouldn't need to cast it
+more than once to win one encounter. If
+you are trying to just win an encounter
+outright with a sixle spell, you don't
+really want to have to spend more than
+one. So, while chain lightning is an
+amazing tool for ending fights, it does
+require a little bit more in the form of
+resource burn than some other sixle
+spells. For that reason, I'm going to
+give it a tier because this is an
+incredible damaging spell and especially
+when layered with other AoE burst damage
+spells can just end encounters
+immediately. But unlike some of the
+other spells on this list, it won't
+singlehandedly solve the most difficult
+encounters in the game. Though, it does
+still give you a lot of progress towards
+winning them. So, don't get me wrong,
+this is still a great spell. But a lot
+of the the thing that you'll see people
+say about this is, "Well, I cast four of
+them in one fight and win that fight."
+And any sixle spell cast four times over
+will win that fight. So what we're
+looking for for S tier spells is one
+where we only have to cast it once. It's
+also of course worth mentioning that the
+way that you're going to cast the spell
+most frequently in most parties is by
+using the ability to cast it from
+Maraheshir once per short rest where
+it's both more powerful because that
+version thanks to a bug can be twin
+spelled by a sorcerer and also cheaper
+because it just cost you a short rest
+cool down. So, when you use this from an
+item, pin lightning is obviously insane.
+Um, but even if you're spending your
+sixth level spell slot on it, it's still
+very good in a lot of fights. Next up,
+Circle of Death. Circle of Death is an
+AoE damage spell. It does 8 d6 necrotic
+damage, which is exactly the same damage
+as fireball, a third level spell, um,
+with a constitution save for half. The
+difference between Circle of Death and
+Fireball is that Fireball has a 13 ft
+radius and Circle of Death has a 30ft
+radius. So, this is a massive area of
+effect on this spell and you can often
+hit a lot of creatures with it. It also
+has to be targeted specifically at a
+character. So, it always has to be
+centered on a target. Um, you can't
+place it in between multiple targets.
+So, it can sometimes be harder to place
+it exactly where you want it. But the
+giant AoE means this will hit a lot of
+creatures regardless. However, 8d6 uh
+damage for a sixth level spell slot is
+just terrible. Uh the amount of damage
+that this spell does is just not worth
+wasting your sixle spells on. Um so
+unfortunately, Circle of Death, the math
+on it simply doesn't work out. It's a
+con save, so enemies will be much more
+likely to make the saving throw as well.
+Honestly, even if you're getting circle
+of death for free from the staff of
+cherished necromancy, it's like not
+often worth using your action on
+compared to other free casts of upcasted
+necromancy spells. Circle of death is
+kind of a funny spell to exist in
+Boulders Gate 3 because in tabletop Dn
+D, this spell isn't really one that
+players are meant to cast. This spell
+exists to allow um like an evil villain
+to show how powerful they are by
+obliterating an entire army with a
+single spell cast or slaughtering an
+innocent village to show how evil they
+are. So this spell really exists more
+for narrative reasons than mechanical
+ones. And that's basically reflected in
+how it translates to the video game,
+which is it doesn't. Um you shouldn't
+cast this spell. Dtier just doesn't do
+enough damage. Create undead. Create
+undead is a summon spell and it lets you
+create a heinous mummy. The mummy is a
+reasonably powerful summon. I would say
+it's significantly weaker than all of
+the other summons available with a sixth
+level spell slot, but summons are still
+just very powerful. And the create
+undead mummy can still tank damage, do
+damage, block areas, give you extra
+actions, and all of the things that
+summons are just very powerful for
+doing. It has 93 hit points and 18 armor
+class. So, it will be fairly hard to
+keep this alive, especially because as
+an undead, you can't heal it. And it
+does decent melee damage and quite good
+melee damage against frightened enemies.
+It also comes with the ability to uh try
+to frighten an enemy at range, though
+that has a DC11 wisdom save, so it's
+extremely unreliable. Mostly, you're
+using this just as a melee brawler.
+Overall, having more summons on the
+field is always powerful, but this is
+notably weaker than other summons
+available at this level, and it's
+unlikely to last you for more than one
+or maybe two encounters if you take real
+care trying to keep it alive because it
+can't be healed easily and uh takes a
+lot of damage because it has low armor
+class and just doesn't have that many
+hit points. So, this will give you a
+pretty strong advantage in one or maybe
+two encounters, but doesn't quite fit
+the criteria of six level spells of
+giving you a big advantage in many
+encounters or winning one outright. Uh,
+for that reason, I'm going to give
+create undead B tier because while the
+summon is is still pretty useful, it
+does uh die easily and just isn't as
+powerful as other available summons. It
+is worth noting that this is one of the
+warlocks mystic arcanum options which
+lets them cast a sixth level spell once
+per day. And for warlocks, this is
+probably the best use of their mystic
+arcum. I personally always take ibite
+because I think ibite is really fun, but
+a summon is very powerful. So create
+undead is always going to be a good
+choice for them. This spell is also
+available to cast from a ring, the crypt
+lord's ring. And there it's very good
+cuz it doesn't cost you something
+extremely valuable like a sixle spell
+slot cuz it's just on a cool down. So
+when cast from an item or by a warlock,
+create undead is a little bit more
+powerful. Um, but for characters that
+have to spend a six level spell slot on
+it and have alternative things to spend
+it on, it usually is going to be a
+reasonable way to spend your spell, but
+there may be better options. B tier for
+create undead. Next up, disintegrate.
+This is one of the most iconic spells in
+Dungeons and Dragons. And to be honest,
+I'm a little disappointed with how it
+came out in fifth edition and in
+Boulders Gate 3 in particular. It's a
+direct damage spell that uh does 10 d6
+plus 40 force damage, which is 75 damage
+on average, but with a dexterity save to
+completely negate the damage, and it
+only has 30 foot range. So, you target
+one creature within 30 ft. If they make
+the deck save, nothing happens. If they
+fail the deck save, they take uh 75
+force damage on average. If this spell
+works, 75 damage for a sixth level spell
+slot is okay. It's not great. Compare it
+to using chain lightning on a wet enemy.
+You get more damage on just a single
+target and it also hits three other
+targets, but it's force damage, so
+enemies will have a hard time resisting
+it. Um, so disintegrate does have some
+usage against enemies that are resistant
+to uh a lot of other forms of damage.
+Force damage most enemies have no
+resistance to. The upside of this spell
+is that it's pretty good direct damage
+to an enemy. And if you need something
+dead, this is a way that you can do it.
+And the downside is that it has a chance
+of doing literal nothing, which
+obviously is not what you want with your
+sixth level spell slot. And even if it
+works, the amount of damage that you get
+from it is probably lower than you would
+get from um just casting another sixle
+damage spell because it only targets one
+enemy, and the damage simply isn't that
+high compared to the damage of other
+spells. There is one use for this spell,
+which is uh against enemies with really
+low dexterity saves. Scrolls of
+disintegrate are pretty efficient in
+terms of doing damage, but I just
+usually would not uh want to spend my
+sixth level spell slot on this. Even
+against an enemy with a low dexterity
+save, you're much better off using a
+spell like chain lightning or wall of
+ice to do damage. So, disintegrate. Uh
+sadly, the damage output, the uh extreme
+range restriction, and the fact that it
+can simply miss entirely just make this
+spell not really worth casting using a
+spell slot. Dtier, sadly, for
+disintegrate. I bite. I bite is one of
+my favorite spells in the game. So, I'm
+going to admit to a little bit of bias
+when rating this spell. I just think
+it's really, really fun to use. But, of
+course, the question is, how good is I
+bite? I bite is a 10 turn long um
+recastable spell. So, similar to Call
+Lightning in that you cast it and then
+can recast it each turn for 10 turns.
+And it comes in three modes. Each of
+these modes lets you target an enemy and
+apply a debuff to them. The modes are
+panicked, sickened, or asleep. In the
+panicked form of ibite, enemies have to
+make a wisdom save or for 10 turns they
+are fearful. Now, fearful is a little
+bit confusing in Boulders's Gate because
+fearful is a different condition from
+frightened, afraid, or terrified, which
+are all or panicked. All of which are
+distinct conditions with their own
+mechanical effect. Fearful is the
+condition from the level three spell
+fear, which makes enemies run away and
+be unable to take actions. And they
+can't break out of it unless they get
+completely out of sight of whatever made
+them afraid and then also pass another
+wisdom save. So, it's probably the
+second most dangerous crowd control
+effect in the game after paralyzed cuz
+it completely stops enemies from doing
+anything and they can't easily break out
+of it. So any enemy who's not immune to
+this effect and can fail a wisdom save,
+you're going to be able to just remove
+from a combat. Because these debuffs
+last for 10 turns when you cast them on
+an enemy, they'll last for the entirety
+of even the longest combat in Boulders's
+Gate 3. A lot of other crowd control
+effects have uh had their durations
+reduced to three, but I bite still lasts
+for the full 10 turns. The other two
+variants are a little less impactful
+than panicked. Um, I bite sickened
+targets the enemy constitution and gives
+them disadvantage on their attack roles
+and skill checks. Disadvantage on attack
+rolls is okay, but for a sixle spell is
+certainly not going to be uh that
+exciting. And then asleep puts them to
+sleep. Uh there's no hit point maximum
+on this effect, so you can put enemies
+to sleep, but usually fearful is going
+to be a better wisdom save targeting
+debuff. Though, if you need them to stay
+in one place for whatever reason, asleep
+is pretty good. The other thing about
+these debuffs is that they can all stack
+on the same enemy. So, you can apply
+them all to the same person or you can
+spread them out across multiple enemies
+over turns of combat when you're
+recasting I bite. Like other spells that
+give you an action to recast it, you can
+use it multiple times per turn if you're
+hasted or have other sources of extra
+action. So, the most powerful way to use
+ibite is in combination with a potion of
+speed or a haste spell to hit two
+enemies every turn or even more if you
+have more sources of extra actions with
+ibite, which can very quickly lock down
+an entire encounter uh for the entirety
+of that encounter. So, this spell can
+disable enemies who even are spread out
+very far from one another because it's
+60t range from the caster. So, you don't
+have to catch everybody in an AoE or
+anything. um and can give you a
+tremendous amount of lockdown uh as long
+as you can keep maintain concentration
+and recast this spell. And that lockdown
+is almost irresistible and lasts for 10
+turns. So it's incredibly potent when
+you actually land ibite on enemies. The
+question of course is is it worth it to
+spend a sixth level spell slot on
+something that takes multiple turns to
+activate? And I think it often is uh
+with IBite because if you have a haste
+effect, you'll be able to take two
+enemies out of the fight right away and
+then if the fight goes for another turn,
+you can take two more enemies out of the
+fight. So in some fights, I bite will
+just end them pretty quickly. Especially
+if enemies are moving towards you kind
+of staggered, and as each enemy gets to
+you, you can just I bite them and take
+them out of the fight and send them
+ping-ponging back in the other
+direction. Is it better enough than
+other uh sixle spells to make it worth
+casting in a lot of fights? Definitely
+not. There's a lot of fights where you
+would prefer to just blow up the whole
+encounter right away um or where enemies
+are immune to the effect. But the
+debuffs that you get from Ibite are
+really powerful. So, it can be really
+good, especially for a warlock who has
+uh this is a mystic arcum spell, so it's
+not competing with other really powerful
+spells. I bite can be really fun. I'm
+going to give it B tier because it it's
+very powerful but fairly situational and
+of course it's competing with a lot of
+other really powerful options. But I
+highly recommend casting I bite just cuz
+it's so much fun to play around with
+this spell. Flesh to stone. Flesh to
+stone is an extremely flavorful spell
+that's a single target disable that
+turns an enemy into a rock. It takes
+multiple turns to do this. So you cast
+it on one enemy within 60 ft and they
+get to make a constitution save. um
+against the initial effect of the spell.
+If they fail the save, they become
+restrained, meaning attacks against them
+have advantage, their attacks have
+disadvantage, and they can't move. So,
+the same as if you hit them with the
+level one spell, entangle. Um and then
+each subsequent turn, they have to make
+another constitution save. If they fail
+that save, then the condition progresses
+through three stages. And if they fail
+four con saves in a row, they get turned
+to stone, which effectively kills them
+instantly. If they succeed on any one of
+these saves, then they break out of the
+effect and flesh a stone effect ends.
+Now, obviously, in terms of the
+mechanical effect of this spell, it's
+more or less completely useless. You're
+spending a sixth level spell slot to
+inflict a debuff that you can inflict in
+an AoE with a first level spell. And
+then if they fail three more saves in a
+row, then it does something, but it
+still just kills one enemy, which you
+can often do uh in a single round with a
+spell like disintegrate, which is also
+low rated, or chain lightning, um which
+does more damage to other enemies. Uh
+there is one upside, which is that as
+long as enemies keep failing the saving
+throws, it doesn't count as a hostile
+action, so you don't enter combat. But
+if they ever succeed on a save or if
+they fail all four saves and get turned
+to stone, then it does start a fight. If
+you want the out of combat not starting
+a fight effect, contagion or bestow
+curse is way better. Um, flesh to stone
+unfortunately simply doesn't do enough
+to justify casting it. It is very funny
+to turn your enemies to stone, but
+outside of humor value, you shouldn't
+cast this spell. Dtier. Globe of
+Invulnerability. Globe of
+Invulnerability creates a 10-ft radius
+circle on the ground in which all
+creatures are immune to all damage.
+Being completely immune to damage might
+sound broken to you. You can't die if
+you can't take damage. And you're right,
+it is broken. You can't die if you can't
+take damage. Most fights in Balders's
+Gate 3 are damage races. The enemies are
+simply trying to do enough damage to
+kill you before you do enough damage to
+kill them. and Globe of Invulnerability
+outright wins every single one of those
+encounters. Any encounter where it's uh
+just a a race between damaging
+characters, Globe of Invulnerability is
+your best tool. And that includes uh
+most of the most difficult boss fights
+in the game and lots of um other less
+dangerous fights as well, and this spell
+will simply outright solve them. It's
+also incredible in fights where the
+arena is a threat, where you take damage
+from the ground or from effects that are
+going on in the world around you because
+globe of invulnerability lets you
+completely ignore those. The vast
+majority of threats in this game are
+damage and globe of invulnerability
+makes you invulnerable to those. It also
+is extremely synergistic with itself.
+Uh, it's a concentration spell, but the
+way that you're usually going to lose
+concentration on a spell is by taking
+damage, which globe of invulnerability
+makes impossible. There are some ways
+that enemies can break it. They can
+still land crowd control effects on you.
+And so, your characters can still get
+hit by stuff like hold person while
+you're hiding in the globe of
+invulnerability. You need to be careful
+with that. And if your caster gets
+knocked prone, they will lose
+concentration on this spell immediately,
+which can cause a burst of damage to
+show up. Enemies can also walk inside
+the globe and become immune to damage.
+Though usually you can just put them
+push them right back out. And in the
+worst case scenario, you just cancel
+concentration on the spell and then you
+get a full turn of damaging them while
+they had to waste their turn not hurting
+you. Uh it's very hard to put into words
+just how powerful this spell is. There's
+most encounters in the game. Globe of
+Invulnerability simply wins outright.
+three turns where you get to do whatever
+you want and the enemies can't do
+anything is more than enough to win
+every fight in the game. And that's what
+this spell does. This is probably the
+single most important resource in the
+game to have for most boss fights. A
+cast of globe of invulnerability is a uh
+thing that you should try to get in
+every honor mode party. It's just that
+powerful. You can use scrolls of this if
+you don't have a sorcerer or wizard to
+cast it. Um, and collecting these
+scrolls is very important to keeping
+your party members alive. Um, if you
+want a more challenging version of the
+game, not casting this spell is one of
+the best ways to increase the challenge
+level of Balders's Gate 3. It's just
+that powerful. S tier for Globe of
+Invulnerability.
+Harm. Harm is a single target direct
+damage spell, 60 ft range, and it does
+14 d6 necrotic damage with a
+constitution save for half. 14d6 is 49
+average damage. So very low for a sixle
+spell and only to one target. Um and it
+has a constitution save the save to
+target to take half damage. If the enemy
+fails the save, it also actually reduces
+their max health instead of doing
+damage. So it will actually reduce enemy
+maximum health, but because it doesn't
+technically do damage to them, you don't
+get any of the damage modifiers that you
+would have uh potentially if it was a
+damaging spell. If they succeed on the
+save, then you do get those damage
+modifiers. So, it works a little bit
+weirdly already. This is not good. It's
+an unreliable, very low damage, direct
+damage spell, which obviously is not
+what you want, but the spell gets
+significantly worse. It cannot reduce an
+enemy below one hit point. Um, that's
+right. This is a damage spell that
+cannot kill an enemy. Uh, damage spell
+that can't kill an enemy. I mean, come
+on. Do I really need to say any more
+than that? Just an embarrassment of a
+spell. Dt tier. Heal. Heal is a healing
+spell that heals an ally for 70 hit
+points. This is of course the most
+powerful and sort of ultimate healing
+spell in Balders's Gate 3. But healing,
+especially high numerical healing in
+Balders's Gate, is typically a fairly
+weak strategy because it's reactive
+rather than proactive. It's better to
+kill or disable the enemy before they do
+that damage than it is to heal it back
+up after it's already been dealt. That
+being said, 70 healing is a lot of
+healing. This also removes blindness,
+which might come up in some scenarios,
+and diseases, which usually won't come
+up. Uh, but 70 healing is enough to get
+most characters back to full health
+after most incoming damage. Obviously,
+if you're a really high health
+character, like a barbarian, um then the
+70 healing might not quite top you up,
+but for most characters after a turn of
+enemy attacks, heal is going to be a
+full heal. It costs your sixth level
+spell slot, though, and that's such a
+tremendous cost for something that's
+just purely reactive and um lower impact
+than just removing enemies from the
+fight. This is a cleric or druid spell,
+so it's competing with lots of ways to
+prevent this damage from happening in
+the first place.
+The fact that it does full heal your
+party member means it's probably not 0%
+that if you had this spell prepared, it
+would be right to cast it. But I think
+it basically is 0% that it's right to
+prepare this spell compared to doing
+anything else that will prevent this
+damage from happening in the first
+place. So even on a dedicated healing
+character, I don't recommend spending
+your sixth level spell slot on this
+prevention. uh you know an ounce of
+prevention is worth a pound of cure and
+nowhere is that more true than in
+Boulders's Gate and heal is kind of the
+epitome of that apherism. Uh you also of
+course have to bear in mind that this is
+just competing with drinking highle
+healing potions which by the time you
+get this spell you should be absolutely
+swimming in. You should have enough to
+open your own pharmacy. So heal is
+usually just not going to be
+particularly relevant and you should
+rarely have this spell prepared. D tier
+for heal. Next up, Heroes Feast. Heroes
+Feast is a dayong non-conentration buff
+uh that buffs your entire party,
+including any summons or familiars or
+anything that you might have. So, you
+can get often many, many creatures in
+the radius of this spell, and it will
+buff all of them. And it gives your
+party members the thoroughly stuffed
+condition, which I'm sure is a name we
+can all be very mature about in the
+comments below. While your party is
+thoroughly stuffed, they have plus 12 to
+their maximum hit points. Uh, and that
+works the same as the extra max HP from
+aid in that it's real max HP that you
+can heal back. It's not temp HP that is
+unhealable. And it stacks with the extra
+max HP from aid. So, with a highle aid
+and a cast of heroes feast, your party
+can easily have in excess of 30 extra
+health on every party member and every
+summon. In addition to the extra max HP,
+they are immune to diseases, poisons,
+and uh the frightened condition. And in
+addition to the frightened condition, it
+also makes you immune to a bunch of
+other kinds of fear effects. There's
+lots of different things that uh use
+some form of fear, and heroes feast
+makes you immune to most of them. And
+you also make all of your wisdom saves
+with advantage. This is a really
+powerful stack of buffs. The extra HP is
+obviously great and we talked about why
+that is with aid and Heroes Feast lets
+you stack on top of that. And this
+laundry list of immunities solves a lot
+of problems for characters in the late
+game. Immunity to frightened uh is more
+or less necessary for a bunch of late
+game encounters where enemies have
+passive ways or active ways to uh
+inflict you with devastating fear
+effects that can just lose you the
+encounter immediately. And making all
+your wisdom saves with advantage makes
+you much less likely to succumb to
+dangerous crowd control, which is often
+one of the only things that you're
+worried about in the endame. When your
+characters have really good physical
+defenses, including damage resistances
+and often very high armor class, getting
+hit by a wisdom save debuff is one of
+the only things you're worried about in
+the endame, and Hero's Feast makes that
+vastly less likely. Immunity to disease
+and poison covers a surprising number of
+conditions that enemies inflict. So with
+Heroes Feast, you'll be immune to those
+a lot of the time. And although it
+doesn't make you immune to poison
+damage, a lot of the effects that
+actually do poison damage do so by
+poisoning you, which Hero's Feast makes
+you immune to. So toxins and cloud kill
+and stuff like that inflict a poison
+type condition that damages you, uh,
+which Hero's Feast does make you immune
+to. So, a lot of the sources of poison
+damage in the game you'll get to ignore
+with Heroes Feast. And in fact, you can
+stand in your own cloud kills and force
+enemies to fight in them while where
+they're taking lots of damage and you're
+completely immune. All of these buffs
+together just make Heroes Feast a
+basically essential endgame spell. It
+just removes so much risk from your
+playthrough. And of course, if you're
+using any summons, then it multiplies
+its value immensely. But even without
+that, Heroes Feast buffing your party
+just lets you ignore so many effects
+that can otherwise be run killers just
+by virtue of having cast this spell.
+Doesn't take any actions in combat or
+anything. You just get the benefits as
+soon as you've cast it. Now, because
+it's a dayong non-conentration buff,
+Hero's Feast is a spell that can be cast
+by a camp cer. So, a lot of the time the
+advice you'll see is to use your camp
+cer's level six spell slot on heroes
+feast and then remove them from your
+active party and go adventuring with the
+other party members. Um, but even if
+you're using your active party members
+to cast this, this is just an amazing
+use of a sixth level spell slot. For a
+cleric or druid, heroes feast is usually
+going to be your first priority with
+your sixth level spells because it's
+just that good. Even if you're spending
+spells from your active party to cast
+this, it's incredible. There is also one
+other thing that this uh spell does,
+which is it summons some camp supplies
+when you cast it, and it always summons
+uh more than 40 camp supplies. It's
+slightly random, as well as a bottle of
+water. So, technically, if you have two
+characters casting Heroes Feast, you can
+long rest infinitely because it'll
+refresh those spell slots and even
+generate infinite gold because you'll
+also get the bottle of water every time
+you do this. So, you'll be eating all
+these camp supplies, refreshing the
+spell slots, and generating infinite
+bottles of water. If you have infinite
+time in real life, you can make infinite
+money. At that point, I highly suggest
+just cheating in the gold instead of uh
+spending that much time clicking. But
+technically, the existence of Heroes
+Feast gives you infinite gold as well.
+Without that, even without that dumb
+little exploit, um this spell is uh just
+ridiculous. It gives you so many
+immunities to so many dangerous things.
+S tier for Heroes Feast. Otuk's freezing
+sphere. So, this is a spell that is kind
+of weird. It has two modes, one of which
+is pretty straightforward and one of
+which has a lot of subtlety to it.
+Firstly, this can just be a straightup
+AoE damage spell. If cast in the launch
+mode, it has 60 ft range, 20ft radius,
+and does 10d6 cold damage with a
+constitution saving throw for half. 10d6
+cold damage is an average of 35. And
+because it's cold damage can be doubled
+with the wet condition. But in general,
+this is going to be a less efficient
+damage spell than chain lightning,
+unless you're hitting a lot of enemies
+in the 20 foot radius. Um cuz it just
+does less damage overall than chain
+lightning does. It also leaves behind an
+ice surface which is extremely powerful.
+So there may be some cases where you
+want freezing sphere over chain
+lightning, but if you were just going to
+use this as a straight up damage spell,
+the fact that it targets con and that it
+does less damage than chain lightning is
+going to usually make it the less
+attractive option. The second way that
+you can use this spell is in the
+conveniently portable freezing sphere
+mode where you essentially create this
+spell as a grenade that you can keep in
+your inventory and then throw uh anytime
+for the next 10 turns. If you don't use
+it for 10 turns, it will explode in your
+inventory and do a ton of damage to you.
+So, you do want to throw this sphere
+away um after casting it. This lets you
+pre-cast it before combat. Though, you
+still have to use an attack to throw it.
+But because you are actually using the
+throw action instead of the cast action,
+if you give this to a character that has
+multiple attacks, cuz you can pass the
+the grenade off between your character's
+inventories, then they can just use one
+attack on casting freezing sphere, which
+is a pretty powerful sixle spell to get
+for only part of an action, and then
+still use the rest of their action to
+just make more weapon attacks or
+whatever. Now, if you do that, it will
+use the spell save DC of the character
+that throws it, not of the character
+that cast it. So, you need a character
+that has high spell save DCs and
+multiple attacks in order to make the
+best use of this spell to make it action
+efficient. Um, but if you pass it off to
+an ally who has both of those things,
+let's say they're a sword bard or a
+hexblade warlock, or as of patch 8, a
+bladinger wizard who can use freezing
+sphere as a throne weapon cuz they have
+multiple attacks and then still make
+other weapon attacks, which blades
+wizards want to do, then this is
+actually a pretty efficient option. A
+spell that only takes part of your
+action is a lot more attractive than one
+that takes your full action. So, even
+though it's slightly less efficient in
+terms of damage output to spell slot and
+everything, it's still a pretty good
+amount of damage, uh, 10d6 cold if you
+double it with the wet condition. And
+because it's a throne object, you can
+throw a water bottle with your first
+attack and follow up with a freezing
+sphere with your second attack as a very
+efficient use of your turn. Um, this
+will do decent damage, provide a big ice
+surface, which is very powerful in
+Balders's Gate. So, if you have a
+character with the requirements to pass
+off a freezing sphere to them, or if
+you're playing a bladinger wizard, then
+this can be a pretty cool option.
+Another thing that you can do with this
+uh item is to reverse pickpocket it into
+an enemy inventory. The freezing sphere
+explodes after 10 turns. So, if you can
+put it in an enemy inventory um without
+them noticing, then the it will just
+after 10 turns blow up and do a bunch of
+cold damage to them and anyone that
+they're standing near, which can help be
+the best way to initiate a fight or you
+can even kill enemies and get away um
+completely without reprisal because you
+can be up to 10 turns of movement away
+when this happens. So, it has some
+really neat and intricate uses. Mostly
+freezing sphere is going to be used to
+pre-cast it before combat, pass it off
+to a hybrid character that has multiple
+attacks and high spell save DCs, and
+then have that character throw it. Um,
+but there's also a couple other cool
+things that you can do. And even if you
+just straight up cast this spell as a
+nuke, it's not terrible. Uh, and ice
+surface is always going to make a spell
+somewhat attractive. So, I'm going to
+give freezing sphere B tier. It just has
+a lot of interesting things that you can
+do with it and a sixth level spell that
+only takes part of your action for a
+character is always going to be pretty
+powerful.
+Otto's irresistible dance. This is a
+single target control spell with 30oot
+range and enemies targeted by it have to
+dance. They get no saving throw and uh
+they are forced to dance taking no
+actions and being unable to move on
+their turn. At the end of each of their
+turns, they get a wisdom save to try to
+break out of the effect. So, they're
+always going to lose at least one turn
+with no save when targeted by
+irresistible dance. And then in
+subsequent turns, if they fail the
+saving throws, they may continue to lose
+additional actions. Actually,
+technically, the save is made at the
+beginning of their turn and then even if
+they succeed, they still skip their
+turn. Um, same as hold person and hold
+monster for some reason. I don't know
+why they coded it that way, but it's the
+same effect as if they made the save at
+the end of their turn. No save crowd
+control is obviously incredibly
+powerful. A lot of boss fights, there's
+just one tough enemy that you want to
+get out of the way. And being able to
+remove them without a saving throw is
+awesome, especially because of the way
+that Balders's Gate implemented
+legendary resistance where enemies just
+get a plus 10 bonus to a saving throw.
+Auto's irresistible dance totally
+bypasses legendary resistance. So they
+can uh they just get no chance to
+succeed against this. Like some other
+forms of crowd control, autos is also
+not uh enemies who are immune to a lot
+of other forms of disable are not immune
+to autosistable dance. So even against
+some enemies who are immune to a lot of
+other forms of crowd control, you can
+still hit them with this spell and they
+don't get to save against it. Obviously,
+this is for specific fights and boss
+fights in particular where there's one
+really tough enemy that you want to take
+out of the fight, but if that is a fight
+that you are in, and that's describes a
+lot of fights in Balders's Gate 3, autos
+is the best tool for just making sure
+that that enemy doesn't take their next
+turn and probably continues to not take
+turns for the rest of the combat.
+There's also some pretty nice synergies
+with this spell. It's an enchantment
+spell, so you can bonus action cast it
+with the band of the mystic scoundrel.
+And enchantment wizards can cast it on
+two targets when they get their double
+casting capstone, which is incredibly
+powerful. If you can double up on autos
+Irresistible Dance, then it's uh really
+quite busted. So, there's definitely
+some synergies with this spell, but just
+by default in any boss fight, casting
+autos in order to force them to skip at
+least one and possibly more turns is
+going to be great. No safe crowd control
+is always excellent. You won't use this
+in fights where there isn't just like
+one main enemy that you need to get rid
+of. So, I'm going to give it a tier
+because it doesn't go in every fight,
+but in the fights where this spell is
+good, it's incredible.
+Planer Ally. Planer Ally is a cleric
+summon spell. And like the other level
+six summon spells, this one gives you an
+extremely capable additional fighter for
+your party that can last all day and
+make your entire party significantly
+stronger for multiple encounters. as
+long as you keep it alive by tanking,
+dealing damage, and distracting enemies.
+The planer ally has three forms, so you
+can summon three different creatures
+with it depending on what you want. The
+first option is the Jinny, which gives
+you a 161 hit point, 19 armor class
+character with solid melee damage and a
+bunch of crowd control spells, as well
+as at will misty step. So, this makes a
+pretty good crowdcontrolling tank. You
+can put it anywhere on the battlefield
+that you want because it can bonus
+action teleport. Got 160 hit points, so
+it will survive uh most rounds of combat
+from enemies and 19 armor classes. Not
+great, but not too embarrassing at this
+level. So sometimes enemies will miss
+attacking it. And then it has a bunch of
+crowd control abilities to be disruptive
+and okay melee damage to fall back on.
+The DVA is the second option, and this
+gives you a 136 hit point, so slightly
+fewer hit points, but 21 AC. So about as
+tanky as the genie, a little better
+against physical damage, a little worse
+against spells. Um that doesn't have
+much utility to speak of, but is flying
+and does excellent melee damage. So you
+can use this if you want a damage
+dealing tank, and it will be pretty
+good. 21 AC, even this late in the game,
+is totally respectable. enemies will
+still miss 21 AC enough, and it's still
+uh low enough that you can easily get
+your party to have higher AC to cause
+enemies to concentrate attacks on your
+summon, which of course is what you're
+going to want. Finally, you can summon
+the Camben, which has 82 hit points and
+14 armor class, so it will get hit by
+pretty much anything that attacks. Um,
+and does very weak melee damage, but has
+a not bad ranged attack, but with very
+low chance to hit. So the upshot is that
+when you're using planer ally, if you
+want a crowdcontrol tank, you should
+summon the genie. If you want a damage
+tank, you should summon the DVA. And if
+you want to regret your life choices,
+you should summon the Cambian. Planer
+Ally is very powerful. 160 hit points is
+as many hit points as a party member
+will have at this point. So you get just
+a whole extra party members worth of HP,
+which you can then buff further with aid
+and Heroes Feast. These creatures can be
+healed because they're not undead. So,
+you can use them uh for all day pretty
+easily and they do decent damage in the
+case of the DVA or decent crowd control
+in the case of the genie and will absorb
+a lot of attacks. They're very mobile in
+battle, so you have a lot of control
+over what you're doing with them. Just
+an extremely powerful tool. Overall, I
+would say they're quite a bit worse than
+the Merdons from Condra Elemental, which
+is the secret uh six level summon spell.
+Um, but clerics don't get Condra
+Elemental. So, you're not really
+comparing them directly to the Condra
+Elemental Mermadons. You're comparing
+them to casts of things like Heroes
+Feast or Blade Barrier. And in that
+case, the planer ally makes an amazing
+option. If my general rule is you should
+prioritize having heroes Feast up on
+your party with your first sixth level
+spell slot, whether that be from a
+cleric or druid or camp caster. But
+after you have Heroes Feast, Planer Ally
+is by far the next best thing to cast
+this on. Way better than any other sixth
+level options available to clerics. So,
+I'm going to give it a tier because I do
+think you should prioritize Heroes Feast
+over it. Um, but the planer ally is
+still an amazing ally and a great summon
+that will empower your party
+significantly. So, if you have a spell
+slot to spend on this, you should summon
+a genie or a da and you will certainly
+not regret doing so. Next up, Sunbeam.
+Sunbeam is a repeatable damage spell
+similar to Call Lightning, uh, which
+does 6d8 radiant damage for an average
+of 27 damage in a 60 ft line, uh, that's
+8 ft wide. So, you can often hit three
+or four enemies if you position yourself
+appropriately and get pretty decent
+damage out of this spell. It has a
+constitution save for half and if
+enemies fail the con save, they're also
+blinded for one turn. You can recast it
+each turn for 10 turns as long as you
+concentrate on it. And just like all of
+the other spells that you can recast
+every turn if you're hasted, you can
+recast it multiple times per turn, which
+can let you get actually very good
+turnover turn AoE damage out of Sunbeam.
+Sunbeam is kind of funny. You might
+expect it to be a cleric spell, but it's
+a druid sorcerer wizard spell. And
+because it's radiant damage, um if it
+was a cleric spell, it would actually
+have more synergy cuz often the
+radiating orb item set is going to be on
+your cleric. And applying AoE radiant
+damage with that item set is super
+powerful. But if you have a character
+that's using Sunbeam, then you can just
+have them wear the radiating orbs. And
+so radiant damage can still be very
+relevant to other characters.
+I This spell is pretty inefficient if
+you're just using it for straight up
+damage. 27 AOE damage obviously can be a
+little more, can be a little less, and
+often will be a lot less because it's a
+con save, so enemies will make the save
+pretty reliably, is not that exciting.
+But if you're playing a hasted character
+or you're using radiating orbs, then
+Sunbeam can be significantly better um
+because you can double up on the damage
+and you can use it to apply a bunch of
+debuffs. You'll notice that I haven't
+really mentioned the blind that this
+applies and the there's a reason for
+that. Blind is a pretty solid debuff,
+but the blind applied by Sunbeam only
+lasts for one turn. And in Boulders's
+Gate 3, because the timing rules in this
+game are extremely inconsistent and
+frankly not super well implemented,
+blinds lose duration at the beginning of
+the enemy turn. So, a one- turn blind
+will never actually blind an enemy
+because when uh their turn starts, the
+duration of the blind goes away and they
+lose the blind effect. So sunbeam
+unfortunately doesn't apply blind uh in
+practice except on your turn. So you can
+use it to get advantage on attacks with
+subsequent attacks from your allies, but
+you can't use it to actually blind your
+enemies in terms of applying crowd
+control. This spell has a lot of
+caveats. You really just need to be
+hasted. You need to be using radiating
+orbs and then you can get really good
+value out of it. Um, and most of the
+time the best way to use this is of
+course with the blood of lethander or
+with scrolls rather than actually
+casting your sixth level spell slot
+because it's competing as a sorcerer or
+wizard spell with some incredibly
+powerful spells. Conjure elemental,
+globe of invulnerability, chain
+lightning, wall of ice, etc. are all
+going to usually be better casts than
+Sunbeam. And as a druid spell,
+similarly, there's really good
+alternatives to this. So, uh, Sunbeam is
+often going to be the weakest option in
+terms of a damage spell, but if you
+build around it and set up your party to
+use it, it can be pretty good. I'm going
+to give it B tier because it it's uh
+very playable once you have structured
+your party to make use of it. Um, but if
+you haven't, you probably won't want to
+use Sunbeam. Next up, Wall of Ice. Wall
+of ice is a spell that's changed a lot
+of times throughout the lifetime of
+Boulders's Gate 3, and it receives some
+pretty significant buffs. So, uh, this
+is a spell you may not have previously
+paid attention to, but it's very much
+worth taking a look at this spell. Wall
+of ice creates a wall in the same
+casting mode as wall of fire, where you
+draw a line between two points. Each end
+point has to be within 60 ft of the
+caster. So, the maximum distance that
+you can get with Wall of Ice is 120 ft.
+Um, though obviously usually you're
+going to get less than that and it will
+often be interrupted by terrain along
+the way. So depending on the arena, you
+may not get uh the full length casting
+of Wall of Ice. When you cast it on an
+enemy or near an enemy because it has a
+fairly large width as well as a long
+length, enemies nearby it take 10 d6
+cold damage with a dexterity saving
+throw for half. And it also creates an
+ice surface next to the length of the
+wall where enemies of course have to
+make a deck save or fall prone. In
+addition to that, it summons a wall
+that's basically the same as a wall of
+stone with a bunch of pillars with 30 HP
+each, um, making up the length of the
+wall. But unlike wall of stone, when
+each of these pillars breaks, they leave
+behind a cloud of cold damage, uh, a
+cold damage cloud, which does 10 d6
+additional cold damage to everything
+caught inside of it with a constitution
+saved for half. This is very powerful
+because there are two ways that this
+spell can uh that the damage can show up
+from the second half of this spell
+because there's two ways that these
+pillars can be broken. Either you or
+enemies can deal damage to them or you
+can simply drop concentration on the
+spell. 10d6 cold damage plus a dexterity
+save or become prone on the initial cast
+on a pretty big AoE spell is already not
+completely embarrassing for a sixth
+level spell just like freezing sphere.
+That's a reasonable use of your action.
+Not the most exciting, but pretty good.
+But if you cast Wall of Ice and then
+cancel it immediately, canceling
+concentration. Enemies take the initial
+10d6 cold damage deck save for half.
+Then they're caught in the cloud because
+you just canled the wall of ice pillars
+on top of them. So they're inside the
+cloud of ice and they take another 10d6
+cold damage. And then at the start of
+their turn, they're still inside of this
+cloud. So, they take a third 10d6 cold
+damage. Each of these instances of
+damage, of course, is cold damage, so
+can be doubled with the wet condition.
+Um, which means that enemies take a
+truly absurd amount of damage before
+their next turn comes around. It's a
+gigantic AoE nuke in the cast and cancel
+mode. And of course, you can also use it
+the way the spell is more intended to be
+used, where it's uh a big nuke that
+knocks enemies prone and then also
+provides a wall. But the ability to cast
+and then immediately cancel this makes
+this in theory the highest damaging
+spell in the game. That in theory is
+kind of important though because uh
+there are two things that hold this back
+from just being an absurdly powerful
+nuclear bomb of a spell. One, it's very
+fiddly to actually get the triple damage
+on enemies. Uh the the positioning needs
+to be pretty precise for them to both be
+um able for a pillar to be able to spawn
+next to them so that it when you break
+it, the cloud appears, but for them to
+be close enough to actually be in the
+cloud after it appears. A lot of the
+time if you put it right over top of an
+enemy, the pillar just won't spawn and
+so you'll never get the cloud damage or
+the enemy if you don't put it right over
+top of them, the enemy will be too far
+away and outside of the secondary
+damaging effect of this spell. So it can
+the positioning can be pretty difficult
+on top of the already tricky wall
+casting interface. And then secondly,
+just like some of the other wall spells,
+the save DCs are bugged at time of
+recording. The initial damage is a fixed
+DC-15 dexterity save, which enemies will
+make extremely reliably, taking half
+damage, and the subsequent damage is a
+fixed DC16 con save, which enemies again
+will make very reliably, taking half
+damage. So, between the bugs and the
+fiddly casting, this spell isn't just
+truly absurd. If those were fixed, I
+would put it in S tier. But even given
+those bugs and how it can be tricky to
+use, this is still just a ridiculous
+amount of damage for a single spellcast
+alongside the utility of knocking
+everything over. It's got a huge AoE, so
+you can hit entire encounters with it.
+So, I'm going to give it a tier. If the
+bugs were fixed, I would bump it up to S
+tier. Next up, Wall of Thorns. Wall of
+Thorns is a sixthle druid spell that
+essentially combines three lowerlevel
+druid spells into a single spellcast.
+You can kind of think of this as giving
+you wall of fire, plant growth, and
+entangle all with a single cast of a
+spell. And those are all pretty solid
+spells, so even at the cost of a higher
+level spell slot, getting them all at
+once can be pretty powerful. It's a wall
+spell, so it comes with the same casting
+interface and the same advantages and
+issues that that presents in Boulders's
+Gate 3 as the other wall spells. And
+when inside of it, enemies take 7 d8
+piercing damage, which is an average of
+31 and a half damage uh or I think one
+and a half less than Blade Barrier. So,
+pretty good damage output. And just like
+Blade Barrier, it double dips. So
+enemies take the damage both when they
+first enter it and then also at the
+beginning of their turn. It being
+piercing damage is also relevant because
+it synergizes with the bloodthirst
+dagger or the ballist armor in order to
+double the damage. That by itself is
+obviously not very exciting. We didn't
+rate blade barrier very high because
+that damage output is not amazing. But
+in addition to that, it also quarters
+enemy movement speed and has a chance of
+entangling. Enemies get a deck save for
+half against the damage and a strength
+save or become entangled and immobilized
+which can keep them trapped inside the
+wall of thorns. At least that's how it's
+supposed to work. Unfortunately, the
+spell is absurdly buggy just like a lot
+of the other wall spells. In this case,
+the dexterity save against the damage is
+set at a fixed DC of three. So just like
+blade barrier, enemies will almost
+always take half damage from this spell.
+And the dex the strength save against
+the entangle effect is a fixed DC of 12.
+So all but the weakest enemies will
+trivially pass that and enemies will
+very rarely become entangled by wall of
+thorns. In addition to that, although
+the tool tip says that it quarters enemy
+movement speed, um they just used the
+wrong type of difficult terrain. They
+didn't use the plant growth tag. they
+just use the normal difficult terrain
+tag. So it only actually reduces enemy
+movement speed by half. Uh so the tool
+tip there is just uh false.
+Unfortunately, all of those bugs
+together, which of course by the time
+you're watching this may be fixed if
+you're watching this uh well after
+recording, but I wouldn't hold my breath
+cuz these are very old bugs. Um all
+these bugs together really hold this
+spell back. what should be a spell that
+just wins encounters very quickly uh
+unfortunately just doesn't work. Enemies
+take way less damage than they should
+cuz they always pass the save against
+the damage. Enemies don't get entangled
+and they don't get trapped inside of it
+because they move at half speed instead
+of one quarter speed. If they were
+moving at one quarter speed with a
+chance of getting entangled, it would be
+very hard for enemies to get out of the
+wall of thorns. But as is, they can
+usually just walk out of it because the
+effects of the spell simply don't
+function. Even with all those bugs, all
+of these effects together are still
+pretty good. Um, if any of the entangles
+goes off, then this uh this spell is
+pretty solid and it combines extremely
+well with other sources of AoE damage,
+things like hunger of Hadar, etc. Um,
+and darkness to keep enemies inside of
+it to deal consistent damage. Um, so
+even uh though it is bugged, unlike
+Blade Barrier, those bugs don't
+completely remove its utility because it
+still has the possibility of locking an
+enemy inside of it and then dealing
+consistent damage over time. It's
+piercing damage. So even when they're
+taking half damage, maybe you're
+doubling that uh if you're using one of
+the effects that does so. So Wall of
+Thorn still definitely has its place.
+Um, I'm gonna give it B tier because I
+think it is still good enough even with
+all of those bugs that it can sometimes
+be worth casting. Though, as a druid
+spell, it's usually going to be outco
+competed by other possible druid spells,
+in particular, Heroes Feast. Um, but
+Wall of Thorns definitely still does
+have its place. I could see dropping it
+down to Ctier if uh those bugs really
+bother you and if you're not building
+around it with piercing damage
+vulnerabilities. and so on. Um, and if
+the bugs were fixed, I would bring it up
+to A tier as an encounterwinning spell.
+But as is, given those bugs, B tier
+seems fair for this spell. It's kind of
+unfortunate that so many of these six
+level spells are so buggy, but that's uh
+the unfortunate reality. Windwalk.
+Windwalk lets you turn your entire party
+into gaseous form. So, it lets you cast
+the level three spell gaseous form on
+your whole party, giving them flying
+movement, making them incorporeal,
+giving them resistance to damage, and
+becoming tiny so they can squeeze
+through cracks in the walls and stuff.
+There's obviously some potential for out
+of combat exploration and traversal with
+windwalk, and you can do some of the
+tricks that you can do with gaseous form
+with windwalk, using your whole party,
+but mostly this is just spending a sixth
+level spell slot for the benefits of a
+thirdle spell that's already pretty
+marginal at third level. So, you just
+shouldn't cast windwalk. Um, this spell
+just duplicates a weak effect for a much
+much more expensive resource, D2. And
+finally, the third of the three secret
+spells available in Balders's Gate 3.
+So, again, this is only available to a
+wizard who finds a scroll of this spell
+at a certain story point and can scribe
+it into their spell list. Sights of the
+celely, summon dava. This is identical
+to using planer ally to summon a dva,
+except it can only do that. So, you
+can't summon the genie or the cambian.
+Um, and it's a wizard spell instead of a
+cleric spell, which does mean it's
+competing against more powerful summons
+for use of your spell slot. Wizard spell
+slots, especially six level spells, are
+just more contested. Um, cuz you have
+conjure elemental available, which is
+going to be better than the dava. The
+murmurdons are typically more powerful.
+And globe of invulnerability and things
+like chain lightning and wall of ice
+also competing for those spell slots.
+So, sights of the celely is less
+exciting for a wizard than it is for a
+cleric. Um, the Dava is still a very
+good summon, and if you have ways to
+refresh your sixle spell slots and get
+both, then you can definitely use this.
+But I would summon the Merurmadon first,
+uh, save my spell slots for Globe of
+Invulnerability second, and summon
+sights of the celely only third. And
+that's if I didn't want Chain Lightning
+or Wall of Ice for a given encounter in
+order to blow up the encounter. So, a
+lot of wizard characters won't actually
+end up using this spell. This spell is
+um makes me kind of sad because this
+used to be a fifth level spell. So, you
+would get the dava summon as a fifth
+level wizard spell, which was really
+cool. A more restricted but lower level
+version of a powerful sixth level summon
+I thought was a really cool thing for a
+wizard to have access to. Um, and they
+nerfed it in patch, I want to say six to
+being a sixth level spell, which means
+it's just dramatically less uh
+interesting. Um, it's not even really
+about the power level, but just a more
+restricted version of a spell that
+clerics get. Kind of neat that wizards
+get access to that as a secret spell,
+but not that exciting from the
+standpoint of actually casting it. The
+summon is still very good, but it is
+just going to be outco competed by a lot
+of other wizard options. So, I'm going
+to give Sites of the Celely Summon Dava
+B tier. Um, cuz you can still definitely
+use this if you have lots of ways to
+refresh your spell slots. It's just
+going to be a lower priority than other
+things that wizards can be doing with
+their level six spells. All right, my
+friends, that is the six level spells.
+And with that, we have covered every
+single spell available to player
+characters in Boulders's Gate 3 over
+nearly 10 hours of video. So, if you've
+been watching since the beginning of
+this tier list, thank you so much for
+sticking around. And I hope that you
+enjoyed it and got some interesting and
+useful information that will help you
+build your characters and select spells
+and understand a more the most uh
+rewarding but also most complex mechanic
+in the game. Uh, looking at the sixth
+level spells, it's not surprising to me
+that they cluster around the middle a
+little bit more and that a lot of them
+are in Btier or lower. Remember, all of
+these spells are competing against every
+other spell in the game for use of this
+uh spell slot. So, the fact that there's
+still some in the really high tiers is
+honestly a testament to just how
+powerful these spells are. Mostly you're
+going to be using these for massive
+allday benefits like heroes feast or
+planer ally or the hidden sixth level
+spell conjure elementals. Um, but also
+you can use spells like globe of
+invulnerability, chain lightning, autos,
+and wall of ice to just win certain
+encounters in a single blow, which saves
+you a lot of resources spent on that
+encounter if you were going to try to do
+it with lower level spell slots. Either
+way, these are really powerful options
+and a fitting capstone, I think, to the
+earth shaking power of your
+spell-casting characters. As always, of
+course, if you think that there are
+spells that I have misplaced here,
+especially ones that I have underrated,
+I'm very interested in uh hearing your
+opinions on that. Looking at this tier
+list, I think the sixth level spells is
+the one that I changed the least um from
+my earlier version of this tier list a
+year ago, though, there has still
+definitely been some movement. And of
+course, I'm very open to moving things
+around if you have good arguments or use
+cases that I might not have considered
+for any of these spells. And of course,
+uh, if you have enjoyed the video,
+generally leave a comment and hit the
+like button. Helps me out with the
+algorithm. Um, you can hype the video. I
+think YouTube has introduced that. I
+still don't know what it does, but you
+know, push those buttons. Um, and of
+course, you can subscribe to my channel
+for more Balders's Gate 3 tier lists. I
+will be back with a sort of overall
+summary of these spell tier lists at
+some point, though I may take a little
+break before doing that. Uh, and of
+course more Balders's Gate 3 build
+guides and other strategy game analysis.
+Also, of course, if you're feeling
+extremely generous, and if it's not a
+hardship, then financial support is
+always appreciated, and you can do that
+by leaving a super thanks or by becoming
+a channel member by clicking the join
+button below. I try not to harass people
+about that too often, but I figure if
+you've made it 10 hours into the spell
+tier list, then uh maybe you don't mind
+hearing about that as well. All right,
+my friends. Thanks for watching and I
+will catch you next

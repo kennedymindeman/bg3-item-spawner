@@ -1,0 +1,1409 @@
+hello my friends and welcome back to
+another balers Gate 3 tier list and
+guide where we are continuing our series
+on all the consumables in balers Gate 3
+today we're covering grenades we've
+already covered drugging ourselves with
+potions and with Elixir and so let's
+talk about drugging Andor exploding our
+enemies which is a very important tool
+in Your Arsenal while these grenades
+will come up I would say less frequently
+than potions or Elixir they're still
+very valuable especially for the early
+game which is the most difficult point
+in the game for almost every party and
+so having a good knowledge of what these
+grenades do when to use them and how to
+gain the most benefit out of them will
+definitely help improve your play
+they're ex uh useful for a number of
+reasons they can give range attacks to
+characters that don't otherwise have
+them they can create they can stun
+enemies or prevent them from moving or
+create surface effects which can be very
+valuable for various characters they
+have a lot of different effects that you
+can apply of which duplicate spells
+without having to actually spend the
+spell slot and they only take an attack
+action to throw it doesn't take your
+full action so you can throw multiple of
+them if you have multiple attacks on
+your turn in particular this is very
+valuable for the Berserker Barbarian
+because they can throw a grenade with
+their bonus action throw do additional
+damage and knock an enemy prone with a
+direct hit with it while getting the
+effects of the grenade so it's a very
+powerful tool in the Arsenal of that
+character in particular but every
+character can benefit from this a lot
+spellcasters especially can benefit from
+having some grenades equipped in the
+early game because often they won't have
+a good default offensive action to take
+on their turn and having a grenade can
+really help you over the top and the
+ability to do just guaranteed AOE damage
+without spending a resource can help you
+low can help you take out a couple low
+Health enemies uh guaranteed without
+having to spend a spell slot on it
+normally in the early game that would
+require a spell to do AOE damage
+grenades get around that problem very
+well there's also a number with
+extremely powerful effects that will
+remain very relevant all the way on into
+the late game and knowing which those
+are and when to use them will be very
+helpful for every
+character I've divided these into five
+tiers uh and these are just going to be
+the basic tiers that I use in most of my
+tier lists in s tier these are very
+powerful and you'll use them all the
+time in a tier they're quite useful and
+generally speaking very good in B tier
+they have a Rel marginal effect but are
+going to be ones that you will use
+occasionally in C tier are grenades that
+have very minimal effects or easily
+duplicated effects so you likely won't
+need to stockpile those at all and then
+tier are grenades that have almost no
+effect so there's basically no point in
+picking these up or their effect is sort
+of strictly dominated by another option
+so there's not much point to these there
+are no grenades that are actively
+harmful to you so there's no F tier but
+and there's no grenades in my opinion
+that completely break game balance so
+there's no S Plus tier for this tier
+list but overall the ti should be fairly
+self-explanatory all right without any
+further Ado let's rate some
+grenades first up the acid vial so the
+acid vial is an relatively early game
+focused item it's going to lose
+Effectiveness over the course of the
+game so I'm going to be evaluating the
+these early game focused grenades in the
+context of the early game um where they
+are likely to come up because that's
+when you're most likely to use them in
+the later game this will not be as
+relevant of course just cuz the numbers
+don't keep up over the course of the
+game but I think it's worth looking at
+how they perform during the point in the
+game when you're likely to have them and
+use them regularly the acid vile does
+2d6 acid damage with a dexterity saving
+throw to negate the damage completely so
+an enemy who succeeds on the saving
+throw takes no damage at all um and the
+saving throw is a dc13 and that's a
+fixed uh difficulty class almost all of
+the grenades youed fixed difficulty
+classes rather than using your character
+difficulty class so as the game
+progresses your D the save DC on these
+will fall pretty far behind compared to
+what it would be on uh what it would be
+if it used your character's actual spell
+safe DC this also will not be improved
+by items that increase your safe DCs so
+for the most part you are stuck with
+exactly the DC that you get dc13 is
+pretty easy to pass for most enemies in
+the very early game that's a relative L
+High DC because most characters are
+going to have plus three from their
+that's going to be basically the same as
+most spellcaster DC at level one with uh
+base eight plus two from your
+proficiency and plus three from your
+stats most of your spells will also have
+a dc13 um but dexterity is a pretty bad
+save to Target in the early because so
+many of the enemies you're facing are
+goblins who have excellent dexterity
+saves and remains a bad save to Target
+throughout the entire game because it's
+the generally speaking dexterity is the
+second worst save to Target after
+Constitution because enemies will tend
+to have very high numbers in it the acid
+vial therefore is unlikely to do damage
+under most circumstances but what it
+does do is create an acid surface on the
+ground and enemies standing inside the
+acid surface suffer a minus two penalty
+to their Armor class there's no saving
+throw against this effect so even if you
+sort of discount the amount of damage
+that this is doing because it's very
+unlikely to do damage a fairly large AOE
+this is a a 7 foot radius AOE surface
+that reduces enemy armor class by two is
+a pretty significant bonus reducing
+enemy Armor class by two is a a not
+inconsiderable penalty to inflict
+without a saving throw so uh acid vials
+can actually be used to make it much
+more likely for you to land attacks now
+how often is this going to be better
+than just making another attack the
+answer is not that often but there will
+be times where your character where you
+have one character who's unlikely to do
+damage and another character who does a
+lot of damage but really needs to hit
+and the acid vial can help those out in
+particular if you have a character who's
+using Sharpshooter or great weapon
+master and then a spellcaster who's like
+out of spells or you don't want to spend
+resources in the fight having the
+spellcaster throw an acid vial can make
+it much more likely that your
+Sharpshooter or great weapon Master
+characters land their attacks the low
+damage and inconsistency of the damage
+definitely counts against this but
+mostly it's for the acid surface acid
+surfaces you can get from a level one
+spell if you have a level one spell slot
+available but replacing a level one
+spell is not a terrible use for a
+grenade I'm going to put this in B tier
+I think that it is unlikely to come up
+that often but when it does it being
+able to reduce enemy Armor class by two
+with no saving throw for just an attack
+action is not irrelevant so it will come
+up sometimes B tier for the acid vial
+Alchemists fire another fairly early
+game focused uh grenade this one does
+sets enemies on fire and it inflicts the
+burning condition and also creates a
+fairly large AOE burning surface on the
+ground 10t radius for a burning surface
+is pretty big that's going to be a
+fairly large burning surface and
+importantly this has no saving throws
+associated with it at all an enemy in
+the AOE will always be uh get the
+burning effect which does 1 D4 damage
+and they'll always take 1 D4 fire damage
+for entering the AOE of the fire as
+because it creates a fire surface under
+them so they take 1 D4 damage so they're
+going to take two D4 fire damage with no
+saves at all um and then possibly more
+if they continue to burn on subsequent
+turns or if they walk over the fire
+surface which enemies are very likely to
+do usually you'll get like 3D four fire
+out of this um which is not a terrible
+use of an action in the very early game
+and times more if you can have enemies
+continuously walk over the fire surface
+or pull them over it with um Thorn Whip
+or something along those lines Alchemist
+fire therefore FS the niche of just
+killing low Health enemies with
+guaranteed damage as well as putting
+reasonable AOE damage on ignorable
+enemies this is especially useful in a
+bunch of goblin fights where there are
+enemies with like 10 to 15 HP and the 2D
+4 fire damage is very likely when
+combined with any other AOE effect to
+bring them to zero immediately or just
+deal decent damage over the course of
+long fights Alchemist fire I think also
+replaces a lot of other spells that
+would do a similar thing something like
+burning hands is an AOE damage option at
+low levels if enemies pass the save on
+that they take 3d6 haved which is an
+average of fiveish damage well you do
+five damage without a save at all with
+The Alchemist fire so you can use this
+to replace a spell like burning hands uh
+and take better spells on your your
+characters overall The Alchemist fire is
+going to come up pretty regularly
+anything that doesn't have a save
+associated with it is always going to be
+pretty good and in the early game
+Alchemist fire is going to be a pretty
+nice option for your characters so I'm
+going to put it in a tier obviously this
+loses a lot of value over the course of
+the game but the ability to just do
+great damage in the early game uh better
+damage than often uh act a weapon action
+will do as well as kill enemies with no
+chance of missing if they have low
+health is very valuable in the early
+game so The Alchemist fire is going to
+win you like one or two fights in the
+early game that's worth it for carrying
+grenades a tier the costic bulb so the
+costic bulb creates a costic brine
+surface it's the only thing in the game
+that makes that surface and it does so
+in a 10- foot radius AOE so the same as
+the acid vial or so the same as The
+Alchemist fire but slightly larger than
+the acid vial the costic brine surface
+does 1 D4 damage per turn to things
+inside of it so it's exactly the same as
+the fire Dam damage surface but it
+doesn't inflict the burning damage CTIC
+bulb is basically strictly worse than
+Alchemist fire because it won't set
+enemies on fire so it won't continue to
+damage them after they leave the surface
+and it doesn't do the 2 D4 initial
+damage that you get from Alchemists fire
+um so it is it will only deal one D4 so
+while it is still no save damage it's
+significantly less than the most common
+grenade in the game Alchemist fire is
+both very common and very craftable so
+it is uh relatively easy to to replace
+costic bulbs with Alchemist fire
+completely you might use this on the
+nautiloid because you can pick them up
+on the nautiloid they might come up then
+but after the nautiloid you're just
+going to replace these with Alchemist
+fire completely no save damage is still
+always slightly interesting just
+anything that does damage with no no
+save at all and that does guaranteed
+damage is always slightly interesting so
+I'm going to put it in C tier but for
+the most part this is just a strictly
+worst version of Alchemist fire and
+there's no reason to carry these when
+you can carry Alchemist fire
+instead the grease bottle so a bottle of
+Grease when thrown creates a 10ft radius
+AOE grease spell uh exactly the same as
+the spell it creates a grease surface on
+the ground which causes enemies to make
+a dexterity saving throw or fall over
+from when used from the bottle the save
+DC is fixed at 12 which uh like I talked
+about you will probably start with a DC
+of at least 13 on your spell so it's
+going to be a lower DC than actually
+casting the grease spell the grease
+spell I think though is a very powerful
+effect knocking enemies PR in Boulder's
+Gate is incredibly powerful they have to
+make this save when they're initially
+hit by the grease bottle and then if
+they try to move on the surface
+subsequently on their turn and if they
+fail the save on their turn they fall
+prone and lose the rest of their turn so
+it can comp it uh for a consumable has a
+decent chance of stunning enemies the
+low save DC means that enemies won't
+fail that often but it only takes one
+enemy to fall prone for the grease
+bottle to have traded your action for an
+enemy action which is often a good trade
+and it has the the ceiling on this is
+much higher than that if you can hit say
+five enemies with it and three of them
+fall prone you've cost three enemies
+their actions which is awesome the
+grease surface is also flammable so you
+can combine this with fire damage that
+you do or casting it on an existing
+torch to make enemies roll against the
+saving throw initially and then also
+catch fire so you can duplicate half of
+The Alchemist fire effect or basically
+the entirety of the costic bulbs effect
+just by casting this on an existing
+source of Fire by throwing it at a torch
+or something or by hitting it with fire
+damage afterwards I would say that being
+flammable for the grease spell and for
+the grease bottle is mostly a downside
+you would rather not set it on fire in
+most circumstances because you'd rather
+have the guaranteed slowed enemy
+movement speed with terrain and the
+chance of them falling prone and losing
+their turn but it is still a pretty
+powerful effect uh to be able to set it
+on fire and for the grease bottle it's
+less of an opportunity cost because
+they're less likely to fall prone so
+guaranteed dam is still just always
+useful in every circumstance so it's
+very good this is good both coming and
+going therefore because it's got a
+powerful effect that duplicates a very
+good spell at the cost of a consumable
+which is a great resource trade and has
+the the option to be turned into
+guaranteed damage if an enemy has two
+hit points and you just need to finish
+them off uh without the chance of
+missing grease bottle therefore is I
+think just an excellent consumable very
+good in the early game will of course
+lose relevancy in the late game like
+most of these early game focused
+grenades but is just a very powerful
+option to have in the early game and can
+help you through a lot of early game
+fights much more smoothly I'm going to
+put it also in a tier the hearthlight
+bomb so The Hearth light bomb basically
+casts Dancing Lights it's exactly the
+same as the cantrip so it duplicates a
+cantrip um but it does duplicate a
+canant trip that normally takes
+concentration Dancing Lights creates a
+30ft radius area of light as the Hearth
+light bomb but when you cast Dancing
+Lights with your character it uses your
+concentration preventing you from
+concentrating on anything else during
+the fight whereas the Hearth light bomb
+doesn't take your concentration now is
+that good I'd say it's still not
+particularly useful because Dancing
+Lights is generally a quite marginal
+effect most parties are going to have
+better sources of light and just more
+reliable sources of light through the
+light spell you can throw a torch for a
+very similar effect um and you should be
+carrying torches and general if you need
+to light an area you can throw a torch
+or set something on fire and generally
+speaking that's going to be a better way
+to create uh lighting effect in the game
+than the hearthlight bomb but the hear
+Light bomb does have some applications
+especially in act two where you might
+want to a very large area generally
+speaking I think you're going to be
+better off just having the light canant
+trip somewhere in your party but if you
+don't have the light canant trip and
+don't have dark vision need to light a
+large area the hearl bomb will come up
+in my opinion I think that this is just
+not really worth carrying I think that
+the the marginal impact of having this
+available is very low compared to just
+having a can trip that produces light
+somewhere in your party or just carrying
+torches that you can drop on the ground
+or throw or whatever um and so I
+wouldn't recommend the hearl bomb I
+think it's probably not worth the wait
+and opportunity cost of not selling it
+and I definitely wouldn't recommend
+spending Alchemy ingredients crafting it
+so I'm going to put the hearl bomb in D
+tier I think the effect is just too
+marginal you know it's not completely
+useless you might use it very very
+occasionally but it just doesn't do
+that you won't have better sources of
+Elsewhere and I just don't think it's
+worth the mental effort of remembering
+you have this as a consumable or the the
+carry weight or Alchemy ingredients or
+whatever of carrying it around so D
+tier holy water so a holy a flask of
+holy water can be thrown to deal 3d6
+radiant damage in a 7 foot radius AOE so
+a fairly small AOE but enough to
+relatively reliably hit two enemies with
+it um and it does 3d6 radiant damage
+with a dexterity save for half uh to
+fiends or Undead it only works on fiends
+are Undead in terms of the damage output
+and the deck save is dc13 so many
+enemies are going to pass that though
+Undead it must be noted many Undead have
+relatively weak dexterity saves so you
+will more often land the full damage
+than you would otherwise a deck save for
+half notably isn't a deck save for zero
+this isn't this so This does do
+guaranteed damage two fiends are Undead
+and if they are very low Health then you
+can drop them to zero with this as a
+result however by the time you're
+regularly fighting fiends and Undead in
+uh like act two or late Act One um holy
+water's damage has just been massively
+outpaced you're going to be like level
+six or seven by the time you're
+regularly fighting enemies that this is
+useful against and by that point you
+have Spirit Guardians you have way
+better options your your can trip are
+just going to do more damage than the
+holy water will do and so generally
+speaking I just don't think this is ever
+going to be that useful against the
+enemies that it targets cuz they just
+don't show up until late enough in the
+game that you just won't have that
+you'll just have way better options than
+spending a an attack action throwing
+holy water notably it also does create a
+water surface which doesn't uh but it
+doesn't get enemies who are struck by it
+wet unlike throwing water so you can use
+it to inflict the wet condition with
+with uh alongside fire damage if you
+create a water surface and then hit it
+to create a steam Cloud you can create a
+it to make the wet condition you can
+also use it to create an ice surface
+alongside cold damage or an acid surface
+alongside acid damage so there's a few
+options cuz water surfaces are generally
+fairly powerful there but the damage is
+very marginal and there's better ways to
+get water surfaces also at this stage of
+the game so generally speaking I don't
+think you're going to use holy water
+that frequently I don't want to rate any
+source of guaranteed damage uh below C
+tier just because sometimes the enemy
+will be at three hit points and you can
+throw holy water at them to finish them
+off without spending a a spell slot um
+but by this point in the game it is very
+likely that you will just have better
+options every turn of combat so you
+really won't be losing that much if you
+ignore holy water but C tier I think is
+is reasonable for it the oil flask so
+the oil flask is not craftable it's a
+findable item and it's only available
+starting in act three so given that it
+shows up pretty late in the game you'd
+think it would have a relatively
+powerful effect compared to the more
+early game Focus grenades that we've
+talked about so far uh but it doesn't it
+creates an oil surface which is a
+surface that has no effect on its own it
+doesn't do anything on its own the only
+thing that it does is it can catch fire
+so creates a 10ft radius flammable
+surface well 10t radius of Fire that
+sure sounds awfully familiar to me that
+is exactly the same as what Alchemist
+fire does without having to be combined
+with more fire so the oil flask is
+completely useless there's just no
+circumstance where you would want the
+oil flask over alchemist's fire or
+grease if you want a surface that you if
+for some reason you want to create a
+surface that you intend to set fire
+later like I don't know maybe you're
+setting an ambush for an enemy but this
+is just a strictly worse version of
+those two grenades which are available
+very early so d for the oil
+flask next up the scrap and trapnel
+grenade and also the spiked bulb I'm
+going to talk about these two together
+because they are uh what in like magic
+the Gathering you would call a
+functional reprint they do exactly the
+same thing but have different names um
+and what they do is that they have a 10
+a 13t radius excuse me 13t radius AOE
+that deals one piercing damage and
+inflicts bleeding for one turn um
+bleeding deals two damage at the
+beginning of the character's turn and
+gives them disadvantage on con saves so
+notably there's no saving throw on this
+so it's guaranteed exactly three damage
+which is not an amazing amount of
+guaranteed damage but again guaranteed
+damage always has its place and uh it is
+no save to inflict disadvantage on a
+constitution saving throw some
+Constitution saving throw targeting
+effects are devastating and so have
+giving enemies no save disadvantage on
+those effects to set up an ally who can
+cast a concentration uh con con saave
+targeting spell like stinking cloud or
+something like that that can just
+completely ruin an enemy's day uh is a
+pretty powerful use for a grenade the
+AOE is massive also which is not
+irrelevant it is exactly the same AOE as
+a fireball so this grenade hits a very
+large radius does three damage to a
+bunch of En enemies so if there's a lot
+of enemies on the field be like a 15
+damage action uh which is in the early
+game a totally reasonable amount of
+damage for an action it's spread out so
+it's not as good as uh 15 damage to a
+single enemy but there will be times
+where this does reasonable damage for in
+exchange for your action and the con the
+Constitution save disadvantage will
+remain relevant on into the late game
+bleeding also has some Synergy with
+certain character abilities or
+items or stuff so there are times where
+you want to inflict bleeding on a whole
+bunch of enemies again these are all
+minor synergies but it doesn't take that
+much for a grenade that does that has
+like a bunch of minor synergies to be
+worth using I think that these are
+relatively easy to forget and if you
+forget them honestly it won't be a
+massive penalty to your character or
+anything like that but if you have a
+character that is likely to be casting
+con saave targeting spell spells or if
+you have Synergy with bleed in your
+party or if you just need to deal a
+decent amount of damage in the early
+game the spiked bulbs that you can get
+right from the beginning of the game
+will be pretty valuable and so these two
+grenades do definitely have their place
+I'm going to place them in B tier
+because I think you won't use them that
+regularly and I'm going to be completely
+honest if you forget these exist it's
+not going to hurt your game that much um
+but it they do have some a relatively
+powerful effect with no saving throw
+associated with it so which is always
+something that is worth paying attention
+to especially when it's in an AOE and
+this really help set up your
+spellcasters or just kill enemies who
+are at exactly three hit points though
+the likelihood of multiple enemies being
+that low isn't that high if you need
+guaranteed damage generally speaking
+you're better off with the Alchemist
+fire but you know these have multiple
+effects so they're worth
+carrying the smoke powder bomb so you
+can't craft the smoke powder bomb but
+it's available to purchase from
+Merchants very early in the game in in
+quite early act one you can start buying
+and stockpiling smoke powder bombs and
+it deals 3 D4 plus 9 Force damage with a
+dexterity saving throw for half in a 13t
+radius AOE so again exactly the same AOE
+as a fireball 3 D4 + 9 is a very
+reliable amount of damage cuz d4s tend
+to be quite reliable right there's a
+only a there's a relatively small range
+that a D4 can roll in fact the range is
+four um so you're going to be dealing 16
+and a half damage on average with this
+but it's very likely to roll very close
+to that 16 and a half so you can pretty
+reli you will always deal at least 12
+damage with it and you will pretty
+reliably deal between 15 and 18 damage
+with it so you can rely on this to deal
+quite good damage 16 and a half damage
+is notably just about uh slightly over
+half of a Fireball so you're effectively
+buying half a fireball uh as a
+consumable and you can get this very
+early in the game much before you would
+be able to get a fireball the amount of
+damage that it does is more than uh a
+first level AOE spell and more than most
+second level AOE spells available as a
+consumable um and thrown with an attack
+action and so on in a much larger radius
+than first and second level spells so
+this is a better action than those
+spells and can definitely help you win
+fights against lots of weak enemies
+which of course in act one a lot of
+fights are against lots of weak enemies
+cuz you're going to be fighting the
+goblin Camp you're going to be fighting
+uh the no and so on the smoke powder
+bomb therefore is just an excellent item
+that wildly outpaces AOE damage
+available at the very early stages in
+the game and remains relevant on into
+the late game it's also Force damage
+which is pretty useful because Force
+damage is a damage type that almost
+nothing resists and has uh some enemies
+are vul vulnerable to force damage the
+dexterity save is only
+DC3 so it is very likely that enemies
+are going to take half damage from it
+but um but even with the capped
+dexterity save the amount of damage that
+this does is going to be quite
+significant uh 16 and a half haved to
+eight eight and a quarter is still just
+a pretty reasonable amount of damage in
+an AOE it's quite easy to get a 40
+damage turn out of throwing a smoke
+Power Bomb in the early game and almost
+nothing gives you a 40 damage turn in
+the early game so the smoke powder bomb
+is excellent It's also worth noting that
+if you don't mind cheesing it the smoke
+powder bomb is quite buggy it detonates
+when you deal damage to it um and it can
+repeat the same smoke powder bomb can
+repeatedly detonate if you deal multiple
+instances of damage to it with the same
+effect so if you stack effects uh stack
+things that have damage Riders
+associated with them
+um like lightning charges or Hunter's
+Mark or whatever and then throw a smoke
+powder bomb you will get multiply
+detonating smoke powder bombs as of the
+current uh patch as as of the time of
+recording so if you have lightning
+charges on your character and you throw
+a bomb you double the damage that the
+bomb does if you Hunters mark an enemy
+and hit them with a bomb you double the
+damage that that bomb does in addition
+to dealing the hunter Mark damage and so
+on so the smoke powder bomb you can
+cheese you can also stack a lot of them
+into a container blow them them all up
+for a really big bomb um which is
+something that you can do with a lot of
+these grenades but the smoke powder bomb
+being Force damage and doing relatively
+high damage in in AOE is a very powerful
+use of that effect so you can drop them
+all around enemies they'll set each
+other off for overlapping damage and you
+can cheese enemies out uh using that for
+that reason uh for for the reason of
+even its intended use is very good and
+it has some buggy and abusive use cases
+but also just it's one of the highest
+damaging possible things you can do for
+the first like five levels of the game
+I'm gonna put the smoke powder bomb in s
+tier I think that you really should pay
+attention to these and stockpile them in
+the early game because they'll get you
+through a lot of the more difficult
+early game fights basically for free if
+you just throw a volley of these to
+start off a bunch of fights you'll kill
+all the weak enemies in that fight very
+easily thanks to the very large
+AOE the void bulb so this is found in
+the very early game and then sold by
+some merchants in Act One um so it's
+relatively easy to get a stockpile of
+these but you can't craft them via
+Alchemy you do have to buy them from
+Merchants the void bulb does one force
+damage precisely one force damage in a
+20 foot radius and pulls enemies struck
+by it or creatures struck by it towards
+the center with a strength saving throw
+to avoid the pull one force damage is
+technically guaranteed damage um but the
+likelihood of an enemy being at exactly
+one hit point so it being worth throwing
+a void bulb to try to actually kill them
+is very low and of course one damage as
+the lowest possible amount of damage
+that you can do is not going to be
+meaningfully impactful in most fights if
+you hit like five enemies with this is
+still only a five damage action so we're
+not looking at the damage pulling
+enemies towards a central point though
+is a very powerful effect you can group
+enemies for AOE spells you can group
+them for attacks like a tiger Barbarian
+swing or a swords barred flourish or
+something like like that um and you can
+also use this with clever positioning to
+pull enemies off of high ground and
+stuff like that you do have to place it
+pretty specifically and it they can't be
+too high up to use it so it's not quite
+as good as other pull effects like that
+but repositioning enemies is very very
+powerful now normally at this point I
+would say but it doesn't work because
+the save DC is very low on all of these
+grenades except that the void Bulb Has a
+save DC of 18 to negate um so for most
+early game enemies a strength save of 18
+is very difficult to achieve even though
+strength is a relatively bad saving
+throw to Target because a lot of enemies
+will have very high strength a lot of
+enemies will have very low strength as
+well enemy casters or archers may have
+uh quite low strength saves and so dc18
+will for many enemies remain quite
+difficult to succeed on even on into the
+the very late game so you can use this
+to fairly reliably pull enemies together
+and group them up for an AOE the one
+force damage is basically irrelevant but
+grouping enemies for an AOE is really
+nice and remains very powerful on into
+the lake game the black hole elid power
+is very similar to this and is a very
+good ithd power although usable as a
+bonus action uh with the the appropriate
+story event So that obviously makes it a
+little bit stronger but the void bulb
+ability to reposition enemies is very
+strong repositioning enemies is
+something that is difficult to do and
+very very powerful in Dungeons and
+Dragons so the void bull allowing you to
+do that in an AOE pull enemies together
+in order to hit them with smaller uh
+area of effect attacks and the fact that
+it covers a 20ft radius so it will very
+reliably hit every enemy in an encounter
+is quite good I think that the the
+likelihood of using this is not you're
+not going to use this like every combat
+or anything and it usually won't win a
+combat on its own but it's definitely
+one to keep in mind in order to land
+powerful AOE effects things like
+destructive wave or whatever in the game
+benefit a lot from carrying void bulbs
+and things like Hunter volley a lot of
+parties are going to get a reasonable
+use out of void bulbs and I do recommend
+carrying them I'm going to put them in a
+tier I don't think they quite crack s
+tier uh because they are relatively
+situational but the effect is so
+powerful that they're definitely worth
+paying attention
+to water so this is available in a lot
+of forms in the game there's water
+there's bottles of water there's barrels
+of water there's all kinds of different
+sources of thrown water and the game
+doesn't really think classify these as
+grenades it classifies them as
+miscellaneous items but you're going to
+use these bottles of water as grenades
+in practice so I think they're
+definitely worth covering in this tier
+list and thrown a bottle of water
+creates a 7ft radius so relatively small
+uh area of a water surface and also gets
+enemies within that water surface wet
+puts out fires on anything in that
+surface as well a water surface is very
+powerful because you can use it to
+create other surfaces when hit with fire
+damage it makes a steam Cloud when hit
+with acid it turns into an acid surface
+when hit with electricity it makes a
+damaging surface and very importantly
+when hit with cold it turns into an ice
+surface which can cause enemies to fall
+prone and is very powerful notably all
+these surfaces if you create them with a
+character's spell effect or attack will
+use that character's save DC so unlike
+um like the grease bottle which uses a
+fixed DC water that you then freeze will
+use your character save DC and knock
+over enemies the other advantage of
+throwing water at enemies is it gets
+them wet and wet is an extremely
+powerful condition in Boulders Gate 3 it
+in it massively increases damage that
+you're going to do with lightning and
+cold and in combination with the fact
+that this also creates a water surface
+means that cold damage will be both be
+doubled when you hit a wet enemy with it
+and create an ice surface cuz you'll
+you'll hit the enemy who's standing on
+the water surface which will create an
+ice surface and will then knock them
+over throwing water therefore is a very
+very powerful tool and one that every
+party should absolutely investigate um
+wet is one of the most powerful
+conditions in Boulders Gate 3 because
+vulner damage vulnerabilities are very
+powerful and something that the game uh
+that typically avoids giving two parties
+vulnerability doubling damage just makes
+that damage way out of scale with the
+intended amount of damage that the
+characters are supposed to do with those
+spells and so the ability of water to
+double the damage of any lightning or
+cold damage that you're doing is massive
+it also when you get an ally wet makes
+them resistant to fire damage and
+prevents them from burning uh as well as
+dousing any existing burning effects
+that they have on them and there's a lot
+of fire damage in the game resistant to
+fire damage is a very powerful condition
+that you can inflict by just throwing
+water at your party uh so this has both
+offensive and defensive uses as well as
+a bunch of story uses um the amount of
+things that you can do with throwing
+water is absurd and you will find not
+only tons of creative uses but just a
+level one use of throwing it at enemies
+and then hitting them with lightning so
+they die immediately is just so brokenly
+powerful that there's no way way that a
+bottle of water wouldn't be an S tier
+grenade I know that this might sound odd
+uh because this obviously it's a very
+humble item the bottle of water but
+keeping these around is critically
+important to most parties in balder's
+Gate you will gain massive benefits from
+having water every character should
+carry a stack of these because it will
+come up turn after turn after turn in
+combat that the best thing you could do
+is throw a bottle of water s tier
+absolutely the web grenade so web
+grenade is creates a surface that is
+exactly the same as the level two spell
+uh web so it will be difficult to rain
+prevent falling damage which isn't
+irrelevant there are some times where
+you want to jump your whole party down
+from a ledge and the web grenade can
+help out there though obviously you can
+duplicate that with fairy fire um and in
+that surface which is a 10-ft radius AOE
+it is difficult to rain flammable and
+creatures moving inside it have to pass
+a dc12 dexterity save or become and
+webbed and webbed means they can't move
+attack roles against them have advantage
+and their attack roles and deck saves
+have disadvantage so that's pretty
+powerful overall um obviously that's a
+very strong effect it's a slightly
+better condition than prone in in
+general in webbed um and will shut down
+melee enemies similarly but for the most
+part the web grenade plays out very
+similarly to the grease bottle it has a
+low save DC but relatively debilitating
+condition so you might get one decent
+hit off that condition and it creates
+difficult terrain but it's flammable so
+you have to be careful where you place
+it you can use it for a little bit of
+extra damage overall I would say it
+works almost exactly the same in
+practice as the as the grease bottle you
+might get one decent effect out of it
+which is good enough if you trade your
+action for an enemy action that's
+usually a pretty good use of a grenade
+and it creates difficult ter Rin
+flammable surface for some guaranteed
+damage and so on so web grenade plays
+out identically to grease bottle and is
+a tier similarly as a
+result the fungal bamboozler so the
+fungal bamboozler creates a timas spores
+area in a 7 foot radius AOE so
+relatively easy to hit two enemies with
+fairly difficult to hit more than two
+with in most
+circumstances um and inside that area
+which lasts for three turns creatures to
+make a dc10 constitution save or become
+befuddled befuddle is like a better
+version of the level four spell
+confusion it causes them to just skip
+their turn and wander around randomly so
+they they won't do anything on their
+turn so it's effectively a stun um but
+with a dc10 save now a stun on a grenade
+is pretty good but a dc10 constitution
+save is just never going to succeed
+enemies will pass that save very easily
+all of the time although it has to be
+noted that the fungal bamboozler can be
+combined with the bleeding effect from
+scrap and trapnel grenade to make it
+slightly more reliable dc10 with
+disadvantage still isn't going to be
+something enemies fail that often but is
+much more likely to be failed so if you
+combine those two grenades together they
+get better whether that's worth two
+actions I think is uh relatively
+unlikely to be worth two actions but if
+you can keep enemies stuck inside of it
+maybe using even more grenades like
+grease or web or other effects that lock
+enemies in place um a dc1 save with
+disadvantage every turn for three turns
+or they just lose or or they just get
+stunned is not a horrible condition I
+think that this just requires way too
+much setup because the safety C is just
+so low so I'm not going to place it in D
+tier because it's such a powerful effect
+that it is worth trying to set up but I
+think that this is another one that is
+just so marginal I'm going to put it in
+C tier I think it's unlikely to come up
+unless you do a lot of work to make it
+happen if you do that work it's worth it
+but even if you do that work it it is
+not very reliable so this is more a for
+fun grenade than one that's very than
+one that's very good I'm going to put it
+in C tier cuz I think it it can be used
+but generally speaking won't be the
+haste Spore grenade well it has one of
+my favorite words in the name so uh
+let's see if it lives up to it the haste
+Spore grenade creates a haste spores
+area for three turns which is a cloud uh
+that is flammable so you can blow this
+up of haste spores creatures that move
+into the haste spores Cloud within those
+three turns get one turn of the haste
+spores effect which is identical to the
+haste spell increasing your movement
+speed by 30 ft giving you plus two Armor
+class and giving you an additional
+action uh each turn now it only lasts
+one turn so you only get one additional
+action but if you stay or move back into
+the haste board effect you can refresh
+it for following turns and notably the
+haste Spore grenades effect the haste
+spores effect doesn't come with lethargy
+at the end of the effect so creatures
+who who are in the haste spores effect
+for three turns get three turns of haste
+with no downsides it's like a potion of
+speed but even better because it doesn't
+have any downsides and is an AOE effect
+that you can apply to your whole party
+this obviously is ridiculously powerful
+I don't have to talk too much about how
+good haste is obviously haste is an
+insanely strong effect haste without the
+downsides is even better and AOE haste
+that just takes an attack action to cast
+is nonsensically powerful um this is
+just an extremely powerful ability that
+will serve you very well throughout the
+game it doesn't stack with other sources
+of haste so it won't stack with speed
+potions won't stack with the haste spell
+but does uh just give you the haste
+effect and it does stack with terazol uh
+which we talked about about in the
+potions tier list so do keep that in
+mind if you want even more sources of
+haste haste spores is broken and just
+very powerful three turns of haste for
+your whole party is awesome uh in
+exchange for a grenade it's immediately
+action neutral because you can drop it
+at your own feet and get the Hast spores
+action right away which lets your
+characters just act immediately of
+course with the second action so you
+never actually spend an action on using
+this even if you use it in combat and of
+course you can throw it before combat
+starts and set up your whole party in it
+just for two turns of haste at the
+beginning of combat uh provided you stay
+in in the haste spores area um obviously
+insanely powerful haste is really really
+good no no need to talk too much more
+about this but Hast Spore grenade is of
+course an S tier
+option the haste Spore flask so this is
+a unique version of the Hast SP grenade
+and while I'm normally not covering
+unique um ades I wanted to cover this
+one because it's the same thing as the
+haste Spore grenade but given us a quest
+reward but has one weird difference that
+actually makes it significantly uh makes
+it somewhat different in practice
+compared to the haste Spore grenade and
+something that you should pay attention
+to and just know the difference between
+these two items the haste Spore flask
+creates exactly the same effect but in a
+10-ft radius instead of a 7t radius and
+the cloud that it creates lasts forever
+uh it's not limited to three turns so if
+a fight is going to go really long for
+whatever reason you can use the haste
+Spore flask to make a much longer
+lasting and larger radius AOE of haste
+spores which can give you the effect
+just much more often just something
+that's worth mentioning about the
+differences between these items because
+it is uh kind of neat that there is one
+that lasts forever if you know that
+you're going to need more than three
+turns worth of that's unlikely in most
+encounters but uh the Hast flask is
+worth hanging on to because it is so
+powerful um it it's just even more
+powerful than the most powerful grenade
+in the game already so s tier of course
+for this one as well the noxious Spore
+grenade so this creates a cloud of
+noxious fumes with a 7 foot radius that
+deal 1 D4 poison damage per turn to
+creatures inside of them and then two D4
+additional poison damage but with a con
+save to negate that additional poison
+damage now weirdly unlike every other
+grenade in the game this one uses your
+item save DC rather than having a fixed
+DC so this will actually use the save DC
+the spell save DC of your characters um
+but with your item safet DC so using the
+weird rules that balers gate uses to
+calculate that that mostly won't make a
+huge difference but it does mean that
+you will probably enemies will probably
+fail the saving throw on the extra 24
+poison damage with relative frequency so
+it will deal a little bit more damage
+than you might think given the the
+averages on these other grenades but
+still even if it does 3 D4 damage per
+turn a 3 D4 damage per turn cloud is
+just not that valuable and 1 D4 damage
+per turn is obviously not great it's
+also explosive so you can turn it into
+burning ground if you hit it with fire
+damage which is bad because that's going
+to decrease the amount of damage that it
+does in most circumstances so that's a
+basically a strict downside the fact
+that you can accidentally burn away your
+own noxious SP grenade clouds um but
+overall this item is just a little bit
+of guaranteed damage 1 D4 damage it's a
+little better than costic bulb cuz it's
+1 D4 damage all the time but uh with the
+chance of doing 3 D4 the effect is a
+little better but the small AOE holds
+this back so it's probably in practice
+going to hit fewer enemies as well than
+costic bulb if you're trying to keep an
+enemy trapped inside of a dangerous
+effect then this one is an okay one to
+try to keep them trapped inside of but
+you'd rather use like the fungal
+bamboozler if you're if you're expending
+resources to keep an enemy trapped in a
+in a dangerous effect then f bamboozler
+is more likely to be worth trying to
+keep them trapped in than this very
+small amount of damage I'm going to put
+it in C tier it's a little better than
+costic bulb in effect but smaller AOE so
+very similar in practice to that
+item the sanguin explosive so this is
+locked behind a story event you have to
+make a specific story choice in act two
+and then another specific story choice
+in act three and then you'll unlock the
+ability to purchase these from an act
+three vent defer if you do that the
+sanguin explosive deals 4 d8 Force plus
+4 d8 fire damage um which is more damage
+than a fireball it's 36 average damage
+compared to Fireballs 28 average damage
+in a 26t radius AOE so twice the radius
+of a fireball as well there's no spell
+that does sort of the equivalent to this
+but it's I would say basically worth a
+level four spell slot
+um for this explosive that you get as a
+consumable item and obviously that's
+awesome although the radius is large
+enough that it's sometimes difficult to
+avoid hitting an ally with it when you
+throw it the damage on this is awesome
+it also inflicts burning and it has a
+dexterity save to have the damage and
+remove the burning but uh the dexterity
+save DC is 17 17 save DC is pretty high
+so even in act three a lot of enemies
+will fail a dc7 deck save not a ton but
+enough will that you'll sometimes get
+full damage out of this and even if it's
+reliably doing half damage it is still
+really good damage in a very large AOE
+and more damage than you're going to be
+doing with most attacks in most
+circumstances the sanguin explosive is
+great against low deck enemies it also
+it it does actually even more average
+damage against low deck enemies because
+it also inflicts burning for an extra D4
+damage plus any additional turns that
+they live they continuously take more uh
+burning damage um so it is just a huge
+amount of damage for a single attack
+action very reliably hits everyone in an
+encounter thanks to the massive radius
+of this explosive getting a better an
+improved Fireball every turn for a
+consumable item you can buy up to two of
+these per day so you can just get
+basically two extra fourth level damage
+spells every single day um in when using
+the sanguin explosives that's a huge
+amount of damage that you can add to
+your party basically for free anyone can
+use these of course so they you don't
+have to have your spellcaster actually
+cast your AOE spell if your AOE spell is
+a sanguin explosive this is a massive
+amount of damage that wildly increases
+the late game effectiveness of your
+party definitely worth buy buying and
+using these because uh the AOE is great
+the damage output is great the damage
+type is good it's Force damage uh half
+force and half fire is one great damage
+type and one bad damage type but still
+just very good overall so it's going to
+be very reliable damage in a giant AOE
+excellent item s tier explosive for sure
+the flash Blinder so the flash Blinder
+is available in act three so you you
+can't get it before act three and it is
+a 20ft radius AOE that inflicts blinded
+with a dc16 con save to negate now
+that's not in and of itself that amazing
+blinded is a pretty good condition to
+fct but a dc16 con save by the time
+you're in act three most enemies are
+likely to succeed on con is typically a
+very bad saving throw to Target because
+all almost all enemies in the game will
+have at least decent con saves um and
+they're very likely to have quite High
+con saves especially the enemies that
+you actually want to Blind and there's
+also lots of no save sources of blind in
+the game so blinding for two turns with
+a grenade is not and with a Grenade on a
+relatively easy to succeed saving throw
+is not a massive effect um in and of
+itself however the flash Blinder has an
+unlisted and extremely powerful
+effect um which causes steel Watchers
+who are hit by it to become stunned on
+tactician mode or below they stunned for
+two turns and on honor mode they're
+stunned for one turn and even though uh
+the stunned effect includes a conve
+listing in the tool tip the stun does
+not have an Associated saving throw
+stunning some of the most powerful
+enemies in the game with no save in a
+gigantic AOE uh for in exchange for just
+an attack action is incredibly powerful
+obviously steel Watchers are quite
+dangerous and being able to stun them
+with a grenade in an AOE is massive and
+it also has a unique effect in the steel
+Watcher Associated boss fight I won't
+spoil the the specific mechanics of that
+boss fight particular L but flash blind
+blinders are going to be very very good
+in that boss fight um on tactician or
+below these just instantly win any fight
+against steel Watchers two turns of no
+save stun is incredible uh on honor mode
+it's still just going to be a massive
+benefit against any steel Watcher fight
+that you are engaging in and so for act
+three these are going to be extremely
+helpful all the way through now they're
+only good against one specific enemy
+type but they're so good against that
+specific enemy type that I'm going to
+still put them in s tier uh you will
+only use them against steel Watchers but
+since they just instantly win those
+encounters they are definitely worth
+taking because those are some of the
+most dangerous act three encounters
+typically so having uh flash blinders
+available to instantly solve them means
+that your party just simply doesn't have
+to engage with some of the most
+dangerous Encounters in the late game uh
+and is just a very powerful option for
+every party no save stuns are good
+obviously
+and these are no save stuns against very
+dangerous enemies s tier item the
+sleeping potion so I mentioned this one
+in my potions tier list as not actually
+being a potion really it's really a
+grenade because when you drink it the
+only thing that happens is you fall
+asleep there's no circumstance I can
+think of where this would be beneficial
+although if you can come up with one
+definitely let me know in the comments
+I'm always interested in weird
+interactions like that but the real use
+for this potion is to throw it at
+enemies when thrown it creates a three
+foot radius AOE so a very tiny AOE very
+unlikely to hit multiple enemies so
+usually you're only hitting a single
+enemy with this and enemies in that AOE
+have to make a
+dc11 constitution save or fall asleep
+this is similar to the fungal bamboozler
+in that it's a very low DC cons saave or
+uh get stunned effectively um but
+sleeping is worse than Bamboozled
+because the enemies can wake each other
+up and you won't hit every enemy in an
+encounter with this and because it's a
+one shot use it will you can't even do
+the thing where you try to trap enemies
+inside the AOE the way you can with the
+fungal bamboozler so you are never going
+to get any use out of the sleeping
+potion in my opinion a dc11 conve even
+if you use things like the spiked bulb
+in order to give enemies disadvantage on
+it is just too low to spend an action on
+and since it's not something that like
+makes enemies roll over and over again
+you're only ever going to hit one enemy
+with it in most circumstances you're
+effectively spending your action for
+like a 30% chance of stunning an enemy
+which is a very inefficient use of an
+action and uh they can easily be woken
+up by their allies as well and the AI
+will prioritize waking them up using
+only a bonus action the Sleep potion I
+think is just not worth using and should
+instead be sold for money D tier grenade
+don't bother with the sleeping potion
+all right my friends hope that you have
+enjoyed this look at all of the grenades
+I'm honestly surprised by how highly I
+red these um I was not expecting this
+many grenades to be S or a tier but I
+think that actually when you sort of
+look at them and think about them all
+and how they relate to the game
+especially the early game you'll see
+that a lot of them are very useful in
+the early game and many of them remain
+useful all the way through the game so
+grenades are something I definitely
+wouldn't Overlook I also think that of
+all of the consumables that we've talked
+about so far with the possible exception
+of the haste Spore grenade uh the
+grenades are the best balanced and most
+interesting because they add interesting
+tactical options but mostly aren't going
+to just break the encounters the way
+that Elixir or po the really good Elixir
+or really good potions will so I think
+that grenades actually from a design
+sense also did extremely well in this
+tier list uh they're my favorite
+consumables that we red so far and I
+think they're very fun to use as well um
+obviously there's still some abuses
+where you can stack like a bunch of them
+blow them all up at once to one shot
+enemies but used actually as just normal
+actions in combat I think grenades are
+both extremely useful and extremely fun
+and I hope that you found this useful to
+hopefully inspire you to use them more
+often all right my friends hope you've
+enjoyed the video and of course if you
+have as always please feel free to leave
+a comment and like the video both of
+those things help me out a ton with the
+algorithm and of course you can
+subscribe to my channel for more balers
+Gate 3 guides and other strategy game
+content as you can probably guess we'll
+be back raing the remaining sets of
+consumables there's at least two more
+kinds so look forward to more tier lists
+there and more build guides as well and
+I will catch you next time cheers folks
+and thanks for watching

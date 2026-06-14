@@ -1,0 +1,807 @@
+Hello my friends and welcome back to
+another Boulders Gate 3 guide. Hope
+you're all doing well. Today we're
+covering the five most underrated spells
+in Boulders Gate 3. At this point, I've
+done a ton of Boulders Gate 3 build
+guides, which has meant that I've seen a
+lot of opinions about how to build good
+characters. In fact, I would say that
+outside of the developers who have the
+actual stats, I'm one of the people in
+the world with the most information on
+how people like to build their Boulders
+Skate 3 characters. So, today I wanted
+to talk about some mechanics that I see
+consistently underestimated and
+underused and in particular five spells
+that I get a lot of questions about.
+People ask me why I take them, how to
+use them, or say that they never get
+value out of them when I take them.
+These are extremely powerful tools. Um,
+but it might not be clear at first
+glance how to get the most out of them.
+So, we're going to talk about each of
+these spells, what makes them so good,
+and then I'll show a little bit of using
+them in actual play to hopefully give
+you a better idea of how to use these
+incredibly powerful options in your own
+playthroughs. If you're already using
+them, of course, then great. I mean,
+hopefully this will show you some new
+ways, but you're already ahead of the
+game. And if you aren't using them, then
+with luck, this will let you add some
+more powerful weapons to your toolbox so
+that you can have smoother and more
+enjoyable playthroughs. I'm going to
+talk about these in no particular order.
+But first up, we have how to stun an
+entire encounter with no saving throw,
+otherwise known as plant growth. Plant
+Growth is a level three spell with a 60
+ft range and a 20ft radius, meaning it
+can affect enemies up to 80 ft away.
+Enemies inside the circle have their
+movement speed quartered. This is a
+tremendous debuff that will stop enemies
+completely from doing anything in a lot
+of circumstances.
+One quarter of their movement speed for
+a typical enemy with a 30ft move speed
+reduces their move speed to 7 1/2 ft.
+That means that an enemy who is in the
+center of the plant growth is forced to
+use their action to dash in order to
+leave it. Um, an enemy who has to
+traverse 10 ft of radius with a 7 and
+1/2t movement speed will have to move
+twice. So, they're going to have to dash
+out of it. An enemy at the back of the
+plant growth who has to cross the entire
+thing is going to have to dash and then
+also use all of their movement from
+their subsequent turn or almost all
+their movement from their subsequent
+turn. So, a melee enemy who's trapped on
+the far side of a plant growth is going
+to need at least two turns before they
+do anything. This is a very similar
+spell to spike growth, the level two
+spell, which has a 20ft radius, 60 ft
+range, and does damage as well as
+reducing enemy movement speed. But
+quartering move speed and having move
+speed are very different scenarios. An
+enemy can easily get out of spike
+growth. Not that spike growth is a bad
+spell, it's an amazing spell, but
+they're uh much more easily able to
+leave it. And spike growth is also
+concentration. So, there's a lot of
+circumstances where plant growth will
+just win encounters outright where spike
+growth wouldn't do that much. There's a
+couple things that make this spell a
+little more difficult to use, and this I
+think is why it's so often underrated.
+Firstly, enemies can jump out of it, and
+an enemy who jumps out of it will ignore
+the difficult terrain penalty. Um, and
+secondly, it can catch on fire, so you
+need to be very careful with where you
+position it relative to fires, and you
+need some way to stop enemies from
+jumping. Luckily, there's a lot of ways
+available in the game to do that,
+including some very powerful spell
+combos, and many of them don't involve
+saving throws at all. So, you can use
+plant growth to lock down an entire
+encounter. Let's take a look at what
+that looks like. So, let's imagine that
+we want to fight a dangerous group of
+melee enemies. In this case, as an
+example, we're going to use the Steel
+Watchers and the Flaming Fists here in
+Boulders's Gate. We're going to start a
+brawl, but not run a foul of the law.
+These enemies are mostly melee and
+they're clustered relatively tightly
+together. Although we could move them
+closer together, uh using an effect like
+minor illusion to pull them together
+before we start combat if we're doing
+this from stealth. They also have to
+pass through a choke point in order to
+get to us. Now, this is a fairly wide
+choke point, but nonetheless, they have
+to pass through this area in order to
+reach us. And so, we can win this
+encounter outright using plant growth
+and other spells that combo with it. um
+thanks to the scenario that we are uh
+that we find ourselves in. So, let's go
+ahead and cast plant growth. Now, our
+goal is for the most dangerous enemies,
+in this case, the steel watchers, to
+have to pass through at least 2/3 of the
+plant growth in order to get to us. So,
+usually you want to put them in kind of
+the back half of plant growth. Just cast
+it with the center just a little bit on
+uh the side of your party uh compared to
+the enemies. We also want to hit as many
+of these other enemies as possible and
+make sure that they are also having to
+move through the plant growth. But the
+idea is to shut down the dangerous
+enemies and stun them with no save. So,
+we're going to go ahead and find the
+perfect pixel where we can do that,
+which is, I think, right about here, and
+place a plant growth. Now, these enemies
+have to uh struggle to reach us, but
+they can all jump. Luckily, there are
+ways to prevent them from doing that.
+Firstly, of course, in Balders's Gate,
+there's a lot of enemies that can't jump
+at all. things like oozes and stuff
+often do not have a jump ability at all
+and so those enemies you can just use
+plant growth on naturally. However, uh
+there are also a bunch of spells that
+combine extremely well with plant growth
+to fully shut down an encounter. In this
+case, we're going to use hunger of
+Hadar, which has a blind with no saving
+throw attached to it. It's also
+conveniently exactly the same size and
+shape as plant growth, so we can just
+layer it directly on top. We're going to
+go ahead and cast hunger of Hadar,
+making sure that we get as many of these
+enemies in the blind effect as possible.
+And that'll start combat.
+Assaultings.
+And while normally this would be a
+pretty difficult encounter, you're going
+to see how uh little these enemies are
+able to do. Okay. Well, the the steel
+watcher here sort of cheated and kept
+moving, but um it will still have
+trouble getting to us. Uh you're going
+to see how little these enemies are able
+to do thanks to this incredible spell
+combo. Uh here we have our ranger of
+course who can just fire shots in for to
+any of the enemies that we can still
+see. Um and because he's a ranger could
+also move freely over the plant growth.
+Another tool that you can use with plant
+growth is characters that are immune
+with diff to difficult terrain like
+rangers and druids can pass freely over
+it. So you can run back and forth across
+it, causing enemies to have to move
+towards you over and over. Let's go
+ahead and pass the turn. We'll make it
+the Steel Watcher's turn, and we're
+going to see that they are just going to
+have to pass their turns completely
+without doing anything because as soon
+as they enter the plant growth, they
+become unable to uh act meaningfully.
+They get slowed so incredibly that
+they're just going to waste their turn
+completely passing it. This uh enemy
+also cheated just a little bit and snuck
+outside the edge of the hunger of Hadar.
+That's just because we're fighting
+guards against any other enemy that
+wouldn't have happened. But as long as
+we maintain concentration on hunger of
+Hadar, we will still be able to shut
+down this entire encounter. Um, another
+thing that we can do, of course, because
+we are using a warlock in this case, we
+have repelling blast. So enemies that
+make it to the edge of the hunger of
+Hadar, we can push backwards away from
+ourselves. Or if we have a
+strength-based character with a strong
+athletics check, we can push them back
+to the other side and force them to
+undergo the whole painful process over
+and over and over again. So, let me pass
+the turn again, and I'll show you just
+how devastating this is for the entire
+uh group of enemies. So, we're going to
+pass the turn, and this enemy is going
+to use their turn dashing and just move
+further into the zone of pain. This
+enemy is going to back out and use a
+sub-optimal ranged attack um by throwing
+javelins. That's actually somewhat
+unusual behavior for the AI, but uh
+because Flaming Fists prioritize using
+their javelins in this case, um they're
+backing out to throw a couple ranged
+attacks, but obviously you would rather
+they do that than close to melee. Uh
+this one is doing the same thing. And
+then this other flaming fist who's in
+the center is going to spend their turn
+healing because of course they are a
+healer. So you can see that the enemies
+did not get to do any of the things that
+they wanted to do. And the the steel
+watchers both effectively passed their
+turn completely. If we have a shove or
+another effect that can push them
+further back into the hunger, like if
+Will here had one initiative over the
+steel watcher, uh he could use repelling
+blast to push them back in. We can also
+because our ranger is not concentrating
+on a spell, we can cast another spell
+like fogcloud um in order to blind
+enemies who move even further out or
+something like spike growth to extend
+the damaging and slowing area even
+further. Uh since plant growth is not a
+concentration spell, our cleric could
+also place a spiritual weapon in the
+center to distract enemies. It's it's uh
+immune to the effects of the blind from
+hunger and floats over the plant growth.
+So, there's a lot of tools we can use to
+distract enemies, and you can see that
+with no saving throw, we just forced an
+entire group of enemies to effectively
+pass their turn. Next up, a level four
+cleric spell, Guardian of Faith. Not to
+be confused with Spirit Guardians, which
+is the level three AoE damage spell.
+That one's not underrated. Guardian of
+Faith summons an immobile summon that
+attacks anything that gets close to it.
+It has 60 hit points and whenever an
+enemy gets near it, they have to make a
+dexterity saving throw or they take
+exactly 20 damage. The amount of damage
+that is dealt by this, the Guardian of
+Faith itself also takes uh itself. So,
+it can only usually do three of these 20
+damage attacks. However, if the enemy
+makes their saving throw and takes half
+damage, the Guardian of Faith itself
+only takes 10 damage. And there's a
+couple other tricks we can use to
+prolong its usage. Firstly, just at
+baseline, if you just think of this as a
+level four spell slot for 60 damage,
+that's a very good ratio. Compared to
+other level four spell slots, none of
+them come close to doing an average of
+60 damage. And this one always does
+exactly 60 damage, which is great. And
+anytime it doesn't uh do that much, it's
+absorbed a bunch of enemy attacks, which
+is also great. It has 60 HP and 20 AC,
+so if enemies do attack it, they're
+fairly likely to miss, especially early
+in the game, so they can often waste
+their turns. And the really nice thing
+about Guardian of Faith is that it is
+big. It's a large-sized creature,
+meaning that it takes up more space on
+the battlefield than most other summons.
+So, you can use it to block doorways,
+even wider doorways that you normally
+wouldn't be able to block. Let's look at
+how that looks in actual practice.
+So, we're going to pick on this group of
+flaming fists again. Now, obviously, um
+we could start the fight first, and I'm
+going to do that just to prevent them
+from cheating and teleporting like they
+did last time. Uh and then we'll use the
+Guardian of Faith in order to block the
+doorway here. So, we're going to have
+Will go ahead and
+start a combat assaulting someone
+and just back off around the corner. And
+then Shadow Heart is going to place a
+guardian of faith in order to stop the
+enemies from getting to us. See the
+width of this doorway? We're going to
+put it exactly in the center and that
+should close off the space to either
+side just enough that enemies cannot
+pass through it easily. So we're then
+we're going to move off to the side and
+they will have to deal with the Guardian
+of Faith. Of course, we can continuously
+attack them with shots through the
+doorway uh before they get to us. So,
+let's go ahead and do that a little bit.
+Just stack up some debuffs and
+everything on them. And then we're just
+going to get out of their line of sight
+so that if they want to fight us, they
+have to get through the guardian. Pass a
+turn. And we've got the Steel Watcher.
+So, the Steel Watcher is going to dash
+because it doesn't have a good path to
+get to us. And then just pass the turn.
+Again, we're just kind of abusing the AI
+here. In this case, it it we also um
+blinded it, but uh because the AI
+doesn't have a good path to reach us,
+it's going to behave very unusually and
+will often just pass the turn. This
+Steel Watcher is going to jump. It moves
+into the radius of the Guardian Guardian
+of Faith and then attacks it. Guardian
+of Faith is immune to prone. So, even
+though it took a bunch of damage there,
+it still survives. And then these
+enemies again are going to waste their
+turn making these ranged attacks against
+this summon. Now, this does cost the
+summon a lot of hit points, so obviously
+we want to make sure that it continues
+to do stuff for us next round as well.
+Normally, you can't heal the guardian of
+faith. However, there's a couple ways to
+get extra value out of it that are
+extremely helpful. Firstly, aid will
+restore its hit points. Aid uh is both
+healing and incre an increase to your
+maximum health. And unlike almost every
+other healing effect in the game, it
+works on constructs and undead. So, if
+we use a level six aid spell, we have 30
+more hit point or 25 more hit points,
+excuse me, on the guardian of faith.
+Another tool that we could have used is
+warding bond. If it had a few more hit
+points remaining, we could use warding
+bond, increasing its AC and giving it
+resistance to all damage. That includes
+the damage that it does to itself. So,
+when the guardian of faith attacks, it
+will only take 10 damage on a hit or
+five damage on a miss. Um, and so it's
+going to last for much longer. Again, we
+can use this to delay enemies while we
+shoot them through the doorway or put up
+other effects. Uh, we can similarly use
+effects like spiritual weapon to
+distract them even further. So, we could
+do something like this as well. And
+that's a bonus action non-conentration
+spell as well. Um, if the Guardian of
+Faith, if you don't want enemies to
+attack the Guardian of Faith and instead
+just want it to do its own attacks um,
+for maximum damage, you can put
+Sanctuary on it as well, and then they
+won't be able to attack it until it
+attacks. That will break the sanctuary,
+but that can buy it a turn or two,
+especially if there's lots of ranged
+enemies that you're worried about
+depleting its hit points. So, you can
+use this to fully clog a doorway in a
+very effective way. and it's extremely
+efficient when it comes to the amount of
+damage that you get from the spell slot.
+So, Guardian of Faith, very useful
+strategic tool. Next up, another fourth
+level spell, freedom of movement. This
+is actually kind of a funny one cuz I
+think people appropriately rate the
+effects of the spell as being generally
+pretty good, but underrate casting the
+spell. Freedom of movement sort of has
+two modes. Firstly, it's a dayong
+non-conentration buff. That's obviously
+really good and really good especially
+in Boulders's Gate where day long
+non-conseentation buffs can be cast by
+an ally who stays at camp and you get to
+keep the benefits of the spell. Freedom
+of movement all day for free basically
+without spending any resources is
+obviously great and people will tend to
+suggest doing that. So that's not really
+what we're talking about today. Freedom
+of movement as a spell that you actually
+spend a spell slot on is a little less
+valuable. Being uh immune to paralyzed
+and restrained and difficult terrain not
+slowing you down is a pretty powerful
+tool, but a fourth level spell slot is a
+pretty big re uh resource expenditure.
+So, not every character is going to want
+to spend their fourth level spell slots
+on freedom of movement all the time.
+Nonetheless, I think that you should
+always have freedom of movement prepared
+somewhere in your party because of the
+first line of freedom of movement. when
+you first cast it, it snaps an ally out
+of any stun effect. There's a lot of
+enemies in the game that uh cause you to
+become stunned, that have stuns, and
+often they're stuns that are quite hard
+to resist because many of the most
+common ones, mind flares, stun you with
+intelligent saving throws, which you may
+not have boosted uh because they're
+otherwise very uncommon throughout
+Balders's Gate 3. Having a tool that can
+get you out of a key stun if an ally is
+stunned in a bad position and about to
+take the full brunt of enemy attacks on
+their next turn or if you just need that
+ally to to cast a key spell or use a key
+ability or kill a specific enemy before
+their next turn rolls around. Having
+that tool and that panic button is
+incredibly valuable. So, in a lot of
+encounters, freedom of movement is
+extremely useful if an ally gets
+stunned. And although a level four spell
+slot to basically buy one turn of an
+allies actions is not a great resource
+expenditure, remember that freedom of
+movement is good enough or almost good
+enough just to cast on its own already.
+So breaking an ally out of the stun and
+getting the really nice effects of the
+buff for whatever remains of that day is
+a very strong use of a level four spell
+slot. There's also an interaction that
+you may not know, which I will show you
+in just a second. Freedom of movement
+breaks you out of any stun, and that
+includes a lot of stuns that aren't
+called stuns, including what is probably
+the most common way for player
+characters to become stunned, the effect
+lethargic. When your character becomes
+hasted, if the haste is broken or ends,
+they become lethargic, getting stunned
+for a turn. That can happen if you drop
+concentration on haste, either by
+accidentally casting another
+concentration spell, which don't lie,
+it's happened to all of us, or an enemy
+breaks your concentration at an
+inopportune moment. And it can also
+happen if the haste spell naturally runs
+out or the effect of the potion or
+terrazul or spore grenades or whatever
+um runs out, then your ally will become
+stunned. Having freedom of movement can
+snap you out of that because it does
+indeed remove lethargic, allowing your
+ally to act freely uh during the rest of
+their turn. And so you can use your
+cleric or whoever has freedom of
+movement to buy back an error with
+haste, which is an extremely powerful
+but extremely dangerous tool. And this
+can give you a lot of leeway if you make
+a mistake or if an enemy breaks your
+concentration at a bad moment, which can
+easily be the beginning of the end of an
+honor mode run. This can get you out of
+it. Next up, enhance leap. I'm a firm
+believer that every party should have
+enhanced leap available to them at all
+times. Some character in your active
+party should always have this spell
+because it's just so powerful both for
+traversing the world in general and for
+its combat utility. Enhancedly triples a
+creature's jumping distance. A character
+with 8 or 10 strength normally has a 15
+ft jumping distance. So this takes them
+up to a 45 ft jump with the minimum
+amount of jump distance. A character
+with 20 strength normally has a 30ft
+jump. So, you get to jump as a weakling
+wizard with eight strength. You can jump
+one and a half times as far as the
+mightiest barbarian just by casting
+enhanced leap. What's more, this is a
+10- turn duration ritual spell, which
+means that you can cast it without
+spending a spell slot as long as you're
+outside of combat. So you can cast this
+on your entire party before combat
+starts to effectively give everyone at
+will misty step. A bonus action to
+reposition yourself up to 45 ft of
+distance is very close to being mistyep
+which is one of the best and most
+important positioning tools in the game.
+Obviously, there's some circumstances
+where Misty step is still going to be uh
+superior and um enhancedly doesn't
+totally replace it, but it does a very
+good resourcefree impression of one of
+the most powerful tools out there.
+Casting this before combat starts on any
+character that needs height, any
+character that you don't want to be in
+contact with melee enemies, any
+character that is uh likely to want to
+move from low ground to high ground at
+any point in the combat or just on all
+of your characters to give you more
+mobility options are all extremely
+valuable tools and they cost you
+nothing. Because this is a ritual spell,
+it takes no resources, meaning that it
+is absolutely free value. And if you're
+not casting it, you are leaving that
+value on the table. Now, I don't
+recommend doing this before every combat
+because frankly that's just extremely
+timeconuming. Only combats with a lot of
+verticality. Uh is it really worth
+spending the time to cast pre-cast
+enhance leap before um on all of your
+party members. But there are plenty of
+builds that are also built around long
+jump distance that can also benefit from
+this, like a jumping owl bear build, um,
+or a lot of monk builds, things like
+that, or hammercraft builds, whatever.
+Um, but also in any arena where there is
+a lot of verticality, this gives you
+effectively an at will teleport,
+allowing you to move away from enemies
+with ease. Again, let's take a look at
+it. So, I'm just going to go ahead and
+pre-cast enhance leap on my entire party
+here. And you can see that we're not
+spending any spell slots. So, we're just
+going to go ahead and do this. Uh, we'll
+have to watch the durations, but you
+actually get to cheese some duration out
+because of the way that out of combat
+turn durations are calculated. Um, you
+can cast more than one spell per turn
+when you're not in turn-based mode. So,
+we you can see we've actually got our
+durations matching up a little bit more
+than they technically should.
+So, let's go ahead and start a combat.
+And then we can use enhanced leap to
+retreat to where the enemies can't come
+after us. So, I'm going to have Will
+start this combat here just by firing
+some Eldrich blasts.
+Assaulting.
+Now, obviously, we could start the
+combat already on high ground, but um we
+can use enhanced leap to do all kinds of
+additional movement while we are uh in
+any combat. So, we're going to go ahead
+and take advantage of that. So, we're
+going to jump up with this character.
+And our goal on this high ground,
+because it's relatively small, is we're
+going to try to position our characters
+such that they cover as much of the high
+ground as possible. So, we're going to
+space them just far enough out that
+enemies can't fit in between them and
+therefore block enemies from being able
+to jump up after us because we are
+facing enemies that have high jumps as
+well, though some enemies won't. Gonna
+have to do a little bit of careful
+movement with the mouse in order to make
+sure that we're able to get all of our
+characters up here.
+And there we go. So, I'm just going to
+finish spreading my units out just a
+little bit so that they take up as much
+space as possible on the height. Um, I
+guess we'll put mints here. And this
+way, enemies are going to have to have a
+fairly awkward jump to get after us.
+Obviously, this only took our bonus
+action, so we could continuously be
+shooting down at them. Um, but we're
+just going to pass the turn and watch
+how this causes us to uh remain un
+causes enemies to be unable to follow
+us. So, the Steel Watcher just has to
+waste a dash going all the way around to
+try to get to us. This fist is again
+going to use a crappy low ground throw
+uh with disadvantage because they're
+attacking from the low ground or with a
+penalty because they're attacking from
+the low ground. They did get a critical
+hit there. Um so these throws are going
+better than they usually would. But
+again, you can see how this prevents the
+enemies from being able to interact with
+our party because we have such easy
+mobility onto the high ground. And as
+they continue to come after us, because
+we still have this mobility, we can use
+it to just swap to a completely
+different area where again they won't be
+able to easily follow us. So this just
+gives us so much mobility and
+optionality in combat and it costs us
+nothing to use. And finally, banishment.
+Banishment is a level four spell that
+basically forces an enemy to make a
+saving throw or you win the encounter
+against them. It removes them from the
+fight for two turns. And most fights
+with the most powerful enemy gone are
+going to be relatively easy to clean up.
+Also, they'll return in the same spot
+and not take a turn after they come
+back. So, you will be able to place
+hazardous terrain under them. Things
+like walls of fire, spike growth, or the
+aforementioned plant growth, hunger of
+Hadar combo. Um, you can set those up
+while the enemies are missing because of
+the banishment. Uh now, banishment of
+course has to be compared to other uh
+single target control abilities. Things
+like command, which doesn't require
+concentration and is only a level one
+spell slot, or hold person, which does
+require concentration, but lasts for up
+to 10 turns instead of two turns and
+gives you automatic critical hits, also
+again is only a level two spell slot.
+So, you might be wondering, why would
+you ever want to cast banishment? The
+answer is that although banishment has a
+weaker effect than a lot of other single
+target control spells, there's a lot of
+fights in which it is wildly more
+reliable. Banishment targets the enemy's
+charisma save. Most other control spells
+either target constitution or wisdom,
+which enemies will typically have very
+high save values in. Charisma saves, on
+the other hand, many enemies have very
+low saves. So, I've wandered over here
+to the Umberly Temple to show you
+exactly what I mean. Let's take a look
+at what it looks like if we try to
+command these cleric enemies using the
+command spell, um, which targets their
+wisdom save. 65% chance on Diamara
+Trellis here. Uh, 38% chance on Captain
+Goldwake. It's not an even 5% because he
+has a bless spell on him. 60% chance
+against Seawind Star Stiti. Let's take a
+look at what those chances look like if
+we're using banishment instead. So that
+uh 65% chance becomes a 90% chance, 25
+whole% higher because this uh enemy has
+charisma saves five points lower than
+their wisdom save. 73% instead of 38 and
+85 instead of 60 rounds it out. So
+there's a lot of fights with enemies.
+And obviously we're showing a pretty
+dramatic difference here because this is
+mostly clerics, so they're going to have
+high wisdom saves regardless. But this
+holds true across a lot of enemies
+throughout the entire game that will
+have vastly worse charisma saves than
+other important saves. So banishment can
+land much, much more reliably against
+those enemies than other spells. It's a
+weaker effect, but it's still a strong
+enough effect to win you the fight. And
+a strong enough effect consistently is
+often better than a slightly stronger
+effect, which may well be overkill. That
+may or may not actually work. So, I've
+gone ahead and started a fight so you
+can see exactly how you can use this
+spell to win a fight. So, firstly, of
+course, we can just banish one enemy. It
+just reduces these enemy actions
+relative to our party's actions
+enormously uh for multiple turns.
+Against this fight where there's only
+two enemies in the fight, this has the
+enemy action economy while only costing
+us a single action from our cleric. We
+can also upcast it to target multiple
+characters. This does become pretty
+expensive in terms of spell slots, but
+the effect is very much worth it. So,
+let's see what happens if we just banish
+both of these guys. So, now they're just
+gone for two turns, and that gives us
+plenty of time to set up dangerous
+effects for when they come back. Let's
+say we want them to land on a spike
+growth. So, I'm just going to move my
+party out of the way here.
+And we can do things like set up the
+perfect ambush, put down a spike growth,
+put down a cloud of daggers, for
+example.
+Put our entire party into hiding if we
+want to. So our our entire party can uh
+become hidden and then get sneak attacks
+or uh ambush attacks with advantage
+whenever enemies return. And then we
+just pass the turn until they come back
+and they arrive into a world of hurt.
+So I've passed one turn. I've decided
+we've done enough setup. Though of
+course we could do plenty more if we
+wanted to set the ground on fire, throw
+down ice or whatever. There's tons of
+things we could do to make their lives
+unpleasant when they come back. And then
+you can see they come back, they
+immediately take the damage, but they
+don't act. So this gives us a full turn
+of actions to attack the enemies. Um,
+guaranteeing us a full turn where
+they're basically stunned, as well as
+the additional setup turns. So anytime
+you successfully land banish on an
+enemy, it's good enough to win that
+fight. You don't have to use hold person
+in order to kill enemies specifically.
+Banishment is totally uh workable in
+order to win combats and um will land
+much much more reliably against a large
+variety of enemies in the game.
+All right, my friends. I hope that
+you've enjoyed this look at five of what
+I think are the most underrated spells
+in Boulders Gate 3. And I hope this
+helps you use these powerful tools for
+your own honor mode runs and gives you
+creative ideas for solving encounters
+that might have been difficult for you.
+Uh, this was of course a bit of an
+experimental video. I haven't done
+something like this before. So, let me
+know if this is the type of thing that
+you're interested in more of. Obviously,
+it helps me out a lot if people let me
+know if they want to see more of this or
+if they don't want to see more of this
+kind of thing. Then, that's definitely
+something that I want to know uh because
+I can adjust what I'm doing accordingly.
+Of course, if you did enjoy the video,
+feel free to leave a comment of any kind
+and hit the like button. helps me out a
+ton with the algorithm. So, I really
+appreciate people who take the time to
+do that. And of course, you can
+subscribe to my channel for more
+Balders's Gate 3 guides and other
+strategy game analysis. Cheers, friends.
+I'll catch you next time.

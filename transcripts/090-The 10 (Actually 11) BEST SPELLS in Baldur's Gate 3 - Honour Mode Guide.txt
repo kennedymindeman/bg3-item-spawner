@@ -1,0 +1,904 @@
+Hello, my friends, and welcome back to
+another Balders'sGate 3 guide. Hope
+you're all doing well. Today, we'll be
+talking about the 10, or actually the 11
+best spells in Balders's Gate 3. So,
+when I was doing my complete spells tier
+list and rating every single spell in
+the game, I occasionally mentioned
+spells that I thought were amongst the
+very best in the game, even above the
+other spells in S tier. I didn't really
+have any intention of quantifying that,
+but I wanted to call out spells I
+thought were especially impactful. And
+of course, I then started wondering what
+that list would look like if you did
+quantify it. So, that's what we're doing
+today. Now, I want to say right away
+that this list is mostly for fun. The
+best spells, of course, are going to
+depend heavily on your party and your
+personal play style, but I think this is
+a great frame for discussion and to talk
+about important strategies and things to
+know about the game. If you're learning
+the game, this is going to be a great
+place to start, but I definitely
+recommend checking out my full spell
+tier list, which will give you a much
+more complete picture of how to think
+about and cast spells. Before I begin, I
+want to take a quick moment to say thank
+you so much to Giovani Kasnichi for the
+two pound donation, Jenzhen Me for the
+5, Crater84 for the $5, and the Kilucian
+and HC Simpia for becoming channel
+members. Thank you so much, my friends.
+I really appreciate your support. It
+really means a lot to me. All right,
+let's talk spells. Now, obviously, when
+we're trying to choose the best of
+something, we have to take a step back
+and ask ourselves the question, what
+does best actually mean in this context?
+There's a lot of different ways that we
+could define best for spells. The most
+damaging, the most powerful crowd
+control effect, uh the number of times
+that I've personally cast it while
+playing Boulders's Gate, the coolest
+graphic, the most annoying to your co-op
+partner if you cast it on them. There's
+lots of different things that we could
+be looking at. What we're going to be
+looking at today is how much does this
+spell affect your honor mode run. How
+impactful is it if you're using this
+spell compared to if you're not. We're
+going to be looking at a few things in
+order to judge that. Obviously, the
+power level of the spell matters. The
+more powerful the spell effect, the more
+damage it does or the more powerful it's
+crowdcontrolled, the more likely it is
+to be extremely impactful on the game.
+So, of course, more powerful spells are
+going to show up higher in the list.
+Secondly, the most gamechanging. And
+what this means, what I mean by this is
+there are many spells where if you're
+using them, uh, the game that you are
+playing is significantly different than
+if you aren't using them. There are
+spells that completely change how your
+party plays out and give you options
+that you simply don't have without them.
+So, those spells of course are going to
+really impact your runs. Finally, um the
+spells that I miss the most when I'm
+playing parties that don't have access
+to them. These spells just impact your
+runs so significantly that not having
+them vastly changes how you feel about
+playing a party. And so the best spells
+are ones that you always want to have
+and thus miss the most when you don't
+have them. All right, let's jump right
+in and we'll start with our honorable
+mention, old person. Hold person is a
+crowdcontrol spell that targets humanoid
+enemies and paralyzes them. Paralysis is
+the most powerful condition in the
+entire game. Not only does it completely
+stop enemies from doing anything,
+attacks from within 10 ft of those
+enemies, which does not mean only melee
+attacks, it can include ranged attacks
+made from close up or even spell attacks
+made from closeup are automatic critical
+hits. So, this completely takes an enemy
+out of the fight and you kill them
+vastly faster when you affect them with
+hold person. This spell is probably the
+most powerful top end in the game
+because if it goes off and you have a
+party built around maximizing it, you
+just win that encounter immediately. The
+reason I'm giving it an honorable
+mention here is because it's kind of
+hard to assign a number to it. Hold
+person is so powerful when it works, but
+doesn't always work. And if you haven't
+built your party around it, it's still
+incredibly strong. It's probably still
+deserves a place on this list. So, this
+honorable mention is kind of like
+somewhere between uh six and 15 um in
+terms of its overall placement. Uh but
+if you have built your party around
+maximizing hold person by raising your
+spell save DCs to the point where
+enemies can't uh avoid failing the
+saving throw or if you've built your
+party around dealing tons of burst
+damage with the automatic critical hits
+even if enemies will later break out of
+hold person they'll just be dead then
+this spell is incredibly powerful. So it
+sort of depends on your party how good
+it is. Um although it's always going to
+be great. Don't get me wrong it's still
+an extremely powerful spell. I put it in
+S tier in my spells tier list for a
+reason. Uh, but if you have maximized a
+round hold person, it would come in
+right at number one. So, I wanted to
+call it out specifically as being a
+little more variable where it places on
+the list depending on how much you've
+built around using it. So, what makes
+Hold person so strong? Well, it's
+obviously incredible if you land it.
+It's the most powerful effect in the
+game. So, of course, landing that is
+awesome. And on any build that has high
+safety seeds or is using Arcane Acuity
+or the Band of the Mystic Scoundrel to
+land it more reliably, that's
+incredible. It's also part of some of
+the most broken builds in the game. If
+you are building a round hold person,
+it's probably the single best thing you
+can do in Boulders's Gate 3, bar none,
+because it just kills everything that
+you landed on. And if you maximize your
+party around this spell effect, you can
+just delete everything that you hit with
+it. And of course, it's best when you
+build around it, so you can maximize its
+usage by making your party use hold
+person more efficiently. You don't have
+to do that, though. This spell is still
+incredible just as part of a
+spellcaster's repertoire because even if
+you haven't really stacked your save
+DCs, it is just as likely to go off as
+any other spell and better when it does.
+And weighing in at number 10, honestly,
+there were a lot of spells that I
+considered putting in the number 10 spot
+here. Magic missile, chromatic orb, uh,
+enhanced leap are all spells that I
+considered. But in the end, I decided to
+give the nod to spirit guardians. Spirit
+guardians is incredibly game-changing
+because it's so incredible in act two.
+It's basically the best thing that you
+can do in uh like twothirds of the act 2
+encounters. And of course, it stays
+relevant. It's very good in act one.
+Stays relevant in act three. But for a
+lot of act two, spirit guardians just
+wins the encounter outright. It's a
+great damage spell because it will
+almost always damage everything in the
+encounter. So even though it's slightly
+lower damage output than other damage
+spells, you do the damage just by moving
+around. So as long as you can maintain
+concentration on it, you get action
+economy free damage. It doesn't take
+your turn to use other than casting it
+initially, which you can do before
+combat starts. Um, and then you just
+continuously do damage for free. Against
+large amounts of weak enemies or enemies
+who are closely spaced together, that
+means that you're just going to wipe
+them out. What really brings Spirit
+Guardians up to the next level, though,
+is that it is radiant damage, which
+makes it the best way in the game to
+apply radiating orbs and reverberation,
+um, which are extremely dominant
+strategies in Balders's Gate 3. The
+items that apply these effects decrease
+enemy hit chances. So radiating orb
+items um like the luminous armor which
+is available very early in the game will
+decrease enemy hit chances and spirit
+guardians lets you do that passively and
+effectively for free as long as your
+cleric is running around applying it.
+That just wins fights outright. So not
+only is the spell itself really good cuz
+it's free damage. Didn't take you a turn
+to use. Just uses your your movement in
+order to deal damage while your
+character is still doing other stuff
+with their turns. Um, and it also
+applies these incredibly powerful
+debuffs. So, it makes it great for
+damage, great for control, and it's
+especially impactful because it's
+radiant damage in act two, which is
+where a lot of parties can kind of run
+into trouble if they don't have
+strategies to beat certain encounters.
+And Spirit Guardians is just one of the
+best. So that's why I think that because
+it has all of these unique effects,
+you're going to miss it the most when
+you're not using it cuz it just gives
+you so many different things um
+effectively for free because you don't
+have to spend your turn in combat in
+order to make use of this
+extraordinarily powerful spell. Weighing
+in at number nine, Globe of
+Invulnerability. This is a sixle spell,
+which means it doesn't show up until
+much later in the game, but the effect
+is so ludicrously powerful that it's
+still incredibly impactful on your honor
+mode runs. It just makes everything
+inside of it completely immune to damage
+for three turns, which in a game that's
+about dealing damage, becoming immune to
+the thing that enemies are trying to do
+is obviously ridiculously strong.
+Although Globe of Invulnerability will
+mostly only show up in act three, it
+just gives you a dominant strategy for
+all of act three. Almost all of the
+hardest fights in the entire game can be
+solved with this spell and effectively
+this spell alone as long as you have a
+little bit of damage to support it.
+Because when you are immune to dealing
+damage to to taking damage, um most
+fights in the game are just races
+against enemy damage which you can then
+simply ignore. Being able to just not
+pay attention to the game's main
+mechanic is obviously super strong.
+Globe of Invulnerability is is probably
+the most powerful strategy for all of
+act three, which is why I put that the
+thing that it's best for is winning act
+three. And it's especially good for boss
+fights, which especially tend to be just
+pure damage races. So, this spell alone
+will win most boss fights in the game.
+And uh I already talked about how one of
+the criteria that I'm using is how much
+does this spell change the game. Globe
+of invulnerability changes the game more
+than any other spell you can cast. When
+you are casting this spell, you're now
+playing a completely different game.
+You're no longer playing Balders's Gate
+3. You're playing Watch the Pretty
+Lights Simulator because there simply
+isn't anything that enemies can do to
+you under most circumstances and you can
+just focus on taking them down before
+the spell ends. Coming in at number
+eight, Cloud of Daggers. Cloud of
+Daggers is probably overall the best
+damage spell in Boulders's Gate 3. It
+has no saving throw or hit roll, which
+means it always works, and the amount of
+damage that it does is incredibly high.
+Cloud of Daggers is actually the third
+highest damage dealt to a single target
+as a second level spell. And unlike
+Scorching Ray or Moon Beam, it has no
+save or attack roll. So, it's almost
+always going to do the most damage to a
+single target of any spell you can cast.
+It also upcasts really well, uh, getting
+an extra 2d4 slashing damage for every
+spell level, which means that it's
+usually more damage than an equivalent
+level damage spell of every spell level,
+regardless of what spell slot you're
+using to cast this spell. It's also
+incredibly reliable. Having no save and
+no attack roll means that it always
+works. So if an enemy or a few enemies
+are low health, Cloud of Daggers is
+almost guaranteed to kill them. And if
+an enemy is high health, Cloud of
+Daggers is just great sustained damage
+that can bring them from that high
+health to the point where Cloud of
+Daggers will then kill them. Because it
+does 4 D4 damage, that's 10 average
+damage, but it's very tightly
+distributed cuz it's rolling a lot of
+small dice. So it's very likely to roll
+damage around that average. And it does
+that 10 damage both when enemies enter
+the cloud either when you cast it on
+them or if they get if they move into it
+or get pushed into it and at the
+beginning of their turn. So it
+effectively does 20 average damage
+before they take a turn which is more
+damage than any other spell at this
+level most of the time. Um and it's just
+so incredibly reliable and incredibly
+damaging. It's just going to be your
+go-to. I put it it as winning act one
+because it's especially good in act one
+where there's lots of lowhealth enemies.
+A cloud of daggers will often kill every
+goblin before they take a turn. Um but
+really this should just read winning
+encounters throughout the entire game. I
+just liked the symmetry of having three
+spells in a row that said winning act X
+as one of their advantages. Cloud of
+Daggers is just the best damage spell in
+again a game about dealing damage. So,
+it's going to be your go-to spell in a
+enormous number of situations.
+Coming in at number seven, Sanctuary.
+Sanctuary is another spell that just
+completely changes the game that you're
+playing. It's a bonus action that uh for
+10 turns with no concentration prevents
+enemies from targeting the character
+that it's cast on unless they do damage
+or inflict a hostile effect. There are
+lots of ways to affect the game that
+don't involve doing damage or inflicting
+a hostile effect. And sanctuary makes
+characters that are doing those
+invincible. So, if you're focusing if
+you're concentrating on a buff, if
+you're summoning creatures in order to
+support your allies, sanctuary just
+keeps that character from getting hurt.
+Even aside from ways to just sit in a
+sanctuary and continuously affect
+things, a bonus action to just prevent
+enemies from attacking a character
+that's in danger for one turn, even if
+that character then breaks the sanctuary
+on their next turn, is still incredibly
+strong. If you have arranged your party
+such that enemies have all chased down
+one party member and can't reach your
+other party members, sanctuarying that
+party member will just stun the entirety
+of the encounter because they will all
+be trying to attack one party member and
+then they won't be able to, which means
+they will dash or waste their turn in
+some other way trying to get back to
+where they can do something effective.
+Being able to trade your bonus action
+for a bunch of enemy turns is incredible
+action economy. Dungeons and Dragons and
+Balders's Gate 3 is basically a game
+system about trying to take the most
+relevant turns relative to your
+opponents. You want to take the most
+turns possible and you want your
+opponents to take the fewest turns
+possible. And so trading a tiny fraction
+of your turn for potentially many enemy
+turns with sanctuary is incredibly
+strong. It also just gives you a lot of
+safety. Honor mode runs are dangerous.
+If you get a character out of position
+and then that character dies, it can
+easily start a snowball that causes you
+to lose the run. Sanctuary gives you an
+easy way to undo mistakes or play more
+riskfully without uh paying any
+consequences. So, it gives you uh layers
+of strategy proactively if you want to
+use it to keep a character alive while
+they buff or do something else. Uh it
+gives you ways to defend characters that
+are in danger. And with clever
+positioning, it can also give you
+tremendous amounts of ways to stun
+enemies or manipulate the action
+economy. There's also some broken combos
+where you can do things uh that you
+shouldn't really be able to do while in
+Sanctuary. Moon Beam doesn't break it,
+so you can still damage enemies with
+Moon Beam while in Sanctuary. Um, so
+there are some broken combinations that
+you can use with this spell to just win
+encounters without enemies being able to
+fight back. But even if you ignore
+those, the spell is still
+extraordinarily impactful because it
+just gives you so many options both
+proactively and reactively in order to
+keep your party members alive and stop
+the enemies from doing anything. In
+sixth place, we have a new spell from
+patch 8, booming blade. I said that one
+of the criteria we're talking about is
+how much does using this spell change
+the game that you're playing? And it's
+hard to overstate how much it changes
+the game when all of your attacks do
+like 50% more damage with no downsides.
+Booming Blade has a lot of text, but
+basically you can use it on uh one
+attack per action. So at least once a
+turn and often more than once a turn if
+you have multiple actions. And at higher
+levels, it just makes those attacks do
+more damage for free. You can also if
+enemies move get additional damage from
+it. Uh, I have over here that free is
+the best price. I said in my spell tier
+list when I was talking about Booming
+Blade that something that is free value
+that you pay nothing for and get
+something out of doesn't even have to be
+particularly strong in order to be
+incredible. If Booming Blade said one in
+a million times you do one extra damage
+on your attack, you would still probably
+take it on most characters because
+there's just no downside to taking it in
+most circumstances. It just costs you
+the canrip known slot. But obviously it
+does way more than that. And in fact,
+what it does is actually inherently very
+strong, as well as being completely
+free. Not only is 2d8 extra weapon
+damage on uh one attack per turn
+incredibly strong just in and of itself
+in the late game, and then the extra
+damage when the target moves can also be
+pretty powerful. This kind of is
+deceptive of how much damage it actually
+does because booming blade will then
+apply damage rider effects that you have
+from other spells. Things like Farara
+Lou or um uh synergy effects that you
+have when dealing damage. Things like
+reverberation will work. It triggers
+effects that care about casting cantrips
+and it triggers effects that care about
+dealing thunder damage. It has
+tremendous synergy with all kinds of
+things in addition to the base effect
+being incredibly strong and again can't
+emphasize this enough free. Uh dealing
+damage of course is great and dealing
+damage with melee attacks is one of the
+primary ways that you're going to be
+winning the game and booming blade just
+makes you better at doing that with no
+downsides. So, not only is it just
+really good in and of itself, it also
+leads to even more broken builds if you
+build around it or if you enable the
+synergies that this spell lets you use.
+And it costs you nothing to do that. So,
+it's just uh any melee character
+benefits from having access to this
+spell and is going to use it constantly
+throughout the entire game. And entering
+the top five spells in Balders's Gate 3,
+weighing in at number five, shield.
+Shield is a reaction that increases your
+armor class by five when you're about to
+be hit. It only will allow you to
+trigger it if it would turn that hit
+into a miss. So, the baseline usage of
+shield is to trade your reaction for an
+enemy attack, which is already really,
+really good. Even if you only get one
+enemy attack out of casting this spell,
+turning off a whole enemy turn or part
+of an enemy turn for just your reaction
+is great for your action economy. As
+always, as I said, um Balders's Gate 3
+is a game about taking the most turns
+compared to your enemies, which means
+you want your enemies to take the fewest
+relevant turns possible. Trading
+something that isn't even part of your
+turn for often an enemy's entire turn is
+an incredibly good trade. But because
+the shield spell gives you that five
+armor class for the entirety of the turn
+cycle, it's often more than one turn
+from an enemy in exchange for your
+reaction and a level one spell slot,
+which it becomes an incredibly good
+trade. It also you only have to use it
+if it's going to be relevant, if it's
+damage that you can just take happily.
+You don't have to cast the shield spell
+and you can use it when it's damage that
+is actually going to put you under
+threat or potentially bring down a
+character and stop them from acting. So,
+this spell every time you use it is
+going to be extremely impactful because
+you only use it in cases where it's
+going to be excellent. Effectively
+stunning an enemy with just a reaction
+is obviously incredible. The action
+economy trade on that is great and it
+makes all of your characters vastly
+safer. A lot of the characters that get
+access to to shield have low armor class
+um and so are often going to be targeted
+by enemy attacks, which is good for you
+because if an enemy preferentially
+targets them, you can get more value out
+of shield by causing that enemy to
+completely waste their turn. if they
+attack somebody. Let's say you have a
+wizard who has 17 AC. The rest of your
+party has 18 AC. The enemies are more
+likely to target the wizard because the
+AI in Boulders's Gate chooses who it
+targets based on how likely it thinks it
+is to hit them. But you can use shield
+to make your wizard the hardest one to
+hit and thus make enemies most likely to
+completely waste their turn by missing
+their attacks. Um, in addition to that,
+shield also gives you a tremendous
+amount of safety when it comes to other
+things that spellcasters want to do,
+namely concentrating on spells. So, not
+only does it stop you from dying, it
+stops you from taking the hit at all,
+which is really good against enemies
+that have onhit effects, and there's
+many dangerous enemies that do something
+when their attack hits you, and really
+good if you're concentrating on a spell
+because they prevent you from making
+that concentration save in the first
+place. So, not only can you trade your
+reaction for a whole enemy turn, it also
+gives you tremendous safety with some of
+the most risky effects in the game on
+hit effects, dropping concentration on
+important spells. Shield prevents all of
+that from happening. If you have shield
+on your whole party, it gives you a lot
+of extra flexibility as well because
+when enemies make attacks, you always
+get a decision point as to whether they
+hit. And it combines extremely well with
+other ways to prevent enemy attacks.
+things like warding flare from light
+clerics um give you even more
+optionality and so shield can be
+incredibly strong when it gives you lots
+of different ways to manipulate enemy
+attack roles and prevent them from
+actually landing damage.
+Coming in at number four, another
+defensive option, counter spell. Counter
+spell is very similar to shield in that
+you're trading your reaction for an
+entire enemy turn. So, it's effectively
+reaction crowd control. You use your
+reaction and basically stun the enemy
+for a turn. Um, but a and just like
+shield, it prevents a negative effect
+that the enemy is trying to do. But
+counter spell definitionally prevents
+more dangerous effects than shield does.
+Shield prevents one or a couple attacks,
+which are obviously uh dangerous things
+that you want to prevent. Counter spell
+can be used to stop a dangerous spell,
+which can wipe out your entire party if
+it's the wrong spell at the wrong time.
+Having counter spell available to your
+party gives you so much extra safety.
+And some of the most difficult
+encounters in the game have enemy
+spellcasters who can cast dangerous
+spells and if they land them at the
+wrong time for you, that can wipe out
+your run. Counter spell just prevents
+that from happening. As long as you have
+a spell slot of the level of the spell
+that they're casting, there's no saving
+throw on this. So again, this is uh
+incredibly reliable if you have the
+resource to use it. And just like
+shield, it lets you make an extremely
+positive action economy trade. But also
+uh in addition to that, it costs the
+enemy an extremely valuable resource,
+one of their very highle spell slots. So
+with shield, you can use it to prevent
+an enemy attack and the next turn
+they'll just be able to do it again.
+With counter spell, that's not true. You
+counter a spell and they won't then be
+able to cast that spell again in a
+following turn a lot of the time. So,
+not only do you make this positive
+action economy trade and stop enemy
+spellcasters from obliterating your
+party, you also render them helpless for
+future turns by negating the thing that
+they're trying to do. So, it's very
+similar in principle to shield, but
+because of how it actually works out in
+practice, even stronger when you use it,
+even if you're going to use it a little
+less frequently. Getting into the top
+three, in third place, we have command.
+Command is the best crowd control spell
+in Boulders's Gate 3 overall. It at
+minimum trades your action for an enemy
+not doing anything for a full turn and
+it works against almost every enemy in
+the game. And in addition to that, it
+drops them prone so you get advantage on
+your attacks. This is really powerful
+when it doesn't take your concentration
+because it means that you can do this
+while doing other stuff. You can be
+concentrating on spirit guardians or
+hold person for example and then still
+using command in order to lock down even
+more enemies. When you upcast it, it
+gains additional target. So no matter
+what spell slot you're using, command is
+probably the best use of that spell slot
+under most circumstances. Um because
+getting to command five enemies with a
+fifth level command spell is probably
+better than anything else you can do
+with a fifth level spell slot. So, not
+only is it great at level one, it's just
+the best spell at every use along the
+tiers and is going to stay the best
+thing that you can do throughout most of
+the game. It does have the downside of
+not working on undead enemies, which
+does make it a little more uh narrow in
+act two, but other than that, it's just
+going to be incredibly strong for pretty
+much every fight. Right from the
+beginning of the game, command lets you
+do stuff that you just can't do any
+other way. Um, being able to disarm the
+starting boss and steal his weapon is
+very impactful on your honor mode run.
+And obviously, there's a couple other
+ways to do this, but for most players,
+the way that you're going to do that is
+with command, using the command drop
+function. Um, and then it just keeps
+going from there, giving you access to a
+tool that pretty much nothing else in
+the game does. There simply isn't other
+non-conentration crowd control like
+this. The closest thing is glyph of
+warding, which is a third level spell.
+Uh, but command just lets you drop
+enemies and stop them in their tracks
+without spending your concentration. So,
+you can do all of the other powerful
+things that spellcasters are doing while
+also using this spell. In addition, it
+has incredibly broken combinations. It's
+an enchantment spell, so it works with
+the band of the mystic scoundrel to cast
+as a bonus action. And just like hold
+person, if you stack up your save DC,
+you can cast it as a bon with arcane
+acuity, etc. You can cast it as a bonus
+action and instantly win encounters by
+dropping enemies to the ground. This is
+a level one spell that bards at level 10
+will often spend their magical secrets
+pick on because it is just that powerful
+to have access to this spell. That's
+just how good it is. That getting it
+even at level 10 with one of the most
+important level up resources in the game
+is one of the most powerful things that
+you can do. And coming in at number two,
+we have guidance. Guidance is a cantrip
+that gives you an extra D4 on an ability
+check. Um, ability checks you're going
+to make throughout the entirety of
+Balders's Gate. So, while it is true
+that you can fail almost every skill
+check that you make throughout the game
+and still win honor mode, you gain
+massive advantages by passing those
+skill checks. And let's of course not
+forget that Boulders Gate 3 is a game
+and getting to experience the lore,
+succeed on dialogue checks, have stories
+go the way that you want is something
+that we're looking to do and guidance
+makes all of those things much easier.
+You are going to spend most of this game
+rolling 20-sided dice and hoping that
+you get a big number on those 20sided
+dice. And guidance makes it more likely
+that you roll a big number on one of the
+most common uh die rolls that you make,
+skill checks. Everything you do out of
+combat benefits from guidance. So having
+it available in your party is just going
+to change the way that you experience
+the game so dramatically compared to not
+having it. Even for parties without
+spellcasters or characters with access
+to guidance, getting the amulet that
+gives you guidance is going to be a very
+early priority and something that you
+should uh keep basically throughout the
+whole game because you always are going
+to want to be able to boost your spell
+checks. And um most party members, most
+parties are probably going to want two
+characters that can cast this so that if
+you have something else that you want to
+react to a spell check with like
+inspiration or enhance ability, you can
+also still use guidance and gain the
+benefit. It also has a lot of uh combat
+synergies and other things because it's
+a free concentration spell. You can use
+it with concentrated blast, the alithid
+power to do really good damage. Um, you
+can use it to, uh, maintain
+concentration on a spell for the ring
+that does extra damage while you're
+concentrating on a spell. And there's a
+bunch of other things that you can use
+it for. You can use it for the vital
+conduit boots to gain temporary hit
+points cuz it's again a concentration
+cantrip. So, you get a lot of benefits
+that you can trigger for free by casting
+guidance. And since you want it anyways,
+um, those are always great secondary
+considerations. But of course, the
+primary thing is that you roll a lot of
+skill skill checks in the game, and this
+makes you better at all of them without
+costing you anything. As always, free is
+the best price. Guidance is free and
+incredible. And coming in at number one,
+regular viewers of the channel will not
+be surprised by this at all. We have
+True Strike. No, of course, it's Long
+Strider. Long Strider gives your entire
+party 10 feet of extra movement speed
+all day. It's a ritual spell, so it
+doesn't cost you anything to use. You
+can cast it on summons and everything.
+So no matter how many people are in your
+party, you can just use longstrider and
+freely boost their movement speed.
+Movement speed is overpowered. So again,
+similar to booming blade, even if long
+strider had a much much weaker effect,
+it's entirely free to use because it's a
+ritual spell and it lasts all day.
+Doesn't take your concentration. Um, so
+even if it had a much much weaker
+effect, you would still use it all the
+time on everyone. But the effect is
+incredibly strong. 10 feet of extra
+movement speed will very often make the
+difference between not taking a turn and
+taking a turn. On melee characters, it's
+going to let you get to enemies that you
+want to attack and then attack them. And
+on ranged characters, it's going to let
+you get away from enemies and prevent
+enemies from being able to take relevant
+turns. It also, of course, synergizes
+incredibly well with a lot of the other
+things that we've talked about. In
+particular, Spirit Guardians benefits
+from extra movement speed, and
+Longstrider gives you extra movement
+speed, again, at no cost at all. It's
+always relevant throughout the entire
+game. So, right from the beginning of
+the game, you start by casting
+Longstrider on your entire party as soon
+as you get access to this spell. And you
+should never stop. This should always be
+the first thing that you do uh every
+single time you long rest is just make
+your whole party faster or free. I think
+it's very easy to underestimate just how
+good moving slightly faster is. Um but
+here's some extremely common scenarios
+where you can see just how outsized an
+impact this free effect has. Let's say
+you have a melee character 40 ft away
+from an enemy. uh with their normal
+30-foot movement speed, that character
+doesn't get a turn or is taking a much
+less impactful turn, making a weaker
+ranged attack. Um, with long strider,
+you walk up and hit them. Let's say you
+have a ranged character 30 ft away from
+an enemy. If you have long strider, you
+can shoot them and move 40 ft backwards.
+If that enemy then dashes to catch up to
+you and moves 60 ft, you're still 10 ft
+away from them. So, not only did they
+waste this turn, they're also going to
+have to waste next turn to get to you
+when you shoot them and then move
+backwards again. So, we've gained two
+full turns by having long strider
+compared to what we would have if that
+enemy could just get adjacent to us. The
+amount of extra uh space and time that
+you buy by having this spell is
+incredible. Um, it also will let you
+leave fights more easily because you
+just need to get a certain distance away
+from enemies if you want to run away
+from fights. So, you can use Longstrider
+to uh give yourself extra distance and
+retreat, which is a viable honor mode
+tactic. But, in particular, it just
+prevents you from not taking turns and
+prevents your enemies from taking turns.
+And it does it all without costing you
+literally anything. So, that's why I
+think Longstrider is the best spell in
+Balders's Gate 3. All right, my friends.
+I hope that you've enjoyed this look at
+the 10 or 11 best spells in Balders's
+Gate 3. Like I said at the beginning, I
+wouldn't take this list incredibly
+seriously. This the real version of this
+list is my spells tier list. Um because
+rating a top 10 for something as varied
+and complex as spells is always going to
+be an oversimplification. But I think
+that this was a really fun exercise to
+talk through what I think the most
+impactful spells in the game are and why
+I think that. As always, of course, if
+you disagree with any of my picks or
+think that I missed a spell that
+deserves a place on this list, uh
+definitely let me know in the comments.
+I'm always interested to hear what you
+think. And I imagine there are some
+spells that people are going to be uh
+very surprised didn't appear on this
+list. So, I look forward to hearing what
+those are. Of course, if you've enjoyed
+the video, then feel free to leave any
+comment. Doesn't have to be
+disagreement. Uh but of course, it can
+be. Uh, anything helps me out with the
+algorithm. And of course, you can
+subscribe to my channel for more
+Balders's Gate 3 guides and other
+strategy game analysis. Cheers, folks.
+I'll catch you next

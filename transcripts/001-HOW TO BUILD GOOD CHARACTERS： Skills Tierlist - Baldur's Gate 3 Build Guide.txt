@@ -1,0 +1,822 @@
+hello my friends and welcome back to
+another balers Gate 3 character building
+guide hope you're all doing well today
+I'm going to be covering a subject that
+I think does not get enough love when
+people are talking about character
+building and character optimization
+skills skills are a critically important
+factor to every character and every
+party composition and having the access
+to the right skills in your party will
+make the difference between having a
+smooth an easy run and having a very
+difficult run there are certain skills
+that every party needs access to and
+certain skills that are functionally or
+completely useless in balder's gate and
+knowing which to prioritize and which to
+avoid I think is really important I've
+set this up as a tier list because
+everyone loves a tier list it gives us
+all something to argue about and as RPG
+players of course we love nothing more
+than to argue about marginalia so let's
+jump right into it and talk about the
+skills I've set this up as six distinct
+tiers because I think there are six
+distinct tiers six distinct power levels
+of skill
+there are skills that are by themselves
+completely game-winning I'll leave it as
+an exercise to see if you can guess
+which one is going to go there skills
+that are critically important for every
+party to have access to that will be
+that will make your run significantly
+more difficult if you don't have access
+to it it's not impossible to play
+without these but every party in almost
+every playthrough unless you're going
+for a specific challenge is going to
+want to have access to these skills
+there are skills that are very important
+and will make a number of encounters
+quite a lot easier and will come up
+quite frequently skills that are
+marginal but useful and or skills that
+are are useful but you can definitely
+get by without them skills that are
+extremely marginal they do technically
+have some uses but you can certainly
+skip them if it's not something that you
+easily have access to and skills that
+are genuinely completely useless because
+you can bypass their effects completely
+using some other method during the game
+one other thing that I should mention is
+that I will occasionally Al be
+referencing a neoseeker guide that has a
+list of the number of each skill check
+that occurs throughout act one I think
+it only goes up to act one because it
+was made during early access and while I
+can't personally vouch for the exact um
+accuracy of this guide I think it's a
+very useful resource because it will
+show you the the at least the rough
+proportion of skill checks that will
+come up so I'll link it in the
+description and I'll mention
+occasionally when some skills that you
+might not expect come up way more or way
+less frequently than you would otherwise
+consider one thing that I think is
+tempting when you're talking about
+skills is to treat groups of similar
+skills as being all the same and so
+looking at whether that's actually true
+whether they come up more or less often
+will let us make better more informed
+decisions when we're actually going to
+build our party and also the difference
+between types of skill checks matters a
+lot sometimes some skill checks can
+bypass entire encounters or completely
+solve a certain problem and those are
+really important to be able to succeed
+on whereas some just give you a marginal
+amount of XP maybe an inspiration or
+something like that and so are nice to
+have but not uh critically important for
+making sure that you win fights or make
+it through your run
+unscathed okay so let's talk about each
+individual skill you'll have to forgive
+me here for the the visual this was the
+the most visually appealing tier list I
+could find um on the internet but it
+does look like whoever put this together
+had some cropping issues with the skills
+but it was this or just black text on a
+white background so I went with this
+one well first up Athletics I've ordered
+the skills of course in the order they
+appear in your character sheet so you'll
+have strength skills then deck skills
+then con skills although there aren't
+any then intelligence wisdom and
+Charisma in that
+order how Athletics works is it is used
+for two major checks in the game one is
+pushing enemies and one is being pushed
+just like acrobatics Athletics whichever
+is higher will help you resist being
+pushed um when an enemy attempts to push
+you but unlike acrobatics Athletics is
+used to push enemies when you use the
+shove bonus action I think there's like
+maybe one or two dialogue checks where
+Athletics shows up but almost entirely
+the use of this skill is to push or
+avoid being pushed so how important is
+that the answer is extremely the ability
+to reposition enemies in combat is one
+of the most powerful tools you have in
+your Arsenal and being able to do that
+as a bonus action meaning you're going
+to use a a turn resource that you
+wouldn't otherwise necessarily have a
+good use for on your characters um is
+extraordinarily powerful and useful not
+to mention that being able to push
+enemies can sometimes just oneshot them
+if you push them into a cavern you uh
+into a Chasm you do give up loot when
+you do that but for certain important
+combats this can be extremely powerful
+and can get you out of risky situations
+you can use shove to move an enemy away
+from threatening a vulnerable Ally you
+can use shove to reposition enemies into
+dangerous areas whether um you have say
+a wall of fire or a plant growth on the
+ground that you're pushing them into
+pushing enemies onto ice surfaces is
+also incredibly powerful because then
+they will have to make their check to
+avoid falling prone on their next turn
+which could cost them their entire turn
+so there are tons of different uses for
+athletics um just the ability to move
+enemies around is incredibly strong and
+then that's not even counting that it
+also helps you avoid being pushed and
+the characters that get a access to
+Athletics are the characters that most
+want to avoid being pushed because
+they're typically your strength-based
+melee characters enemies will often try
+to shove your character away from
+themselves in order to reposition
+without taking an attack of opportunity
+in order to make a ranged attack without
+taking disadvantage or even just in
+order to get your character further away
+from them so that they can make a little
+distance and prevent you from
+attacking having access to Athletics
+prevents them from doing that which
+means that you are going to be able to
+much more easily keep your melee
+characters stuck to enemy vulnerable
+ranged characters or Wizards or whatever
+making sure that you'll always maximize
+your attacks of opportunity something I
+talk a lot about in um character
+optimization is that every character has
+access to five resources every single
+turn of combat your action your bonus
+action your reaction your movement and
+your concentration Athletics gives you
+two of these um because it works with
+the bonus action shove and it also
+guarantees that you'll be able to make
+an attack of opportunity on your
+reaction because it stops the enemy from
+pushing you away preventing you from
+hitting them if they then try to leave
+so it gives you Athletics will help you
+maximize use of your turns by virtue of
+having that and basically every
+character that has access to Athletics
+should take it even if you have low
+strength it's super useful um in all
+kinds of
+circumstances acrobatics on the other
+hand while it is very useful for you to
+avoid being shoved for all the reasons I
+just talked about it is significantly
+less valuable than Athletics it never
+comes up in dialogue or almost never
+functionally never comes up in dialogue
+and it only helps you resist being
+shoved not shove and there's no other
+check that it gets applied to in the
+game the characters that can take
+acrobatics are much less likely to care
+about being shoved because you are
+probably going to be a ranged character
+of some description um if you have
+access to acrobatics and so you are less
+likely to care about being pushed away
+from an enemy that's something that you
+really don't mind usually and the the AI
+while it will sometimes try to push you
+into dangerous locations you're better
+off just not standing near them than
+relying on making that skill check to
+avoid being shoved into lava or whatever
+just don't stand next to Lava just good
+rules for life as well as video games so
+for acrobatics I'm going to place it in
+B tier it is very useful when it comes
+up but significantly less useful than
+its counterpart
+Athletics slate of hand is used in two
+circumstances one when you want to or I
+guess three circumstances actually um
+one when you want to unlock a lock two
+when you want to disable a trap and
+three when you want to pick someone's
+pocket all of these are extremely
+important uh actions to have access to
+uh picking Pockets if you have good
+slight of hand is a source of basically
+infinite free money and resources
+throughout the game because the
+merchants will regenerate their
+inventory which you can then steal um
+and every party is going to need to open
+blocks and bypass traps many traps in
+the game you can bypass by throwing
+stuff at them or by drop clogging vents
+by tossing something on top of it
+throwing stuff at trip wires and so on
+but there are many traps that you do
+actually need to disable and it's really
+important to be able to do that uh on
+your first try otherwise you're going to
+take the Trap damage this is especially
+critical on honor mode where there are
+many circumstances where you're going to
+need to navigate a trapped area and you
+had better be able to succeed on your
+slight of hand rules in order to do that
+without triggering trap damage there's
+no reason to be taking trap damage in
+the game because it's something that you
+can avoid for free as long as you can
+make those slight of hand checks so you
+definitely want
+to have access to a way to do that and
+of course while there are other ways to
+open locked doors and chests slight of
+hand is the easiest and simplest and
+every party should try to have access to
+slight of hand stealth so stealth Ste is
+a weird one
+the you may have been able to guess of
+course that I'm going to play stealth in
+the s+ tier because it by itself can win
+you the game stealth allows you to make
+attacks and then not be detected by
+enemies if you have a high enough
+stealth score this lets you make free
+attacks outside of combat without
+triggering combat and if you have a high
+enough stealth score maybe with use of
+pass without Trace greater invisibility
+Advantage from uh your your character
+race maybe light foot halfling to reroll
+ones you can guarantee that you pass
+these stealth checks um combined with an
+invisibility effect and pretty much end
+every encounter before it starts just by
+shooting enemies with stealth arrows
+they then fail their their perception
+check to see your character and you get
+to just kill them all before they ever
+know you're there this is obviously
+incredibly powerful it's something that
+every party can benefit from and it's
+critically important to most solo
+strategies in the game um while I think
+that the stealth Archer isn't the only
+way to solo you'll often hear that it or
+you'll often hear that the stealth
+Archer is the only way to solo Boulder's
+Gate I disagree with that assessment but
+it's certainly a very very strong way to
+solo Boulders gate on high difficulty
+settings and you need good stealth
+checks to have access to it something
+that is worth mentioning about Stealth
+is that if you aren't cheesing enemies
+from outside of combat it's less
+impactful than you might think in terms
+of actually making sneak attacks and
+stealth attacks this is because enemies
+only ever roll against your stealth if
+you are in their lines of sight so if
+you make if you hide your character
+outside of enemy line of sight they'll
+never roll to detect your character so
+you can even if you are the clunkiest
+Paladin in heavy armor with no points in
+stealth you can still be perfectly
+hidden as long as nobody's actually
+looking at where you
+are this lets you bypass stealth checks
+but also sort of more importantly lets
+you get use stealth with non- stealth
+characters um so I don't think that's a
+a knock against the stealth skill but it
+is something to keep in mind when you
+are actually trying to hide your
+characters all right that's all the
+dexterity skills let's talk about the
+intelligence skills these I think it's
+pretty tempting to group all together
+because these are skills that only come
+up in dialogue or when kind of
+investigating something or looking at uh
+a specific object they're not skills
+that you ever use in combat or anything
+along those lines so basically there's
+no organic non-scripted way for these
+skill checks to come up they only will
+ever come up if the writers decided to
+include a a check there for you to to
+make um for for that reason there are
+two things that hold them back in
+Boulder's Gate one is that you can't
+have these skills usefully on non-
+dialogue characters for the most part if
+you because how balder's gate Works only
+the character that's actively doing the
+conversation can roll skill checks for
+it which incidentally is one of my least
+favorite things about the game um this
+means that if you are talking with your
+main character and have Gail standing
+nearby with high Arcana Gail is just
+sitting there with his thumb up his nose
+just completely not contributing while
+your character tries to figure out
+magical history or whatever this means
+that you need to have these skills on a
+character that's actually going to be
+making dialogue checks or investigating
+things in order to use them which limits
+their usefulness even further than the
+fact that they only get used when
+scripted for that reason I'm pretty much
+just going to go by whether uh by how
+often they come up in the game and the
+answer is basically that that um all of
+these skills come up somewhere around uh
+30 or 40 times in the First Act you can
+look at the exact numbers in the guide
+below which I will link like I mentioned
+except for Arcana which comes up about
+50 times anecdotally I will say also
+that Arana is the one that comes up by
+far the most often of these five
+um five intelligence skills and so it's
+the one I'm going to place higher up I'm
+going to say that Arana is fairly
+important because you make these checks
+quite frequently and also it's often
+duplicating something that you would
+have gotten from one of these other
+skills the game will very often offer
+you like can you you can make an Arcana
+check for this or you can make a history
+check you can make an Arcana check or
+you can make a religion check and so
+Arana will often be superseding having
+access to Arana will often supersede
+having access to these other
+intelligence-based skills all the other
+ones I think are basically C tier um as
+long as you have one of these
+intelligent based skills and the one
+that comes up the most often is going to
+be the the most important of these um
+then you're going to be able to pass
+most of the dialogue checks for which
+it's required there is some important
+mention uh for religion specifically
+giving you Inspirations especially in
+the early game when you need them so
+actually I'm going to bump religion up
+one tier
+because uh Inspirations are are quite
+valuable in act one specifically where
+it's often harder to get get them and
+there's several religion checks you can
+make in the early game to stock up on
+your first four Inspirations you can
+have a maximum of four Inspirations
+which let you reroll a really important
+skill check like for example disabling a
+trap with slight of
+hand animal handling and the other
+wisdom skills are pretty interesting so
+animal handling lets you make skill
+checks to interact with animals however
+there is a spell in the game that
+requires no resources and bypasses as
+far as I know 100% of all animal
+handling checks that you'll ever make
+during the game if you have speak with
+animals you can use persuasion uh you
+you can either use dialogue skills or
+simply bypass every single animal
+handling check that you would otherwise
+make in the game uh there might be like
+one or two exceptions but if so I
+haven't encountered them personally if
+anyone knows of one that you can't use
+speak with animals to bypass then
+definitely let me know um but for that
+reason animal handling is as far as I
+can tell 100% or
+99.5% completely useless just if you
+would want to make an animal handling
+check instead just drink a potion of
+speak with animals or have speak with
+animals available in your party so that
+somebody can cast it and this will let
+you bypass every animal handling check
+you would otherwise uh be making which
+is a little sad be but given that we
+can't ride horses or anything like that
+sort of inevitable for this game not to
+include animal handling checks something
+that I should also mention here is that
+um I'm talking specifically about these
+skill checks in Boulder's Gate if you
+were to go on and play a a tabletop game
+under a DM then how they set up their
+skills their their skill checks would
+significantly affect this tier list for
+example a DM who likes to give you
+background lore and advantages
+you may want to in invest more heavily
+in history or investigation or something
+so this is specifically only for the the
+balers Gate's implementation of these
+skills um I don't know how many people
+go on from balers gate to play tabletop
+D and D but I think it is kind of
+important to mention that things are not
+exactly the same because the world will
+react to you thanks to you having a DM
+who will be able to do that for
+you Insight Insight is functionally the
+same as the other uh dialogue skills the
+the Charisma skills or the same as the
+investigation skills it can only be used
+during dialogues or interactions with
+objects scripted events in other words
+and it comes up significantly less often
+than all of the Charisma based dialogue
+skills so while there are cases where
+you're going to roll insight and it does
+come up occasionally most of the time it
+is going to either give you a
+a an edge that you would be able to get
+anyways just by making a a persuasion or
+performance check or something like that
+persuasion or deception or intimidation
+check or it's going to give you um
+marginal information that you don't
+really need in
+Insight from my anecdotal experience is
+very rarely a source of inspiration um
+it might depend a little bit on your
+your character backgrounds but in
+general the ways that these knowledge
+skills work to give you advantages is by
+giving you inspiration Insight doesn't
+do that that often it does sometimes
+give you some advantages in dialogue but
+not nearly as many as the actual
+dialogue skills so for that reason we're
+going to place it in C tier as
+well medicine so medicine is very
+interesting just like uh many of the
+other wisdom skills it mostly only comes
+up in prescripted moments in
+conversation there's a couple really
+important ones of these though uh one in
+act two and one very early on which I'll
+actually spoil because it can give you
+advantage on the role to um extract the
+brain and get us on the nautiloid this
+is basically the first thing you do in
+the game so I don't think that's a a
+particularly important spoiler advantage
+on that role is actually very important
+because us is a very valuable combatant
+and also gives you a powerful resource
+um later on on the nautiloid when you're
+trying to win the cambion fight and as
+as well later on in the game medicine
+also has a non-scripted use in one
+particular circumstance that makes it
+significantly better than it looks at
+first use at first glance and that's
+that a level six transmutation wizard
+can make a medicine check in order to
+get two potions instead of one when
+doing Alchemy if you have a level six
+transmutation Wizard and remember that
+you can Respec a hling or just a
+companion who stays at your camp making
+potions for you and have skill in
+medicine on them it becomes incredibly
+powerful because it doubles your
+resource output when you're trying to
+make the extremely powerful late game
+potions elixir of cloud giant strength
+blood lust and so on getting two of
+these for every one makes it much more
+likely that you'll have them for
+important fights and important long
+rests you get important potions like
+potions of speed much more often in the
+early game or in the in the mid game um
+if you have the if you can reliably make
+this medicine check so medicine on
+specifically your Alchemist is very
+important however if you aren't using
+that particular uh class it's not very
+important so with a transmutation wizard
+I'm going to say medicine is an a tier
+skill without a transmutation wizard it
+would fall somewhere in C tier um being
+useful primarily for one or two scripted
+events it also does not similar to
+Insight will not give you you
+inspiration as often as the history or
+nature checks and and so on um but the
+use of getting multiple potions is just
+so powerful that it's worth bumping
+medicine up a couple tiers to talk about
+that perception perception is used in
+two major circumstances and occasionally
+in dialogue the two main circumstances
+where it's used are detecting stealth
+enemies and detecting traps now balers
+gate enemies mostly don't uh stealth
+there's a couple cases where you can
+detect them using perception but for the
+most part you're using this to detect
+traps however that by itself is
+critically important like I talked about
+in slight of hand being able to detect
+traps and disarm them safely is
+massively important especially for your
+honor mode runs where you need to be
+able to avoid taking unnecessary damage
+especially if you want to avoid frequent
+long resting um outside of combat or
+wasting a lot of potions and stuff on
+damage that you didn't need to take
+there are also traps in the game that
+can just completely end your run um if
+you happen to miss them and some of
+those are ones that there aren't really
+good ways to bypass other than actually
+disarming them and so being able to find
+and disarm them is critically important
+perception does also come up in
+occasional dialogues and something that
+actually kind of adds insult to injury
+when it comes to Insight um which is
+very alliterative is that there are a
+bunch of checks in the game that I think
+should be Insight checks that you make
+with perception instead um although
+that's something that actual DMS are
+guilty of pretty often too so it's not
+that surprising to me but perception in
+general is going to come up massively
+frequently in the game it's something
+every party should have access to one of
+the best generically best skills and uh
+if there's one thing that you should
+take as a lesson if you want to transfer
+some balers gate knowledge to tabletop D
+and D it's get perception on everybody
+it's the most important skill in the
+game
+survival survival is used in Boulders
+gate only for detecting where you can
+dig to find chests full of random loot
+in and of itself this isn't that good
+because the random loot that you find in
+these chests is just not that important
+you know it's it's nice to have some
+additional potions Scrolls some extra
+items and and whatever most of these are
+things you'll be able to buy from
+Merchants instead and in the mid to late
+game money does not be really become an
+issue however it it's even worse than
+that because whenever you you uh fail a
+survival check the game says you failed
+a survival check and what you can do is
+just select the shovel in your inventory
+and dig anyways and you can dig up those
+chests without having succeeded on the
+check for that reason there is literally
+no reason to invest any points in
+survival I think there might be one
+dialogue where it shows up during the
+entire game um let me check with the the
+neoseeker guide says Neo Seeker guide
+claims there are five I don't know if I
+actually believe that
+um but even if there's five dialogues
+with survival it's just really not that
+important and its main use you can
+bypass with 100% deficiency just by
+digging in the location where the game
+told you you failed to check you should
+pretty much always avoid putting points
+in survival unless it's for for um
+flavor or just to uh just because you
+have literally no other skills that you
+can
+select all right finally let's talk
+about the Charisma skills it's pretty
+tempting to lump these all together
+because they all fill basically the same
+role you're going to use them to talk an
+enemy around to do something that you
+want them to do now or or an enemy or
+NPC or Ally um they're used against your
+companions pretty frequently as
+well and one reason I think that it's
+tempting consider these as being all
+equivalent is that if you were playing
+tabletop D and D they pretty much are if
+you have a situation where you need to
+like talk your way past a guard or
+something like that you can say you
+could say all right I lie to him and say
+I have an important mission on the
+inside I intimidate him and tell him
+I'll beat him up if I uh if he doesn't
+let me in I persuade him that it would
+be in the best interests of National
+Security to let me in you know that kind
+of thing your DM might set different
+difficulty settings for all of these uh
+but in general you're going to be able
+to use any of these skills relatively
+interchangeably whenever you need one of
+them if you are uh creative and and good
+at role playing in Boulders gate though
+you can only use them if the writers
+gave you the option to do so and so the
+number of times when they come up is
+actually really important for
+determining which of these is good and
+which of these is less important given
+that let's take a quick look at the at
+the numbers and we can learn that there
+are 293 persuasion checks 209
+intimidation checks and 147 deception
+checks as well as 44 performance checks
+although I'll talk about that one in a
+second what this means is that
+persuasion is wildly more useful than
+the other two because not only are there
+way more cases where persuasion comes up
+almost all of the cases where the other
+two come up you can still just use
+persuasion instead most of the time when
+there's a deception or intimidation
+check there's also a persuasion check
+and if you play through the game you're
+going to you're going to see that this
+uh as you play through the game you're
+going to see that that's pry much the
+case in almost all circumstances
+persuasion is also the skill that is
+used in the most important dialogue
+checks in the game which can let you
+bypass very difficult boss encounters
+gain access to um wildly powerful
+artifacts well ahead of where you're
+supposed to be able to uh and do all of
+some of the really coolest things in the
+game
+for that reason I'm going to say that
+persuasion is an important skill you
+don't need it it's not critical to your
+playthrough but you can you can get by
+without any dialogue skills but if you
+want to do any dialogue then persuasion
+is one that you should definitely have
+access to because it will buypass almost
+all the things that the other two uh
+dialogue skills do um and is will make a
+lot of encounters significantly easier
+if you can regularly make your
+persuasion checks deception or
+intimidation I'm going to say is useful
+because it comes up more often than
+deception and deception I'm also going
+to say is useful um in part because
+while Deception comes up less frequently
+than intimidation um at least according
+to the guide I think in general it is
+used to make more important checks um
+and you can use it especially to avoid
+being arrested which is a a case that it
+comes up that's not scripted um so you
+can you can use uh deception persuasion
+decep or persuasion both to be to avoid
+being arrested typically um it depends
+on the location which of these dialogue
+skills are available to avoid being
+arrested and and who is attempting to
+arrest you but I think almost always
+persuasion and deception will work some
+people will be intimidated and some
+won't um but deception while it comes up
+less often than intimidation is
+typically for more useful checks I think
+in
+general for performance there are two
+uses one is scripted uses in dialogue of
+which there are a few in some of the
+mark quite good and one is to just make
+money um and distract people so when you
+start performing you just make a
+performance check NPCs nearby will come
+watch you sing um which can be used
+basically in place of minor illusion to
+pull enemies away from or to pull people
+away from things that you might want to
+steal or whatever and also you can make
+a little bit of money off of it I would
+say that that's got somewhat marginal
+utility but given that it has some
+utility and also comes up not
+infrequently in dialogue I think it is
+going to be better overall than most of
+the marginal skills um so I'm going to
+put it in useful but you could very
+easily put this in in the marginal
+section as well I think it's it's on the
+edge
+here all right so that is all of the
+skills ranked as you can see in s+ tier
+we have stealth in critical to have for
+every party s tier we have Athletics
+slate of hand and per ception important
+skills include Arcana medicine and
+persuasion useful skills include
+acrobatics religion intimidation
+deception and performance marginal
+skills history investigation nature and
+insight and completely and utterly
+useless skills animal handling and
+survival I hope that you've enjoyed this
+look at the boulders Gate 3 skills
+definitely let me know if there are
+things that I wasn't considering that
+you would want me to move one of these
+skills around in order um but I think
+this is a a pretty solid basis I think
+if you have access to these seven skills
+or at least say five of these seven
+skills in the um in your party you're
+going to have a pretty good run through
+the game um I would recommend generally
+getting access to persuasion if you want
+to do any dialogue skills so unless your
+your concept for your party is that you
+are very bad at talking to people you
+should probably try to have access to
+persuasion and of course you only need
+medicine if you're doing the
+transmutation wizard but in general I
+think you're going to be best off you're
+going to be best served by having at
+least these six skills available for
+every
+party um and the others you can sprinkle
+into taste all right my friends hope
+you've enjoyed this look at of the
+balers gate skills let me know if you
+like this type of content like tier
+lists and and detailed discussions of
+this kind of thing skills is a somewhat
+simple one of course we could do tier
+lists for classes Feats spells Etc and
+as always of course if you enjoyed this
+video do please feel free to subscribe
+to my channel for more of this and other
+strategy game content like the video uh
+because that helps with the algorithm
+and leave a comment if you have
+something to say cheers my friends I'll
+catch you next time

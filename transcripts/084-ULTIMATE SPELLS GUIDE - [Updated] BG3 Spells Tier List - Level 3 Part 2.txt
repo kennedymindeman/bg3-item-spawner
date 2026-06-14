@@ -1,0 +1,1379 @@
+Hello, my friends, and welcome back to
+another Balders Gate 3 tier list and
+guide. Hope you're all doing well.
+Today, we're continuing my ultimate
+updated guide to spells, the second half
+of the level three spells, and thanks to
+a quirk of the alphabet, this is just
+nonstop bangers. I've already gone over
+the rating system and definitions of the
+tiers when talking about the level one
+spells. So, we'll just hop right into
+it. But before I begin, I do want to
+take a quick moment to say thank you so
+much to Eduardo Franco for the 5
+donation. Nubadir for the two pounds,
+Lucas Tomsu for the 250 crona and
+Micro123 and Intention for becoming
+channel members. Thank you so much, my
+friends. I really appreciate your
+support. All right, let's talk some of
+the best spells in the game. We're going
+to start with one of the most discussed
+spells in the game, haste. Haste is a
+concentration buff spell. You cast it on
+an ally or yourself and the creature
+that you target gets for 10 turns plus
+two armor class advantage on dexterity
+saving throws, 30 ft of extra movement
+speed, and an extra action every single
+turn. Now, the haste action is actually
+kind of funny because it works
+completely differently in tabletop D and
+D than it does in Boulders Gate 3. And
+it works differently in Boulders's Gate
+3 depending on the difficulty mode that
+you're playing on. In tabletop D and D,
+haste only lets you make one extra
+attack each turn or a movement option
+like a dash or a disengage. In Boulder's
+Gate 3, it lets you do a lot more than
+that. So, the spell has been
+significantly buffed compared to its
+tabletop version. On tactician mode or
+lower, the haste action works exactly
+the same as any other action. You can
+cast a spell with it. You can make an
+entire extra attack with it, including
+if you have the extra attack feature,
+multiple attacks. A hasted fighter at
+level 11 or higher can make six attacks
+per turn, or nine if they use action
+surge, which adds a ridiculous number of
+extra attacks to your party. Being able
+to cast two fully leveled spells per
+turn is also incredibly powerful. A lot
+of burst damage spells like fireballs do
+a lot better if you cast multiple of
+them in a turn because you're much more
+likely to fry every enemy in an
+encounter. It basically on tactician
+mode or lower is like adding a whole
+extra party member to your party because
+giving a character an extra action just
+doubles their effectiveness. And like I
+said in my previous review of haste two,
+Carlax plays just as well in game as it
+would on Tumblr. So, you can see how
+this is an incredibly powerful spell. On
+honor mode, it works a little bit
+differently. When you're making an
+attack with the hasted action, you can
+only ever make one attack, even if you
+have extra attack. But you can still
+cast spells, perform movement options,
+or do anything else that requires an
+action, uh, like throwing an item or
+reactivating a spell like call
+lightning. All of those you can still do
+with haste on honor mode. Um, so while
+it is a little worse for weapon
+attackers, it still provides a ton of
+additional value for any character that
+is mostly not attacking with weapons or
+makes only one attack per turn. It's
+also still just very good for weapon
+attackers. One extra attack per turn is
+still excellent. When you strip all the
+colored lights and fancy words away,
+Balders's Gate 3 combat is really just
+about one thing, increasing the ratio of
+actions that you take to actions that
+your opponents take. There's a lot of
+ways that you can accomplish this. You
+can kill enemies before they act. You
+can lock them down with control spells.
+Or you can increase the number of
+actions that your party takes. And haste
+is the most direct way to do that. So,
+it is the most direct and one of the
+most powerful ways to accomplish the
+main thing that you are trying to do
+when playing Balders's Gate 3. It
+fundamentally works so well with the
+basic strategic plan of what you're
+attempting to do in the game that it is
+an invaluable tool. Now, there are a
+couple downsides to haste. One is that
+it's a concentration spell, so you can
+have your concentration broken. And when
+a character becomes unhed when they lose
+haste, i.e. by having the spell
+canceled, concentration broken, or just
+by having it expire, they get the
+lethargic condition for one turn, which
+stuns them and prevents them from
+acting. Having your haste caster drop
+concentration at an inopportune moment
+can be pretty dangerous. So, you need to
+be a little careful with positioning or
+use spells like sanctuary or
+invisibility in order to keep that
+character safe while they're hasting
+your other party members. There is also
+uh the potion of speed which exists in
+the game which duplicates the effect of
+haste. So, you will sometimes people see
+people say that you don't need to
+actually cast the haste spell. uh you
+can just use potions of speed instead. I
+disagree with this. Potions of speed are
+a relatively valuable resource. And
+haste is an incredibly powerful tool.
+The fact that you can cast it before
+combat starts and have 10 turns of extra
+actions for the entirety of a combat
+without having to spend a single action
+during combat is incredibly powerful.
+The spell itself is going to last even
+for longer combats, although it will
+also shorten combats significantly
+because of how powerful it is. Um, so
+you still do, I think, want to cast the
+spell. It's especially good for
+sorcerers who can twin spell it and get
+two copies of haste for a single spell
+cast. Uh, but even characters who aren't
+sorcerers can still make tremendous use
+of this spell to duplicate your actions.
+The best characters to cast haste on in
+honor mode are characters who um are
+making whose actions are extremely
+valuable and who are usually not doing
+things like weapon attacks. Although
+putting it on a fighter is still really
+good. Just giving them an extra attack
+every single turn is also still
+excellent. But putting it on a warlock
+lets them double up on eldrich blasts.
+Putting it on a character who's
+concentrating on per turn effects like
+call lightning lets them double up on
+those. So those are your best targets,
+but really you can just slap haste down
+on anyone in your party, and it will be
+tremendously powerful. This spell
+directly affects the action economy, the
+most important thing in the game. It
+also gives you a bunch of really nice
+defensive buffs, obviously. S tier,
+hunger of Hadar. Hunger of Hadar is a
+warlock battlefield control spell. Cast
+it on the ground and it creates a 20ft
+radius area of difficult terrain in
+which enemies are blinded with no saving
+throw. So, just like fog cloud or
+darkness. Uh, and creatures that start
+their turn in it take 2d6 cold damage.
+Creatures that end their turn in it take
+2d6 acid damage with a dexterity saving
+throw to negate. Now, the deck save is
+bugged and always uses a save DC of 12
+rather than the caster's DC. So, the
+acid damage usually won't go off from
+hunger of Hadar. Um, but it will still
+happen sometimes. And the effects of the
+spell are so powerful regardless that
+even including that bug, this spell is
+still incredible. This is a huge area of
+a no save blind and consistent damage.
+It's cold damage, so wet enemies are
+going to take double damage. It's
+difficult terrain, so it's really hard
+for enemies to get out of the hunger of
+Hadar. And because they're blinded, they
+can't jump out of it. A character that's
+blinded can't target anything further
+than melee range from itself. and jump
+requires them to target a space on the
+ground. So unlike a lot of other
+battlefield control spells, hunger of
+Hadar forces enemies to stay inside it
+and use their actual movement speed to
+get back out. Once they do that, which
+is often going to take them multiple
+turns, especially if you combine it with
+something like plant growth to slow them
+down even further, you can see my uh my
+recent video, the most underrated spells
+in Balders's Gate 3, for an example of
+this in practice. Um, you can often just
+push them back in. Most warlocks are
+going to have repelling blast, which is
+an easy way to shove enemies around, and
+most parties will have at least one
+strength character with a good athletics
+check, so you can push enemies just
+right back into the hunger of Hadar once
+they finally make their way out of it.
+This is one of the easiest ways to just
+shut down an entire encounter. Slapping
+Hunger of Hadar down on top of another
+battlefield control spell is just
+fightinning on pretty in pretty much
+every fight where enemies are not immune
+to blind. You get consistent damage.
+They stay stuck forever and you just
+keep them shoved into the hunger of
+Hadar while peppering them with ranged
+attacks and pushing them back in if they
+happen to manage to escape. Hunger of
+Hadar is such a game-changing spell that
+it alongside counter spell are in my
+opinion the two spells that as a loreb
+with magical secrets which is one of the
+most uh powerful abilities in the game
+to choose any spell. Uh those are the
+two spells you're most likely to choose.
+So this spell is just absolutely top
+tier when compared to almost any other
+spell in the game. It's one of the ones
+that you're most likely to grab with an
+ability that lets you get that. That
+should give you some idea of just how
+good this spell is. Hunger of Fedar on
+top of any other uh control effect or
+damaging effect will just win a fight
+outright. So, of course, S tier hypnotic
+pattern. Hypnotic pattern is an AoE
+control spell. It's concentration based
+and has a 30ft radius and a 60 ft range.
+So, you can hit enemies up to 90 ft away
+uh with it. And it's 60 ft across in
+terms of the area of effect. So you'll
+almost always be able to hit a whole
+encounter or all but like one enemy with
+hypnotic pattern. Enemies inside the uh
+hypnotic pattern have to make a wisdom
+saving throw or they become
+incapacitated for two turns. They it
+works similar to sleep where they can be
+woken up when they take damage or by an
+ally who uses the help or shove action
+on them. Um, so you will have to try to
+hit the entire encounter with hypnotic
+pattern. Otherwise, the enemies are
+going to wake themselves up. But if you
+do hit the entire encounter, then for
+two turns, they can't do anything, and
+you can just wake them up one at a time
+by killing them. Obviously, being able
+to shut down an entire encounter in a
+gigantic radius is an incredibly
+powerful tool. It's just one wisdom save
+for two full turns of disable. They
+don't get another save to get out of it.
+So, in any fight where you can where you
+can catch the entire group of enemies in
+hypnotic pattern, it's going to be the
+best control spell available. I'm going
+to give it a tier because hypnotic
+pattern, fear, and sleeptorm are all
+control spells that lock down entire
+encounters. They each have their use in
+different encounters. So, you usually
+won't be using just one of these in
+every single encounter, but you will
+probably use one of the three in almost
+every single encounter. So, you're going
+to want all of them for your party.
+Hypnotic pattern just wins fights. A2.
+Lightning arrow. So, no matter where we
+put this spell, it's going to break the
+very pleasing symmetry that we've
+developed so far. So, I'm already kind
+of biased against it. Lightning arrow is
+a level three ranger spell, so you don't
+get it until you are character level 9
+as a ranger. And it's a direct damage
+spell. You make a ranged spell attack
+roll. So that's going to use your wisdom
+as a ranger, which probably means it's
+less likely to hit unless you've built a
+very high wisdom ranger. Um, and if that
+attack hits, then the primary target of
+the lightning arrow takes 4 d8 lightning
+damage, which is not terrible damage for
+a third level spell slot, but isn't that
+exciting either. Then they and
+everything within a 10-ft radius has to
+make a dexterity saving throw uh against
+2d8 lightning damage. So against the
+primary target, it can be up to 6d8 if
+they fail. Um, and if they succeed the
+save, they still take half damage.
+Everything within the the explosion will
+always go off, even if you miss the
+initial attack. It's also worth noting
+that the initial attack doesn't show up
+in the combat log. Sometimes you'll just
+see this spell not do damage for no
+reason. Uh, that's why it's because you
+missed the initial attack against the
+enemy and then the 48 damage didn't go
+off. So basically, you are using this
+spell to have a low chance of doing a
+medium amount of damage to one single
+target and then do a really bad fireball
+um at enemies that have to be centered
+around that single target. The amount of
+damage that this spell does is simply
+not worth a third level spell slot. And
+it's extremely unreliable because your
+save DC and your chance to hit are both
+going to be pretty low on a ranger at
+level 9, unless you've done a very
+unusual build where you're maxing wisdom
+on a ranger. And you're a ranger. You
+have weapon attacks. If you want to do
+direct damage to an enemy, just hit
+them. Shoot them with your bow or hit
+them with your sword. Casting Lightning
+Arrow is almost certainly going to do
+less damage than just making weapon
+attacks. Cost you a third level spell
+slot and probably won't hit in the first
+place because your safe DC is really
+low. This is a damage spell that is
+weak, unreliable, and poor damage.
+Dtier, lightning bolt. Lightning bolt is
+an area direct damage spell. It shoots
+in a 100 ft line originating from the
+caster. Um, and everything within that
+line takes 8 d6 lightning damage with a
+dexterity saving throw for half. That's
+the same damage as fireball. So, 28
+average damage, but it's lightning
+damage. So, in Boulders's Gate 3,
+enemies who are wet will take double
+damage from it. Um, and many fewer
+enemies resist lightning damage than
+fire damage. So, generally speaking,
+it's going to be a better damage type.
+funnily enough, uh, the 100 foot line
+from Lightning Bolt extends a little bit
+behind the caster and is 5 feet wide,
+which makes it almost exactly the same
+square footage that it covers as
+Fireball. Fireball is a 13t radius
+circle or about 530 ft. And lightning
+bolt is a 500 and a bit foot line, so
+about 500 square ft. So they actually
+cover almost exactly the same amount of
+ground, just in very, very different
+shapes. It's a little harder to get lots
+of enemies in the lightning bolt than it
+is fireball, but it also has longer
+range, which can be relevant in some
+arenas. And if you move to line up
+enemies or if enemies have moved in a
+line towards you, then lightning bolt
+will sometimes be easier to hit multiple
+enemies in. In particular, if you've
+started a fight by backing up, which is
+not an unreasonable thing to do if you
+have a lot of spellcasters and enemies
+have moved towards you, they'll often
+move towards you and form into a line
+because many en many encounters have
+enemies with different movement speeds
+and then you'll be able to hit the
+entire encounter with the lightning
+bolt. So, while usually you're going to
+hit like slightly fewer total enemies
+than fireball, in practice, it will be
+very similar and the damage type is much
+much better, um, and it's got much
+longer range. So, you can use this in a
+lot of encounters where you can't use
+fireball. If you want a direct damage
+spell, lightning bolt, I think, is just
+the better choice in general. Uh, it's
+going to hit the same number or in some
+cases even more enemies. It does much
+better damage and of course you have the
+wet condition to multiply the damage. It
+also has a lot of synergies with things
+that uh care about lightning damage like
+reverberation charges and so on. So
+lightning bolt is going to be the better
+choice for direct damage for the
+characters that can cast it. I'm going
+to give it a tier. I think you still
+probably won't use lightning bolt in
+every encounter, but if you just need to
+blow up a bunch of enemies, this is
+usually the best way to do it. Uh so a
+tier is perfect for lightning bolt. Mass
+healing word. Mass healing word is
+healing word, but it hits everybody
+within a 60-oot radius instead of just
+one target. Still only takes your bonus
+action and heals them for 1d4 plus your
+spell-casting modifier plus any
+additional bonuses that you have on
+healing. So, it's a great AoE way to
+apply all of the buff on heal items.
+Mass healing word is usually not going
+to be used for the actual healing
+effect. Although if you have had
+multiple characters get knocked
+unconscious, max mass healing word will
+bring them both back to their feet. Um,
+but mostly is just going to be used as a
+way to reapply the buff on healing items
+in a giant AoE. It's 60 ft radius around
+the caster. So, it is extremely likely
+to hit your entire party, including
+summons and stuff like that. So, you can
+end up with a decent amount of healing
+value out of this, but mostly this spell
+only exists to apply those buffs. Those
+buffs are incredibly powerful and a lot
+of honor mode parties are going to have
+a character using the hell rider's pride
+and the whispering promise to apply them
+and masculine word is the best way to
+apply them. So for any party with a
+dedicated healer, this is going to be a
+mandatory spell. It also works very well
+with other effects that increase your
+healing like life domain cleric or for
+dedicated healers to be able to boost
+their entire party's hit points
+dramatically. um because this is a bonus
+action and you can do something else on
+your turn. So although this is very
+expensive spell slot-wise in terms of
+action economy, it's a very low cost and
+you're going to end up using this in a
+lot of fights that go long to add a
+little bit of healing, get downed party
+members back on their feet and reapply
+the buffs to your entire party. Mass
+healing word is certainly less versatile
+and impactful than healing word because
+uh it costs a level three spell slot
+instead of a level one and that's a
+tremendously higher cost, but you're
+definitely going to use this spell a
+lot. So a tier. Next up, plant growth.
+Plant Growth is a groundargeted
+battlefield control spell. It does not
+take your concentration unlike most
+Battlefield control spells and has a
+20ft radius in which everything has its
+movement speed reduced to one quarter.
+One quarter movement speed basically
+means that most enemies can't move. So
+if you have some way to keep them from
+jumping out of the plant growth melee
+enemies are completely shut down by this
+spell. Conveniently, you'll notice that
+a 20ft radius with a 60 ft range is
+exactly the same as hunger of Hadar. So
+layering plant growth underneath hunger
+of Hadar is one of the easiest ways to
+just win an encounter outright. For an
+example of this in practice, you can see
+my video, the most underrated spells in
+Balders's Gate 3, where I said that
+plant growth is one of, in my opinion,
+the five most underrated spells in the
+game. I often see people saying they
+don't see the use of this spell, but
+turning off enemies ability to interact
+with the party is, of course, extremely
+powerful, and this does that very, very
+well. You do have to combine this with
+another source of damage or some other
+way to shut down enemy movement,
+teleportation effects, and jumping.
+Otherwise, enemies will often be able to
+jump out. But against enemies that can't
+jump, uh either because they naturally
+can't jump or because you've blinded
+them with fog cloud or hunger or
+darkness, uh plant growth will
+absolutely shine. Melee enemies will be
+completely incapable of interacting with
+you. Ranged enemies will be stuck inside
+the blinding clouds for turn after turn
+after turn. And if they do manage to get
+out, you can usually just shove them
+right back in. Plant growth is also
+notable in that of course it is not
+concentration. So you can layer this on
+top of a concentration debuff um with
+the same character, especially with a
+hasted action. Casting plant growth and
+hunger of Hadar is very possible for the
+same character to do in the same turn.
+Or you can have another character who's
+concentrating on something like haste
+cast the plant growth uh while your
+warlock casts hunger of hadar and those
+make incredible combos. There is one
+major downside of plant growth which is
+that it is flammable and it is very easy
+for the effects on the ground that are
+flammable to just be randomly destroyed.
+Either enemies will do a random bit of
+fire damage and set it on fire. Your
+party will often have fire damage
+attached to their weapons or spells. So,
+you have to be careful about what you
+use. And it's pretty easy to
+accidentally just put this on top of a
+torch or area of fire on the ground and
+just have it catch fire immediately when
+you cast it. So, you do have to be kind
+of careful with where you place the
+spell. Plant Growth, I think, is going
+to be excellent in some encounters and
+uh not very good in other encounters cuz
+if enemies have fire damage, it mostly
+won't do anything. And if it's mostly
+ranged enemies, you won't use plant
+growth. But when combined with another
+effect that shuts down enemy movement um
+in against melee enemies, plant growth
+is unbeatable. I'm going to give it B
+tier because it does have to be used
+strategically alongside other spell
+effects and combined in order to win
+certain encounters. Uh but plant growth
+when it's good is incredibly good.
+Protection from energy. Protection from
+energy is a dayong concentration buff
+spell. You cast it on an ally and it
+gives them resistance to an elemental
+damage type of your choice. So you can
+choose acid, cold, fire, lightning, or
+thunder damage, and the creature will
+take only half damage of any damage of
+that type. This is obviously very
+powerful if you're going into an
+encounter where you're mostly going to
+be taking one type of damage. Um,
+protection from energy just makes those
+encounters vastly less dangerous. So
+taking only half damage from a
+particular damage type is incredibly
+strong, of course. Uh, so the upside of
+this spell is very high. Unfortunately,
+the cost of the spell is also really
+high. A level three spell slot and your
+concentration mean that the character
+that is casting this is going to be
+significantly weakened by losing those
+resources and not being able to
+concentrate on anything more powerful
+for that fight. So only in fights and it
+only targets one creature. So only in
+fights where you're mostly going to be
+taking entirely one type of damage and
+you can protection from energy um to
+like get the rest of your party
+resistant to that damage type alongside
+other sources of resistance. Are you
+usually going to want to cast this
+spell? There's a lot of ways to
+passively gain resistance to elemental
+damage types. Things like the darkfire
+short bow will give you resistance. Um,
+there's other spells that don't take
+your concentration like fire shield that
+can give you resistance. Uh, and there's
+of course the resistance elixir which
+are very powerful when going into those
+types of encounters also. So, you may
+not need to actually cast the spell in
+order to get this effect. But for some
+encounters and for some damage types
+where it's harder to get the resistance
+elixirs, in particular thunder themed
+enemies, it can be very hard to get
+resistance to thunder damage. Um though
+you can use silence to make yourself
+completely immune to thunder damage. So
+there's still ways to break out of
+thunder damage. Um but if you know that
+you don't have another way to resist a
+particular damage type and are going
+into a fight that features that damage
+type a lot, protection from energy can
+be a good choice. I'm going to give it C
+tier because there's just a lot of ways
+to duplicate this effect for cheaper.
+But it is a very powerful effect. So, if
+for whatever reason you don't have any o
+of the ways that you can get it, uh,
+protection from energy can still be
+pretty useful. You just usually will
+have another way to get it for that is
+less expensive. Remove curse. Remove
+curse lets you remove a curse. It does
+exactly what it says in the name.
+There's a few story events and a couple
+spells that count as curse. Of course,
+the bestow curse spell is a curse, which
+you can remove with remove curse. And
+there's also a bunch of story events
+that can apply curses to your party
+members, uh, which you will want to
+remove. A lot of them get removed when
+you long rest, so you won't always need
+to actually cast remove curse, but there
+are a few story event curses that, uh,
+do not get removed when you long rest,
+and this is the way to get rid of them.
+You obviously won't have this spell
+prepared most of the time because, um,
+you can just swap it in whenever you get
+a curse that you need to actually get
+rid of. But this is the way to do that
+when you do want to remove one of those
+story event curses which can actually
+have some pretty debilitating effects.
+So you will want to cast this at various
+points in the game when your party is
+afflicted with whatever conditions it
+removes. This is therefore the perfect
+example of a Ctier spell. You're going
+to use it when it comes up uh which will
+be mostly at scripted story event points
+and otherwise you will never use it. So,
+the main challenge with remove curse is
+remembering that it exists so that you
+can use it when appropriate. Ctier for
+remove curse. Revivify. Revivify is a
+funny spell in Boulders's Gate 3 cuz it
+actually works completely differently
+than it does in Tabletop Dungeons and
+Dragons. In tabletop, you can only use
+the spell to bring back a character who
+was killed within the last minute. But
+in Boulders's Gate 3, uh it just works
+on any dead character, so you can bring
+them back to life, more like the
+tabletop spell, raise dead. Bringing a
+dead character back to life is pretty
+powerful. If an ally got downed in
+combat and then the enemies focused them
+down before it rolled back around to
+your turn, so you had no chance to get
+them back on their feet. Revivify can do
+that for you and get a powerful
+character able to take actions again.
+They come back at one HP, so of course
+you have to heal them or find a way to
+stop them from just getting knocked down
+again. But this is a reasonable panic
+button if you are at risk of having a
+character die in various situations.
+There's also some things that you can do
+with Revivify where you can cheese
+various effects. You can use it to
+remove curses as well. Uh by just
+killing the character that the curse is
+on and then bringing them back to life.
+It'll remove most curses. Um and there's
+a few other ways that you can use
+Revivify to do some kind of gamebreaking
+nonsense. Uh if you are interested in
+that, I recommend Proxygate Tacticians
+videos because he uses a lot of revivify
+cheese to do various absurd um uh
+challenges and things like that. The
+problem with revivify as a spell though
+in Boulders's Gate is that out of combat
+you can always use withers to do this
+and in combat you can always use a
+scroll to do this. Every character
+starts with a scroll of revivify.
+Vendors have them out the ears. they're
+you're going to pick up tons of them
+just from random loot around the game
+and from scripted loot that you're going
+to get. The game doesn't want your
+characters to die, so it gives you tons
+and tons of ways to bring them back. So,
+actually casting the spell revivify is
+going to be very rare. Only if your
+characters are dying just constantly
+throughout your playthrough will you
+ever come remotely close to running out
+of scrolls. So, you will almost never
+want to actually use this spell compared
+to just using a scroll of revivify. For
+that reason, I'm going to give it D
+tier. There's just no reason to cast the
+actual spell because, well, the effect
+can be okay in some circumstances. You
+just will have it for free on every
+single character all the time. So, you
+don't need to actually prepare and cast
+this spell. Next up, Sletorm. Sleet
+storm is another gigantic area of effect
+battlefield control spell. Similar in
+usage to fear and hypnotic pattern,
+these three spells together make up the
+trifecta of ways to just shut down an
+encounter. Sleeptorm creates a 30-foot
+radius, so a massive radius uh area in
+which enemies who are caught in it have
+to make a concentration save or
+immediately drop concentration on
+anything they're concentrating on. And
+then because it creates an enormous ice
+surface, everything in it also has to
+make a dexterity save or fall prone. You
+can concentrate on this spell for up to
+10 turns, keeping the ice surface uh on
+the ground. And if the ice surface melts
+because of being hit by fire damage, you
+will refresh it at the beginning of each
+of your turns. So, it's less vulnerable
+to being melted or burned away than most
+other ground targeted surfaces because
+uh the dexterity saving throw or fall
+prone. Also, if they fall prone, they're
+going to drop concentration on their
+spells. This spell is incredibly
+effective against enemy spellcasters who
+are concentrating on something because
+if they fail either of the saves, they
+immediately lose concentration on their
+spell. Um, and then also this spell is
+just incredibly effective at shutting
+down enemies. Knocking enemies prone is
+really good for a huge number of
+reasons. Can give you advantage on the
+on attacks, can stop their
+concentration, um, and is extremely
+disruptive to enemy plans. Also slows
+them down significantly. And creating an
+ice surface, as we've discussed numerous
+times throughout this tier list, is
+incredibly strong because when enemies
+move on their turn, they have to make a
+dexterity saving throw or fall prone on
+the ice. And if they fall prone on their
+turn, they just lose the rest of their
+turn. So, anytime an enemy moves before
+taking a normal action, Sletorm has a
+chance of just stunning them. A 60 foot
+across uh area of effect stun is
+obviously incredibly powerful. And this
+spell lasts for 10 turns. Um, and it's
+fairly hard to disrupt because it's
+difficult to melt the ice surface and
+not just have it come back. So even
+though fire damage can sometimes counter
+these effects, it's much harder for for
+sleeptorm to have that happen to it. The
+downside of Sletorm is that for an area
+of effect stun, it's less reliable than
+something like hypnotic pattern. Cuz
+with hypnotic pattern, if they fail the
+save, you know they're out for two
+turns. With Sletorm, you have to wait
+until their turn. And if the enemy
+chooses to take an action before moving,
+they might just be able to act as normal
+and not get stunned. Uh so sleep is more
+generally applicable. You unlike fear,
+it's extremely long ranged and a huge
+area of effect. Unlike hypnotic pattern,
+you can catch only part of an encounter
+in it and it's still extremely powerful.
+Whereas hypnotic pattern, you mostly
+need to catch the entire encounter. But
+there is a chance that enemies just act
+normally. So, these three spells
+together will have incredible uses in
+different situations. If you can't hit
+the entire encounter, sleep is your best
+bet. If you can hit the entire
+encounter, hypnotic pattern is your best
+bet. And fear is harder to land than
+either of the other two, but is a worse
+debuff mostly. So, when fear um when you
+can land fear on a lot of enemies, it's
+usually going to be your go-to. Uh,
+that's how you're going to that's the
+basic huristic for deciding between
+these three spells. Either way, Sletor
+Storm is an incredibly powerful control
+spell, especially good against
+spellcasters, but a 60 ft radius ice
+surface is just going to make enemies
+slip and fall and like half the enemies
+are just going to skip all of their
+turns for the next 10 turns. So, it's
+very easy to just outright win an
+encounter by placing this on the ground.
+I'm going to give it a tier. And again,
+for all three of these, I feel like
+these could easily be S tier spells, but
+the fact that you will change between
+the three of them means that I I'm going
+to put them in a tier. Um, but they're
+all extremely powerful and can all win
+encounters outright. Next up, slow. Slow
+is another control spell. Uh, but unlike
+um the area of effect spells, you
+instead target six creatures with it.
+They have to be within 60 ft of you, but
+you just choose six creatures to target.
+That has a bunch of advantages because
+it means that even if your allies would
+be caught in the AoE of an area of
+effect spell, you can still use slow and
+you'll still be able to hit enemies. How
+it works is that uh the enemy has to
+make a wisdom saving throw and
+if they fail it, then they get the
+opposite of haste applied to them. So,
+their movement speed will be hald
+instead of doubled. their armor class
+and dexterity saves will be reduced by
+two and they'll only be able to take
+either an action or a bonus action and
+can't take any reactions. This is very
+powerful especially on honor mode
+because a lot of enemies have really
+solid bonus actions and on honor mode a
+lot of legendary actions count as
+reactions. So slow removing those is
+really good against certain types of
+bosses. Slow also, like some of the
+other debuffs that we've discussed,
+doesn't uh get affected by
+incapacitation immunity. So, there's a
+lot of bosses that you can use slow
+against that you can't use something
+like command or hypnotic pattern
+against. So, it's pretty powerful in
+those cases as well. Slow has more or
+less two uses cuz it's a little bit um
+oh, also it it uh prevents enemies can
+only make a single attack per turn while
+slowed as well, which obviously is
+really good. Also forgot to mention that
+um slow has a couple of uses where you
+would want to use it over another
+control spell. One where enemies and
+allies are uh grouped up really tightly.
+So an area of effect spell like hypnotic
+pattern or sleeptorm would catch a bunch
+of your allies. Slow is still very
+reliable in those situations. And two,
+when enemies are just immune to the
+incapacitation effects of the more
+devastating spells, you can still land
+slow pretty reliably. It also is very
+good in boss fights because you can hit
+the boss with it and then still also get
+value on a lot of their minions. Though,
+if you compare it to something like
+Tasha's Hideous Laughter, that's only
+going to hit the one main target, but
+any ads in that encounter will still be
+able to act. Slow can uh debuff all of
+them pretty significantly. You're mostly
+only going to use this spell when you
+can't use one of the more devastating
+debuffs because preventing an enemy from
+doing anything at all with fewer
+hypnotic pattern is better than limiting
+to them to only a few actions. But there
+are lots of times where slow is more
+usable and more reliable than these
+other spells because it is generally
+your second choice for control spell.
+I'm going to give it B tier. Um, but
+this is a second choice that is going to
+happen pretty frequently, so keep this
+spell in mind for when your other spells
+are not usable. Next up, speak with
+dead. Speak with dead allows you to talk
+with a dead character. So, you select a
+dead body, you use speak with dead, and
+then you can chat with them. They won't
+talk to you if you were the one who
+killed them, but you can use disguise
+self to get around that. So, it's very
+easy to just talk with any dead bodies
+that you want to. Obviously, you can
+only do this when the developers have
+scripted a conversation with a given
+dead character, but there's a ton of
+conversations uh with dead bodies that
+you can have using Speak with Dead. And
+some of them actually give you pretty
+interesting information. Mostly the
+mechanical benefits of talking with a
+dead character are minimal. Uh you're
+more doing this for role- playinging
+because most quests that have a Speak
+with Dead component can be solved in
+other ways. I can't offhand think of an
+encounter where Speak with Dead gives
+you a benefit that you can't get in a
+different way. Um, but this is still a
+pretty helpful way to solve certain
+quests and accomplish certain things and
+it can be very fun cuz the conversations
+with dead characters are often um just
+very satisfying and fun to do. Uh, Speak
+with Dead, of course, there are lots of
+other ways to do this. You will be able
+to get a story-based power that lets you
+cast this for free. There's an amulet
+that can let you cast speak with dead.
+So, you don't really need to know the
+spell, but it's also a ritual spell, so
+it doesn't cost you anything. If you're
+a character that can have this prepared,
+um, like a cleric, so you don't have to
+actually spend a spell known slot on it,
+uh, then you can swap in Speak with Dead
+whenever you want to use it, and it's
+free to use. Most parties are going to
+have other ways to get this, and the
+mechanical benefits aren't strong, but,
+uh, Speak with Dead will still help in
+the situations where you want it. So,
+I'm going to give it Ctier. Next up,
+Spirit Guardians. Spirit Guardians is a
+cleric damage spell, and it works kind
+of differently from almost any other
+spell in Boulders's Gate 3. It's a
+damage aura that you place on yourself.
+So, you cast it, and you can concentrate
+on it for up to 10 turns. And then any
+enemy within 10 ft of you takes 3d8
+radiant damage or 3d8 necrotic damage,
+you choose when you cast the spell, um,
+each turn with a wisdom saving throw for
+half. They take the damage both when you
+initially pass uh move next to them and
+also if they end their turn in the
+radius. So you can sometimes double up
+damage on the same character multiple
+times in a single turn cycle and end up
+with additional damage. Also very
+importantly, you can upcast this spell
+and you do an extra 1d8 of the damage
+type you chose per level that you upcast
+it. So a sixth level spirit guardians
+does 6d8 damage every single turn which
+adds up to a ton of damage very quickly.
+There's a couple things that make this
+spell extremely strong. One is just the
+sheer damage output. It bas It's easy to
+hit every enemy in an encounter with it,
+sometimes multiple times per turn. And
+all that takes is your movement. So you
+can do other stuff while you're doing
+spirit guardians damage. Um, including
+having cast spirit guardians before the
+fight starts. So, it often doesn't take
+an action to use the spell at all,
+meaning making it basically free other
+than taking your concentration and the
+spell slot, but in terms of action
+economy, you can keep casting commands
+or glyphs of warding while you're
+running around doing spirit guardians.
+Secondly, the existence of command and
+glyph of warding makes uh this spell an
+incredible choice for concentration on
+damage cuz a commanded enemy is just
+going to be stuck in the spirit
+guardian's damage for multiple turns in
+a row. So, you can use some of your best
+tools and they all synergize extremely
+well with one another when you're
+playing a cleric and using this spell.
+Your actions, your non-conseentration
+actions are so good that concentrating
+on this spell both empowers those
+actions and also means that you are
+doing the most powerful thing that you
+can every single turn. Upcasting spirit
+guardians is just the gold standard for
+cleric damage. And most clerics are
+going to be using all their spell slots
+of level three and higher. Not all of
+them, but a lot of their spell slots of
+level three and higher on spirit
+guardians in most fights throughout the
+game. The fact that it you can choose
+either radiant or necrotic damage mostly
+doesn't matter. Uh though there are some
+fights where radiant damage is bad for
+whatever reason, and maybe you want
+necrotic damage there. If you're a death
+cleric, enemies can't resist the
+necrotic damage that you're doing. So
+death clerics may want to choose
+necrotic for spirit guardians. Most
+characters are going to choose radiant
+almost all the time because it is
+radiant damage. There's a tremendous
+amount of synergy. It works with
+radiating orb effects which you can
+stack up extremely quickly because you
+can just walk next to an enemy with
+spirit guardians and then when they
+begin their turn, they'll take extra
+damage. You can instantly stack them up
+to 10 uh radiating orbs before they ever
+get to act. So, spirit guardians can
+work extremely well with the radiating
+orb set. Also, of course, the 10-ft
+radius of the spirit guardians is the
+same as the 10-ft radius of the luminous
+armor, which will uh obviously provide a
+ton of synergy, allowing you to stack
+the additional uh radiating orbs on
+enemies even more easily. between
+providing incredible amounts of debuffs
+and doing excellent turnover turn damage
+basically for free because you don't
+usually have to spend an action on
+activating spirit guardians at all. This
+spell was already incredible. It got
+even better in patch 8 because death
+clerics can use the necrotic version for
+good value and it's also available to
+oath of the crown paladins. Having this
+spell on a paladin is incredible because
+uh paladins already want to be next to
+enemies. They have really high saving
+throws, so they're going to maintain
+concentration on this spell much more
+easily. And you can use the sentinel
+feet to keep enemies trapped inside the
+spirit guardians and so on. So for an
+oath of the crown paladin, this spell is
+al also just absolutely absurd, even
+though you don't get it until level 9.
+Um, already was an incredible spell and
+was S tier even before that, but patch 8
+gave this already absurdly strong spell
+even more uses. S tier for spirit
+guardians. Um, this is another one where
+you can build entire builds around it.
+Bards may want to take this from magical
+secrets depending on what you're doing
+with that particular character. Uh, and
+most clerics are going to be using this
+to debuff enemies to the point where
+they can't fight back. Just an
+incredible spell that's going to see an
+amazing amount of use. Next up, Stinking
+Cloud. It's too bad that my cat isn't in
+my office right now because he's an
+expert on this spell. Stinking Cloud is
+a battlefield control spell with a 20ft
+radius. So similar in size to hunger,
+plant growth, and so on. Um with that
+lasts for 10 turns and requires your
+concentration. Enemies inside the
+stinking cloud have to make a
+constitution saving throw or become
+nauseated, which entirely prevents them
+from acting. Though doesn't provide any
+of the other incapacitation benefits.
+They don't get prone, so you don't get
+uh advantage on attacks against them and
+so on, but they just can't act at all
+while nauseated. Obviously, an
+incredibly powerful debuff. This is a
+very a spell with a very high upside. If
+you can keep enemies trapped inside of
+it and they fail the saves, then they're
+going to continuously lose their actions
+and be unable to do anything at all. But
+unfortunately in Boulders's Gate,
+there's a couple things that hold this
+spell back from reaching its full
+potential. Even though it's a large AoE
+disable spell, which normally would be
+incredibly good. Firstly, it's a
+constitution saving throw, and that's
+the worst saving throw to target. Most
+enemies will typically have pretty high
+constitution saves compared to their
+other saving throws. So, you're going to
+land this less reliably than you will
+land something um like hypnotic pattern
+or fear, which target wisdom saves, or
+sleep, which targets dexterity.
+Dexterity is also a little bit harder to
+land usually, but there are enemies with
+low dex saves and very few with low con
+saves. The second and uh perhaps more
+severe issue with this spell is that
+enemies who are immune to poison are
+immune to the effects of stinking cloud
+and enemies with advantage on poison
+saves have advantage on the saving throw
+against it. Like half of the enemies in
+Balders's Gate are immune to poison.
+This is a game where one entire act is
+about fighting undead. One entire act is
+about fighting robots and demons and
+outsiders and aberrations and basically
+everything in the game that is a
+threatening encounter that's not a
+humanoid is immune to poison and will
+completely ignore the effects of
+stinking cloud. Even some of the
+humanoid enemies who wouldn't normally
+be immune to this have poison immunity
+for whatever reason. Um so a lot of
+enemies are simply going to ignore the
+effects of this spell. even against the
+enemies that it can work against,
+they're going to succeed against the
+save more often, most of the time, than
+they would against another control spell
+because it's a constitution saving
+throw. And some enemies also have
+advantage on saves against poison for
+various reasons. Um, so they may have
+advantage on the save as well. So the
+save DC on stinking cloud is just going
+to end up in practice being lower than
+you want. Uh, and it also allows enemies
+a lot of immunities. For that reason,
+it's only useful in a few encounters.
+When it's good, and if you can trap an
+enemy inside of Stinking Cloud using
+something like plant growth or spike
+growth to keep them in place and so on,
+then you can get a lot of stuns out of
+this. But it is very rare that this
+spell actually works the way you want
+to. It's too bad cuz I really want to
+like this spell. It's extremely powerful
+in tabletop, but Boulders Gate 3 just
+has way too many enemies who are immune
+to the effects. So, I'm going to give it
+C tier. though this is a C tier where
+when it's good, it actually is quite
+good. Vampiric touch. Vampiric touch is
+a melee range damage spell. It does 3d6
+necrotic damage and you get half of that
+as healing. So it'll do an average of 10
+and a half damage and you'll get an
+average of 5 and a quarter healing in
+melee range. Each turn for 10 turns or
+as long as you maintain concentration on
+the spell, you can spend your action on
+recasting this without spending a spell
+slot. So you can keep using vampiric
+touch uh over and over again throughout
+the encounter if for some reason you
+want to waste every single action in an
+encounter. Uh you heard right at the
+beginning why this spell is trash. The
+numbers are simply not there. 10 and a
+half average damage is horrible. Even if
+you get an uh an automatic critical hit
+or something cuz this is an attack roll.
+Uh so you can critically hit with it.
+It's still not comparable damage to any
+other damage spell and the healing is
+extremely minimal. you if you want to
+heal and do damage on the same turn,
+cast a spell and, you know, use a
+fireball and drink a potion in the same
+turn, don't waste your time with
+vampiric touch. Uh, this spell doesn't
+do anything particularly exciting and
+the things that it does, it does
+extremely badly because the numbers are
+just extraordinarily poor. Dtier for
+vampiric touch. And finally, Warden of
+Vitality. Warden of Vitality is a
+paladin spell. Uh, so it's only
+available once you hit level 9 if you're
+a paladin. Um, and how it works is you
+spend your action and then get to cast
+each turn for 10 turns a bonus action
+healing effect. This healing effect only
+takes your bonus action and heals for
+2d6 uh with a 30ft range. So it
+basically gives you a souped-up healing
+word that you can cast every turn for 10
+turns. Although this spell takes your
+action to activate, you can of course
+cast it before combat starts and it
+doesn't require your concentration. So
+you can use this while concentrating on
+something else and then have a pretty
+solid healing bonus action uh each turn
+for 10 turns after that. Obviously
+that's only helpful if the fight is
+going to go long already. So a lot of
+parties that intend to end fights on the
+first or second turn won't get any value
+out of Warden of Vitality. But if you're
+a party that has lower damage output and
+is more defensively oriented, Warden of
+Vitality can add up to a decent amount
+of healing. Like other healing effects,
+of course, it can apply the buff on heal
+items, which are very powerful. Um, but
+for a paladin, spending a level three
+spell slot on this for a little bit of
+healing. Paladins probably are not going
+to be using the buff on heal items
+mostly. That'll be on another member of
+your party probably. Uh, is just not a
+great trade. Where Warden of Vitality
+does shine though is when taken by a
+lorebard as a magical secret. Magical
+secrets lets you get this spell at level
+six instead of at level 9 if you're a
+lorebard, which is obviously much
+earlier. So, you'll be able to build
+around this spell for a much larger
+portion of the game. And when you build
+around this spell, the strategy is
+actually pretty good. If you use the
+helmet of grit or levels in thief rogue
+to get an additional bonus action, then
+you can use warden of vitality multiple
+times in a turn, which is starting to
+add up to a lot of healing. Add
+dedicated healing gear, levels, and life
+cleric and things like that, and warden
+of vitality can pass out a truly absurd
+amount of healing over the lifespan of
+the spell. Casting this one spell can
+bring your entire party back to full
+health outside of combat, which isn't
+that important in Boulders's Gate, but
+is kind of nice, but can also give your
+party a tremendous amount of
+sustainability during combats. So, a
+character that is built around Warden of
+Vitality, a dedicated healer build, can
+use this spell to pretty good effect.
+That's the only character that wants to
+use this spell. And you can look up uh
+various versions of that build that I've
+done under the best healer in Boulders's
+Gate 3 if you want to know more about
+that build. And that build will use
+Warden of Vitality to tremendous effect.
+But just by default, this isn't a spell
+that you should usually lean into. For a
+paladin, this is mostly going to be a
+waste of a thirdle spell slot that could
+have been a smite. And for a
+non-lurebard, you get it too late in the
+game to effectively build around it. Um,
+even for a lorebard without the levels
+in thief rogue and life cleric and so on
+that make this a powerful option um and
+potentially like star druid stuff like
+that uh you are not going to get a lot
+of value out of this spell. But if you
+do build specifically around maximizing
+this spell it can be pretty good. It's
+kind of similar to witchbolt in that way
+in that for most characters who are
+casting this. It's not great but for one
+specific character who builds around
+maximizing it it's excellent. For that
+reason, I'm going to give it C tier uh
+because it really only works in one
+dedicated build. But there is one build
+that does a great job with Warden of
+Vitality. All right, my friends. That is
+the third level spells, and you can see
+why it's such a massive power spike to
+hit level five and get access to all of
+these spells. Uh let me zoom in and move
+my cursor here for those of you who want
+a clean screenshot. Um the S tier spells
+in this list are just absolute
+gamewinners. These are just incredibly
+powerful. And the A tier spells also
+have some of the most powerful control
+effects in the game, as well as one of
+the best damage dealing spells in the
+game in the form of lightning bolt. Uh I
+honestly I would be fairly happy with a
+version of this list that moved fear,
+hypnotic pattern, and sleeptorm all to S
+tier. They're kind of in a tier as a
+quirk of the fact that there's three
+more or less duplicates of the same
+effect. So you won't be using any given
+one of them in every encounter. But all
+of these are extraordinarily powerful
+effects. Even when you drop down to B
+tier, there are some spells that you're
+going to be using all the time, things
+like slow and plant growth. And even in
+C tier, there's a lot of buildarounds
+that work really well for certain uh
+character types like crusaders, mantle,
+and warden of vitality. So even as you
+go deeper in the tier list for third
+level spells, um although there's more
+niche spells here, there are still some
+spells that are going to be excellent in
+the right build or party composition.
+So, third level spells, just absolute
+bangers all the way through. Um, and
+getting to level five to start casting
+these spells makes the game vastly
+easier. As always, of course, if you
+think that there's something that I put
+in the wrong tier, especially if there's
+a spell that I ranked too low in your
+opinion, let me know in the comments and
+give me some uh reasons why. I'm very
+interested in hearing how people have
+found uses for these spells. Uh, if
+there might be something that I
+overlooked. Uh, and of course, we've
+moved a lot of things compared to my
+previous version of this tier list. So,
+I'm very happy to keep moving things
+around. As always, of course, if you've
+enjoyed the video, feel free to hit like
+and uh, leave a comment. Helps me out
+with the algorithm. I think you can also
+now hype the videos. YouTube has added
+that. I genuinely don't know what it
+does, but YouTube loves it when you
+click buttons, so click every button you
+can. I would appreciate you taking the
+time to do that. Of course, you can also
+subscribe to my channel. We'll be back
+with the fourth, fifth, and sixth level
+spells, as well as other Balders's Gate
+3 build guides and other strategy game
+analysis. Cheers, my friends. I'll catch
+you next

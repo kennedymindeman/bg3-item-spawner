@@ -1,0 +1,2149 @@
+Hello my friends and welcome back to
+another Balders's Gate 3 patch 8 tier
+list and guide. Hope you're all doing
+well. Today we're going to be looking at
+the new patch 8 subasses and their
+potential for multiclassing. I've
+already gone over and rated all of these
+new subasses as monoclass characters
+with all 12 levels taken in a single
+class to get a sense of how powerful the
+new subasses are. But of course,
+monoclass characters only tell part of
+the story. Taking 12 levels in one class
+is only a tiny percentage of the
+possible builds you can do. And so in
+order to see these characters potential
+when played in Boulders's Gate 3, we
+need to look at how well they multiclass
+with other characters. So what we're
+going to be doing is looking at the most
+interesting abilities from each of these
+12 classes, the ones that would draw you
+to multiclass into this class to get
+something cool, and how well they
+synergize with other classes. I'll also
+talk about common break points for
+entering and leaving these classes so
+you have a good idea of how many levels
+it requires to get the coolest things
+and classes that they particularly
+synergize with. Obviously, I won't be
+covering every possible build with each
+of these subasses. That's what the build
+guides are for, but this should give you
+a solid basis for planning your
+characters around the new subasses in
+patch 8. Before I begin, I do want to
+say a quick thank you to Wascal
+Wabbitable for the $20 donation. And a
+very special thank you to Sarah Hagen
+Cutlu Hatchogloo and Peter Brand who've
+now been channel members for more than
+one year. I'm sorry that I actually
+missed those anniversaries. Um, YouTube
+doesn't notify you when someone renews
+their membership, so I'm tracking these
+manually. But I really appreciate the
+consistent support. That's an incredible
+amount of time. Thank you so much. I
+should talk a little bit about how I'm
+going to rate these characters for
+multiclassing. So, there's three things
+that are important and how well a class
+multiclasses. Firstly, how powerful are
+its class abilities, especially what I'm
+going to call its signpost class
+abilities, which draw you to take levels
+in that class, either by being build
+defining in and of themselves or by
+being a huge uh bonus to any number of
+existing builds. A good example of a
+signpost ability is something like thief
+rogu's additional bonus action. This
+will by itself enable a whole variety of
+strategies and also complements a ton of
+additional other strategies. So it's a
+an ability that you really want to take
+levels in thief rogue in order to get.
+The second is how synergistic are those
+abilities. Obviously, a character that
+has very self-contained abilities, very
+linear abilities that require you to
+take a lot of levels in that class in
+order to get the most use out of them is
+not going to multiclass as well as a
+character that doesn't. A linear ability
+could be something like beastmaster
+ranger, which needs to keep taking
+levels in beast master ranger because
+other classes abilities mostly don't
+work with the beast. So, in order to
+improve that beast, you just need to
+keep taking more levels in beast master
+ranger. So, while it's a powerful
+ability, it doesn't synergize much with
+other classes. And finally, how early do
+you get the abilities? An ability you
+get at level one is obviously much less
+of an investment than an ability you get
+much later on, at level seven or eight
+or so. So, the earlier a class's major
+power spikes and break points come in,
+the better it's going to multiclass. So,
+those are the three things that we're
+going to be keeping an eye out for as we
+rate these characters. And finally,
+let's define the tiers. In S+ tier, I'm
+placing subasses that just give you way
+too much for very minimal investment to
+the point where almost any character is
+made stronger by multiclassing with this
+class. I'll give you three guesses which
+subclass is going to show up in S+ tier.
+An example of this from prior to patch 8
+would be light cleric, which not only
+gives you all of the incredible things
+that you get from one level of cleric
+with weapon and armor proficiencies,
+um, amazing spell casting and support
+abilities, excellent cantrips, and so
+on, but also gives you one of the best
+defensive abilities in the game, warding
+flare, usable without spending any
+resources. So there's very few
+characters that don't benefit from a
+level of light cleric just vastly
+improving their survivability in S tier.
+Characters that have both incredibly
+powerful and incredibly versatile
+multiclassing options. An example of
+this would be battlemaster fighter.
+There are hundreds and hundreds of
+possible builds with battlem fighter.
+Anywhere from 1 to 11 levels can be part
+of an amazing multiclass build. So, um,
+any character that provides excellent
+utility, synergizes with tons of
+different possible builds is going to go
+in S tier. In A tier, characters that
+multiclass extremely well, but mostly to
+gain new options or lateral shifts to
+their power level rather than raw
+increases. A good example of this is
+Wild Heart Barbarian, which can be used
+to enable entirely new builds or
+emphasize something completely different
+about an existing build, but is rarely
+going to just wildly increase the raw
+power level of a build. Incidentally, A
+tier is once again the perfect tier. If
+the balance team has done their job very
+well, then most subasses should fall
+into A tier, where they enable build
+creativity, but not raw munchkinhood. in
+Btier, characters that have a few
+powerful multiclass builds they can do,
+but are usually going to be seen as
+single class characters. Now, this
+doesn't mean that these are weak
+subclasses, just that a lot of them have
+linear abilities that don't play well
+with others or only multiclass in very
+specific ways. A good example of this
+would be moon druid, which has a couple
+really powerful uh multiclasses that it
+can do, but for the most part is better
+off just taking more levels of moon
+druid to increase the power of its wild
+shaped forms. And finally, in Ctier,
+characters that get weak enough or
+situational enough abilities at early
+levels that they just don't make sense
+as part of most multiclassing builds
+because taking them will just reduce
+your optionality and power level
+compared to taking more levels in a
+different subclass. A good example of
+this is Hunter Ranger, which gets its
+first real ability at level 11. So,
+taking levels in Hunter Ranger and
+multiclassing it with something else
+mostly doesn't make sense. You'd either
+rather play a monocclass Hunter Ranger
+or not take levels in it at all. Again,
+doesn't mean that the subclass is
+necessarily weak, just that it doesn't
+make sense as part of a multiclass
+build. So, let's begin talking about
+multiclassing with giant barbarian. Once
+again, I'm going to hop over to the wiki
+so we can all be on the same page when
+we are looking at this character's uh
+abilities, and we'll talk about break
+points, synergies, and everything with
+various abilities for Giant Barbarian.
+So right away, giant barbarian is at a
+disadvantage for multiclassing because
+it's a subclass that shows up at level
+three. And any subclass that doesn't
+show up until level three requires a lot
+more investment to use its abilities
+than a subclass that shows up at level
+one. That's part of why um sorcerers and
+clerics make such excellent onelevel
+dips because they get not only their
+class abilities, but also their subclass
+abilities at first level. Giant
+barbarian needs to wait until level
+three. So right, we just have a higher
+threshold for how good these abilities
+are to make us want to take them.
+Firstly, we get giant's rage, which
+doubles our damage on thrown attacks and
+then two irrelevant ability doubles our
+rage damage on thrown attacks and then
+two irrelevant abilities. Um, double
+rage damage on throw attacks by itself
+is not a massive draw and of course
+conflicts as well with berserker
+barbarian which gets the extra bonus
+action throw at third level. So, usually
+you're not going to want only three or
+four levels of giant barbarian um in
+order to multiclass with because if you
+were going to do that, you would just
+take berserker barbarian to get the
+bonus action throw, which is more
+powerful for throwing weapon builds. Um,
+so that means we're investing at least
+five levels before we get a real ability
+in giant barbarian. So, it's not really
+a dipping class, one that you can take
+in order to um make other builds more
+powerful, but instead is going to be the
+core of most builds that it's part of.
+Because of that, we are usually going to
+go to level five for extra attack and
+boot of the giants, which gives us a
+bonus action attack. And of course,
+extra attack is always a great break
+point. level six for elemental cleaver
+or level seven or eight because again
+with barbarian eight levels of barbarian
+gets you feral instinct for bonus
+initiative as well as a second feat.
+Once you've gone to level five, there's
+very little reason not to go to level
+six because you aren't taking giant
+barbarian unless you're building a
+throwing weapon character. So, um
+getting the elemental cleaver is
+probably what you're here for. That
+means that our normal break points for
+Giants Barbarian are going to be level
+six, seven, eight, or 10 because level
+10 gets us Mighty Impel, which is an
+extra bonus action throw. At level 10,
+there's probably only one multiclass
+build that you're going to do with that,
+which is two levels of fighter to get
+action surge and then mighty impel, and
+just be a powerful throwing weapon
+character. level six, seven, and eight,
+there's a lot of different options that
+you can take in order to uh boost the
+power of the character significantly
+while getting the ability to use every
+weapon as a throwing and returning
+weapon and also just a ton of additional
+damage. You also get more rages. You get
+the bonus initiative from being a
+barbarian. Uh you can get a second feat
+at level eight. So, there's a lot of
+different cool things that you can get
+at these sort of midlevel splits with
+giant to barbarian. I think most
+multi-classing builds with Giant
+Barbarian are either going to be eight
+or 10 levels. That's typical for
+barbarians. Um, well, barbarians
+typically stop at level eight, but giant
+barbarian will often want to go to 10
+cuz you actually get a good ability at
+level 10, unlike most other barbarian
+subasses. So, um, you're going to see a
+lot of 84 splits and a lot of 102 splits
+with this character. So, the real
+question is, how good are those 84 or
+102 splits? And the answer is awesome.
+Giant Barbarian makes a great addition
+to any throwing weapon character.
+Obviously does have a little bit of
+competition with Berserker Barbarian,
+but Giant Barbarian lets you use any
+weapon as your throne weapon and do all
+sorts of really cool stuff when combined
+with other characters. Four levels in
+thief rogue to enable raging and using
+boot of the giants in the same turn or
+multiple boots in later turns of combat.
+two levels of fighter or four levels of
+fighter get you action surge and a bunch
+of other uh proficiencies and awesome
+abilities as fighter always does.
+Increase critical hit chance from
+champion fighter is also not irrelevant.
+Um and shield from Eldrich Knight can be
+very good as well cuz that can be used
+while raging. There's so many different
+cool things you can do. So although your
+signpost abilities come pretty late and
+therefore the the variety of possible
+level splits isn't that high with giant
+barbarian and of course the character is
+somewhat pigeonholed into doing thrown
+weapon attacks. You can emphasize a lot
+of different things about what throne
+weapon attacks you're doing by taking
+different levels of other classes.
+There's also some other cool niche
+abilities that you can do with lower
+level splits. just taking the enlarge
+from Giants's Rage for ability for
+builds that care about their character
+size. Keep an eye out for a build guide
+on this theme from me coming pretty
+shortly probably. Um, and so in addition
+to the normal splits that just give you
+really powerful additional uh effects
+and let you do different cool things
+with the character, there's also some
+niche abilities that you can have. For
+that reason, we are going to be giving
+Giant Barbarian A tier. And I think that
+this is a a solid multiclass with a lot
+of different directions that it can go.
+Gives you a lot of really powerful
+abilities when it does. Of course, can
+be taken monoclass and be excellent. Um,
+as I mentioned in my monoclass tier
+list, but with multiclassing opens up a
+bunch of options and all of those
+options are good. Next up, glamourbard.
+So, I've said that I think that the
+general community consensus on
+glamourbard is very wrong. There's a lot
+of people who are saying this is an
+extremely weak subclass, and that's not
+true. It's actually a very strong
+subclass. I go into quite a bit more
+detail on this in my single class
+characters tier list for patch 8.
+However, there is one very valid
+criticism of glamourbard, which is that
+it's a very greedy subclass requiring a
+lot of investment to get the most out of
+its abilities. Let's take a look at
+those and I'll talk about what I mean.
+So firstly, just like giant barbarian,
+college of glamour bard can't be taken
+until level three because that's when
+bards get their subclass. So that level
+of investment or investment in levels
+limits the number of multiclass builds
+that want to take glamourbard at all.
+That means that most of the time college
+of glamour multiclasses are going to be
+more based around being a glamourbard
+that's taken levels of something else to
+improve being a glamour bard than around
+improving something else with levels of
+glamour bard. Similar to giant
+barbarian, this is always going to be
+the core of a build rather than
+something that boosts the power level of
+another build. At level three, you get
+the ability Mantle of Inspiration, which
+is a pretty nice ability when you first
+get it. 10 temp HP at level three is
+very relevant. Um, and the charm attacks
+at level three, you're probably going to
+be being hit by some attacks at this
+level cuz it's pretty hard to avoid. So,
+the charmed effect can be very
+disruptive to enemy attacks, especially
+if those enemies attack multiple times
+in a turn. Mantle of Inspiration can
+really help keep your party alive. It's
+certainly not the most powerful thing
+available at level three, but it's not
+bad. But it doesn't scale unless you
+take more levels of glamour bard. This
+ability, which is fine at level three,
+if you still only have three levels of
+glamour bard by the time you're level
+six, is an awful lot worse. It's on a
+long rest cool down. The 10 temp HP
+certainly has not kept up with the
+incoming amount of damage. Only being
+able to target two party members with it
+is really bad. So, in order to get the
+most out of Mantle of Inspiration, you
+really want to level up. And it only
+levels up. You really want to scale it.
+And it only scales by taking more levels
+of glamourbard. It gets improved at
+level six and at level 10 to target an
+additional creature and do three more
+temporary hit points at each level. So,
+if you get it to level six, not only are
+you getting an additional target and
+more HP at every uh every use of this,
+you also now have the font of
+inspiration ability, which you get at
+level five. So, your inspiration dice
+come back on a short rest instead of a
+long rest, meaning many, many more uses
+of this ability. So, um it has scaled
+significantly with six levels of
+glamourbard. That means that pretty much
+any build that wants to multiclass with
+glamourbard is priced into taking at
+least six levels to get mantle of
+inspiration usable with a short rest
+cool down ability and on three party
+members and to get mantle of majesty
+command which is one of the big payoffs
+for mantle of inspiration and an
+extremely powerful ability. I'll talk
+about that in a second. Um but for the
+most part your minimum break point with
+glamourbard is going to be at least
+level six. sort of similar to giant
+barbarian, but even more so, where
+without taking six levels in this
+subclass, you just haven't gotten the
+thing that makes the subclass good.
+After level six, things open up a little
+bit more. Now that you've improved
+Mantle of Inspiration and gotten access
+to Mantle of Majesty Command, you have
+both a much more powerful version of
+Mantle of Inspiration and just a
+fight-winning ability in the form of
+Mantle of Majesty. Mantle of Majesty
+obviously is only once per long rest,
+but enables your whole party to spend
+way less resources in one fight per day
+because the bard can just solo that
+fight by removing the most dangerous
+enemy from that fight pretty much uh
+automatically. Enemies who melee attack
+your allies are charmed without a saving
+throw and then they're commanded without
+a saving throw turn after turn as a
+bonus action. So, you can just win any
+fight against single powerful enemies
+using this ability. very powerful
+feature to move into. Um, so after level
+six, you've now gotten the core loop of
+the character online. That being said,
+it's not clear that there's a lot of
+builds that benefit from six levels of
+glamourbard that don't just then benefit
+from going to 10 levels of glamourbard
+so that you can inspire your entire
+party and gain a lot more in the way of
+temp HP and damage mitigation from all
+the charms and disruption that that
+causes to enemies as well as magical
+secrets that you get at level 10 or
+sixth level spell slots that you get
+access to at level 11. Um, that means
+that there are generally going to be
+only a few specific ways that you want
+to multiclass with glamourbard. Either
+two levels in something like fighter,
+cuz fighter is always good to take a
+two-le dip in, or warlock in order to
+get eldrich blast and agonizing blast.
+um have darkness synergy if you have
+other darkness stuff in your party and
+just have a better default combat action
+or two levels of paladin in order to be
+making damaging attacks with your spell
+slots which just gives you something
+really good to do while you're
+concentrating on mantle of majesty um or
+four levels or or taking six levels and
+then taking something that boosts mantle
+of majesty most notably thief rogue
+which can let you activate it twice in
+one turn. You can see my build guide,
+the glamour commander, for uh more
+detailed exploration of that build,
+which can use mantle of majesty to
+double command enemies once per long
+rest. Um, vastly improving the power
+level of that build in that fight. Now,
+that's a very specific build. So,
+College of Glamourbard mostly is going
+to be looking for minor level dips in
+very efficient levels in other classes.
+One level of wizard, one level for s for
+wizard spellcasting, one level of
+warlock for eldrich blast and command as
+a spell known. One level of sorcerer for
+shield and all of the sorcerer goodies
+and better combat can trips. That kind
+of thing are going to be your typical
+picks on college of glamourbard rather
+than being a more um open multiclass
+with a lot of different ways to build
+the character. For that reason, we are
+going to give Glamour College of Glamour
+Vard B tier. It still has a lot of uh
+specific multiclass builds that are very
+strong. The ones that I mentioned like
+four levels of thief rogue or the
+onelevel dips in very powerful classes,
+one or two level dips in very powerful
+classes that synergize with what it's
+doing. But most of the time, these are
+going to be sort of narrow and specific
+builds. And it's not entirely clear that
+they're better than just more levels of
+glamourbard most of the time. So you can
+multiclass with glamourbard effectively,
+but usually you're just going to want to
+take 12 levels in it if you're doing
+glamourbard death cleric. So first off,
+of course, death cleric is a cleric, and
+clerics are just incredibly good at
+multiclassing regardless. One level in
+cleric is just one of the best onelevel
+dips in the game. Even ignoring their
+subclass abilities entirely, giving you
+medium armor, shield proficiencies,
+uh access to guidance, resistance, blade
+ward, healing word, bless, create water,
+sanctuary, just a ton of extremely
+powerful utility just from a single
+level in a class. and also makes your
+character significantly more survivable
+with the defensive abilities that it
+gives you and the armor and shield
+proficiencies that you get on characters
+that don't have them. So, lots and lots
+of characters can benefit from one level
+of cleric just for those abilities uh at
+all. Death Cleric gives you some other
+abilities at first level because again,
+this is a cleric subclass, so it shows
+up at first level, including marshall
+weapon proficiency, which is pretty nice
+for some characters, especially
+spell-casting characters that would be
+interested in one level of cleric, and
+the ability to double target with your
+necromancy cantrips, as well as select
+bone chill um as a spell known. Now,
+this will use your wisdom. So, usually
+if you want to emphasize this, you are
+only going to benefit from it on a
+character that has high wisdom. So, this
+will mostly be multiclassing with a
+druid, like for example a spore druid.
+You can use double casted bone chills um
+with the reaper passive and gain a lot
+of benefit on a spore druid even just
+from the one level of
+deathclare. Now, this potential alone,
+just doubling your necromancy cantrips
+on any character that's casting bone
+chills, uh, combined with the fact that
+it's on a cleric, so it's just already
+one of the best onelevel dips in the
+game would probably be enough to push
+death cleric to S tier all by itself.
+But, of course, we continue to get class
+features as you level up in the
+subclass. At level two, you get channel
+divinity, touch of death, which lets you
+do an extra burst of damage whenever you
+make a melee attack. Now, at first
+glance, this looks like a very greedy
+ability that that requires you to level
+up a lot in cleric to get the benefits
+of it. When you first get it, you can
+only use it once per short rest, and you
+need to be level six until you get to
+use it twice per short rest. And the
+damage scales with your cleric level.
+But being two levels in this basically
+gives you a level one paladin smite
+usable three times per day. Nine damage
+from two levels of cleric plus the five
+base damage is the same average damage
+as a paladin smite using a level one
+spell. 2d8 damage is the same as nine
+damage. So that just adds an extra
+little bit of burst damage to any
+character that's making melee attacks or
+um attacking with melee spells, things
+like inflict wounds. uh which can be
+very beneficial for again a character
+like a spore druid that's constantly
+making melee attacks um and c and
+potentially casting melee spells or any
+other spellcaster that has a hybrid with
+melee attacks. You don't have to have
+huge amounts of damage out of this
+ability, though of course it does
+improve as you level it up because you
+only use it if that extra nine damage is
+going to make the difference between
+killing an enemy and not killing an
+enemy. So, pretty much every time you
+activate it, it's going to turn into a
+dead enemy. Um, the level ups make that
+happen more frequently, but this ability
+is still worth using even if you don't
+invest significantly in it. So, you can
+take a a break point at level two or
+level three for second level cleric
+spells. Pretty much any oddlevel
+breakpoint with death cleric is always
+going to be good because clerics get
+additional spell levels at odd levels.
+though you can get um second level
+cleric spells for aid and things like
+that. Level three is probably not the
+best breakpoint, but it's possible. But
+level five gets you spirit guardians.
+Level six gets you um the ability to
+ignore resistance to necrotic damage.
+So, makes an excellent break point for
+any character that's doing a lot of
+necrotic damage, whether that be a
+necromancer wizard or again a spore
+druid or a sorcerer that has uh taken a
+lot of um necrotic spells, which is
+certainly something that you can do with
+sorcerer. There's a lot of different
+options for how to build this character
+that synergize very well at various
+levels. And again, one level of death
+cleric is so strong that just the
+existence of these other niche builds
+doesn't need you don't need much in
+order to make um death cleric an amazing
+class for multiclassing. You do still
+get more cool options after level six
+though. In addition, of course, to all
+of the spell levels that you get as you
+continue to level up. At cleric level
+eight, you get divine strike necrotic,
+which lets all of your attacks do an
+extra d8 of damage. Now, this does come
+at the cost of extra attack because to
+take eight levels of cleric means you
+can only get four levels in another
+class. So, um you are never going to be
+able to get extra attack. So, this does
+decrease your melee power. But if you're
+building around building around a
+character that just wants to make one
+really strong melee attack like with a
+paladin smite and divine strike, then
+you can definitely build around that
+type of character as well. I did a build
+um based on the dark justice sear for
+shadow heart and that used uh higher
+levels of death cleric to focus around
+doing really strong attacks with um
+channel divinity touch of death and
+paladin smites to do huge amounts of
+burst damage. And of course you get
+divine strike necrotic for even more
+damage at higher levels of cleric. You
+also get all of the normal break points
+that cleric has with death cleric. At
+level 11, you can still do all the cool
+onelevel dips that spellcasters can
+usually do. Um, like a level of fighter
+for constitution save proficiency, a
+level of wizard to gain all the wizard
+spell casting, which is even better for
+death cleric because the ability to
+ignore resistance to necrotic damage is
+very relevant for a lot of wizard
+spells. Um, and of course can enable uh
+all sorts of shenanigans with the staff
+of cherish necromancy and stuff like
+that. Level of bard or rogue for skill
+access. All of those things can be very
+powerful as well. Or 10 levels of cleric
+and two levels of paladin to get still
+get six level spell slots while also
+getting paladin smites is another great
+option as well. So there's a lot of
+possible break points with a lot of
+possible synergies. Even though this
+character doesn't get that many really
+powerful signpost abilities as you level
+up, the fact that its first level is so
+incredibly strong means you can work it
+into a ton of possible builds. And it
+gets a lot of interesting options as you
+continue to level it up. Um, and it's
+just a cleric, so clerics are just
+strong enough that they're always going
+to have really powerful multiclassing
+options. For all of those reasons, we
+are going to put death cleric into S
+tier. Um, I don't think that it cracks
+S+ tier because most of the time when
+you're multiclassing this character,
+it's going to be a specific build in
+mind based around burst damage with its
+channelneled divinity abilities or just
+getting the doubled necromancy cantrips
+on a character that's making normal
+necromancy spell casting. Though there's
+a bunch of other more niche options as
+well, but there's so many cool options
+and so many of them are powerful. S tier
+is perfect for death cleric. Next up,
+star druid. So, circle of stars druid is
+actually really interesting to talk
+about for multiclassing because uh as I
+mentioned, druids typically don't
+multiclass extremely well. It's a fairly
+linear class that wants to take a lot of
+levels in druid because every level in
+druid is so good that you just benefit
+from taking more levels in druid. Star
+druid though because of the unique
+attributes of this subclass is actually
+something of an exception because its
+abilities play extremely well with other
+characters. Since you're not a wild
+shape focused uh druid subclass, you
+mostly don't have to get enough levels
+to get the more uh powerful wild shape
+forms. Instead, you're focused around
+your starry form abilities, which come
+online much earlier and remain relevant
+much later than the early game wild
+shape forms. Right away at level two, we
+get a bunch of really awesome abilities.
+So, firstly, we get guidance for free.
+Now you could have taken that just from
+your first level of druid but it does
+give you some extra utility on cantrips
+but mostly you get these star form
+ability. There are three of them and all
+of them have a lot of potential for
+multiclassing. Star form archer gives
+you a bonus action to do a d8 plus your
+wisdom of radiant damage um at a 60 ft
+range. Uh and it's a bonus action once
+per turn. Doesn't cost a resource lasts
+all day. So, this just gives you a
+pretty powerful damaging bonus action
+for a two-le investment. It's radiant
+damage, so it's very relevant for any
+build that's trying to do radiating orb
+effects and just makes your character uh
+significantly more damaging and more
+powerful as a ranged
+combatant. Chalice form gives you the
+ability to add an additional healing, an
+additional cast of healing. Um, it says
+it's a bonus action here, but that's
+just to use the wild shape charge. You
+don't have to use the bonus action to
+actually activate chalice healing.
+Whenever you cast a healing spell, so if
+you cast a level one or higher healing
+spell, including for example, healing
+word, you get chalice healing as well,
+activatable for free. This lets you heal
+two creatures with one spell or double
+up on healing. So for any healing
+focused character, chalice healing is a
+ton of free value. A lot of characters
+that want to heal will take two levels
+in life cleric to get the life cleric
+abilities. Palace Form is just as good
+or better for dedicated healing
+characters and gives you a an enormous
+amount of additional value. And of
+course, it only takes a two-level
+investment. So, you can combine it with
+levels and life cleric to make an
+extremely capable healer. The real
+winner, though, and it's interesting
+that I'm saying that the real winner is
+the third one when I've already talked
+about two really powerful abilities for
+multiclassing, is Dragon Form. Dragon
+form gives you the dazzling breath
+ability, which is also a damaging bonus
+action. So, just like archer form makes
+your character much better at doing
+bonus action damage, but also gives you
+effectively reliable talent for
+concentration saving throws. All of your
+roles can be a minimum of 10. This is a
+unique effect as well and combines with
+other sources of improvement to con to
+your concentration saves. You can take
+your first level as sorcerer and then
+two levels as star druid, have con
+proficiency and reliable talent for uh
+concentration saves. You can get
+advantage on concentration saves through
+equipment and or other class features
+and be basically unable to fail
+concentration checks. Notably, two
+levels of star druid, one level of
+sorcerer for con saves gives you full
+casting levels and only takes three
+levels. So, you can still have nine
+levels of cleric if you want to
+concentrate on um on spirit guardians,
+which is one of the spells you're most
+likely to lose concentration on. So,
+that gives you a basically a character
+that basically can't lose concentration
+on spirit guardians and just gets to run
+around. You can also combine this with a
+character that's double casting haste
+like a sorcerer character that's using
+quickened haste um or twinned haste,
+excuse me, uh in order to have that
+character never lose concentration or a
+character that's self-casting haste so
+that they can constantly concentrate on
+that without the worry of stunning
+themselves. You also get two free casts
+of guiding bolt at level two. So, what
+you get at level two star druid is worth
+so much to any spell-casting character,
+especially wisdom based spellcasters
+like clerics um or rangers who've
+invested in wisdom that already this
+character has a ton of possible
+multiclassing options. As you continue
+to level up, you get even more cool
+stuff. At level six, you get cosmic
+omen, which is basically cutting words
+um in the woe version or bic inspiration
+in the wheel version. And that's a
+pretty powerful ability as well,
+combined with six levels of druid, which
+gets you to third level druid spell
+casting or you can go to level seven to
+get fourth level druid spell casting and
+get the really powerful summon nature's
+ally abilities. Um, sorry. So, I'm in
+woodland being um and other awesome
+druid fourth level spells like wall of
+fire. There's a lot of great break
+points for star druid. At later levels,
+you don't need to take um star druid all
+the way to level 10, but you can. You
+get the third wild shape attack. So,
+your druid wild shape forms are still
+really good uh even if you're mostly
+going to be spending your wild shape
+charges on the starry forms. And you get
+the ability to use two starry forms in
+one turn. So you can double up on your
+damage output or you can use chalice
+healing. So you can use luminous arrow
+and dazzling breath in the same turn.
+You can use chalice healing and dazzling
+breath and then stay in dragon form to
+maintain concentration. Um and your
+abilities uh you get passive
+improvements to those abilities. 10
+levels is a pretty nice breakpoint
+because you can take two levels of
+paladin, still get six level spell
+slots, and now have smites. If you want
+to be a more melee oriented character,
+you can take 11 levels and then one
+level of wizard in order to get max
+level wizard casting. In addition, you
+can take a level of cleric for all the
+reasons that we talked about with death
+cleric where a one level dip is great.
+So, there's a ton of different break
+points for star druid. Often I think
+multiclasses with star druid are going
+to stop at level two because dragon form
+is just so good and so powerful for a
+lot of more concentration dependent
+builds. But there's many different ways
+that you can build this class. It's very
+versatile and very powerful when
+multiclassing. So we're going to give it
+let me swap back to the tier list here.
+Of course S tier. Again I don't think it
+it cracks S plus tier because you are
+sacrificing real stuff to get these
+advantages. Um, but uh, Star Druid is
+still just a really powerful class to
+multiclass with with a ton of great
+build options. Next up, Arcane Archer.
+So, obviously, Arcane Archer is a
+fighter, and fighters multiclass
+exceptionally well. I talked about how
+Battlemaster Fighter is the
+quintessential S tier multiclass, which
+can be go in an enormous variety of
+builds at basically any level split and
+perform extremely well. So, um, Arcane
+Archer fighter already has an extremely
+high baseline for multiclassing. The
+question is, what do we get from the
+subclass itself that makes you more
+interested in multiclassing into Arcane
+Archer than a different fighter
+subclass? Cuz a lot of fighter
+multiclasses are just going to stop at
+fighter level one or two and not even
+take a subclass at all. And a lot of
+them benefit really strongly from the
+battlem maneuvers or the Eldrich Knight
+weapon bond or the Eldrich Knight
+defensive abilities. Arcane Archer
+hopefully has something unique that
+draws us to play this class instead of a
+different fighter. Take a look at the
+abilities and we'll talk about those.
+So, right at level three when we get to
+take the arcane archer subclass, we get
+12 uses per day, more if we have a bard
+and can short rest more frequently of
+these arcane shops. You can choose up to
+three of them. So, you can emphasize a
+lot of different things depending on
+which of these arrows you select. Um,
+but these abilities give us a ton of
+different optionality for any archer.
+Now, of course, arcane archer is only
+going to be used for archery builds.
+Otherwise, it doesn't make sense. It's
+right there in the name. You wouldn't
+take this character on a nonarchchery
+class. You probably could build a couple
+nonarcher arcane archer builds, but
+you'd definitely be doing something
+weird. Um, so the question is how good
+are these arrows compared to say three
+levels of gloomstalker ranger or three
+levels of battlemaster fighter for
+improving your character? The answer is
+quite good. Arcane Archer fighter at
+level three has a lot of great options
+that give you a significant increase to
+your power level and let you do things
+that you just can't do otherwise with an
+archery character. The first of these
+and most important is banishing arrow
+which lets you banish an enemy as the
+level four spell or as the level five
+spell. banishing smite with an archery
+attack. So for your action at level
+three or half your action once you have
+uh extra attack, you can cast a level
+four spell 12 times a day. That's really
+really powerful. Um in addition to that,
+you get a bunch of other options that
+can give your character new abilities or
+make your character significantly more
+reliable. Seeking and piercing arrow can
+let you do damage without rolling attack
+rolls and apply a lot of on-hit effects,
+which is really nice as well. So, you
+can apply on-hit effects from your
+weapons without rolling attack rolls,
+which is great. And these other arrows
+give you a bunch of other great options
+as well. Um, blinding an enemy with
+shadow arrow is very powerful. Slowing
+an enemy with grasping arrow and making
+them take damage is really powerful.
+charming an enemy. Actually pretty good
+as part of a weapon attack because a
+charmed enemy can't attack you so you
+can stay safe and has some synergy with
+glamourbard. You could potentially even
+do a a build where you beguiling arrow
+an enemy um with three levels of arcane
+archer. You shoot them with uh beguiling
+arrow and then as your bonus action
+command them with no saving throw
+because they're charmed uh from the
+beguiling arrow. probably not the the
+best build, but definitely an option
+that you have. So, these arcane shots,
+because there's so many options with
+them, give you a lot of different cool
+stuff that you can do. Then, of course,
+you're still a fighter. So, if you level
+up to level five, you get extra attack.
+Level level to level six, you get an
+extra feat. level to level seven and you
+get um curving shot which just makes
+your shots more reliable and additional
+arcane arrows and arcane shots giving
+you more uses of your abilities per day
+and more um options for your abilities.
+So it's very very similar to battlem
+fighter in that you can kind of
+customize it to be what any build needs
+um provided that that build is an
+archery build. It's certainly less
+versatile than Battlemaster, which can
+be for archers or melee characters. Um,
+but Arcane Archer gives you the same
+sort of level of customizability within
+the arena that it lets you uh that it
+gives you. At later levels, you don't
+get that much. Uh, so a lot of Arcane
+Archer builds are going to stop at level
+five where you get the um arrows and
+extra attack, and a lot of them will
+stop at level six or uh so in order to
+get the extra feet. Level 10 just gives
+you an extra arrow and an extra use of
+um your arcane arrows, which is still
+pretty good. And of course, fighter
+level 11 is always an amazing break
+point cuz you get your third attack and
+can now use three of these in a turn.
+But at that point, you're mostly just an
+arcane archer build all the way through.
+One level of uh some other classes can
+be relevant, like a level of war cleric,
+but I think a lot of the time when you
+go to level 11 in arcane archer, you're
+best off just getting another feat and
+going to level 12. and don't benefit
+that much from multiclassing one more
+level. So, your normal break points are
+going to be level three for just the
+arrows or level five for the arrows and
+extra attack. So, to sum up, how good do
+I think Arcane Archer is as part of a
+fighter build? Very good. I think Arcane
+Archer does exactly the thing that it's
+trying to do. works very well with other
+classes and can be taken all 12 levels
+and be very strong or it can be taken 3
+5 6 8 11 levels um as part of another
+archery build and do very well. So a
+tier for arcane archer. Next up, drunken
+master monk. So when I reviewed these
+characters for monoclass builds with
+single class builds, I said that drunken
+master monk there basically wasn't a
+reason to take it as a single class
+character. Its abilities are somewhat
+weak and relatively backloaded and
+mostly just um superseded by other
+versions of monk which do pretty much
+exactly the same thing but better.
+However, drunken master monk was
+recently updated in the mini patch which
+was a couple days ago at time of
+recording. So, the question is, have
+those abilities been improved by that
+mini patch to the point where there's
+more of a draw to taking this class, or
+can we find ways to make its abilities
+synergize with multiclassing to make
+drunken master monk a little bit more
+interesting as a multiclass build than
+as a monoclass build? Let's take a look
+at the skills and we will see whether
+that's true. So obviously this uh is a
+monk subclass. You need to be at least
+level three before you get access to it,
+which is definitely a mark against it
+because a three-level investment is a
+lot bigger than uh one or two level
+investment. It it's enormously bigger
+than a one or two level investment cuz
+it means that you reach many fewer
+powerful break points in classes that
+might potentially multiclass with it. At
+level three, we get the ability to
+regain half our key points. um a little
+more important for a multi-classing
+character because key point management
+can be a little bit more of a challenge
+if you're trying to multiclass with monk
+proficiency and performance which
+doesn't matter and drunken technique.
+Now drunken technique is actually a
+pretty good ability but I don't know if
+it's worth a three-level investment. Um
+the double attack with an off with a
+bonus action of course is very strong
+and the 10 foot of movement and
+disengage is pretty nice for a character
+that wants to stay mobile. However, you
+have to compare this to other abilities
+that you could get that are very similar
+with a three-level investment. Three
+levels for openhand monk gets you the
+open-hand monk's special flurries, which
+are way better than a disengage cuz
+they'll knock an enemy prone or away
+from you, and then you can just leave
+without having to worry about the
+disengage. And three levels in thief
+rogue gets you effectively a bonus
+action off-hand attack and a bonus
+action disengage because you have two
+bonus actions with thief rogue. So, it
+does kind of the same thing that drunken
+technique does, but all the time and has
+wildly more utility cuz you get extra
+bonus actions. So, a three-level
+investment in drunken master monk
+doesn't seem that useful. Four levels
+gets you intoxicating strike, which
+isn't a real ability, and then six
+levels gets you the newly changed
+redirect attack. This is the first
+ability where things are a little bit
+more interesting. The ability to attack
+back at an enemy um is relatively
+unique. There's a piece of gear that
+lets you do it, but with six levels of
+drunken master, you can get it much
+earlier. You can build a retaliation
+character around redirect attack and
+repost from battlemaster that only needs
+nine levels to get both of those
+abilities and be able to attack back
+against enemies whenever they miss you
+with melee attacks. So, there is one
+build that we could do, though it is
+kind of a a niche build or a themed or
+meme'd build um more than it is a
+particularly strong build based around
+redirect attack. I'll probably do a
+build guide to to the retaliation strike
+character with drunken master monk at
+some point soon, assuming they don't
+change it any further. At later levels,
+again, we don't really get any
+meaningful abilities. Life of the party.
+Um, it I've shown the bug abuse with
+this where you can stack it outside of
+combat to get infinite armor class and
+then respspec to a different character
+and just have infinite AC on any
+character. Um, sobering realization
+requires you to lose life of the party
+and does pitiful damage. And drunkard's
+luck is a fine ability, but certainly
+not worth taking 11 levels in a
+character that doesn't really give you
+much of anything. So, um, redirect
+attack is by far the most interesting
+ability that drunken master monk gets
+for multi-classing builds, and that
+enables one kind of themed build, but
+otherwise, there just really isn't a
+reason to take levels in drunken master
+monk. Drunken technique is fine, but
+duplicated better by other uh levels and
+other characters. So, drunken master
+monk, unfortunately, for both solo
+classing, where I don't recommend taking
+it, and for multiclassing, we're going
+to put it in C tier. Um, I would still
+really like to see more work done on
+this class to make it a more interesting
+option. Next up, Oath of the Crown
+Paladin. So, paladins, of course,
+multiclass extremely well in general.
+One level of paladin gets you uh
+marshall weapon proficiency and heavy
+armor as well as lay on hands. Two
+levels of paladin gets you smite and a
+fighting style. So for any spellcaster,
+you can take two levels of paladin to
+suddenly be a devastating melee
+combatant as well as have a bunch of
+passive benefits. Five levels of paladin
+gets you extra attack. Two levels of
+paladin also gets you command cast with
+charisma. And of course, all the
+charisma uh classes multiclass extremely
+well with one another. you can take
+pretty much any combination of levels of
+the four charisma classes with each
+other and end up with a very strong and
+viable character. So, the real question
+isn't is Oath of the Crown Paladin good
+to multiclass with cuz it is, but do we
+want to take it over other paladin uh
+oaths when we're multiclassing into
+Paladin? Let's take a look at the
+abilities and we can see if that's true.
+So, at first level, we get righteous
+clarity. Um, we also get the oath of the
+crown which uses the same uh
+oathbreaking as oath of devotion. This
+is actually worth noting because the
+oath of devotion is probably the hardest
+oath to keep. So, you will accidentally
+break your oath sometimes, especially if
+you've only taken like one or two levels
+in Oath of the Crown Paladin for the
+mechanics and aren't role- playinging as
+a paladin specifically. Um, so that can
+be an actual drawback, but the righteous
+clarity ability sure makes up for that.
+for your bonus action and a channel oath
+charge. You can for 10 turns um give you
+or an ally a bonus to your proficiency
+bonus. So plus two at this level going
+up to plus four at later levels um to
+your attack roles. That's a huge bonus
+to your accuracy and of course works
+extremely well with a lot of various
+builds that want to use paladin. If you
+are a great weapon master build, then
+you benefit from you pretty much offset
+the attack penalty that great weapon
+master gives you. So it's just a ton of
+damage. At level two, you're going to
+get the smites. So you get a huge amount
+of value from one level in righteous
+clarity. Oath of the crown paladin is in
+fact the best paladin to dip if you're
+doing only one or two levels of paladin.
+Usually two levels of paladin because
+righteous clarity is such a good
+ability. It's better than what all three
+other paladins get at level one. Um,
+proficiency bonus your attack roles is
+just
+massive. Things continue to to be good
+at higher levels, though. Um, in
+addition to being an amazing two-level
+dip, oath of the crown paladin gets um,
+at level five, of course, extra attack,
+but also warding bond, which on a
+character that is intending to be a
+melee character, is a very powerful
+ability, a very powerful spell to have
+access to. If you are, for example, a
+sorcerer paladin split, like a 57 split,
+then having warding bond to redirect
+some damage to you, um, can be from a
+squishier ally can be very helpful. this
+character can end up pretty tanky and
+warding bond, especially in combination
+with the healing ability that you get at
+level three. Um, and other abilities to
+mitigate or redirect damage can help
+keep your party alive. One of the ways
+that you lose in honor mode is if one
+character gets focused down. So, even if
+you're not abusing Warding Bond by
+casting it from camp, so all your
+characters take half damage and then
+characters back at camp take the other
+half, casting it just in a party on a
+character that's pretty tanky, is not a
+bad usage of this uh character either.
+Divine Allegiance is more an interesting
+ability than one that we're specifically
+looking to incorporate, but again, for a
+sort of tanky paladin build, you can
+combine this with um other cool stuff.
+You could combine it with Dareheart
+Barbarian Rage to have the damage that
+you're doing to yourself. There's a lot
+of really interesting builds that you
+can do with divine allegiance. So, it is
+less an ability that gives you more
+power, but more an ability that gives
+you a lot of really cool builds. And
+then, of course, spirit guardians on a
+paladin works very well. By the time
+you're level 9, you're probably going to
+go to level 11 to get the extra damage
+on every attack. But you could also just
+take three levels in Warlock or um or
+Pack of the Blade Warlock. Less
+important now that Hexblade exists, but
+we'll get there in a moment. Um you
+could take one level in Hexblade
+Warlock, two levels in Fighter, and have
+action surge, spirit guardians, and
+charisma based attacks. There's a lot of
+great um level splits that you can do
+even later on in Oath of the Crown
+Paladin. But the most common breakpoint
+is going to be level two getting you
+smite attacks and righteous clarity or
+level five getting you smite attacks,
+extra attack, righteous clarity and also
+warding bond spiritual weapon which are
+not bad. Command cast with uh charisma
+which is very relevant for a lot of
+characters. So um the normal break
+points are going to be two, five or at
+much higher levels like 11. Like any
+charisma character, you can um
+multiclass with all the other charisma
+characters very well. And like any
+marshall character, you can multiclass
+with the other marshall characters very
+well. Levels in ranger are a little less
+useful to you, but still pretty useful.
+And levels in fighter or barbarian both
+make really interesting characters.
+Bard, warlock, sorcerer are great.
+Wizard gets you wizard spellcasting.
+Even with your uh reduced access to
+highle spell slots, that's still a lot
+of utility that you can have if you take
+a level of wizard, a level of cleric can
+make you a much more dedicated healer
+and unlock the support capabilities of
+this character or multiple levels of
+cleric for life cleric. You can even use
+star druid like we just talked about to
+be a more dedicated healer or a more
+dedicated radiating orb build. Another
+thing that oath of the crown paladin
+gets is access to radiating orb because
+you have spirit guardians on a paladin.
+So a spirit guardiansing paladin with
+two levels of star druid suddenly can
+apply a ton of radiating orbs and has
+great um concentration to maintain
+concentration on spirit guardians. So
+lots and lots of great options with oath
+of the crown paladin. It's now the best
+paladin for two level dips, but the hits
+don't stop there. So of course it's
+going straight into S tier. Next up,
+swarmkeeper Ranger. I'm actually now
+keeping my own swarm of one because my
+cat has decided he desperately needs to
+be in my office or he'll explode. So,
+he's here to help with the rest of the
+recording. Swarmkeeper Ranger, of
+course, doesn't get any subclass
+abilities until level three, and so is
+in competition with one of the best uh
+three level dips in the game in the form
+of Gloomstalker Ranger. Gloomstalker
+Ranger gives you such an absurd amount
+of stuff at level three with the extra
+attack and the bonus to your initiative
+that Swarmkeeper Ranger really needs to
+do something interesting and powerful to
+be able to compete. Luckily, Swarmke
+Keeper Ranger rather than trying to
+compete on raw numbers the way that
+Hunter Ranger does where it mostly just
+means you take Gloomstalker over Hunter
+100% of the time, actually does
+something pretty different that's a lot
+more interesting as part of a
+multiclass. Swarmkeeper Ranger at level
+three gets uh the option of choosing one
+of three swarms. And those swarms give
+you once per turn when you attack an
+enemy, you can choose one of three
+abilities. Two of those abilities are
+shared between all three swarms. It's
+either doing a d6 of damage. The type
+depends on which swarm, but it's always
+a d6 or 2d6 if the enemy has hunter mark
+on them or teleporting you a short
+distance. The third ability depends more
+strongly on which of the swarms you have
+chosen. If you take the bee swarm, then
+it will push an enemy. If you take the
+jellyfish swarm, it will shock an enemy
+using the shocking grasp ability, so
+preventing their reactions. And if you
+take the moth swarm, it will blind an
+enemy. Usually, you're going to want the
+moth swarm unless you have something
+very specific in mind with pushing or
+shocking enemies. Um, or the lightning
+damage is particularly good for your
+build because you're doing a lightning
+themed build. Uh the blind is by far the
+most powerful of these effects. It's
+usually going to be better than 2d6
+damage as well. So the ability to take
+three levels to have a once per turn
+blind that just requires you to attack
+an enemy doesn't take any other actions
+is a pretty powerful multiclassing
+option. That type of resource-free crowd
+control is pretty rare in Boulders's
+Gate 3. So the ability to get access to
+it with a three-level investment is very
+relevant for a lot of builds. And the
+ability to turn it into just pure damage
+or mobility if the crowd control is not
+going to be good is especially nice
+because it means that this ability is
+always relevant as long as you're making
+weapon attacks. So uh or as long as
+you're making attacks at all. Another
+interesting thing about this is uh and
+that's why when I misspoke and said
+weapon attacks, it's actually very
+important that that's not true is that
+this ability works pretty much no matter
+how you make an attack. You can use a
+spell attack and it works off of a spell
+attack. You can use an unarmed attack
+and it works off of an unarmed attack.
+You can even activate it while wild
+shaped. It's one of the only ways to
+increase the damage of your wild shape
+attacks because the um flurry or swarm
+the swarm abilities work when you attack
+as a wild shape form. a three-level
+ranger investment and a two-le druid
+investment can get you the spider form,
+which lets you entangle enemies or now
+blind them with flurry of moths when you
+attack. And that's a very powerful crowd
+controller in the early game. So,
+there's a lot of interesting options
+that you can do with this um subclass
+that might not appear at first glance.
+These abilities also use wisdom as your
+save DC, and that's not bad because a
+lot of characters just want to increase
+their wisdom anyways. So, you'll usually
+have decent save DCs on these abilities,
+and the fact that it happens for free
+every turn means that it's pretty
+relevant. Of course, as you continue to
+level up at level five, you get extra
+attack as a ranger. Um, but after level
+five, you mostly don't get any relevant
+abilities. Both the base ranger class
+and this subclass don't get any
+particularly strong abilities between
+level 5 and level 11. At level 11, your
+swarms get upgraded and you can now
+blind and slow every attack. And that's
+really nice. But of course, by the time
+you're level 11, you're just looking at
+one level dips with ranger. There's a
+few that you could do here. Um,
+obviously like one level of fighter for
+an additional fighting style, one level
+of wizard gets you some wizard spell
+casting, one level of rogue gets you a
+lot more skill access, one level of
+bard, similarly. There's a a couple
+onelevel dips that are really nice for
+this character. Um, but mostly if you're
+multiclassing with Swarmkeeper Ranger,
+you're going to be taking either three
+or five levels.
+The question then is how good is it to
+take three or five levels of swarmkeeper
+ranger in order to get these uh swarm
+options? And the answer is pretty good.
+A three-level investment for a free
+blind every turn. A lot of builds can
+use that. There's plenty of builds that
+don't have anything that they
+desperately need from their last three
+levels. And adding a free blind to those
+um builds can be pretty nice. This can
+let you emphasize a more crowdcontrol
+focused marshall character. It can add
+some free crowd control to a more caster
+focused character. And it can even work
+with your wild shape forms in order to
+be one of the uh few ways you can
+improve wild shape attacks and let your
+wild shaping druid get free crowd
+control every turn that's also based on
+wisdom. I'm going to post a build guide
+to that particular combo to go over that
+one in more detail, but there's a lot of
+really cool options that you can do with
+Swarmkeeper Ranger. For that reason,
+with Swarmkeeper, we're just going to
+give it a nice solid A tier. There's not
+a lot of different level splits, but all
+of the different multiclass options are
+cool. And the thing that it gives you is
+a really nice sidegrade to a lot of
+other character builds. Next up,
+swashbuckler. So, rogue, of course, is
+one of the most powerful classes for
+multiclassing in the game, giving you a
+huge amount of value for very few
+levels, in part because the level three
+abilities on the subasses are generally
+speaking so powerful. So, thief rogue or
+assassin rogue are um amazing
+multiclassing options because three
+levels in that gets you a huge variety
+of abilities which can go in an enormous
+variety of builds and make them all
+significantly stronger. Let's see if
+swashbuckler lives up to the same uh
+features. So, at level three with
+swashbuckler, of course, you've taken
+two levels in rogue. So, you've already
+gotten your incredible skill access from
+taking your first level of rogue and
+your bonus action hide, dash, dash, and
+disengage from taking your second level
+of rogue. So, your character is
+significantly more mobile and um just a
+lot safer in terms of where you can
+position on the battlefield and how you
+can play the game. So, already we've
+gotten a lot out of this level
+investment. That makes this three-level
+investment less damaging than a lot of
+the other classes that have to take
+three levels in order to get their
+subclass. At level three, you get fancy
+footwork, which lets you make a melee
+attack against a target and prevent them
+from making opportunity attacks. So,
+basically, you get a free disengage
+every single time you melee attack. Um,
+that's pretty nice cuz it means that you
+can attack, move away, and then bonus
+action hide. So, you can constantly hide
+if you're making melee attacks. Um, and
+you get uh plus two to your initiative
+roles, which scales with your rogue
+level, but already at level three, plus
+two to your initiative is an awesome
+ability. And you don't need advantage um
+or an ally to trigger sneak attack. So,
+you can just sneak attack all the time
+without having your allies nearby um or
+advantage. So, rakish audacity gives you
+the ability to move around the
+battlefield a lot more. This is a pretty
+nice combo for a mobile character in
+terms of letting you effectively
+disengage for free every turn. Um, and
+then also not need an ally nearby and
+give you plus two initiative. But the
+problem with that, of course, is that
+thief rogue exists which lets you have a
+second bonus action which you can use on
+a disengage. So you can bonus action
+disengage and then hide. So you
+effectively get a free disengage every
+turn by taking thief rogue and all the
+tremendous utility of having a second
+bonus action. Now, the rakish audacity
+ability does give you something
+meaningfully different from thief rogue,
+but fancy footwork is mostly just worse
+than the second bonus action. Um, the
+plus two to initiative is really good,
+and the ability to sneak attack without
+an ally nearby is fine. Usually, you can
+manage that positioning, but it does
+give you a little bit more in the way of
+optionality. So, for three levels of uh
+rogue, swashbuckler gives you some
+things. Mostly it's going to be outshown
+by the other two um rogue subasses that
+are typical three-level dips in terms of
+thief or assassin. But swashbuckler gets
+something unique that the other rogue
+subasses don't get, which is real
+abilities at level four. An extremely
+common level split for rogue is four
+levels of rogue and eight levels of
+something else, whether that be fighter,
+barbarian, monk, whatever. Um because
+you get a feat at level four rogue.
+Swashbuckler not only gets that feat and
+the pretty solid level three abilities,
+it also gets these level four abilities
+which let you use a bonus action to
+attack an enemy with your main hand
+weapon and disarm them if they're armed
+or um use a uh do a little bit of damage
+and blind them with sand toss uh because
+uh do excuse me do a little bit of
+damage and blind them if they're not
+armed. Typically, you're going to want
+to use dirty trick, flick of the wrist.
+I don't know why I was just like
+stumbling over my words there. My bad.
+Um, typically you're going to want to
+use dirty trick, flick of the wrist if
+the enemy is armed, and Santos if
+they're not, because disarm is usually
+better than blind and it does the full
+damage of your main hand weapon. Um, and
+then vicious mockery can also come up in
+some multiclasses where you are more
+charisma based. So, if you're doing a
+thief rogue um hexblade build in order
+to make your attacks with charisma, if
+you're doing a thief rogue swordbard
+build, sorry, swashbuckler rogue
+swordbard build, then the vicious
+mockery as a bonus action is just a nice
+little bonus to your damage output that
+makes your bonus actions even better.
+The the one problem with this is that
+you can't multiclass with thief rogue,
+which would let you use these more than
+once, but you can use the helmet of grit
+if you have the um
+appropriate um if you have the
+appropriate item and use these abilities
+more than once in a turn. So, this is a
+really solid set of bonus actions and it
+sort of gives you extra attack just by
+taking four levels of rogue because it
+lets you turn your bonus action into an
+attack. And of course, it stacks with
+normal sources of extra attack. So, four
+levels of swashbuckler rogue makes a
+really solid addition to pretty much any
+marshall build. After that, there's not
+really much reason to continue in
+swashbuckler rogue. Panache is a sort of
+medium ability and it requires five more
+rogue levels to get. You can definitely
+do better um with more levels, but that
+of course doesn't matter for
+multiclassing uh builds because you're
+pretty much interested in what the 84
+splits look like with swashbuckler and
+other classes. And those 84 splits are
+pretty good. I went back and forth a bit
+on whether I was going to give
+swashbuckler rogue A or B tier because
+it's a meaningful side grade to thief
+rogue and assassin rogue, but still
+probably lower on the power level split
+than those two um options in for many
+builds. Um and of course there's pretty
+much only one level break point, which
+is level four for swashbuckler rogue.
+So, it does somewhat constrain how you
+can build the class, but because four
+levels of swashbuckler works so well
+with eight levels in pretty much any
+combination of other marshall
+characters, I think I am going to give
+it a tier. It's a little bit on the
+lower end than thief rogue, which is
+definitely an S tier character and still
+a little bit less powerful than assassin
+rogue, which goes in fewer builds, but
+is very, very powerful in those builds.
+But swashbuckler rogue gives you a lot
+of cool options with multiclassing. So,
+a tier. Shadow Sorcerer. So, Shadow
+Sorcerer is actually in kind of a funny
+spot here because it would be so much
+more exciting for multiclass builds if
+it weren't for the next class on this
+list. Sorcerer builds of course or
+sorcerer dips of course are extremely
+powerful. One level of sorcerer gets you
+concave proficiency if you start with
+it. Gets you um charisma based spell
+casting which is awesome and charisma
+skills gets you the shield spell and
+great cantrips for a default combat
+option. And so there's a lot of great
+things that you get from one level of
+sorcerer, but one level of shadow
+sorcerer doesn't get really anything in
+addition to that. Eyes of the dark is
+not a particularly meaningful ability,
+and strength of the grave, while it can
+be nice, is not something that I would
+ever want to rely on. So for a onelevel
+dip, you're much better off with uh
+storm sorcerer, which gets you the
+incredibly powerful tempestuous flight
+ability and lets you fly as a bonus
+action. Way better than these two
+abilities. So, one level dips, Shadow
+Sorcerer isn't where it's at. Three
+levels of Shadow Sorcerer, though, that
+gets a lot more exciting. This is a way
+to see in the dark with Eyes of the Dark
+Darkness. Um, that doesn't require you
+to sacrifice caster levels. Normally, to
+see in the dark in Balders's Gate 3, to
+see in Magical Darkness, you need to be
+at least a level two warlock. And since
+Warlock casting is different from other
+spellcasters, it requires you to
+sacrifice two levels of spell
+progression. That means to get Devil
+Sight with at least two levels of
+warlock, you have to give up at least uh
+six level spell slots. Shadow Sorcerer
+fixes that by letting you take three
+levels of Shadow Sorcerer in order to
+get both darkness abuse and maximum
+level spell casting. So that's pretty
+powerful. However, only three levels of
+shadow sorcerer for that reason um does
+suffer for a couple reasons. You just
+won't have very many sorcery points or
+you're going to be burning a lot of your
+spell slots to turn into sorcery points
+in order to use eyes of the dark
+darkness. Now, of course, you can use
+infinite sorcery point um abuse with
+potions of of angelic reprieve or
+whatever in order to circumvent this,
+but assuming that you're not um doing
+that, then the threele dip into shadow
+sorcerer, you're only going to be able
+to use this ability a pretty limited
+number of times per day. Now, it's still
+a very powerful ability, and darkness
+isn't good in every fight. So, you only
+need it a couple times per day in order
+for it to be excellent, but it's not as
+spammable as it would be if you were
+playing uh Warlock instead. The other
+issue with the three-level dip for
+darkness with shadow magic is that the
+Eversight Ring exists, arrows of
+darkness exist, scrolls of darkness
+exist. So, putting three levels into um
+Shadow Magic Sorcerer and sacrificing
+the things that you would get from Storm
+Sorcerer or just more levels than
+whatever other class you were
+considering is a pretty steep price to
+pay for something that you can get
+instead from items and other pretty
+readily accessible abilities. Now,
+obviously, darkness is extremely
+powerful, so it can still be worth it.
+Um, but this is a real cost and not
+usable as often as you might like for
+something that you're spending a pretty
+heavy investment into. Um, and that you
+could get through a lot of other means.
+So, in order to want this three-level
+dip, you would need the rest of your
+party to have those items accounted for.
+Um, for whatever reason, not to want
+levels in Warlock, usually because you
+want to be a full spellcaster who still
+gets six level spell slots. But a lot of
+the time you could just take the three
+levels in Warlock and use fifth level
+spell slots and be just as effective.
+Um, and then also have Eldrich Blast and
+Agonizing Blast and stuff like that
+rather than the Sorcerer levels. So
+there's a pretty narrow subset of
+characters that actually benefit from a
+threele dip in Shadow Sorcerer. Higher
+level splits with Shadow Sorcerer also
+don't make that much sense to me. Six
+levels for Nimbus is not bad, but Nimbus
+doesn't continue to scale throughout the
+game. So, if you take six levels, then
+you have a great summon when you get it,
+and then a summon that stays kind of
+relevant throughout the rest of the
+game, but certainly isn't going to be
+like amazing um on into the end game.
+And shadow walk is obviously a great
+ability, but by that point, you might as
+well just be playing a monocclass shadow
+sorcerer, which of course is an amazing
+thing to be. All none of these
+objections apply to monoclass shadow
+sorcerer which is just awesome because
+it's a fully powered sorcerer that gets
+to use darkness abilities which is
+incredible. Though if you're just
+playing monocclass characters shadow
+sorcerer is amazing. What that means
+when you put it all together though is
+that shadow sorcerer as a multiclass
+character doesn't have much of a home.
+It's an awesome character for
+monocclassing, but once you've decided
+to invest in shadow sorcerer and just be
+a darkness themed sorcerer, you really
+are better off just taking more levels
+in shadow sorcerer. So you can use this
+ability more often. So you can use hound
+of omen, so you can use shadow walk. All
+of these are great abilities and you
+just don't really need other things cuz
+sorcerer as a base class is so powerful.
+For that reason, we are actually going
+to give Shadow Sorcerer, just like
+Glamourbard, B tier. Not because these
+are bad classes, but because what you
+get from them is so uh
+is something that you want to continue
+getting. So, you would much prefer to
+just take more levels in this class than
+use it as part of a multiclass build in
+most cases. Next up, Hexlade Warlock.
+And honestly, I don't think we really
+need to spend too much time on Hexlade
+Warlock. I've talked about this one
+pretty extensively, and I mean, just by
+glancing at the level one abilities, you
+can probably see where this one's going
+to end up. At level one, you get more
+class features from Hexlade Warlock than
+some entire subasses give you over all
+12 levels. You get medium armor, shield,
+and marshall weapon proficiency, the
+best proficiencies in the game. And you
+get to use your charisma modifier to
+attack with your weapons, so you get to
+tie all of your abilities to a single
+stat. You also, of course, get all the
+great Warlock stuff that you get at
+level one. in especially Eldrich Blast
+and your Warlock spell slots and um you
+get the ability to cast Hexlad's curse
+as a bonus action adding your
+proficiency bonus in damage to every
+single damage instance that you do. So
+for like a magic missile build that adds
+to every one of the missiles for a
+scorching ray build that adds to every
+one of the rays and uh reducing the
+number you need to critically hit. In
+addition to all of that, you get the
+shield spell, which is something that we
+often want to onelevel dip in wizard or
+sorcerer for. Really powerful defensive
+ability. Um, and uh, and a bunch of
+other like great warlock spells.
+Wrathful smite a little bit less
+important, but shield and then all of
+these things at first level. That would
+be enough to push this class into S+
+tier all by itself. It's just way too
+much for one level in a class to give
+you. Um, I've talked extensively about
+how good this class is as a onelevel
+dip. It's now the one level of Hexblade
+Warlock is now the single best level in
+the game. Um, just in terms of the sheer
+amount of stuff that it gives you,
+pretty much any character can benefit
+from taking one level of Hexlade
+Warlock. If you're making any sort of
+attack roles then or doing any kind of
+damage with the character then hexlade
+warlock uh one or two level dip just
+makes the character vastly stronger.
+Then of course things don't stop there.
+At level two you get devil sight and
+agonizing blast. At level three you get
+darkness. Um at level five you get extra
+attack with packed of the blade. And on
+tactician mode or below that will stack
+with other sources of extra attack so
+you can get three attacks in a turn. and
+you get hunger of Hadar because you're a
+fifth level warlock. At sixth level, you
+get the ability to summon creatures as a
+reaction. Um, and all the way up to
+level 10, you continue to get great
+stuff. So, you can use Hexlade Warlock
+from any level split from one level of
+it for an incredible bonus to 12 levels
+of it and stop at pretty much any level
+in between and you will have gotten an
+amazing set of features out of the
+build. uh Hexblade Warlock just gives
+you a ridiculous amount of stuff. I it I
+thought about trying to list, you know,
+some possible builds with it or what
+characters have specific synergy with
+it, but the answer is every class and
+every class combination in the game is
+awesome with Hexlade Warlock cuz this
+character just gives you so much for so
+little investment that a onelevel dip
+more or less um improves any build and
+multiple levels in it will still just
+vastly improve a lot of builds. So,
+Hexblade Warlock, of course, going
+straight to S S+ tier. We all saw this
+coming. It's just so much for one level
+of a class or even more levels. And
+finally, blades singing wizard. So
+blading and wizard is an interesting
+case because a lot of wizard multiclass
+builds are just going to take one level
+of wizard to get access to all the
+wizard spell casting because of how um
+wizard spell casting works in Boulders's
+Gate 3 where you can learn level learn
+spells from a scroll based on your
+caster level and only need one level of
+wizard to enable that ability. Blad
+singing anding wizard means that you can
+do that and then take a second level of
+wizard to get access to the subclass
+abilities, which is often pretty good
+for a wizard build. Usually for a
+two-level dip with wizard, you're going
+to be taking divination or evocation. If
+you're
+uh if you really want the ability to
+drop fireballs on your allies heads
+without um harming them, like you're a
+sorcerer wizard mix, for example, and
+you find your allies in harm's way a
+lot. Um, but usually divination is going
+to be the normal two-level dip.
+Bladesong Wizard gives you a really
+interesting alternative to that because
+you get full wizard spell casting and
+then also this very marshall focused
+ability that can help any unarmored
+caster just be a lot more resilient or
+additional armor class to a more
+marshall focused build. Blade Song you
+can activate twice per long rest when
+you get it at level two and it gives you
+your proficiency bonus to armor class
+which is a pretty big boost to your
+armor class and 10 ft of movement speed
+which stacks with other other sources of
+additional movement speed as well as
+your proficiency bonus to your saving
+throws which again stacks with actual
+con save proficiency. So you can be very
+very good at not failing constitution
+saves. If that sounds familiar, it
+probably is because it's sort of similar
+to star druid where you can stack this
+ability with other sources of um of
+things that want you to maintain
+concentration on spells um and things
+that help you do that to be really
+really good at concentrating on spirit
+guardians or haste or whatever. Spirit
+guardians is especially cool with this
+because you get the extra movement speed
+to apply it more frequently. Now, this
+does have some pretty severe
+restrictions. You can't be wearing uh
+medium or heavy armor or shields, which
+is a pretty severe restriction, and you
+have to be wearing wielding a sword in
+your main hand. Now, you only have to be
+wielding a sword in your main hand. If
+you have dual wielder, you can have a
+staff in your off hand for the full
+Gandalf build. Um, and there's obviously
+some swords that are really nice to
+wield in your main hand, even for
+casters, most notably Faroo, but there's
+still some some others that are really
+good. uh bladesong wizards or a
+character with a couple bladesong levels
+makes an ideal far carrier because you
+get the additional movement speed to
+bring it close to enemies and then also
+it fulfills the requirement that you be
+holding a sword. The bonus armor class
+and uh move speed mostly don't make up
+for not being able to use a shield, but
+if your character wasn't planning to use
+a shield anyway, armor or a shield
+anyways, um then this is a pretty
+significant buff to your armor class.
+So, two levels of bladesong wizard can
+be very helpful for a lot of more
+lightly armored spellcasters. You also
+get bladesong climax, which you can
+build up by making weapon attacks if
+you're doing that or casting spells and
+then do a burst of healing or damage as
+a bonus action, which is pretty
+relevant, especially if your character
+is up in the mix um hitting things. And
+this is all uh in addition to just being
+a a wizard, so you get full wizard spell
+casting if you're a character that gets
+casting. For example, a 10 two split
+with swordsbard gets you six level
+wizard spells and this full uh all the
+swords bard stuff and also the
+bladesong. Um if you take more levels
+then you get extra uses of bladesong
+which is quite nice cuz if you're
+reliant on this ability you definitely
+want to be able to use it more than
+twice per day. That is one of the main
+downsides of an only two-level dip into
+bladesong wizard is that the number of
+uses of bladesong you get is pretty
+limited. And then at level six, you get
+extra attack. Extra attack on a full
+spellcaster is ridiculous for all sorts
+of reasons. So just being a wizard with
+extra attack means that you multiclass
+incredibly well with paladin. You
+multiclass incredibly well with xblade.
+Um you multiclass incredibly well with
+any character that wants to both make
+attacks and cast spells. Six levels of
+cleric with six levels of wizard gets
+you full wizard spell casting. you could
+do uh death domain cleric burst damage
+from your channel divinity in addition
+to having extra attack and full wizard
+spell casting with a six six split. So
+there's a lot of really awesome things
+you can do with six levels of uh
+bladesong wizard. So the normal level
+splits are going to be level two or
+level six. either you just want the
+blade song and the wizard spell casting
+and then you'll take two levels or level
+six you want the extra attack as well as
+the ability to cast counter spell. The
+other relevant thing about going to
+level six which I didn't mention is that
+you can't learn counter spell from a
+scroll but if you level all the way to
+level six you get to learn it just by
+leveling up in wizard. So you can have
+full 12th level spellcasting, extra
+attack and counter spell with a 66 split
+with this and another
+spellcaster. At level 10, you also get
+song of defense which does make you
+tankier and that can be combined again
+with two levels in any other
+spellcasting class or even just one
+level in any other spell-casting class.
+But two levels of paladin with level 10
+song of defense gives you sixth level
+spell slots and smite attacks, extra
+attack, all the benefits of uh being a
+wizard, counter spell, and so on. Um, as
+well as weapon and armor proficiencies
+from Paladin that you can't really use
+cuz they conflict with your blade song.
+But you might find that you just prefer
+to be in heavy armor and just play a
+heavy armor wizard with extra attack and
+counter spell and smites and just ignore
+activating bladesong because one of the
+great things about bladesong wizard is
+you don't even have to use bladesong at
+all. just getting extra attack on a full
+spellcaster, specifically on a wizard
+who's really really um who whose spell
+casting is so good that having extra
+attack just gives you a whole extra
+variety of options is really nice. So, e
+there's a lot of builds you can do that
+just ignore the blade song entirely and
+just run around in heavy armor with uh
+as a full spellcaster with extra attack.
+Bladesong wizard multiclasses extremely
+well. There's tons of different options.
+Whether you're taking paladin levels for
+smite, whether you're using this to
+boost another more lightly armored
+spellcaster, any of those options are
+extremely strong. So, we are going to
+give Bladesong Wizard S tier because it
+multiclasses extraordinarily well. All
+right, my friends. I hope that you've
+enjoyed this look at the multiclassing
+potential of the new patch 8 subasses,
+and I hope it helps you plan how you're
+going to approach building these
+characters, whether as monoclass
+characters or as multiclasses, and what
+uh builds you're going to do. I think
+patch 8 is just around the corner, so
+hopefully we can all be trying out these
+builds very, very soon. Um, and I hope
+that this gives you some great ideas for
+how to do that. This is a really
+interesting exercise because where they
+ended up in the tier list is actually
+not very reflective of the overall power
+level of the subasses. Of course, it has
+some something to do with it, but mostly
+this is how well they play with others.
+So, I would say that when you're
+reviewing this tier list, don't spend
+too much mental energy on which specific
+tier the classes went into. The most
+important part is talking about the
+break points and interesting skills that
+they have, interesting abilities they
+have, and how they synergize with other
+possible builds. Um, and of course, if
+there's something that you think I
+missed or you think I put one of these
+in the wrong tier because I'm not
+understanding how an ability interacts
+with something else, definitely do let
+me know in the comments. I'm always open
+to moving things around. Though, again,
+with this one, this tier list is very
+much just a jumping off point. As
+always, of course, if you have enjoyed
+the video, feel free to leave a comment
+and hit the like button. Helps me out a
+ton with the algorithm. So, I really
+appreciate you taking the time to do
+this. And of course, you can subscribe
+to my channel for more Boulders Gate 3
+build guides. I'm going to be do diving
+uh more deeply into each of these
+subasses when patch 8 actually launches.
+So, you can look out for that um and
+other strategy game analysis. Cheers, my
+friends. I'll catch you next time.

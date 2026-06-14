@@ -1,0 +1,2768 @@
+Hello, my friends, and welcome back to
+another Balders's Gate 3 tier list and
+guide. Hope you're all doing well.
+Today, we're covering the best spells in
+Balders's Gate 3. Over the past several
+weeks, I've gone through and updated my
+spell tier lists, covering every single
+spell in the game, which yielded more
+than 12 hours of video. So today I'm
+going to go through and talk about the
+very best spells at each level from
+cantrips through level six spells to all
+the spells that were rated S and A tier
+to give you a one-stop shop for spell
+selection. How I've rated these spells
+is very simple. Should you learn and
+prepare them on characters that have
+access to them? And if you cast them
+frequently, will they help you win honor
+mode? In S tier, I've placed spells that
+are major draws to playing a certain
+class. These spells are so powerful that
+they're the reason that you pick
+characters that have access to them
+because these are going to be critical
+tools for helping you win in honor mode.
+In a tier, I play spells that are going
+to be main stays of a character's
+strategy. Almost every character that
+has access to these spells is going to
+want to take them and cast them
+frequently, but they don't draw you to
+playing that class as much as the S tier
+spells do. In B tier, I've placed spells
+that are useful in certain situations.
+either they're good in sort certain team
+comps or good in certain encounters but
+won't be used as frequently as the
+spells in higher tier. And for spells in
+this tier and in lower tiers, I'll
+mention notable ones as we go through
+this tier list. And of course, you can
+refer to the individual spell level tier
+lists in order to get much more
+extensive and detailed information about
+all of these spells. In C tier, I play
+spells that are marginal. either they're
+good for only one very specific build or
+like one or two situations that come up
+in the game and otherwise are mostly not
+going to be cast. And finally, in Dtier,
+I've placed spells that you can pretty
+safely ignore for most characters with
+most playthroughs. Now, of course, it's
+worth mentioning that the ultimate
+criteria for what spells you pick in
+Balders's Gate 3 is what you enjoy.
+Optimization is a tool to help you have
+more fun. So, even if I've rated a spell
+that you enjoy casting low, keep casting
+it. Don't let this constrain your
+actions, but this can give you tools to
+allow you to uh build characters that do
+what you want more consistently.
+Finally, before I begin, I do want to
+take a quick moment to say thank you so
+much to Tarantula for the $10 donation,
+Benjamin Robertson for the $50, Nonut
+Rushy for the $10, and Charles Con and
+Ally for becoming channel members. Thank
+you so much, my friends. I really
+appreciate your support. It really means
+so much to me. All right, let's talk
+spells.
+We're going to begin at the beginning
+with the cantrips. Cantrip selection, I
+think, is often heavily underrated and
+underdis discussed in character
+optimization. This is an extremely
+important choice because although these
+are unassuming spells, they're always
+available and often very powerful. For
+many spellcasters, your main combat
+cantrip is going to be your single most
+common action taken across the course of
+a playthrough. So choosing the right
+ones can make your playthrough vastly
+easier and your characters significantly
+more powerful. In S tier, I've placed
+Booming Blade, Elders Blast, Guidance,
+Minor Illusion, Ray of Frost, and
+Chilele. Booming Blade is a brand new
+spell as of patch 8 for Balders's Gate
+3, and it allows you to add an
+additional rider effect to a melee
+attack. You can only use it once per
+action. So, if you have extra attack,
+you can only use it once. But if you
+have multiple actions in a turn, like
+from action surge or haste, you can use
+booming blade multiple times. At low
+levels, it gives an enemy a debuff that
+makes them take a d8 of thunder damage
+when they move. And at higher levels, it
+does initial damage, 1d8 at level 5, and
+2d8 at level 11, and then more damage
+when the enemy moves. Booming blade is
+incredibly powerful because it is free.
+For any character making weapon attacks,
+adding a booming blade attack is costs
+them absolutely nothing because you can
+just do it as part of a normal weapon
+attack. And it uses your weapon stat. So
+if you're a character who's
+strength-based, booming blade will still
+use your strength to make the attack and
+do your normal weapon damage. Because it
+is completely free, Booming Blade would
+be an amazing spell even if it did
+almost nothing. If this spell said one
+in a million times it does one damage,
+you would still take it on almost every
+character because there's almost no cost
+to taking it. But of course, its effects
+are actually incredibly powerful. The
+additional initial damage is amazing to
+get every turn for free. The damage when
+enemies move is very powerful as well.
+You can shove enemies away or walk away
+from them to force them to run after you
+to trigger this extra damage. More
+damage for free is just incredible.
+Eldrich Blast is Warlock's best damage
+cantrip and the best damage cantrip
+overall in the game. It is very powerful
+because there's lots of ways to boost
+it. So warlocks themselves have
+agonizing blast which adds their
+charisma to each beam of the Eldrich
+Blast and it also does 1d10 force damage
+forces very hard to resist for enemies.
+And as you level it up instead of
+gaining additional damage dice like most
+other cantrips, it fires additional
+beams. These can be split across
+multiple enemies or all fired at the
+same enemy, which is incredibly powerful
+because it gives you multiple chances to
+apply um rider effects, things like
+agonizing blast, radiating orb, extra
+damage from spells, and so on. And also
+because it gives you multiple chances to
+critically hit, and it tightens the
+damage distribution. Although three
+beams, three attacks for 1d10 damage is
+the same average damage as one attack
+for 3d10 damage like firebolt, it is
+much more likely to have a damage
+distribution in the center of the range
+because you're making multiple attacks.
+So you're much less likely to just miss
+with all of the damage. That's very good
+and talks about sort of our first spell
+selection principle, which is that in
+Boulders's Gate 3, you want to reduce
+randomness as much as possible. The
+enemy of optimization is randomness. And
+Eldrich Blast is both incredibly
+powerful and incredibly non-random. So,
+it helps your characters be vastly more
+consistent and also do amazing amounts
+of damage. This canrip is so good that
+often other characters will take a level
+of warlock just to access it or the
+spell sniper feat just to access it. But
+of course for warlocks it's going to be
+your main stay damage cantrip throughout
+the entire game. Guidance is on the
+short list for very best spells in the
+entire game. Having a character with
+guidance in your party basically gives
+you an extra 1d4 on all of your skill
+checks for free forever. Again, this is
+value for free and anything that you get
+for free is incredible. And since you're
+going to be rolling a lot of skill
+checks throughout Balders's Gate, having
+an extra bonus on them at very low cost
+is amazing. Most honor mode parties
+should try to have two characters with
+guidance. So that if one of them has
+something else that they want to react
+to the skill check with, like
+enhancibility, you can still have
+guidance on the check. So having two
+characters with access to guidance is my
+usual suggestion. Guidance is also nice
+because it's a concentration-based
+cantrip. There are a lot of effects that
+trigger off of concentrating on
+something and this gives you a way to do
+that for free. So you can use
+concentrated blast the illicit power
+just at the cost of a cantrip or you can
+trigger the bonuses of the ring that
+does extra damage when you're
+concentrating um just by casting
+something for free. So guidance gives
+you some extra benefits as well but also
+just the fact that it gives you free
+value on every skill check is amazing.
+Minor Illusion is probably the best out
+of combat spell in Boulders's Gate 3.
+When you cast it, enemies just walk
+towards it with no saving throw, which
+or characters in in general just walk
+towards it with no saving throw, which
+is super powerful. You can use this to
+group enemies together to make them more
+vulnerable to AoE damage or control
+spells. You can use it to split enemies
+off from their allies in order to pick
+them off one by one. You can use it in
+towns to steal things much more easily.
+So, minor illusion basically has a
+number of uses only constrained by the
+creativity of the player and is
+incredibly powerful for maximizing the
+value of your AoE spells. I go into much
+more extensive detail on this spell um
+in the uh expanded cantrips tier list.
+Ray of Frost is the general best damage
+cantrip. It has 60 ft range and does 1d8
+damage. and then slows enemy movement
+speed by 10 ft if you hit with the
+attack. 1d8 damage is a little less than
+firebolt. But ray of frost brings up
+another important principle for choosing
+spells in Balders's Gate 3, which is
+that cold and lightning damage are the
+best damage types. This is because in
+Balders's Gate 3, any character that's
+wet has vulnerability to cold and
+lightning damage. And it's very easy to
+apply the wet condition to enemies by
+throwing a bottle of water at them,
+casting create water, splashing a puddle
+of water on the ground to steam, by
+using a firebased attack. Um, and then
+ray of frost will deal double damage,
+outpacing the damage of any other damage
+cantrip. In addition, the fact that if
+you hit an enemy with it and it targets
+their armor class, so you're pretty
+likely to hit, they just lose 10 feet of
+movement speed with no saving throw is
+incredibly potent for a spell-casting
+character. Against most melee enemies,
+this is as good as a stun because you
+can hit them, reduce their movement
+speed by 10 ft, and since this has 60 ft
+range, you can be at least 60 ft or
+often 90 ft away from the enemy. They
+will then have to double move to try to
+get to you, spending both their movement
+and action. And they won't even cross
+half of that 90 ft distance in order to
+uh make up the difference with Ray of
+Frost. So, you can use this to kite
+enemies backwards and stun them turn
+after turn when you use it against melee
+enemies while dealing incredible damage.
+It also is cold damage, which means that
+it can freeze pools of water on the
+ground, creating an ice surface. Once
+again, in Balders's Gate 3, the ability
+to do cold damage and create an ice
+surface is ludicrously powerful. When an
+enemy is on an ice surface, they have to
+make a dexterity saving throw when they
+move or they fall prone. An enemy who
+falls prone on their turn skips the rest
+of their turn, though it effectively
+stuns them. So, from this cantrip, you
+get multiple ways to stun enemies, often
+in an AoE, as well as the highest damage
+cantrip in the game, um, when enemies
+are wet. So with any source of the
+ability to make water, which bottles of
+water are common, create water as a
+level one spell, ray of frost just
+becomes incredible. And even without
+that, it's still going to help you
+immensely against melee enemies. Halele,
+which yes is how it's pronounced, is
+druid's best damage option, giving you
+an extremely powerful melee attack. This
+sets the base damage of your weapon to
+1d8. So, if combined with a torch, which
+is a club that's on fire, you add a d8
+plus a d4 of fire damage plus your
+wisdom to the attack, which actually
+gives druid using challe the best early
+game melee weapon. One of the great
+things about druid is that they're the
+strongest character in the game from
+levels 1 through four or so. Um, which
+of course is the most difficult and
+dangerous part of honor mode runs. So
+having a cantrip which is are generally
+most important in the early game that
+carries the most difficult part of an
+honor mode run is incredibly powerful.
+Challe gives you that because it just
+gives you uh massive melee damage output
+with your druid alongside of all of the
+powerful spell casting that they get and
+wild shaping ability and things like
+spike growth that also win early game
+encounters. So this is an extremely
+powerful tool for an honor mode party.
+In a tier, I've placed Blade Ward,
+Bonechill, Firebolt, Friends, Light,
+Mage Hand, and Toll the Dead. Blade Ward
+is a purely defensive cantrip, and so
+you won't want to cast it every turn
+because often it is better to spend your
+turn attacking enemies. But there's two
+incredibly powerful uses for blade ward,
+which gives you resistance to
+bludgeoning, piercing, and slashing
+damage. Um, one of which is to buy time.
+If you spend your action and take
+basically half of the action of many
+enemies, then that can be a powerful
+action economy trade. Uh, spending your
+action to reduce the damage of five or
+six enemies by 50% is like you spent
+your action to stop three of those
+enemies from acting. So, in cases where
+one character is about to be attacked by
+a bunch of enemies, Blade Ward is very
+powerful. It can also give your
+characters an emergency button if they
+are surrounded by enemies and need to
+survive until help arrives. The other
+thing is it's incredibly synergistic
+with other sources of damage reduction.
+The resistance applies before flat
+damage reduction. So a character in
+heavy armor or with an effect like
+arcane ward can use blade ward to
+multiply their damage reduction
+immensely and enemies won't be able to
+hurt them. Bone chill is a another
+mainstay damage canrip. 60 foot range
+targets enemy AC and does a d8 of
+necrotic damage which is pretty good and
+then also has a powerful rider effect.
+It prevents healing and gives undead
+disadvantage on all their attacks for
+one turn. Preventing healing is very
+relevant in some fights throughout the
+game and act two has tons and tons of
+undead and there's other undead
+elsewhere. Being able to give them
+disadvantage on all their attacks with
+no saving throw with just a cantrip is
+very powerful. This also of course
+doubles up with death clerics and stuff
+like that. But bone chill is a great
+second damage cantrip. Typically you're
+going to want one other damage cantrip
+as your main damage uh source, but bone
+chill will be a very powerful utility
+effect to have access to. Firebolt does
+a d10 of fire damage. And while this is
+more damage at base than ray of frost,
+typically firebolt is going to be more
+of a utility spell than a direct damage
+spell. Usually when you have a choice
+between these two, ray of frost is going
+to be more damage and have more utility
+options. So you'll usually cast it more,
+but firebolt lets you set fires. Being
+able to light things on fire is in at
+long ranges is incredibly useful
+throughout Balders's Gate 3. And of
+course, you can also cast it on an enemy
+when you want damage. So, this is the
+highest damage direct damage cantrip.
+Um, so in cases where enemies aren't wet
+and you can't double the damage of ray
+of frost, firebolt is a little more
+damage on average, but also just being
+able to light fires is incredibly
+valuable. Friends gives you advantage on
+charisma checks, which are generally
+speaking the most important checks that
+you're going to make throughout
+Boulders's Gate 3. And so having free
+advantage on those is incredibly
+powerful just like with guidance.
+However, on honor mode and tactician
+mode, friends also counts as committing
+a crime. So when the duration expires,
+enemies will treat you as though you
+committed a crime, which can either
+cause you to go to jail or be attacked
+depending on the area that you're in.
+There's a way around this, which is to
+fast travel away from the location that
+you used friends in and wait out the
+duration. You can also hide or disguise
+in order to get away from it. Um, this
+takes real life actual time in order to
+avoid the downsides downsides of this
+spell, but it's still a very, very
+powerful tool. A lot of the charisma
+checks that you're going to make in the
+game are against enemies that you're
+going to fight anyways. So, even if
+you're not metagaming, then friends is
+still a very powerful tool. So, even if
+you don't like doing the fast travel
+away and then come back thing, it's
+still an incredibly powerful tool and
+will give you huge advantages in a lot
+of circumstances.
+Light um is the definition of a perfect
+utility canrip. You cast it once at the
+beginning of the day and it makes your
+character glow with light. There's lots
+of areas in the game where you need
+extra light sources. And the ability to
+do this with a cantrip is probably the
+best way to get light sources in the
+game. You can also cast it on a weapon
+and then put that weapon away or drop it
+if you want to turn off the lights for
+whatever reason in an area. So, a very
+powerful and useful tool, especially cuz
+there's so many areas in Balders's Gate
+3 where it's important to have them lit.
+Mage Hand is available only on a short
+rest cool down. So, it's the only
+cantrip in the game that has an actual
+cool down. Um, but it is ridiculously
+strong because the mage hand can throw
+objects. If you drop a stack of
+throwables, like water bottles, healing
+potions, or grenades on the ground, then
+you can do that without spending an
+action, and the mage hand can throw them
+for you. Having the mage hand throw
+water bottles to get enemies wet, or
+healing potions to keep your allies
+active, is incredibly powerful and
+allows you to do those things, which are
+great in Boulders's Gate 3, without
+spending valuable time from your actual
+characters. You do need to be a little
+bit careful if you want it to throw
+grenades. You can do that, but enemies
+will attack stacks of explosives or
+alchemist fire or stuff like that on the
+ground. So, if your character is too
+near it, they might be able to blow them
+up. So, you do need to be careful with
+that. But, Mage Hand gives you a
+tremendous amount of tactical options.
+Even though it's the only cantrip that
+costs an actual cooldown in order to
+use. Finally, toll the dead is the best
+damage canrip for clerics. It's a new
+spell that was introduced in patch 8,
+and it single-handedly has made clerics
+early game already pretty good,
+significantly stronger by giving them a
+great direct damage option in the early
+game. Of course, especially for death
+clerics who can double up on it, it's
+amazing. But for any cleric, just having
+a direct high damage cantrip gives them
+uh valuable things that they can do with
+their turns while they're also
+concentrating on the extremely important
+concentration spells that are cleric's
+bread and butter. So toll the dead gives
+them just an excellent default action to
+take turn after turn and is going to be
+the damage cantrip that almost every
+cleric is going to use. For characters
+that have access to the dead but also
+have access to other damage cantrips
+like ray of frost, bone chill, and
+firebolt, you're typically going to want
+to use those instead. But for clerics,
+this is their best option. And so that's
+what they're going to take over
+everything else available to them.
+Finally, a couple uh cantrips from lower
+tiers that are worth mentioning for
+various reasons. One is resistance.
+There's a few cases in the game where
+you have guaranteed saving throws that
+you're going to have to make. Either
+there's a saving throw in dialogue when
+someone or something tries to mind
+control you or there are saving throws
+that you know you're going to have to
+make. And resistance will allow you to
+respond to those triggers by boosting
+your character's saves, which is very
+powerful. So this is one that you should
+usually strive to have in a party even
+if you won't use it that often. It also
+is a a concentration cantrip just like
+guidance. So it can be used for all the
+concentration shenanigans. Though
+typically most characters who have
+resistance also have guidance and so are
+just going to use guidance for that
+instead. But resistance gives you some
+combat benefits. So if you are using it
+to trigger concentration, it's not a
+terrible way to do that throughout the
+fight. Also, sacred flame I actually
+moved from my updated tier list where I
+had it in Dtier up to Ctier specifically
+for radiating orb builds. This spell is
+significantly worse than toll the dead
+in terms of its damage output in the
+early game. So, clerics are going to
+avoid sacred flame and take toll the
+dead instead almost always. But once you
+get into the later game and have the
+radiating orb gear, radiant damage
+becomes very relevant. And so while
+cantrips will be much less of an
+important part of your plan in the late
+game, those builds will still sometimes
+cast sacred flame. So I'm putting it in
+C tier. Finally, bursting senue is the
+other new cantrip available in patch 8.
+Unfortunately, the targeting
+restrictions on this spell and the just
+overall damage, the fact that it targets
+a dexterity saving throw does make it
+hard to actually land the damage from
+bursting in you. Although it is really
+fun. So unfortunately, despite being a
+new cantrip, this one is going in D
+tier. Overall, your goal with cantrips
+is going to be to have powerful default
+actions that you can take in combat so
+that so that you can do them turn after
+turn after turn and free utility that
+helps out your entire party. And so
+things like guidance, light, and minor
+illusion give you massive advantages for
+very little or no resource expenditure.
+And these spells will be important main
+stays for strategizing both in and out
+of combat. Next up, let's talk about
+first level spells. These are in many
+ways the most important spells that
+you're going to select and cast
+throughout your playthrough because you
+start the game with them and have them
+all the way through. So, they're going
+to be the most numerous spells that you
+cast. Also important to remember is that
+every spell of a higher level is
+competing directly against these spells
+because you can always spend a higher
+level spell slot to cast a lower level
+spell. And a lot of the time, the best
+use for higher level spell slots is
+going to be upcasting these incredibly
+powerful spells. A very common play
+pattern for a spellcaster is to cast a
+powerful concentration spell with their
+highest level spell slot and then spend
+the rest of the fight casting lower
+level spells to finish off enemies and
+then finally finishing off on cantrips
+in order to conserve resources. And
+first level spells are going to make up
+the bulk of that. So these spells are
+going to be cast many times per fight
+compared to higher level spells which
+may not be cast as often. In S tier,
+I've placed 13 first level spells. We're
+going to start with bless, which is an
+incredible buff spell that makes your
+whole party better at rolling dice. It
+adds a d4 to your attack rolls and
+saving throws. And rolling dice is
+basically the whole game. That's what
+you do in Boulders's Gate 3. And attack
+rolls and saving throws are the most
+important kinds of dice that you're
+going to roll by far. So, bless makes
+you better at doing the thing that
+composes the entire game of Balders's
+Gate 3. It decreases randomness and
+means you're much more likely to succeed
+on everything that you're attempting to
+do, making it an extremely powerful
+effect. And because it lasts for 10
+turns, you can cast it before combat
+starts and never have to actually spend
+an action on using bless. Most parties
+should strive to have this buff running,
+either by casting the spell or using
+items that grant it, 100% of the time.
+It's that powerful when you are playing
+through the game. Chromatic Orb is the
+best level one damage spell because not
+only is it sort of the gold standard for
+damage with 3d8 thunder damage or 2d8 of
+any other damage type, um you can choose
+which damage type you are selecting,
+which is very important because it's
+going to let you hit vulnerabilities and
+avoid resistances very easily. It also
+leaves behind an elemental surface of
+the appropriate type, which can be
+guaranteed damage if it's fire or
+lightning, can reduce enemy armor class
+if it's acid, making them easier to hit,
+and most importantly, can be an ice
+surface. I've already mentioned how
+powerful ice surfaces are, but chromatic
+orb dealing 2d8 cold damage, which can
+be doubled using the wet condition for
+4d8 damage with a level one slot. Great
+damage to spell slot ratio. Um, and then
+leaving behind an ice surface, which can
+often stun one or multiple enemies,
+gives it an incredible top end and
+incredible versatility. So, this is just
+the best level one damage spell. And
+when you're not casting concentration
+spells, you're often going to be casting
+chromatic orb. It also can critically
+hit targets armor class. So, it's got
+basically everything going for it.
+Command is the best control spell for
+single targets and often the best
+control spell for multiple targets
+because when you upcast it, you get an
+extra target for every spell level
+beyond the first. It lets you
+effectively trade your turn for an enemy
+turn, which is a good trade cuz you can
+decide when to do it, but also with
+command gravel, not only do they lose
+their turn, they also fall prone and
+then you get advantage on your attacks
+against them. It's non-concentration,
+can be extended if you're a sorcerer.
+Um, so for clerics who have access to
+command, this is going to be one of the
+most common spells that you cast cuz it
+just ends fights immediately. Taking
+down an enemy for a full turn means that
+if you won initiative, you get your
+whole party to attack them and then hit
+them with command and then they don't do
+anything for a turn, you get your whole
+party to attack them again. So, it
+basically buys you two full turns of
+attacks with no retaliation as long as
+you're winning initiative. And that is
+something that's very important in
+Boulders's Gate 3. This spell just ends
+fights immediately. It's probably going
+to be um you're probably going to be
+spending almost every spell slot on your
+cleric on command because it's just that
+powerful and it works so well in every
+fight where it's relevant and it targets
+almost every enemy successfully. Create
+water might seem like an odd one to be
+this high on the list because it's a
+pure utility spell, but the ability to
+make water anywhere is incredibly
+valuable. Not only are there story
+events and stuff where that's useful and
+doussing fires and so on is really good,
+but as I've mentioned previously, when
+you get an enemy wet in Balders's Gate
+3, they take double damage from cold and
+lightning, and that is the most
+dangerous thing that you can inflict on
+enemies. There's a reason that in
+Dungeons and Dragons, the tabletop game,
+that's not a thing. Because giving
+enemies vulnerability to damage
+completely breaks the balance of the
+encounters, and Create Water lets you do
+that for extremely cheap, letting you
+kill enemies much, much faster than was
+intended, and end fights before they
+begin. In addition to that, it leaves
+behind a big water surface, which is
+very powerful as well, because that lets
+you create an ice surface anywhere. and
+ice surfaces, as we've discussed
+already, are great. Getting enemies wet
+is extraordinarily powerful in Boulders
+Gate 3. It's not just for fanfiction,
+and taking advantage of Create Water
+will let you win vastly more fights than
+you would otherwise. Dissonant Whispers
+is both an extremely strong uh damage
+spell or a reasonably strong damage
+spell. does good damage, direct damage
+to a single target, 60 ft range, but
+also is two turns of crowd control for a
+single saving throw. Enemies make a
+wisdom save or they become feared and
+can't move. And against melee enemies, a
+melee enemy that can't move is not a
+threat because they can't get to you.
+So, not only does this do pretty good
+damage for the spell slot, it also will
+let you lock down melee enemies and is a
+spammable spell for your bard who's
+probably concentrating on a powerful
+control spell as well. So, you can lock
+down whoever was missed by your hypnotic
+pattern or whatever with dissonant
+whispers. It's one of the best spells
+for casting turn after turn after turn.
+Enhanced leap is a ritual spell, meaning
+that when you cast it outside of combat,
+it doesn't take a spell slot to cast. It
+triples the jump distance for your
+characters and every character in
+Balders's Gate can jump as a bonus
+action. Casting enhanced leap on your
+party is basically like giving your
+whole party misty step for free. Even a
+character with very low strength can
+jump incredibly long distances with
+enhanced leap. And mobility is king in
+BG3 combat because an enemy who can't
+reach you can't hurt you. Being able to
+jump up to get to ranged enemies or jump
+up onto height to get away from melee
+enemies lets you win so many fights um
+that would otherwise be difficult
+basically for free. And enhanced leap is
+free cuz it costs you nothing to use if
+you cast it before combat starts.
+Healing word is a bonus action heal with
+60 ft range. And the healing itself is
+not that powerful, but the ability to
+get downed enemies back up off the
+ground with just a bonus action is
+really good. And the ability to apply or
+reapply the buff on heal items um with a
+bonus action is excellent as well. The
+great thing about this spell is that it
+takes very little out of your action
+economy. You can think of Dungeons and
+Dragons combat as an exercise in using
+the resources that you get every turn to
+the maximum and reducing your enemy's
+ability to do the same. Every character
+in D&amp;D combat gets five resources every
+turn. Your action, your bonus action,
+your reaction, your concentration, and
+your movement. And healing word is one
+of the best ways to use your bonus
+action for a huge advantage. In
+Balders's Gate 3, there's items that
+buff your allies when you heal them, and
+healing word lets you apply those as a
+bonus action. And then also, it lets you
+get allies who have been knocked
+unconscious back up off the ground for
+free, or even you can use it as an
+actual heal to prevent an enemy from
+going an ally from going down to the
+next enemy attack. But mostly, you're
+using it in order to apply these buffs
+and pick up downed allies, which is a
+very valuable tool to have. Hex and
+Hunter Mark add additional damage to
+each of your attacks. Um, including
+spells for hex and only for weapon
+attacks for hunter mark and are how
+warlocks and rangers do damage. Uh, a
+warlock with hex and agonizing blast and
+eldrich blast is applying the hex damage
+and the agonizing blast damage to each
+one of the beams of their Eldrich Blast
+and so is doing a significant amount of
+additional damage. In the early game,
+this is going to be absolutely critical
+for your warlock to have reasonable
+damage output. Late game, you may
+replace hex because you will want to be
+concentrating on higher level spell
+effects cuz this does take your
+concentration. But something that only
+takes one spell slot, lasts all day cuz
+you can keep recasting it and increases
+your damage over the course of a day
+enormously is extremely valuable,
+especially in the early game. For
+warlocks in particular, this also lets
+you turn a short rest resource, a
+warlock spell slot into a long rest
+benefit because hex can be maintained as
+long as you maintain concentration on
+it. So that lets you uh convert your
+resources into more valuable effects.
+Hunter mark is very similar and ranger
+spells are less impactful overall than
+warlock spells. So this for a ranger is
+just free damage. Every ranger is going
+to want to use hunter mark because it
+just increases their damage
+significantly.
+Longstrider is probably the number one
+spell in the game. I know I've mentioned
+a couple spells that are shortlisted,
+but this is another ritual spell that
+does not require a spell slot when used
+outside of combat. Lasts all day with no
+concentration and increases your party
+the targets move speed by 10 ft. Extra
+move speed is incredible. lets you get
+to enemies before they can attack you
+and attack ranged enemies more easily
+and maintain distance away from melee
+enemies so that they can't hit you. So
+extra move speed often directly
+translates into fewer turns taken by
+your enemies and more effective turns
+taken by your party where you're not
+wasting actions on moving to the enemy
+because you're already there. Long
+Strider is completely free. All that it
+requires you to know is just to have the
+spell available to your party. And if
+you cast it on your whole party member,
+you get an enormous and very impactful
+benefit for absolutely no cost. Anything
+that comes for free is really good. So
+even if this was a much smaller benefit,
+it would still be an excellent spell,
+but as is, it costs you nothing and
+gives you a huge uh benefit. So you
+would be a fool not to use it. Magic
+Missile never misses. It's fully
+reliable damage unless the enemy
+specifically has the shield spell, which
+is very few enemies in the game. And
+being able to 100% count on doing damage
+to an enemy or multiple enemies because
+you get multiple missiles and can split
+them up across multiple targets is
+extraordinarily useful. As I've
+mentioned already several times, the
+enemy of optimization is randomness, and
+magic missile is entirely non-random. Um
+there is a very small amount of variance
+in the amount of damage that you do, but
+if you're worried about that, you can
+just put multiple missiles on the same
+target. And so for finishing off
+lowhealth enemies, this is an absolutely
+guaranteed way to manage that. It also
+doesn't require line of sight or
+anything along those lines. You don't
+have to be able to draw a direct line to
+the target. You just choose someone,
+click on them, and they die. Magic
+missile is also incredibly synergistic
+with lots and lots of items and build
+progressions in the game and you can
+build entire builds around just blowing
+enemies up with this spell. I've done
+several of them on the channel uh
+because it fires multiple missiles and
+so each of those is going to apply
+additional damage riders and stuff that
+you have on your spells. But even just
+by default, the fact that this spell
+just always works makes it incredibly
+valuable and you're going to use it very
+regularly for killing enemies who are at
+left at small amounts of health after
+you've hit them with an AoE damage spell
+or after an attack has rolled lower
+damage than you were expecting or
+whatever. Sanctuary is a bonus action
+that makes an ally completely immune to
+being directly attacked for 10 turns as
+long as they don't attack or do damage.
+This can be used both reactively to
+defend allies who are in trouble and
+keep them alive, which is very, very
+valuable, or proactively when you have a
+character who's concentrating on a
+valuable concentration spell like haste,
+putting them in sanctuary means that
+they are almost entirely uh unlikely to
+drop concentration on that spell. And so
+the combination of sanctuary and haste,
+it gives you free haste without any of
+the downsides of that spell. So, this
+this spell is both one of the best
+defensive tools in the game. When you
+find a character in trouble, you can use
+sanctuary and it will almost always get
+them out of it and also gives you a lot
+of tactical options. You can also use it
+to group enemies cuz they'll tend to
+gather around the sanctuary target. Um,
+so you can use it to set up for AoE
+attacks. You can use it to uh safely get
+an ally out of combat. You can use it to
+disengage from fights that are going
+badly. There's all kinds of different
+ways that you can use this creatively.
+You can also use it to stand an ally in
+a doorway to make an immovable wall that
+enemies can't get past. Um, so there's
+lots of things that you can do with
+sanctuary, but just the fact that it
+gives you complete immunity to direct
+attacks from enemies is an absurdly
+powerful effect and it only costs you a
+bonus action, no concentration. This
+spell can be used constantly and
+incredibly. Shield is the best defensive
+reaction in the game. It gives you plus
+five to your armor class for the entire
+round in which you use it. You will
+always negate at least one attack when
+you use it. So often you're just trading
+your reaction and a first level spell
+for the enemy's entire turn. And then
+frequently that plus 5 AC will make
+multiple attacks in a turn miss as well.
+This spell is great because it costs you
+a fraction of resource, your your
+reaction, which you aren't always using
+profitably, for an enemy's main action.
+So, you trade up significantly in terms
+of action economy, and it also, of
+course, keeps your characters alive.
+This can be used with low AC characters
+who enemies will attack preferentially
+to cause those enemies to waste attacks
+by missing. It can be used with high AC
+characters to give them incredibly high
+AC that prevents enemies from ever
+actually touching them. Um, shield just
+has a tremendous amount of uses and will
+always trade favorably in terms of
+actions, making it incredible. In a
+tier, I've placed 10 more spells and
+we're going to start with Armor of
+Agthus. This is a warlock spell that
+again lets you trade a short rest
+resource warlock spell slots for a long
+rest benefit. He pimp HP and damage
+return all day. Now, Armor of Agthus at
+its base rate of 5 HP and five damage
+return is not great, but this spell
+upcasts extremely well and synergizes
+extraordinarily with things that give
+you damage reduction. So, if you have
+armor that reduces incoming damage, if
+you have resistance like blade ward,
+that'll increase and multiply both the
+defensive abilities. So, the temp HP
+from armor of Agatus and the offensive
+abilities. It both keeps your characters
+alive and progresses your game plan by
+doing damage. It's cold damage, so it
+can be doubled. Works incredibly well
+with abjuration wizards, of course,
+because they can reduce incoming damage
+to zero. But even for any other warlock,
+just casting armor of Agthus makes your
+warlock significantly more survivable
+all day. Disguise self has uh enormous
+amounts of utility throughout the game,
+both in terms of story events, because
+there's lots of times where disguising
+yourself as a certain race will come up
+in the story line. It can also give you
+cheaper prices at merchants because they
+uh are more favorable towards members of
+their own race. So you can disguise as
+the same race as a merchant to get
+cheaper prices. And also very
+importantly, disguise self gives you the
+ability to use weapons and items that
+are restricted. Um if you want to use
+the dwarven thrower, you can disguise as
+a dwarf and get the full benefits of the
+dwarven thrower or the many items that
+care about being a githani that are
+available in the game. So, this spell
+just gives you a lot of powerful items
+available for any character as well as
+all of the story and um out of combat
+utility that this spell has. In snaring
+strike is a ranger spell that's made as
+part of an attack and locks an enemy in
+place, preventing them from moving and
+giving you advantage on their attacks.
+That's a very powerful effect and it's
+made better because rangers have access
+to the bounty hunter class feature that
+gives enemies disadvantage on the saving
+throws against ins snaring strike.
+Against melee enemies, they will almost
+always fail the save in the early game.
+Um, and then even if you have a
+relatively low wisdom ranger because
+disadvantage is really powerful,
+especially early game. Uh, and then
+they'll be locked in place and easy prey
+for your allies. Against melee enemies
+in particular, this is devastating
+because a melee enemy that can't move is
+again not a threat, but this is just a
+very powerful effect overall. The main
+downside is it takes your concentration,
+so you have to give up hunter's mark for
+it. But against certain enemies in
+staring strike is just going to win the
+fight outright. Find familiar has an
+enormous number of uses limited pretty
+much only by the creativity of the
+player using it. Um, you can use this to
+scout. You can use it to set up for uh
+sneak attacks. You can use it to attack
+with because the familiars themselves
+actually have pretty good attacks. And
+you can use it to absorb attacks from
+enemies. You can also use it to do
+things like heal your allies. Dropping a
+healing potion on the ground and having
+the familiar attack it will heal
+creatures who are in the radius of the
+healing potion. So, you can do that
+without spending an action. And there's
+a ridiculous number of other uses. You
+can also buff the familiars pretty
+effectively. There's lots of ways to
+buff your summons. And when you have
+enough of those stacked on a familiar,
+even a relatively weak creature like the
+familiars can be pretty powerful. The
+raven can fly, so it can fight anywhere
+on the battlefield. Gives you just a an
+absurd number of options. The main
+downside is that you have to micromanage
+it and not every player is going to want
+to do that. But if you're a player who
+loves using summons, fine familiar is
+going to be an incredible one for you.
+And you know if that's you, fog cloud
+will blind enemies in the radius with no
+saving throw. So you put down the fog
+cloud and every creature inside of it is
+blinded and that has no saving throw at
+all. That gives you advantage on attacks
+against them and gives them disadvantage
+on attacks. So you'll always get at
+least one turn of advantaged attacks
+when you use fog cloud. There's also
+lots of enemies in the game who can't
+move and so you can put fog cloud on top
+of them and they have permanent
+blindness. Uh, and if you can lock an
+enemy in place with another control
+spell with fog cloud on top of them,
+they're always going to be blinded as
+well. It also gives you a place to hide.
+So you can use it to steal stuff um, in
+cities and in out of combat areas
+because characters inside of it count as
+unlit. So you can hide in the fog cloud
+and steal things and NPCs won't be able
+to see you. But mostly this is just a no
+save blind. And anything without a
+saving throw is very very powerful. Even
+if it's a relatively small debuff like a
+blind because when you don't have to
+roll dice, you know it's always going to
+work. Grease is basically a large ice
+surface that you can summon on demand.
+Enemies on it will have to make a deck
+save or fall prone. And if they move on
+it, they'll have to make a dexterity
+save or fall prone. Uh and if they fall
+prone on their turn, they lose the rest
+of their turn. So, Greece effectively
+will stun a lot of enemies. It's a very
+large AoE. And this actually would be a
+vastly more powerful spell if it wasn't
+for one drawback, which is that it's
+flammable. Um, which actually matters a
+lot in Boulders's Gate. There's a lot of
+random fire damage that will set the
+grease on fire. But when you can keep
+this spell on the ground and not have it
+get set on fire, enemies will just be
+slipping and falling constantly. and a
+giant AoE non-conentration
+stun on an entire encounter is obviously
+ridiculous. So, the best case scenario
+for this spell is amazing. Um, and it's
+not that hard to arrange the best case
+or something close to the best case
+pretty frequently. Ice Knife is
+basically the ice version of chromatic
+orb without the other modes. It does a
+little bit more damage and has the same
+ice surface effect as chromatic orb.
+Losing the versatility does weaken this
+spell, but that's the mode that you're
+going to use chromatic orb in the vast
+majority of the time anyways because the
+ice mode is typically going to be the
+best one. So, ice knife is still a great
+spell. Characters that have access to
+both of these are going to prefer
+casting chromatic orb, but if you are
+casting ice knife, that's a very
+respectable damage spell to be casting.
+Mage armor is a dayong non-conentration
+buff that can that sets a character's
+base armor class to 13. So for
+characters who don't want to wear any
+form of armor, mage armor will give them
+significantly increased armor class. The
+way to think of this spell is actually
+not really as a defensive buff though,
+but as an offensive buff. It lets your
+wizards and sorcerers and stuff wear
+robes that give them bonuses to their
+spell save DCs and uh offensive bonuses
+while not sacrificing armor class. So
+mage armor is very valuable for those
+characters once you get access to the
+gear that takes the maximum advantage of
+it. In the early game, it's kind of
+expensive to spend a level one spell
+slot on this spell just for a small
+bonus to AC. But in the late game, a
+level one spell slot a much less
+important resource. You're going to want
+to have this running all the time so you
+can take advantage of the incredibly
+powerful robes that are available to
+your spellcasters. Also important is
+that mage armor can be cast on summons,
+some of whom have lower than 13 base
+armor class in order to boost their AC,
+and things like wild shape forms as
+well, though that won't work on most
+wild shape forms, but it is a very
+powerful tool for buffing your allies as
+well. Mostly you're using this to power
+up your wizards and sorcerers without
+making them incredibly squishy. And
+typically you're going to be using it
+mostly in the late game when it's less
+expensive, but that's still a very
+powerful effect cuz those uh those armor
+sets are so good. Tasha's hideous
+laughter is a single target complete
+disable prevents enemies from doing
+anything. Um but every time that they
+take damage, they get to make another
+save against it. So compared to other
+single target disables, it's a little
+bit less reliable, but it can last for
+up to 10 turns. And being able to lock
+down an enemy for a really long time, of
+course, is very powerful. The other key
+with Tasha's hideous laughter is that
+for a lot of bosses that have immunity
+to disables and crowd control effects,
+for whatever reason, are not immune to
+Tasha's. So, there's plenty of bosses
+that hold person or hold monster doesn't
+work against, but Tasha's does. And for
+those enemies, it's by far the best
+spell to cast against them cuz it will
+lock them down completely and prevent
+them from acting. In the late game, the
+extra saves that enemies against get
+against this don't matter because your
+save DC will be high enough that they'll
+fail those saves anyways. Um, so you can
+use this especially alongside things
+like Arcane Acuity that stack your save
+DC higher in order to lock down enemies.
+But in general, this is just a really
+powerful level one disable spell that
+can lock down an enemy who's otherwise
+immune to crowd control. And that of
+course is really good. Thunderous Smite
+is the best of the Paladin Smite spells.
+Um, you spend your bonus action
+alongside your attack in order to do T
+2d6 Thunder damage, which is worse than
+just spending the level one spell slot
+on Paladin's normal divine smite in
+terms of damage output, but it also
+knocks enemies backwards. It's thunder
+damage, which is relevant, and most
+importantly, can be done at the same
+time as a divine smite if you have two
+spell slots to spend on it. So, a
+paladin can use a smite attack and a
+thunderous smite in the same turn. How
+you do that is cast thunderous smite and
+have your smite spell set to react to uh
+prompt you when you want to react and
+then you react by smiting as well. And
+that lets you get an enormous amount of
+burst damage out in a single attack.
+While it does cost two spell slots,
+that's often a really good trade because
+if that just kills an enemy outright,
+then that's one fewer enemy that you
+have to face in that encounter. So,
+it'll be less expenditure of resources
+overall when you can kill an enemy right
+away. The amount of burst damage that
+you can get by stacking thunderous smite
+and a normal smite is excellent. And the
+damage type is relevant. Not a lot of
+enemies resist thunder damage. There's
+uh plenty of effects that care about
+thunder damage. Knockback is relevant.
+You can push enemies off of cliffs with
+it. Mostly though, you're going to be
+stacking this with a normal smite for as
+much damage in one attack as possible. A
+couple important spells to keep in mind
+from lower tiers as well. Featherfall is
+great for traversal around the map. Um,
+Shield of Faith is nice for characters
+that don't have anything else that they
+want to concentrate on. It's just a day
+long buff that takes your concentration,
+but if you're playing a paladin or
+something that isn't going to be
+concentrating on many spells, this can
+be a pretty valuable use of a level one
+spell slot to give you a dayong benefit.
+And witchbolt is very very powerful for
+builds that are built around maximizing
+it because that will let you uh deal the
+most lightning damage to a single
+target. You can check out my oneshot
+lightning lord builds for an expansion
+on those. Uh sleep is also very good to
+keep in mind in the early game because
+while enemies will quickly outscale
+this, it has no save. So it's very
+strong in the early game which is the
+hardest part of the game. So that's the
+level one spells. The main thing with
+level one spells is they give you a
+tremendous amount of utility and also a
+lot of free benefits that will just last
+all game with things like enhanced leap
+and longstrider. As well as being your
+go-to spell slot for when you have used
+a powerful concentration spell from a
+higher level and want to conserve
+resources, level one spells are always
+there for you and they really do get the
+job done. Second level spells, which you
+get at third level for most characters,
+are where spellcasters really become
+spellcasters. This is where you get the
+AoE damage that lets you blow up big
+groups of enemies and encounter winning
+effects that let you end fights before
+they start. This is why you have
+spellcasters in your party is for the
+types of spells that start showing up
+mostly at level two. In S tier, I've
+placed aid, cloud of daggers, darkness,
+hold person, misty step, shadow blade,
+spike growth, and spiritual weapon. Aid
+increases the hit point total of your
+entire party. And if you have summons,
+then it will increase their hit points
+as well. So if we if you have extra
+characters in your party, then this
+multiplies in value significantly. These
+are real hit points, so they can be
+healed back up, making your entire party
+vastly more resilient. In general with
+aid, what I like to do is spend my
+second highest level spell slot on this
+spell. You can also cast it using a
+character who remains at camp and get it
+effectively for free. But even if you're
+casting it with an active party member,
+this is a very powerful tool cuz it just
+makes your whole party significantly
+more survivable and multiplies in value
+the more uh characters and units that
+you have on the field, which of course
+is even better when you're playing a
+summon focused party. Cloud of Daggers
+is the gold standard damage spell in
+Boulders Gate 3. It does its damage both
+when cast and at the beginning of
+enemies turn. So, you're going to double
+dip on the damage before enemies go. And
+there's no saving throw on this damage.
+It also does its damage very reliably
+because it's done as 4d4, which is an
+average of 10 damage. But because it's
+rolling a lot of small dice, again, the
+distribution is going to be very close
+to the center. Um, so this does an
+average of 20 damage and is usually
+going to do something very close to
+actually 20 damage before an enemy takes
+their turn. Not only does this make it
+uh extremely reliable, reduce
+randomness, and it's AoE, so you can get
+lots of value, this also makes it the
+best single target damage spell
+available at level two as well. Only two
+spells at level two do more damage. Moon
+Beam, which does 22 on average, and
+Scorching Ray, which does 21. But both
+of these have hit rolls or saving
+throws. Cloud of daggers does almost as
+much damage 100% reliably is AoE as
+well. So you can use this and of course
+if you can keep enemies inside it,
+they'll continue to take that damage
+every turn. Darkness is one of the most
+game-winning strategies in Boulders Gate
+3 because when you're in a darkness
+cloud, enemies can't target you with
+ranged attacks and there's no save or
+anything against this. Complete immunity
+to an entire category of attacks is
+obviously absurd. And there are plenty
+of ways to gain blind immunity or be a
+warlock who can see through magical
+darkness or now a shadow sorcerer in
+order to take maximum advantage of this
+effect. When you're maximizing the use
+of the darkness spell, you are immune to
+ranged attacks, have advantage on
+attacks against all enemies, and all
+enemies have disadvantage on attacks
+against you. So melee enemies will have
+disadvantage, which obviously over the
+course of a game is going to prevent
+thousands of damage dealt to your party,
+giving you just a tremendous amount of
+benefits. Even if you aren't building
+around this, this is still a really good
+spell that comes up a lot. But this is
+just one of the most broken strategies
+and buildaround strategies in Balders's
+Gate 3. Hold person is a direct single
+target disable, and this is the most
+debilitating condition in the game. So,
+if you can apply this reliably, it's
+always the best thing to apply because
+it not only completely prevents enemies
+from doing stuff, it also gives you
+guaranteed critical hits against them
+from within 10 ft. Doubling all your
+damage against an enemy is ridiculous.
+So, not only is this a great lockdown
+spell, it's also one of the best burst
+damage spells in the game because when
+you hit an enemy with it, the rest of
+your party will get automatic crits
+doing potentially hundreds of points of
+damage even before this spell actually
+costs enemies turns. Um, the downside of
+course is that it can be limited in who
+it targets and they get saves to break
+out of it at the end of each of their
+turns, but one turn of hold person will
+be enough to win an encounter anyways.
+So, this spell just ends fights
+immediately. It's the best thing to
+apply with arcaneuity when you have
+infinite save DCs and so on. Just a a
+spell that will help you one-shot
+encounters instantly. Mistyep is a bonus
+action teleport. It's the game's best
+mobility tool and will just get you out
+of trouble or get you where you need to
+go. No questions asked at all. This is
+very useful for leaving fights that are
+going badly, getting to where enemy
+where your characters need to be or away
+from where you don't want them. Um, it
+helps especially when you're newer to
+the game because this will cover for a
+lot of positioning errors that you might
+be making with your party. So, if you're
+newer or if you're playing while tired
+or having had a beer after a long day at
+work, Mistyep will solve a lot of the
+problems that you might create for
+yourself just by letting you put
+yourself somewhere else immediately.
+Every character should try to have
+access to Mistiep either as a spell
+known or through the items that give it
+to you. Shadow Blade is another new
+spell that was added in patch 8, and it
+gives you a very powerful weapon for the
+entire day. This weapon does psychic
+damage and has advantage when you are in
+an obscured or unlit area. So, it's
+already really good. And the amount of
+damage that it does is really high,
+better than pretty much any other
+equivalent one-handed weapon. It can
+also be upcast for even more powerful
+versions, up to 4 d8 psychic damage per
+swing on the shadow blade. And it
+synergizes with an item called the
+resonant stone that just sits in your
+inventory and gives everyone near you
+vulnerability to psychic damage. Um, and
+obviously vulnerability is incredibly
+powerful, but even without that
+incredibly broken combo, and let's not
+lie, that combo is absurdly strong. Even
+without that, Shadowblade is just a
+very, very powerful spell. It gives you
+an incredibly strong source of
+consistent damage for any character
+that's making weapon attacks. It's just
+better than most other one-handed
+weapons that you could have access to.
+lasts all day, doesn't take your
+concentration, and um also counts as
+making a spell attack for things like
+the gloves of battle mage's power. So,
+it synergizes incredibly with lots of
+items. Um just an absurdly powerful
+spell in terms of the consistent solid
+damage output that you get from it.
+Spike Growth wins certain kinds of
+encounters entirely on its own. Uh, this
+is a gigantic AoE battlefield control
+spell that does damage when enemies move
+on it and slows them down. Against melee
+enemies or enemies who can't easily jump
+out of it, this is going to do hundreds
+of points of damage and also prevent
+them from ever attacking you. So, there
+are certain kinds of encounters that
+where you just cast spike growth, mostly
+encounters where enemies have to move
+towards you for some reason, either
+being melee or because you can back up
+away from them, where you just cast
+spike growth and the encounter's over.
+This is maybe the most powerful spell at
+levels like three and four uh in the
+game. And one of the reasons that
+characters that get it, like druids, are
+so powerful early game is you can just
+win a bunch of encounters outright just
+by casting this spell.
+Spiritual weapon is a bonus action
+summon that doesn't take your
+concentration and basically is free to
+cast except for the spell slot. Being
+able to summon something with a bonus
+action is really good. It will absorb
+attacks from enemies. It does solid
+consistent damage. You can use it to
+block doorways and stuff. I go into the
+uses of this spell quite a bit more in
+the detailed spell tier list, but
+basically the reason that spiritual
+weapon is so good is that it's so cheap.
+You uh level two spell slots later in
+the game are not very pricey to spend.
+And a bonus action is often free for
+characters like clerics especially who
+often don't have great uses for their
+bonus action. So, it's effectively
+adding an entire extra turn to your
+party for free. Um, and even if all it
+does is absorb two enemy attacks, that's
+a great use for a spell. Uh, definitely
+check out the more expanded spell list
+though cuz I talk a lot more about how
+to get value out of spiritual weapon cuz
+I know this is one that some people find
+a little less useful, but this spell is
+really good. In a tier, I have flaming
+sphere, heat metal, invisibility, magic
+weapon, moon beam, scorching ray, and
+silence. Flaming Sphere is similar to
+spiritual weapon, but takes an action to
+cast, but it's going to do a little more
+damage on average than spiritual weapon
+will because it's a little more mobile
+and a little more consistent at hitting
+enemies. It spreads fire surfaces, which
+is really good at dealing uh just
+constant damage with no saving throw.
+And it will absorb a lot of attacks from
+enemies cuz you can use it to block
+doorways and they'll often attack it.
+So, flaming sphere, similar to spiritual
+weapon, just makes your whole party more
+survivable and deal more damage. a great
+thing to be concentrating on, especially
+in the early game. Heat metal can be
+very powerful, repeatable damage and
+disadvantage on attacks against certain
+enemies. It can also disarm them,
+allowing you to steal their weapons and
+stuff like that. Um, enemies will often
+waste their turns over and over. There
+are some bugs with the save DC on heat
+metal, which keep it from being an S
+tier spell. Um, but the effect of this
+spell is very, very powerful.
+Invisibility is a great utility spell,
+letting you traverse areas you aren't
+supposed to be in and so on, but also a
+great combat spell. Invisible creatures
+can automatically trigger surprise
+rounds, causing enemies to skip their
+first turn. So, you can use it to stun
+the entire enemy party. Um, you can also
+use it on a character that is in trouble
+in order to prevent enemies from
+attacking them. It is a little worse be
+for that usage than the potions because
+you have to spend your action and
+concentration on it. But even then, the
+potions are still a very valuable
+resource. So sometimes you're better off
+casting a spell like invisibility
+defensively. And it is one of the best
+defensive tools in the game. It's also
+an incredible offensive tool and useful
+for all kinds of story events. So most
+parties are going to want access to
+invisibility in some form, whether that
+be potions or using the spell. And often
+the spell is the best way to do it.
+Magic weapon is a great thing to
+concentrate on for characters that don't
+have other important things to
+concentrate on. So for Eldrich Knights
+or Arcane Tricksters in particular, this
+just buffs them up significantly. It
+also synergizes very well with shadow
+blade, which doesn't naturally have an
+enhancement bonus. Magic weapon gives
+you a bonus to your hit and damage on
+the weapon as long as you maintain
+concentration. And so that's a very
+powerful tool. um being able to hit more
+accurately and do more damage is again
+the main thing that you need in
+Boulders's Gate 3. So, while this is an
+expensive way to get it, a level two
+spell slot and your concentration for
+the entire day, there are plenty of
+characters that don't need those spell
+slots and don't need their
+concentration. So, for something like an
+Eldrich Knight or Arcane Trickster,
+magic weapon is often the best thing
+that they can be concentrating on and a
+very, very powerful buff for those
+characters. Moon Beam is excellent
+direct repeatable damage. It's the
+highest damage output on average of any
+second level spell, dealing 22 damage
+every turn because just like Cloud of
+Daggers, it triggers both when enemies
+enter the effect, like when you cast it
+on them, and at the beginning of their
+turn. So, you're going to double up on
+the damage before they actually get to
+act. It also has some interesting
+synergies because the damage from Moon
+Beam doesn't count as coming from the
+player. So, you can use this while
+sanctuared without breaking sanctuary,
+which of course is broken, but then also
+you can use it in various ways where
+dealing damage from the player would be
+a problem. The main downside is that
+you're not it's not AoE like clo of uh
+like cloud of daggers, excuse me. Um,
+but this is still just an amazing
+repeatable single target damage spell
+and sometimes you get more than one
+enemy in it, in which case it does an
+absurd amount of damage. Scorching Ray
+is your best direct damage option that's
+not concentration for characters that
+have access to it. It fires three beams,
+each of which can critically hit. And of
+course, like other spells that make
+multiple attacks, that makes it much
+more reliable because it tightens the
+distribution of damage. the average 21
+damage that you're going to do is very
+likely to be around actually 21 um
+because you're going to hit with uh you
+you roll a lot of dice and so you're
+very likely to get damage numbers near
+the median. Uh the other thing about
+scorching ray that is very useful is
+that it can critically hit because it
+fires multiple attacks and it fires
+multiple beams so you can apply on hit
+effects with each of those beams. So,
+there are builds like the fire sorcerer
+that are built around buffing each ray
+of the scorching ray up to incredible
+damage levels. So, you can build around
+this spell, but it's also just a great
+spell to cast when you just need to deal
+damage. You can also split the rays
+across multiple creatures if you need to
+kill more than one thing. Finally,
+silence is a ritual spell, so it's free
+to use if you cast it before combat
+begins. And enemy spellcasters can't
+cast most of their spells in the silent
+zone. So if you can keep them inside of
+it, it just lets you shut down
+spellcasters immediately. Those are
+often the game's most dangerous enemies.
+So silence is very powerful there. Even
+more importantly on honor mode, a lot of
+honor mode legendary actions require the
+boss to make noise and silence prevents
+that. So you can with a ritual, so it
+doesn't cost a spell slot, shut down
+enemy legendary actions, um, which
+completely ends some honor mode boss
+fights or makes them vastly easier than
+they would otherwise be. So not only is
+this great against spellcasters, it's
+especially good on honor mode where the
+spell does even more. Finally, a couple
+important spells to keep in mind at
+lower tiers. Uh, calm emotions is very
+good in any fight where fear or charm is
+in effect. it makes your whole party
+immune to those effects. So, especially
+in the early game, there's a couple
+fights where calm emotions just shuts
+down the main mechanic of that fight and
+you can win the fight very easily. And
+then enhancility is very expensive for
+advantage on a skill check. A level two
+spell slot is not worth spending on
+advantage on most skill checks in the
+game, but if you really want to pass a
+skill check, this spell is really good
+for that, of course. So, most parties
+are going to want to have it prepared
+and then try to avoid as much as
+possible actually casting it because
+sometimes you'll want it, but it's very
+expensive when you're going to use it.
+But when you'd rather spend the spell
+than fail the skill check, enhancility
+is still good. Third level spells are
+pretty much the biggest power spike that
+you get at any point when you're playing
+through Balders's Gate 3 because these
+spells just win fights outright. When
+you hit level five and get access to
+third level spells, the game gets vastly
+easier. And a very common play pattern
+for spellcasters is going to be to cast
+one powerful concentration-based thirdle
+spell that just effectively ends the
+fight and then just play cleanup with
+whatever spell slots you have remaining.
+And that's going to be true basically
+throughout the game. I should also
+mention before I get into the third
+level spells that if you've made it this
+far in the video and are enjoying it, I
+do daily videos with gameplay and guides
+to this game and lots of other games of
+hundreds of Balders's Gate 3 builds on
+the channel. So, you know, if you're an
+hour into the video already, feel free
+to hit subscribe and leave a comment cuz
+that helps me out with the algorithm.
+So, of course, if you take the time to
+do that, I appreciate it.
+Third level spells in S tier. I have
+placed counter spell, glyph of warding,
+haste, hunger of hadar, and spirit
+guardians. Counter spell is the game's
+most important defensive tool. Pretty
+much every honor mode party should try
+to have at least one character, and
+usually two, capable of casting counter
+spell because it lets you trade your
+reaction for the most dangerous thing
+that enemies can do in the entire game,
+casting highle spells against you.
+Turning your reaction into the enemy
+losing their turn and in a very
+important resource, of course, is
+excellent. There's some subtleties with
+how to use counter spell. You want to
+use a spell slot of the level of the
+spell that the enemy is casting to
+guarantee that it works. A little more
+on this in the expanded spells tier
+list, of course. Um, but basically
+counter spell lets you turn your
+reaction into the enemy not doing
+anything for a full turn, which is
+incredibly powerful and costs them
+something that they really need their
+highle spell slot. Glyph of warding is
+um a spell that is a little tricky at
+first glance because this looks like a
+spell that you're supposed to trap
+enemies with and wait for them to walk
+onto it, but it detonates if you
+immediately if you put it on top of an
+enemy. So, this is basically like a
+fireball that you can choose what
+elemental damage type you're using. Uh,
+just like other sources of multiple
+damage types wrapped into one spell,
+this lets you bypass resistances and hit
+vulnerabilities easily. And of course,
+it comes with cold or lightning damage,
+which can do ice surfaces and can be
+doubled with the wet condition, which of
+course is incredibly powerful. Glyph of
+Warding also comes with the sleep mode,
+which is a non-conseentation AoE stun
+that just puts enemies to sleep,
+preventing them from acting entirely,
+which of course is very powerful to be
+able to spam a non-conentration stun on
+the whole enemy group. Um, this is one
+of the best spells to cast when you're
+concentrating on something else. special
+mention with glyph of warding for
+abjuration wizards because this is an
+abjuration spell. So, it will also
+restore your arcane ward spell uh your
+arcane ward stacks. Haste gives you a
+whole extra action. The game of Dungeons
+and Dragons can be basically summarized
+as trying to take as many actions as
+possible and trying to limit the number
+of actions that enemies take as much as
+possible. Increasing the ratio between
+actions you take and actions they take
+to infinite is how you win the game.
+Haste does that directly by just giving
+you extra actions. Um, doubling up on a
+party member's ability to do stuff is,
+of course, excellent. This gives you
+effectively a 25% increase in the
+overall capabilities of a standard
+party. On honor mode, you can't use
+extra attack with it, but you can still
+cast multiple spells, fire multiple
+Eldrich Blasts, for example, or
+reactivate the spells that can be
+activated turn over turn, like call
+lightning. Um, so there are still
+tremendous amounts of ways to use the
+extra action economy from haste. Just an
+incredible spell and the best buff spell
+in the game. Hunger of Hadar wins
+encounters on its own. It's a no save
+blind that also does damage and slows
+enemies. It's a gigantic AoE, so enemies
+will be stuck inside of it for a very
+long period of time. And as a warlock
+spell, you're often getting this at a
+low uh cost, a warlock spell slot. So
+you can use hunger of Hadar to just win
+encounters instantly. This is some of
+the best battlefield control in the
+game. It also stacks immensely well with
+other battlefield control effects
+because it's a cloud, so it sits on top
+of them. You can keep them in it with a
+plant growth or a spike growth or
+something like that and they'll
+consistently take the damage. And
+finally, spirit guardians is a cleric's
+go-to damage option. Being able to just
+run next to enemies and do damage to
+them, apply debuffs like the radiating
+orb item set is excellent. This is again
+action economy free damage. So take you
+cast it before combat start. So it takes
+no actions on your part to use spirit
+guardians and maximizes your movement.
+As I've said previously, every character
+gets five uh resources every turn of
+combat, of which movement is often the
+least used. Spirit Guardians turns your
+movement directly into damage to
+enemies, which is absurdly powerful and
+also can be combined with your other
+powerful damage spells or just control
+spells like command. A very common play
+pattern for clerics is run around with
+spirit guardians and cast command every
+turn um in order to just win fights
+outright. In a tier for third level
+spells, I placed animate dead, call
+lightning, fear, hypnotic pattern,
+lightning bolt, mass healing word, and
+fleetstorm. Animate dead is the first
+access that you get to real dayong
+summons. You spend this spell slot, and
+you just have an extra character in your
+party, or multiple extra characters all
+day. The skeletons that you can summon
+with Animate Dead are are solid
+consistent ranged damage output. They
+can be buffed using spells like
+Crusader's Mantle or Aid from previous
+levels to be significantly more powerful
+and they'll just consistently increase
+your damage over the course of the the
+uh adventuring day. You also, of course,
+having more bodies on the field just
+gives you more tactical options. You can
+block doorways. You can channel enemy
+movement. You can place uh characters
+where enemies are likely to attack them.
+You can place them on the edge of
+crowdcontrol effects like hunger of
+Fedar to prevent enemies from leaving
+without taking attacks of opportunity.
+Animate dead also has the zombie mode
+which can just win certain kinds of
+fights outright because the zombies
+spawn more zombies. So, if you're
+against a battle where there's lots of
+weak enemies and you can reliably summon
+more zombies, Animate Dead will win
+those fights immediately. At higher
+levels, you can summon the ghouls or
+flying ghouls. Typically with Animate
+Dead, I like to spend a fourth level
+spell slot on the skeletons because you
+just get three skeletons to do
+consistent damage and you want your
+higher level spell slots for more
+important things. But any way that you
+can use animate dead is going to give
+you a really powerful advantage for the
+entire day. Call lightning is excellent
+repeatable damage. You can concentrate
+on it and it gives you a r a powerful
+ranged attack. You can repeat that
+ranged attack with haste and it's
+lightning damage. So of course you can
+double it by getting enemies wet and
+then they'll take double lightning
+damage. This is just a very efficient
+use of spell slot to damage return in
+longer fights. So, in any fight that's
+going to go long, Call Lightning is just
+going to do way more damage than any
+other spell that you could cast. And it
+does so while also not costing you
+additional spell slots because it just
+gives you a good action that you can
+take every single turn, making sure that
+your character always has something
+relevant to do. Fear, hypnotic pattern,
+and sleep I'm going to talk about
+together because these spells often fill
+the same role. All of these are
+concentration-based AOE control spells
+that let you lock down all or large
+parts of an encounter at once. Fear is
+in a cone, and it's the most powerful
+debuff, but the hardest to land. Enemies
+hit by fear have to run away from you
+and can't act for two turns, preventing
+them from doing anything. And that, of
+course, just wins fights outright. They
+only get one save against it and no
+subsequent saves. So, if you can lock if
+you can hit enemies with fear, this is
+the best one to actually hit them with
+because they fail one save and the fight
+is over. Hypnotic pattern is much easier
+to land because it's a big AoE, but
+enemies can wake each other up. If
+hypnotic pattern can hit the entire
+encounter, though, it just prevents them
+from acting entirely and they'll wake up
+dead because you'll attack them and kill
+them. Uh, which of course will just win
+fights immediately. So again, these are
+spells that you're going to cast at the
+beginning of fights to lock down all or
+most of the enemies in an encounter and
+prevent them from ever acting, which
+will of course just win the encounter
+outright. Sleet storm makes a gigantic
+ice surface, and we've talked about how
+good ice surfaces are. This is less
+reliable in terms of stunning than fear
+or hypnotic pattern because enemies, you
+don't get to know before the enemy turn
+whether they're going to fail a save and
+fall over. And sometimes they'll act
+before moving, in which case they won't
+stun themselves. But knocking an entire
+encounter prone is really powerful. And
+ice surfaces, of course, in Boulders
+Gate 3 are broken. So sleep is of the
+three the least reliable crowd control,
+but the most reliable spell because it
+will almost always do something.
+Hypnotic pattern is the easiest to land
+on a whole encounter. And if you do land
+it on a whole encounter, you win that
+encounter. and fear is the most powerful
+if you can get an adequate number of
+enemies in it. All three of these spells
+are to be used at the beginning of
+fights to win them. Um, and which one
+you use is going to depend on the fight,
+which is why I'm talking about each of
+the three together. Lightning bolt is
+the best AOE damage spell at third
+level. It's very easy to hit lots of
+enemies in it, and it's lightning
+damage, so it will often be able to be
+doubled by getting enemies wet. Um, the
+line is a little bit worse than
+fireball's circle often, but in some
+encounters is going to be better. And
+the fact that it's lightning damage just
+makes lightning bolt significantly more
+powerful than fireball overall. So, it's
+often more reliable. Also, fewer enemies
+are resistant to lightning damage than
+they are to fire, which is why it gets
+the nod over fireball. Mass healing word
+is a bonus action to heal your entire
+party with a healing word. And just like
+healing ward, spending a bonus action to
+get allies up from prone or reapply the
+buff on heal items to your whole party
+is great. The bless and blade ward that
+you get from the buff on heal item set,
+the uh whispering promise and the hell
+riders pride uh only lasts for two
+turns. So mass healing word is the best
+way to reapply those after you have lost
+them. If the fight goes longer than you
+were expecting, very much worth a third
+level spell slot. You're mostly using
+this for those buffs, but the extra
+healing that you get in addition to that
+is really nice. A couple notable spells
+from lower levels as well. Plant Growth
+is a non-conentration AoE spell that
+slows enemy movement speed to one
+quarter, which is really good at keeping
+enemies inside of AoE effects. Com
+combining plant growth and hunger of
+Adar will just end an encounter
+immediately because enemies will have to
+move at one quarter speed. won't be able
+to jump out because they're blinded,
+which prevents enemies from jumping and
+we'll just be stuck in the hunger of
+Hadar forever. Slow is also a really
+nice debuff when you can't land one of
+the more powerful debuffs. While it
+doesn't entirely stop enemies from
+acting, it is directly targeted. So, if
+you can't easily place an AoE debuff
+like hypnotic pattern uh without hitting
+your allies, slow will work just fine.
+And there's lots of bosses that are
+immune to the more powerful debuff
+spells that are not immune to slow. So
+in boss fights, this can be very
+powerful. Very good to keep this spell
+in in the back of your mind for when the
+other spells that you are using as more
+of a go-to don't work. As you can see,
+at fourth level, there are fewer spells
+in the top tiers. And this is a natural
+consequence of how spell casting in
+Boulders's Gate 3 works because these
+higher level spells are competing
+against every spell of lower levels. So
+often the best use for a fourth level
+spell slot is to cast a thirdle spell
+upcasted or even a first level spell.
+Commanding four creatures is often the
+best use for a fourth level spell slot.
+So keep in mind that you can always cast
+lower level spells as we go through.
+Nonetheless, there's still some very
+powerful spells in fourth level. though.
+Let's start with our one S tier spell,
+Conjure Woodland being. So, what does
+this spell do? The answer is, what
+doesn't it do? This is the most
+efficient summon to spell slot in the
+game. You get two summons for the price
+of one, each of which can repeatedly
+cast lower level control spells, as well
+as being just pretty powerful characters
+in and of themselves. The wood is a
+decent tank and the dryad has uh has
+control spells. So you can cast spike
+growth and you can cast entangle. And
+those spells of course are already
+really good spells to cast. You get so
+many abilities in addition to just
+having two more characters on the field
+for one use of conjure woodland being.
+This spell gives you just an absurd
+number of tactical options. This spell
+is fairly close to getting an entire
+extra character in your party because it
+gives you two extra spell casts every
+turn as well as the ability to have a
+decent melee fighter available. Um, so
+you can really think of conjure woodland
+being as increasing the power of your
+party by I don't know 20% or something
+when you cast it for the entire day as
+long as you can keep these characters
+alive. And you can also buff the conjure
+woodland being summons again with all of
+the AoE buffs that multiply the
+effectiveness of your summons. In a
+tier, I've got four more spells. Conjure
+Minor Elemental, Greater Invisibility,
+Ice Storm, and Wall of Fire. Conjure
+Minor Elemental is another summon spell.
+It's certainly not as powerful as
+conjure woodland being, but in
+particular, the ice methods give you
+again multiple spell casts every single
+turn of combat because they can cast
+chromatic orb for ice at will. And so
+that's going to let you set up ice
+surfaces while deal dealing great
+consistent ranged damage. Um, so these
+again just give your entire party a
+massive boost for the whole day. Usually
+I recommend summoning the ice meths. The
+mud methods and the Azer are less
+powerful
+overall. Um though they do have their
+place in certain encounters or in
+certain adventuring days or party
+compositions, but you can never go wrong
+in Balders's Gate by using ice or
+lightning. So whenever a spell gives you
+the option, that's usually a good
+default to pick. Greater invisibility is
+like invisibility preventing enemies
+from seeing or interacting with you, but
+you can also attack during it. Now,
+there is a play style that is built
+around maximizing greater invisibility
+that completely avoids ever entering
+combat because as long as you can keep
+making stealth checks, you can stay in
+greater invisibility basically forever
+until all the enemies in an encounter
+are dead and they never get a turn.
+Obviously, that completely breaks combat
+in Boulders's Gate 3. Um, but even if
+you aren't building around greater
+invisibility, this is still often two or
+three attacks before combat starts on a
+character that can make reasonable
+stealth checks. And then also, you still
+get a surprise round. You can also do
+things that require you to interact with
+objects when you are greater invisible
+in which you can't do with just normal
+invisibility, which is useful for some
+story circumstances where you need to
+sneak around, but also be able to act
+and do stuff, uh, cast spells and so on.
+So, greater invisibility is is very
+powerful for um characters that are
+built entirely around it, but also just
+a very good spell because you can get
+two or three free attacks before combat
+begins and then also get the normal
+benefits of invisibility. And of course,
+anything that gives you free actions is
+going to be incredibly strong. Ice storm
+is a powerful AoE damage spell. Um, the
+damage from ice storm is okay. Not
+amazing for a fourthle spell slot, but
+the big thing here is that this creates
+a gigantic ice surface, a 20ft radius
+ice surface with no concentration. Now,
+often sleeptorm is going to be a better
+way to make an ice surface, but ice
+storm is good because it doesn't require
+you to concentrate on it. So, you can do
+it while concentrating on something
+else. That something else could even be
+a sleep storm. So, a lot of characters
+are going to be spamming ice storm,
+especially in the late game in
+encounters with lots of enemies because
+grading ice surfaces is again just an
+extremely powerful tool in Balders's
+Gate. If an enemy walks on it, they
+might fail the save and just stun
+themselves. And that happens very
+consistently because enemies usually
+move before they take their action. So,
+Ice Storm is often an AoE damage spell
+that also comes with an AoE stun. Um,
+this is going to get a tremendous amount
+of value, but it's not as reliable as
+spells that directly stun enemies. So,
+think of this as a way to uh potentially
+cost enemies actions, but don't rely on
+it to always cost enemies actions. If
+you really need to lock down an enemy,
+cast a control spell. But if you just
+want to hit a bunch of enemies for
+damage and also potentially cost them
+their turns, Ice Storm is great and
+doesn't require you to drop
+concentration on anything else. Finally,
+Wall of Fire is some of the game's best
+sustained damage output. If you can keep
+enemies inside the wall of fire, they
+take very consistent and very high
+damage every single turn. So, in longer
+fights, this spell can do hundreds of
+damage. It also just wins certain kinds
+of encounters outright. If enemies have
+to move towards you through the wall of
+fire, they often will just take damage.
+Against lower health enemies, that can
+kill them immediately. And in fights
+that take place in a long hallway, you
+can place the wall of fire lengthwise
+down the hallway, forcing enemies to
+take multiple turns of fire damage just
+to reach you. So, this spell can often
+just win certain kinds of encounters or
+certain layouts of arena um immediately.
+It's also just great damage on any enemy
+who's locked in place. So, if you can
+keep an enemy in place in the wall of
+fire um with immobilization effects or
+with spells that slow them down, then
+they're going to be taking uh very
+powerful damage every turn. And then you
+also still have your action to do other
+stuff. So, wall of fire, just constant
+excellent damage that also win certain
+kinds of encounters um just by itself. A
+few notable spells from lower levels
+here as well. So, banishment, freedom of
+movement, and guardian of faith. I
+mentioned all or are all spells that are
+featured in my video, the five most
+underrated spells in Balders's Gate 3
+that I posted relatively recently. So,
+for a much more detailed explanation and
+demonstration of using each of these,
+you can refer to that video. But
+basically, banishment targets a charisma
+save, which enemies often have very low
+charisma saves. So, uh, against certain
+enemies who have much higher wisdom than
+charisma, this can be the best way to
+lock down those enemies. Freedom of
+movement not only gives you the dayong
+buffs, it also snaps an ally out of a
+stun. So, it can be a great panic button
+if an ally gets stunned. And that also
+works on if you drop concentration on
+haste, freedom of movement will snap
+that ally out of the lethargic debuff as
+well. Guardian of Faith is just big, so
+it can be used to absorb a lot of
+attacks from enemies, block doorways,
+and so on. Confusion is also worth
+mentioning because if you can uh because
+confusion doesn't hit allies. So, if
+allies and enemies are very tangled up,
+this is an AoE control spell that can be
+very useful. You can also use it and
+then just leave and enemies will often
+attack each other because they're
+confused. So, this spell can do a lot of
+damage if the enemies have nothing to
+hit except for one another. level five
+spells get a little bit thin in terms of
+actually casting fifth level spells
+because these are competing against four
+other spell levels and a lot of spells
+at level five are pretty weak. Um, and
+so it can be very important to know
+which ones are good and which ones are
+bad at this level because that will help
+you avoid spending your spell slots on
+spells that don't do that much. In S
+tier for our fifth level spells, I've
+placed Condra Elemental and the secret
+spell uh Curriculum of Strategy,
+Artistry of War. Condra Elemental is
+both a level five and a level six spell
+cuz it has two modes and it is a dayong
+summon and the best summon in the game.
+The Merrmadon summon is the most
+powerful summon overall. someone cast
+with a sixth level spell slot. Conjur
+elemental is almost entirely equivalent
+to adding a full extra party member to
+your party because the mermodons are
+just so powerful. And of course,
+multiplying the number of actions that
+your party has. Each individual unit
+that you add to your party is more
+powerful than the last because they will
+combine together in in ways that make
+each of them more powerful and also
+because it gives you a greater and
+greater advantage in terms of the number
+of actions that you're taking compared
+to the number of actions that enemies
+are taking. So, when you have a really
+powerful summon like this, not only is
+it individually very strong, it makes
+all of your other party members better
+because it divides damage across your
+whole party and lets you burst down
+enemies faster before they get to act.
+So, Condra Elemental is just amazing.
+Um, all eight of the modes for Condra
+Elemental, cuz you can cast it at level
+five for an elemental or at level six
+for a Merdon of each of the four
+elements, all eight of the possible
+modes are good. And I highly encourage
+you to experiment with which one is the
+best for your particular party
+composition. As always in Boulders's
+Gate 3, choosing the cold or lightning
+versions of a summon or a spell is
+always a good default. So you can use
+the air or water elementals and those
+will always be great. But uh all of them
+have their place in certain party
+compositions and in certain encounters.
+And there's eight possibilities here.
+So, I very much encourage you to play
+around with it and see which one you
+like the best. Artistry of War is a
+secret spell. It can only be received by
+finding a scroll of it in the world and
+then learning it as a wizard. And it's
+basically a gigantic magic missile. It
+has all the advantages of magic missile.
+It's incredibly reliable. Um, so it work
+it doesn't miss. It can shoot around
+corners, but it does a tremendous amount
+of damage. and doing tons and tons of
+damage without rolling dice at all is
+obviously absurdly strong. Um, so
+Artistry of War has all the advantages
+of magic missile, but also comes with a
+truckload of additional stopping power,
+which lets you kill enemies with it
+extremely reliably. In a tier, we have
+destructive wave and hold monster.
+Destructive wave is only available to
+light and tempest clerics, but it is an
+extremely powerful AoE spell. Um, and
+importantly about destructive wave,
+although it says it deals damage to all
+creatures within 30 ft of you, it
+actually only damages enemies. So, you
+can very safely use this around your
+party, it does relevant damage and very
+high damage and knocks enemies prone.
+Um, doing radiant and thunder damage are
+both very important damage types in
+Balders's Gate because they have a lot
+of synergies with certain items. And it
+doesn't take your concentration. It
+knocks enemies prone, which can often
+keep them inside of your spirit
+guardians for longer. So, destructive
+wave is just a great way to blow up a
+whole encounter. Casting this spell will
+often just deal enough damage and knock
+over enough enemies that clean up
+afterwards is very easy. Hold monster,
+of course, is the same as hold person,
+but can target many more enemies. Now,
+this makes it significantly weaker be or
+now it's significantly weaker because it
+takes a much higher level spell slot. So
+even though the effect is better, you're
+you would much prefer to use hold person
+in encounters where that's available,
+but sometimes it's not. And the effect
+of uh holding person or monster is so
+ridiculously powerful that spending a
+spell slot three levels higher on
+exactly the same effect is still a great
+use of that spell slot. Obviously, when
+you have hold person available, you're
+not going to cast hold monster, but
+against enemies that aren't persons, uh,
+hold monster is is identically as
+powerful and will let you just blow them
+up right away. One big difference is
+that because this is a fifth level spell
+slot, the maximum number of enemies you
+can hit with it is two, cuz each of hold
+person and hold monster get an
+additional target whenever you upcast
+it. Whereas hold person can target up to
+five characters, which will often just
+win the entire encounter outright. So
+hold monster is going to less often just
+shut down a whole encounter when upcast.
+But against powerful bosses, against
+enemies that are particularly dangerous
+or against any enemy that you just want
+to blow up, hold monster will just end
+the fight immediately.
+And finally, one other notable spell
+from level five that's worth talking
+about specifically is Cone of Cold.
+While this is very expensive, it's a lot
+of direct damage and especially for a
+cold and ice themed party. Um, of
+course, it's going to deal double
+damage. It can set up ice surfaces cuz
+it freezes everything under it. So, you
+can again get stun effects. But although
+you won't often want to spend a fifth
+level spell slot just on AOE damage, if
+you combine cone of cold with other AOE
+damage effects or with more cones of
+cold, you can layer two of them on top
+of each other and just one-shot a whole
+encounter. By grouping enemies up with
+the black hole elithid power or with
+minor illusion as a spell, you can have
+two characters cast cone of cold and
+just one-shot everything if you get them
+wet first. It's also important because
+this is available to hexlade warlocks.
+So you can cast this using a warlock
+spell slot, in which case it's very
+powerful because it's not costing you
+any more important resource. So cone of
+cold is really important for characters
+like hexlades that don't otherwise have
+access to good AoE and when layered with
+other AoE can be the most efficient way
+of instantly ending an encounter. And of
+course, sixth level spells are the most
+powerful spells in the game. Most
+characters, absent ways to refresh these
+spell slots, only get one per day. So,
+what you want from a six-le spell is
+either to gain a massive advantage in
+every fight across an entire adventuring
+day, or for it to just win one very
+difficult encounter by itself,
+conserving your resources for every
+other encounter that day. So, the best
+six level spells either win one fight
+outright or give you a huge edge in
+every fight so that they can affect the
+entirety of your adventuring day
+enormously.
+In S tier, I have two sixth level
+spells, plus of course the third one
+that is condramental, which is a fifth
+level spell, but often cast at sixth
+level because it has a different and
+unique effect, which is extremely
+powerful when cast as a sixth level
+spell. The first of these is Globe of
+Invulnerability. Globe of
+Invulnerability makes everything in the
+radius completely immune to damage for
+three turns. Bouldersgate 3 combat is
+mostly about doing enough damage to kill
+the enemy before they do enough damage
+to kill you. So, three turns of complete
+immunity to the game is obviously
+ridiculously strong. Most combats will
+not last longer than three turns. And
+so, Globe of Invulnerability will pretty
+much single-handedly win whatever
+encounter you cast it in, as long as you
+maintain your positioning inside the
+globe and consistently deal damage to
+enemies. One other great thing about
+Globe of Invulnerability is that it's a
+concentration spell, but it's very tough
+to lose concentration on it because the
+way that characters lose concentration
+on their spells is typically by taking
+damage, having to make a concentration
+save, and failing it. You can't take
+damage when you're in the globe, so you
+are very unlikely to have to make
+concentration saves. So, you're very
+likely to get the full value of all
+three turns of globe of invulnerability.
+There's also a lot of fights that this
+uh spell is particularly powerful in.
+Boss fights where enemies have one big
+attack that you need to avoid. Globe of
+Invulnerability just completely negates
+that. And arenas where the arena itself
+is a threat because it does damage to
+you in some way. you can ignore that as
+well because you're immune to all kinds
+of damage. There's also a bunch of
+synergy with effects that deal damage to
+yourself. When you're immune to that
+damage, you can use uh those effects
+with impunity. It keeps your summons
+alive. You can deal consistent damage um
+with uh Guardian of Faith with it as
+well because while it normally takes
+self damage, it doesn't when it's in the
+globe. So, there's lots of synergies
+with being immune to damage, but also
+you're immune to damage. Obviously,
+that's good. Hero's Feast is a dayong
+non-conentration buff that makes your
+whole party have advantage on wisdom
+saves, gives them extra HP, and makes
+them immune to fear. There's lots of
+fights in the late game where you need
+fear immunity because the fear effects
+are pretty dangerous, and heroes feast
+lets you ignore those completely. The
+extra HP is very powerful, stacks with
+the extra HP from aid. An advantage on
+wisdom saves makes you significantly
+better at avoiding one of the most
+common ways to lose honor mode runs.
+Failing a dangerous wisdom save against
+a spell like old person that the enemy
+can then just one-shot you uh with. And
+so, Heroes Feast makes you significantly
+more resilient to those kinds of
+effects. It also has a bunch of
+synergies because it makes you immune to
+poison um and immune to the poison
+damage effect of cloud kill. So a
+character with heroes feast on them can
+stand in their own cloud kill and things
+like that. But mostly this is just a
+dayong buff that makes your entire party
+vastly more resilient. It also of course
+works on summons. So if you have any
+summons in your party, you multiply the
+effectiveness of heroes feast across all
+of the summons that you have in your
+party as well. For clerics, this is
+usually going to be the best usage of
+their sixth level spell slots. Druids
+are going to spend their sixth level
+spell slot on conjramental because I
+think in general, if you're only casting
+one of these day long buffs, the order
+goes conjur elemental, then heroes
+feast, then planer ally. Um, but for
+most clerics, this is going to be the
+best way to spend your sixth level
+spell. And of course, you can refresh
+that spell slot using the items that let
+you refresh six level spell slots.
+Heroes Feast can also be cast by a camp
+caster, a character that stays behind
+and, you know, casts dayong buff spells
+and then stays behind in in camp. But
+even if you cast it with your active
+party, this is an incredibly powerful
+buff and very much worth spending a
+sixth level spell slot on. It makes
+every fight throughout the entire day so
+much easier and safer. In a tier, we
+have four spells: chain lightning, autos
+irresistible dance, planer ally, and
+wall of ice. Chain lightning is the
+go-to direct damage spell for just
+blowing up a whole encounter. It is very
+easy to target because the arcs will go
+between up to four creatures and it will
+spread out across the whole encounter
+very easily. So, you're going to get an
+enormous amount of damage across four
+different enemies when you cast chain
+lightning. Of course, it's lightning
+damage. So, if you're a Tempest cleric,
+you can maximize the damage. And with
+the wet condition, you can double the
+damage at because lightning damage in
+Boulders's Gate 3 is just that powerful.
+So being able to just blow up an
+encounter with chain lightning, of
+course, will end it immediately. Similar
+to cone of cold, chain lightning is best
+in multiples. Characters that can cast
+chain lightning multiple times or having
+multiple characters that can cast chain
+lightning in your party can just end
+encounters by one-shotting them before
+the enemies ever get a turn. The most
+common way to cast this spell is
+actually with an item with the Marahesh
+gear's staff that lets you cast it once
+per short rest. But even if you spend an
+actual spell slot on this, chain
+lightning is still going to be a ton of
+damage. And again, the criteria for six
+level spells is either they should help
+you a lot in every encounter or win one
+encounter outright. There's some
+encounters that chain lightning just
+wins and so uh obviously it's going to
+be worth casting in those. Otto's
+irresistible dance is irresistible. When
+you first cast this on an enemy, they
+get no saving throw against the effect
+and they always lose their next turn.
+Subsequently, they get additional they
+get wisdom saves to try to break out of
+it. But a no saving throw stun that just
+trades your turn and your spell slot for
+the enemy with a chance of keeping them
+locked down for longer is of course
+incredibly good. Anything that has no
+saving throws in Balders's Gate 3 is
+always worth looking at. And autos
+irresistible dance will let you shut
+down the most dangerous enemy in an
+encounter, no questions asked. The other
+great thing about this spell is that
+like some other stuns, the enemies that
+are immune to disable effects are often
+not immune to Otto's irresistible dance.
+So you can use this even against enemies
+that you otherwise can't cast hold
+person or hold monster or other
+disabling effects on. Autos will work on
+them and in any encounter with just one
+strong enemy that will just win the
+encounter outright.
+Planer ally is also an extremely
+powerful sixth level summon. Overall,
+the planer ally summons are a little
+weaker than the Merurmodon summons, but
+you're still getting a very powerful
+ally when you use planer ally. Um, so if
+you have a spell slot left, or if you've
+used a spell, an item that lets you
+refresh your sixle spell slots, having
+the planer ally summon can be very
+powerful. Of the three summons, the Jin
+and the DVA are much, much better than
+the Camb. The Jin is a little better for
+crowd control and the Dava is a little
+better for damage and they're both
+really good for tanking. The Cambon
+isn't good for anything, so you
+shouldn't summon it except uh with the
+infernal rapier when you get it for
+free. Um, but the planer ally summons
+are just very powerful. They're very
+tanky. They have good armor class and
+high HP totals, so you can use them to
+absorb a lot of damage from enemies
+without dying and then heal them back
+up. And they deal consistent damage and
+consistent disruption to enemies. very
+powerful tool. Again, a slightly worse
+summon than the Condra Elemental
+summons, but still a sixth level summon,
+so still really, really good. Wall of
+ice is secretly the best AoE damage
+spell in the game. So, not only can you
+use this sort of as intended as an
+upgraded wall of stone that also does a
+bunch of damage on initial cast and
+comes with an ice surface, so it'll
+knock enemies over, there's also a
+secret second mode when casting wall of
+ice because it does uh the cold damage
+when you initially cast it. And of
+course, it's cold damage, so again, can
+be doubled, etc. It makes an ice
+surface, so it knocks enemies over and
+can keep stunning them. But then it also
+does cold damage when enemies enter the
+clouds left over when you when the wall
+of ice segments are destroyed. It leaves
+a cloud of freezing gas that does 10d6
+cold damage again. And then again at the
+beginning of the enemy's turn if they
+start their turn in that gas they take
+10d6 more damage. So you can deal up to
+30 d6 cold damage with one cast of wall
+of ice if you cast and then immediately
+destroy it. You can do that easily by
+casting it and then just ending
+concentration on it manually. And so
+this can be the biggest burst damage for
+any spell in the game. In addition to
+that, it also can be used to knock
+enemies prone, block AOE's and stuff,
+but mostly you're using it for the very
+very powerful burst damage effect. You
+do have to be fairly precise with the
+casting because the clouds are a little
+bit smaller than the segments of the
+wall. So, you need to overlap them with
+enemies to get the full damage of this
+effect. Um, and there are some bugs with
+the save DC of Wall of Ice, which
+prevents it from being S tier because it
+it's a little less reliable because the
+casting interface is a little awkward,
+and there's bugs with the save DC that
+make it have much lower DCs than it's
+supposed to. Um, unfortunately, Wall of
+Ice, Wall of Thorns, and Blade Barrier
+all have significant bugs that make
+their save DCs lower than they're
+supposed to be. Um, but wall of ice is
+still really good even if it does half
+damage because the damage on the immense
+burst that it does is so incredibly
+high. No spells from lower tiers here
+that are particularly important to
+mention specifically. But of course, if
+you want more information on the lower
+tier spells, um, then you can refer to
+my expanded spell tier list where I talk
+about every single spell in the game in
+great detail. And that's true not only
+for the spells that we discussed in SNA
+tier, but also all of the spells in
+lower tiers as well. So, if you're
+curious about why I placed any of the
+spells where I placed them, definitely
+go check those videos out. They're
+linked in the description. All right, my
+friends. I hope that you've enjoyed this
+look at all of the very best spells in
+Boulders's Gate 3, from cantrips all the
+way through level six spells. Uh, and I
+hope that it helps you make sense of
+this very complicated system and build
+your characters in a way that makes them
+more powerful. If you just picked spells
+from the two tiers that I mentioned,
+your honor mode parties would do great.
+Of course, you can get more value from
+spells of lower tiers. And I definitely
+don't want to stop people from casting
+those when they find them fun or in the
+circumstances where they're good. Uh,
+but this should give you a great
+baseline to work off of in terms of the
+power level of the spells and where they
+fall in terms of their efficiency for
+the spell slot and what you get out of
+them. Of course, for more detail, you
+can check out the expanded spell tier
+lists or my literally hundreds of build
+guides on this channel to specific
+classes and the ways in which they're
+going to use these spells most
+effectively. Um, and of course, if
+you've enjoyed the video, then feel free
+to leave a comment of any kind. uh hit
+the like button. That helps me out with
+the algorithm, so I really appreciate
+it. YouTube has also added the feature
+where you can hype videos. Um, which I
+still genuinely don't know what that
+does, but pushing buttons is always
+great, so feel free to push those
+buttons. And of course, you can
+subscribe to my channel for more
+Boulders Gate 3 build guides and other
+strategy game analysis. Also, of course,
+if you disagree with my placements of
+any of these spells, definitely let me
+know in the comments below. I'm always
+open to moving things around, though you
+may find more information and more
+reasoning in the expanded spell tier
+list. So, I recommend listening to the
+entry on that spell. If there's
+something that really jumps out as you
+out at you as maybe being misplaced, go
+listen to the entry on that spell in
+order to get perhaps a little more
+context. And then if you still think I'm
+wrong, definitely let me know. Very
+interested to hear your opinions. All
+right, my friends. Thanks for watching
+and I'll catch you next time.

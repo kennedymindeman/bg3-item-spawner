@@ -1,0 +1,1414 @@
+hello my friends welcome back to another
+balers Gate 3 tier list and guide hope
+you're all doing well today we are
+continuing with my consumables tier list
+and in fact we are concluding my
+consumables tier list because we are
+actually finished talking about all of
+the consumables once we've covered
+poisons oils and weapon Coatings poisons
+oils and weapon Coatings all have very
+similar properties in that you can apply
+them to your weapon and use them as part
+of an attack and so I'm covering them
+all together but actually many of these
+items behave quite differently and so
+knowing which ones can be thrown and
+which ones cannot how they behave
+differently when thrown and when used on
+your weapons and what they actually do
+because often the descriptions on these
+items are particularly unclear um even
+for Boulders gate tool tips can be
+extremely helpful for your honor mode
+runs you can almost always apply a
+weapon coding before a combat begins
+because they last for a long time and
+they just act every time you attack with
+a weapon so you are giving up a lot of
+value if you're not using these
+regularly because it has very little
+opportunity cost and can add quite a lot
+of power to your party in order to have
+a uh if you have access to these for
+important combats or even just for every
+combat the ability also to throw them
+like grenades is incredibly valuable in
+some encounters and is particularly
+useful with some of the more powerful
+poisons so I will talk about which ones
+are better actually applied to a weapon
+and which ones are better thrown and how
+and when you should use all of the
+potions oils and weapon Coe all the
+poisons oils and weapon codings
+available in balers Gate 3 before I
+begin I do want to take a quick moment
+to say thank you so much to very phable
+for the $25 donation Joe Rundle for the
+$15 Farah grard for the €2 and5 and Tren
+Gilly for the $10 as well as Matthew day
+and Juliana Thomas for becoming channel
+members thank you so much my friends I
+really do appreciate the support and it
+really does mean a lot and if I've
+mispronounced anyone's name please as
+always let me know in the comments
+similar to potions these weapon codings
+have no downsides and very little
+opportunity cost for their use because
+you will be buffing with them pre-
+combat they typically don't take an
+action to use or during combat will only
+take a bonus action which you will only
+spend if you don't have it something
+better to do with it so it very rarely
+has a real action cost and they're just
+free value you anytime you'd be
+attacking with a weapon it's better to
+be attacking with a poisoned weapon even
+the ones that have the most marginal
+effects they have a small chance at a
+very minor effect are just strictly
+better than a normal weapon attack so it
+really incentivizes you to be using
+these constantly and even the weakest of
+them is still worth using for that
+reason I've divided them as you can see
+into five tiers in s tier I have ones
+that are excellent and have incredibly
+powerful effects that you're going to
+want to use all the time in a tier I
+have either ones that are a little
+weaker than that or ones that are very
+powerful but mostly are for specific
+strategies or specific Encounters in B
+tier I have ones that are generally
+pretty useful and are worth using when
+you don't have the S tier poisons
+available or in encounters that might be
+immune to those in C tier I have ones
+with minor effects but that are still
+generally worth uh using and in D tier I
+have ones with effects that are still
+better than nothing they're but are so
+minor that honestly you can forget about
+these poisons or sell them for gold and
+you won't really be losing out on
+anything you'll notice that compared to
+my other consumable tier lists there is
+no s+ tier cuz I don't believe any of
+them have uh totally gamebreaking
+effects and there's no F tier because
+the they are all better than nothing so
+they're all worth using before I begin
+raing the individual weapon codings
+though let's take a quick moment to talk
+about how they actually work these
+weapon codings are fairly complex and
+many of them work differently so I think
+it's worth talking about the actual
+mechanics of how apply them because
+we'll need to know that in order to rate
+them there are three different ways that
+you can apply these weapon codings to an
+enemy the first is by coating your
+weapon with it and then hitting them you
+can use these all as a bonus action from
+your inventory and It Coats your weapon
+in that poison for 10 turns you do this
+by activating it uh from your inventory
+as a bonus action it will coat both your
+mainhand and offhand weapon if you have
+two weapons equipped but it won't coat
+both your melee and range weapons if you
+want both of those CED you have to do
+them separately then you attack an enemy
+with it to apply the effect secondly you
+can dip the uh dip your weapons in a
+pool of the poison some of these poisons
+or Oils or Coatings when thrown create a
+pool of that effect at the location
+typically this pool will cause enemies
+standing in it to suffer the effects of
+the poison but also if it's a pool on
+the ground you can dip your weapons in
+it to apply the coating of the
+the the effect to your weapons same as
+if you had activated it from your
+inventory this takes a bonus action and
+also lasts for 10 turns and is exactly
+the same as coding your weapon so if you
+want multiple characters in your party
+to have the poison on it on them you can
+gain value by throwing your poison on
+the ground and then having your whole
+party dip their weapons in The Poisoned
+pool rather than activating it from your
+inventory that way you can have one
+bottle of these poisons work as up to
+four bottles of poison for attacking an
+enemy finally you can hit the enemy with
+it as though it is a grenade many of
+these uh oils can be thrown many of
+these poisons can be thrown and it will
+create a pool or a cloud of the poison
+at the location the ones that make
+clouds you can't dip your weapons into
+but they will still apply the effect to
+enemies however it's important to note
+that when thrown as a grenade most of
+these poisons have reduced effects
+compared to the version that's applied
+from your weapon attacks so if you hit
+an enemy with a grenade of this poison
+typically it will have a shorter
+duration and often a lower save DC so
+you can maybe hit multiple enemies with
+it at once because it's an AOE effect
+when you hit them with a a potion but it
+will often be at a reduced effect
+sometimes that can still be the right
+thing to do because hitting multiple
+enemies at a time is good um and
+sometimes you just have a bonus action
+to throw it at range and can't make a
+weapon attack so it can still be a very
+useful tool to be able to throw these
+but it's important to know that they
+will often have different save DCS or
+different effects when thrown when we're
+actually raiding the poisons all right
+let's get to talking about the
+individual
+poisons first up the basic poison as the
+imaginative name implies this is
+probably the first poison that you're
+going to encounter during the game and
+it just applies The Poisoned condition
+you can use it either by coding a weapon
+uh that from your inventory with it or
+by throwing it as grenade but not by
+dipping because it creates a cloud
+rather than a surface so you can't dip
+your weapons in it either way the effect
+of the poison is that an enemy struck by
+it or standing in the cloud has to make
+a dc1 saving throw a con saving throw or
+become poisoned which gives them
+disadvantage on attack rolles and skill
+checks The Poisoned condition is a
+pretty reasonable condition if you know
+that the enemy is going to get another
+turn in combat giving them poisoned can
+make them a lot less likely to hit you
+and especially in some of the early game
+encounters which is where you would
+conceivably be using this item
+disadvantage can on enemy attacks can
+really make the difference between your
+party living and not
+living however dc11 con saave is
+extremely low enemies are uh very very
+likely to pass it Constitution saves are
+typically the worst save to Target even
+in the very early game enemies will
+often have plus two or higher bonuses to
+their con saves and of course those go
+up drastically as you go on later in the
+game and when combined with the plus two
+bonus that all uh characters get to
+their saving throws all enemies get to
+their saving throws on tacti or honor
+they're extremely unlikely to reliably
+fail the save against the basic poison
+however something is always better than
+nothing and the basic poison you are
+very likely to have access to before you
+get access to any other better poisons
+and the ability to potentially give one
+of the dangerous early game bosses
+disadvantage on their attack roles for a
+combat is definitely uh powerful it's
+absolutely worth using this in those
+early game fights because they will
+typically go for multiple turns you
+don't yet have the tools to end them in
+a single turn the enemies will typically
+get off some attacks and so them having
+disadvantage can be pretty useful
+obviously you are very quickly going to
+move away from the basic poison and the
+likelyhood of it changing an encounter
+from a one encounter from a lost
+encounter to a one encounter I will
+admit is not very high but in the early
+game especially on honor mode um which
+is where you're most likely to lose
+every little bit helps so it can
+definitely be worth remembering that the
+basic poison exists and using it in the
+early game I'm going to place it in C
+tier because of the extremely low save
+DC and the fact that enemies need to get
+an extra turn before it actually does
+need to get another turn in the combat
+before it actually does anything You'
+typically rather have a poison that is
+proactive rather than uh defensive but
+um for the early game it does the job
+and it is better than nothing so you'll
+use it sometimes C tier next the simple
+toxin so I've grouped all four of the
+toxins here together because they all
+work in exactly the same way you can
+apply them in all three of the possible
+ways to apply weapon codings you can
+either use them on your weapons or you
+can dip your weapons in a pool of them
+because all of them make a surface that
+when thrown and this surface also lasts
+forever as long as it's not repl with
+another surface so you can keep enemies
+trapped in it to try to consistently
+reapply the effects so you can throw
+them you can dip them or you can apply
+them uh all of them will cause the enemy
+to suffer from a toxin condition if they
+fail the saving throw which will not
+take effect until the end of their next
+turn the end of their next turn and then
+it'll do some damage how much damage and
+how difficult the saving throw is will
+depend on the different toxins but
+basically how it will work is that you
+can never get multiple applications of
+this on a single enemy in in a single
+turn because it doesn't affect them
+until the end of their next turn and the
+effect doesn't stack but you do get
+multiple tries at applying it uh because
+the enemy will keep having to make the
+con save until they finally fail it so
+you'll usually if you apply these toxins
+to your whole party be able to fairly
+reliably get the effect but then you
+have to wait until the end of the enemy
+turn before that effect actually takes
+place the simp toxin itself has a dc11
+constitution save um and does one D4
+damage at the end of the enemy's turn if
+they fail the saving throw so you hit
+them with a weapon they make a saving
+throw if they fail it they'll take one
+D4 damage at the end of their next turn
+the inherent problem with this is that
+if you want to do additional damage you
+want it now right the point of damage is
+to kill enemies before they get to do
+stuff so having the damage not take
+effect until the end of the enemy's next
+turn guarant guing that they will get
+another set of actions before these do
+anything is a real problem for a
+damage-based item it doesn't actually
+under most circumstances help you kill
+the enemy faster unless the encounter
+was going to go for multiple turns uh
+already which is something that you will
+typically try to avoid having encounters
+go really long um and so you just aren't
+going to get a lot of damage value out
+of these the simple toxin itself has the
+added problem that it is a dc11
+constitution save for 1 D4 damage at the
+end of the enemy's next turn uh and a
+dc11 constitution save is extremely low
+enemies are very very likely to pass
+that saving throw and so even with your
+whole party attacking there's a very
+good chance that the simple toxin will
+never actually trigger on an enemy
+because dc11 is just extremely low
+Constitution is the worst save to Target
+and um most enemies even in the early
+game will have a reasonable bonus to con
+saves plus the additional bonus they get
+on high difficulty settings and so
+they're just very unlikely to fail the
+saving throw and if they do 1 D4 damage
+at the end of their turn just isn't
+going to do anything the simple toxin if
+thrown as a grenade it um it's hard to
+keep enemies in it doesn't have a high
+AOE or anything like that so the one
+chance a dc11 save or they take 1 D4
+damage if you let them live through
+their next turn is just not worth the
+only circumstance where you would really
+want to use the simple toxin is if you
+have no other weapon codings so you
+might as well or you're you have a
+character who has just a bonus action
+they have literally no other use for so
+they might as well throw something but
+under most circumstances the simple
+toxin is just not going to come up and I
+think you can pretty safely ignore it D
+tier the serpent Fang toxin so the
+serpent Fang toxin is exactly the same
+as the simple toxin works in the same
+way except that the saf DC is 13 instead
+of 11 and the damage is 1d6 instead of 1
+D4 this is a a moderate increase 13 is
+reaching a break point where it is more
+likely for early game enemies to
+actually fail the role against the
+serpent Fang toxin um and but 1d6 damage
+is still just not a lot of damage 1d6
+damage per turn is very very little and
+so even if used uh on your whole party
+it's just not going to be a significant
+damage boost to your party overall
+compared this item to like an alchemist
+Fire Grenade which sets an enemy on fire
+guaranteed so it does at least one D4
+damage guaranteed and you can see why
+these toxins are just not very valuable
+and they use your weapon coding slot
+because you can only have weapon cating
+uh at a time um only one cating at a
+time for a very marginal effect serpent
+Fang toxin also D
+tier next the wyvern toxin so the wyvern
+toxin is the same as the previous two
+toxins but in this case has
+dc15 con save and does 1d8 damage 1d8
+damage is uh enough damage that it is
+starting to be a little bit relevant if
+a fight is going to go for multiple
+turns like say three turns one d8 damage
+per turn does start to add up and can
+actually shave a turn off the time to
+kill a boss in some
+circumstances dc15 saving throw is high
+enough that in the very early game
+enemies will pretty reliably fail that
+even though it targets con which is
+again the worst save to Target a dc5
+saving throw is high enough that enemies
+will sometimes fail it the cool thing
+about the wyvern toxin though is that
+you get it very very early so even
+though like the other toxins it's a
+pretty weak item overall thanks to story
+events and just their placement in the
+game depending on your routing through
+act one you can have the wyvern toxin
+extremely early and use it for some of
+the very earliest game fights which are
+often the most difficult and most
+dangerous at the point in the game where
+you get the wyvern toxin it's often the
+best choice you have for a weapon coding
+dipping your whole party's uh weapons in
+the toxin will just speed up your time
+to kill on some of the very early game
+fights in a pretty meaningful way
+because enemies will fail the save and
+the damage is relevant so thanks to
+getting this item super early um it is
+worth using in some of the very earliest
+game fights obviously you're going to
+it's going to fall off very quickly
+after that but because of where you get
+this item in the game I'm going to place
+it in C tier because I think it is
+definitely worth using in some early
+game
+encounters next the purple worm toxin so
+the purple worm toxin is exactly the
+same as the other three toxins except
+that it also breaks the pattern and the
+save DC rather than going up by two goes
+up by four to be a dc19 save the damage
+still just goes up by one die size to 1
+d10 damage dc9 con saave is enough is
+high enough that enemies will pretty
+reliably fail it even on into the late
+game but 1 d10 damage at the end of the
+enemy turn is just not a relevant amount
+of damage at the stage of the game where
+you get the purple worm toxin you can't
+get it till Act Two by which point
+you've got better weapon codings uh most
+of the time anyways um 1 d10 damage is
+just not relevant damage at the end of
+enemy turns is just ceased to be
+something that you want to do
+strategically you want to be bursting
+down enemies if you're looking for
+damage at this point and to add insult
+to injury you're in act two where a lot
+of enemies are just immune to poison
+damage and that'll stay true on into the
+end of the game um where just a lot of
+enemies you face will be immune to
+poison damage for that reason the purple
+worm toxin despite the high DC so it's a
+little more reliable it's just not
+really an effect that you are looking
+for at this point it's worth using if
+you don't have anything better to do um
+cuz 1 d10 damage is not you know it's
+more than zero damage um and you can
+throw it as a grenade for some marginal
+effects as well if you don't have
+another use for a bonus action but in
+general the purple worm toxin is just
+not going to come up particularly
+remember that this damage doesn't
+benefit from any other effects it won't
+apply Rider effects it doesn't benefit
+from critical hits or anything like that
+it's just flat 1D 10 damage and that's
+just not worth really spending your time
+doing at this point in the game you're
+typically going to be better off selling
+them D tier for the purple worm Toxin
+and as always when I do something like
+this if you're looking to amuse yourself
+you can feel free to scroll down the
+comments and see the people who are mad
+that I put the worm toxin below the
+wyvern toxin um because people do get
+mad when you put put an objectively uh
+Stronger item below a weaker item which
+I always find funny because the
+important thing here is the
+context next the aronis oil so this is a
+funny one because the thing that the
+arsus oil actually does and what the
+game says it does are completely
+different things the tool tip for the
+arsonist oil straight up lies to the
+player I think it is quite buggy in its
+current implementation as of the date of
+recording though maybe that'll be fixed
+or at least clarified in the upcoming
+patch 7 um but as of right now the game
+just lies to you about what the arsenis
+oil does so first off the arsenis oil
+can only be applied uh by actually
+applying it to your weapons you can't
+throw it it um at an enemy and it
+doesn't create a surface so you can't
+dip your weapons in it you have to
+actually apply it and then hit an enemy
+with that weapon attack if you do that
+it applies the arsenous oil effect with
+no saving throw you just have to hit
+with the weapon effect and the enemies
+get the arsos oil effect this is where
+the game starts getting getting a little
+bit weird with how it works though what
+the arsenous oil effect says it does is
+remove enemy fire resistance and replace
+it with fire vulnerability give the fire
+vulnerability instead so you could
+imagine against an enemy with fire
+resistance like a devil or teling or
+something like that hitting them with
+arsenous oil and now instead of taking
+half damage from fire they'd be taking
+double damage from fire that's not what
+it does what the arsenous oil actually
+does is just remove move their damage
+resistance um so an enemy who's normally
+resistant to fire just becomes uh normal
+just has normal fire damage so instead
+of taking half damage they take 100%
+damage that's still pretty good uh
+there's a lot of fire resistant enemies
+and fire damage is a very common damage
+type if you have a fire damage focused
+character the arsenis oil is incredibly
+important cuz all the fire resistant
+enemies in the game you can with no
+saving throw you just have to hit them
+with the weapon turn off their fire
+resistance um and do full damage to them
+obviously it's not as good as if it did
+what it said in the tool tip and made
+them vulnerable but um even what it
+actually does do is very powerful it
+lets you forgo Elemental Adept on fire
+damage characters and it just Powers up
+your party significantly even if you
+don't have a fire damage Focus character
+your party is very likely to do a lot of
+fire damage whether you have it on your
+weapon or your throw
+um Alchemist fire or you
+have uh bombs and grenades and stuff
+like we've talked about in previous tier
+lists fire damage is just a very common
+Elemental damage type to do and so
+removing enemy resistances to it adjust
+at the cost of putting it on as a weapon
+coding on one of your weapons is very
+very powerful even if you aren't focused
+on doing fire damage as a party and if
+you have a fire damage focused character
+then of course the arsenis oil is
+mandatory
+it gets a little bit weirder from here
+though because there's also a trick that
+you can do with the aronis oil thanks to
+the buggy
+implementation I said that it just
+removes enemy fire resistance and that's
+not actually true what it seems to do is
+apply fire vulnerability but not remove
+enemy fire resistance so the two effects
+cancel out what that means is that if
+you can apply temporary fire resistance
+to an enemy then hit them with the
+arsenous oil so that they get the
+vulnerability and those effects C cancel
+out and then remove that temporary fire
+resistance you now have an enemy who's
+vulnerable to
+fire so any enemy who uh is not normally
+resistant to fire you can give temporary
+fire resistance to using the wet effect
+just hit them with a bottle of water
+they gain fire resistance then hit them
+with the arsenis oil and uh either
+remove the wet effect or wait for it to
+time out and suddenly you have a fire
+vulnerable enemy in this way you can
+turn any enemy who's not naturally fire
+resistant into a fire vulnerable enemy
+and do double damage with all your fire
+damage this is obviously incredibly
+powerful a little finicky to set up and
+requires some Party Support to get it
+working but using this technique you can
+double the damage with fire that all of
+your characters are doing and if you
+have a fire damage Focus character that
+increases their damage to a dramatic
+extent it would probably be even better
+if the aronis oil worked the way it says
+it does in the tool tip CU then you
+wouldn't have have to remove the wet
+effect somehow or wait for it to expire
+you could just get them wet hit them
+with the oil and then hit them with fire
+and they'd take a million damage but
+even with the extra step it's still an
+incredibly powerful and buggy tool that
+being said even without the powerful and
+buggy tool the aronis oil is still um
+very good and obviously critical if you
+have a character who's focused on doing
+fire damage but still extremely useful
+if your party just has incidental fire
+damage which most parties will just to
+strip off of very common resistance and
+make sure you're doing full damage to
+those enemies because it only comes up
+in some encounters and only some parties
+will make maximum use of it I'm going to
+place the arsenis oil in a tier but it's
+definitely extremely useful and of
+course if you have a character who's
+focused on doing fire damage you
+absolutely need it um so a tier for the
+arsonist oil with an asterisk because
+some party comps are going to be using
+this
+constantly the diluted oil of sharpness
+so the diluted oil of sharpness is
+another one that can only be applied
+from your inventory can't be thrown it
+doesn't make a pool or anything on the
+ground so you have to actually apply it
+to your weapons so you only get one use
+out of one bottle of this what it does
+is it gives a weapon that is coded in it
+a plus one enchantment so plus one to
+attack and damage and that Stacks with
+any normal enhancement that the weapons
+would have so a plus three legendary
+weapon can become a plus4 weapon if you
+put the diluted oil on it and you can
+stack this with a bunch of other other
+effect to really improve your weapon
+Stacks with magic weapon and everything
+else it also uh causes the weapon to
+become magical if it's not magical
+already so it'll bypass damage
+resistance to non-magical effects 10
+turns of just a plus one to attack and
+damage um for basically no resource
+expenditure is amazing obviously
+increased damage is great it's damage
+upfront so and of course the more
+attacks you're making the more the oil
+of sharpness um increases your damage
+and plus one to hit is amazing um there
+are basically no downsides to using the
+diluted oil of sharpness and it's going
+to increase your damage output
+dramatically uh so we're just going to
+put it right in s tier this is a very
+simple one it's just very good to use
+you're just going to want to use this
+constantly because it's just good s
+coding the Dr poison so the Dr poison
+works very similarly to the basic poison
+it can only either be applied from your
+inventory or thrown as a grenade because
+it makes a cloud rather than a surface
+so you can't dip your weapons in it um
+and if applied uh in your inventory you
+get 10 turns of drow poison on your
+weapons if thrown as a grenade you get a
+one turn Cloud that inflicts the effect
+on everyone in it the effect is a dc13
+constitution saving throw which is a
+pretty low save that enemies will will
+pass Pretty reliably especially on
+higher difficulty settings um but if
+they fail the save they fall asleep they
+get a new saving throw at the end of
+each of their turns to try to wake up
+from this asleep effect effect so it
+probably won't last that long but the
+ability to add a save or just lose a
+turn to your weapon attacks is pretty
+incredible asleep is a very powerful
+condition sleeping enemies can't do
+anything so if they fail the save
+they're going to lose a turn um and the
+ability to just have that on your weapon
+attacks is really really powerful
+remember also that these types of
+poisons if you apply them to multiple
+enemies at once uh you can apply to
+multiple enemies at once if you have a
+weapon attack that lets you hit more
+than one enemy like a tiger Barbarian
+swing or sword bar flourish or an arrow
+of many targets like we talked about in
+the last episode um and so the Dr poison
+can often be a lot of saving throws for
+your enemies or they just lose the
+encounter immediately one turn of not
+doing anything is usually enough to just
+win an encounter outright um if it lands
+on an important enemy so even though the
+saving throw isn't very high the Dr
+poison is just a very powerful effect
+the downside is if they pass the saving
+throw they get inoculated to it and
+cannot be affected by drw poison for two
+more turns so you only get one chance
+per enemy to apply this in most
+circumstances unless the combat goes
+really long but even then one chance per
+enemy to just win the fight immediately
+is just so powerful um I'm going to put
+the drought poison in a tier because
+pretty uh quickly enemies are going to
+start passing the saving throw very
+reliably cuz it's a only a dc13 but the
+effect is so powerful that it's very
+much worth using um pretty much all the
+way through the game and especially in
+the early game where it's extremely uh
+useful as a grenade it's also just very
+good dc13 or they fall asleep is is
+pretty nice actually so uh dc13 con or
+they fall asleep is um pretty nice when
+combined with the fact that you can
+apply this as a weapon coding it so it's
+just worth picking up the drw poison and
+keeping a lot of them around cuz asleep
+is just such a powerful effect very good
+poison a tier the oil of accuracy so the
+oil of accuracy is uh similar to the
+diluted oil of sharpness it's an oil so
+you can only apply it directly from your
+inventory can't be thrown can't be
+dipped Etc just applied to your weapon
+um but unlike the oil of sharpness which
+gives plus one to attack and damage the
+oil of accuracy gives plus two to attack
+plus two to attack is better than plus
+one to attack and damage uh bonuses to
+hit are really really important and one
+of the most powerful things that you can
+do in Dungeons and Dragons um the amount
+of average damage that you'll get out of
+the oil of accuracy is very very high on
+any character that is focused on doing
+damage um basically you can think of
+this is increasing your average damage
+per turn by 10% of whatever your uh base
+damage is just like whatever the ever
+the damage of your attack is and that's
+going to be a lot of damage if you use
+the oil of accuracy in a fight it's
+going to just increase the damage output
+of your characters massively and also
+make them much more reliable cuz hitting
+is good I've already said it's better
+than the diluted oil of sharpness which
+is in s tier so it's probably no
+surprise that the oil of accuracy is
+also s tier um when in doubt the oil of
+accuracy is a little bit better but both
+of these oils are incredible and you're
+just going to want to stockpile them and
+use them as much as possible the oil of
+diminution so the oil of diminution is a
+another oil the so it can only be
+applied directly to your weapon from
+your inventory um as a bonus action Etc
+uh and it gives you 10 turns of the
+effect where an enemy struck by this
+weapon must make a dc11 constitution
+saving throw or become reduced there is
+no immunity to this effect so if you hit
+them lots and lots of times they have to
+make this save every single time you hit
+them so it will eventually probably go
+off in Long combats if you're attacking
+a lot even though it's only a dc11 con
+save it will probably eventually work um
+though obviously that's an incredibly
+low safety see targeting a bad saving
+throw so it will take a while and the
+effect of reduced is that enemies deal 1
+D4 less damage with melee attacks uh
+have disadvantage on strength checks and
+disadvantage on strength saves
+disadvantage on strength saves can be
+useful if you're trying to set up some
+sort of strength saving throw effect
+like an entangle or something like that
+that targets strength um disadvantage on
+strength checks can let you push enemies
+more easily so you could use this uh on
+a character who's planning to shove a
+lot like use the actual shove action um
+to push enemies around with the oil of
+diminution but that is just a lot of
+work for a very very marginal effect
+minus 1 D4 on melee damage is just not
+anywhere near as good and uh not worth
+anything really um the cool thing is it
+does actually also make them smaller so
+you can throw them more easily um but
+the the saving throw on this is just so
+pitiful that enemies will pass it very
+reliably so you can never build a
+strategy around the oil of diminution
+because it's just not reliable to use it
+and uh you know I've I've come up with a
+bunch of edge cases where it like might
+be useful but under most circumstances
+it's just not going to do anything in a
+very long fight against a melee enemy it
+could save you some damage but overall
+the oil of diminution is just better off
+sold most of the time D tier
+the wizard Bane oil so another oil has
+to be applied directly from your
+inventory can't be thrown or dipped or
+anything like that um and what the
+wizard Bane oil does is an enemy struck
+by it with no saving throw so just if
+you hit them with the weapon that's
+coded in this at all they get the wizard
+Bane oil effect that gives them a minus
+three for two turns that gives them a
+minus three penalty to spell attack
+roles and spell save DCS as well as
+disadvantage on concentration saving
+throws important certainly uh that
+disadvantage will apply if an enemy is
+already concentrating on a spell so if
+you have an enemy who's concentrating on
+a spell you pop wizard Bane oil and hit
+them the concentration save they have to
+make against the damage they took from
+that weapon attack will have
+disadvantage so you're pretty likely to
+be able to break enemy concentration
+with this on any character that does
+even uh marginally reasonable damage cuz
+uh a decent amount of damage plus
+disadvantage on the concentration save
+they'll very likely fail it so you can
+break concentration quite reliably minus
+three to spell attack roles and spell
+saf DCS is a fairly marginal bonus it's
+very defensively oriented which is not
+what you usually want with this kind of
+thing you'd much rather be proactive um
+but against some enemy spellcasters who
+are going to get a turn uh this effect
+with no saving throw you just have to
+hit them with a weapon attack to apply
+it is quite good uh I don't think that
+this is the best oil overall but the
+ability to more reliably break enemy
+concentration and give enemies a penalty
+that has no saving throw associated with
+it is pretty nice so for certain wizard
+Encounters in the game I think the
+wizard Bane oil does what it says on the
+tin it will cause them to just be a
+little bit worse at being a wizard um
+which is sometimes all you need in order
+to win an encounter this is not going to
+dramatically change the course of most
+combats it's more in the nice to have
+section so I'm going to place it in B
+tier but the fact that it has no saving
+throw is really good for the wizard span
+oil so in Wizard encounters it is worth
+using next up crawler mucus and also
+carabis poison which is just a unique
+non-craft non-craft version of exactly
+the same thing I decided to include it
+just because otherwise it might confuse
+people and uh we'll just talk about
+these two together crawler mucus is the
+sort of upgraded version of the basic
+poison and the Dr poison it is
+applicable either through coding your
+weapon from your inventory or by
+throwing it as a grenade in which case
+it makes it Cloud that lasts for one
+turn and applies the effect different
+from the Dr poison or the basic poison
+though the crawler mucus if thrown has a
+different save DC than it does if
+applied to your weapons on your weapon
+attacks it's a save DC 13 a constitution
+save 13 but if thrown and the cloud that
+it creates makes this DC 11 saving throw
+so if you throw it at an enemy it's less
+likely to succeed so you're pretty
+incentivized to actually use this on
+your weapon attacks if an enemy fails
+the saving throw against the crawler uh
+mucus they become poisoned but also
+paralyzed for one turn and paralysis is
+the best uh condition to apply in the
+entire game it's just the most
+debilitating condition in the game
+completely stops them from acting for a
+full turn because the it doesn't tick
+down till the end of their turn so you
+get one turn of no actions which is
+already great but then it also
+guarantees Critical Hits From attacks
+made within 10 ft if you're using the
+crawler mucus on a Melee character it
+means any subsequent attacks they make
+are going to automatically critical
+similar to the drow poison and the basic
+poison it has the inoculated effect
+where if they uh pass their first saving
+throw against this which they're fairly
+likely to cuz dc13 is not that High um
+they become immune to it so you can't
+like spam out a lot of attempts until
+the enemy fails but even like a 25%
+chance per enemy per Encounter of taking
+them out immediately uh with the crawler
+mucus is incredibly strong this won't
+come won't work that often but it will
+work often enough that it's just going
+to win encounter after encounter on its
+own so any encounter where an enemy is
+not immune where the enemies are not
+immune to being poisoned crawler mucus
+can just instantly win the encounter
+gives you a pretty small random chance
+of doing that but a small random chance
+of of winning an encounter is absolutely
+worth the no resources that you're
+spending on it it's not like you're
+spending an action on this or anything
+because you just use it before the fight
+starts and then you just get like a 20
+25% chance um when a combat starts of
+just instantly winning it and against
+enemies encounters with multiple enemies
+you can apply crawler mucus across the
+whole encounter with arrows of many
+targets or just by shooting them each in
+turn or something like that very good on
+archers cuz you can just uh try your
+luck at each enemy in the opening round
+of combat very good on Fighters cuz you
+can action Surge and just try hitting
+each enemy to see if they happen to fall
+over to the crawler mucus um just the
+the sheer power of this effect and the
+chance of just instantly winning
+encounters with it puts it all the way
+up in s tier it's not as reliable as the
+oil of sharpness or the oil of accuracy
+but when it works oh boy does it ever
+work so s tier poison for the craw
+crawler mucus as well as carabis poison
+which does exactly the same
+thing next up malice so malice is
+another poison using exactly the same
+mechanics as the crawler mucus Dr poison
+and basic poison you can either apply it
+to your weapon directly from your
+inventory or throw it as a grenade where
+it'll make a cloud if you throw it as a
+cloud the cloud will last for one turn
+um whereas if you apply it to your
+weapon it'll last for 10 the difference
+with malice is that it has a
+radically different saving throw if
+applied to your weapon than it does if
+thrown as a grenade if applied to your
+weapon it's got saved DC of 15 dc15 con
+safe but if thrown as a grenade it's
+only a DC of 10 which is so low that I
+kind of wonder if it was a typo when
+they were entering this uh item into the
+item database that extreme difference
+means you're highly incentivized to use
+this as a weapon coding rather as a than
+as a grenade because dc10 is just never
+going to succeeded um and so enemies are
+just always going to pass that effect
+and you won't get anything out of it as
+a weapon coding with dc15 if you hit an
+enemy you have a semi- reliable chance
+of applying the effects which are
+poisoned and blinded just like the other
+poisons if they pass the first saving
+throw they become inoculated so you only
+get one chance at this but blinded is a
+pretty good condition it's a step down
+from asleep or paralyzed but the save DC
+is a little bit better so um you are a
+little bit more likely to use it and if
+you use it as part of a multiattack
+blind the enemy on your first attack
+means you can get advantage on
+subsequent attacks against that enemy so
+it's definitely got some utility hitting
+those attacks can be pretty powerful um
+I mean if an enemy fails to save against
+malice then it is better than oil of
+accuracy which is really good but of
+course it's much less reliable because
+they won't fail the save as often
+overall I think that the malice effect
+is a reasonably strong effect blind is a
+pretty good condition even with save
+ends on the enemy turn you're likely to
+get a few advantaged attacks out of it
+and the enemy will have to make some
+disadvantaged attacks um so malice can
+be worth using I don't think that
+overall it's going to be better than any
+of the other poisons uh or than like
+crawler or drow poison which both have
+much more debilitating conditions
+attached so I'm going to put it in B
+tier because I think it's fine blinded
+is a reasonable condition it will apply
+moderately frequently with a dc15 save
+but it's just not reliable enough to be
+a reliable effect or powerful enough to
+be a powerful effect so I would
+generally only use it if you are out of
+the more powerful poisons that in the
+higher
+tiers next the oil of Bane so the oil of
+Bane again it's an oil so you can only
+apply it to one weapon or to your weapon
+set directly from your inventory you
+can't throw it or use it uh as a dip or
+anything like that um but when applied
+to a weapon it gives you a Bane on a
+stick enemies struck by the weapon have
+to make a dc1 Charisma saving throw or
+become baned dc11 obviously is very low
+but unlike a bunch of the other dc1s
+that we've discussed this one targets
+Charisma Charisma is maybe the best uh
+saving throw in the game to Target um a
+lot of enemies have very very low
+Charisma saves and so against enemies
+with weak saves this is actually pretty
+reliable uh even with only dc11 because
+you can just keep trying it the oil of
+Bane doesn't have the inoculation effect
+that the poisons do so enemies struck by
+it have to make the dc11 save every time
+and when they're finally hit by it they
+get baned Bane gives them a minus 1 D4
+to their attack roles and saving throws
+which is a pretty good effect um it's
+not going to be a massive boost or
+anything but if you can apply a a
+reasonably powerful spell that normally
+takes concentration and whatever without
+having to use any of those things things
+just by hitting the enemy it's something
+that you already want to do then that's
+always worth looking at minus 1 D4 to
+enemy saving throws means that
+subsequent control spells or whatever
+that you're trying to land are going to
+be more likely to land minus 1 D4 to
+attacks won't convert that many hits
+into misses but every little bit counts
+when the enemy actually gets to attack
+so the oil of Bane I think definitely
+has its place because it targets a good
+even though it's a fairly marginal
+effect because it targets a good saving
+throw to Target and you can just keep
+trying until it works the oil of banee
+is going to be pretty reliable in terms
+of actually Landing Bane in combat so
+I'm going to put it in B tier not the
+most powerful effect in the world but it
+will often work and when it does you are
+reasonably happy to have it again you
+would prefer a more powerful choice for
+your oil most of the time but the oil of
+Bane uh is just a reasonable Workhorse
+that is a good thing to put on your
+weapon if you don't have a better
+option next the oil of combustion so
+this is an another uh oil you can only
+apply it to your weapon directly and how
+it works is that after you've applied it
+to your weapon when you hit an enemy
+with it with no save they get the oil of
+combustion condition while they have
+this condition if they're hit with any
+fire damage they explode for 3d6 fire
+damage in a 10t radius around them um
+and this fire damage has no saving throw
+not even for half any every they and
+everything around them will take an
+additional uh will take 3d6 fire damage
+no questions asked obviously this is a
+little dangerous if you're applying it
+with a Melee character because then
+you'll take the damage yourself but for
+a ranged character this is an extremely
+powerful option to get a little bit of
+extra uh no safe damage the trick here
+is that you can have the attack that
+applies the oil also set it off if the
+weapon that attacks with it can also do
+fire damage because there are ways to
+get your weapon to do fire damage um
+normally a weapon that's burning so a
+lot of weapons that do fire damage can't
+have a cating but there are ways to add
+fire damage to any weapon like say the
+flawed hell dusk gloves um to that just
+adds a D4 of fire damage to all your
+attacks to guaranteed set off the oil of
+combustion and just add an AOE explosion
+to every attack that your Archer is
+making for example where the oil of
+combustion gets really ridiculous though
+is with AOE effects if you can hit
+multiple enemies who are close together
+with it with the same effect the oils of
+combustion are going to chain together
+dealing chained damage between each
+enemy and stacking the more enemies are
+in the the location so with like a
+hunter's volley applying these all at
+once and setting them off you can deal a
+massive amount of damage to a grouped uh
+Squad of enemies something like a black
+hole combined with an oil of combustion
+volley can deal an incredible amount of
+burst damage I think that this is very
+good if you build around it but even the
+default usage of of just um having some
+fire damage along with the oil of
+combustion just to add a little bit of
+extra damage to every archery attack in
+an explosion is just a very good use for
+oil of combustion even aside from the
+chaining together and extreme power that
+you get if you put them in an AOE um so
+the oil of combustion is just very very
+good I'm going to place it in s tier
+because it's just a very reliable way to
+add damage to all of your attacks and I
+love reliable damage you do have to hit
+and enemy with it and then deal fire
+damage to them or at least hit them with
+a fire damage attack with the oil um but
+that's a pretty easy condition to meet
+and when you do meet it you get
+incredible value 3d6 damage doesn't
+sound like a lot but it it adds up when
+you're doing this with like every attack
+that you're making oil of combustion s
+tier the oil of freezing so the oil of
+freezing is another oil you apply it to
+your weapon and then for 10 turns when
+you hit an enemy with that weapon with
+no save they become encrusted with frost
+for two turns that's a stacking
+condition so if you hit them with a
+weapon multiple times they will increase
+the duration of the encrusted with frost
+effect um and what that does is give
+enemies disadvantage on dexterity saving
+throws as well as if you hit seven turns
+of duration remaining on encrusted with
+frost so if you're just using oil of
+freezing four attacks with your weapon
+over two turns CU they can lose one turn
+of duration and you'll still hit seven
+then they become then they have to pass
+a dc12 constitution saving throw or they
+take 1 D4 cold damage and become Frozen
+the 1 D4 cold damage is obviously there
+only for flavor but becoming Frozen is
+very powerful Frozen incapacitates the
+enemy uh so they can't do anything uh
+and they become vulnerable to
+bludgeoning Thunder and force damage
+bludgeoning damage is very common but
+also if you hit an enemy with one of
+those damage types they become unfrozen
+again so often you'll just want to leave
+them
+Frozen um dc12 conve is obviously very
+passable uh especially at the point in
+the game where you're going to get oil
+of freezing with reliability enemies
+will pass that save pretty reliably but
+there is no inoculation against this
+effect and you so you can just keep
+stacking up the encrusted with frost and
+they will keep having to make the saving
+throw um and it's effectively free and
+Frozen is a very powerful effect so
+similar to crawler mucus or Dr poison
+the safet DC might not be great but if
+they fail the effect you probably just
+win the counter immediately the upside
+of of oil of freezing is you can have it
+work multiple times against the same
+enemy there's no inoculation but the
+downside is you need to hit them a lot
+before it goes off crawler mucus or Dr
+poison will put the freezing on them on
+the first attack will put the the stun
+on them on the first attack oil of
+freezing will do it on the fourth attack
+however attacks that apply multiple
+damage instances um will apply the oil
+of freezing multiple times over stuff
+like the Slayer arrows like we talked
+about last time will do two instances of
+oil of freezing in the same attack so
+you can stack this up very quickly if
+you build for it even without that
+though it's pretty possible to make four
+attacks in a round with like a hand
+crossbow build or something like that so
+it's pretty reliable that you can get
+the oil of freezing to be a per turn the
+enemy has to make a dc12 con saave or uh
+be stunned you know just lose the
+encounter immediately they'll be frozen
+uh so that's a pretty powerful effect by
+itself this takes a little little bit
+more work to set up than the poisons but
+is a slightly more powerful effect if
+you can get it reliably working so I
+like the oil of freezing quite a bit
+even if you're not putting a lot of
+effort into it just the chance of
+freezing an enemy every couple turns is
+very very powerful if you keep hitting
+the en the same enemies though if you're
+hitting an enemy that many times in a
+combat they're probably dead to your
+damage anyways so this won't come up
+more than like once but it will come up
+once and once is often enough I think
+because it takes so many attacks to
+apply the poison to apply the freezing
+unless you're doing multi-damage instant
+stuff in which case you're probably
+doing a lot of damage in an attack
+anyways the oil of freezing is going to
+go in B tier but for a build that is
+centered around doing enough damage
+instances to make it trigger very
+reliably it definitely goes up in value
+so for those builds I would put it in a
+or S tier but for most parties that are
+just going to be using it by default
+it's going to go in B tier where it's
+useful but not
+amazing and finally thiss brooded up
+belly glamber so despite being a poison
+so you might think that it this could be
+thrown as a cloud it is not it works
+more like an oil and can only be applied
+to your weapons um and this gives you
+the brood up belly glamber effect that
+you can apply to an enemy with your
+weapon hits an enemy struck by it has to
+make a DC 17 Constitution saving throw
+which is a pretty high saving throw um
+dc17 is enough that enemies will fail it
+pretty reliably and if they fail the
+saving throw they get disadvantage on
+attack roles and ability checks so
+basically the the poison effect um and
+also take 1 D6 poison damage at the end
+of each of their turns this effect lasts
+until they successfully pass a saving
+throw they get a new one every turn but
+the interesting thing about the brw up
+belly glamber is that unlike the other
+poisons it works more like a toxin there
+is no inoculation effect against it so
+enemies will you can just keep trying to
+apply it until an enemy fails the saving
+throw with a dc7 saving throw that's
+going to be applied pretty regularly so
+this is a pretty reliable way to give an
+enemy dis an enemy who's not immune to
+poisons disadvantage on their attack
+roles which is a pretty powerful effect
+to apply disadvantage on attack rolls um
+is very nice the disadvantage on ability
+checks mostly doesn't matter and the 1d6
+poison damage damage at the end of their
+turn definitely doesn't matter um but
+the reliable disadvantage on Attack
+rules is actually quite good I think
+that this is quite similar to oil of
+Bane although typically slightly better
+because the saving throw is more likely
+to succeed and disadvantage is better
+than minus 1 D4 on attack roles but of
+course the oil of ban also affects their
+saving throws which the belly gumber
+does not if you know that a fight is
+going to go long this could be a pretty
+good way to keep your party alive
+enemies having disadvantages is
+reasonably powerful but it must be said
+that there's a lot of easier ways in the
+game to apply disadvantage to an enemy
+things like fog cloud or whatever do it
+with no saving throw at all so the belly
+glumer is just not going to be a massive
+benefit to you um given how easy it is
+to duplicate its effects even though
+this applies pretty regularly and is
+pretty reasonable I think that most of
+the time if you want to give an enemy
+disadvantage you are better off doing it
+in a way that has no saving throw like a
+fog cloud or something else like that um
+so I'm going to put the belly glamber in
+C tier because I think that it's its
+effects are just so easily duplicatable
+so even though it's relatively reliable
+um it's similar to the basic poison in
+that uh the disadvantage is inherently
+defensive disadvantage on enemy attacks
+is inherently defensive so you're not
+getting you're not getting the encounter
+over with quicker by using this and by
+the point in the game where you get
+access to this reliably you can pretty
+easily duplicate its effects otherwise
+but the effects are are reasonable and
+so if you don't have a better way to
+apply disadvantage the belly gumber has
+got your
+back all right my friends I hope that
+you've enjoyed this look at the poisons
+oils and weapon codings available in
+balers Gate 3 I think that this is a
+pretty fun uh list but to be honest this
+is one of the tier lists that I am least
+certain about my placements of I think
+that these are all very contextual items
+builds built around maximizing them are
+going to change the evaluation of these
+items significantly um so I think that
+the the way that these items interact
+means that a tier list uh doing a tier
+list like this is inherently pretty
+difficult and I could see a lot of these
+items moving around pretty significantly
+especially depending on what party
+you've got for example arsonist oil oil
+of combustion oil of freezing Etc are
+all items that are going to change their
+effects uh drastically depending on what
+your builds are change their impact
+drastically depending on what your
+builds are um so I could see moving any
+of those around pretty significantly
+depending on your play style that being
+said I think if you just if what you
+take away from this is diluted oil of
+sharpness oil of accuracy and crawler
+mucus and just use those all game you
+will do ab absolutely amazing so um
+those are the ones that I would really
+keep an eye out for cuz they're
+extremely
+good as always my friends if you've
+enjoyed the video please feel free of
+course to leave a comment and like the
+video I both of those things help me out
+a ton with the algorithm so I really do
+appreciate people taking the time to do
+that it really helps me out and means a
+lot when you take your time to leave a
+comment and of course let me know what
+you think I should move around like I
+said this is one where I can see a lot
+of these moving pretty significantly
+depending on people people's play Styles
+and it's very possible there has there
+is stuff that I have missed with the
+application of these weapon codings
+because they are particular to how
+different parties play so definitely let
+me know what you think should move
+around all right my friends hope you
+enjoyed the video and I will catch you
+next time

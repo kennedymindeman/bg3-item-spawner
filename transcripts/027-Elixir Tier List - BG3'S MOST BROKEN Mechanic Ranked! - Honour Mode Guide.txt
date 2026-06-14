@@ -1,0 +1,1642 @@
+hello my friends and welcome back to
+another balers Gate 3 character building
+guide hope you're all doing well today
+we're doing another tier list and today
+I'm covering Elixir this is a topic
+that's been requested pretty frequently
+and one that I wanted to cover because I
+think that Elixir are both an incredibly
+powerful tool and one that operates in
+some slightly odd ways in balers Gate 3
+that yield some unintuitive results as
+to which Elixir are good and which
+Elixir are bad they're also an
+incredibly powerful tool and so knowing
+which ones are useful and which ones
+aren't is very important I think for
+Honor mode parties in an ideal scenario
+you would have every member of your
+party every adventuring Day have an
+Elixir running that is both in and of
+itself powerful and synergistic with
+that character's kit so knowing which
+ones those are I think is very important
+in Elixir is effectively a potion that
+lasts all day so you it's a consumable
+that you drink and it gives you the
+benefit for the entire day but you can
+only have one Elixir running at a time
+that means it's effectively the same as
+a gear slot for your character but
+because it uses a consumable you will
+probably under most circumstances be
+changing what you have equipped to your
+Elixir slot uh depending on the
+adventuring day and which ones you have
+obviously your gloves don't disappear
+after one day but your elixir does and
+so which Elixir you have available for
+which days will probably change over the
+course of your playthrough so deciding
+which ones are useful to equip or drink
+is going to be a pretty big difference
+maker in terms of how powerful your
+party is before I begin a quick note on
+what I am and am not covering in this
+tier list so I'm covering almost
+everything in the game that's called an
+Elixir and everything that functions as
+an Elixir there are two kinds of items
+that are called Elixir that don't work
+the same as other Elixir which we're not
+covering the Elixir that are given to
+you by arage oblad uh are limited to one
+per character and and do not take your
+Elixir slot they won't replace other
+Elixir if you drink them so they are not
+something that we need to cover in this
+tier list because they won't replace
+your other Elixir so you can just have
+them running simultaneously and the
+elixir of universal resistance is called
+in Elixir but is actually just a potion
+it only lasts for 10 turns it doesn't
+replace your other Elixir so we don't
+need to cover it in this Elixir slot I'm
+covering everything that works the same
+as other Elixir by using your Elixir
+slot and Lasting all day in this tier
+list I'm also focusing specifically on
+honor mode there are a couple Elixir
+that work differently on honor and on
+lower difficulty settings so I will
+mention with how strong they are on
+lower difficulty settings when we get to
+those ones but I will be focusing
+specifically on honor mode finally for
+the tiers I've divided them into six
+tiers in s+ tier I have Elixir that are
+too strong for the game balance that
+have unintended effects that I think
+were probably not foreseen by the
+designer although they've chosen to
+leave them in um and break the intended
+game balance of balder's gate so they're
+just too powerful for the game in s tier
+we have excellent Elixir that every
+character can benefit from if they use
+the bonuses at all they're going to be
+incredibly strong and these are ones
+that you should really stockpile for
+important days or just try to get enough
+of to drink every day in a tier I've got
+ones with solid bonuses these are going
+to be very helpful and are usually going
+to be your go-tos when you're out of the
+S tier elixir in B tier I have elixir
+that provide relatively minor bonuses or
+bonuses that are good only for specific
+classes but are still pretty useful and
+in C tier I have elixers that provide uh
+technically provide a bonus but mostly
+are not going to actually assist your
+character so you'll only drink the C
+tier Elixir if you have completely run
+out of other Elixir uh in order to have
+them because any bonus is better than
+none but these are such minor bonuses
+that they won't particularly change
+anything and then in F tier I have
+Elixir that are actively harmful under
+most circumstances and that you should
+outright avoid drinking for an
+adventuring day finally I I will say
+that I myself am not a huge fan of the
+Elixir system in Boulders gate I think
+that they are too powerful in general um
+but that is all the more reason to cover
+them for optimization purposes because
+something that is too powerful is
+something that you absolutely want to be
+able to use in order to have the
+strongest possible parties in honor mode
+all right let's let's get ranking first
+up the elixir of Arcane cultivation
+there are four of these uh one for each
+spell level from one through four the
+Arcane cultivation Elixir gives you an
+additional spell slot of level one
+greater Arcane cultivation gives you an
+extra level two spell slot Superior
+gives you a level three and supreme
+gives you a level four importantly with
+these Elixir if you uh use them and then
+cast that spell and then drink another
+Elixir having already used the spell SL
+it doesn't reduce your spell slots so
+you can get a free free spell basically
+by cast by drinking this Elixir and then
+swapping to a different one after
+casting your spells that's especially
+useful with dayong Buffs so if you have
+higher level uh dayong buff spells that
+you want to cast you can use one of
+these elixir in order to get a free cast
+of a dayong buff before swapping to
+another Elixir for the rest of the day
+that's a pretty useful feature and in
+General an extra spell slot during the
+day is a reasonably powerful effect
+because it just lets you go longer it
+also lets you have higher level uh
+higher damage output on your Nova turns
+it's not going to make or break most
+adventuring days but it is definitely a
+reasonable effect the Arcane cultivation
+Elixir gives you an extra level one
+spell slot even at early levels an extra
+level one spell slot isn't a big deal
+there's a couple uh dayong buffing
+effects that you can cast with a level
+one spell slot but for the most part the
+dayong buff effects that you would want
+from level one spells are going to be
+ritual spells anyways so this could be
+used to give you something like
+protection from Good and Evil all day or
+Shield of Faith all day without costing
+you a spell slot so that is pretty
+useful or you can just use it in order
+to get an extra level one spell for
+every combat either way this is not
+going to be a major bonus to your
+character um the ability to cast Shield
+of fa without spending a spell slot is
+pretty nice but of course you'll still
+have the normal problem of Shield of
+Faith where you lose concentration on it
+the ability to cast Mage Armor without
+spending a spell slot is much better
+because often characters will want to
+cast Mage Armor but you could use a
+scroll for that for example um either
+way this is at best probably a free cast
+of Mage Armor or the additional an
+additional level one combat spell and
+neither of those things are going to be
+huge they are definitely bonuses that
+you will not say no to but uh for the
+most part this is not going to be a
+significant boost to your character so
+I'm going to place it in C tier the best
+uses for it probably are casting Mage
+Armor and then drinking another Elixir
+or drinking it on a paladin who has
+obviously a great use for the level one
+spell slot because you can use it to
+Smite with but either way it's still not
+going to be a massive boost to the
+character the elixir of Greater archane
+cultivation gives you a level two spell
+slot which is obviously significantly
+better than a level one spell slot in
+many ways it's more than twice as good
+as a level one spell slot the best
+dayong Buffs that you can grab from this
+one are things like Aid which is pretty
+useful even with only plus five hit
+points that's still a pretty nice use of
+an extra level two spell slot um and
+with level two spell slots this gives
+you actually a meaningful increase in
+your combat abilities especially in the
+early game an additional cast of let's
+say cloud of daggers or spe Ral weapon
+or something like that can be a pretty
+significant increase to your party's
+ability to um adventure for longer and
+so the greater Arcane cultivation Elixir
+I think is going to be quite a bit
+better than the Arcane cultivation
+Elixir uh does that bump it up from C to
+B tier I think the answer is still
+basically no um this is still pretty
+useful for paladins for the extra spell
+uh for the extra Smite it's still pretty
+useful for dayong Buffs but it is over
+all just such a minor benefit to the
+character that I think this still
+belongs in C tier the elixir of superior
+Arcane cultivation which gives you a
+level three spell is where these start
+to be really much more interesting level
+three spells are exponentially better
+than level one and two spells because
+level three spells are typically where
+the game what most character builds are
+going to hinge around level three spells
+are where a lot of the best spells in
+the game are found haste sleet storm
+hypnotic pattern hunger of Hadar and so
+on and so the superior Arcane
+cultivation Elixir gives you one of the
+best spells one of your character's
+Mainstay combat spells uh as an
+additional spellcast every day often the
+number of of fights that you can take in
+a day is dictated by your third level
+spell slot access in fact I think most
+parties are going to rest when their
+spellcasters have run out of third level
+spells and so the superior Arcane
+cultivation Elixir gives you actually
+usually an additional fight that party
+can take during the day that's a pretty
+powerful effect even aside from the fact
+that this also gives you access to free
+casts of some of the better dayong Buffs
+like animate dead and so on that can
+actually in meaningfully increase the
+power level of your party a third level
+Smite is also a much pretty strong boost
+to get once during the day for a paladin
+and so all of these things add up to
+making the superior Arcane cultivation
+Elixir much more interesting than the
+the lower level elixir even though
+obviously it comes later in the game it
+is going to be more powerful at the
+point where you get it than those were
+at the point where you get them and so
+we're going to put that one in B tier
+finally the Supreme Arcane cultivation
+Elixir gives you an additional fourth
+level spell slot these can be bought
+from any Merchant who sells Elixir
+starting at level 9 and so you can
+pretty regularly get an additional
+fourth level spell slot uh to cast a day
+long buff at the beginning of the day
+before swapping to a different Elixir or
+just use these as your default Elixir
+for any spellcaster either way is pretty
+nice for the dayong Buffs fourth level
+spells are notable because they have
+some of the strongest dayong Buffs
+available in the entire game in
+particular for Druids summon Woodland
+being is available at fourth level but
+also uh you can use this for condra
+Elementals you can use this for an
+upcast IT animate dead a condra minor
+Elementals you can use this for an
+upcast and animate dead and you get some
+of the more powerful summoning effects
+before you swap to another Elixir for
+the day fourth level spells are also
+great combat spells in general a fourth
+level cast of spirit Guardians for
+example is just a game-winning spell and
+that's what you're going to be spending
+your fourth level or encounter winning
+spell that's what you're going to be
+spending your fourth level cleric slots
+on pretty frequently so having more of
+those is quite useful um they are less
+sort of gamechanging the actual fourth
+level spells are less sort of
+gamechanging than um third level spells
+but the fourth level spell slots can of
+course be used for third level spells as
+well often upcast it for greater effect
+another notable day long buff for fourth
+level spells is Aid which you can cast
+for 15 additional hit points for your
+entire party that's a great use of a
+fourth level spell slot and often good
+enough to spend an actual fourth level
+spell slot on for for many parties
+especially if you have summons so being
+able to get that for free is awesome the
+Supreme Arcane cultivation Elixir both
+for the use of just casting a fourth
+level day lach long buff or for having
+an extra fourth level spell slot every
+day is quite strong and overall I'm
+going to place it in a tier I think this
+is one you are regularly going to
+purchase from Merchants regularly going
+to use and either stick with it for the
+entire day because it's just a nice
+boost to your characters or swap to
+another Elixir to get a free cast of a
+day long buff either use of that is
+going to be excellent so keep an eye out
+for these bark skin Elixir so the bark
+skin Elixir as it says in the name gives
+you bark skin as the level two spell for
+the entire day which sets your
+character's AC to a minimum of 16 this
+doesn't stack with basically any other
+source of AC bonus in the game so you
+just get a minimum AC of 16 if you have
+higher than 16 AC you don't get any
+benefit out of it so there are pretty
+few characters that will actually
+benefit from an elixir of bark skin 16
+AC is quite low and so most characters
+are not going to see an AC increase by
+drinking an elixir of bark skin now this
+does have the benefit as compared to the
+level two spell which is I would say a
+pretty useless level two spell that it
+doesn't require your concentration so it
+is significantly less of an investment
+to drink an elixir of bark skin than it
+is to concentrate on bark skin uh on
+your Druid because then your Druid is
+free to concentrate on other things
+there are really there's really only one
+kind of character that's going to
+benefit regularly from an elixir of bark
+skin and that is in fact druid IDs in
+particular wild shaping Druids a moon
+Druid can use this to get 16 AC on
+otherwise very low armor class wild
+shaped forms like the bear or the badger
+which have AR armor classes of like 10
+or 11 respectively um and the bark skin
+Elixir raising that to 16 meaningfully
+increases your survivability on those
+wild shaped forms especially in the
+early game however is that increase to
+survivability on your wild shaped form
+better than like any other Elixir that
+you could benefit from in those wild
+shaped forms the answer is not really 16
+AC on a wild shaped Badger is better
+than a 10 AC on a wild shaped Badger of
+course but is it better than having the
+strength from a strength Elixir or the
+blood lust from a blood lust Elixir
+definitely not I think it is very rare
+that you're going to want to use a bark
+skin Elixir there's only a very small
+subset of characters that actually gain
+a benefit from it and those characters
+will typically have better options so
+under most circumstances barin Elixir is
+going to be C tier for wildshaping
+Druids it's worth looking at if you
+don't have better Elixir available but
+even for them it's typically not going
+to be a significant bonus C tier Elixir
+the elixir of battle mes power so the
+battle mes power Elixir gives you three
+stacks of Arcane Acuity when drunk and
+is available for merchants starting at
+level six um the Arcane Acuity lasts all
+day and cannot be reduced below three
+Arcane Acuity gives you plus one to your
+uh hit chance with spells plus one to
+hit with spells that require an attack
+roll and plus one to the save DCS of
+your spells that require a saving throw
+per stack of Arcane Acuity that means
+that the battle mage's power Elixir by
+itself gives you plus three to your hit
+chance with spells and plus three to the
+save DC of your spells which is the
+equivalent to plus six in your main
+casting stat it's like plus six
+intelligence for a wizard or plus six
+Charisma for a sorcerer this is a
+massive bonus and that's before even
+getting into the way it Stacks with
+other effects in combination with other
+saf DC effects or even more powerfully
+in combination with other things that
+give you Arcane Acuity the battle mes
+power Elixir makes it very easy for you
+to raise your safety se's to the point
+where enemies simply cannot succeed on
+saves against your crowd control effects
+and so your commands or hypnotic
+patterns or ever become unresistable and
+enemies stop being able to succeed on
+your effects importantly the battle M's
+power Arcane Acuity Stacks can't drop
+below three normally arcan Acuity tick
+ticks down by one every turn when you
+have stacks on it and you lose two
+stacks of it whenever you take damage
+the battle mage's power Arcane Acuity
+means that you can't go below three
+stacks of it on a given uh on your
+adventuring day so even if you take
+damage or haven't been able to stack
+additional stacks of it from your other
+sources of acurity you'll never go below
+three this benefit is enormous and
+honestly somewhat
+gamebreaking the game of Dungeons and
+Dragons is balanced pretty carefully
+around hit chance and spell save DCS and
+having plus three that lasts you the
+entire day is an incredible bonus some
+of the best items in the game are the
+items that increase your spell safet
+DC's some like legendary items in the
+late game and those mostly give you only
+plus one the battle mage's power Elixir
+gives you plus three lasting the entire
+day it's relatively easy to acquire and
+can be grabbed relatively early in the
+game because the ingredients are not
+that rare and you can purchase it from
+uh just about any Merchant that sells
+Elixir and so this gives you a massive
+boost to any spellcasting character any
+character making attack roles with
+spells and especially any character with
+save DCS on their spells is this an S
+Plus tier Elixir or is this an S tier
+Elixir is the only real question and I
+think that this does in fact crack the
+ceiling to being an s+ tier Elixir I
+think that the battle magees power
+Elixir and the fact that you can have it
+up every day just breaks the intended
+game balance of Dungeons and Dragons
+wide open you simply should not be able
+to get save DCS that are three higher
+than your character was supposed to have
+access to at that level especially at
+low levels and it's so easy to stack
+this with any other save DC effect to
+cause enemies to be completely unable to
+save against your spell effects this
+bonus is massive and I just can't
+overstate how good the battle mage's
+power Elixir is any character that has
+any spells with safety sees should be
+drinking this every day um whenever
+possible because it will just make it so
+easy for you to land those spells
+enemies will simply not be able to
+resist them and it will overcome the
+honor mode saving throw bonuses from
+enemies uh it more than counteracts the
+saving throw bonuses that enemies get on
+honor mode by itself and easily Stacks
+your saf DC's up into the stratosphere
+battle mage's power Elixir is therefore
+our first s+ tier Elixir the bloodlust
+Elixir so the bloodlust Elixir gives you
+an additional action and five temporary
+hit points whenever you kill an enemy so
+obviously this is going to be better on
+characters that are actually killing
+enemies so damage-based characters and
+importantly on honor mode it works
+differently than it does on tactician or
+below on honor mode the extra action
+that you gain from the blood lust elixir
+does not benefit from sources of extra
+attack so the extra action can be used
+to cast a spell or make a single attack
+but can't be used to make multiple
+attacks on tactician or below the extra
+action gains the full benefit of extra
+attack so you can make two or even three
+additional attacks every time you kill
+uh or once per turn whenever you kill an
+enemy which is obviously insanely
+powerful on tactician or below but the
+real question is given the Restriction
+that it has on honor mode how strong is
+it on honor mode and the answer is
+incredibly one extra attack every time
+you kill an enemy is still incredibly
+powerful for Marshall characters just an
+additional attack in a given combat is
+such a huge bonus it represents like 30
+extra damage every single turn of combat
+because most damage-based characters are
+going to be killing enemies pretty
+regularly obviously this has less of an
+effect against bosses or single large
+High Health enemies but even most bosses
+have ads that you can Target down in
+order to gain the benefit of the
+bloodlust elixir in addition to that it
+gives spellcasting characters a massive
+benefit because the extra action from
+blood lust Elixir can still be used to
+cast a spell so any damage based spell
+Caster just gets to cast a whole extra
+spell whenever they kill an enemy with
+the bloodlust Elixir this is especially
+valuable for warlocks because you can
+use it to make a full eldrich blast with
+all of the normal benefits of eldrich
+blast with the extra blood lust action
+so a a warlock can do three eldrich
+blasts with their main action then three
+eldrich blasts with their blood lust
+action having no cost uh despite the
+honor mode Nerf and gaining a massive
+addition addal benefit this also has
+some unique benefits for eldrich Knights
+at high levels because you can have your
+eldrich knight make their normal attacks
+with their normal action kill an enemy
+and then they get the blood lust action
+you can then use that blood lust action
+to cast a can trip which triggers War
+magic letting you make another bonus
+action attack so basically you can use
+the blood lust action or a hasted action
+to get a free canant trip every turn
+from your uh from your eldrich knight is
+a massive benefit not in particular but
+it can definitely be used for some
+pretty strong things it can have your
+eldrich knight be constantly blade wed
+for free which is pretty nice um or just
+give you an additional cast of like Ray
+of frost to freeze water or set surfaces
+on fire so there's some extra cool
+tricks that you can do with some classes
+uh that this gives you access to as well
+but for the most part the core feature
+of just any turn that you kill an enemy
+you get an extra attack or an extra
+spell cast is awesome
+action economy is the name of the game
+in Dungeons and Dragons and balers Gate
+3 is no exception the bloodlust Elixir
+gives you extra action economy it lasts
+all day the temporary hit points are
+also not a zero I mean that five
+temporary hit points isn't a huge
+benefit but five temporary hit points
+whenever you do something that you
+already want to do I.E kill enemies is
+just a nice little benefit that you're
+going to get and does add quite
+significantly to the survivability of
+especially squishier damage dealers for
+for a warlock or for a a rogue like an
+Assassin Rogue or something like that
+that can be a meaningful portion of your
+hit points especially if you're uh like
+a fire sorcerer or a lightning sorcerer
+that can be a meaningful portion of your
+hit points just getting five extra hit
+points every turn and effectively
+healing for five every turn is a pretty
+nice boost so the blood lust Elixir even
+on honor mode is definitely an S tier
+Elixir just a very powerful effect that
+almost any character can benefit from as
+long as they can kill enemies and most
+characters will be able to kill enemies
+so s tier the elixir of the Colossus so
+this is functionally the same as the
+enlarged spell giving you a number of
+small benefits you get bigger obviously
+which is kind of nice in some ways
+because it means you fill more space on
+the battlefield so it restricts enemy
+movement quite a lot more and you are
+are also heavier which is relevant for
+some builds uh and some circumstances
+just increasing your weight can make a
+meaningful difference you also get
+advantage on strength saves and checks
+which includes the check to shove an
+enemy with Athletics repositioning
+enemies with Athletics is pretty
+powerful so advantage on that is not a
+zero and your carrying capacity is also
+increased but the big bonus here is that
+your weapon damage is increased by 1 D4
+that's on every attack that you make so
+if you're making a lot of attacks 1 D4
+additional damage per attack adds up
+pretty quickly this also Stacks with uh
+other sources of enlarge so you can use
+it alongside like your dwars racial
+enlarge or cast enlarge on yourself um
+in order to increase your character size
+even more for extra hilarity you can use
+this with an owl bear to make a g with
+an owl bear wild shape to make a
+gigantic owl bear there's a couple
+really interesting things that you can
+do with the size increases and stacking
+it within large and so on but the big
+thing is that you're using this most of
+the time for is taking up more space on
+the battle field which is a pretty
+significant advantage on melee
+characters and dealing one extra 1 D4
+extra damage with every attack 1 D4
+extra damage on every attack is just a a
+solid boost it gives you a very
+significant damage increase it's going
+to be worth less overall uh in terms of
+damage increase than bloodlust elixir in
+for the most part because while it works
+even when you aren't killing enemies the
+bloodlust Elixir is so much more damage
+when it triggers that the Colossus
+Elixir will struggle to keep up and
+it'll be less damage than some other
+Elixir that we will discuss later on
+down the line but it's still a pretty
+significant boost to your damage output
+and also gives you a couple other
+strategic options so the Colossus Elixir
+I think is somewhat overlooked as a a
+generically powerful option and is in
+fact very good even if you're not doing
+weird gigantic owl bear cheese with it
+or anything like that it's just a pretty
+powerful boost to your damage output and
+I'm going to put it in a tier
+dark vision so this gives you dark
+vision as with the spell letting you see
+in the dark up to a distance of 40 feet
+so it lasts the entire day and is half
+the dark vision that you get from just
+being a Dr so you can see that this is
+already a pretty minor bonus dark vision
+is essentially useless in Boulders Gate
+3 it very rarely comes up cuz the Arenas
+are mostly lit and the ones that aren't
+lit you can easily light so having
+actual dark vision does not matter very
+much in Boulders Gates three the game
+lighting engine is also somewhat
+inconsistent so even if you have dark
+vision and think you should be able to
+see into an area sometimes you still
+will not be able will not be allowed to
+this doesn't let you see in magical
+Darkness or anything it's not the same
+as devil site it just gives you dark
+vision which is a totally useless effect
+in the game so obviously I'm going to
+place this elixir in C tier uh honestly
+I feel a little bad putting it in C tier
+because it's so useless it's not
+actively harmful so I'm not going to put
+it in in F tier but compared to these
+other Elixir that do have some benefit
+uh the dark vision Elixir is completely
+useless so definitely at the bottom of C
+tier if i' included a d tier it would
+definitely go there uh don't bother
+honestly it's sort of a waste of Clicks
+in order to drink this Elixir you're
+better off selling it to a merchant most
+of the time rather than stockpiling it
+in your inventory and wasting carry
+weight uh C tier pretty much useless
+next up the giant strength Elixir which
+come in two flavors Hill giant strength
+and Cloud giant strength Elixir the hill
+giant strength Elixir sets your strength
+to 21 for the entire day and the cloud
+giant strength Elixir sets your strength
+to 27 you'll also notice that I have
+subdivided these even further into using
+them as I believe the designers intended
+them to be used for strength characters
+to increase their strength further um
+and using them every day in order to
+replace actually putting points into
+strength on your character sheet uh so
+if you if you stockpile these and use
+them daily you can set your strength to
+eight and still have 20 strength without
+having to spend Feats or um attribute
+points on
+it first I'm going to talk about using
+them normally for a strength character
+just to increase their strength so a
+hill giant strength Elixir sets your
+character's strength to 21 that's
+effectively the same as a character have
+who has maxed out strength at 20 uh
+which normally you need to be at minimum
+character level eight and have spent at
+least two Feats in order to achieve
+being able to do this right from the
+beginning of the game is obviously an
+incredibly powerful bonus it gives you
+plus two to attack and plus two to
+damage on all of your attacks and lasts
+the entire day that's a a massive bonus
+and effectively makes you Seven Levels
+higher when it comes to attacking and
+damaging than you would up to seven
+levels higher when it comes to attacking
+and damaging then you would be otherwise
+it's basically a plus two bonus for the
+first three levels of the game and a
+plus one bonus for the uh up to level
+seven for strength characters which is
+an enormous bonus Dungeons and Dragons
+runs on something called bounded
+accuracy which is the concept that
+characters will typically not be able to
+exceed
+certain uh brackets for hit chance and
+so you'll typically miss a certain
+percentage of your attacks the hill
+giant strength Elixir breaks that by
+letting you attack as though you were
+several levels higher or as though you
+had found very late game weapons uh like
+a plus two weapon is a pretty late game
+piece of equipment that you shouldn't
+have in act one for the most part and
+the hill giant strength Elixir just lets
+you have that in addition to whatever
+bonuses you have from your actual
+character sheet and from your actual
+equipment so not only is is this an
+incredibly powerful effect in and of
+itself that increases your attack and
+damage massively but also it Stacks with
+every other effect that increases your
+attack and damage this is aside from the
+other bonuses that it gives you like
+increasing your ability to jump your
+jump distance and carry weight your
+ability to uh pass the admittedly very
+few strength saves in the game but it
+does give you uh that ability and the
+ability to be better at pushing enemies
+Athletics to reposition enemies is very
+nice like I talked about with the
+Colossus Elixir and the hill giant
+strength Elixir also gives you a pretty
+significant bonus to your ability to
+make shoves with Athletics so even on a
+strength character up until the point
+where you hit 20 strength the hill giant
+strength Elixir is a pretty significant
+bonus that is absolutely worth consuming
+for important day adventuring days or
+important combats it sounds like a
+relatively minor boost when you say plus
+two to attack and damage but if you
+think about what you have to do in game
+in order to get a boost that large uh
+you will understand how powerful this is
+and it doesn't conflict with any of the
+other methods for getting that damage
+boost Hill giant strength Elixir even
+used normally therefore is an S tier
+Elixir next I'm going to skip uh over
+one and talk about Cloud giant strength
+Elixir if used normally so the cloud
+giant strength Elixir sets your strength
+to 27 which is effectively the same as a
+plus six bonus to your strength in the
+late game normal characters will have 20
+strength in the late game so 27 strength
+is a is gives gives you a plus three to
+your strength bonus which is the same as
+increasing your strength by six
+increasing it by seven doesn't actually
+change
+anything the thing about this though is
+that in the late game plus three to
+attack and damage is is less of a bonus
+than plus two to attack and damage is in
+the early game so relatively speaking
+the cloud giant strength Elixir is not
+as uh powerful as the hill giant
+strength Elixir relative to the point in
+the game at which you get it however
+it's still a massive bonus plus three to
+attack and damage is enormous and
+obviously works extremely well alongside
+any other bonuses that you have to your
+to hit chance of damage by this point in
+the game you'll definitely have a plus
+two or even plus three weapon and so you
+will effectively be doubling your weapon
+enhancement bonus if you drink a cloud
+giant strength Elixir it also makes your
+jump distance enormous which is
+extremely relevant in the late game uh
+being able to cross the entirety of an
+arena with a single jump means that you
+will always be able to get on the enemy
+that you want to fight and especially
+when combined with the athlete feat um
+or with a an enhanced leap spell the
+cloud giant strength Elixir can give you
+jump distance that caps out the game's
+maximum allow jump distance in a turn
+which will allow you to easily Traverse
+any arena in a single hop which just
+means that in one bonus it it's better
+than Misty step uh as a bonus action
+every single turn all day
+the mobility of course is nice but the
+real prize here is the fact that you hit
+really really hard and really really
+accurately Cloud giant strength Elixir
+despite being relatively less powerful
+than the hill giant strength Elixir even
+though it's more powerful in absolute
+terms it is a smaller bonus relative to
+your existing bonuses at the stage in
+which you get it is still an enormous
+bonus and definitely deserves to be in s
+tier in the late game most strength
+characters are going to want to use the
+cloud giant strength Elixir because it
+just gives you so much additional damage
+it's even good for a lot of dexterity
+based characters like finesse characters
+can still just use the cloud giant
+strength Elixir to do even more damage
+because it lets you break the cap on
+your attributes a character with 20
+dexterity using daggers well if they
+drink the cloud giant strength Elixir
+suddenly they're still just hitting more
+accurately and doing more damage even
+though they normally would be using
+their dexterity for it now they're just
+using their strength for it and doing a
+ton of damage so the cloud giant
+strength elixir let you break the
+attribute cap gives you a massive boost
+to your attack and damage um obviously
+the raw stats on this are just insane s
+tier for sure but one thing that you'll
+notice about the giant strength Elixir
+is that they set your attributes rather
+than increasing them just like the other
+items that increase your your attributes
+they don't actually provide an increase
+they set your attribute to a certain
+number that means that the lower your
+starting attribute is the larger a bonus
+you get when you embibe one of these
+giant strength potions so if you drink
+an elixir of Hill giant strength every
+day when your strength is eight you just
+get the benefits of 20 strength without
+having to expend any resources on
+getting strength this is very possible
+because early on in the game there are
+Merchants that will sell you that are
+guaranteed to sell you Hill giant
+strength Elixir you can repeatedly long
+rest and stockpile enough to last you
+the entire game very easily and so you
+will be able to build characters who
+take eight strength on their character
+sheet but effectively play as 20
+strength characters this gives you
+essentially the ability not only the
+ability that you get just normally from
+the hill giant strength Elixir to act as
+though you have uh strength Seven Levels
+higher than you normally would but also
+to have two additional Feats throughout
+the entirety of your character build and
+a whole bunch of extra attribute points
+to spend on other
+attributes I don't really think I need
+to say how incredible this is Feats are
+an absurdly limited resource many builds
+will only get two and the maximum you
+can possibly get is four so getting plus
+two from a consumable item two extra
+whole Feats from a consumable item is
+insane um getting a ton of extra
+attribute points in your other important
+attributes is nonsensically powerful you
+also get to just have 20 strength right
+from the beginning of the game or as
+soon as you reach the uh The Grove and
+so that is a ridiculous bonus as well
+it's especially powerful for Tavern
+brawler builds because they get to
+double the strength bonus that they're
+getting um but mostly this just
+completely breaks character creation
+because it lets you just get way more
+resources than non- strength based
+Builds on strength based builds because
+they just get to take all their strength
+for free so they get more Feats than
+every other character they get more um
+attribute points than every other
+character because they can just
+consistently drink Hill giant strength
+they
+I think it's pretty clear what my
+position on the strength Elixir is I
+believe they are an egregious balancing
+error um I do not think they should have
+made it to honor mode in their current
+state but since they did they are
+incredibly powerful and the core of all
+the most broken builds in Boulders Gate
+3 uh the strength Elixir if drunk every
+day completely rewrite the rules of the
+game and give you a massive benefit to
+your character making them much much
+more powerful than other corresponding
+characters so the hill giant strength
+elixir of course are
+s+ Cloud giant strength Elixir drunk
+daily are exactly the same thing but
+even more so although similar to the
+cloud giant strength Elixir it's a
+relatively lower uh bonus it's it's less
+of a it's honestly less problematic than
+the daily Hill giant strength Elixir
+because the the existence of the Hill
+giant strength Elixir so early in the
+game is what makes this play pattern so
+abusive the cloud giant strength Elixir
+are still incredibly powerful but you
+get the much lat in the game so the the
+relative benefit is lower but obviously
+this is still incredibly broken and S
+Plus tier absolutely uh no question that
+the the hill Giant and Cloud giant
+strength Elixir drunk daily are outside
+of the intended balance of the game and
+just massively powerful as a side note
+there's a very easy way to fix the
+balancing issues with these Elixir just
+have the hill giant strength Elixir give
+plus two strength and the cloud giant
+give plus4 strength have them stack with
+other sources of strength and you
+completely solve the issue of non
+strength strength characters getting
+massive benefits out of them and also
+solve the feels bad moment of getting
+strength from arage or strength from the
+mirror whatever and not being able to
+use it or ethyl not being able to use
+your strength benefits because the
+Elixir just eat whatever strength you've
+uh gotten already so this would be easy
+to fix if they wanted to the elixir of
+guileful movement so the elixir of
+guileful movement is a rare Elixir so it
+is available starting at level six from
+Merchant
+and it effectively gives you the effects
+of freedom of movement so it's an Elixir
+that gives you a fourth level spell that
+lasts all day freedom of movement is a
+spell that I think is somewhat
+overlooked um I'm actually a pretty big
+defender of freedom of movement as a
+spell but not really for the dayong
+effects for the fact that it lets you
+break out of stuns when you're drinking
+The Elixir it doesn't have that effect
+so you just get the the day long
+benefits of freedom of movement not the
+panic button that the actual spell gives
+you still dayong freedom of movement is
+pretty powerful it means that you cannot
+have your movement speed reduced by
+difficult terrain or spell effects it
+make gives you complete immunity to
+difficult terrain also makes you immune
+to the damage from Spike growth which is
+pretty nice in and of itself you also
+cannot be paralyzed or restrained and
+there are a lot of enemies in the game
+that paralyze and restrain hold monster
+and hold person are pretty common spells
+for especially for Dangerous enemies to
+have and it makes you immune to those um
+which is pretty powerful in and of
+itself as well so these are not small
+benefits but the question is basically
+are they worth losing out on offensive
+benefits from a different Elixir the
+answer is I think that there are some
+circumstances in some fights where the
+guileful movement Elixir is going to be
+better than an offensive Elixir but
+that's relatively rare it gives you a
+pretty serious uh set of bonuses but two
+things that you will often not need
+because it's mostly defensive bonuses
+and defensive bonuses are are worse than
+offensive bonuses in general especially
+like passive defensive bonuses like this
+uh because in order for them to come up
+you have to get hit you're spending your
+entire strategic Arsenal trying not to
+get hit so having defensive bonuses that
+where you plan to get hit gives you is
+not going to be a massive benefit to
+most parties that said these defensive
+bonuses are quite good so as defensive
+bonuses go guileful movement is a pretty
+nice one and the additional mobility in
+some Arenas where you can be immune to
+difficult terrain or you can set up
+inside your own like plant growth or
+whatever and and run around inside plant
+growth because you have freedom of
+movement making you immune to it is
+pretty nice uh so there are some
+strategic options that it gives you
+overall I would say this is a minor but
+pretty reasonable set of benefits and
+I'm going to place it in beat here the
+elixir of heroism so the elixir of
+heroism gives you 10 temporary hit
+points when you drink it but these are
+temporary hit points they don't come
+back it's not like the bloodlust Elixir
+that will refill your temporary hit
+points over the course of the game you
+just get 10 extra hit points for that
+day and when you take damage and lose
+them they're gone but you also get the
+benefits of permanent bless for the
+entire day and importantly this version
+of bless does not use the same effect as
+the normal version of bless so you can
+have both it and the actual bless spell
+active on the same character that's a
+pretty significant benefit bless is one
+of the best spells in the game at early
+levels and remains a quite relevant
+bonus on into the late game so the
+elixir of heroism which is available
+relatively early as an uncommon Elixir
+you can start buying them um very early
+in the game in the Grove is a pretty
+solid bonus to your character's
+Effectiveness throughout the entire game
+you can think of it as being similar to
+The Colossus Elixir Colossus Elixir
+gives you 1 D4 to damage and the heroism
+Elixir gives you 1 D4 to attack 1 D4 to
+attack is much better than 1 D4 to
+damage but still worse overall I think
+in terms of damage output than the blood
+lust Elixir or obviously than the hill
+or Cloud giant strength Elixir so
+typically the heroism Elixir is one that
+you would consider on non strength
+characters like a dexterity character
+you'd rather have just the flat bonuses
+on uh strength characters with the hill
+giant Elixir and most of the time you
+would rather have bloodlust than heroism
+but heroism is still a very nice bonus
+and gives you a a pretty solid boost to
+your character throughout the entire day
+it also gives you plus one D4 to saving
+throws which is not irrelevant either so
+it's just a a very strong benefit there
+I think that this is still an a tier
+Elixir um and not doesn't quite crack
+into s tier where these are are even
+stronger benefits but uh a tier it I
+would say it's on the very highest end a
+tier I could definitely see moving it up
+to S tier um the only reason that I am
+not going to is that I think most
+characters that want the heroism Elixir
+would prefer the bloodlust Elixir
+anyways uh but there's definitely some
+builds that just want to land attacks
+rather than but that want to land
+attacks but aren't usually killing
+enemies that will prefer heroism so it's
+just a a great option and definitely one
+that you should consider a tier for
+sure uh a tier minimum for sure the
+elixir of purist Focus I assume this is
+basically just coffee it gives you
+advantage on uh saving throws against
+being Charmed you cannot be magically
+put to sleep and it gives you advantage
+on saves to maintain concentration on
+spells so yep sounds like coffee to me
+the Elixir appless focus is two minor
+benefits and then one fairly significant
+benefit advantage on saving throws
+against uh losing concentration is the
+same as the effect of the warter feat
+which is a pretty good feat it's a feat
+that a lot of characters are going to
+take and being able to get that from a
+consumable just gives you plus one feat
+on most of those characters now how
+often is it worth taking over one of the
+other spellcasting focused Elixir like
+bloodlust or battle mage's power I would
+say quite rarely you're going to want
+those Elixir over it but Peerless focus
+is definitely not uh not useless it's
+another defensive bonus but it is a
+defensive bonus to something that you
+really want maintaining concentration is
+really important especially if you're
+casting haste and so on and especially
+if you are more of a support Caster the
+Peerless Focus Elixir can be quite good
+for support casters who won't benefit as
+much from blood lust or battle mage's
+power but might benefit more from Arcane
+cultivation because the dayong buff from
+support casters will typically be better
+I'm going to say that the Peerless Focus
+Elixir just because giving you advantage
+on concentration saves is is a powerful
+benefit but one that you can get
+elsewhere relatively easily
+um and one that won't come up in every
+combat ideally if assuming that you're
+playing well is a b tier Elixir it is I
+think overall slightly worse than
+Supreme Arcane cultivation for support
+casters but still pretty good and one
+thing that you can definitely do is use
+uh Supreme Arcane cultivation cast your
+your support spell and then drink the
+Peerless Focus Elixir as your second
+Elixir um so this I think is B tier but
+relatively High B tier the resistant
+elixir so there are 10 of these in the
+game but I've combined them all into one
+entry because they all effectively do
+the same thing each of them gives you
+resistance to one particular Elemental
+damage type or a specific damage type as
+well as immunity to that damage type's
+corresponding effects so the fire
+resistance Elixir gives you resistance
+to Fire and Immunity to burning the
+poison resistance Elixir gives you
+resistance to poison damage and Immunity
+to poisoned and so on there are five of
+them that are craftable and five of them
+that are not craftable which is kind of
+funny uh just a weird Quirk of how the
+game is set up I guess um but you can
+buy a lot of them and you should be able
+to stockpile enough of them that you can
+give them to your entire party for a
+fight where that is relevant obviously
+the use for these is to give your whole
+party resistance to a certain damage
+type if you're about to go into a fight
+that has that damage type as its primary
+feature then there are some themed
+fights in the game where you'll be
+fighting an enemy who has a lot of
+lightning damage and want lightning
+resistance on your whole party and so on
+however a lot of the themed Feats themed
+fights in the game that enemy will have
+some feature that makes their their
+specific damage type Pierce resistances
+or immunities to that damage type in
+some way and so a lot of the time these
+won't actually be as effective as you'd
+think they are even if that enemy is
+going to do a specific damage type and
+you know that in advance there are two
+reasons that this Elixir this variety of
+elixir or suffers one is that it's
+purely defensive of course and I've
+already talked about how you'd much
+rather get offensive bonuses than
+defensive bonuses most of the time and
+two you have to know in advance that
+enemies are going to be doing that kind
+of damage since you can only get
+resistance to one damage type and it
+doesn't it won't allow you to change
+obviously you can drink a different
+Elixir but you have to choose in advance
+what damage type you're getting
+resistances
+to uh you will not be able to react as
+easily to what enemies are doing and
+have to know the fights in advance so it
+rewards memorization and stuff which is
+something that I don't love in in the
+game in general um obviously there are
+some hints as to certain damage types
+that you might be facing and you can use
+those as well but the fact that it is a
+defensive buff that relies on prior
+knowledge in some way definitely means
+that these are weaker than they
+otherwise would be the other issue is
+that this is just an effect that's
+relatively easy to get from other
+effects a lot of damage types that you
+will face have relatively common ways to
+get resistance to them if you're facing
+fire damage you can uh just take a
+shower ahead of time and gain resistance
+to Fire and so on and there's a lot of
+items that provide damage resistances
+there's spells that provide damage
+Elemental damage resistances and so on
+the resistance Elixir that provide more
+difficult to find damage resistances
+like the psychic damage the psychic
+resistance Elixir and others like that
+are a little more interesting um and
+there are some fights where that one in
+particular is quite useful but overall
+these are going to be superseded a lot
+of the time by other effects that give
+damage resistances that said damage
+resistance is still very powerful taking
+half damage from an enemy means that you
+will almost always win the damage race
+against that enemy so against an enemy
+that's specked heavily into one damage
+type the resistance Elixir can be
+absolutely fight winning typically
+you're going to want to use these for
+just one fight and then swap to a
+different Elixir for the rest of the day
+because it's not that often that you'll
+face multiple enemies that all use the
+same damage types in the same
+adventuring day although there's of
+course some themed areas themed dungeons
+in the game where that will be the case
+um so it it does rely quite a bit on
+prior knowledge even if you know what
+fights you're facing in advance and can
+plan your adventuring days accordingly
+though I think that typically you're
+going to be better off with other Elixir
+so while this is definitely not a zero
+it it's a real benefit will come up
+pretty frequently especially if you plan
+your adventuring days around it it is
+not going to be better than offensive
+Elixir most of the time and so I'm going
+to rate it B tier I think this will come
+up sometimes and these can be useful to
+stockpile for when you are going to face
+a fight where that's the appropriate
+resistance to have but for the most part
+you're going to be better off with other
+Elixir so B tier C invisibility so this
+gives you the effect of the C
+invisibility spell which means that
+enemies Within 30 ft of you must succeed
+on a deck save or lose their
+invisibility when they enter that radius
+the save DC on this uses your item save
+DC meaning that multiclass characters or
+characters that aren't heavily invested
+into spellcasting stats will have very
+low saf DCS on this and even uh if the
+save DC wasn't going to be low on half
+the characters that would drink this
+this is still kind of a joke of an
+effect a c in visibility you can get it
+for free through story events for one
+thing and also you can get it for free
+just by casting create water or whatever
+on enemies and breaking their
+invisibility that way um in general C
+invisibility is not a powerful effect so
+this similar to dark vision is kind of a
+waste of an Elixir slot definitely
+better just uh kept to sell for
+definitely better sold to Merchants for
+gold and then exchange those for useful
+potions rather than actually using them
+uh C tier and again at the bottom end of
+C tier there's not much point in in
+hanging on to these just go ahead and
+sell them the tadpole Elixir so the
+tadpole Elixir is unique and interesting
+because it's Unique in that it is the
+only Elixir that has an active downside
+in addition to its positive effect the
+tadpole Elixir gives you for the
+entirety of your long rest disadvantage
+on Constitution wisdom and intelligence
+saving throws Constitution and wisdom
+are the two most important saving throws
+in the game the most debilitating
+effects in the game Target those two
+saves and so disadvantage on them is is
+a massive penalty this is I can't really
+overstate how bad that is for your
+character advantage on those saves is
+something that you really go out of your
+way to try to get and most characters
+are going to warp their attribute Point
+distribution in order to get those
+saving throws as high as possible
+because they're really really important
+for so many characters especially for
+spellcasters who need High con
+Constitution saves to maintain
+concentration on spells is very
+important but for every character wisdom
+and Constitution saves are targeted by
+some of the most dangerous spells in the
+game so you don't want to have penalties
+on them so the benefit that this gives
+you better be correspondingly strong the
+benefit that it gives you is after using
+a tadpull power you gain advantage on
+all your attacks for three rounds is
+that correspondingly strong enough to
+make up for the massive downside of this
+Elixir absolutely not uh advantage on
+all your attacks is is a real benefit
+and advantage on all your attacks
+basically all the time for free cuz
+you'll be able to use tadpole Powers
+pretty regularly is extremely powerful
+um having advantage on all your attacks
+is is very nice but there are tons of
+other sources of advantage in the game
+had taking one that has a massive
+disadvantage associated with it is quite
+dangerous and one that requires you to
+have uh pretty to to use tadpole Powers
+many of which are cooldown based or
+require other things running like
+concentration you can use this alongside
+concent ated blast if you are
+concentrating on something but then
+you're more likely to lose concentration
+on that thing because you uh have a
+disadvantage on all your concentration
+saves um and and a character that would
+want this effect probably does not want
+to be spending time spamming out uh
+tadpole powers in general or just has
+other sources of advantage on all their
+attacks stealth can give you advantage
+on your attacks uh allies can give you
+advantage on your attacks and so on
+the this is similar to in some ways the
+risky ring but the risky ring you can
+really plan to play around what that
+gives you disadvantage on all your
+saving throws uh but it gives you
+passive advantage on everything so it
+doesn't change the way that your turns
+have to play out it doesn't force you to
+use bonus actions on potentially
+irrelevant actions um I think that
+overall the tadpole Elixir for almost
+every build is going to be an F tier
+Elixir now there are a couple exceptions
+to this characters that have free bonus
+actions and have gotten the the bonus
+action tadpole Powers have a tadpole
+power that they can spam and are making
+attacks can benefit from the tadpole
+Elixir but in that case uh why would
+they want the tadpole Elixir when they
+can equip the bloodlust Elixir or Hill
+giant strength Elixir or even an elixir
+of heroism heroism gives you almost uh
+the same benefit as um the tadpole
+elixir without any of the downsides and
+combos with other things that give you
+Advantage as well so the tadpool Elixir
+has very few use cases and in even in
+the use cases where it can come up other
+Elixir are just straight up better than
+the tadpole Elixir I do not think it is
+worth warping your your build around
+trying to make use of the tadpole Elixir
+so I think that it is an f-tier Elixir
+best avoided use heroism instead use
+bloodlust instead there's a much better
+offensive Elixir without the downsides
+and if you do want this effect the risky
+ring exists and combos just fine with
+those other powerful
+Elixir the elixir of viciousness so the
+viciousness Elixir which is hard to say
+try to say it five times fast uh is a
+very simple Elixir it increases the or
+decreases the rooll you need on your
+dice to critically hit by one so it
+Stacks with every other source of this
+effect makes your criticals more likely
+works with champion fighter to give you
+even more likely criticals works with
+critical hit gear to give you more
+likely criticals and so on The
+viciousness Elixir is actually I think
+um one of the best designed Elixir even
+though it's relatively simple because it
+is a fairly small benefit for most
+characters but some specific builds
+really want
+it the additional uh chance to
+critically hit is going to be worth for
+most characters 5% of the damage dice
+that you do uh when you make an attack
+so for most characters it's going to be
+somewhere between half a damage and one
+damage per attack depending on how many
+dice you're rolling per attack on
+average that's a small bonus and
+significantly smaller than Colossus or
+heroism and definitely worse than the
+bloodlust or Hill giant or Cloud giant
+Elixir um but is a real bonus that
+characters will definitely use and that
+any Marshall character that's making
+weapon attacks will be happy to have
+however there are some builds that
+really care about Critical Hits and will
+want to use the viciousness Elixir more
+than they want these the more
+generically good offensive Elixir a
+brutal critical Barbarian with like half
+orc benefits can gain way more damage
+out of it uh Paladin who really wants to
+get Smite criticals or a rogue who
+really wants to get sneak attack
+criticals can get quite a lot of benefit
+out of this and a great old one warlock
+whose Critical Hits apply fear can use
+the viciousness Elixir for crowd control
+which is incredibly powerful it also
+Stacks very well with other sources of
+critical hit chance because if you
+reduce your critical hit chance enough
+uh your your critical hit requirement
+enough it also starts increasing your
+hit chance against certain enemies
+Critical Hits can never miss even
+against enemies whose AC is higher than
+than the Dr Ru would normally be so
+against a really high uh AC enemy if you
+critically hit on a 12 sometimes you'll
+hit them more often than you would
+without that critical hit bonus so it
+can give you a lot of different neat
+effects um and I like it because it is
+generically pretty reason reasonable a
+minor bonus for every character but
+really good for specific characters
+which makes it a much more interesting
+thing than just every character wants
+blood lust because blood lust is really
+good so from a design perspective it
+gets a thumbs up from from me from a
+balance perspective I think that it is
+pretty powerful as well because the
+builds that want it get a lot of benefit
+from it for most characters it is going
+to be significantly worse than any of
+the other offensive Elixir but for the
+for any character that cares about
+critical hits the vicious this Elixir is
+pretty good I'm going to put it in a
+tier because I think it is still quite
+good um even even uh for builds that
+aren't making a ton of use of it and
+there's enough builds that really care
+about increasing their critical hit
+chances that I think that it belongs in
+a tier for most characters you're going
+to be better off with Colossus or
+heroism or definitely with bloodlust or
+Hill giant or Cloud giant but for some
+characters you're going to prefer
+viciousness Elixir so I think that this
+is a good design might actually be the
+first good design of The Elixir that
+we've talked about so far and finally
+the elixir of vigilance The Elixir
+vigilance gives you plus five to your
+initiative and you can't be surprised so
+it's exactly the same as the alert feat
+now alert I placed in s+ tier in my
+feets tier list because alert the feet
+breaks the balance of the game and alert
+the feet for free obviously breaks the
+balance of the game even more it's not a
+particular surprise I think that the
+vigilance Elixir is is going to go in S
+Plus tier um plus five to initiative
+when initiative is as it is in Boulders
+gate rolled on a D4 is an insane benefit
+and it means that your character is
+going to go first in just about every
+round of combat um in in just about
+every combat uh alert breaks game
+balance because it effectively
+guarantees that you go first and getting
+alert without spending a feat means that
+not only have you done something
+incredibly broken but you've also gained
+back a resource that most honor mode
+characters are going to want to spend
+I'd say that the vast majority of Honor
+mode characters are looking to get alert
+or otherwise increase their initiative
+significantly the vigilance elixir does
+that without even having to spend a feat
+on it and of course is incredibly broken
+as a result um if you have watched any
+of my other videos you will have heard
+me talk at length about how good going
+first is because it lets you shut down
+enemies before they get to execute their
+plan it lets you take more turns
+relative to the number of enemy turns so
+initiative bonuses are massive
+initiative in Boulders gate is rolled on
+a D4 so one point of initiative bonus is
+worth five times as much as the same
+point would be in tabletop so all the
+balancing for initiative uh numerical
+initiative boosts is way off in Boulders
+Gate 3 um and so the vigilance Elixir
+giving you effectively a plus 20
+initiative bonus for the entire day
+means you'll go first in every combat
+that day which is ludicrously powerful
+and uh way over curve for the balance of
+the game s+ tier with flying colors all
+right my friends I hope that you've
+enjoyed this Elixir tier list and found
+it helpful and definitely if there's
+anything that you disagree with or think
+that I should move around do let me know
+in the comments below as with all of my
+other tier lists I'm very open to
+suggestions if you think that there is
+something I have misplaced let me know
+and let me know why um I want to also
+shout out uh
+um casual veteran gamer who put together
+the tier maker for this and I think also
+did an Elixir tier list video so if
+you're looking for an alternate take go
+check out that video as well um and
+thank you for putting together the tier
+maker that I stole and I think you can
+see from this list why I'm not a huge
+fan of Elixir as a mechanic in general I
+think that too many of them are
+generically powerful for every build and
+so aren't don't lead to interesting
+decisions and too many of them are just
+broken um I think that something like
+20% of the elixir in the game are s+
+tier and I think that's a pretty bad hit
+rate in terms of balancing um and even
+the ones that aren't I think are just
+too powerful for what they give you but
+obviously that makes them an incredible
+tool as honor mode players because
+things that are too powerful are where
+the best builds come from so that's
+definitely something that you should
+keep an eye out for when you are trying
+to build your characters all right my
+friends I hope that you have enjoyed
+this look at the Elixir and if if you
+have feel free to leave a comment and
+like the video both of those things help
+me out a ton with the algorithm and
+definitely let me know what you think I
+should move and of course you can
+subscribe to my channel for more of this
+and other strategy game analysis cheers
+my friends I'll catch you next time

@@ -1,0 +1,1134 @@
+Hello, my friends, and welcome back to
+another Baldur's Gate 3 guide. Hope
+you're all doing well. Today, we're
+going to be talking about the 10, or
+actually 11 again, worst spells in
+Baldur's Gate 3. So, I recently covered
+the 10 best spells in the game. So, of
+course, check that video out if you
+haven't seen it yet. And it only makes
+sense to talk about the spells that are
+the lowest of the low, even weaker than
+the other spells I rated in D tier when
+I did my comprehensive ratings of all of
+the spells. And I'll talk about which of
+these spells in the game are the worst,
+why they're weaker than other spells,
+and I've also included a few notes on
+how they could be fixed to be a little
+more interesting or powerful. If you're
+a modder looking to make changes or just
+curious about what could be done to make
+the balance make a little bit more
+sense.
+Now, obviously, even more than the best
+spells tier list, it's important to
+remember this list is really just for
+fun. If you're enjoying casting any of
+these spells, then by all means keep
+doing it. I personally have had a lot of
+fun and plenty of great moments with
+many of the spells on this list. Just
+because they're not as mechanically
+optimal doesn't mean they can be they
+can't be fun to cast. Optimizing your
+spell slots and action economy is one
+way to have fun with the game, but
+definitely not the only way. And some of
+these spells can still do really cool
+things even though they're a little
+weaker than other options. Also, even
+the worst spells in the game can still
+be good if you construct your party or
+strategy around them. So, it's important
+to keep that in mind as we go through.
+But these spells do tend to be quite a
+lot weaker than other options available.
+Before I begin, I do want to take a
+quick moment to say thank you so much to
+Michael Tromer for the $10 donation,
+Tarantula for the 10 and $5, so $15,
+Terry Ernest for the incredibly generous
+$100 donation, and Wanda Husbando for
+the £5. Thank you so much, my friends. I
+really appreciate your support. It
+really means so much to me. All right,
+let's talk bad spells.
+Now, in my top 10 spells video, I
+already talked about what I mean when I
+say best spells. So, if you want to know
+what I mean when I say worst spells,
+just watch that video and reverse the
+criteria. We're just going to jump right
+in with our honorable mention, and that
+is Stone Skin. Stone Skin, I think, is a
+really interesting case, and that's why
+I wanted to bring it up for this spell
+list, because it's actually not that bad
+a spell. The effect of Stone Skin is
+relatively powerful. Resistance is
+really good. And although it is very,
+very expensive to use because it costs a
+level four spell slot and takes your
+concentration for the entire day in
+order to use it, it can still be pretty
+good. But there's an important thing
+about Stone Skin, and the reason I
+wanted to mention it for this list is
+that the context of Baldur's Gate 3
+matters. You can't just look at these
+spells completely in a vacuum and decide
+whether they're good or not based just
+on the text of the spell. You have to
+look at the game that they're actually
+in. And in Baldur's Gate 3, Stone Skin
+is a lot worse than it is in a the as a
+tabletop equivalent spell. Because in
+Baldur's Gate 3, there are so many very,
+very easy sources of damage resistance.
+Stone Skin gives you uh resistance to
+non-magical bludgeoning, piercing, and
+slashing damage for the entire day at
+the cost of your concentration. You can
+also cast it on an ally or something. Um
+so, it can be pretty good for a druid
+trying to maintain their wild shape
+forms for longer, uh
+or to keep a summon alive, or to keep a
+squishy ally alive, as long as you don't
+drop concentration. The problem is that
+it just gives damage resistance, and in
+Baldur's Gate 3, there's a million ways
+to get that. The buff on heal items give
+your whole party blade ward effectively
+for free. Warding Bond works extremely
+well in Baldur's Gate 3 with very few
+downsides if you put it on the right
+characters, and obviously even fewer if
+you use camp casting in order to have
+Warding Bond on your whole party without
+using an active character. So, there's
+just a lot of as well as um there's also
+uh resistance elixirs and a lot of items
+that give you damage resistances as
+well. So, there's just so many ways to
+get this effect that don't exist in
+tabletop that it is a much less valuable
+effect and much less worth spending your
+fourth level spell slot and your
+concentration on. It's just overshadowed
+by other options. It's a little worse
+for Stone Skin as well cuz it only works
+on non-magical bludgeoning, piercing,
+and slashing damage, and uh in Baldur's
+Gate 3, almost all of the damage that
+you're taking by the time you get access
+to fourth level spells is going to be
+magical damage. In a tabletop campaign,
+that might not be true. You might still
+be facing enemies that do non-magical
+damage, but in Baldur's Gate 3,
+basically every late game enemy's damage
+counts as magical. Um so, Stone Skin,
+because of the specific context that
+it's in in Baldur's Gate 3, is a pretty
+weak use of your spell slot, even though
+as a spell in and of itself, it's not
+terrible. I wouldn't necessarily fix
+this, although I do think that too many
+easy sources of resistance are kind of a
+structural problem with BG3, um
+especially when you have played the game
+a few times and know where they all are.
+Uh especially the buff on heal items in
+the early game, I think, are a little
+bit too strong, so I might tone those
+down a little. But honestly, changing
+Stone Skin, I don't think, is necessary
+because the only thing that's holding it
+back is just the the game context that
+it exists in. And getting into the top
+10 list, starting at number 10, we have
+Compelled Duel. Compelled Duel uh is a
+level one spell that for a bonus action
+and your concentration forces an enemy
+to attack you and only you for three
+turns. Except it doesn't actually do
+that. Um the description of Compelled
+Duel, unfortunately, is incorrect. It
+says that the enemy has to only attack
+the caster, but the only uh part of this
+spell that they actually implemented was
+giving the enemy disadvantage on their
+attacks against people other than the
+caster. They're not forced to attack the
+caster, and if you move the caster out
+of range of them or whatever, they will
+just go ahead and happily attack your
+allies. This is unfortunate because this
+spell is still fairly expensive. It
+takes your concentration and a level one
+spell slot. So, even though it only
+takes a bonus action to cast, uh giving
+an enemy disadvantage on some but not
+all of their attacks, cuz it's only
+disadvantage on people other than the
+caster, is just not really worth
+spending a level one spell slot on,
+especially cuz it has a wisdom save, and
+you can give enemies no save
+disadvantage with spells like Fog Cloud
+much more easily. This is also usually a
+paladin spell, and paladin level one
+spell slots are more expensive than
+other characters' level one spell slots
+because they get them later and have
+fewer of them and want to use them for
+smites. So, spending a spell slot on
+Compelled Duel for a paladin is worse
+than spending it on a uh
+on Compelled Duel for another character.
+So, really the issue with this spell is
+simply that it doesn't work. If the
+spell worked the way it was described
+and forced enemies to attack the caster,
+it would actually be pretty strong and
+very cool, and I think very fun to use.
+Casting Compelled Duel and then running
+away and forcing the enemy to chase
+after you would be an interesting
+strategy. Casting Compelled Duel and
+then forcing the enemy to attack
+a character with a bunch of retaliation
+damage, like an abjuration wizard with
+Compelled Duel could be an interesting
+build, or a warlock character that's
+using
+um Hellish Rebuke could be a powerful
+option for Compelled Duel and could let
+you do some interesting builds. But the
+fact that this spell does not actually
+do what it says in the description makes
+it, unfortunately, not particularly good
+to use. The reason it's uh down here at
+number 10 instead of even worse or
+higher up the list but lower down the
+list of quality uh is that it still can
+be okay. Giving an enemy disadvantage
+for three turns, um if they try to
+attack your allies, or forcing them to
+attack a character like a paladin that
+they usually don't want to attack, is
+still not a totally useless effect. So,
+even though this spell only has half of
+it implemented, you can still get some
+value out of it, but it's nowhere near
+as cool or interesting or powerful as if
+it actually did what it said in the
+description.
+Weighing in at number nine, Vampiric
+Touch. Vampiric Touch is a level three
+spell that you can concentrate on for up
+to 10 turns, and each turn you can make
+a melee attack uh spell attack that does
+3d6 damage and heals you for half as
+many hit points as you deal in damage.
+The damage is necrotic, which means
+there's a lot of enemies in Baldur's
+Gate that resist it, though it does have
+some synergy with death cleric, which
+cares about necrotic damage, but mostly
+being necrotic damage is a disadvantage.
+The main problem with this spell is just
+that the numbers are awful. This is a
+level three spell that requires your
+concentration, so it's really, really
+expensive to use, and you have to
+compare it to other damage spells at
+this level, things like lightning bolt
+or fireball that can deal huge amounts
+more damage to multiple enemies instead
+of 3d6 damage to one single target in
+melee range. Only dealing 3d6 damage,
+one d6 per spell level that you use on
+this spell, is uh ridiculous. That is
+such an incredibly low amount, and even
+though it's repeatable, it's
+significantly worse most of the time
+than just using a cantrip or a weapon
+attack just in terms of doing damage,
+and it obviously costs you your
+concentration and a level three spell
+slot in order to get this medium attack.
+Um requiring your concentration is bad
+cuz it doesn't even give you The The
+thing that could be useful for a spell
+like this is if it gave you a default
+action that you could take on your turn
+while concentrating on a more powerful
+spell. But since it takes your
+concentration, you can't combine it with
+a control spell and then run around
+Vampiric Touching things. That's not
+possible. Um so, there just aren't
+really any cases where it's better to
+concentrate on this than a more powerful
+concentration spell, or better to use
+this for for than a more powerful
+damaging spell.
+Fundamentally, the reason that this
+spell is weak is that in fifth edition
+Dungeons and Dragons and thus in
+Baldur's Gate 3, the designers wildly
+over costed healing. So, a spell like
+this that does extremely weak damage and
+a tiny amount of healing is expensive
+because they wanted to make healing
+expensive. There's actually pretty good
+reasons for that. Dungeons and Dragons
+is supposed to be is is intended as a
+tabletop game played
+in analog with your friends and in
+tabletop combats can take forever. If
+your friends are slow taking their
+turns, combat a single combat can easily
+last multiple hours. And so, if healing
+is really strong, then that could take
+this problem of really long combats and
+extend it even further, which is why
+they made it so expensive. D&amp;D is also a
+storytelling generator more than it is a
+tactical game and it's much more
+dramatic and a much better story if you
+kill the boss while at a threshold of
+death. If you watch your hit points
+being uh taken away over time and you
+just manage to land the killing blow
+with the last of your strength before
+they overcome you than if you're just
+comfortably at full health the entire
+fight. So,
+having healing be weak actually makes a
+lot of sense given the system that
+Baldur's Gate 3 is from. It just doesn't
+translate as well to a video game where
+a lot of those things aren't true and
+you just end up with healing being a
+fairly weak strategy with weak numbers
+with the exception of the buff on heal
+items um without any of the reasons that
+that's the case in tabletop. The easy
+fix for vampiric touch is just to
+improve the numbers. You could make this
+a level two spell and it would still
+probably be pretty bad. Uh you could
+make it do 5d6 damage and still heal for
+half or you could make it do 3d6 and
+heal for the full amount. And then even
+then it would still be bad, but maybe
+with critical hits uh taken into account
+and with specific strategies built
+around it, it could be a little more
+interesting if the numbers were better.
+As is, um even in the best case
+scenario, uh you're going to never
+outpace enemy damage with the healing
+that this gives you and you'll be
+dealing less damage than you would by
+casting other spells. Also, uh a spell
+that requires you to maintain
+concentration on it in order to have
+sort of sustain over longer fights is
+pretty contradictory cuz if you're up
+front taking damage to make the healing
+from vampiric touch worth using, then
+you're going to drop concentration on
+vampiric touch and not be able to use it
+anyways. So, this could probably be a
+lower level spell. It could probably not
+be concentration. Um there's a lot of
+tweaks that you could make, but
+fundamentally the numbers on this spell
+just too small. Coming in at number
+eight, another casualty of Baldur's Gate
+3 being a video game, animal friendship.
+Animal friendship is basically charm
+person for animals. It makes an animal
+think that you are its friend and in
+tabletop D&amp;D that's actually a pretty
+useful tool. You can do things like
+quiet down a guard dog so you can sneak
+into a guarded compound or convince an
+injured wild animal that you're there to
+heal it rather than hurt it further.
+Um and those are all things that can
+really come up in tabletop D&amp;D and be
+really interesting storytelling with
+animal friendship. That doesn't really
+exist in Baldur's Gate 3. Those
+scenarios don't come up and the times
+that they do, it usually can easily be
+cleared with other skill checks like
+animal handling or with speak with
+animals, which solves pretty much every
+encounter that you have with animals in
+the game uh and is a ritual spell that's
+also available for free from extremely
+plentiful potions. So, animal friendship
+is mostly just duplicated by things that
+don't cost you a spell slot when you use
+it outside of combat. In combat, charm
+doesn't really work that well in
+Baldur's Gate 3 cuz it only prevents the
+animal from attacking the caster. So,
+it's just going to go ahead and attack
+your party members anyways. Um so, it's
+a pretty weak use of a spell slot in
+combat and out of combat it's simply
+duplicated by other things. To fix this
+spell, honestly, uh it's not really
+necessary to fix it because this spell
+is one that is really cool in tabletop,
+but doesn't really have a particular
+niche in Baldur's Gate 3, but you could
+have it be an alternative solution to
+some of the encounters that you have
+with animals if you made it a ritual
+spell. That way you could have animal
+friendship or speak with animals as
+options outside of combat available to
+different classes and stuff like that.
+So, that could be a more interesting way
+for it to be integrated into Baldur's
+Gate 3's spell casting options. Uh but
+frankly, the things that this spell does
+are covered pretty well by animal
+handling and speak with animals and
+other skill checks that the game gives
+you to cover animal encounters or
+encounters with beasts. Um so, I don't
+think it's that necessary that you have
+this somewhat redundant option because
+the things that make this spell
+different than those things, the
+scenarios where you would want animal
+friendship over speak with animals or
+the animal handling skill, don't really
+exist in Baldur's Gate 3.
+And a very similar spell coming in at
+number seven, dominate beast. So, just
+like there's charm person and dominate
+person, there's also animal friendship
+and dominate beast. And uh for the same
+reason that animal friendship is
+relatively weak, dominate beast is
+pretty weak in Baldur's Gate 3 as well
+because there simply aren't that many
+beast encounters where dominating one of
+them is actually good. Uh by the time
+you get access to the spell, you've
+completed most of the dangerous beast
+encounters in the game, though there is
+one Act 3 encounter where this could be
+okay, which is why it doesn't show up
+even further down the list. Um but there
+just are very few beast fights where
+you'd actually want to cast this. And
+even when you do, it's actually not that
+good because the creature gets a new
+save against the spell every single time
+it takes damage and because beasts tend
+to have low armor class, enemies will
+often direct their attacks against them.
+You're often basically spending this
+spell to cost one enemy one turn and
+then it just gets hit and breaks out of
+this spell effect and uh goes back to
+fighting against you. So, dominate beast
+tends not to be very good cuz it takes
+your concentration, takes a level four
+spell slot and um
+while if it works perfectly, it can be
+an okay effect, most of the time it's
+not going to work perfectly and you can
+get the same result much more powerfully
+with more generally applicable control
+spells. Compare this to hypnotic
+pattern, which just takes all of the
+enemies out of the fight for a level
+three spell slot and you can see why
+you're usually not going to want to use
+this.
+Um there is one uh Act 3 encounter where
+dominate beast is not bad because the
+numbers are against you in that
+encounter and this can give you some
+some
+leeway. Um but overall, this is just not
+a spell that you're going to end up
+using very frequently because the effect
+isn't great and it's just rarely
+applicable.
+Now, it it's worth noting for dominate
+beast and I I included a little note
+here that there is a severe bug with
+this spell that can make it absolutely
+broken um combining various spell
+effects and buggy manipulation of what
+what characters are in and out of your
+party and fast travel and stuff. You can
+use dominate beast to turn enemies into
+permanent followers. And obviously, if
+you're doing that, if you're using that
+bug, um then it's a broken effect, but
+outside of the that fairly extreme
+exploit, you usually shouldn't cast this
+spell.
+Uh again, the fix for this is just to
+make it relevant in more encounters. If
+there were more late game beast fights,
+it might be a different story. Dominate
+person is also a fairly weak spell, but
+there's a lot of fights against
+humanoids, so you can use dominate
+person in those and get some value out
+of it. Dominate beast is just the same
+thing that comes up significantly less.
+So, if there were more beast fights,
+maybe it would be a little better, but I
+don't think you actually need to change
+the spell.
+Starting at number six is where we start
+to get to the spells that are really
+really not good. And the first one of
+these is enthrall. Enthrall is a level
+two spell that makes a character look at
+you. For up to 10 turns, they just have
+to turn and look at you and slot. This
+is effectively a worse version of the
+cantrip minor illusion because it has a
+wisdom saving throw
+um and has
+uh only affects one target instead of
+affecting every creature in the area.
+So, enthrall can't be used to pull
+enemies away from their allies or group
+enemies up for an AoE spell effect when
+they all run after the cat and then get
+blown up by a fireball. It just can be
+used to maybe steal stuff or interrupt
+NPCs who are searching for you because
+the way that this spell is supposed to
+work is it's supposed to uh stop NPCs
+from thinking that you've committed a
+crime either by stopping them from
+looking at you while you commit it or by
+enthralling them so that they cease
+searching for you. The problem is that
+this function doesn't actually work and
+even if it did, it would still be worse
+than just using minor illusion, hiding,
+and fog cloud to prevent them from
+seeing you in the first place.
+Um
+but you have to have very precise timing
+because it only interrupts their search
+cycle if they are in the middle of
+yelling that you've committed a crime.
+If you do it if you cast enthrall too
+early, they'll still search for who
+committed the crime. If you cast it too
+late at when they're already searching,
+then they will still keep searching um
+during uh and after the duration of
+enthrall. So, this spell mostly doesn't
+work. Baldur's Gate 3's uh crime
+mechanics are already pretty buggy and
+adding in an unreliable and buggy spell
+in order to try to circumvent them is
+really not where you want to be.
+Uh
+the way to fix this spell would be to
+make it a ritual spell or maybe even a
+cantrip. Um enthrall is again another
+spell that's fairly interesting in
+tabletop, although even then there are
+better ways to distract people than
+spending a level two spell slot on it.
+But in
+Baldur's Gate 3, there are just way
+easier ways to manipulate where enemies
+are standing and where they are looking,
+and spending resources on that is simply
+never going to be valuable. So, the only
+way that you could fix this spell is to
+make it free.
+And getting into the top or bottom,
+depending on how you want to look at it,
+five worst spells in Baldur's Gate 3.
+Coming in at number five, we have Harm.
+Harm is a level six spell that does
+damage. It is a 60-ft range Constitution
+save, where enemies take half damage if
+they succeed the save,
+and it does 14 D6 necrotic damage, but
+can never reduce enemy hit points below
+one. The gimmick of this spell is that
+it reduces enemy maximum health. So, if
+they fail the saving throw, then it
+actually reduces their max health, and
+so they won't be able to heal back over
+that hit point total. But of course, in
+Baldur's Gate 3, most of the enemies
+that heal are undead or resistant to
+necrotic damage, and so won't be
+affected by this spell at all. This also
+counts as a disease, the effect of Harm,
+and lots of enemies are immune to
+disease. So, most of the time the
+hit point reduction effect simply won't
+actually function. Why is this spell
+bad? I mean, it's a level six damage
+spell. It's a damage spell that can't
+kill stuff.
+You cast damage spells to kill things,
+and Harm doesn't do that.
+And the maximum hit point reduction
+effect most of the time doesn't
+function.
+If the enemy fails the saving throw,
+also it will not because it bypasses the
+normal way that things do damage, and
+instead reduces enemy maximum hit
+points, then it ignores a lot of on hit
+effects and normal ways to bypass
+necrotic resistance. So, if enemies fail
+the save, often they get more
+resistances and take less damage than if
+they succeed against the save, where
+they take 14 D6 damage halved normally,
+but it's normal necrotic damage, so the
+on hit effects work. So, there's a lot
+of bugs that make this spell
+significantly less effective than it's
+supposed to be, and even if it worked
+perfectly, conceptually, a damage spell
+that can't kill stuff, not a good spell.
+I mean, that's obviously ridiculous on
+the face of it. The numbers on this
+spell are also pretty bad. 14 D6 damage
+for a level six spell slot is
+significantly worse than basically every
+other damage spell at this level.
+Compare it to the 10 D8 that you get
+from chain lightning, but that's across
+four targets and can be doubled with the
+wet condition and so on.
+And you can see that Harm as a single
+target damage spell just simply does not
+do enough damage to make it worth
+casting, even if it could actually kill
+things.
+The way that you would fix this spell,
+of course, would be to allow it to kill
+things, to improve the numbers so that
+it was worth spending your sixth level
+spell slot on, to fix the numerous bugs
+that this spell has. But an important
+thing about Harm and why I think it's
+not terrible that it's a really bad
+spell,
+is that this is a spell that's not
+really designed to be cast by players.
+Reducing your maximum hit points is
+something that we don't really care
+about when you're using it on an enemy
+because in basically any situation where
+you're fighting an enemy, either you
+have lost the game at the end of it or
+that enemy is dead. So, enemy maximum
+hit points simply don't matter.
+But if an enemy casts Harm on you and
+reduces your maximum hit points,
+especially in a tabletop game where that
+could be at a critical moment where you
+then don't have time to go get that
+fixed or something like that, that can
+be a terrifying and devastating event to
+have happen. So, this spell is much more
+intended and the rules for this spell
+exist in the game for enemies to cast it
+on players more than for players to use
+it. So, I don't think it's actually a
+problem that this spell is awful,
+that the rate is really bad, because
+it's intended to be something to strike
+fear into the hearts of player
+characters, not to be an effective tool
+in combat. In that way, it's very
+similar to Circle of Death, which
+doesn't make the list, but is also a
+very bad spell. Because Circle of Death
+is intended to be used by an evil enemy
+to blow up like an entire village and
+show how evil they are, rather than to
+be an effective tool in the hands of
+players. Harm is very similar to that,
+where it's a storytelling and
+tension-raising device, more than it is
+a game piece in the game of Baldur's
+Gate 3.
+Coming in at number four, Wind Walk. So,
+Wind Walk basically lets you cast
+gaseous form on your whole party. So,
+you're using a level six spell slot in
+order to cast a level three effect on
+your whole party. And obviously,
+duplicating a lower level effect with a
+higher level spell slot is always going
+to be expensive on rate. And again, this
+is a level six spell slot, so this is
+pretty much your most important resource
+in the game that you're using to do
+something that normally takes a level
+three spell slot to use. The advantage
+is that you can do it on your whole
+party, which means that you can traverse
+all of your party members through areas
+that you would want to be in gaseous
+form in order to get to. But most of the
+time when you're trying to use gaseous
+form, you only really need one character
+to be in the gaseous form to scout ahead
+or to do the tricks that you can do by
+passing through
+passing through grates or out over lakes
+of lava, stuff like that. There are some
+interesting tricks you can do with
+gaseous form, but most of the time you
+only need one character in the gaseous
+form in order to do that, and you can
+get that for a level three spell slot,
+where it's already expensive, or a
+potion, which is the way that you're
+most likely to actually use this effect.
+Wind Walk simply doesn't have too many
+encounters where it's going to come up,
+and it's extraordinarily expensive to
+use. There are vastly better ways,
+especially by the time you get to level
+six spells, to get the out of combat
+traversal that this spell is intended
+for. And so, casting Wind Walk is almost
+always going to be a waste of the most
+important thing that your party is
+doing, casting level six spells. The
+reason that this spell is so bad is
+simply that it's not intended to do
+something that Baldur's Gate 3 has. This
+in tabletop D&amp;D is an overland travel
+spell because it lasts all day and lets
+you fly really, really fast, so you can
+move at like 50 mph overland when your
+party is in Wind Walk, which in a lot of
+tabletop settings and fantasy worlds,
+that's actually very relevant. This
+spell can be used for overland fast
+travel in order to I don't know, warn
+the lord of a keep that the orcish army
+is approaching before they get there, or
+interrupt the lich's ritual before the
+last piece is in place for them to
+achieve ascension to godhood. There's
+lots of times where you might want to be
+able to travel overland quickly in a
+tabletop campaign, but in Baldur's Gate
+3, there's a fast travel map, so you
+simply don't ever need to cast Wind
+Walk. I don't think that they need to
+fix this spell. It just does something
+like it's implemented because it's cool,
+and you can have fun with it. And I will
+say that this spell is really fun to
+play with, turning your whole party into
+clouds lets you just sort of fart around
+Baldur's Gate and get into very weird
+locations, and that can be very, very
+fun.
+But the thing that this spell is really
+intended for simply doesn't exist in the
+video game, and so I don't think that
+they need to
+change it. It was easy to implement cuz
+they just used mechanics that they had
+already implemented for gaseous form,
+and it lets you have fun. It just
+doesn't need to be that good.
+And in third place, Phantasmal Force.
+Phantasmal Force is a very disappointing
+spell to me. I I really feel sad every
+time I look at this spell because it's
+such a cool spell in tabletop, and they
+only implemented a tiny fraction of the
+spell in Baldur's Gate. In a game where
+they honestly did such a good job of
+implementing, especially things like
+illusions and enchantments that are
+really difficult to make work in a video
+game, this stands out as a pretty
+glaring omission where they didn't
+manage to get a spell working that is a
+really cool spell in tabletop. In BG3,
+it does it's a
+single target concentration damage
+spell, so you use your concentration,
+cast it on a single enemy. They make an
+intelligence saving throw, and if they
+fail, they take 1 D6 damage every turn.
+That's it. It does 1 D6 damage every
+turn for a level two spell slot. That is
+probably the worst damage to spell slot
+ratio available in the game, even worse
+than things like Vampiric Touch, because
+that amount of damage is just so
+ridiculously tiny. It's not worth
+spending your spell slot on, it's not
+worth spending your concentration on. It
+will never ever impact a combat in any
+meaningful way, so it's simply just not
+worth wasting your time on. It's really
+expensive, your concentration's
+valuable, your level two spell slots are
+valuable,
+and so the fact that it only does 1 D6
+damage is just kind of an insult, and
+every time I look at this spell, it just
+makes me sad to think about how cool it
+is in tabletop and how weak it is in
+Baldur's Gate.
+Speaking of tabletop, how it works in
+tabletop is that it still does damage
+and still is a single target
+concentration spell with an intelligence
+save. Only it does 2 D8 damage. So, for
+some reason, while also removing the
+main effect of this spell entirely, they
+also decided to reduce the damage by
+more than 50%, just a bizarre decision.
+But in addition to that, the way that it
+works is it makes the creature that you
+target with it believe that what they're
+seeing is real. This is a very powerful
+control effect, especially in the hands
+of creative players. You can make an
+enemy believe that they're being chased
+by a demon, or that the room they're in
+is on fire, or that they're pinned down
+under a heavy beam, um or that they are
+sinking into the ground in quicksand.
+And then the creature will react to that
+uh image accordingly. With creative
+usage of the spell and images that
+you're putting into enemies' heads, you
+can use this as an extremely dangerous
+control effect. An enemy who thinks
+they're pinned down under a heavy beam
+will not be attacking you. They'll be
+trying to push the beam off of
+themselves. And so, you can use this to
+lock down an enemy. That's what makes
+this spell actually good is that it's a
+control spell, not that it's a weak
+damage over time spell. And the fact
+that they completely removed that
+component of the spell is just kind of
+bizarre, especially because they already
+pre-programmed the modes for command.
+You could just use those. If phantasmal
+force just had the five options that
+command has, and then those just lasted
+as long as you concentrated on the
+spell, this would be an interesting
+alternative to a spell like hold person.
+It would work on one enemy at a time, um
+and couldn't be upcast to hit multiple
+enemies and stuff like that. But, in
+exchange for being a weaker effect, the
+enemy uh wouldn't be taking automatic
+critical hits. It would work on more
+targets because it's an intelligence
+save, so you could uh target creatures
+with weak intelligence saves, and deal a
+little damage over time. That would make
+it an interesting spell in the arsenal
+of a spellcaster, while not being wildly
+overpowered. Um as is, the spell
+unfortunately doesn't do anything. So,
+since they
+I mean, the only real fix is just to
+finish implementing the spell.
+But, what could be even worse than that?
+Coming in at number two, dispel evil and
+good. Now, it's very likely, I think,
+that most of you don't remember that
+this spell exists at all because it's so
+rarely discussed. Dispel evil and good
+is basically protection from evil and
+good, except at level five instead of at
+level one, and it only lasts for 10
+turns instead of lasting all day. So, it
+is a vastly worse version of a level one
+spell that costs your fifth level spell
+slot. Uh it makes uh
+certain types of creatures, so
+aberrations, celestials, elementals,
+fey, fiends, and undead have
+disadvantage on attack rolls against
+you, except it doesn't work on
+aberrations, which are the most common
+of this type of creature by the time you
+have fifth level spell slots. Um
+and so, you you don't get any protection
+against some of the most dangerous
+enemies that you might want to use this
+spell for. You can also only use it on
+yourself, uh and can't cast it on
+allies, which you can with protection
+from evil and good. Um
+and so, you're getting for 10 turns a
+worse, buggier, and weaker version of a
+first level spell at the cost of a fifth
+level spell slot. I mean, I know I keep
+repeating this phrase, it's a worse
+version of a level one spell, um
+but it really bears repeating just how
+ridiculous it is to spend a fifth level
+spell slot on this significantly worse
+version of a level one uh effect, and
+then get a bunch of bonus bugs in
+addition to that. The other thing that
+you get in addition to dispel evil and
+good is the break enchantment action,
+which lets you uh in addition to the
+protection from evil and good effect, is
+the break enchantment action. So, this
+lets you spend your action in order to
+snap an ally out of charmed, frightened,
+or possessed effect. Uh except again,
+this is very buggy. So, even if this was
+a good use of your action, which in most
+encounters it's not, and usually isn't
+going to be a good trade, especially
+because in Baldur's Gate 3, making your
+allies immune to those conditions also
+snaps them out of it. So, you could just
+use that action to cast protection from
+evil or calm emotions or something and
+snap them out of those effects. Um so,
+even if you were in an encounter where
+you wanted to repeatedly break enemies
+out of those effects, you could do that
+for
+uh much cheaper, or you could simply
+make them immune to them in the first
+place.
+Um and then even if you do use break
+enchantment, it again is buggy and
+doesn't work. Uh it will not break
+allies out of all fear effects, only
+specifically the frightened condition,
+which is a very small subset of the fear
+effects in the game. Possession mostly
+doesn't happen, and I think the two
+cases where you can have possessed
+effects in the game, uh break
+enchantment doesn't work on breaking you
+out of them. Um so, this spell not only
+is bad conceptually, it's also
+implemented in such a way that it simply
+doesn't function.
+Uh
+the way to fix this spell, I mean,
+really from a conceptual standpoint, uh
+I don't really know why this spell
+exists at all. Protection from evil and
+good already does this thing, but
+better. Um but, uh if you want to have a
+better version of that, then it should
+certainly last all day because you're
+spending a higher level spell slot on
+the same effect, and probably be a lower
+level spell slot. The break enchantment
+action would be kind of interesting,
+maybe, if this was like a third level
+spell, then you could use this as an
+alternative to things like heroes' feast
+to give your allies frightened immunity,
+and then if they got frightened, you
+could break them out of it with break
+enchantment on a support character. Um
+if this was cheaper and lasted all day,
+but since it's not, it's absolutely
+never worth casting.
+But, what's even worse than spending a
+fifth level spell slot for a level one
+spell effect? Spending a fifth level
+spell slot for a level one ritual spell
+effect. Enter seeming. Seeming is a
+fifth level spell that duplicates the
+effect of disguise self uh on your whole
+party instead of just on one character.
+But, disguise self is a ritual spell, so
+seeming is costing you a fifth level
+spell slot in order to do something that
+is almost always free.
+Uh the reason that this isn't um more
+powerful, because you could imagine that
+disguising multiple party members would
+actually be something useful, is that
+Baldur's Gate 3 just doesn't care about
+having more than one party member
+disguised. Because of the way that
+conversations work in Baldur's Gate 3,
+you only have one character involved in
+conversation at a time. And so,
+disguising multiple party members isn't
+something that you ever have to do. You
+only need to disguise your main
+character in order to get all of the
+benefits out of disguising. Disguise
+self is free, so you simply don't need
+seeming in order to disguise your allies
+because that just never comes up.
+Uh even in the cases where you might
+imagine it would come up, like there are
+a couple conversations where, for
+example, having a certain party member
+in your party changes the outcome of
+that conversation, or where you're
+trying to break an NPC out of jail, and
+you could imagine disguising them as
+someone else in order to get them out
+freely, uh that doesn't work. Enemies
+just see through the seeming. So, if you
+have Shadowheart in the conversation
+where someone recognizes Shadowheart,
+even if she's disguised, you still get
+the dialogue for recognizing
+Shadowheart. Um so, seeming just doesn't
+work in those cases. Uh because of the
+somewhat weird way that Baldur's Gate 3
+implemented conversation, where only one
+character is actually in the
+conversation at a time, so you can never
+have a party member weigh in or make
+skill checks for you or anything like
+that, even though theoretically they're
+standing right there. Bit of a pet peeve
+of mine, but that's beside the point. Uh
+seeming just never comes up because you
+only need to disguise one character at a
+time, so a spell that disguises
+multiples is fairly pointless. And for
+the things that you might think it's not
+pointless for, it doesn't function, so
+you shouldn't use this spell.
+There are a couple uses for scrolls of
+seeming that are okay. Um you can use it
+to shrink your entire party in one
+button click. So, if you have a scroll
+of seeming, it can save you some clicks
+compared to shrinking your party members
+one by one with other effects, um in
+order to all fit them all through one of
+the gaps that you need to be a small
+party uh to fit through. So, that is one
+option for a scroll of seeming. Uh and
+you can use it to gain the racial
+benefits of certain weapons without
+having to have that character know
+disguise self, because if they're
+disguised as a member of that race, they
+can gain the benefits of those uh
+weapons, and if you disguise them and
+then uh later remove the disguise, they
+keep the the benefits. So, you can use a
+scroll of seeming for that, but you you
+shouldn't ever cast this spell because
+it's super expensive and doesn't really
+do anything that you can't get
+completely for free.
+How would you fix this spell? Um
+Honestly, I mean, other than
+implementing a check to see if
+characters are disguised when NPCs
+recognize them, obviously it should work
+for that because you would expect it to
+work for that, so that would be a
+reasonable bug fix to take.
+Uh you simply can't fix this spell
+without completely overhauling the
+dialogue system in Baldur's Gate 3. It
+solves a problem that doesn't exist in a
+game where your party members cease to
+exist when you enter conversations.
+All right, my friends. I hope that
+you've enjoyed this list of the worst 10
+spells in Baldur's Gate 3, plus an
+honorable mention. Obviously, like I
+said, don't take this list too seriously
+for your play. If you're enjoying
+casting these spells, or if you're
+finding them useful, definitely keep
+doing that. I do not want you to stop
+casting spells that you're finding fun
+or powerful. Uh and obviously, the game
+works really well with the way that the
+spells are balanced currently. So,
+although there could be some fixes that
+maybe improve these spells and make them
+see more play, it's uh obviously not
+necessary for that to be the case. In
+fact, I think one of the neat things
+about compiling this list has been how
+many of these spells are bad simply
+because they are implementations of a
+spell that makes sense in tabletop but
+doesn't really make sense in a video
+game. And so something like seeming or
+wind walk are are cool spells that I'm
+glad they put in the game because
+uh it's just cool that they're there.
+More options is always more fun in a in
+a game like this that's about doing cool
+things and trying interesting solutions
+to problems. Um and [clears throat] the
+fact that these spells are intended to
+solve uh a type of encounter that
+doesn't exist in uh the video game
+Baldur's Gate 3 doesn't mean that they
+shouldn't exist in the game. Um so I
+think it's kind of neat that so many of
+the worst spells in the game fall into
+that category rather than sheer mistakes
+in balancing. Although a couple of them
+like vampiric touch are definitely that
+as well.
+As always of course uh if you disagree
+with any of these placements or think I
+missed any really garbage spells that
+deserve to be on the list over some of
+the ones I've included. Or if you think
+I've missed some uses for the spells on
+this list that make them better than I
+think they are, definitely let me know
+in the comments. And of course if you've
+enjoyed the video, feel free to leave
+any comment. It it helps me out with the
+algorithm. And also hitting like on the
+video will help me out. So I appreciate
+you taking the time to do that. Of
+course you can subscribe to my channel
+for more Baldur's Gate 3 and other
+strategy game analysis. And I will catch
+you next time.

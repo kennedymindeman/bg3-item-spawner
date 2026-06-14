@@ -1,0 +1,925 @@
+hello my friends and welcome back to
+another balers gate 32 listing guide
+hope you're all doing well today in my
+ongoing series covering balers Gate 3
+itemization we're continuing to talk
+about rings and we're going to cover the
+act three rings including at least one
+of the most powerful items in the entire
+game rings are already an incredibly
+powerful item slot as you've seen from
+act one and act 2 and the act three
+rings do continue this trend so get
+excited cuz we're going to talk about
+some pretty strong items before I begin
+I do want to take a quick moment to say
+thank you so much to Michael Henderson
+for the $3 donation Douglas figat for
+the
+$15 Patrick David rer for the three $10
+donations so $30 and Steven Thomas and
+Harrison Kenny for becoming channel
+members thank you so much my friends I
+really do appreciate the support at this
+point of course you have seen the
+definitions of the tiers and uh the how
+we are approaching raing these rings in
+PR tier lists or if you're looking for
+those definitions check part one of this
+Rings tier list and without any further
+Ado let's just get right into it and
+rate the act three rings we're starting
+with my Swedish metal band DJ Helms hit
+single afterdeath do us part uh the
+afterdeath do us part ring gives you
+when the wear is down so when you take
+lethal damage that brings you to zero
+hit points uh you come back to life with
+half of your hit points but are
+afflicted by sh Shadow possession so you
+go to zero hit points once per long rest
+you come back to life with half your hit
+points healed um this item seems
+unfortunately to be bugged in my testing
+I actually had not equipped this item at
+all before I started making this tier
+list I'd never used it in a playthrough
+or anything so I went to test the item
+in game and what's supposed to happen is
+that you go to zero hit points come back
+with half of your health and have the
+shadow possession uh condition applied
+to you Shadow possession being a curse
+that makes your character uncontrollable
+forces them to attack the nearest
+creature whether that be Friend or Foe
+uh and have an additional 1 D4 necrotic
+damage on all their attacks so you get
+to come back to life once but your
+character becomes uncontrollable and
+attacks everyone around them what
+happened in my testing and I tested this
+on multiple characters both in and out
+of combat uh so uh I'm pretty confident
+that it's consistent at least uh as of
+patch seven was that the character would
+get downed come back at half hit points
+gain the shadow possession condition and
+then immediately lose it and so then be
+able to uh just act normally so
+basically this just gives you uh in its
+current implementation it seems like
+this ring just gives you when your
+character dies they come back to life at
+uh or not dies goes to zero hit points
+they come back to life at half Health um
+and then can just act normally obviously
+that's stronger than the intended
+mechanic of the ring and it's still
+possible that it works properly in some
+instances I tried it in a couple
+different scenarios with a couple
+different characters uh to see if I
+could get it to work correctly and
+couldn't but if you are using this ring
+yourself you may find a different result
+um and so it's a little bit difficult
+for me to judge how we should rate it
+because uh obviously getting to control
+your character is a lot more powerful
+than not getting to control your
+character if the ring is working uh as
+intended going down to zero hit points
+is already a a fairly drastic thing to
+have happen and then losing control of
+your character having them attack the
+nearest creature is not that much better
+than having them die or be bleeding out
+in fact in a lot of circumstances it's
+worse because you can't then use a
+healing potion or healing word to get
+them back into the fight on your side um
+and you the shadow possession is
+supposed to last until you use remove
+curse or another way of removing Shadow
+possession uh so your character will be
+permanently uncontrollable until you
+bring them to zero hit points again or
+hit the with a remove curse effect which
+obviously is very dangerous there's
+still some uses for that effect if the
+ring was working as intended um it gives
+you a little bit more uh control of your
+ability it gives you the ability to
+bring a character down to zero hit
+points and have them get back up in some
+weird scenarios like if you are in an
+area where the uh the arena deals damage
+so if they're going to die outside of
+combat it can give you a way to bring
+them back back um so you could maybe
+arrange to do something cool with this
+and 1 D4 extra necrotic damage is
+additional damage the AI is much worse
+at controlling your characters than you
+are but it would be kind of funny to
+throw a character at the enemies
+deliberately bring them down to zero and
+then have them come back with a buff
+where they can just attack the enemies
+CU they'll be the nearest creatures but
+for the most part this would be a pretty
+weak effect if it actually worked as
+intended and took away your control of
+your character as is though it's not
+terrible uh gaining an extra life
+definitely does give you a panic button
+if your character gets removed reduced
+to zero hit points I wouldn't recommend
+spending a whole ring slot on it even so
+um because you would rather just have a
+ring that will keep you alive in the
+first place or a ring that will help you
+kill enemies faster so you don't get
+reduced to zero hit points but if you
+have a particularly squishy character
+then uh you will be able to make use of
+this and it also has some pretty
+interesting use for solo play because it
+does if you are the only character in
+your party and you go to zero with this
+equipped it does prevent a game over
+your character comes back loses Shadow
+possession immediately and you get to
+keep playing so for a Solo character
+this does have some use um for party
+play though I'm going to give it C tier
+even with the bug that makes it stronger
+than normal just cuz it's a purely
+defensive item and so I think that there
+are better options for that that prevent
+you from dying in the first place though
+it is a cool effect and uh maybe there
+are some th uh interesting things that
+you can do with this by deliberately
+having your character be reduced to zero
+hit
+points the band of the Mystic scoundrel
+the band of the Mystic scoundrel gives
+you whenever you hit a creature with a
+weapon you can then cast an illusion or
+enchantment spell as a bonus action that
+turn so you get a one- turn buff that
+lets you cast illusion or enchantment
+spells as a bonus action illusion and
+enchantment spells include some of the
+strongest spells in the game things like
+hypnotic pattern um command uh hold
+person all of these fall under illusion
+or enchantment and so you can take
+enemies out of the fight very easily
+with these spells so the restriction on
+spell school is not significant the band
+of the Mystic scoundrel for a character
+that is both attacking and casting
+spells effectively gives you permanent
+haste you can both attack and cast a
+spell in the same turn so you just get a
+whole extra action every turn um and the
+normal combination with this item is
+with the Helm of Arcane Acuity because
+that gives you higher save DCS whenever
+you hit with a weapon attack and then so
+you can make attacks with your main
+action uh stack Arcane Acuity activate
+the bound band of the Mystic scoundrel
+and then as a bonus action cast command
+to lock down any enemies that are still
+surviving after your attacks this is
+particularly powerful for pack of the
+blade warlocks sword bars um paladins
+characters that are both making attacks
+and casting spells uh and so the band of
+the Mystic scoundrel gives your
+characters a massive benefit to their
+action economy at basically no cost for
+any character that's both making weapon
+attacks and casting spells we probably
+don't need to go too much over how
+powerful this item is I already said the
+words permanent haste which should give
+you some sense of just how good it is
+and the fact that it combines well with
+one of the other most powerful effects
+in the entire game Arcane acuity makes
+this item even better and it's a buff to
+some of what are already the most
+powerful types of characters in the game
+hybrid melee attacker or hybrid uh
+weapon users and spellcasters some minor
+additional Synergy characters that like
+to do both of those also tend to be the
+best elith power users in the game so
+you can have that character be great at
+using elith powers as well as being a
+spellcaster and a potent Fighter um the
+band of the mystics scoundrel can let
+you turn invisible if you want a more
+defensive option or use offensive
+options to lock down enemies there's all
+kinds of shenanigans that you can do
+with this ring and tons and tons of
+builds are built around maximizing it as
+much as possible s tier for the band of
+the Mystic scoundrel and you can
+certainly see this item featured in many
+of the most powerful Builds on this
+channel and various honor mode runs for
+just about every content creator uh on
+the planet has spent a whole bunch of
+time discussing this ring the burnished
+ring the burnished ring allows you to
+once per long rest cast paralyzing Ray
+on an enemy paralyzing Ray makes the
+enemy make a constitution save or become
+paralyzed for two turns so it's
+effectively the same condition as hold
+person it's the same as casting a level
+two hold person on them but with a
+couple key differences firstly they
+don't have to be a person uh paralyzing
+Ray can Target anything whether or not
+they're humanoid so you can paralyze um
+any enemy with paralyzing even on you
+couldn't normally Target with hold
+person or even hold monster it still
+works against Undead which hold monster
+does not uh and also it's a constitution
+saving thr a hold person is normally a
+wisdom save and while Constitution is
+not typically a great save to Target
+with most effects if you're building
+around uh targeting Constitution it's
+fairly easy to stack a bunch of
+penalties to enemy Constitution saves in
+order to make the burnish ring more
+likely to land you can use reverberation
+Stacks which reduce uh give enemies
+penalty on their con penalties on their
+con saves up to minus5 um and you can
+give them disadvantage on their con
+Saves by applying bleeding to them which
+you can do without saving throws uh
+using one of the grenades that applies
+bleeding and so the burnished ring you
+can actually get a pretty guaranteed
+hold person to land on any enemy who is
+susceptible to reverberation bleeding
+and paralysis some enemies are immune to
+some of those effects of course uh which
+is fairly interesting even at this late
+stage in the game it also doesn't
+require your concentration so you can
+paralyze one enemy for two turns while
+still concentrating on something else so
+the burnished ring despite being a once
+per long rest effect uh is a powerful
+enough effect that I think it's actually
+relatively worth looking at would I
+build around this item uh myself
+probably not cuz it's a lot of work to
+set up this effect uh but it is a pretty
+powerful effect and worth setting up I
+think so if you want to put in the
+effort in order to land the burnished
+ring you will be paid off by being able
+to paralyze certain very powerful
+enemies that you couldn't otherwise hit
+with a paralysis effect for that reason
+I'm going to give it B tier because uh
+it's just really interesting that it has
+this
+non-concentration uh hold person that
+targets a different saving throw I think
+that that's a a cool and Powerful effect
+and one that's going to be worth looking
+at um though admittedly it only works on
+one encounter per day so the level of
+use you're going to get out of this is
+somewhat limited but setting for up for
+it can be pretty good the Crypt Lord
+ring the CP Lord ring allows you to cast
+create Undead once per long rest create
+Undead is the sixth level wizard spell
+uh that lets you summon a mummy so it's
+one of the six level summons that's sort
+of the Capstone for summon based
+characters it's true that the mummy is
+the weakest of the sixth level summons I
+think that it is worse than the summons
+available from condra Elemental by a lot
+and worse than most of the planer allies
+also by a pretty significant margin but
+this is still a six level spell that
+you're getting for free once per long
+rest which is always very interesting
+since that's such a rare and Powerful
+resource summons in Boulders Gate 3 are
+of course excellent just having more
+bodies on the field is always good and
+the mummy makes a pretty good damage
+Source especially if you can more
+reliably trigger fear on enemies because
+it does additional damage to frightened
+enemies uh but even without that it does
+good damage absorbs a decent amount of
+incoming damage and overall is going to
+be a powerful addition to your combat
+Arsenal I think that the summon is
+supposed to despawn when you unequip
+this ring I have seen it happen a couple
+times where it does but most of the time
+it seems not to despawn when you unequip
+the ring um so I'm not actually sure
+what the intended behavior is for this
+item uh but obviously if it doesn't even
+take a ring slot then getting a six six
+level spell slot completely for free is
+incredibly powerful I'm going to judge
+this item as though you actually have to
+have the ring equipped in order to make
+use of it because I think that's the
+intent but this item does seem to be a
+little bugged with whether it lets the
+mummy stick around or not um getting a
+six level spell slot once per long rest
+that's great uh and having a whole mummy
+companion in exchange for your ring slot
+is absolutely a worthy trade even if the
+creature despawns when you unequip the
+the cryp Lord ring um there's also some
+special notability about this being
+created Undead specifically it's one of
+the few ways to get it other than it's
+it's the only way to get it other than
+actually taking 11 levels of wizard
+because there's no scroll of create
+Undead in the game so you can't learn it
+or cast it from a scroll but this lets
+you do that without having to actually
+have 11 wizard levels and still use
+highle summons uh in a multiclass
+necromancer build for example um and it
+works very well with other things that
+can power up Undead though of course
+because it's an undead it's harder to
+heal and keep alive than other summons
+the cryp Lord ring is just a very
+powerful addition to any party's Arsenal
+a six level spell slot once per day is
+always good and it's definitely worth
+keeping around s tier for the quick Lord
+Ring The jinny Ring The jinny Ring lets
+you cast Mage hand once per short rest
+now Mage hand is a can trip so a once
+per short rest cast doesn't sound that
+exciting but Mage hand is itself limited
+to being cast only once per short rest
+despite being a cantrip uh so you
+actually do increase your Longevity if
+you're a character that makes extensive
+use of Mage hand there are some
+characters that do that Mage hands can
+be pretty useful especially if you are a
+solo build for example because having
+the extra action to throw a bottle of
+water to set up the wet condition to
+throw a healing potion at a downed
+character or something like that uh can
+be extremely powerful for a party or
+especially for a Solo character
+obviously L for a downed character the
+Mage fan won't help in Solo play but um
+just having extra actions even if
+they're relatively limited actions on
+the field is super valuable and for
+parties having the Mage hand be able to
+throw bottles of water or healing
+potions at allies is pretty powerful
+this is fairly fiddly to set up in the
+late game and while it does definitely
+increase the power level of your party
+by this point you have so many options
+for Action economy that the Mage hand
+abuses are a little less important for
+most parties uh by this point in the
+game but if you're doing a lot of
+shenanigans with Mage hand then the
+jinny ring actually does increase the
+longevity of your adventuring Day by
+giving you uses of it in more combats
+per day for that reason I'm going to
+give it B tier because I think that most
+parties are not going to build around
+this effect but uh the ability to cast
+Mage hand and throw bottles of water uh
+once per short rest is actually pretty
+powerful and anything that gives you
+additional action is good so the jinny
+ring is still worth looking at although
+I will say that in act three this is
+definitely on the very lowest end of B
+tier The Guild Ring The Guild ring is a
+quest item with no mechanical effect it
+first shows up as an orange item but
+then when you use it it turns into a
+green item uh and still appears as
+magical the one funny thing about the
+guild ring is that if you spawn it in
+using the console in act one then Gail
+can eat it but otherwise the guild ring
+has no benefit at all uh D tier for the
+guild the Keepsake ring the Keepsake
+ring allows you to cast dominate Beast
+once per long rest dominate Beast is a
+level four spell slot so a relatively
+valuable resource but used in a very
+inefficient way dominate Beast is a
+pretty terrible spell there's very few
+enemies that are actually targetable by
+it at all um and even if you do land it
+on an enemy they have a chance to break
+the control every time they take damage
+it takes your concentration so it does
+doesn't even necessarily win encounters
+that you face against beasts um when you
+cast this spell to add insult to injury
+there's very few encounters with beasts
+at all in act three and with the most
+likely playthrough order the most
+dangerous one at the circus you're very
+likely to have completed by the time you
+actually encounter this ring maybe if
+you went out of your way to get it early
+in some way you could use it uh in the
+chol jungle but for the most part the
+Keepsake ring is just never going to
+have a use and even if you try to bring
+it into the only encounter where it
+might be impactful dominate beast is
+just such a weak spell that I wouldn't
+recommend spending your actions on it
+you just have better ways to take
+enemies out of the fight that will be
+more powerful overall so D tier for the
+Keepsake
+Ring The oric Ring The oric Ring gives
+you a cast of confusion once per long
+rest the confusion is a level four spell
+but the orphic ring actually casts it at
+level five so with a 7ot larger radius
+than the level four version of confusion
+because it gets upcast to level five so
+has a larger radius confusion is a
+pretty unreliable spell in Boulders gate
+it only has a 50% chance of stopping
+enemies from doing stuff otherwise it
+defaults to them just uh attacking in
+very unpredictable and wild ways which
+often include throwing explosives at uh
+your your party and their party and so
+confusion I think in general will not be
+as good at stopping enemies from doing
+stuff as you would want it to its main
+usage is that you can cast it in combat
+it doesn't Target allies uh so you will
+be able to use confusion if the combat
+is very mixed up and uncoordinated and
+enemies and allies are all mixed up
+together you can cast it to hit every
+enemy without targeting your allies um
+and so confusion can be nice to have as
+a backup plan for particularly chaotic
+and messy engagements uh but as a
+Mainstay Spell strategy it's not
+something that you want and since we
+don't want to have this ring equipped in
+advance in case the engagement puts
+itself in a position where you would
+want to use confusion I don't recommend
+equipping the oric ring even though this
+is a highle spell slot it's just not
+going to come up in most combats and the
+because you have to have this equipped
+ahead of time since it would otherwise
+take an action to equip it uh the oric
+ring is taking a whole ring slot for the
+potential expectation of using confusion
+which is a pretty situational spell um
+which I don't think is good a good use
+of a very valuable resource in that gear
+slot for that reason I think that the
+orphic ring is pretty weak and not one
+that you would want in particular even
+if you know that there's a an encounter
+coming up where you want this spell
+Scrolls of confusion are plentiful so I
+I just don't think the oric ring really
+has a place especially very late in the
+game when you get it D tier the Ring of
+blink the Ring of blink let's you cast
+blink once per long rest blink is a
+spell that gives you a 50% chance of
+Vanishing at the end of each of your
+terms you Disappear Completely become
+uninter actable and untargetable by
+enemies but also unable to take
+reactions or interact with the world in
+any other way at the start of your next
+turn you can then teleport up to 20 ft
+uh and then when you do you blink back
+into existence and can act normally
+blink is a spell I always think there's
+got to be something cool we can do with
+this spell it's a powerful effect being
+completely untargetable of course is
+very strong uh and it's kind of unique
+in Boulders Gate 3 um but the fact that
+blink is so unreliable with only a 50%
+chance of activating each turn makes it
+hard to use as a primary defensive tool
+because you just can't rely on using it
+of course one character becoming
+untargetable just means that enemies
+will Target your other characters as
+well and it can be hard to plan around
+that because you don't get to choose
+whether you're character gets blunk or
+not um CU it's just a 50% chance of
+activating so it can be hard to position
+your party around having a character
+with blink on them since you don't know
+whether it's going to happen blink is an
+interesting defensive tool for solo play
+because a character that doesn't exist
+half the time when you're solo is
+actually removing enemy turns from the
+equation basically 50% of enemy turns
+don't exist cuz there's nothing for them
+to Target they might heal or do
+something else like that but you
+actually are costing them action economy
+by blinking uh so for solo play it's a
+little more interesting uh but for party
+play Blink is a pretty weak spell for
+that reason I'm going to give this C
+tier because I think there are some cool
+things you can do with it it's certainly
+not a strategy that I would build around
+significantly but if you do have a
+blinking character in Solo play for
+example uh the Ring of blink just gives
+you an extra cast of that and will
+probably show up in that build the Ring
+of f wild Sparks the Ring of f wild
+Sparks gives you while your tides of
+chaos is active so if you are a uh wild
+magic Sorcerer And you activate tides of
+chaos uh you have a 100% chance of
+proing wild magic as opposed to the
+normal 50% chance while you have tides
+of chaos activated um wild magic is
+generally an advantage for the player so
+being able to guarantee activating wild
+magic is actually pretty good once you
+learn kind of the the rules around
+positioning your character and your
+party to maximize the benefits of wild
+magic while minimizing the downsides
+it's actually quite powerful for you so
+being able to guarantee it is actually
+pretty nice in in uh as in effect
+however the real benefit of the Ring of
+f Fay wild Sparks is actually an
+unlisted bonus it's not on the tool tip
+uh but the Ring of Fay wild Sparks gives
+you a plus one bonus to your spell save
+DCS whether or not you're a wild magic
+sorcerer a plus one bonus to your save
+DCS you will notice that no other rings
+have provided that um and so this is a
+way to get a very powerful bonus from an
+item slot that doesn't otherwise provide
+it uh and for that reason the wing of
+Fay wild Sparks is just excellent on any
+spellcaster because it gives you this
+bonus it's not in the tool tip uh but I
+have tested it recently and it hasn't
+been patched out in patch seven so I'm
+assuming it's here to stay um and so the
+Ring of f wild Sparks is just a best and
+Slot item for any offensively focused
+spellcaster that wants to increase their
+spell save DCs for wild magic Sorcerers
+in particular it's both flavorful and
+pretty cool because being able to
+guarantee activating wild magic is
+awesome but the real usage of this item
+is just increasing your save DCS which
+as we've discussed uh at extensive
+length during these item tier lists is
+one of the most powerful effects an item
+can give you s tier for the ring of Fay
+wild Sparks the Ring of regeneration the
+Ring of regeneration gives you 1 D4
+points of healing at the beginning of
+every turn in combat it procs whether
+you're at full health or not so it will
+always heal you for a D4 whether or not
+you've actually taken any damage in and
+of itself this isn't a massive bonus 1
+D4 healing uh per turn over the course
+of late game combats which usually last
+three or fewer turns uh even in
+particularly long combats is not going
+to make the difference between success
+or failure but the Ring of regeneration
+is one of the most heavily synergistic
+items in the entire game when uh you can
+pair it with other features that trigger
+off of healing as an example the
+whispering promise ring can bless you
+every time you proc the Ring of
+regeneration you get two turns of bless
+from it so you'll have permanent bless
+if you combine those two rings the hell
+Rider's Pride gloves don't let you cast
+blade Ward on yourself with self-healing
+but the whis the Reviving hands gloves
+do so the Ring of regeneration will now
+just provide permanent bless permanent
+blade Ward if you have those two items
+equipped the boots of a and comfort can
+make that an additional three temporary
+hit points every turn if you're a life
+cleric that will add to the healing so
+you get extra healing from this effect
+um every turn uh The Brood mothers
+Revenge amulet gives you an additional
+poison damage every time the the ring
+procs so there's tons of items that work
+incredibly incredibly synergistically
+with the Ring of
+regeneration uh on top of that it is
+While most of the time the 1 D4 hit
+points per turn won't matter at base
+this is still a reasonable effect for
+long combats this could be a decent
+amount of of healing but the real
+benefit here is that you can use it to
+trigger items that trigger off of
+healing every single turn um you can
+also make yourself permanently immune to
+uh opportunity attacks with the the
+chain shirt that disengages every time
+you get healed um whose name I'm
+blanking on right now uh I think that's
+not like the strongest combination in
+the game but it does let you run around
+the battlefield pretty well but just the
+fact that the Ring of regeneration
+basically gives you permanent bless and
+permanent blade Ward on any character
+that's specked into the healing items
+already makes it a main stay for those
+items on top of that of course
+characters that multiply the efficiency
+of healing things like um barbarians
+that take half damage from everything or
+characters with high damage reduction
+amounts like ABD duration wizard can
+benefit even more from The Ring of
+regeneration by multiplying the value of
+those restored hit points but mostly
+this is a Synergy item to proc those
+very very powerful healing effects and
+for those builds it's incredible the
+Ring of regeneration is s tier it's
+going to go in any build that's using
+the whispering promise and the Reviving
+hands which a lot of builds late in the
+game are still going to be doing uh and
+is going to power up those builds
+significantly by giving them the self
+Buffs every single
+turn the Ring of truthfulness the Ring
+of truthfulness gives you advantage on
+Insight checks uh advantage on Insight
+checks is actually kind of nice because
+a lot of the Insight checks in the game
+are hidden you don't get to see the the
+die roll made uh and so you can't react
+to them with things like enhan ability
+or guidance you have to know in advance
+that you're going to make an Insight
+check so just having permanent passive
+advantage on Insight means that you're
+going to be making those rules more
+successfully without having to uh worry
+about it however this is an item you get
+in act three and by this point in the
+game there aren't that many important
+Insight checks left there's a few that
+you'll be making but not a ton uh so the
+Ring of truthfulness is a reasonably
+powerful effect that would be much
+better if you got it earlier in the game
+even so it can be worth swapping this in
+for conversations uh just if there are
+insight checks that you want to pass uh
+I'm going to give it B tier although I
+will say I think that's kind of generous
+because the actual mechanical effect of
+insight checks uh this late in the game
+isn't that high uh but the Ring of
+truthfulness does let you pass those so
+if that's a goal for you then uh this
+will be a pretty helpful item the
+seemingly gleaming ring I have to say I
+love the name of the seemingly gleaming
+ring it's just very fun to say um but
+the actual effect of the item is not as
+impressive as the nomenclature the
+seemingly gleaming ring uh is kind of a
+joke item it gives you a plus one to
+your charisma saving throws and a minus
+one to your wisdom saving throws and
+obviously wisdom is a much much more
+important saving throw than Charisma in
+fact I don't know if you make a single
+Charisma save in all of balder's gate I
+can't think of one off the top of my
+head uh somebody I'm sure will will
+think of one and mention it in the
+comments um but overall the seemingly
+gleaming ring is going to come up
+basically never uh and having a minus
+one on your wisdom saves is a really
+strong penalty if there was an F tier uh
+for if I had put an F in this tier list
+this would go in it cuz it's an item
+that actively makes your character worse
+to have equipped um but the seemingly
+gleaming ring obviously not useful uh to
+actually equip till death do us part the
+till death do us part ring allows you to
+cast Beacon of Hope the level three
+cleric spell once per long rest a Beacon
+of Hope gives you advantage on wisdom
+saves and makes all uh healing that you
+receive be maximized so you all always
+receive the maximum value of any healing
+that you would receive so if you've got
+the Ring of regeneration running you get
+four hit points every turn while you
+have Beacon of Hope activated Beacon of
+Hope is a pretty weak spell for a third
+level spell but a little more
+interesting when you get it for free the
+main usage here is the advantage on
+wisdom saves in act three there are some
+enemies who make you make very dangerous
+wisdom saving throws and having
+advantage on those can be pretty
+powerful that being said there's a much
+more powerful way to give your whole
+party advantage on wisdom saves and
+that's Heroes Feast this being an act
+three item means you should have access
+to Heroes Feast by this point or at
+least many parties will and I recommend
+for Honor mode runs that you structure
+your party in such a way that you can
+get Heroes Feast of course anyone can
+access this by using Camp casters but
+any party that has a jur or cleric in it
+will want to be running Heroes Feast
+because it's such a powerful effect uh
+so even if you don't use Camp casters
+you'll often have advantage on wisdom
+saves all of the time regardless of
+whether you have to spend your
+concentration and the charge of this
+ring on it that being said for a party
+that doesn't have Heroes Feast advantage
+on wisdom saves is still a pretty
+valuable effect and if you are going
+into a fight where you know enemies are
+going to be making you make a lot of
+wisdom saves then casting Beacon of Hope
+and having it be one of your character's
+concentrations for that fight can be
+pretty useful this of course is nice
+because it doesn't have to replace a
+valuable cleric concentration slot the
+way it would if you actually cast it
+from as a spell um instead you can have
+any any other character be concentrating
+on it and so you can have advantage on
+wisdom saves being provided by your
+fighter uh compared to having to have
+your cleric give up Spirit guardians or
+something in order to have this effect
+for that reason I'm going to say that
+this is a c tier item it's a an effect
+that you might use in some encounters um
+with specific compositions and so it's
+one it's a c tier item that is worth
+paying attention to if your party fits
+that very specific criteria um although
+even then it's only going to be useful
+in some pretty narrow encounters where
+you're making a lot of wisdom saves and
+where you aren't disabling or killing
+the enemies before you have to do that
+uh but for those parties it can be a
+pretty useful item so to sum up the
+Rings at the end of act three uh in
+rough order of priority if if you have a
+build that's built around using it of
+course you will have the band of the
+Mystic scoundrel equipped it's the most
+powerful effect on this list by far
+almost every party is going to want to
+be using the strange conduit ring the
+callous glow ring the risky ring and the
+shadowcloak ring because those all
+increase your damage output dramatically
+without requiring much from your party
+in return uh so basically every party
+can make use of those items if you have
+any offensive spellcaster the Ring of
+Fay wild Sparks is going to show up and
+if you have a healing focused character
+in your party you're going to be using
+the whispering promise and the Ring of
+regeneration the coruscation ring will
+fill things out if you have a radiating
+orb character um and the Ring of
+protection likely goes on whatever
+character doesn't need another item slot
+available with the cryp Lord ring also
+similarly filling a a a gap in your
+equipment of more specifically focused
+characters may want to be using the
+eversight ring the Killer's sweetheart
+or the Ring of spiteful Thunder instead
+but the S tier rings at the end of act
+three a lot of them have powerful
+passive benefits that go in every party
+so it's very hard to go wrong picking
+items from the act two and three s tier
+ranks all right my friends I hope that
+you have enjoyed this look at every ring
+in balers Gate 3 having finished rating
+these items we've now covered every
+single piece of equipment in the game uh
+obviously other than weapons but every
+equipable item protective equip
+equipment or armor I have now talked
+about in extensive detail which is
+pretty wild to think about I will
+probably do some kind of grand summary
+video to talk about the best items
+overall uh maybe I'll do like top 25 in
+each Act or something like that or I'll
+figure out exactly how that's going to
+look sometime over the next week or so
+um but uh I hope that you enjoyed this
+look at all the Rings and all of the
+items in general and of course if there
+you think there is something that I
+should move around or if you think that
+I misunderstood one of the items in a
+particularly egregious way definitely
+let me know in the comments I'm very
+open to making changes if you have a
+good argument as to why something should
+be in a different position on this list
+the lesson from rings I think overall is
+that they provide tons of extremely
+powerful easyto use benefits and so you
+should really be looking to build your
+characters to maximize the value of
+these items um and I hope that this
+provides provides you with the tools to
+do so as always of course if you have
+enjoyed the video feel free to leave a
+comment and hit like helps me out a ton
+with the algorithm when people interact
+with the video um so I appreciate you
+taking the time to do that and of course
+you can subscribe to my channel for more
+balers Gate 3 analysis and other
+strategy game content cheers my friends
+I'll catch you next time

@@ -1,0 +1,1492 @@
+hello my friends and welcome back to
+another balers Gate 3 character building
+guide I hope you're all doing well I got
+great feedback on my skills tier list so
+I thought today let's talk about Feats
+people love tier lists and they really
+love arguing about them I'm always happy
+to oblige and Feats I think are
+extremely important to talk about
+because when you're building a character
+a feat which feat you take is the most
+impactful decision that you'll make
+other than I guess what class the
+character is going to be Feats are the
+scarcest and thus most valuable resource
+when you're building a character most
+characters only get access to three
+maybe even two of them some can get as
+many as four but that's rare and only
+for specific builds and so these
+decisions wildly change how your
+character is going to come out so it's
+very important to talk about which Feats
+are good and which Feats are bad I also
+think that the received wisdom from the
+community kind of the general hot takes
+on how Feats work are maybe not correct
+so there's a couple misconceptions that
+I see widely around the place that I'd
+like to try to correct in this video
+before we jump in I have a couple things
+I need to talk about beforehand so first
+up I have some thank yous to do I want
+to say thank you so much to Lucas Casey
+King Michael Clemen Christensen and W
+White Snake 16 for becoming channel
+members thank you so much and Brandon
+Krueger for the $20 and hooray Mark is
+here for the $5 which is a screen name I
+enjoy uh thank you so much my friends I
+really appreciate it secondly I did
+mention that I got great feedback on my
+skills tier list and some of that
+feedback in fact a lot of that feedback
+was people who disagreed with my
+rankings as a result I do actually want
+to make two changes to my skills tier
+list so I'm just going to do that right
+now before we jump in and talk about
+Feats let me swap over the window
+here so the most common piece of
+feedback I got on this skills tier list
+was that I had placed persuasion too low
+and I think I agree you are all in fact
+very persuasive the reason that I
+believe persuasion should move up AER is
+that similar to slight of hand and
+perception persuasion can be used to
+save you a ton of resources just like
+perception stops you from blindly
+running into traps and taking a bunch of
+damage and thus having to spend
+resources recovering from that slight of
+hand can let you disable traps and and
+gain Resources by opening chests
+persuasion can let you get better prices
+from vendors and also bypass spending
+resources on some very difficult boss
+fights by simply skipping them or making
+them easier thus persuasion
+fills a very similar role when you're
+playing through the game as slight of
+hand and perception in that it will save
+you a ton of resources across the the
+game and just make your path through the
+game much smoother for that reason I'm
+going to move it up to critical a bunch
+of people said it should be an s+ or s++
+or s++ Plus+ plus and I don't agree with
+that because persuasion like slate of
+hand and perception can only be used
+when the devs have scripted its use into
+the game so persuasion you only make a
+persuasion check Whenever there is a
+persuasion check that the devs have said
+okay now it's time for you to make a
+persuasion check just like you only
+disable a trap when the devs have
+actually put a trap into the game so
+unlike stealth persuasion does not
+benefit you in every encounter whereas
+every single encounter you can gain a
+massive Advantage by using stealth
+that's why I think it belongs in the
+critical tier rather than the
+game-winning
+tier the other change that I'd like to
+make is Insight simply because I just
+underestimated the number and impact of
+insight checks that you make
+much like persuasion Insight can be used
+uh though much much less frequently
+to save you some resources and so I'm
+just going to move it up one tier I
+think you could conceivably swap it with
+performance move performance down to C
+tier because performance is often
+dominated by persuasion and the other
+dialogue skills I think it's very rare
+that there is a performance check that
+you can make that you can't replace with
+a persuasion check but for now I'm just
+going to leave it here all right so
+thank you so much for your feedback my
+friends never let it be said that I
+won't change my mind um and let's jump
+in now and talk about
+Feats I've similar to the skills tier
+list divided the Feats into six tiers
+because I think they do fall into six
+distinct layers of how powerful they are
+at the top tier I have s+ Feats and I've
+described these a little differently
+than I did with skills um and these
+Feats are numerically broken as in they
+give you way more for various reasons
+than the system is designed to support
+So this feat gives you a larger bonus
+than the system intends for anything to
+give you in s tier there are Feats that
+are just excellent these are Feats that
+every character that is in an archetype
+or has access to this feat uh is in an
+archetype that can use this feet and has
+access or has access to this feet will
+take in a tier I've got great feats
+these are Feats that are very strong for
+certain builds have specific uses um are
+maybe slightly weaker but give you
+different aspects than one of the
+excellent Feats overall and so are often
+worth taking in B tier I have narrow
+Feats that fit into very specific builds
+in C tier I have weak Feats these are
+Feats that are playable they give you
+some Advantage but overall you're
+generally going to be better off not
+taking them and in F tier I have Feats
+that are completely useless as in they
+are strict downgrades from another
+option when you are selecting a feat
+something to keep in mind is that
+there's always two default options
+options one is just to take an ability
+score Improvement and I'll talk about
+those a little more in a second I also
+think I will do a video just on the
+attribute system in DND um coming up
+soon so I'll talk more about Asis when
+we get there as well but basically you
+have to compare every character can use
+an ASI so you have to compare every
+single feat to taking an ASI if it gives
+you less than the plus one bonus to
+everything your character does then it's
+probably just worse than taking an ASI
+and secondly you have to compare it to
+taking a level in another class because
+you get Feats for even for multiples of
+four in a single class an alternative to
+taking a feat is always taking one level
+in a different class so every feat can
+be compared to another level of a class
+and so many Feats are strictly dominated
+by multiclassing into another class that
+gives you everything that feat does and
+more I'll talk a little bit more about
+which ones those are when we actually
+get to them I also want to just quickly
+apologize for the visuals of this page
+uh I didn't make this tier list this uh
+this color scheme isn't what I'd have
+gone with on the on these images but um
+just bear with me here if you want to
+I'll I'll be reading out what the Feats
+do as we go along but if you want to
+follow along in text I recommend going
+to the bg3 wiki going to their Feats
+page and sorting by uh alphabetical and
+then you can read along with the text as
+we go all right so first up ability
+score Improvement like I said this is
+going to be the default pick for just
+about every character most characters
+are going to take at least one and
+possibly two of these and so I think
+something that's kind of interesting
+about the feet system in D and D is you
+have to always compare every feet to an
+S tier feet Asis are great they're
+extremely powerful you don't get a lot
+of bonuses to your stats as you are
+playing Dungeons and Dragons as you're
+playing balers gate in fact over the
+course of the game most characters are
+not going to gain more than about Five
+Points in what they do so if you are for
+example a fighter you start with 16
+strength and a plus two proficiency
+modifier by level 12 you probably have
+20 strength and a plus4 proficiency
+modifier maybe a plus two weapon you've
+only gained six points in your ability
+to hit things so an ASI is Like A fifth
+or a sixth of your total gain in ability
+to do stuff over the course of the game
+every time you don't take an ASI you're
+giving up oneth of your potential
+increases to the thing that your
+character does so you always have to
+compare every feat to ASIS by default as
+such of course they're the the classic s
+tier feat every character wants them
+there's very few characters that won't
+take one or even multiple Asis over the
+course of their level UPS secondly actor
+actor gives you one Charisma up to a
+maximum of 20 just like the Asis and you
+gain expertise in deception and per
+performance something that's kind of
+interesting about how actor Works in
+Boulders Gate 3 and by interesting I
+mean maybe a little exploit but very
+powerful is that you don't have to have
+Proficiency in deception and performance
+in order to gain expertise from actor uh
+actor's one of the Feats that laran
+rewrote and that works completely
+differently in tabletop for that reason
+actor's just a very strong feat it will
+often be as good as an ASI for a
+Charisma based class and it gives you
+two skill proficiency icies and not just
+proficiencies but expertises in very
+valuable skills for free you spend one
+attribute point in an attribute you
+probably don't care about as much if you
+started with an odd number of Charisma
+and get just get two free skill
+expertises so for that reason actor is
+often as good or better than an ASI and
+is an S tier
+feat alert alert gives you a plus five
+bonus to initiative and you can't be
+surprised alert is one of the the Feats
+that benefited very very strongly from a
+rules change between tabletop d and d
+and boulders Gate 3 in fact alert has
+the same text in D and as it does in
+balder's gate but the difference is how
+the initiative system works in balers
+gate initiative is rolled on one D4 a
+four-sided die and in Dungeons and
+Dragons It's rolled on a D20 a 20-sided
+die that means that a bonus to
+initiative is approximately five times
+as good or when you count sort of the
+bonuses you already have like three and
+a half times as good in Boulders gate as
+it is in Dungeons and Dragons so you
+could think of alert which was balanced
+around giving you plus five initiative
+in a system where you roll on a D20 as
+giving you if if we were still in that
+system it would give you something like
+plus 20 or 25 initiative that's an
+absurd number and it is literally too
+powerful to be in the game the The Way
+It Is alert is uh the first of the
+broken Feats that just don't the system
+simply does not support numbers being
+that good secondly is the shared
+initiative system in uh balers gate
+where if two characters share an
+initiative as in there's no enemy acting
+in between them you can choose in what
+order they act there are lots of reasons
+why being able to choose the order that
+your characters Act is very important
+the most basic one is that Rogues need
+an ally adjacent to the the enemy in
+order to trigger sneak attack so Rogues
+who will typically have high initiative
+want their allies to go first so that
+that Ally can move into range of the
+enemy and then the Rogue can get sneak
+attack on the enemy um having an ally
+with alert or your whole party winning
+initiative allows that chain to happen
+and you get to choose the order there's
+many many effects um and I don't really
+need to talk extensively about why
+winning initiative is so good but
+something that's worth thinking about in
+general is is that if you win a combat
+you will always take the last turn in
+that combat so winning initiative means
+you will take the first turn and the
+last turn in a combat and thus just
+increases the ratio of turns that you
+take versus the ratio the number of
+turns that enemies take massively over
+the course of the game if you have Alert
+on your characters uh enemies during the
+course of a playthrough will get like a
+thousand fewer turns something along
+those lines than they would without
+winning initiative so just think of it
+that way as giving you a thousand extra
+turns over the course of the game and
+you can understand why alert is so
+powerful athlete athlete gives you one
+strength or dexterity um so it's half as
+good as an ASI in that sense but it
+makes you stand up from prone using
+fewer uh movement you use one quarter of
+your movement instead of one half and
+your jump distance increases by 50% jump
+distance is the big one standing up from
+prone isn't something you'll have to do
+that often hopefully unless you're
+slipping on your own ice Fields a lot um
+but being able to jump 50% further means
+that a strength-based character becomes
+extremely mobile I think in general this
+is going to be slightly worse than an
+ASI there aren't a lot of builds that
+prefer athlete to an ASI because most uh
+strength based builds just really want
+lots of stats although you can mitigate
+that with Elixir um but if you are
+mitigating it with Elixir then you're
+not taking a point in strength you're
+taking a point in decks and and so on it
+gets a little more complicated
+but in general because this is a
+slightly narrow Fe that is close in
+power level to an ASI we're going to put
+it in a
+tier charger charger gives you two
+actions um which are weapon attack and
+shove and how they work is you spend
+your action and your bonus action to
+move 30 ft and either make an attack or
+push an
+enemy the good one here is moving to
+make an attack because you can if you
+wanted to push an enemy you could Dash
+and then shove so the charger bonus act
+so if you wanted to spend your action
+and bonus action to move 30 feet and
+shove an enemy then you could simply
+Dash and then push as a bonus action so
+the charger B the charger shove is
+literally useless but the charger attack
+is actually better than it looks this is
+one of the Feats that I think you'll see
+uh people say is completely useless and
+I don't think it's good and I don't
+recommend taking it but it's not
+completely useless the charger weapon
+attack uses your attack action so if you
+have extra attack uh uses your attack
+rather than your action even though it
+says action in the in the description um
+and it does plus five damage when it
+hits so if you have extra attack you can
+make a second attack after using charger
+basically what this means is if you have
+charger you have the option to spend
+your bonus action to move 30 feet and
+add five damage to your next weapon
+attack that's actually not that bad
+compared to uh a jump which might let
+you add 20 feet of movement or so you
+gain a little bit more movement speed
+although at the cost of not gaining
+verticality or going over um difficult
+terrain and you gain five damage on your
+next attack five damage isn't a huge
+amount but it is a a totally relevant
+amount is that worth spending a feet on
+I don't think so but it's not completely
+useless and there are certainly some
+interesting builds that you can make
+with charger I'm going to put it in C
+tier um disagreeing with a lot of people
+who would put put it in the useless tier
+crossbow expert crossbow expert also
+gives you two different abilities the
+first is that you can make crossbow
+attacks in melee range without without
+disadvantage and the second is that your
+piercing shot inflicts gaping wounds for
+twice as long so the piercing shot is
+the crossbow specific uh short rest
+ability that does piercing wounds which
+adds two damage to all incoming attacks
+or adds gaping wounds adds two damage to
+all incoming attacks um for for two
+rounds uh gaping wounds with crossbow
+expert lasts for four rounds I
+believe and the gaping wounds debuff is
+actually a more significant debuff than
+you might think two damage on every
+attack adds up faster than you might
+imagine especially because that includes
+every form of attack so like the bonus
+action Pummel strike from a great swword
+user or any multi- attacker like a
+swords Bard swords Bard is probably the
+best candidate for crossbow expert
+especially if you're using hand
+crossbows to make lots and lots of
+attacks um that being said I think
+overall you're going to generally be
+better off just doing more damage per
+shot with something like um Sharpshooter
+and for the most part the characters
+that would benefit from this are going
+to have levels in Rogue who can bonus
+action um disengage and get out of
+combat without taking an opportunity
+attack anyways so you won't benefit that
+much from being able to make your
+crossbow attacks in melee it's got some
+negative Synergy with the classes that
+most would want to take this feat
+anyways not completely useless but just
+not very good defensive dualist when
+you're attacked with a melee attack
+while you have a finesse weapon in your
+hand so a dagger shortsword Etc um you
+can use a reaction to increase your
+armor class by your proficiency bonus
+this is a bunch of of complicated
+nonsense to say that you get a reaction
+to do a very bad version of The Shield
+spell it doesn't take a um it doesn't
+take a spell slot or anything but if you
+want defend ensive dualist you are way
+better off just taking a level in light
+cleric because light cleric gets warding
+flare that does exactly the same thing
+you can spend your reaction to make your
+you harder to hit but it gives the enemy
+disadvantage which is numerically more
+than gaining two to four AC so you are
+always better off just taking a single
+level in light cleric and it of course
+works when you don't have a finesse
+weapon that's just better off the that's
+just better than defensive dualist
+there's no reason to take defensive
+dualist over a level in cleric here and
+of course you also get all the other
+goodies that cleric gives you if you do
+that dual wielder dual wielder lets you
+hold use two weapon fighting so you can
+attack with your off-hand weapon with a
+bonus action um with two weapons that
+aren't light so you can use any non-
+two-handed weapon um you can use in both
+hands it also while you are holding two
+melee weapons gives you plus one to your
+armor class so it's basically worth half
+a shield um
+the main advantage of dual wielder is
+just that it lets you hold a heavy
+weapon in your offhand so you can
+benefit from the
+enchantments of two different heavy
+weapons or uh two two different
+non-light weapons the most relevant
+feature here is going to be for a Caster
+class that wants to benefit from the
+abilities of two stabs now is that worth
+taking a whole feat for I don't know I
+think there's maybe a couple builds that
+are using two very specific staves that
+can benefit from Dual wielder and
+there's a couple thematic builds I think
+I used it for my Jiro build just for
+theming reasons um but for the most part
+dual wielder mechanically speaking is
+going to be worse than just having a
+shield plus another feet um I would put
+it under the weak section although with
+the asterisk that if you specifically
+want two stabs and are a race that uh
+doesn't have access to Shields um so
+you're a full caster so you didn't get
+Shield proficiency from your class
+you're a race that doesn't get Shield
+proficiency and you want two staves dual
+wielder worth considering otherwise
+you're just better off with higher AC
+from a
+shield dungeon Delver dungeon Delver
+gives you advantage on perception checks
+uh to detect hidden objects and
+advantage on saving throws made to
+resist traps it you also gain resistance
+on damage from traps uh except you don't
+uh this feed is completely bugged and
+does literally nothing just Barbarian
+danger sense this feat has no effect
+because trap damage is just not coded as
+uh it's coded differently it uh from
+attacks so effects basically don't apply
+to how traps trap damage Works dungeon
+Delver as at the time of recording does
+absolutely nothing this feat is
+unfortunately just broken and does not
+affect the game in any way even if it
+worked it would also be bad I should
+point that out it's also just a terrible
+feat um but it also to add insult to
+injury does not
+work durable durable gives you um plus
+one Constitution so it's worth half an
+ASI and you gain full hit points every
+time you take a short rest there are
+some builds that could theoretically
+benefit from the full hit points every
+time you take a short rest but you gain
+half your hit points back every time you
+take a short rest anyways which is a lot
+of hit points and potions and stuff are
+super plentiful and very cheap in this
+game so if you really want to start your
+next fight at full health you can just
+drink some potions durable I think
+overall is worse than just taking an ASI
+in almost every case maybe if you have
+uh specifically a barbarian who it's
+pretty expensive to heal using potions
+or spell slots and you find them taking
+lots and lots of damage in every fight
+um because they're a barbarian and get
+hit frequently then you could consider
+durable otherwise I just wouldn't ever
+consider this
+um I guess technically speaking it's in
+C tier but I would really recommend
+against taking
+durable Elemental
+adapt uh spells you cast ignore
+resistance to a damage type of your
+choice so you choose an element and
+enemies that are resistant to that
+element usually this is going to be
+lightning because typically in this game
+lightning builds are the most common
+thematic Elemental build um the enemies
+will resist enemies with resist distance
+to that damage type will uh you'll be
+able to just deal full damage to them
+you can only choose elements here not
+radiant or necrotic damage or like
+physical damage which would be pretty
+useful um and your so your choices are
+acid cold lightning fire and thunder
+don't take Thunder basically nothing
+resists Thunder um you would probably
+want to take fire or lightning which are
+common things for for enemies to resist
+if you are doing a lot of those spells
+generally speaking you're better off
+just preparing a different spell if
+you're going to fight an enemy that has
+resistance to that damage type um if you
+are specifically the lightning combo
+it's worth considering the the lightning
+Lord build that I posted um but overall
+I think you're better off just just
+preparing a different spell for that
+that encounter enemy resistances are
+just not that common and you can just
+prepare a spell that uses a different
+Elemental damage type because balers
+gate lets you change your prepared
+spells at any point outside of combat
+you always have the option to swap into
+different spells and if you are a
+sorcerer or something like that that has
+to pick your spells well in advance just
+make sure that you have spells that you
+shouldn't just only have spells that are
+one elemental damage type you should
+always have spells that are relevant in
+every encounter as well um even in just
+having haste on your sorcerer will give
+you something useful to do in that
+encounter and so maybe your lightning
+sorcerer takes a takes one encounter off
+to be a buffer or something generally
+speaking I would say not worth a feat
+technically not completely useless but
+not very good
+again great weapon master so great
+weapon Master gives you two things one
+when you kill a creature or get a
+critical hit you can use your bonus
+action to make another attack if there's
+an enemy within range this is not a
+super relevant ability it comes up
+sometimes you'll get a few bonus action
+attacks but for the most part these
+builds are going to have good uses for
+their bonus actions anyways um but the
+main uh but it's a nice bonus to have if
+the rest of the feet is good and the
+rest of the feet spoiler alert it's good
+um when you make a two-handed weapon
+attack uh you can choose to take a
+minus5 attack penalty for plus 10 damage
+this adds up massively when you're
+making multiple attacks around and
+because this is often going to be
+present on fighters who have easy ways
+to gain advantage on their attacks by
+proning enemies easy ways to gain
+Precision attack if you're a
+Battlemaster fighter or barbarians who
+can always make all their attacks with
+Advantage the hit penalty is going to be
+somewhat mitigated by um just the
+character's natural ability to hit very
+easily you can also buff up this
+character in order to make use of this
+bonus 10 damage on every attack and this
+does sometimes apply to bonus action
+attacks like the Pummel strikes although
+I'll talk a little bit more about that
+when we get to a later feat um is just a
+lot of damage this is usually going to
+be 20 to 30 extra damage every single
+round of combat and on burst turns where
+you're using action surges and stuff
+this is going to be 40 50 80 extra
+damage with your great weapon Master uh
+that's just massive amounts of bonus
+damage and importantly it increases the
+maximum damage that your character does
+as well uh because it just adds 10 flat
+damage to every attack great weapon
+Masters an excellent feat most
+characters that use two weapons two
+handed weapons should consider taking
+great weapon
+Master heavily armored you gain one
+strength and you gain Proficiency in
+heavy armor you also can't take it if
+you don't have medium armor proficiency
+this is an example of a feat that's
+basically strictly dominated by an ASI
+um gaining two stats is better than
+gaining one stat there's almost no
+characters that really want one strength
+an odd increase in strength and need to
+gain heavy armor proficiency that don't
+already have heavy armor proficiency
+that you wouldn't just like wear it um I
+mean think about the characters that
+just have medium armor something like a
+a barbarian who can't use heavy armor
+because they wouldn't be able to Rage or
+a cleric who can get heavy armor from
+taking a a cleric subass or
+um I don't know uh a swords bar gets
+medium armor but they're not going to be
+strength based basically there's no
+character that's medium armor that wants
+heavy armor is strength based has low
+dexterity so will actually benefit from
+wearing heavy armor um and wants this
+feat this feed is is strictly dominated
+by taking an ASI or if you really want
+access to Heavy Armor taking a level in
+another
+class heavy armor Master is very similar
+it gives you plus one uh in in
+appearance it gives you plus one
+strength to a maximum of 20 and it
+decreases incoming non-magical damage by
+three while you're wearing heavy armor
+this is better because unlike heavily
+armored it doesn't give you something
+you can get easily from taking levels or
+uh in another class the three flat
+damage reduction is actually pretty cool
+and there's some while many enemies have
+magical weapons and will bypass this
+damage reduction there are some cool
+features that work with heavy armor
+Master because certain types of damage
+don't count as magical even though they
+probably should for example if you have
+cast warding Bond on an ally the damage
+you take from warding Bond doesn't count
+as magical it gets reduced by heavy
+armor master um
+so and uh if you cast Spike growth and
+walk into your own Spike growth for
+whatever reason that damage doesn't
+count as magical it is reduced by heavy
+armor master so you can gain a lot of
+benefits in certain builds that have
+combos with damage reduction from taking
+heavy armor master and many builds that
+want uh that have heavy armor
+proficiency want damage reduction
+compared to builds that have medium
+armor proficiency and would want heavy
+armor so heavy armor master I think is a
+narrow feat but is
+usable lightly armored lightly armored
+is exactly the same as heavily armored
+it gives you proficiency with light
+armor um and increases your strength or
+decks by one I mean if you want light
+armor proficiency just take a class that
+gives you light armor proficiency better
+yet take a class that gives you heavy
+armor
+proficiency lucky lucky gives you three
+luck points that can be used uh at any
+time to either give you advantage on
+attack rolls ability check on an attack
+roll an ability check or a saving throw
+or to make an enemy roll their attack
+roll this works slightly different than
+it does in tabletop D and where you
+would rather than choosing ahead of time
+to rather than gaining Advantage you can
+roll with lucky as well so you can gain
+sort of triple Advantage with lucky so
+it's slightly worse than in tabletop but
+this is still a pretty nice feat I
+wouldn't take it on most characters but
+if you like really want to avoid losing
+concentration it also just gives you
+good non-reaction way to make an enemy
+Miss um attacks so if you really want uh
+to not get hit it's particularly good I
+think for Druids who can benefit from it
+in Wild shape and avoid losing
+concentration on a spell they're
+concentrating on I would say this is not
+an amazing feat it's generally
+outclassed by other stuff but especially
+if you long rest frequently and so gain
+more benefits of the of the lucky feat
+this is usable it's not not terrible but
+not not amazing but not terrible at
+all Mage Slayer Mage Slayer gives you uh
+advantage on saves against spells cast
+by an enemy Within melee range and when
+they do cast a spell within your melee
+range you get to hit them as a reaction
+you also break concentration more easily
+enemies you hit with melee weapons have
+disadvantage on their concentration
+checks I would say that maage Slayer is
+pretty weak overall um it doesn't make
+you better at surviving important spells
+mostly if you're already in melee range
+with a spellcaster you're already doing
+pretty well honestly and so and there's
+way better ways to break enemy
+concentration than actually making them
+roll concentration checks knocking them
+prone stunning them Etc just instantly
+breaks their concentration without
+making them roll concentration checks um
+so I wouldn't generally advise taking
+Mage Slayer ex unless you really want
+the flavor of being a mage Slayer
+um it is overall a fairly weak set of
+bonuses for a fairly narrow set of
+circumstances and it will only come into
+play when you're already doing well in a
+fight in terms of like if you were
+playing a card game this would be called
+a win more feature where you're already
+winning and Mage Slayer looks good when
+you're already winning but doesn't do
+anything when you're losing so I would
+generally avoid taking Mage Slayer for
+that result for for that
+reason magic initiate there's uh six
+vers of this you can take you can pick
+one any one of them you get two cantrips
+and a first level spell from a character
+class uh from a spellcasting class of
+your choice the best of these is
+probably warlock so you can get access
+to eldrich blast but uh just take a
+level of warlock don't take magic
+initiate it's just so much worse than
+taking just a level in that
+class Marshall
+adapt uh you can learn two Maneuvers
+from Battlemaster and you get one
+superiority die it recharges on a short
+rest to fuel them Marshall Adept is I
+guess technically not completely useless
+because you would need three levels of
+fighter to get Maneuvers so you can get
+Maneuvers with it um faster than you
+would be able to just by taking a level
+of fighter that being said any character
+that wants a a battl master maneuver
+just wants to be a Battle Master you're
+just going to want to take those three
+levels of fighter and that such a weak
+effect once per short rest that's just
+insulting um we're just going to I'm
+going to put this in F because it's
+completely useless um or you should
+never ever take it even though
+technically it's not strictly dominated
+by other options but it is just so bad
+that you should just never take this
+ability medium armor Master medium armor
+Master is the counterpart to Heavy Armor
+Master except what it does is it
+prevents medium armor from giving you
+disadvantage on stealth checks and you
+can get a plus three bonus instead of a
+plus two bonus to AC from your dexterity
+so if you have 16 dexterity then me most
+medium armors will let you gain 3 AC
+instead of two this would be better if
+the best medium armors in balers gate
+didn't already just let you use as much
+dexterity bonus as you want all the best
+medium armors in in balers gate are the
+uncapped ones anyways so for the most
+part you're you're better off just
+wearing one of those armors um if that
+wasn't the case there might be some
+consideration for medium armor Master
+but basically you're taking this to gain
+plus one
+AC uh and if you wanted to take plus one
+AC then you should take just a level in
+fighter you're going to hear this a lot
+and take the defensive fighting style
+which is worth plus one AC plus all the
+benefits of a level in fighter so medium
+armor Master just not very useful also
+disadvantage on stealth checks just
+doesn't
+matter for a variety of reasons
+um mobile mobile gives you 10t of
+movement speed and when you dash you can
+move through difficult terrain freely
+and you can make an opportunity attack
+and or make an attack and then move
+after making an attack without provoking
+an opportunity attack so basically it it
+lets you disengage while making an
+attack there are some some builds that
+could use this I wouldn't say that it's
+very strong um but 10t of movement speed
+is not bad I mean that's certainly
+something that you would consider taking
+on a lot of builds um the ability to
+evade opportunity attacks is relevant
+sometimes I would say this is a a pretty
+weak choice but there are builds that
+could theoretically use mobile um I will
+put it in B tier but you could easily
+put it in C tier as
+well moderately armored moderately
+armored is similar to heavily armored
+and lightly armored in that it gives you
+plus one strength or decks and uh
+increases gives you access to medium
+armor however unlike those two it also
+gives you Shield proficiency so it's
+already better than those two that being
+said once again moderately armored is
+pretty much strictly dominated by just a
+level of a class that gives you medium
+armor proficiency and shield proficiency
+like um fighter cleric Etc the there are
+some builds that might want one decks
+and to gain medium armor profic medium
+armor and shield Prof efficiency without
+taking a level in another class so I
+will say that moderately armored is
+unlike these two there are some uses for
+moderately armored because rather than
+taking a level in cleric you can take a
+a feat gain the one dexterity and gain
+medium armor and shield proficiency um
+compared to other builds compared to the
+other two where you would just never
+want to do that you're better off just
+um taking a level of another class class
+that said it's still a Very Bad feat and
+you shouldn't take it at all but uh
+overall I think moderately armored is
+not as useless as its two counterparts
+performer performer gives you one
+Charisma and musical instrument
+proficiency well that's that's a lot
+worse than actor actor gives you skill
+proficiency musical instrument
+proficiency is just not useful in the
+game um so we're going to put performer
+in the pile of useless Feats that are
+strictly minated by other options just
+cuz musical instrument proficiency
+doesn't do anything this is one of the
+Feats of course and something I should
+mention is that all of these Feats you
+could take for role playing Reasons I'm
+only discussing just how powerful they
+are po arm master polearm master gives
+you um the ability to make a a bonus
+action attack with the butt of your pole
+arm whenever you make a pull arm attack
+uh you if you have an equipped pole arm
+and even though gla or Pike is not
+included in the in-game description it
+counts all pole arms glaes halberts
+Pikes quarter staves and Spears whenever
+you attack with your with your pole arm
+you can also use your bonus action to
+make an attack with the butt of the
+weapon this does 1 D4 base damage plus
+your strength um and should in theory
+add all of your other bonuses which
+would make it a pretty strong ability
+however it's bugged so unfortunately it
+does not work with great weapon master
+ites doesn't always add and I'm I am
+personally not sure I have not tested
+this extensively enough but if you have
+a flat damage bonus on your gloves on
+your weapon attacks for example or one
+of the sets of gloves that makes your
+weapon attacks deal an extra 1 D4 damage
+it does not always trigger on the uh the
+polar Master bonus attack because of
+these bugs right now um polar Master
+just does not do the thing that it's
+supposed to do which is give you a
+powerful bonus action attack with a with
+a pole arm it also gives you the ability
+to make an opportunity attack when an
+enemy enters within range but we can you
+pretty safely disregard that ability of
+of pole AR Master because enemies won't
+typically voluntarily enter melee range
+of your polearm user who's going to be
+your fighter or if they um if they do
+then they've already put themselves in a
+bad spot so making a reaction attack
+against them for doing that is not that
+uh impactful on the on the outcome of
+the fight if an enemy just moves into
+melee range of your Melee character you
+should already be happy you don't need
+to be happier um because of being able
+to make an opportunity
+attack so we can more or less dis uh
+disregard that and just talk about the
+bonus action attack together these two
+effects even with the bugs are
+moderately useful and if you are a
+polearm user you could consider pole arm
+master I'm going to put it in the weak
+tier because of the bugs but I would
+bump it up probably all the way to a
+tier if the bug with the off-hand attack
+was
+fixed resilient resilient gives you an
+ability increase in any ability and then
+Proficiency in that ability's saving
+throws uh one thing to note is that that
+because this is a feat this will
+transfer over to Druid wild shape
+because you get the ability from a feat
+rather than from your your um
+character's abilities so and that's true
+of everything except ASI that increases
+your Fe your uh attribute scores that
+will work in Wild shape the most common
+use for resilient is on a Caster that
+doesn't get Constitution saving throws
+you can take resilient for constitution
+get plus one Constitution and gain
+Proficiency in con saves so that you can
+maintain concentration on your spells
+that's a great use of a feat it will
+allow you to maintain concentration on
+your spells it's generally speaking one
+you want to take after you've maxed out
+your Asis so I'm going to put it in in
+great tier rather than in s tier you
+don't uh rush for resilient usually it
+depends on the character you're playing
+but um overall resilient is just an
+excellent
+feat and or is a great feat one that
+you're going to take very frequently on
+casters almost always for constitution
+it's very very rare you would want to
+take it for another
+stat ritual Caster uh you can probably
+guess what I'm going to say about this
+you get two ritual spells they're all
+level one spells other than speak with
+dead which very very early you get an
+amulet that does that as well as um the
+ability to just learn it from a story
+event and stuff like that so speak with
+dead as a level three spell is the most
+interesting one here but you get that
+for free anyways uh other than that just
+take a level in a class that gives you
+these spells um there's no reason to
+ever take this
+feat Savage attacker Savage attacker
+when you make a melee attack any melee
+weapon attack so not unarmed attacks not
+monk attacks but any other melee attack
+um you roll your damage twice and use
+the highest result Savage attacker I
+think is one of the Feats that's a
+little misunderstood by the community
+it's very very good it gives you a lot
+of bonus damage especially if you're a
+character that rolls a lot of dice like
+a paladin or a critical hit build or
+sneak attack or a sneak attack based um
+melee
+build what Savage attacker does is both
+increase your average damage
+massively a average damage significantly
+and increase the consistency of the
+damage that you do you are very much
+less likely to roll low damage for the
+damage that you should do and just not
+kill an enemy that you should normally
+kill if you have Savage attacker what it
+doesn't do is increase the maximum
+damage of your weapon attacks so while
+it increases your average damage it
+doesn't mean you can kill a tougher
+thing than you could have previously
+killed
+otherwise it also the reason I say it's
+misunderstood is because the the it
+gained this reputation as the Beall and
+end all of melee Feats especially for
+paladins because people have been
+spending a lot of effort optimizing and
+abusing the damage Rider Source bugs
+that allow you to add hundreds of di of
+damage dice to your weapon attacks if
+you're doing that and rrolling 100 dice
+Savage attacker worth like 50 damage on
+average if you're rolling an extra 100
+Dice and at that point obviously it's an
+insane feed for non buged builds or
+Builds on honor mode where they fixed
+the damage Rider Source stuff you are
+usually going to be rrolling something
+like um the base dice of your weapon
+plus some Paladin Smite dice if you get
+lucky in critically hit or force a
+critical hit then Savage attacker will
+give you the bonuses from uh you you
+could reroll maybe up to 10 d8 if you're
+rrolling 10 d8 damage then that is going
+to increase your average damage by about
+20 on your attack and that's for a Smite
+critical hit um which is a fairly rare
+occurrence but on your normal weapon
+attacks it's going to increase your
+average damage by something like three
+for that reason and because I think that
+optimizing to have those hits be more
+consistent is very good but not
+necessarily um unbeatable I'm going to
+put it in a tier you could conceivably
+push Savage attacker up to S tier but
+the math I think in general works out
+for most characters that want Savage
+attacker would prefer to take great
+weapon master um that being said for
+melee sneak attackers and for paladins
+Savage attacker is very very good and
+you and um you should definitely take it
+for those characters but for most other
+characters most other melee characters
+will not gain as much benefit from
+Savage attacker as they will from great
+weapon Master
+overall Sentinel Sentinel gives you
+three things one is you gain advantage
+on opportunity attacks Advantage is
+great and advantage on opportunity
+attacks is actually fairly hard to come
+by except if you're a barbarian you also
+when you hit an enemy with an
+opportunity attack stop them from moving
+this does work a little weirdly in
+balers gate because they get to move
+kind of a random distance thanks to how
+balers gate movement and ranges work uh
+before they stop moving so they will
+often be able able to leave field
+effects that they shouldn't be able to
+leave um before the Sentinel attack
+triggers so if you're trying to use it
+to trap them in a wall of fire or
+something they'll often be able to step
+out of it and then Sentinel will trigger
+and they'll randomly teleport outside of
+it or it'll trigger while they're still
+inside of it and then they'll disappear
+and reappear on the other side of your
+character sentinel's just kind of a
+buggy feet because balers gate movement
+is quite buggy um still that's a very
+powerful effect cuz it keeps them next
+to your Combat Characters and prevents
+them from getting to your squishy ranged
+characters it also if an enemy hits uh
+an ally while you are in range of that
+enemy you get to hit them as a reaction
+which is pretty nice cuz it's it's just
+an extra way to make opportunity attacks
+Sentinel I think is just an excellent
+feat for any character that wants to be
+stuck next to enemies and wants to stop
+them from moving Sentinel is just great
+um is it better than taking Asis or way
+more damage probably not I think in
+general your order for for tank Feats is
+going to be Asis great weapon Master
+Maybe Savage attacker than Sentinel as
+kind of your last feat but uh Sentinel
+is still just a solid feat that will go
+well in a lot of builds and if you're
+building specifically to tank and take
+aggro Sentinel is one of the only ways
+you have in the game to force enemies to
+attack specific characters or prevent
+them from attacking specific
+characters for that reason because it
+has a bunch of unique effects it's just
+very good Sharpshooter Sharpshooter does
+two things one it prevents you from
+taking a penalty um when shooting up
+from low ground which actually comes up
+a lot there's a lot of Arenas where it's
+kind of hard to get high ground on
+certain enemies Sharpshooter gives you a
+solid benefit um when shooting at those
+enemies by itself that wouldn't be
+enough but the other thing it gives you
+is it's great weapon Master for ranged
+weapons that's way better than great
+weapon Master which is already an
+excellent feat um the reason I say it's
+way better is that there's uh two things
+one it applies to ranged weapons and you
+can have two ranged weapons cuz you can
+have dual hand cross
+meaning already you can apply
+Sharpshooter more often than you can
+than you can a great weapon Master just
+cuz you can use two weapons and secondly
+um because when you're using ranged
+weapons you have the opportunity to take
+the archery fighting style which just
+gives you a flat plus two to hit with
+ranged weapons for that reason um you
+will hit much more often despite the
+minus5 penalty to attacks that you're
+taking on Sharpshooter you can more
+easily mitigate that penalty you can't
+as easily gain Advantage as great weapon
+Master users can but you are generally
+speaking going to be able to apply
+Sharpshooter as or even more often than
+you will great we weapon Master on
+weapon attacks that have lower base
+damage too so the plus 10 bonus is going
+to be a higher percentage increase to
+your damage as
+well for that reason Sharpshooter is
+just another s tier feat just an
+incredible feat um that basically
+mandatory for every ranged character
+it's going to be a huge portion of your
+damage
+Shield Master Shield Master gives you
+plus two to dexterity throws while you
+wearing a shield and uh you can use your
+reaction to basically gain evasion if an
+enemy hits you with a DEX targeting
+spell you can use your reaction to take
+only half damage from that spell if you
+fail or no damage if you succeed on the
+um spell on the saving throw combined
+with the plus two damage that means you
+can usually use your reaction to just
+not take damage from enemy dexterity
+targeting spells that being said I can't
+really think of a character that
+actually wants this um most of the
+characters that have shields are either
+like Dex based medium armor and shield
+users who are trying to get lots of AC
+and will have high Dex throw saves
+anyways or characters that have um just
+lots of hit points so they don't care
+that much if they fail a deck save or
+characters that are barbarians and
+already have functional evasion taking
+half damage from dexterity targeting
+spells Shield master I think is
+generally just not going to come up that
+often it's the least important of the
+important saves um by which I mean there
+are three important saving throws of
+which dexterity is one of them and three
+unimportant saving throws but wisdom and
+Constitution saves are much more
+important than deck saves uh so while
+it's still nice to increase your deck
+saves it's not incredible generally I
+would not say this is worth spending a
+feat on again not completely useless not
+a strict downgrade from another option
+but just a bad use of a
+feat uh skilled gives you Proficiency in
+three skills of your choice um this lets
+you get access to a bunch of skills that
+you wouldn't otherwise have access to I
+would advise very strongly against
+taking this feat but uh again
+technically it's not useless there's no
+no option you can take that would simply
+dominate this most of the time you're
+going to be better off just taking a
+level in Bard and getting the one skill
+that you actually want or taking actor
+or something like that to get um skills
+and moving your skill selection around
+at level one uh so while skilled is
+technically not completely useless the
+last three skills you get are also going
+to be the worst skills cuz you've
+presumably already picked the skills you
+actually wanted at character creation um
+and if you didn't then you should have
+uh so you you don't need to take skilled
+uh cuz the the last three proficiencies
+you get are going to be the worst
+proficiencies if you are running a like
+gimmick party or something where you're
+I don't know four monks and don't have
+access to slate of hand then skilled
+could be very useful to get um to get
+that but you can probably just grab that
+from a background
+instead spell sniper spell sniper lets
+you learn a cantrip and reduces the uh
+the number that you need to roll to get
+a critical hit with a canant trip by one
+the best canant trip to learn here is
+eldrich blast it's the best canant trip
+in the game um but the and one thing
+that spell sniper does let you do is get
+eldrich blast as a non-ch Charisma based
+skill so unlike taking a level of
+warlock if you took spell sniper on your
+cleric you would get a wisdom based
+eldrich blast which is kind of a cool
+thing to have access access to I think
+this is actually probably most useful
+for a druid who can who really has no
+good combat can trips so a wisdom based
+eldrich blast is not
+um is is actually kind of nice for them
+or if you're doing a crit based cant
+trip build uh then you could take spell
+sniper I think in general you're just
+not going to be doing stuff that spell
+sniper makes better that often though um
+while it does have some marginal uses I
+think it's just overall a pretty weak
+use of a
+feet Tavern brawler Tavern brawler gives
+you uh a plus one to your strength or
+Constitution and when you make an
+unarmed attack use an improvised weapon
+or throw a weapon or throw anything but
+throw a weapon in particular your
+strength modifi added twice to the
+damage and attack roles I've talked
+pretty extensively in my builds that use
+Tavern brawler about the concept in D
+andd of bounded accuracy and I talked a
+little bit about this when we were
+talking about Asis most characters start
+with plus five to hit stuff and gain
+plus five more to hit stuff over the
+course of their careers so at level five
+at level one you probably roll a D20
+plus 5 to make your attacks at level 12
+you probably roll a D20 plus
+approximately 10 to make your attacks
+Tavern brawler makes that a D20 plus 15
+so it doubles the amount of incre of
+improvement you get over the course of
+your career just by taking one feet
+Tavern brawler is effectively worth 11
+levels of progression to your hit chance
+and it increases your damage as well it
+also has basically no downsides because
+you can take an odd strength amount and
+then take Tavern brawler get your point
+in strength so it will let you replace
+an ASI with it almost for free it's an
+incredibly broken feat it works
+extremely differently in the tabletop
+version of the game uh laran rewrote it
+and unfortunately have written it in
+such a way that it is wildly too
+powerful for the scaling in this game
+the system just doesn't support a bonus
+that high and so Tavern brawler is the
+other of the s+ broken
+Feats tough tough gives you plus two hit
+points at every level um and so tough is
+actually worth you can think of it as
+being worth two Constitution Asis how
+often are you going to take two
+Constitution Asis or even one
+Constitution ASI not that often um and
+just it just gives you hit points uh
+doesn't give you saving throws and con
+but you know for for just to simplify it
+you can think of it as being worth
+taking four points in Constitution Four
+Points in Constitution is is a pretty
+nice bonus something that you would
+conceivably take on like a magic item um
+one of the best armors in the game is
+the Dwarven splint that just gives you
+plus two Constitution so getting extra
+hit points this is worth 24 hit points
+at level 12 24 hit points is not nothing
+um so while I wouldn't say this is a
+great use of a feat there are builds
+that could consider taking tough um
+generally you would save this for a
+third feet after you've gotten your Asis
+or if you are a build that is using like
+a lot of stat items like you have the
+Elixir and the gloves of dexterity um so
+you you can't benefit at all from Asis
+you could consider taking tough it's not
+something that I would take on a lot of
+builds and this is another one you could
+put in C tier but I think there are
+enough cases it's it's not so bad that
+you wouldn't consider taking tough under
+some
+circumstances
+warcaster warcaster is um gives you
+advantage on constit on concentration
+checks so you gain advantage on your
+Constitution saves whenever you are
+going to make a concentration check um
+you also can make a shocking grasp
+instead of a melee weapon attack as an
+opportunity attack you can basically
+ignore the opportunity attack thing
+enemies that get on top of your
+spellcasters who have War Caster are not
+going to be moving away from them
+provoking opportunity attacks or again
+if they are you're happy um and almost
+every Caster has way more important uses
+for their reaction than doing like 10
+damage so I really would advise against
+ever using this uh opportunity attack
+action even if you have access to it
+that being said advantage on
+concentration saves is really really
+powerful for a lot of builds there's
+lots of builds that want that um and
+while again you're typically going to
+want to max out your Asis first on
+Caster classes just like resilient war
+cter is a usually going to be your third
+feet on most casting builds if you get a
+third feet there's also a lot of builds
+that want want it because they
+specifically want to be concentrating on
+something often for your your characters
+that are concentrating very frequently
+you're best off using Sanctuary or
+something like that in addition to their
+concentration uh like for example the
+characters that really don't want to
+lose concentration are characters that
+want to be concentrating on haste um
+because that's the worst spell to lose
+concentration on because it stuns you
+you can Sanctuary yourself or S have an
+ally Sanctuary you uh to maintain
+concentration on haste much more easily
+um that being being said warcaster still
+just really good losing concentration on
+things sucks so not losing concentration
+on things is good compared to resilient
+which gives you plus four to your saving
+throws at level 12 um because it adds
+your proficiency modifier warter
+Advantage is usually worth about four
+and a half uh to that bonus um so it
+will typically be slightly better what
+it doesn't do is give you the extra
+point in Constitution which can matter a
+lot in under certain circumstances
+resilient for example is better for
+Druids because a lot of the wild shaped
+forms have odd con Constitution numbers
+and so the resilient gives them plus
+five to their saving throws instead of
+plus four and is thus mathematically
+better than warcaster which of these you
+take is going to depends just do you
+want an a single point in Constitution
+or not if you do you'll take resilient
+if you don't you'll take
+warcaster and weapon Master finally
+gives you plus one strength or decks and
+uh gives you proficiency with four
+weapon types of your choice once again
+just either if you want the strength
+take an ASI if you want the proficiency
+just take a class that gives you
+proficiencies weapon Master is useless
+all right so here is my tier list I
+think there's a couple changes that you
+could make I could see moving tough down
+I could actually see moving charger and
+dual wielder up a level so you know let
+me know what you think about those pull
+AR Master once it the bug is hopefully
+at some point fixed I would love to move
+this up to the great tier and so that's
+something I would definitely consider
+moving as well um but overall this I
+think is going to be a great guide to
+give you
+your uh your picks
+for um a great guide to which Feats to
+pick when you are looking to pick Feats
+all right my friends I hope that you
+have enjoyed this tier list definitely
+let me know what you would move around
+in the comments like I we saw at the
+beginning I'm open to making changes if
+people are convincing enough so you know
+fire away and thank you as always for
+watching cheers my friends and I'll
+catch you next time

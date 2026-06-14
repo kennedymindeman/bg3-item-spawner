@@ -1,0 +1,1941 @@
+hello my friends and welcome back to
+another Boulders Gate 3 character
+building guide hope you're all doing
+well today we're going to be going over
+every subass in Boulders gate in part
+two of my class tier list Series so if
+you haven't seen part one where I went
+over the classes go check that out and
+we'll be discussing in detail their
+strengths and weaknesses how they fit
+into a party how you use them in a party
+and what draws you to play that
+subass as in my last video it's worth
+mentioning that the margins between
+these tiers will be very thin every
+single class and subass in this game is
+viable you can win honor mode with any
+of these classes and so your primary
+consideration when you're picking a
+character should always be what do you
+want to play what do you think is going
+to be the most fun I'm definitely not
+here to stop you from playing what you
+want to play and you'll often see video
+guides that say this is the only way to
+play Boulders Gate 3 I'm here to tell
+you those guides are wrong every single
+one of these classes is viable and we
+have to be proceeding from the
+assumption that we are working off of a
+very strong Baseline when we're trying
+to discuss the differences between them
+so it's very important that we start
+from the assumption that these are all
+good sub classes and that will help us
+understand how to rate them when we're
+rating the differences between them in
+this video we'll be discussing these
+characters as monoc classes so 12 levels
+of this subass and how good those are
+for Honor mode specifically although of
+course all of this information can be
+used in lower difficulty settings I
+think it is worth discussing things for
+Honor mode because you can always reason
+out from the specific cases to the more
+General cases um and that's also why I
+wanted to cover the subclasses as monoc
+classes because I think it's very
+important to have a solid grounding in
+these characters before we start talking
+about multiclass characters in future
+installments I want to thank the people
+who suggested this in the comments of my
+previous video by the way I think this
+order does make more sense so I
+appreciate that suggestion and have
+taken it two other assumptions that I'm
+going to be making when raing these
+characters are one that you're not
+abusing any bugs I think that's a very
+reasonable assumption so we're going to
+be uh proceeding from the assumption
+that you are playing the game without
+any particular bug abuse and two that
+you are probably not intending to Long
+rest after every single fight so how
+long a character can keep going during a
+day will weigh into my considerations
+I'll be raing the subclasses both on
+their power level their raw power level
+they bring to the table and on their
+versatility as in how easy is it to fit
+this character into a party um how many
+different ways can you build it and how
+easy is it to uh build a party around
+maximizing its strengths and also just
+in general how easy is it to play can
+you afford to make play mistakes when
+playing these characters I think a lot
+of times people will ignore those other
+factors but I think they're very
+important to decide uh the factors of
+Versatility I think it's very important
+to pay attention to those when you're
+deciding how to build your party however
+because the subclasses have more
+restrictive roles than the base classes
+for obvious reasons I will be
+considering power level more heavily
+when rating the sub classes so we'll be
+weighing things more towards the power
+level end of the scale than the
+versatility end of the scale before I
+begin rating things I also do want to
+take a quick moment to say thank you so
+much to yams for the $2 donation Dolores
+abery for the $2 William Spencer for the
+$20 and Peter brand and Josh Hobbs for
+becoming ch members thank you so much my
+friends I really do appreciate the
+support it means a lot finally let's go
+over these tiers and what they mean so
+that we're all on the same page before
+we start I've decided to divide the sub
+classes into six different tiers um
+because there's a lot of sub classes and
+so I think that's a very useful division
+in s+ tier I have characters that are
+out of scale for the balancing in
+Dungeons and Dragons so these sub
+classes usually because laran has
+updated them from their tabletop
+versions in a way that sort of breaks
+the game balance are inherently too
+strong for this game they the abilities
+that they get break the game balance in
+a way that is probably not intended to
+fit within the normal balance of
+Dungeons and Dragons and so in Boulders
+Gate 3 these classes are too powerful
+for the normal state of game balance I'm
+going to be using the this category
+quite restrictively I believe there are
+only two sub classes that fall into it
+although I might discover more as we go
+through um but this is for ones that are
+actually out of scale with how strong a
+class or subass is supposed to be in s
+tier we have characters that are
+extremely powerful and versatile these
+are characters that both have very high
+raw power level and fit easily into any
+party they are going to give you a ton
+of value and will usually be the core
+component of any honor mode party are
+going to be some of these s tier
+subclasses in a tier we have very solid
+characters that H gain very strong
+subass benefits as well as having solid
+uh class
+and they they will give you a ton of
+value as well although usually an a tier
+character is either slightly harder to
+fit into a party in terms of Versatility
+or slightly less raw power than an S
+tier character usually they'll be S tier
+in one of the two categories but only
+but slightly weaker in the other of the
+two categories and that will put them
+into a tier in B tier we have characters
+that are typically more restrictive uh
+so they're usually only Built one way
+and generally
+will that way is not as powerful as the
+S tier um typically these are going to
+be classes that are either highly
+restrictive in sort of how they're built
+they're very greedy for items they
+require you to build your party around
+it or only add one thing to the party
+often that thing is still very good and
+I do want to again emphasize that the
+margins between these tiers are very
+thin and B tier characters are still
+great characters but they are going to
+be uh slightly more restrictive and not
+give you quite as much as the s or a
+tier characters and in C tier we have
+characters that are difficult to fit
+into a party because they they probably
+just don't pull their weight as much
+again these are still totally viable but
+often we'll need some more party support
+from a stronger character in another
+party slot in order to maximize the
+potential of this character because they
+are the inherent strengths of the subass
+just don't quite manage it and finally
+in the the final tier which I'm calling
+the outclassed tier I have subclasses
+that are fulfill exactly the same role
+as another subclass in their same class
+so they do exactly the same thing as
+another subass but worse and so they're
+sort of strictly dominated by those
+choices and there's never any reason to
+pick this subass because another subass
+just does the same thing better
+obviously other than the overriding
+reason of I think it sounds cool and I
+want to play it but from a mechanical
+standpoint these classes are just worse
+than another option Within
+class so let's begin talking about the
+subclasses beginning with Barbarian
+subclasses I should also mention I
+didn't mention this in my previous video
+but something I should mention is that
+this video format where we're talking
+about solo class characters uh single
+class characters is unfair to barbarians
+because other than Rogues they're the
+class that most benefits from
+multiclassing so barbarians are ranking
+artificially a little bit lower than
+they will when we start talking about
+these characters as part of multiclasses
+because we're talking about single class
+character characters a primary example
+of this is going to be Berserker
+Barbarian because Berserker Barbarian uh
+gets two main things and then a third
+useless class feature you get frenzy
+which allows you to make a bonus action
+attack while raging or a bonus action
+throw while raging remember the throw
+part it'll be important if you make this
+bonus action attack as an attack you
+take frenzied strain reducing your
+future Attack rules by one for the rest
+of combat and that penalty Stacks so in
+Long combat if you continue ly use this
+bonus action attack you won't be hitting
+very accurately however if you use the
+bonus action throw you don't take the
+frenzied strain penalty meaning that
+Throne weapon Berserker barbarians can
+continue to make extra attacks and
+effectively just get three attacks per
+round of combat because they get to use
+their bonus action on an attack um
+however this takes their their bonus
+action and as a solo class Barbarian you
+have no other ways of getting additional
+bonus actions or extra attacks so you'll
+reach three attacks per round but never
+ending more as a solo class character
+Throne weapon Fighters or Throne weapon
+barbarians are one of the most powerful
+strategies in Boulder's Gate because the
+tavern brawler feet is broken um that's
+another piece of slightly poor design
+that shouldn't have made it into the
+game in its current state but basically
+it doubles all of your toah hit and
+damage rolls with thrown weapons meaning
+that a Berserker Barbarian using Throne
+weapons is going to be hitting more uh
+hitting harder and more accurately than
+just about any other character in the
+game you also get Mindless Rage which
+makes you immune while raging to fear
+and charm effects allowing you to have
+get away with lower wisdom compared to
+other Marshall characters because many
+of the most debilitating fear uh
+debilitating wisdom targeting effects
+are fears or charms which you'll be
+immune to starting at level six you also
+get intimidating presence which we can
+just ignore it's it's not useful um so
+that means that a Berserker Barbarian if
+built for throwing is one of
+the most consistent and most powerful
+damage dealers in the game however we do
+have to compare them to the other main
+Throne weapon character eldrich Knights
+and they unfortunately as monoc classed
+characters do suffer a little bit in
+comparison a throwing weapon eldrich
+Knight at the similar levels is at at
+max level gets three throws per action
+and can action surge to make six throws
+in their first round of combat a thrown
+weapon Barbarian at max level gets two
+throws in their first round of combat
+because you have to spend your bonus
+action raging and then three throws
+every subsequent round of combat so you
+will just be making fewer attacks than
+your alrich knight equivalent now those
+attacks are better because you have rage
+damage which you add to them you can use
+Reckless attack to gain advantage on
+those throws if you melee attack
+something with Reckless attack and then
+make subsequent throws and the bonus
+action throws will also knock enemies
+over having a bonus action throw is also
+just really powerful in and of itself
+because you can use use it to um as it
+sort of presumably the design intent was
+to use it to throw enemies you can still
+do that you can use it to throw potions
+to your allies or bombs at your enemies
+ironically the the most common use of
+the bonus action throw that isn't just
+throwing a weapon is probably throwing a
+bottle of water to set things up for
+your allies lightning spells but that is
+a very powerful use of a bonus action
+throw so you get some utility there
+overall this character is going to be
+doing a ton of damage but when compared
+to the fighter version of the throne
+weapon character as a monoc class
+character I want to emphasize that you
+do fall behind I'm going to say it's
+still just a a very solid character so
+I'm going to put it in a tier um and in
+terms of power level it's probably uh
+right up there with all the s tier
+characters but the fact that there is
+just a better version of the throne
+weapon uh damage dealer available for
+monoc class characters as an eldrich
+Knight fighter I think does hold back
+the um Berserker Barbarian a little bit
+Wild Heart Barbarian Wild Heart
+barbarians get two main things they get
+a random effect that triggers whenever
+they rage and they get the ability to
+restore Allied spell slots so you would
+think they would work pretty well with
+Allied spellcasters however there's
+something that kind of holds them back
+from working well with Allied
+spellcasters despite being able to to
+give them new spell slots because you
+don't want to activate your wild heart
+rage while near your party one of the
+random or a couple of the random effects
+do damage to creatures around you and so
+you don't want to activate these while
+near your party which makes it actually
+more difficult for your party's
+positioning to work around field effects
+that your spellcaster allies might place
+and also you don't want to activate rage
+while trying to defend allies this isn't
+a huge consideration but it does it
+means there's some inbuilt anti- Synergy
+to the class one thing that is nice for
+wild magic Barbarian for Honor mode
+though is that there are no negative
+wild magic effects unlike wild magic
+sorcerer the wild magic Barbarian cannot
+ruin your life if you as long as you
+make sure to rage at least 20 ft away
+from your party members you will never
+have a a major negative effect happen
+and so you can always count on your wild
+magic Barbarian doing something good
+however they don't get anything that's
+particularly special compared to the
+other Barbarian effects none of the the
+random magic effects are are too or to
+compared to the other Barbarian rage
+effects uh of the random magic effects
+are wildly powerful and because they're
+random they are much much less reliable
+obviously than the the rage effects of
+the Berserker or Wild Heart barbarians
+where you know what you're getting every
+time and can plan around it the ability
+to restore spell slots is okay and does
+give you a slightly increased
+adventuring uh day but they're low-level
+spell slots and you don't get to do it
+that often so it's really not that huge
+a benefit um and overall I think that
+the wild magic Barbarian the effect
+effects are relatively minor from your
+rages you you just don't get anything
+that's going to completely win a fight
+at random and I feel like you would need
+an effect that was strong enough to just
+instantly end a fight um in order to
+justify taking random effects a lot of
+the time because not being able to plan
+around them makes your Tactical
+positioning much harder um wild magic
+Barbarian is still a barbarian which is
+still just a great thing to be you do a
+lot of damage and are very tanky but as
+a subass it does not give you anything
+that's particularly better than the
+other two classes although the ability
+to restore Allied uh Allied spell slots
+is worth taking however I think overall
+wild magic Barbarian belongs in C tier
+it is um just compared to the other two
+classes does not give you other two
+subclasses doesn't really give you
+anything that they don't and gives you a
+lot of or makes your game a little bit
+harder to play because you have to move
+your Marshall character away from your
+allies before raging every time which
+means it's harder for them to protect
+each other harder for them to play
+around Buffs and and field effects from
+your allies um and and that does
+restrict your level of play uh as a as a
+monoc class character wild magic
+Barbarian also just doesn't really get
+too much in terms of gains as you level
+up you get to restore better spell slots
+but other than that you aren't doing
+anything that it that you weren't doing
+right from the beginning of the game and
+so as you level up as a solo class
+character wild magic Barbarian doesn't
+improve that much and you definitely
+want your sub classes to keep getting
+better as you level up Wild Heart wild
+heart has five different possible modes
+and luckily they're all really good you
+can get really tanky by taking bare
+heart you can onshot enemies with eagle
+heart you can gain additional AOE damage
+and lock down with tiger heart support
+melee allies with wolf heart and gain
+additional movement with Elkheart so all
+of those are incredibly strong abilities
+um bearheart is the most usual one to
+take because having all incoming damage
+is incredibly powerful but all of them
+can fit easily into a party tiger heart
+barbarians have the distinction of
+probably being the best great weapon
+Master users in the game because their
+AOE attack allows you to apply your
+great weapon Master uh bonus damage more
+often and or to uh to more enemies at
+once which obviously is incredibly
+powerful and so as a two-handed weapon
+Fighter the the Wild Heart Barbarian is
+incredibly strong these actually I think
+are overall better at the two-handed
+fighter play style than Berserker
+barbarians because Berserker barbarians
+if they're actually attacking in mle
+with their bonus attacks um suffer from
+frenzied strain which does add up
+whereas wildart barbarians get only
+benefits and so a tiger heart Barbarian
+that's hitting two or more enemies is
+making the same number of attacks as a
+Berserker Barbarian or even more if they
+keep going um but not suffering frenzy
+strain and giving bleed to enemies and
+everything as well so in general if you
+want to make your Barbarian a melee
+two-hander and so if you're building
+sort of lore friendly carlac for example
+you're probably going to want to make a
+a wild heart Barbarian for that
+character because I think it will give
+you the easiest way to do the highest
+possible damage output with your
+two-handed weapon Wild Heart Barbarian
+just gives you a lot of things they
+continue to get good bonuses as you
+level up with their level six abilities
+also all being solid the elk aura that
+just gives your entire party plus 5 foot
+of movement speed is a great default if
+you don't want any of the others in
+particular but there's lots of different
+builds you can do with all of them um
+but you know a 5 foot move speed Aura
+for your whole party is already just a
+really nice class feature to get so all
+of the the wild hearts are really good
+you also get land stride difficult to
+Rin which means you combo really well
+with a bunch of other ground targeting
+effects like Spike growth and whatever
+so at at level eight you can be immune
+to spike growth which is very
+valuable overall Wild Heart barbarians I
+think are just the the most solid class
+in the game probably most solid subass
+in the game you will never be let down
+by them they won't usually do anything
+that's out of scale power-wise or
+massively too uh too incredibly
+spectacular but you will never be sad to
+have a wild heart Barbarian I think
+they're the very definition of an a tier
+character B subclasses so I rated B is
+an S tier character in s tier class so
+we're working off the basis of an S tier
+chassis already um but let's take a look
+at the individual sub classes starting
+with College of lore College of lore I
+have to admit there is some bias here
+because it is my favorite subclass in
+Dungeons and Dragons I've probably
+played a lore Bard for just about as
+many hours as anybody on the planet
+because I've done lard in two multi-year
+long uh tabletop campaigns and it was my
+first balers gate character that I I
+played through the game with and then I
+played it again in honor mode um so I've
+probably spent as much time playing
+lards as literally anyone on Earth uh
+lards get cutting words giving you a
+reaction that allows you to uh Reduce by
+your inspiration die enemy attacks which
+is an incredibly powerful effect you can
+think of it basically as a shield spell
+that you can cast on any of your allies
+Shield is pro is like top five spells in
+the game and have it be available to
+cast on all of your allies is of course
+incredible um as well as using the
+normal uses of baric inspiration you
+also get magical Secrets at level six so
+you get your you get additional spells
+um and you get expertise or you get
+Proficiency in three additional skills
+when you select lard so you get better
+skill access than any other character in
+the game on top of the better skill
+access than any character in the game
+that bards already got um and you get a
+shield spell that you can cast on all of
+your allies several times per day in
+addition to all of the other barred
+goodies and you get the best Spell
+access of any character in the game
+through magical Secrets getting that at
+level six means that you can take some
+of the most important and Powerful
+spells and have them through basically
+the entire uh game you you're only
+delayed one level on counter spell
+hunger of Hadar haste compared to the
+classes that actually get them and of
+course you also get all of your Bard
+spells um overall I think that their
+lore bards have basically no downsides
+they're kind of the default Bard choice
+if you're playing a spellcaster Bard
+lore bards are going to be incredible at
+what they do um you can build them for
+support you can build them for control
+casting you can have them build them for
+healing you can do all kinds of cool
+stuff with them through access to
+magical Secrets even outside of just
+getting all the best spells in the game
+through magical Secrets the most rawly
+powerful spells in the game through
+magical secrets you also can build a the
+in a ton of cool different ways and of
+course like all other BS they give you
+all the dialogue skills I think it would
+be very silly to place lore bars not in
+s tier swords bars swords bars get
+medium armor proficiency which is really
+nice on a spellcaster it just gives you
+good AC for a spellcaster and they get a
+whole bunch of weapon focused abilities
+sword bars get slashing flourishes or
+get flourishes although slashing
+flourish is the the most important one
+but they are all relevant they give you
+your inspiration die to damage on the
+attack and some bonus abilities the most
+important one for what we're going to be
+discussing is slashing flourish because
+this allows you to make two attacks and
+if with a ranged weapon it just allows
+you to attack twice with that attack
+action um each of those attacks then
+gets the additional inspiration die to
+damage so effectively swords bars get
+four attacks per action compared to
+every other character's two attacks per
+action when using a ranged weapon um obv
+they also do get extra attack like other
+Marshall characters but of course also
+get all of the full spell casting
+abilities that bards already have and so
+in addition to being one of the better
+spellcasting classes in the game just
+getting full spellcasting access they
+also get the most weapon attacks of any
+character in the game thanks to slashing
+flourish you can do this many times per
+day because at uh Bard level five your
+inspiration dice come back on a short
+rest and you get them them back they get
+a damaged steroid because you add your
+inspiration died damage and if it
+weren't enough that they just got more
+attacks and had better spells than every
+other character they also as a result
+get access to the most broken item combo
+in the game the Helm of Arcane acurity
+plus the band of the Mystic scoundrel
+because if you are making lots of weapon
+attacks you're stacking up your Arcane
+Acuity and then you can make a bonus
+action spell cast to cast a control
+spell on an on an enemy uh one of the
+control spells that's available with the
+band of the Mystic scoundrel is hold
+person because that's an enchantment
+spell and hold person then guarantees
+criticals with all your subsequent
+attacks even without that abusive combo
+though swords bars just get too much um
+they get uh great defenses because they
+get medium armor proficiency and you can
+grab Shield proficiency from your race
+so they will have some of the best AC in
+the game they get some of the best spell
+casting in the game because they're
+bards they get all the support abilities
+that bards already get they get extra
+attack and they get two extra and they
+get multiple extra attacks every single
+round with the flourish attacks even
+discounting the other flourishes which
+come up sometimes just the ability to
+make four attacks per round is frankly
+nonsense uh swords Bars were changed to
+be able to make the ranged the the
+flourishes were changed from the
+tabletop version of Swords bars they
+don't work at all at range in tabletop
+and so balers Gate 3 added the range
+flourishes um which is kind of part of
+the problem but also buffed all of the
+flourishes significantly and so you they
+have taken what should be sort of a
+minor benefit to let you be a
+swashbuckling swordsman in addition to
+being a full caster and turned it into
+basically being the best Marshall class
+and the best spellcasting class all
+rolled into one class and that's before
+even considering the broken item combos
+that this class gets to abuse better
+than any other class this class is
+simply out of scale with the intended
+game balance of the game um as an Archer
+making four attacks per round you also
+get all the damage steroid like they
+don't even uh have few fewer damage
+steroids than other Archer characters
+because the main archery damage steroid
+is Sharpshooter which you can take as a
+feat you just get as get access to it
+just like every other Archer and just
+making multiple attacks per round is the
+best way to apply Sharpshooter so you're
+just better at doing damage and better
+uh than actually dedicated damage
+classes are also a full spellcaster are
+also the tankiest character in the game
+or have some of the easiest access to
+high AC in the game um obviously this is
+an S Plus to your character and I
+personally think that it should not have
+been released in this state because it
+is out of scale with the intended
+balance of Dungeons and Dragons
+obviously it's still super fun to play
+um and and you know like that that
+matters more than balance by far but I
+think that the the way that they've
+built swords it does too many things and
+is too powerful as a
+subass Valor bbard Valor bards also get
+medium armor and shields uh and they
+also get Marshall weapon access which is
+kind of nice although BS already get
+access to rapers and most of the good
+bows so it's probably not a huge
+increase to your your damage output um
+and they get combat inspiration allowing
+an inspired Ally to add their
+inspiration die to Armor class which is
+basically the same as a cutting words or
+to damage which is kind of the same as a
+slashing as a as a sword bar flourish um
+however the difference between combat
+inspiration as a defense measure and
+cutting words is that you have to apply
+it proactively you need to choose which
+Ally is going to have the inspiration
+and then they and then they have to get
+attacked um whereas the lard gets to
+choose reactively based on which Ally
+has been attacked uh Valor BS also get
+extra attack at level six but don't have
+any damage increase the way swords BS do
+so they will be doing significantly less
+damage um and overall and the ability to
+add your combat inspiration die to
+damage is not a huge Factor there are
+probably some party comps you could do
+where you're adding that to a critical
+hit on an ally and then multiplying to
+you know if you have an ally who somehow
+guarantees a critical hit you could give
+it to an Assassin Rogue then that
+Assassin Rogue
+could uh guarantee a critical hit with
+their combat inspiration die and double
+the damage that's pretty thin though and
+swords barard already gets to double
+with slashing flourish already gets to
+apply twice their combat their
+inspiration di damage anyways uh and
+then even more if they actually critical
+hit overall Valor Bard doesn't do
+anything that sword Bard doesn't do way
+way better uh you don't get any
+spellcasting abilities that lard doesn't
+get better you don't get any combat
+abilities that swords bar doesn't get
+better overall there's no particular
+reason to take a Valor Bard obviously
+you're still a Bard and that's still a
+great thing to be so it can be a totally
+viable character if you want to role
+play or whatever reason or just feel
+dirty picking swords bar um but from a
+mechanical standpoint there's just no
+reason to take a Valor
+I will also say that the way to fix
+Valor Bard is just a Nerf swords B uh I
+I I think that Valor Bard could maybe
+use like one more ability but the real
+problem here is just that swordart does
+everything they do but better clerics
+clerics are an S tier class remember I
+rated the base class as s tier so all of
+these subclasses are starting from a
+very high bar cleric subclasses give you
+a bunch of abilities multiple abilities
+throughout your adventur throughout your
+levels but also additional Spell access
+and the Spells that you get are always
+prepared one of the best things that
+cleric domains give you is spells that
+aren't on the cleric spell list giving
+you access to additional spells and so
+one of the main strengths of these
+domains is comes from spells that you
+wouldn't normally have access to that
+are very high tier spells that are going
+to be a core part of your strategy some
+of these domains will give you spells
+that I've rated you know s tier on my
+spells to your list and that will give
+you some idea of how good it is to have
+access to those spells in addition to
+cleric's already excellent spell list
+let's begin by talking about the
+knowledge domain cleric who gets a few
+different abilities the first and or the
+most important is knowledge of the Ages
+which lets you spend your channel
+Divinity to gain Proficiency in every
+skill of a specific ability until your
+next long rest it's the same as the GIF
+Yan racial ability and this actually
+makes knowledge clerics quite versatile
+one of the things that holds clerics
+back typically is that they have very
+bad skill access you don't want to take
+uh at you you don't want to take a lot
+of attribute points in
+the in the categories that give you
+important skills mostly clerics don't
+want to build Charisma so they're not
+going to be good at dialogue skills
+usually but a knowledge cleric can take
+a a reasonable amount of Charisma you
+can just like have 12 Charisma and then
+gain Proficiency in all the dialogue
+skills and suddenly your cleric can be a
+party face if that's something that
+you're interested in or a knowledge
+cleric with decent dexterity and you're
+incentivized to give them decent
+dexterity because they're a medium armor
+character can be your lockpicking
+character just by using knowledge of the
+ages to gain Proficiency in uh deck
+skills you can also if you don't get it
+from your race gain Proficiency in
+perception just by picking wisdom skills
+with your knowledge of the ages so it
+makes knowledge clerks quite versatile
+and remember you can actually switch
+this if you need uh from dayto day if
+you need to make different skill checks
+on that day you also get a few spells
+that aren't on the cleric spell list
+most notably confusion
+telekinesis and uh slow slow is a pretty
+nice debuff to have you also get sleep
+which is not terrible to have in the
+early game but not a huge uh bonus but
+mostly these are spells that are going
+to be slightly less powerful versions of
+control spells that you already have
+getting confusion at level four is
+pretty nice because clerics don't
+otherwise have a great AOE uh control
+spell at fourth level um so or at
+seventh level at seventh character level
+fourth level spells
+but overall that spell list isn't super
+inspiring potent spell casting gives you
+additional damage on your cleric canant
+trips which is mostly irrelevant by that
+point in the game um although there's
+probably some cool builds you could do
+with it but overall what you're getting
+from knowledge cleric is just skill
+access I think that knowledge cleric not
+giving you heavy armor and just giving
+you the better skill access is nice and
+you it it's very hard to rate a cleric
+uh subass lower than a tier so I think
+this is an a tier character um just
+because clerics are already so
+inherently powerful but they
+are uh not getting a ton from knowledge
+cleric other than skill access life
+cleric life cleric gets abilities that
+are all focused around healing they get
+zero new spells from their domain list
+they get no spells that aren't on the
+cleric domain list already but they get
+a bunch of powerful healing focused
+class features firstly they get heavy
+armor which is nice because it means
+you're not competing for medium armor so
+that's always great and secondly they
+gain additional healing from all of
+their healing spells they gain an AOE
+Channel Divinity heal which lets them
+heal for three times their character
+level in an AOE and at later levels when
+they heal an ally they also heal
+themselves they also get Divine strike
+doing extra damage on melee attacks but
+they are not a melee attack in class so
+you can pretty safely ignore that in
+general what life cleric gives you is
+the ability to apply the buff on heal
+items better than any other solo class
+um they the channel Divinity lets you
+AOE apply those without spending a level
+three spell slot normally you're going
+to apply them the buff on healing items
+the blade Ward and bless um items with
+mass cure wound or mass healing word
+which takes a bonus action and hits your
+whole party and applies them life domain
+cleric can do it more times per day
+although as an action rather than a
+bonus action but also they double up on
+healing themselves and healing allies
+with all their spells meaning they're
+applying with a single action or a
+single healing word those Buffs to an
+ally and to themselves that means that
+basically all of the power budget of
+this class is built into that one item
+set or the subass is built into that one
+item set and that is a very good item
+set and a very good thing to be doing
+it's a very powerful strategy but it is
+quite one-dimensional so you don't
+necessarily need it in your party if you
+don't need a Healer obviously as a
+cleric they are still an extremely
+strong class but they suffer a little
+bit from the monoc class restriction
+because um life cleric is one of the
+best onlevel dips in the game but as a
+mono class gaining no new Spell access
+and giving you abilities that all center
+around applying the buff on healing
+items and the best way to do that is
+still just healing word which any cleric
+subass can do I think that uh life
+clerics are still an a tier character
+cuz they do give you a powerful
+Dimension to add the buff on on healing
+items of course and they're are cleric
+so there's only so uh they they're very
+strong uh and I know that this take is
+going to make people some folks mad who
+really love their life clerics and I say
+more power to you but overall as a solo
+class character life cleric does not
+give you that much compared to the other
+uh cleric domains so a tier light cleric
+light cleric gets a bunch of direct
+damage spells uh that clerics don't
+normally get so they get like fire uh
+Fireball wall of fire flame strike or
+destructive wave excuse me uh flaming
+sphere scorching just a bunch of good
+damage spells that you can add to your
+Arsenal and clerics normally do lack
+direct damage spells so like cleric
+fills a hole in the cleric spell list
+through their domain spells which is
+what you want they also get extremely
+powerful domain abilities at level one
+they get warding flare which is
+basically um you a reaction to give an
+enemy disadvantage on attacking you uh
+disadvantage on an attack against you is
+very slightly worse than a shield spell
+but overall will be about like minus
+4ish little more than minus four on most
+average enemy attacks or most AC's uh to
+the attack of an enemy meaning that you
+are going to convert a lot of hits into
+misses using Warden flare um and at
+level six they can apply it to anyone in
+the party this is basically uh the
+equivalent of lards cutting Words which
+is in my opinion one of the most
+powerful abilities in the game getting a
+shield spell that you can cast on your
+entire party based on who's getting
+attacked is incredibly powerful and of
+course that comes with all of the normal
+cleric support stuff and also at level
+two they get Radiance of the Dawn which
+is a channel Divinity action that does
+2d1 plus your character level radiant
+damage to hostile creatures only in a
+giant AOE 2d1 plus two damage at level
+two is the biggest AOE nuke in the game
+um and remains quite relevant for a long
+time of course this is also radiant
+damage so it applies radiant orb effects
+and everything which light CL or light
+clerics are as they should be the best
+at applying and that's an incredibly
+powerful strategy every single ability
+that light clerics get their spell get
+is awesome their spell list is good not
+the best domain spell list but
+definitely a nice one to have will give
+you a bunch of additional options for
+solving encounters lets your cleric play
+both just a a control caster and support
+Caster but also just a pure damage
+caster and gives you one of the most
+powerful defensive abilities in the game
+late cleric is obviously s
+tier nature clerics nature clerics get
+to pick a druid cantrip which is usually
+going to be shalele because um that will
+allow you to actually function as a
+Melee character in the early game with a
+torch plus chele you're going to be
+doing better melee damage than any other
+character at level one and so for the
+first couple levels you can be a totally
+reasonable melee combatant and the first
+like two levels are a cleric's weakest
+point in the game anyways so having that
+ability to uh to act as a reasonable
+melee combatant in the early game before
+the Marshall characters start taking
+over that that role does give you a
+little bit of an extra boost to your
+your party
+because you will have just the the
+nature cleric is going to be pulling
+their weight doing damage in the very
+early game and then you also get one of
+the best spell lists in the game in
+terms of additional Spell access you get
+Spike growth an excellent spell sleet
+storm another excellent spell uh grasp
+Vine which I now think is a very good
+spell thanks to the Buffs and adds a
+really fun extra Dimension to cleric uh
+spellcasting because clerics have a lot
+of AOE abilities that you want to keep
+people in grasping Vine can help you do
+that um but mostly it's just about
+getting uh sleep storm one of the best
+control spells in the game plant growth
+one of the best control spells in the
+game and Spike growth another top tier
+spell that also fills a ho that in the
+cleric spell list nature cleric Spell
+access is great the ability to gain
+additional or heavy armor is great
+shalele for the early game is really
+nice you also get dampen Elements which
+at level six lets you have incoming
+damage from an elemental attack which is
+very good this also Stacks with normal
+resistance so if you have a a an
+elemental resistance you can quarter
+incoming damage but the ability to have
+incoming damage from a spell that an
+ally took from like a burst damage spell
+a lightning bolt or whatever that you
+got struck by can save you a lot of HP
+the ability to to do that reactively is
+pretty nice this isn't like the best
+class feature in the game or anything
+but it will come up a few times during
+the course of your play and be very
+useful when it does anything that's
+reactive like that is always worth
+considering and just the fact that
+nature cleric gives you a bunch of
+excellent spells to add to cleric's
+already formidable arsenal of spells I
+think makes them an S tier subass
+Tempest cleric so Tempest clerics get
+probably the single best uh additional
+spell list of any of the cleric domain
+they get some of the best spells in the
+game in fog Cloud sleet storm hail storm
+or ice storm excuse me uh call lightning
+destructive wrath just a laundry list of
+a bunch of great spells added to the
+cleric spell list all of which also fill
+holes in the cleric spell list that you
+wouldn't otherwise have access to so
+just an excellent set of spells to add
+to your cleric's Arsenal um in addition
+to that they also get heavy armor and
+Marshall weapon proficiency Marshall
+weapon proficiency not that relevant but
+heavy armor of course is great to add to
+clerics and you get uh destructive wrath
+so once per Channel Divinity you can
+maximize lightning damage that you're
+dealing for the a monoc class Tempest
+cleric by default this isn't a huge Boon
+because you don't get uh lightning bolt
+you don't get chain lightning you don't
+get witch bolt or chromatic orb so
+you're not maximizing some of the the
+most damaging lightning spells in the
+game but even maximizing call lightning
+can still be really good um and of
+course you can maximize things things
+like marah hesar damage if you are going
+to put that on your Tempest cleric which
+of course if you're taking a tempest
+cleric you should probably consider
+maximizing damage is incredible
+obviously because it increases your
+damage your average damage significantly
+but also because you know exactly how
+much damage it's going to do so even
+just the ability to say I that enemy is
+at 28 hit points I will do a an exactly
+30 damage chain light or call lightning
+to them and guarantee killing them if
+they fail the save is extremely Val
+valuable and reduces the number of dice
+you have to roll the enemy of
+optimization as I'm very fond of saying
+is Randomness so anything that removes
+Randomness from the equation and Tempest
+cleric does that very well is always
+worth looking at in addition Tempest
+clerics also get the ability to use a
+reaction when something takes lightning
+damage or when uh an an enemy attacks
+you you can use your reaction to do
+damage to them um lightning or thunder
+damage and then uh at level six when you
+deal lightning or thunder damage to an
+enemy you can also push them so you can
+use your reaction to push an enemy away
+when they attack you but more
+importantly if you for example Electrify
+a field of water that will count as you
+doing lightning damage to them and the
+Thunderbolt strike that pushes enemies
+doesn't require your reaction to use it
+it just happens every time an enemy
+takes damage from them so an enemy
+running across an electrified field of
+water created by a tempest cleric is
+going to get like Ping ponged around the
+map
+it is an incred that which is an
+incredible uh
+additional crowd control effect added to
+your already excellent crowd control
+effects that you get by virtue of your
+incredible spell list from your domain
+spells and from being a cleric and your
+great class features you do also get the
+extra 1d8 Thunder damage on attacks
+again for clerics who aren't really
+melee attackers this isn't a huge deal
+but Tempest clerics both by virtue of
+their incredible spell list and by
+virtue of their incredible class
+features are of course an tier s tier
+class trickery clerics trickery clerics
+get um some spells that aren't on the
+cleric spell list the most notable one
+being fear in fact I think the only
+really notable one is fear I guess pass
+without Trace is okay uh if you're
+building a specifically a greater
+invisibility
+strategy but other than that fear is the
+only good one that they get they get Med
+they're stuck with medium armor so no
+additional proficiencies and they get
+blessing of the trickster to give an
+ally advantage on stealth checks
+basically useless cuzz it's
+concentration so you'd rather cast P
+without Trace um and invoke duplicity
+which is one of the most insulting
+abilities in the game um I love invoke
+duplicity in tabletop so I'm still
+bitter about this one by the way because
+in tabletop you can cast spells through
+your invoke duplicity creature so you
+can use it to like illusion you can use
+it to cast spells around corners also
+it's an actual illusion so enemies will
+um go after it whereas in Boulder's Gate
+they've implemented it as an action and
+concentration that cost your channel
+Divinity a twice per day resource a once
+per day resource for half the game twice
+per day resource for the other half the
+game um
+to give you advantage on uh weap give
+allies within 10et of it advantage on
+enemies within 10 feet of it so you have
+to place it next to an ally and next to
+an enemy and gain Advantage so long as
+you concentrate on it and waste your
+entire action casting the the ability
+having this ability is literally worse
+than not having it because sometimes it
+might trick you into casting it by
+accident um I think you can actually see
+this in my honor mode playthrough where
+I'm like oh here's a place where where
+trickery domains uh invoke duplicity
+might come up and then I forget that
+it's concentration cuz why is it
+concentration and break bless on the
+trickery domain and and break my
+concentration on bless by casting it um
+other than that you get no relevant
+ability at all so basically trickery
+domain the only thing that it gives you
+is fear in addition to the other uh
+other than just being a default cleric
+the only relevant thing that it gives
+you is the spell fear that is something
+that is useful but overall um many of
+the other cleric subclasses provide AOE
+control spells and fear is not better
+enough than sleep storm or whatever to
+to make me judge it as being worth
+taking over those things so anything
+that your trickery cleric is going to be
+doing uh another cleric subass would
+simply do better war clerics war clerics
+are most often seen as a one-level dip
+but I think the subass actually gives
+you quite a lot if you take multiple
+levels in it so we're going to talk
+about it as of course as a solo class
+and uh what it actually gives you the
+spell list is nothing special it gives
+you a few things that aren't normally on
+the um not aren't normally on the cleric
+spell list but the most notable one of
+those is Crusader mantle if you're doing
+specifically a mass summoning build um
+you can use Crusaders mantle to give
+your summons additional damage other
+than that you just don't get anything
+that's particularly good uh you get a
+lot of low tier spells however you get
+additional attacks a few times per day
+um which you can make as a bonus action
+and you get the ability to add 10 to
+your attack roll uh as a as a reaction
+once per Channel division charge and
+then at level six you can add 10 to an
+ally attack Ro once per reaction now uh
+adding 10 to an ally attack rle is a
+massive bonus the the ability to turn a
+Miss into a hit is incredible your War
+cleric probably won't be hitting that
+often to be honest even with the
+additional at at max level you get five
+additional War Char uh bonus action
+attacks per day you're still just going
+to be primarily a spellcaster but but um
+the ability to turn a Miss into a hit
+for an ally is a really nice ability
+that being said the war cleric doesn't
+buff itself that much the the actual War
+cleric attacks are not terribly useful
+for a monoc class cleric they're
+incredibly useful for multiclass builds
+of course um but your monocl class
+cleric is just not going to keep up in
+damage in in in as a war cleric uh
+version of the build compared to any
+class with extra attack like a real
+extra attack feature um but the ability
+to turn misses into hits for allies is
+really strong even only a couple times
+per day um overall I think this is still
+just an a tier class getting heavy armor
+marshallon weapons is really nice uh
+getting the ability
+to turn misses into hits is really good
+but other than that you're not getting
+anything super special from this
+character uh in terms of spell list
+access or anything like that still just
+a great cleric subass and an a tier
+class in general Druid so I rated Druid
+as a an a tier character on my previous
+class list although I do think that
+they're probably near the top end of a
+tier on that list I guess also one good
+way to think about the list here is that
+a a class with no subclass abilities
+would probably show up on this list at
+one tier lower than where most of the
+subclasses are showing up so a druid on
+this list would probably with no subass
+abilities at all would probably show up
+in BT or a barbarian on on this list
+with no subclass abilities at all would
+probably show up in C tier so that'll
+give you some idea of sort of how the
+tiers translate from one list to another
+I probably should have mentioned that in
+the intro but I just kind of thought of
+uh it as we as I was going through that
+that is how those tiers have kind of
+shaken out to be for Druid sub classes
+they actually Druids are really
+interesting because I think they have
+three extremely powerful and viable
+subclasses like they're all just good
+subclasses overall um and they are also
+one of the classes that has the most
+distinct place Styles between their
+three subclasses so each of those is
+really interesting to rate as a class in
+and of itself land Druid which we're of
+course going to start with is the spell
+casting Droid you get a lot of
+additional Spell access and you can
+choose your Spell access based on what
+your party needs by picking different
+circles um you also get additional uh
+natural recovery charges which give you
+additional spells per day so that it
+slightly increases your longevity in
+terms of uh of number of spells that you
+can cast per day and you gain additional
+Spell access based on what circles you
+pick you also get immunity to difficult
+terrain and later on immunity to poison
+um which is a poison and disease which
+is pretty relevant because a lot of your
+spells can create poison and disease
+which you're then immune to you can
+stand in your own cloud kill safely
+while enemies have to stand in the cloud
+kill to to get to you that's a very
+relevant class ability the Spell access
+that you get from the circles of the
+land Circle are some of the best spells
+in the game particularly at low levels
+you get things like Misty step haste or
+hypnotic pattern um just some of the
+best possible spells in the game to have
+additional access to they the selection
+gets a little weaker as you level up but
+that's also when Druid spells are at
+their strongest Druids have some of the
+better fourth and fifth level spells in
+the game so not getting as good spells
+with your level seven and level 9 Circle
+selection doesn't matter as much to you
+as it would to another character because
+you you're spells are so good already
+and the land Druid spells can fill holes
+in your spell list earlier on by giving
+you uh haste you know powerful Buffs
+like haste or Misty step which gives you
+a lot of Mobility land Druid doesn't get
+anything regarding wild shapes so you
+just have the default Druid wild shapes
+but you're probably going to be spending
+some of your time in humanoid form
+because you're going to be casting a lot
+of spells that being said that does
+conflict a little with the core play
+style of Druid which is usually to cast
+a concentration spell a powerful
+concentration spell and then swap to
+Wild shape so landroid will often have a
+slightly awkward set of turns because
+you want to be using the powerful Spell
+access that you get there's a lot of
+really cool builds you can do with
+landroid as a monoc class uh character I
+think that they do fall off a little bit
+in the late game because their their
+Spell access is uh somewhat does get a
+little bit worse compared to some other
+characters although of course Druid base
+spells are really good I think they're
+just a very solid a tier character class
+just a just a great class to be um by
+default I think if you want a druid just
+play a a landid because it's the sort of
+most spellcast if you want a
+spellcasting druid just play a landid
+it's the most spellcasting Druid and
+you'll be able to fill any holes that
+you want to fill in your party by taking
+the correct spells from your circles
+Moon Druid Moon Druids get a bunch of
+additional wild shaped forms and they
+get the ability to Wild shape as a bonus
+action you can also spend your spell
+slots to heal while in Wild shape that's
+not really that important usually
+because um healing in combat is
+typically not relevant uh you can heal
+more efficiently by not wasting your
+spell slots and you'll often want to be
+exiting wild shape before entering a a
+combat anyways so you can cast one of
+your powerful concentration spells and
+then re-enter wild shape later on be the
+ability to Wild shape as a bonus action
+is of course incredibly good for this
+because it means that you can cast one
+of your spells and then wild shape in
+the same turn at the start of combat so
+you're not wasting a whole turn entering
+wild shape the way the other Druid forms
+would be if they wanted to use the same
+play pattern they also get a bunch of
+really good additional wild shape
+options um
+the the saber-tooth tiger is very good
+and the meridon are excellent at later
+levels you'll often still want to be an
+owl bear in the uh mid game but the
+meridon even though they cost two wild
+shaped charges do tons of damage as an
+earth meridon you can still benefit from
+Tavern brawler and although I believe
+this is bugged they do uh way more
+damage than it says on the tool pit tool
+tip um wild shaped droods of course also
+make use of Tavern brawler which is one
+of the most broken mechanics in the game
+uh because all of your wild shape form
+attacks except for the the non-earth
+mermad on count as unarmed attacks and
+now benefit fully from Tavern brawler as
+of patch six gaining both double to hit
+and double to damage um you can use an
+elixir of strength and still benefit
+from the full benefits of that while in
+Wild shape meaning you can use any wild
+shape form with the tavern brawler so it
+is just an incredibly powerful melee
+combatant does lots of damage as well as
+just having all of the druid's normal
+Spell access however the one thing that
+Moon Druid will suffer from is not
+having the burst damage that other
+dedicated melee damage dealers do so in
+the late game you are going to fall
+behind say an action surging fighter or
+a paladin Smite um in terms of burst
+damage and this game is heavily tilted
+towards burst damage so wild shape Moon
+Druid and moon Druids wild shape forms
+great sustained damage I don't know why
+that was so hard to say but bear with me
+uh matters a little less than you might
+think because they don't have access to
+the same incredible burst damage as more
+dedicated burst damage dealers that
+being said they're still just uh an
+incredibly powerful class you get to use
+the druid's core play pattern as well as
+anybody by casting a spell at entering
+wild shape and then in subsequent turns
+just attacking with your wild shape
+forms uh you get to abuse one of the
+most broken mechanics in the game in the
+form of Tavern brawler you get all of
+the summons and everything that Druids
+normally get I believe that Moon Druid
+is an S tier
+subass spor Druid spor Druid is I think
+one of the subclasses that changes the
+play pattern of the character the most
+so a Spore Druid plays out differently
+from the other two more differently from
+the other two Druids than any other
+subass plays from the other subclasses
+in its uh class spor droids get a number
+of different things but the most
+important one or sort of the core
+component of the subass is that you can
+use your wild shape charges to activate
+symbiotic entity which gives you four
+temporary hit points per Druid level so
+at max level that's going to be 48
+temporary hit points and while those
+temporary hit points are active you doal
+deal an extra D6 damage with all of your
+attacks you also get a reaction damaging
+effect that allows you to use your
+reaction proactively which is the only
+way in the game to use your reaction
+proactively at least as a class ability
+um to do a little bit of additional
+damage uh which is not irrelevant it
+just increases the damage output of your
+character significantly however for a
+character that's focused on dealing
+attack damage you don't get extra attack
+so you are not going to be dealing as a
+solo class for Druid you will not be
+dealing as much damage as a dedicated
+melee damage dealer and typically you're
+going to want to have high wisdom
+anyways rather than high dexterity or
+high strength because you are going to
+to make those attacks because you want
+to actually land your spells you're
+still primarily going to be a
+spellcaster you can mitigate that
+somewhat with items but in general Spore
+Druids bring some multi-attribute
+dependency back into Druids who
+otherwise are basically attribute
+independent since they'll use their wild
+shaped forms attributes rather than
+their humanoid forms attributes spor
+Druids need to actually have good
+attributes and so compete uh one of the
+major advantages of Druids that they
+don't really compete for items with the
+rest of your party is negated by having
+a spor druid that being said what you
+get for spor Druid is pretty good you
+get a lot of damage you get a lot of
+temporary hit points you also get bone
+chill is a cantrip at level two which I
+think is actually a pretty major boost
+to the class one of druid's major
+weaknesses is that they don't have
+access to a good 60 foot range cantrip
+bone chill is one of the best ones I
+rated at s tier in my um or a tier I
+think in my cantrips tier list um top
+tier anyways one of the the top three
+cantrips in the game alongside Elder
+blast and Ray of frost and it will give
+you a great option that actually Smooths
+out your play patterns a lot because
+you're going to be spending a lot of
+time in humanoid form having a good can
+trip makes the game a lot easier to play
+um and SPID gets that you might seem you
+might be a little surprised that I'm
+spending so much time talking about the
+one cantrip access but I actually think
+it Smooths out your game in Play
+significantly and so actually will
+impact your play much more than you
+think it will just to have a great
+cantrip available to a druid where that
+is one of the main weaknesses of the
+character you also of course get uh
+Spore zombies and get animate dead as a
+bonus spell so you get to have a whole
+bunch of skeletons and zombies running
+around and can make a gigantic Army if
+you are building around a summons build
+of course adding a whole bunch of extra
+summons to the mix is great if you can
+get additional Buffs on your summons
+it's awesome um and you get an AOE
+damaging spell at level 10 that actually
+does okay damage because it's it's kind
+of for free you can set it up before
+combat starts but not worth usually
+spending an action on if you don't set
+it up before combat starts
+um so I wouldn't I wouldn't consider to
+be a huge bonus but it's definitely
+relevant to have a little bit of extra
+AOE damage available when you're
+stacking up AOE damage on top of a cced
+enemy overall spor Druid gives you uh
+some access to some okay additional
+spells um access to a decent Defensive
+class feature although as a defensive
+class feature it's worse than just wild
+shaping you get more hit points out of
+wild shaping uh but also just gives you
+your own personal Army which is of
+course incredibly strong
+I think that for most play with Druids
+you're better off just going for one of
+the other two Druid classes if you want
+to play a spellcasting focus Druid you
+should just play a land Druid if you
+want to play uh a wild shape Focus Druid
+you should play a moon Druid but spor
+Druid has its own unique and Powerful
+play style um if you can stand microing
+around all the summons it's of course
+incredibly powerful uh but it does
+suffer a little bit from being monoc
+classed because you can't easily get
+bonus attacks which is one of the best
+ways to use the symbi IC entity bonus
+damage which is one of the core features
+of spor Druid as a monoc class class I
+think spor Druid is an a tier character
+just an Inc an excellent character that
+will do very well in any party but not
+quite on the level of the S tier uh
+classes uh above
+it Fighters so I rated fighter a tier in
+my classes tier list but I will say
+before we go into raing the individual
+subclasses that the classes tier list
+was more heavily tilted towards
+versatility which is one of the things
+that Fighters excel at and this one is a
+little more heavily tilted towards power
+level so you might see Fighters place a
+little bit differently um than than they
+place in the Raw class tier list we'll
+start with Battlemaster fighter which
+gets a whole bunch of Maneuvers so you
+get four combat superiority dice going
+up to five at level seven but you never
+get more than five and they recharge on
+short or long rest and allow you to make
+attack Maneuvers these Maneuvers include
+making your attacks more likely to land
+tripping enemies pushing enemies causing
+enemies to stand still um which is very
+powerful for a ranged version of this
+build uh and various other effects but
+those are sort of the main ones if you
+look at any of my Battlemaster build
+guides you'll see which of the Maneuvers
+I think are good the those abilities are
+very powerful because you they are used
+as weapon attack actions so you can do
+multiple of them in a turn um as if you
+have more more than one attack in a turn
+which as a fighter you will have more
+than one attack in a turn and they add
+your superiority died to damage so they
+let you do powerful control effects
+while also doing as much damage as you
+were going to do with a normal weapon
+attack that's a very powerful effect but
+it does burn through resources pretty
+quickly with only five superiority dice
+at max level if you use them at uh at
+the maximum rate that you could you
+would be using your superiority dice up
+in a single turn of combat if you use
+prec attack plus another maneuver and
+you're you'll often want to use
+Precision attack plus another maneuver
+on most of your attacks then in a single
+round of combat a single action making
+three fighter attacks you've used all of
+your superiority dice for that short
+rest that makes Battle Masters very
+greedy for resources so while the
+effects are extremely strong a
+Battlemaster fighter is going to um eat
+through their resources very quickly and
+be relying on just the the P the base
+power of the fighter
+class that said those effects are very
+good and battl master Fighters just
+being Fighters getting action surge
+getting three attacks per round is
+really solid and just lets them do lots
+and lots of damage you can just build
+your Battle Master fighter as a normal
+damage character and ignore the
+Maneuvers and they'll do great just the
+fact that they get three attacks per
+round is super powerful and in a monoc
+class setup is more than enough just to
+make them an a tier class the Maneuvers
+are also excellent don't get me wrong
+but it will into your party longevity um
+but they're just Battle Master is just a
+great class I think that battl Master
+alongside wildart Barbarian is the
+standard of balance around which balers
+Gate 3 should be balanced the the
+default balancing for those two classes
+is I think basically perfect and they
+will be a great addition to any honor
+mode party and will help you go through
+um the game very easily while not wildly
+overpowering everything that is put in
+front of
+you Champion so Champion basically gets
+three class features um they get
+technically four but one of them does
+almost literally nothing uh they get
+improved critical hit giving them an
+additional crit threshold of one so
+they're 5% more likely per attack to
+critically hit slightly more if you have
+advantage and they get a 10- foot bonus
+at level seven they get an additional
+10t distance to their jump distance
+which is not irrelevant it makes you a
+little more Mobile in combat comat um
+and they also get to add basically half
+their proficiency uh so bars jack of all
+trades but only for strength decks and
+con checks um so skill skill checks and
+that is a tiny bonus that doesn't do
+anything because your fighter is
+guaranteed to be already proficient in
+athletics and you're not having them
+roll stealth checks or open locks
+anyways so getting half Proficiency in
+those skills is completely useless and
+then uh also they get an additional
+fighting stock at level 10 fighting
+style is a nice little bonus it's plus
+one AC or a little bit of extra damage
+dice something like that um but of
+course any any fighting style that's
+core to your character you'll have taken
+at level one when you took your first
+fighter level so this is only going to
+be a tiny little numerical bonus usually
+plus one AC to do understand whether
+Champion fighter is good or not we have
+to do some math around improved Critical
+Hits so an improved critical hit U makes
+you 5% more likely per attack to do a
+critical hit Critical Hits double the
+damage dice that your weapon attacks do
+and so basically improved critical hit
+is worth 5% of your base damage dice per
+attack you can increase it a little bit
+cuz sometimes you'll have Advantage
+although with no inbuilt way to gain
+advantage on this character you won't be
+triggering it as easily unless you're
+using like the risky ring or something
+like that but um with no inbuilt way to
+gain advantage on Fighters you are most
+of the time just increasing your damage
+dice by 5% a typical setup might be say
+a great sword for 2d6 damage or average
+of seven plus gloves for 2 D4 or for a
+D4 that'll give you another two and a
+half and then let's say you get a a D6
+from another item and then your weapon
+has a couple extra dice on top of it
+another D6 on top of that so let's say
+that you're doing I don't know four D6
+plus 2 D4 damage um that seems
+reasonably Fair that's a that would be a
+relatively High setup for for base
+damage dice um just for weapon attack
+but seems fair to look at for that um
+and we're going to say so that's uh 19
+base damage from damage dice 5% of 19 is
+less than one damage per attack that
+you're getting from your class feature
+compare that to what battl Masters get
+where they are just adding a d8 to uh
+attacks as they go and you need to make
+a lot of attacks before you catch up to
+a battle Master's damage based on the
+improved critical hit class feature you
+probably need to make something like 20
+attacks before you even catch up and
+you're not getting any of the other
+bonus effects um the numbers on this
+class feature just don't work out it's a
+very small amount of additional damage
+that you are getting from it especially
+as a monoc class character but we'll
+talk about them for multiclass builds
+later on um the additional critical hit
+threshold is just not uh going to add up
+to enough damage over the course of the
+game to justify taking this class and
+there's no reason you would ever take
+this class over Battlemaster which just
+gets more damage and has the CC effects
+and everything as well um giving you a
+bunch of additional combat options
+Champion is just outclassed by the other
+two fighter classes because the numbers
+just don't add up for it in order to fix
+champion and I kind of want to do a like
+how would I fix these outclass
+subclasses uh section for each of these
+um in order to fix Champion I think it
+just needs like two more abilities um
+either an something like barbarians
+brutal critical to go with the improved
+critical hit bonus or more likely just
+some kind of rer effect on its attacks
+like you could add an extra D6 to your
+as a Capstone ability you could add an
+extra D6 to all your attacks which would
+be kind of cool like it would multiply
+with the critical hit section and it
+would bring its damage more in line with
+the other fighter sub classes that's
+just speculation though obviously I'm
+not a Dun of dragons designer but that's
+where I would start if I was going to
+fix this class as it stands I don't
+recommend taking it unless you think the
+the concept sounds cool although why
+would you it's by far the most boring
+fighter class um because the numbers
+just don't add up to the other
+subclasses eldrich Knight um so eldrich
+Knight I think is a very misunderstood
+class because it's presented as the as a
+class that you're supposed to do a
+combination of weapon attacks and spell
+casts with you get evocation spells on
+it so you can like theoretically do
+damage with evocation spells but of of
+course as a marshall character your your
+save DCS will not be good so you're not
+going to be doing damage with the the
+evocation spells regularly because
+enemies will be making their saves and
+um you are always going to just do more
+damage just by attacking in fact one of
+their main class features
+the uh War magic class feature which
+lets you make a weapon attack as a bonus
+action after casting a krip will almost
+always in almost 100% of the time de
+increase your damage output if you
+activate this class feature you should
+never cast an aggressive cantrip with
+with eldrich Knight CU you have a a
+weapon you can just hit things with your
+weapon for way more damage than you
+would be doing using War magic War magic
+does have a use with blade Ward because
+it lets you cast bade Ward while still
+outputting damage which is a a pretty
+useful ability but in general eldrich
+Knight I think is misunderstood and
+often misplayed because people try to
+take control spells or damage spells and
+then run into the fact that you just
+have low save DCS on the character
+when really what eldrich Knight is for
+is just being a a base class fighter
+which is a very good thing to be doing
+lots of weapon damage and getting some
+of the best utility spells in the game
+to fill out the character you also get
+two major like Berserker Barbarian or
+the other uh class that as a monoc class
+benefits most or is most drawn towards
+throwing weapons and so we can't
+evaluate the subass without talking
+about Tavern brawler throwing weapons
+and how broken those are in general if
+you're playing a monoc class build
+eldrich Knight is the way to go for
+Tavern brawler thrower because you get
+more attacks per round than the
+Berserker version of The Tavern brawler
+thrower and that's just going to be an
+incredible amount of damage output and
+in fact if you are new to honor mode I
+think that an eldrich Knight Tavern
+brawler thrower like the build that I
+posted called the consistent killer um
+is the most reliable way to win honor
+mode you will have the by far the
+easiest path through honor mode using
+that build of basically any other class
+the reason for this is that eldrich
+Knight gets all of the great defensive
+and utility spells available to other
+classes while being a top tier damage
+output character and of course because
+you're you can be a throne weapon
+character using any Throne weapon you
+can do massive damage based on Tavern
+brawler you can also just build them as
+a normal great weapon fighter or just
+any other normal fighter but you get the
+addition of Shield at level one Misty
+step later on um and a bunch of other
+awesome utility spells these spells
+together make your character very very
+hard to kill just being a a heavy armor
+character with the shield spell means
+that you are regularly going to have AC
+near 30 making you basically impossible
+to hit for most enemies and so you can
+mess up a lot you can you can afford to
+make a lot of mistakes without your
+eldrich knight getting into trouble the
+combination of that um and the fact that
+you also are a natural character for one
+of the most broken uh mechanics in the
+game The Throne weapon uh Tavern brawler
+fighter uh combined with the fact that I
+think this is the easiest character to
+play it through honor mode with or one
+you know it to have in your party for
+Honor mode means that I'm going to put
+eldrich Knight in s tier uh but with the
+caveat that you don't actually use its
+abilities the way the the design of the
+class seems to intend you to use them
+just use it as a normal fighter that
+gets a bunch of extra utility spells
+added on and use it as a throne weapon
+fighter and that will basically just
+being a fighter with Shield makes this
+character so smooth and easy to play I
+think it will take you through the game
+very
+easily all right my friends we all saw
+this coming I have now talked for well
+over an hour about these subclasses and
+I really do want to keep these videos
+from going too long so I'm going to make
+the cut here and we will resume later um
+one of the things that I think is really
+cool about what we're seeing so far is
+that you can see party comps shaping up
+pretty easily for example if you were to
+build a monocl party uh I think that a a
+lard a light cleric a moon Druid and an
+eldrich Knight um just picking from the
+S tier classes would be a solid monoc
+Class party that would have a lot of
+ability to defend each other good
+variety of skills great damage output
+great control um very safe play patterns
+because you have lots of extra HP from
+the Mund Druid and shield plus cutting
+words and and so on uh and so I think
+that it's kind of neat that you can see
+those uh resolving as we go through
+these classes as always of course if you
+think that there's something that I
+should move around don't hesitate to let
+me know in the comments I definitely
+have made adjustments based on people's
+feedback in the past and so I am very
+open to doing so in the future if
+there's something you think if there's a
+a subass you think should be moved
+around I'm also looking forward to
+seeing if we get more use out of B and C
+tiers I was actually expecting a few
+more classes to go into those when I
+started going through this um but I
+think that this speaks really well so
+far of the the balance of the sub
+classes in Boulders Gate 3 I think
+everything being around a or S tier is
+what you want and it looks like that's
+where most uh classes are going to fall
+all right my friends hope you've enjoyed
+the video and of course as always if you
+have feel free to leave a comment uh and
+like the video both of those things help
+a ton with the algorithm and you can
+subscribe to my channel for more of this
+and other strategy game content and if
+you'd like to support me and my channel
+further uh you can of course feel free
+to do so by becoming a channel member or
+making a donation with the buttons below
+the video I do appreciate those very
+much and thank everyone who has chosen
+to do so cheers my friends I'll catch
+you next time

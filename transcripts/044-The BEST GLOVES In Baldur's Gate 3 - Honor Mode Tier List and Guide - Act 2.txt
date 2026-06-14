@@ -1,0 +1,1110 @@
+hello my friends and welcome back to
+another balers Gate 3 tier listing guide
+hope you're all doing well today in my
+ongoing series covering balers gate
+itemization we're talking about gloves
+specifically act two gloves in part one
+of this video we covered all of the
+gloves in Act One how powerful they are
+and which characters they're good for
+whether you should pick them up at all
+or leave them behind and in part two
+we're going to cover all the gloves in
+Act 2 there's kind of a fun irony to
+this video because since it's the middle
+part of a three part series I expect it
+to get the least views of the gloves
+videos but this is actually probably the
+most important so if you're watching
+this one you should know that you're
+very smart the reason for this is that
+itemization decisions are most impactful
+in general in act two in act one you
+often don't have a lot of choices so
+you're just making the best of what you
+have available and aren't making a lot
+of complicated decisions and by act
+three your party is so powerful that the
+impact of individual items has been
+reduced uh drastically because the
+overall power level of your party is so
+high act two is where items really shine
+and making sure that you have the best
+ones is going to be the most important
+for your success or failure and since
+gloves are the most impactful item slot
+in general I think this is uh perhaps
+the most important video in this entire
+series I've already covered the
+definitions of the tiar and how we're
+rating the items in part one so let's
+just just get right into it and start
+with the brain drain gloves The Brain
+Drain gloves give you whenever you
+inflict psychic damage you also inflict
+two turns of mental fatigue mental
+fatigue is a condition that gives
+enemies minus one to their mental saving
+throws so intelligence wisdom and
+Charisma per turn remaining so when you
+hit an enemy with psychic damage the
+first time they take a minus two penalty
+to their mental saves when you hit them
+again they have a minus four penalty if
+they fail a save while they have five or
+more Stacks they lose lose the effect so
+you can't just stack this indefinitely
+but basically this reads attack an enemy
+a couple times and your next spell
+targeting one of those saves is
+guaranteed to hit it's kind of a poor
+man's Arcane Acuity if you can do
+psychic damage regularly luckily in the
+game there is an extremely easy way to
+do psychic damage regularly which is to
+take the elid power uh that allows you
+to do psychic damage with all of your
+attacks um when you have this on for
+example a swords bar you can use the
+brain drain gloves to stack mental
+acuity with your physical attacks and
+then cast something like hold person
+targeting their wisdom saves effectively
+guaranteeing that enemies fail the save
+this is still worse than Arcane Acuity
+because rather than giving you a bonus
+to all of your spells it only works
+against the thing you actually hit with
+psychic damage so you can't attack one
+character and then cast a spell on a
+different character with the saving
+throw bonus like you can with with
+Arcane Acuity but it's still an
+extremely powerful effect to reduce
+enemy saving throws and be able to land
+your spells more easily most of the time
+characters that can easily take
+advantage of this like say a swords SP
+or um a blade warlock or something along
+those lines will have other gloves that
+they prefer more like the Daredevil
+gloves dexterity gloves gloves of
+archery and so on uh but for characters
+that maybe don't have great access to
+Arcane acuity stacking and still want to
+land uh hold person and have elited
+powers The Brain Drain gloves are
+actually an interesting item I'm going
+to put them in B tier because this is a
+powerful effect and if you're playing a
+run where like Arcane Acuity is banned
+for example then the brain drain gloves
+can definitely do a solid impression of
+an Arcane Acuity item uh but in general
+for this effect you're going to have
+more powerful options
+available the cinder snap gloves the
+cinder snap gloves have no passive
+effect when worn but let you once per
+short rest cast protection from missiles
+protection from missiles is a
+concentration spell that makes Arrow
+attacks ranged weapon attacks against
+you have disadvantage and do half damage
+so basically makes you immune to archers
+for the 10 turn duration of the spell
+once for short rest that's not bad the
+character who's wearing these will be
+completely immune to archery more or
+less and so if you have a character who
+is getting uh just obliterated by ranged
+attackers in every combat the cinder
+snap gloves could reasonably patch that
+problem now typically you're going to
+want to avoid having that problem in the
+first place by engaging or taking out
+archers before they actually get to
+shoot or by having your characters have
+high enough AC that you don't need this
+effect but if it's happening to you this
+is definitely a Band-Aid that you can
+put over that problem um and it comes
+early enough in the game that there are
+still uh a lot of fights so unlike the
+other source of protection from missiles
+the cinder snap gloves will come early
+enough in the game that you will get a
+lot of use out of these do I recommend
+using these no not really this is a
+purely defensive option and typically
+especially in the glove slot you're
+going to be better off with things that
+buff your offense than your defense um
+but the cinder snap gloves are a
+reasonably powerful effect for a
+character that really needs them I'm
+going to put them in C tier uh but I
+will say that these are one to keep an
+eye on for if you are having one
+character specifically just get pin
+cushioned over and over again and you
+can definitely swap them in for combats
+with a lot of archers there's also a
+couple things that you can do with the
+cinder snap gloves uh in particular for
+example if you have a powerful archer in
+your party and you're doing the mirror
+fight then you can use the cinder snap
+gloves to make one character immune to
+that uh character's attacks overall
+though in general you're going to be
+better off with more offensively
+oriented gloves but these at least do
+have some things going for them the dark
+justicier gauntlets the the DJ gauntlets
+which is what I'm going to call them
+just to speed things up uh give you plus
+one to your St strength saving throws
+which of course we can ignore just like
+we can for most of the other gloves that
+give that effect and also 1 D4 necrotic
+damage um on every one of your weapon
+attacks DJ Gauntlet is also of course my
+other Alter Ego as a Scandinavian pop
+punk
+artist plus 1 D4 necrotic damage on all
+of your weapon attacks is obviously
+excellent any character that's making
+weapon taxs can benefit from this and
+while it doesn't sound like a
+significant bonus 1 D4 is only 2 and 1
+half on average remember that this
+applies to every weapon attack you make
+so it gets multiplied if you're making
+more than one weapon attack in a round
+and because it's rolling a die it gets
+doubled on a critical hit so if you are
+uh critically hitting and if you're
+making a lot of weapon attacks in a
+round to maximize the effect of this
+item you are probably critically hitting
+uh pretty frequently if you have bonuses
+to your crit chance or Advantage you
+crit more often the amount of damage
+that you get from this item actually
+ends up being quite significant on
+average it's also worth noting that on
+uh difficulty levels below honor mode
+these damage Rider items often come with
+bugs which let you get way more damage
+than you're supposed to out of them
+because sometimes they will trigger
+multiple times when you have uh things
+that add damage to your attacks like
+Tavern brawler will trigger this over
+again or the tavern ball brawler bonus
+damage will trigger off the D4 in
+addition to your normal damage uh that
+kind of thing obviously not for this one
+cuz it's a weapon attack but um you can
+often end up with way more damage than
+is intended uh from these bonus damage
+items because of the damage Rider bugs
+that they didn't fix until they released
+honor
+mode uh the DJ gauntlets are obviously
+an incredibly powerful item for any
+character that makes weapon attacks
+there's only two things holding them
+back though one is that they do necrotic
+damage which is one of the worst types
+of damage to do in Boulders gate because
+uh especially in act two because so many
+enemies are resistant or immune to it uh
+and the second is that you get them
+later on in act two so it's possible
+that you already have a set of gauntlets
+that gives you this effect already the
+flawed hell dust gloves depending on
+exactly what route you take through the
+game nevertheless the likelihood that
+your party has two characters that want
+to do bonus damage on weapon attack is
+pretty high uh so the dark justi your
+gauntlets are are quite possible to make
+their way into your party even if you
+already have this effect on another item
+like the flawed hell dust gloves um and
+of course there's a lot of routes you
+can take through the game where you
+don't get access to the flawed hust
+gloves at all or not yet so the dark
+justi here gauntlets are just going to
+be excellent increasing your damage on
+weapon attacks is exactly what we want
+the glove slot to do this is um kind of
+the highest calling for this weapon slot
+or for this item slot because this is
+the offensive item slot so doing more
+damage is exactly what we want from it s
+tier the rare DJ gauntlets these are an
+upgraded version of the dark justicier
+gauntlets that you get for making a
+certain story choice and they do
+effectively The Identical thing giving
+you plus one D4 to your necrotic damage
+to your weapon attacks and an additional
+one to your strength save but they also
+let you cast the beckoning Darkness
+spell uh at will or rather once per turn
+um as a bonus action you can cause an
+enemy to make a dc-14 Charisma save or
+they take 2 d8 necrotic damage um if
+they enter or start their turn in
+darkness they'll take the damage
+immediately if you cast this on them
+when they're already in darkness so
+basically this is a bonus action for a
+relatively low saf DC but a decent
+amount of additional damage 2date
+necrotic damage uh as a bonus action is
+not at all embarrassing um and you might
+even get more than that if the enemy
+then continues to uh stand in in a
+darkened area this works for any
+obscured or lightly obscured area so
+it's going to go off basically all over
+the place and of course this is free in
+addition to what's already a very
+powerful effect from uh the normal dark
+justi ear gauntlets so obviously these
+are going to be S tier because they're
+an upgraded version of an S tier item
+that you uh get more or less around the
+same time and uh the beckoning dark n
+effect in addition to being completely
+free on top of a very good item is
+actually pretty powerful for just doing
+a little bit of additional damage bonus
+actions to do damage are always good so
+getting that uh on this if on this on
+these gloves is going to be pretty solid
+even if enemies pass their saving throw
+which they which will happen less often
+than you might think because it targets
+Charisma and a lot of enemies have very
+low Charisma um then it's still
+effectively free because it just costs
+you your bonus action and doesn't have a
+cooldown so you can use this any turn
+you don't have a good use for your bonus
+action very powerful item and very
+powerful option s tier the flawed hell
+dusk gloves the flawed hell dusk gloves
+are available early in Act 2 and give
+you an additional D4 fire damage on your
+weapon attacks and an additional D4
+necrotic damage on your unarmed attacks
+uh they also have a dc13 conve or on the
+unarmed attacks or enemies suffer from
+bleeding that dc13 con save is hidden it
+won't show up in the uh combat log and
+it won't trigger things like cutting
+words or portent dice uh cuz the enemy
+is just roll it secretly um but it is a
+dc13 con saave so it will go off
+sometimes but not maybe as often as you
+would like but if you're hitting an
+enemy a bunch of times in a turn they
+have to make the save several times a
+turn and it will they will probably end
+up bleeding the bleeding obviously isn't
+the important part of this item it's the
+fact that it does an additional D4
+damage on your weapon attacks or an
+additional D4 damage on your unarmed
+attacks and obviously is great for that
+reason it is a rare party that cannot
+make use of the flawed hell dust gloves
+when you get access to it and just like
+I said for the dark justicier gauntlets
+um most parties are going to be very
+happy to have two copies of this effect
+so even though the dark Justice ear
+gauntlets and the flawed hell dust
+gloves both exist I'm still going to put
+them both in s tier because increasing
+your weapon damage is just so incredibly
+powerful one fun thing note for this
+weapon if you throw for this item if you
+throw a weapon uh it counts you as both
+using a weapon and unarmed so you get
+the fire damage from the weapon usage
+and the unarmed uh the bleeding
+Potential from the unarmed version of
+the attack it also works on things that
+count as unarmed attacks that aren't
+actual attacks like the elk Barbarian
+charge and you can see an entire build
+that I uh created around that um to
+abuse that effect with knocking enemies
+prone and Ming them to prevent them from
+ever taking action so there's a lot of
+broken builds with the flawed hell dust
+gloves as well but overall this is just
+great stats for the slot and S tier item
+the gauntlets of surging accuracy so
+these are actually only the second set
+of gloves we've looked at that require
+medium armor Proficiency in addition to
+just the normal metallic gloves though
+weirdly they don't give you the plus one
+to strength saves that uh most of the
+gloves that seem like they are a little
+heavier um give you in this game the
+gauntlets of surging accuracy give you
+whenever you use action surge the level
+two fighter ability action surge you
+gain a plus one D4 bonus to your hit
+chance on all of your weapon attacks
+that round uh it's worth mentioning this
+might seem obvious but it's worth
+mentioning that you can action surge
+before taking your action so you can use
+this bonus both on your normal action
+and on your action surge action as well
+as on any like haste attacks or blood
+lust attacks and whatever that you
+happen to get that round so you can get
+plus one D4 to your attacks on a lot of
+attacks if you use this item
+appropriately your action surge turns
+are likely to be your most important
+turns as a fighter because you wouldn't
+be using action surge if it wasn't
+important for you to do something so
+this gives you a a pretty solid bonus on
+the turns in a combat that are going to
+be most important the main downside of
+this item is that it is something that
+only works once per short rest because
+uh one turn per short rest because
+that's how action surge works and
+honestly on your action surge turns you
+don't really need the help you're
+already spending a resource to do
+something really really powerful you
+don't really need to make those turns
+better I would typically prefer to have
+my Effectiveness increased every turn
+and it's also not clear always because
+you often have other sources of
+increased hit chance that this is better
+than just increasing our damage output
+with one of the gloves that increases
+our weapon damage there are definitely
+builds that can make use of the
+gauntlets of surging accuracy uh and
+accuracy bonuses are of course Very
+powerful but I would prefer to get those
+from uh Precision attack from bless from
+having advantage in general than
+equipping an item that's only going to
+be used one turn per short rest uh not
+that the gauntlets of surging accuracy
+are bad and they will definitely improve
+your action surge turns but overall I
+think they're a little bit overshadowed
+by other options I'm going to put them
+in B tier because if you have a
+character that is struggling to hit
+things and has action surge this can be
+a great way to offset that but for the
+most part I think you're going to be
+better off just equipping items that
+increase your damage instead the gloves
+of the automaton the gloves of the
+automaton let you turn yourself into a
+robot once per short rest for 10 turns
+while you're in automaton form uh you
+have advantage on your attack roles and
+resistance to lightning damage just
+passive advantage on attack roles for 10
+turns um once per short rest it's cast
+as a bonus action so you can use it
+after you enter combat uh in this form
+you also because you're a construct
+can't use many forms of healing most
+healing spells won't work on you but you
+can still use potions or have potions
+thrown at you so you can still heal in a
+lot of ways if you happen to get knocked
+out of uh if you happen to like really
+badly need a heal uh you still do have
+options and for the most part that's not
+a significant down side for this item
+anyways once per short rest just gaining
+advantage on all of your attacks for 10
+turns is obviously great and this has no
+condition at all you just have advantage
+on all of your weapon attacks so as long
+as you're making attacks with a weapon
+you have Advantage when you have the
+gloves of the
+automaton these are going to let you hit
+your attacks much more easily on any
+character that doesn't have a natural
+source of Advantage these are amazing uh
+you can pre-cast them before you enter
+combat or because it's a bonus action
+you can cast them during combat if you
+just need Advantage uh and don't have
+another use for a bonus action um
+Advantage is good and the gloves of the
+automaton give it to you effectively
+permanently for free so I'm going to put
+them in s tier I think that the
+basically the choice is going to be
+between additional damage from these
+three items or Advantage from the gloves
+of the automaton for basically any
+character using weapon attacks it's also
+worth mentioning that these gloves are
+bugged and the effect does remain if you
+cast it and then take them off so you
+can pre-cast it before combat um gain 10
+turns of advantage on all your attacks
+and then swap to a different set of
+gloves for example the flawed hell dust
+gloves to get the best of both worlds
+even without abusing that or exploiting
+that though the gloves of the automaton
+are still just excellent the gloves of
+battle mage's power the these gloves G
+give you whenever a weapon attack
+inflicts a condition on an enemy you
+gain Arcane acuity um so if you are for
+example an eldrich Knight who attacks
+and inflicts a condition on every attack
+or if you have like radiating orbs or
+reverberation then you gain Arcane
+Acuity every time you attack uh except
+you don't because these items are bugged
+currently and do literally nothing I
+guess they give you plus one to your
+strength saves um but the gloves of
+battle mes power don't work they don't
+give you the Arcane Acuity currently uh
+so at time of recording these are D tier
+if they actually worked Arcane Acuity is
+incredibly strong you would obviously
+have to be a specific character to to
+make use of them uh so I would probably
+put them in a tier uh but as of right
+now since they don't function D tier the
+gloves of crushing the gloves of
+crushing give you a plus one TI your
+attack rules and plus two to damage with
+your unarmed attacks uh by the time you
+get these gloves this is a reasonably
+powerful effect it's similar to the
+sparkle hands I think it averages out to
+slightly less damage on average than the
+Sparkle hands um when you do the math uh
+but the gloves of crushing overall give
+you a reasonably powerful effect but by
+the time you get them you have so many
+options for monk gloves that you're
+unlikely I think to want the gloves of
+crushing you have the cinder and Sizzle
+gloves for damage you the sparkle hands
+for uh attack bonuses and damage you
+have the flawed hell dust gloves for uh
+alternate damage if you have multiple
+characters making unarmed attacks so it
+would have to be a pretty unusual party
+to want the gloves of crushing in
+addition to all of those very slightly
+better options um since these just give
+you a raw stat bonus and that stat bonus
+is slightly lower than the other stat
+bonuses you're getting from equivalent
+items I'm going to put them in C tier
+maybe for an all monk party this could
+come up but given the sheer variety and
+power level of the other options for
+monk gloves at this point the gloves of
+crushing I think are rarely going to see
+play the gloves of the balanced hands
+these give you the two weapon fighting
+fighting style when you have them worn
+it's the same as you get from taking
+levels of fighter or Ranger or swords
+barred and lets you add your ability
+modifier to your damage on your offhand
+attacks so if you're dual wielding
+normally uh let's say you're firing two
+hand crossbows normally you don't get to
+add your dexterity to damage on your
+offhand attack when you're wearing these
+you do so it's going to increase your
+damage output significantly for
+characters making multiple offhand
+attacks per turn if they have uh levels
+in Thief Rogue for example this is
+actually a better increase to your
+damage output even than the gloves that
+increase your damage uh that like the DJ
+gauntlets and the flawed hell dust
+gloves because you get to add your
+entire dexterity modifier to all of
+these offhand attacks so it's going to
+usually be more damage on average even
+than those which are already very good
+now normally characters who are set up
+this way are going to get this from
+multiclassing one level of fighter can
+get you the two weapon fighting fighting
+style uh Ranger gets it swords SP gets
+it um so often the gloves of the balance
+hands will be redundant if with already
+having the fighting style but if you're
+playing for example a monoc class Rogue
+the gloves of the balanced hands are
+actually going to be best in slot for
+increasing your damage so while that's
+not the typical way uh to play Rogue or
+sort of the the most optimal way for
+Honor mode to play Rogue you're usually
+going to want to multiclass it uh that
+is still a totally reasonable build and
+one that a lot of players are interested
+in playing and so I'm going to put the
+gloves of the balance hands in a tier
+for especially for thief Rogues uh who
+are firing with offhand weapons and
+staying monocl a tier seems perfect here
+cuz it's best in slot for a slightly
+Niche character the gloves of the
+dualist the gloves of the dualist give
+you plus two to your attacks with melee
+weapons so plus two to hit with melee
+weapons if you're using a one-handed
+weapon the tool tip actually says that
+you need to have your offhand be empty
+but that's actually not true you just
+need to not have a weapon in your
+offhand or be using a two-handed weapon
+uh you can still benefit from this with
+a shield so a character who has an empty
+off hand or a character who's using a
+sword and board style one-handed weapon
+and shield can use these to gain plus
+two to their attack roles with the
+gloves of the dualist um this will also
+work with throwing weapons just like the
+dueling gloves or just like the uh
+dualist fighting style um so you can add
+Plus two to your attack roles and plus
+two to your damage if you are a sword
+and board setup character with the
+dueling fighting style and the gloves at
+the dualist plus two to your attack
+roles is pretty nice obviously hit
+chance is good but it's significantly
+worse overall than the gloves of the
+automaton unless you have easy sources
+of Advantage from other items uh so most
+of the time I think that the gloves of
+the dualist are not going to come up and
+for the characters that do want to come
+up it's not clear to me that they're
+actually better than the gloves of the
+growling Underdog because those are the
+types of characters that will tend to be
+surrounded by enemies the most if you're
+like a sword and board Paladin for
+example uh and for those characters
+again having advantage on their attacks
+from the gloves of the growling Underdog
+may be better than the plus two to hit
+from the gloves of the dualist since
+these are outdone by the gloves of the
+automaton um for most characters they
+are not going to be SED here uh and I
+think that they are typically going to
+either be superseded by increases to
+your damage or increase or sources of
+Advantage uh so the gloves of the
+dualist unfortunately despite being a
+cool passive benefit for a type of
+character that doesn't actually get a
+lot of support in Boulders Gate 3 um the
+more generically powerful items are
+generally speaking going to just be
+better I'm I will still put them in B
+tier because plus two tier hit chance is
+still good and so they're are characters
+that can get some use out of these but
+for the most part you're going to be
+better off with the gloves of the
+automaton or uh other more powerful
+options for increasing your damage
+output the ioris gloves the icaris
+gloves give you uh whenever you deal
+acid damage to an enemy you also have a
+chance to inflict noxious fumes on them
+they have to make a dc13 deck save where
+they get noxious fumes noxious fumes
+deals 1 D4 acid d damage uh to all
+hostile creatures in a 10t radius so
+basically enemies have to make a dc-13
+deck save or they start damaging
+themselves in their allies every turn um
+for three turns in a 10t radius this is
+such a tiny increase to your damage
+output and relies on using a a damage
+type that most characters don't have
+easy access to doing regular acid damage
+is actually somewhat difficult uh so the
+icaris gloves typically will not be easy
+to trigger if you do trigger them
+enemies will make the saving throw cuz
+it's a dc13 deck Save which is sort of
+free for most enemies to pass and even
+if they fail the saving throw it's not a
+particularly powerful effect so D tier
+for the icaris gloves it's just a lot of
+work to set up something that doesn't
+even really do anything The Rocker
+bracers uh so firstly these were clearly
+named in an attempt to persecute me
+personally because I have to try to work
+out how this is pronounced uh in order
+to make this tier list maybe it's her
+aher I'm not entirely sure but anyways
+The Rocker bracers uh give you uh the
+ability to cast Mage hand as a bonus
+action quickened Mage hand um if you
+have Mage hand already which is actually
+pretty nice Mage hand in combat is not
+terrible and you can use it to like
+absorb an enemy attack by bonus action
+casting it next to them so it kind of
+gives you the ability to absorb an enemy
+attack as a bonus action one per short
+rest which isn't uh in and of itself a
+terrible thing and of course Mage hand
+is a reasonably powerful ability um by
+itself that wouldn't be very good but it
+also gives you telekinesis castable once
+per short rest telekinesis is a level
+five spell uh and well it's not the most
+powerful spell when you have to spend
+spell slots on it a level five spell
+once per short rest without having to
+spend spell slots is pretty incredible
+even though you don't get these till
+fairly late in act two the Rockne
+bracers give you an extremely powerful
+effect multiple times per day and are
+going to let any character that has a
+decent item save DC cast a pretty
+powerful spell without spending any
+resources telekinesis can be used for
+all kinds of cool tricks in addition to
+just like the normal damage that it does
+you can throw enemies off cliffs you can
+throw things into one another you can
+throw guardians of Faith or summons at
+your enemies you can throw carlac at a
+bunch of enemies so the procne bracers
+actually give you a lot of options and
+let you use one of the cooler effects in
+the game much more regularly than you
+could otherwise because normally
+telekinesis is very expensive but not
+when you get it for free for that reason
+I'm going to put it in a tier uh I don't
+think that these are something that you
+necessarily want to build your whole
+strategy around and not every party is
+going to want to use them but it's a
+very powerful effect and of course you
+can use them swap them out for another
+item if you aren't going to short rest
+to refresh it but since they happen
+every short rest this is an option to
+just swap in for any fight where you
+think telekinesis is going to be good so
+I would definitely hang on to these
+because the Rockne bracers have a ton of
+uses and also give you a lot of creative
+options for solving out of combat
+encounters where you wouldn't want to
+spend a level five spell slot but since
+you have telekinesis for free you can
+just use it to get your whole party up
+to a ledge or pull stuff out from behind
+walls or whatever uh awesome item really
+love that this makes a more situational
+spell much more usable a tier for the
+rock near bracers the Jill's gloves the
+jal's gloves uh give you plus one to
+your saving prows and once per long rest
+when you're blinded poisoned or
+paralyzed you automatically cast lesser
+restoration on yourself uh this doesn't
+take your turn or anything so it just
+immediately removes the effect when you
+get hit by it um by casting casting Les
+lesser restoration on
+yourself that by itself is not very good
+uh you typically shouldn't plan for your
+characters to get hit by debilitating
+effects and you wouldn't in general want
+to have your character uh only recover
+from that once per long rest you'd
+rather just give them immunity uh
+through the various means where you can
+become immune to that effect plus one to
+your saves of course is uh pretty solid
+uh effect increasing your saving throws
+is always good and makes it less likely
+that you're going to get hit by the
+debilitating effects but for the most
+part these gloves just don't do enough
+to justify wearing them in a very
+important glove slot there's one use for
+them which is on a character that is
+already sort of immune to physical
+damage like for example the Barbarian
+Dodge tank build that I posted or the
+ABD duration wizard build that I posted
+um the janal's gloves can make those
+characters immune to the only thing that
+can sort of take them out which is
+things like paralyzed and so you could
+maybe swap them in for a fight where
+you're worried about those effects
+landing on your characters that are
+otherwise more or less immune to uh
+damage you could maybe use these in a
+Solo run to avoid getting hit by
+something that just uh ends your run
+immediately like a hold person uh but
+for the most part the jentle gloves are
+just not going to be a
+significant uh not going to be
+significantly impactful for your
+character plus one to your saving throws
+though is worth considering for
+characters that are struggling with that
+I'm going to put them in C tier because
+I really don't think you should spend
+your glove slot defensively like this
+typically uh but the for a character
+that really needs to improve their
+saving throws and that's the only thing
+that they need from their items the
+janal's gloves do let you do that with a
+slot that otherwise normally doesn't the
+Luminous gloves the Luminous gloves give
+you plus one to your strength saves uh
+and also whenever you do radiant damage
+you apply two turns of radiating orb uh
+radiating orb reduces enemy attack Rolls
+by one per turn remaining Stacks up to
+10 there's a lot of ways to gain
+radiating orb stacking um like the
+Luminous armor so obviously you're going
+to combine this with sources of radiant
+damage like uh spirit Guardians and uh
+other things that provide radiating orb
+to stack enemies to really high numbers
+so that they can never hit their attacks
+this says radiating orb on it so you
+know that this item is going to be
+broken it was inexplicably buffed it
+used to only apply one St of radiating
+orb and now it applies to um which makes
+it very very easy with this item and one
+other item that applies radiating orb to
+get to 10 Stacks if you just do two
+instance of radiant damage in a turn uh
+you can easily hit 8 to 10 stacks of
+radiating orb which turns off physical
+attacks for that enemy uh permanently uh
+you can do this in an AOE with AOE
+radiant damage like Spirit Guardians
+obviously we've all heard uh me talk
+about how broken radiating orbit effects
+are for uh ad nauseum so I don't need to
+go into it again the Luminous gloves of
+course are s tier for any character
+who's doing radiating orbs stacking the
+poisoners gloves uh the poisoners gloves
+are I mentioned them in my cloaks tier
+list they would give you whenever you
+deal poison damage the enemy has to make
+a dc13 constitution save or they become
+poisoned getting the poisoned effect the
+gimmick here is that you combine these
+with the poisoners set of items so you
+use them with the derivation cloak and
+The Brood mothers Revenge to give
+yourself whenever you attack um enemies
+have to save against poison take some
+poison damage and you heal um because
+all of those items combin so that
+whenever you heal your next attack does
+poison damage whenever you poison an
+enemy uh whenever you hit an enemy with
+poison damage they have to save or they
+become poisoned and whenever they get
+poisoned you heal so all of those
+together let you sort of Loop those
+effects for a little bit of extra poison
+damage poisoning enemies and a little
+bit of healing every turn unfortunately
+this is a lot of work and a lot of gear
+slots to dedicate to a not very useful
+combination um if that item set appeared
+like early in Act One it would actually
+be pretty cool but since it appears in
+act two and also a lot of enemies are
+immune to poison in act two uh the
+poisoner's gloves unfortunately are just
+not going to fit this is a viable build
+and you can build around these items
+combining them together so I will give
+it C tier but this is a pretty
+begrudging C tier for a situational and
+mediocre effect that requires a bunch of
+other items to work the Raven gloves uh
+the Raven gloves let you once per short
+rest cast find familiar to summon quo
+The Raven obviously great reference uh
+very funny name for a raven of course I
+think reference to Terry pratchet who of
+course himself was referencing Edgar
+Allen Poe um but someon quote The Raven
+is basically just fine familiar for a
+raven once per short rest uh you can get
+this from the fine familiar spell which
+is a first level spell and you can't use
+it in combination with any other form of
+the fine familiar spell so if you have
+the unique familiar or other sources of
+more powerful familiars you can't use
+this the Raven familiar is probably the
+best familiar so it at least doesn't
+lock you into using a bad familiar um
+but find familiar once per short rest
+from an item an important item slot is
+really not great and the uh qu does
+disappear if you unequip the gloves so
+you can't just uh cast them and then
+swap them out so the Raven gloves
+unfortunately give you a very low-level
+spell uh and eat a very important slot
+so you're never going to want these D
+tier the sword master gloves uh the
+sword master gloves give you proficiency
+with short swords long swords and great
+swords so you just get sword proficiency
+um not other melee weapons only swords
+though swords tend to be the best
+weapons in the game so you will
+typically have access to all the weapons
+that you need uh and you gain a plus one
+bonus to your melee attack roles um this
+item does not seem to do enough to me
+most characters that want to make weapon
+attacks are already going to have the
+sword proficiencies so you could maybe
+use this for a character that doesn't
+have Marshall weapon proficiency and
+nevertheless wants to use a great sword
+um but for the most part you'll already
+have the proficiencies and there's no
+character that wants plus one to attack
+roles when they could have one of the
+much better sources of accuracy um
+available from gloves obviously these
+don't hold a candle to the automaton
+gloves or even to the growling Underdog
+gloves or the Duelist gloves um and of
+course most characters are going to
+prefer damage to the accuracy bonus
+anyways if you've built your character
+appropriately to have a decent hit
+chance and have other hit chance
+increases uh the sword master gloves
+overall I just don't think are going to
+come up I am again going to give them C
+tier because I think there could be a
+character that really needed the great
+sword proficiency and uh could use the
+sword master gloves I haven't seen a
+build like that myself but it's one to
+maybe think about um but the sword
+master gloves overall are just a worse
+bonus than other items that do
+effectively the same thing and finally
+for the Act 2 gloves the thermo archonic
+gloves uh the thermo archonic gloves
+give you whenever you deal fire damage
+you gain two turns of heat Um this can
+stack multiple times in a turn uh so you
+can gain a lot of heat really quickly if
+you're dealing multiple instances of
+fire damage like with scorching Ray for
+example you can stack heat up really
+high and heat uh basically does 1 D4
+fire damage you per turn while you have
+any stacks of it and you can spend all
+of those Stacks to deal one additional
+fire damage per stack on your next
+attack that does fire damage so
+basically you can use like a scorching
+Ray to build up a bunch of heat and then
+spend it all on a fireball to do a bunch
+of extra damage with that fireball when
+you spend the heat on an attack that
+does multiple instances of damage like
+scorching Ray it only works on the first
+one uh but if you spend it on an AOE
+spell it'll hit everything so typically
+the play pattern is going to be to build
+up a bunch of heat and then use it on an
+AOE spell to do more damage with that
+AOE spell in general I think this just
+isn't really worth the effort the types
+of characters that are going to be
+building up heat Stacks easily um will
+often have just killed all the enemies
+by the time they're ready to discharge
+the heat stacks and even in sort of the
+best case scenario where you discharge
+seven the maximum heat stacks on a
+fireball hitting a bunch of enemies
+that's a lot of extra damage but you've
+had to uh stack that up ahead of time in
+order to generate that maybe you'd have
+been better off killing some of those
+enemies earlier on just by casting the
+fireball right away so the thermo
+arconic gloves I think uh are a little
+bit of a solution in search of a problem
+they boost your AOE damage later in the
+fight which is not when you need AOE
+damage um they can be a nice boost for
+fire damage characters that are just
+sort of passively doing fire damage so
+if you are using just the flawed uh hust
+gloves on your attack then building up
+heat could be good but the those are the
+same item slot so the thermo ionic
+gloves cannot work with the flawed hell
+dust gloves that imbue fire if you have
+a weapon that does fire damage then
+using additional heat Stacks can be good
+but it's still going to be less damage
+than just adding more damage with like
+the dark jusere gauntlets to your weapon
+attacks um so overall I think that the
+thermo archonic gloves are typically not
+going to be incredible for a fire
+sorcerer that's building up Stacks
+really quickly because it's casting
+scorching Ray and then wants to Fireball
+big groups of enemies they can be
+reasonable um but for the most part I
+think you're just going to have better
+options for those characters regardless
+so I'm going to put them in C tier
+because there are some characters who
+can get some use out of them but mostly
+these are like I said a solution in
+search of a problem because boosting
+your AOE damage late in the fight just
+isn't something that you usually want to
+spend effort on it's also worth noting
+that the 1 D4 damage per turn is not a
+big deal but not totally Irrelevant for
+spellcasters who make the best use of
+these items uh because it might break
+your concentration even 1 D4 damage is
+another concentration uh roll you have
+to roll and that's another one in 20
+chance of getting a natural one and
+losing concentration on an important
+spell so overall the thermo archonic
+gloves I think for some very Niche
+builds can be interesting but most of
+the time are just not worth the pretty
+significant investment in item slot play
+pattern and and general uh loss of
+utility that you have
+to add to your character in order to
+make use of them all right my friends I
+hope that you've enjoyed this look at
+all of the gloves in act two and
+hopefully this will help you gear your
+characters for the most important parts
+of the game the real takeaway here is
+that this is when the gloves really
+start to take off characters uh
+especially for characters that are
+making weapon attacks characters who are
+attacking enemies get permanent
+Advantage if want it they get a whole
+bunch of extra uh damage output if they
+want it many of them will of course
+still be wearing some of the S tier Act
+One gloves but act two gives us
+significant upgrades for damage dealers
+which are both the most important uh
+upgrades to get because damage dealers
+tend to be the most item dependent
+characters and also some of the most
+impactful because killing enemies before
+they go is one of the best things that
+you can do in balers Gate 3
+strategically the gloves of the
+automaton and the various gloves that
+increase your weapon damage obviously
+make that uh vastly easier and of course
+the Luminous gloves are just part of one
+of the most broken strategies in the
+game so those should slot pretty nicely
+into any party act two also gives you a
+bunch of cool alternative options for
+various types of characters like the
+herir bracers and the gloves of the
+balance hands gloves of the dualist and
+so on so even if you don't want to just
+gear your party in like passive damage
+boosts which admittedly are slightly
+boring um are still some really cool
+options in act to as always if you think
+that I have missed something about one
+of these items and should move things
+around please do let me know in the
+comments I am very open to changing
+things I'm recording this before I've
+posted act one so uh I haven't seen your
+feedback yet uh but we will update these
+in a future video if you have good
+arguments as to why some things should
+move around and of course as always my
+friends hope that you've enjoyed the
+tier list and if you have hit uh like uh
+leave a comment helps me out with the
+algorithm and of course you can
+subscribe to my channel for more balers
+Gate 3 tier lists and other strategy
+game analysis cheers my friends and I'll
+catch you next time with the act three
+gloves

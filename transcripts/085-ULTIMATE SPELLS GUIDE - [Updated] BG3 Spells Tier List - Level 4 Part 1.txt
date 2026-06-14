@@ -1,0 +1,1051 @@
+Hello, my friends, and welcome back to
+another Boulders Gate 3 tier list and
+guide. Hope you're all doing well.
+Today, we're continuing my updated
+ultimate guide to spells with the level
+four spells, which are not as massive a
+power spike as level three for most
+classes, though one class is an
+exception, but nevertheless give you
+some incredibly powerful tools. Level
+four is actually where I think some of
+the most fun spells are as a result of
+that. It's very easy to use the
+straightforwardly awesome level three
+spells to gain a huge advantages, but
+level four tends to be more nuanced and
+subtle. So, it's where you can really
+differentiate between being good at the
+game and being truly great at the game.
+I've already gone over the rating system
+and the definitions of the tiers when
+talking about the level one spells and
+cantrips. So, we're just going to get
+right into it. But of course, before I
+do, I do want to take a quick moment to
+say thank you so much to Mera Fiori for
+the 100 slottest donation, Tarantula for
+the $5, Tucky for the $5, and Aspen
+Abbott and CB for becoming channel
+members. Thank you so much, my friends.
+I really appreciate the support. All
+right, let's talk level four spells.
+We're going to start with one of my
+personal favorite spells, banishment.
+Banishment is a single target control
+spell. Uh, so you cast it on an enemy
+and they have to make a charisma saving
+throw, which if they fail, they are
+banished from the entire game for two
+turns. They're fully removed from the
+game, so they can't take damage, be hit
+by other spell effects, or do anything.
+They aren't able to move, react, or
+provide any help to their allies in
+combat. So, a banished enemy basically
+ceases to exist for two turns after they
+fail the one charisma saving throw. When
+they come back, they will then skip
+their turn. So you'll always get at
+least one full round of attacks against
+a banished enemy before they get to take
+an action again. Uh because when they
+come back, they they don't take their
+turn immediately. So banishment not only
+removes them from combat for two turns,
+it also means that you have effectively
+stunned them for one turn and can still
+take a full round of attacks against
+them. The downside of this spell, of
+course, is that it is a single target
+concentration disable, and those are
+available at much lower levels. Uh, and
+you can't damage the enemy while they're
+banished. So, compared to something like
+hold person, hold person will lock down
+an enemy completely and you'll still be
+able to hit them and do even more damage
+than normal, whereas a banish enemy you
+can't interact with. The upside of
+banishment is that it will effectively
+let you get free rounds of spell casting
+against an enemy. If you banish an
+enemy, they're removed from the fight
+for two turns. You can use that time to
+put down, say, a spike growth and a fog
+cloud on their location. And then when
+they come back, you've basically gotten
+to cast those two spells for free. You
+can set up things like glyphs of
+warding, which they will trigger as soon
+as they return into the banishment
+location. You can throw a pot of fire on
+the ground or set up an ice surface. So,
+there's lots of ways that you can set up
+traps in order to kill a banished enemy
+with very, very little trouble when they
+return. Removing them from the fight
+gives you a lot of options to make their
+lives incredibly difficult when they
+come back. And then you also get a full
+round of attacks against them. By
+itself, this wouldn't be enough to make
+this spell particularly worthwhile
+compared to other single target disables
+like Tasha's or old person. But the
+other important thing about banishment
+is that it targets a charisma save.
+There are very few spells in the game
+that target an enemy's charisma saving
+throw. And a lot of enemies have truly
+terrible charisma saves. Some enemies
+will have very good wisdom saves. And so
+trying to land hold person on them, you
+might have a 50% chance and a 95% chance
+of landing banishment on them with the
+same character. Uh so because there are
+such enormous differences between enemy
+saving throws when it comes to their
+charisma and even some very very
+dangerous lategame bosses have truly
+terrible charisma saves. So you can land
+this spell extremely reliably. This will
+often be less powerful crowd control
+than other options, but vastly more
+reliable, and it's usually good enough
+to win the fight. Anyways, for examples
+of this spell in play, you should check
+out my video, the five most underrated
+spells in Balders's Gate 3. I have a
+whole section on banishment there. Um
+because this spell I think is often
+ignored by players, but the fact that it
+is so much more reliable in certain
+encounters means that it's definitely
+one that you should have in your back
+park pocket on in any given party. That
+was a difficult sentence to say for some
+reason. Uh because working against
+certain enemies so incredibly reliably
+makes this spell very good. You can also
+upcast banishment to hit multiple
+targets, which of course is very
+powerful in a fight where there's
+multiple dangerous enemies with low
+charisma saves. Unfortunately, unlike in
+tabletop dungeons and Dragons, you can't
+use the spell to permanently banish a
+demon or other creature that's not
+native to the material plane. Um, it
+would be kind of cool if you could do
+that in Boulders's Gate, but you'll
+still just win most fights where you
+land this on an important target. I'm
+going to give banishment B tier because
+it's not useful in every encounter.
+There's plenty of encounters where
+targeting charisma is irrelevant, but in
+the fights where it is good, it's by far
+the best tool for the job. Blight.
+Blight is a single target damage spell.
+It does 8d8 necrotic damage for 36
+average damage with a constitution
+saving throw for half. It's also only 30
+foot range, so it's shorter ranged than
+most single target damage spells, which
+is obviously going to be a significant
+uh hindrance in a lot of encounters
+where you want longer range on your
+damaging effects.
+A single target damage spell is always
+going to have an uphill climb, and 36
+average damage is not enough damage to
+make me usually want to cast this spell.
+36 damage for a fourth level spell slot
+is usually less than a fighter is going
+to do by just attacking twice at this
+level. So spending a very important
+resource on single target damage,
+something that your marshall characters
+handle much better, is always going to
+be difficult to do. And this just
+doesn't do enough damage to justify it
+in most cases. That's also assuming that
+enemies don't make the constitution
+saving throw, which they usually will uh
+because constitution saving throws on
+enemies tend to be very high. It's the
+worst save to target. And also something
+like half of all enemies in Boulders's
+Gate 3 are resistant or immune to
+necrotic damage. So it's by far the
+worst damage type for most characters.
+Blake does have one additional modifier,
+which is that when cast against a plant,
+it always does maximum damage. So
+instead of doing uh 8d8, it just does 64
+necrotic damage. Uh but there's very few
+plants in Boulders's Gate 3. And by the
+time you get this spell, you're going to
+be in act two, where the only plants
+have resistance to necrotic damage,
+making casting blade against them
+incredibly terrible. The only exception
+to this rule is a death domain cleric
+because death domain clerics ignore
+resistance to to necrotic damage and get
+blight as a domain spell. So they don't
+need to actually spend a spell prepared
+slot on learning this. they can use
+blight against the plant in act two for
+a reasonable value cuz 64 guaranteed
+damage even with a con save for half is
+still pretty good. Um so when you ignore
+the damage resistance that most that
+every other character has when casting
+blight against the plants death domain
+clerics can get some decent value out of
+it. The other use case for blight is
+with the staff of cherish necromancy,
+which is an item that lets you cast
+necromancy spells for free once every
+time you kill an enemy. So, if you can
+chain bllight from enemy to enemy in
+order to kill them and aren't spending
+spell slots on the staff of cherish
+necromancy, then blight has a little bit
+more value. But even for those
+characters, blade is still usually not
+going to be very good because inflict
+wounds exists. Inflict wounds upcast to
+level four is 33 average damage. So only
+three less than blight, but without a
+constitution save for half. So it's
+going to be much more effective than
+casting blight a lot of the time. And
+it's an attack roll, so it can also
+critically hit. So usually, unless you
+desperately need the 30ft range, just
+upcasting inflict wounds is going to be
+better. With the staff of ter
+necromancy, you're also going to be
+using sixth level spell slots on these
+almost always. And there inflict wounds
+does 44 average damage. Blight does 45.
+So inflict wounds is just more average
+damage when you take into account the
+fact that it can critically hit even if
+you ignore enemy saving throws
+completely. Um but also blight has the
+chance of enemies making the save and
+taking half damage. So for death domain
+clerics against the plants in act two,
+Blake can be okay. And if you
+desperately need the 30ft range on a
+staff of cherish necromancy build, Blake
+can be okay. So, I guess I'll give it a
+very begrudging C tier, but with the
+caveat that you should almost never cast
+this spell. Next up, confusion, which is
+fittingly an extremely confusing spell.
+This is another one where the game makes
+very little attempt to actually tell the
+player how the spell in fact works. The
+tool tip says, "Befule a group of uh
+creatures, causing them to attack at
+random, wander around aimlessly, and
+occasionally skip turns in their
+stuper." But it doesn't tell you how it
+decides whether they do any of that or
+what those effects actually mean.
+Firstly, confusion does not target
+creatures. It only targets enemies,
+which is a very important distinction.
+It's a 20ft radius concentration control
+spell. So it fills a similar role as
+something like hypnotic pattern,
+slightly lower radius, but uh
+importantly only targets enemies instead
+of targeting every creature in the area
+of effect. Creatures within the area
+have to make a wisdom saving throw or
+they get the confusion debuff for three
+turns. Here's how confusion actually
+works. Each turn, the creature has a 50%
+chance of falling into a stouper, which
+is basically a stun, and a 50% chance of
+using the madness AI archetype for to
+take their turn for that turn. I talked
+a little bit about this one already when
+talking about Crown of Madness, but
+basically how it works is everything
+treats them as hostile and they treat
+everything else as hostile. They no
+longer prioritize not damaging
+themselves with area of effect attacks.
+And they no longer prioritize the normal
+targeting uh priorities that enemies in
+Boulders's Gate have like breaking
+concentration, attacking lowhealth
+characters and things like that. So for
+melee enemies, they're usually going to
+just attack the nearest thing to them.
+Um although sometimes they will run past
+a bunch of creatures to still attack
+your whole party. And for any character
+with an AoE attack, they're usually
+going to use that AoE attack in order to
+hit themselves and basically everything
+else in the encounter. So when an enemy
+goes mad, it can be very useful if they
+have bombs or things like that cuz
+they'll blow up uh themselves and a
+bunch of their allies. Similar to Crown
+of Madness, this is obviously extremely
+powerful, but inherently somewhat
+unreliable control. Sometimes an enemy
+who fails their save against Confusion
+is just going to be stunned for three
+turns, which is obviously amazing.
+Sometimes they'll act, but their actions
+will be good for you because they're
+going to blow up a bunch of their allies
+or turn on each other, and that's even
+better. But sometimes they're just going
+to act in a way that's still very bad
+for you. You're going to pass your turn,
+and the confused enemy is just going to
+run straight to your caster and beat
+them with a big stick regardless, which
+is what they were going to do with their
+turn anyways. And then you're very sad
+that you wasted your time on this spell.
+So, it's very powerful, but you have to
+make sure that you have arranged the
+encounter to get the maximum usage out
+of this effect, and you won't be able to
+use it in every encounter. There's two
+times where confusion is a better choice
+than a lower level concentration spell
+like hypnotic pattern or fear, which are
+more reliable and take a lower level
+spell slot, so are often going to be the
+choice. The first uh situation is where
+your party and the enemies are all mixed
+up together and you still want to land
+an AoE control spell on them. Then you
+can use confusion because it doesn't hit
+your allies. So in place of something
+like hypnotic pattern, it's going to be
+more powerful. A lot of time in that
+situation, you're still you would still
+prefer to just upcast command or hold
+person as a control spell or use slow,
+which works when the fight is very
+confused and doesn't have the
+unreliability of confusion. But
+confusion is a more powerful debuff. So,
+that can be pretty good. The other case
+where confusion is good is if you can
+just leave. If you hit a bunch of
+enemies with confusion and then shut the
+door, you can just wait while they all
+blow each other up. And since the entire
+encounter is confused, yeah, some of
+them will will pass their turns, but a
+lot of times they will just attack one
+another um and to for three turns. And
+against a lot of encounters that can
+just win the encounter outright. Most of
+the time, confusion is going to be a
+secondary choice after some a more
+reliable spell like fear or hypnotic
+pattern or a more reliable spell like
+slow if you're if you and the enemies
+are very mixed up together. But it's
+still an extremely powerful effect. So,
+when you can arrange for this spell to
+be good, it's very good. I'm going to
+give it B tier, uh, cuz it does require
+some specific circumstances to be better
+than the alternatives, but those
+circumstances do definitely exist.
+Conjure Minor Elemental. Conjure Minor
+Elemental is a summon spell, so it lasts
+the entire day or as long as you can
+keep the summons alive. And it has three
+possible modes for what type of summon
+you're going to create. You can either
+create two mud meths, two ice methetts,
+or one Azer. The mud meths are usually
+the weakest of these options. They do
+decent melee damage, have a pretty bad
+ranged attack, and have an AoE
+restraint, which isn't bad, but the save
+DC on it is pretty low, and the mud
+methods have to get close. They also
+have the least hit points and lowest AC
+of any of the three options, so they're
+usually going to die pretty quickly.
+They do have their uses in some
+circumstances, but usually you're going
+to be looking at the other two
+possibilities when using Conjur Minor
+Elemental. The Azer is a single summon,
+which obviously is half as many actions
+as the possibilities that give you two
+summons. So, uh, but it has 39 hit
+points and 20 armor class. So, it's
+actually pretty tough. With 20 AC, a lot
+of enemies will miss it. If you extend
+its hit points with something like aid
+or give it damage reduction with uh like
+the buff on heal items to give it blade
+ward and stuff like that, 40 hit points
+with 20 AC will stay alive a decent
+amount of the time. It does pretty solid
+melee damage and also as a bonus action
+can try to light everything nearby out
+on fire. So, it does fairly reasonable
+AoE damage, but mostly the Azer is there
+for tanking. If you have other ways to
+increase its uh its defensive
+capabilities, then it will stay alive
+against a lot of enemies pretty well.
+The ice methods are usually the one that
+you're going to go with, though. Um the
+ice methods are two flying allies that
+have great melee damage, which is cold
+damage, so you can double it using the
+wet condition, and a great ranged attack
+because they just cast the cold version
+of chromatic orb. So they do excellent
+cold damage at range and then also
+create an ice surface every single time
+they attack. So having the ice methods
+just makes two ice surfaces every single
+turn. Uh they also can use a cone based
+AOE damage spell that won't come up that
+often, but if both of them use their
+exhale for cold damage on top of a wet
+enemy or a group of wet enemies, that
+can actually end up being pretty
+significant amounts of damage. Both
+types of methett also explode on their
+death um for 2d6 force or cold damage
+respectively. And you can manually
+trigger this explosion to double the
+damage output uh for to 4d6 cold or
+force damage. If you manually explode
+both ice methods, that's a total of 8d6
+cold damage. So basically a cold
+fireball, which you can then double
+using the wet condition. So, that can
+actually be a huge burst of damage
+output. Um, if you want to sacrifice
+your summons in order to just do a giant
+AoE explosion, that's a very powerful
+tool. Um, so as long as you keep these
+creatures alive, they're going to do
+constant damage over time, add a bunch
+of crowd control on the field, and then
+you can sacrifice them to blow up one
+encounter once per day. So, they give
+you a ton of utility, and that's why
+usually you're going to summon the ice
+methods. They just have way more
+possibilities for use than the other two
+types of summons. Conjure Minor
+Elemental, like every other summon
+spell, is just very powerful. Having
+more actions on the field, having more
+targets on the field, and having more
+bodies on the field gives you more
+tactical options, more damage. It's a
+way to convert a spell slot into a buff
+that just helps you your entire party
+throughout the entire day. So, it's
+going to be relevant in every encounter
+that you engage in. So, just a very
+powerful tool overall. and the fact that
+the ice methods do excellent damage and
+provide tons of free crowd control while
+also be flying being flying. So, it is
+hard for enemies to target them even
+though they're relatively squishy. Uh is
+very powerful as well. One other fun
+fact about conjure minor elemental is if
+you recast it when you have the meth
+summoned, uh they will trigger the death
+explosions. So, you can reummon them if
+they're at low health and then get the
+burst damage. It won't be the doubled
+version from manually triggering it. But
+if you position the if you know you want
+to reummon some low health uh summons
+for whatever reason, that's something
+you can do. It's a very very minor trick
+that doesn't really affect the rating of
+the spell. Also, just a couple fun
+pieces of trivia about this spell.
+Methett is a madeup word, but does come
+from a real word, methidic, meaning
+poisonous or noxious. Uh, and I
+mentioned last time that I was trying to
+look up how you pronounce Azer and
+couldn't find a pronunciation guide
+online, but instead found thousands of
+comments from people who were incredibly
+horny for the Azer summon. Uh, someone
+has actually added a pronunciation guide
+to the Forgotten Realms wiki. But don't
+worry, people are still extremely
+thirsty for this summoned creature. So,
+if you were worried that the Baldersgate
+community had gotten less, you know,
+charged in the last year, you definitely
+have not. I'm going to give Conjure
+Minor Elemental A tier. It's a very,
+very powerful tool for your party. Um,
+just a really nice benefit for a fourth
+level spell that lasts for as long as
+you can keep the summons alive. They
+will be giving you consistent eye value.
+Conjure Woodland Being. Tre woodland
+being is a druid summon spell and this
+spell alone is a huge part of why druids
+hit such an enormous power spike at
+level seven unlike most other
+spellcasters because getting access to
+this spell powers up your party
+enormously
+when you use condra woodland being you
+get a dryad who fights with you all day
+and the dryad has a bunch of abilities
+so this ends up being several spells all
+wrapped up into one. Firstly, she
+passively makes your entire party or
+everyone within a a radius of her immune
+to difficult terrain, immune to
+paralysis and restrained, and have
+resistance to poison damage. That alone
+is already really good. It turns off
+some of the most dangerous effects in
+the game, makes poison damage much less
+of a factor, which there are some fights
+where you're going to take a lot of
+poison damage. So, the dryad just having
+that as a passive ability is excellent.
+She can also cast entangle at will and
+spike growth at will, two excellent
+control spells. Just having an extra
+copy of spike growth in every encounter
+is incredibly powerful and lets you gain
+so much more control over the
+battlefield. In addition to that, once
+per short rest, the dryad can summon a
+woodw, which is a regenerating tank. It
+gains 10 hit points every turn if it's
+in a vine surface. um that also has that
+has decent hit points and resistance to
+piercing and bludgeoning damage. So,
+it's going to take uh some enemies a
+long time to kill it, and you can
+reummon it every short rest if it dies.
+It too can also cast entangle at will.
+On top of all these abilities, uh both
+of these uh summons have decent melee
+damage. They will hit reasonably
+accurately and for reasonable damage.
+You're not really conjuring woodland
+being for their just sheer damage
+output. It's more so that the wood can
+tank and both of them can just spam
+control spells every single turn because
+they don't use a cool down or a spell
+slot on them. Um, but the fact that they
+can wade into melee and hit things is
+also pretty relevant. You get so many
+spells every single turn that you have
+this active alongside a pretty powerful
+regenerating tank that conjure woodland
+being it it's basically just like having
+a whole extra party member. Um, it's
+it's that good and it only costs you a
+fourth level spell slot. It's very easy
+to see why this is an S tier spell, but
+um, honestly, I've been playing this
+game for two for more than 2 years and I
+still keep finding new things that this
+spell does and new uses for it. Just
+does so many absurd things with a single
+spell slot. Any party with a druid
+should be casting this every single day.
+And it's a big part of why druid is such
+a powerful class is access to this
+spell, which is just an absurd spell.
+Next up, death ward. Death ward is a
+long rest non-conentration buff spell
+where the next time a creature would
+take enough damage that they would drop
+to zero hit points and thus go
+unconscious. Instead, they stay at one
+hit point and don't go unconscious. So
+basically, it prevents the next time you
+would take lethal damage. Obviously,
+that's reasonably powerful um because
+not going down to zero hit points is the
+core goal of playing Boulders's Gate 3.
+Everything else is in service of keeping
+your characters alive. So, death ward
+does contribute to that goal, but it
+does so in a purely defensive and
+reactive way where only when you're
+about to take lethal damage does the
+death ward actually do anything. and it
+cost you a fourth level spell slot which
+you could use on just killing the
+enemies who were going to do that damage
+in the first place. Um the other problem
+with death ward other than just being a
+very expensive, extremely situational
+and purely defensive spell is that it
+often doesn't work uh when a character
+takes damage that is dealt in multiple
+instances. say a weapon that has
+bludgeoning and fire damage or a magic
+missile that hits you with multiple
+damage instances, the death ward will
+only block the first one and then the
+second one will still just kill you. So,
+a lot of the time the death ward won't
+actually stop you from being reduced to
+zero hit points cuz by the time you're
+casting fourth level spells, many
+enemies in the game have damage that's
+dealt in multiple instances and the
+death ward simply won't stop that. There
+is a use case for death ward which is if
+you are using campcast casters you can
+cast this on your active party and then
+when it's free you might as well have
+it. But honestly I would much prefer to
+spend my camp cer fourth level spells on
+freedom of movement which is going to be
+a much more relevant defensive buff than
+a defensive buff that most of the time
+simply isn't going to function or do
+anything. It's also worth mentioning
+that death ward is bugged and you can
+abuse this bug to get infinite actions
+if you have a character who can recast
+death ward every turn and knock
+themselves out every turn because um the
+way that it works is when the character
+comes back it refreshes their action. So
+you can abuse this bug to get infinite
+actions and sometimes you'll see
+speedrunners and stuff like that using
+death ward for for that purpose. But
+outside of that one abusive buggy case,
+uh, death ward simply has no uses.
+Dtier. Dimension door. Dimension dooror
+is a teleport spell that targets
+yourself and one adjacent ally and
+teleports the two of you to anywhere
+that you can see. Actually, it has a
+maximum range of 167 ft. Uh, but in
+practice, it's anywhere within line of
+sight, and you can use this to go
+anywhere in almost any given encounter.
+The comparison that we obviously have to
+make for any teleportation spell is how
+often are you going to want dimension
+door instead of just using misty step
+when you're going to teleport. And there
+are a couple encounters where the extra
+distance or the ability to bring someone
+along matter. But obviously the vast
+majority of the time other mobility
+options are going to be sufficient and
+you won't want to use your action in
+order to move yourself and an ally.
+Dimension door is a mobility spell, and
+mobility is always good, but because it
+costs your action, you can't use it and
+then do something else when you arrive.
+So, it severely constrains how useful
+this is as an actual combat spell. But
+there are a couple encounters where you
+need to get across a large uh field,
+especially in act three. There's a bunch
+of encounters where they're timed and
+you just need to traverse an area as
+quickly as possible. And Dimension Door
+is very good for that. You can also
+bring NPC allies with you. So you can
+use dimension dooror in order to move
+NPC allies for encounters where it's
+important that you move them. For those
+reasons, dimension dooror does have a
+couple cases in specific encounters
+where it's good. Mostly you don't need
+to have this spell prepared because if
+you're if you need to move yourself or a
+party member, there are much better ways
+to do that. Simply jumping is often
+going to be more than sufficient. And
+for cases where jumping is not
+sufficient, then misty step is going to
+be plenty. Uh, and the extra distance
+from dimension door does not by any
+means make up for costing a spell slot
+two levels higher and requiring your
+actual action. Um, but there are a
+couple encounters where dimension door
+is useful because traversing an enormous
+distance is just what you need to do in
+that encounter and dimension door does
+that. For that reason, I'm going to give
+it C tier. It's really only good in I
+think like three encounters in the game.
+Um, but in those encounters it does do a
+pretty reasonable job. Dominate Beast.
+Dominate Beast lets you mind control a
+beast. So you they make a wisdom saving
+throw and if they fail then for 10 turns
+an enemy becomes an ally and that beast
+will fight for you. Uh, obviously a
+wisdom saving throw in order to make the
+enemies down one member and you plus one
+party member for the duration of the
+encounter is pretty good. the enemy does
+get an additional wisdom save to break
+out of the effect every single time they
+take damage. So, you probably won't end
+up mind controlling them for the
+entirety of an encounter because uh
+beasts especially tend to have low AC,
+so they'll likely attack each other and
+break the break out of control pretty
+quickly. Uh but this is a very powerful
+effect if you can get it to land. The
+problem with dominate beast is simply
+that there aren't any dangerous fights
+with beasts in Boulders's Gate 3. At
+least not by the time you get this
+spell. Uh once you're in act two or by
+the time you're level seven, you've
+almost certainly fought every major
+beast fight in the game. So dominate
+beast simply doesn't come up in any
+encounters where you're likely to
+struggle um between the time when you
+get it and the end of the game. The
+there is one encounter where it can be
+okay with the dinosaurs in act three.
+Uh, but outside of that, you simply
+won't get an opportunity to actually
+cast this spell. And even there, it's
+only fine because enemies can break each
+other out of the control. So, it's not
+clear that it's better than just using
+any other control spell to actually take
+them out of the fight permanently.
+Dominate Beast is a fairly strong
+effect, but the number of targets that
+it hits in the game is extremely
+minimal, and the priority of targets
+that it hits in the game is extremely
+minimal. So, there simply isn't a reason
+to prepare and cast this spell. Dtier.
+Ever's Black Tentacles. I still don't
+know a year later whether this is
+supposed to be pronounced Ever or Evard.
+So, since I went with Evard in the
+previous video, I'm going to say Ever
+this time just to irritate people.
+Ever's Black Tentacles is a battlefield
+control spell. It's a 20ft radius
+concentration spell that lasts for up to
+10 turns. Uh, and enemies inside of it
+have to make a strength saving throw or
+become smothered. Smothered is the
+identical condition to entangled. It
+prevents enemy movement. You have
+advantage on attack rolls against them
+and they have disadvantage on attack
+rolls. So it's basically the same save
+and effect as the level one spell
+entangle on a level four spell. In
+addition to that, if an enemy is
+currently being smothered by the
+tentacles at the beginning of their
+turn, they have to make another saving
+throw in order to break out. And if they
+fail, they stay uh smothered. and then
+also take 3d6 bludgeoning damage. So
+each turn they stay stuck in the
+tentacles, they're going to take 3d6
+bludgeoning damage. Um, not on the
+initial cast when they first save
+against the spell, but every turn
+thereafter they'll take a little bit of
+damage. Adding a little damage to a
+level one spell does not make it worth a
+fourthle spell slot. But there are some
+real advantages that ever's black
+tentacles has over entangle or web which
+are lower level versions of the same
+effect um that are worth mentioning.
+Firstly, it's a bigger radius which
+matters a lot. Uh entangle is only a
+10ft radius. Web is a 13t radius and
+ever black tentacles is a 20ft radius.
+So you're much more likely to be able to
+catch more of an encounter in this spell
+than you are with the lower level
+versions. Um and it's not flammable.
+Entangle and web are both flammable,
+which in Boulders's Gate 3 matters a
+lot. There's lots of incidental fire
+damage, lots of environmental hazards
+that can just randomly set your control
+spells on fire. And uh you can't layer
+something like wall of fire on top of
+entangle web. You can withd
+its lower level versions worth casting
+it. extra radius, not being flammable,
+doing a little bit of damage every turn.
+Is that worth spending a fourth level
+spell slot over a first or second level
+spell slot? Usually, the answer is going
+to be no. Entangle is already a an
+effect that's only useful in some
+encounters and against certain types of
+enemies. So, it's already a fairly
+situational effect, and spending a lot
+uh more important of a resource on it is
+a really big cost increase compared to
+the lower level versions. So, usually if
+you want this effect, you're going to be
+happy just casting web and not worrying
+about Ever's Black Tentacles. There are
+two cases where it can be good to cast
+this spell, though. One is if you want
+to combine it with a fire effect.
+Mostly, that's going to be wall of fire,
+and that is a pretty powerful way to
+lock down enemies and keep them locked
+in the wall of fire. There's other ways
+to do that, of course, but black
+tentacles is a good way to do it. Two
+fourth level spell slots is pretty
+expensive. um and the concentration from
+two of your casters, but it will kill
+most enemies who are caught in the
+combination there pretty quickly. So,
+that can win some encounters if you want
+to spend the spells on it. And the other
+uh reason to cast this spell is if
+you're a warlock. This is available to
+wizards who usually don't want to waste
+a fourth level spell slot on something
+they can get from a second level spell
+slot. But warlocks don't care what level
+their spells are. They only care about
+the effects of the spell. And so for
+great old one warlocks who get ever's
+black tentacles, it actually is a pretty
+powerful spell since they don't pay any
+premium in order to get the powered up
+version of these lower level spells. On
+a side note, this is one of the spells
+where the Balders's Gate 3
+implementation annoys me the most
+because in tabletop ever's flack
+tentacles is an extremely powerful
+disable spell because in order to break
+out of the restraining effect,
+characters have to spend their action
+just to try to make a saving throw to
+get out of it. In Boulders's Gate 3,
+they just get their save at the
+beginning of every one of their turns.
+So, they're going to break out of it
+pretty consistently. um which turns it
+from an extremely powerful and really
+interesting spell into a control spell
+that simply doesn't control enemies as
+well as other control spells and is less
+consistent. Also targets a worse saving
+throw in the form of strength because a
+lot of the enemies you would want to
+restrain are going to have good strength
+saves. So Ever's Black Tentacles still
+useful for great old one warlocks and
+with the combination with wall of fire,
+it's still castable. Um, I personally
+have kind of a grudge against this spell
+because it's so much cooler in tabletop
+than it is in Balders's Gate 3. They
+give it Btier for Great Old One
+Warlocks, Ctier for Wizards for the
+combination with fire effects. U, but
+mostly if you want this effect, it's
+available at level one, so don't spend a
+level four spell slot on it. Fire
+shield. Fire shield is a 10 turn
+non-conentration buff spell. takes your
+action to cast, but since it lasts for
+10 turns, you can usually cast it before
+combat starts and not actually spend an
+action on it. And it comes in two modes.
+You can either cast this for fire shield
+cold or fire shield warm. If you use the
+warm version, then you gain resistance
+to cold damage. So only half of all cold
+damage will be dealt to you. And anytime
+an enemy hits you in melee, they're
+going to take 2d8 fire damage in return.
+If you use fire shield cold, you gain
+resistance to fire damage. And the
+retaliation damage is cold damage, which
+is usually going to be the more useful
+of the two modes because fire damage is
+more common in Boulders's Gate. So,
+resistance to fire is going to come up
+in more encounters. And doing cold
+retaliation damage probably synergizes
+with other retaliation damage effects,
+most notably Armor of Agthus. So fire
+shield cold can be pretty useful for a
+character that's trying to stack
+retaliation effects with armor of agthus
+and additional cold damage alongside the
+wet effect to do a bunch of damage in
+return. The tool tip for this spell is
+going to show that it does both types of
+damage. So it actually shows more damage
+than the spell does unfortunately which
+can be a little misleading to players
+but you only get either the 2d8 fire or
+cold damage when you cast the spell
+since you choose one of the two modes.
+This is a spell that can be useful in
+some encounters if the damage resistance
+is relevant. Spending a fourth level
+spell slot on that is not a tremendously
+useful exchange, but obviously taking
+half damage for the main damage type in
+a given encounter can be pretty
+powerful. And there are some encounters
+where there's a lot of melee enemies
+that do a specific kind of damage. And
+so having retaliation damage against
+them and resistance against their main
+damage type can be pretty powerful if
+you have an a character that you know is
+going to be taking a lot of hits. The
+main problem with fire shield is that
+enemies do actually care about
+retaliation damage and how much damage
+they're going to do to you uh when they
+calculate who to attack. So often the
+upshot of casting fire shield on an ally
+is simply going to be that the enemies
+choose to attack somebody else. So
+unless you're able to get damage
+resistances or really high AC on your
+entire party, fire shield could will
+more often end up redirecting aggro than
+actually causing your characters to take
+half damage and do the retaliation
+damage in return. There are some
+specific builds that can get good usage
+out of fire shield. Abduration wizards
+are sort of the natural pick where the
+retaliation damage is part of your plan
+and you don't mind taking hits.
+Barbarians can also get pretty good use
+out of this. They naturally have
+resistance to bludgeoning, piercing, and
+slashing. But giving them cold or fire
+resistance can make them uh much harder
+to kill with one of the main damage
+types in an encounter. And barbarians
+are likely to take a lot of hits. They
+have reckless attack to cause enemies to
+prioritize attacking them. Uh so you can
+get a decent amount of retaliation
+damage out of this. But in general, this
+is going to be a very expensive spell
+slot. Fourth level spell slots are
+really valuable for just a damage
+resistance for one encounter, which you
+can get in lots of other ways, whether
+with the elixir passive uh effects like
+the darkfire short bow um or from
+resistance to energy, which just lasts
+all day. Uh so fire shield won't always
+be useful for the resistances and the
+damage retaliation is only on melee
+attackers and only useful for builds
+that actually want to get hit, which is
+a very small subset of builds. And the
+amount of damage that you do, even with
+the cold version against wet enemies, is
+still not that exciting. Um, for
+effectively 4d8 cold damage, will add up
+pretty quickly, but and so is useful in
+combination with armor of agthus, but by
+itself, it's not that much. So, fire
+shield requires some pretty specific
+circumstances to want to use it. I'm
+going to give it Ctier because there are
+builds that make use of this, and
+there's some encounters where it's
+pretty good. Um, getting this from an
+item also is excellent. So that it is a
+very powerful tool uh given the the uh
+armor that lets you cast it. But for
+actually casting the spell is just too
+expensive for the effect most of the
+time. All right, my friends. We are
+halfway through the fourth level spells
+and surprising nobody. I had a lot to
+say about each of the first half of
+these spells and I will have a lot to
+say about each of the second half. So,
+rather than do one super long video, I'm
+going to split this into two kind of
+short videos just to make sure that it
+is a little bit easier to consume at a
+sitting. Um, so we're going to cut the
+video here and come back with the
+remainder of the fourth level spells in
+the next installment. Uh, as always, of
+course, if you think that there is a
+spell that I have misplaced in this tier
+list or especially one that I'm
+underrating that you think is better
+than I've listed it here, definitely let
+me know in the comments. I'm very
+interested in moving things around based
+on feedback. Um, and if you compare this
+again to my previous version of this
+tier list, it's significantly different.
+So, obviously, we are willing to move
+spells around if people have good
+arguments, make them in the comments
+below. Of course, if you have enjoyed
+the video, feel free to leave a comment
+and hit like. Helps me out a ton with
+the algorithm, so I appreciate you
+taking the time to do that. And of
+course, you can subscribe to my channel
+for more Boulders's Gate 3 spell tier
+lists, build guides, and of course,
+other strategy game analysis. See you
+next time for part two. Thanks for
+watching friends and I'll catch you

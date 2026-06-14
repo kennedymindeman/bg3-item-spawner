@@ -1,0 +1,993 @@
+hello my friends and welcome back to
+another Boulders Gate 3 character
+building guide hope you're all doing
+well today we are forging ahead with our
+level four spells tier list level four
+spells are really interesting from an
+optimization perspective because the
+resource that they consume a fourth
+level spell slot is so valuable that
+means that a level four spell needs to
+be quite powerful in order to justify
+the use of the spell slot that it
+requires fourth level spell slots you
+don't get that many of them per day and
+they come relatively late in your
+character's uh leveling path meaning
+that they are commensurately higher
+value and need to use commensurately
+stronger spells in order to make them
+worth using they also have the
+disadvantage of competing with upcast
+third second and first level spells and
+as we saw last time in my third level
+spells tier list third level spells are
+some of the ones that are inherently
+strongest and benefit the most from
+being cast at higher levels meaning that
+fourth level spells are fighting an
+uphill battle in order to be used over
+just upcasting a third level spell slot
+so I think it's really important that we
+determine which of the fourth level
+spells are actually worth spending a
+fourth level spell slot on as opposed to
+upcasting a third level spell and which
+simply don't justify their cost so a
+tier list I think is incredibly strong
+at this point because it's going to help
+you make a decision with one of the more
+important resources that your character
+is going to use since you get multiple
+fourth level spell slots but they are
+very valuable the decision is both
+impactful in enough and frequent enough
+that it's going to significantly change
+how effective your character is so I
+think this is actually one of the more
+important tier lists that we've done so
+far in terms of uh spell selection
+before I begin I will mention that I'm
+recording this after having posted my
+third level spells tier list both parts
+one and two and as a result of the
+feedback that I got on that I am going
+to make no changes uh the feedback was
+extremely helpful and extremely valuable
+but there were basically three spells
+let me uh hop over to this the third
+level spells tier list real quick just
+to talk about them three spells that
+people wanted to see moved the first was
+Glyph of warding which I'd already moved
+in part two um the second that people
+were really interested in talking about
+was daylight which I think is Justified
+in its marginal position here because
+while it's true that you can get some
+use out of it in act two it's not uh
+fight changing use so while it does have
+some value in that spot I think mostly
+the times when it's impactful are the
+act three event Empire fights rather
+than the Act 2 fights so I'm pretty
+happy with daylight as marginal and
+Warden of Vitality which you'll be happy
+to know I've recorded a build for which
+will be going up tomorrow as of the date
+of recording but um I guess two days ago
+by the time you're seeing this video uh
+because I was really interested
+in exploring that further when I kind of
+did the math on it and saw just how much
+healing it was so take a look for that
+it will have gone up two days ago unless
+I changed the schedule for some some
+reason other than that very happy with
+this tier list and it seemed like you
+all were as well so let's jump in to the
+fourth level tier
+list before we begin of course I will go
+over
+the tiers very quickly by the this time
+we've done like six hours of spell tier
+list so you all know the drill of course
+but just to quickly reiterate in s tier
+we have spells that are critical that
+every character who has access to these
+spells will take and cast frequently in
+a tier we have your sort of Workhorse
+adventuring spells these are great
+spells that very happy to have and that
+it's worth building a character around
+in B tier we have solid useful spells
+that will typically be a Mainstay of
+your adventuring day um but are not as
+impactful and are more build filler
+rather than uh sort of build around
+spells in C tier we have marginal spells
+that either are very powerful in certain
+very narrow contexts like a specific
+build or a specific encounter or just
+generally won't get that much use or
+won't be that impact when they do have
+use uses and in D tier we have weak
+spells that you typically want to avoid
+preparing and casting I have continued
+to elect not to use an F tier because I
+think there are very few spells in the
+game that are useless or actively
+harmful but I will mention a couple that
+uh that might be useless or actively
+harmful as they
+appear one thing that I will mention as
+well um just to clarify this because I
+think there's there's some confusion
+sometimes just with how this works out
+is that a b tier spell or a c-tier spell
+is still a good spell the difference
+between these tier levels is not very
+large um the margins here are quite thin
+for what determines a spell going in one
+tier and another tier so if your
+favorite spell happens to be in a tier
+that you're not happy with don't worry
+it's it's still a good spell and very
+much worth preparing in casting um even
+the C tier spells have a lot of power in
+the context in which they're power
+powerful so bear that in mind when we're
+evaluating the Spells and of course I
+will mention that my bias here when
+evaluating spells is that I like to uh
+long rest infrequently if you are long
+resting after every single fight then
+some of the more like one shot spells
+may go up a little bit in value but I'm
+trying to maximize efficiency of
+resource use when evaluating spells
+typically so that's the angle that I'm
+coming from all right let's jump in and
+talk about the first spell banishment
+banishment is a spell that has changed
+amongst the most from tabletop to
+Boulders Gate 3 so in Boulders gate
+banishment is a concentration-based
+single Target spell that lasts for two
+turns um and simply removes an enemy
+from combat so far that's basically the
+same as tabletop except that in tabletop
+it lasts for up to a minute or 10 turns
+and if you concentrate on the spell for
+that full minute the enemy does not come
+back back in balder's gate they always
+come back so the question is even with
+that significant Nerf um because it no
+longer just instantly kills one enemy or
+removes them from combat permanently um
+is this spell still good the answer is
+yes this is still a pretty strong spell
+two turns of full disable for a single
+save is a very good ratio it's hard to
+get that most other spells will require
+enemies to continuously make saves in
+order to get multiple turns of disable
+and something that's overlooked with
+this spell frequently is that it targets
+Charisma and a spell that targets a
+Charisma save is incredibly powerful
+enemies will typically have very weak
+charism in in general obviously there
+are some enemies that have high Charisma
+um but in general this is going to be
+one of the weakest saving throws
+available to enemies and especially
+powerful melee enemies will often have
+very very weak Charisma saves basically
+allowing you to guarantee that this
+spell lands now it it only takes one
+enemy out of combat for two turns and
+they you can't hit them when they're
+banished cuz they're not there so you
+only want to use this if you either need
+two turns to like regroup or reposition
+and heal or something or want to clear
+up the rest of the enemies in the
+encounter and then focus on the the main
+boss enemy two turns later after they
+come back however that's a very powerful
+effect and of course you can set up
+ground effects in the area where you
+disabled this enemy and have them come
+back on an ice surface in a wall of fire
+or something like that putting them in
+severe Jeopardy when they return so it's
+not like you even if you banish an enemy
+um even if you banish an enemy That's
+The Last Enemy in combat it's not like
+you just have to sit around with
+uh just twiddling your thumbs in order
+uh you can actually do productive things
+in the meantime buff heal set up ground
+effects and so on the lack of ready
+actions in Boulders gate compared to
+tabletop does weaken that aspect of the
+Spell significantly as well CU in
+tabletop you could ready actions to
+attack them when they returned um but
+even with all of those Nerfs compared to
+the tabletop version of the spell this
+is still a powerful and functional spell
+that will be quite solid in a lot of
+combats and that I recommend taking
+frequently I would say this is an a tier
+spell primarily because it targets
+Charisma and that is such a valuable
+feature in a hard disable um something
+that basically no other spell is able to
+do and gives you an extremely reliable
+disable for a single enemy in
+combat next up blight blight is a single
+Target save that targets Constitution
+which is much much worse than targeting
+Charisma generally the worst save to
+Target is Constitution followed by
+dexterity the best saves to Target are
+Charisma and intelligence and then um
+wisdom and strength are somewhere in the
+middle because enemies will either have
+very good wisdom or very bad wisdom and
+very good strength or very bad strength
+so it limit to you can use those spells
+against but it's still a reasonable uh
+save to Target Constitution almost every
+enemy is going to have a decent
+Constitution save so targeting
+Constitution is always a
+downside this spell does 8 d8 of
+necrotic damage to a single Target um
+and if they are a plant they take
+maximum possible damage from this spell
+or 64 damage uh however this doesn't
+matter at all in balers gate cuz there's
+basically no plant enemies and the ones
+that do exist in the game are H have
+resistance to necrotic damage anyways so
+you wouldn't want to use blade against
+them regardless this spell does on
+average eight more damage than a
+fireball but only targets a single enemy
+and targets a worse save it has a con
+save for
+half um it also only has 30 foot range
+there is one thing that is worth noting
+about this spell which is that currently
+as of the date of recording the staff of
+cherished necromancy is bugged and lets
+you cast
+uh necromancy spells infinitely without
+spending spell slots meaning that you
+can spam this spell forever um I'm not
+going to consider that use case because
+it's a bug and an exploit and all that
+we'll be considering it as though you
+have to actually spend a level four
+spell slot on this spell is it worth
+spending a level four spell slot on
+barely more damage than a single uh to a
+single Target than Fireball does in an
+AOE I think you can guess the answer the
+answer is of course no this spell simply
+isn't worth the spell slot to for the
+damage that it deals it is um low damage
+relatively low damage very likely to be
+resisted uh low range and a high value
+spell slot extremely weak spell and I do
+not recommend casting it D tier
+spell confusion confusion is well it's a
+spell with a lot of confusion around it
+because it is another spell that we are
+not entirely sure how they implemented
+it in Boulder's Gate because some of the
+stuff is hidden and for a long time it
+was extremely bugged so let me tell you
+how it's supposed to work according to
+tabletop and then I will also talk about
+how I think it works in Boulders gate
+but the combat log doesn't show the die
+roll that you're supposed to be making
+so we can't tell if it's working exactly
+the same as it as it does in
+tabletop how it's supposed to work is
+it's a 20ft radius concentration spell
+with a wisdom save to to resist it um
+and a wisdom save at the end of every
+turn or in Boulders gate at the start of
+every turn cuz uh start of effect tick
+down at the start of turns rather than
+at the end of turns in in balers gate um
+it lasts for three turns and inflicts
+the confusion debuff the tool tip of the
+spell says that that causes them to
+attack at random wander around aimlessly
+and occasionally skip turns in a stoer
+how this is supposed to work in tabletop
+D andd is that for every confused enemy
+they roll a d10 a 10-sided die if they
+get a one they move in a random
+Direction and don't take an action if
+they get a two through six so 50% chance
+they just don't move or take an action
+at all if they get a seven or eight they
+hit an adjacent enemy or an adjacent
+creature just a randomly determined
+adjacent creature and then don't move um
+but just make one melee attack that
+round and on a 9 or 10 So 20% chance
+they act normally I'm not certain that
+this is how they've implemented it in
+balder's gate because that should be a
+20% chance to act normally near release
+this spell was bugged and enemies would
+act normally 100% of the time that has
+been fixed but I still see enemies
+acting normally anecdotally and you know
+I I would need to do like a data survey
+or something to be sure of this so this
+is just my anecdotal observation I want
+to be clear on that anecdotally it seems
+like they act normally more than 20% of
+the time in Boulder's Gate when you
+inflict confusion on them whether this
+is because I'm just unlucky or because
+they've changed the ratios on the die
+rules I'm not sure or and I think this
+is possible because this is kind of the
+same bug that crown of madness has the
+enemies are determining their movement
+and targets if they roll the seven to
+eight result um where they get to attack
+an enemy they're still able to move and
+then attack and they're determining
+their targets and then moving to be
+adjacent and then attacking and they
+always attack an enemy cuz they
+determine their targets I'm not certain
+exactly what's going on with this spell
+um but in my experience this spell will
+about half the time as it should cause
+the enemy to skip their turn and about
+half the time cause an enemy to act
+normally maybe more like 30% of the time
+caus an 30 40% of the time cause an
+enemy to act normally but it does seem
+like they act normally more often than
+they should be according to the stats
+that we have from tabletop this is a
+complicated way to say that this spell
+is slightly unreliable and if you know
+me you know I don't like slightly
+unreliable spells because that's uh you
+really want reliability when you're
+trying to optimize Randomness as I say
+very often is the enemy of optimization
+and so we want spells that are extremely
+reliable ideally now confusion is a very
+powerful effect and it hits lots of
+enemies because it's a a large AOE and
+you can cast it freely into combat
+because it doesn't affect allies at all
+so you can freely cast it into combat
+that's a that means there's a lot of
+stuff in its favor but the combination
+of the fact that it is slightly
+unreliable and the fact that enemies get
+a save against it every turn so you're
+unlikely to get a full three turns of
+disable about it do hold this spell back
+I still think it's good because it
+causes enemies to attack each other it
+causes enemies to skip turns it's uh its
+peak power is extremely strong but the
+kind of randomness of this spell in
+general like the base design of the
+randomness of this spell and at least my
+suspicion is that it is slightly more
+random as implemented as implemented in
+Boulders gate than it is supposed to be
+um do hold this spell back I think this
+is overall a b tier spell as a result
+it's good and something that you are
+going to want to use in a bunch of
+combats but uh and often an excellent
+thing to be concentrating on it's a
+powerful effect because you can still
+attack the disable is very powerful it's
+one of the strongest disables in the
+game because it mostly stops enemies
+from doing stuff and you can still hit
+them um but just the fact that it is not
+100% reliable makes me hesitant to
+recommend this spell for every combat
+because if an enemy just acts normally
+then you've spent a spell on nothing or
+if they make their save then you've
+spent a spell on nothing so that can
+definitely hold the spell back now one
+thing that does differentiate app it
+from some other spells is that even
+though they make the save at the start
+of their turn they still gain the
+confusion effect for that turn so it
+will if you land the initial save they
+will always be confused for at least one
+turn um on failing the first save even
+if they then subsequently make the save
+to remove confusion like I said this
+spell is confusing which is very
+appropriate but overall this is a b tier
+disable that you can throw into uh a big
+group of enemies cause them to randomly
+attack each other or wander around it's
+a good thing for a druid to concentrate
+on before entering wild shape a good
+thing for a Bard to concentrate on in
+most fights especially if the enemies
+are immune to hypnotic pattern or fear
+um just a solid spell that I think is
+worth taking uh but do be prepared for
+some
+Randomness conjure minor Elemental
+conjure minor Elemental is another
+dayong summon spell this is a level four
+spell slot with three possible modes you
+can get two mud Ms who are melee
+attackers that do mod moderate damage
+but have very poor defensive stats to
+ice Ms who are ranged attackers who do
+moderate damage but have very poor
+defensive stats and or an azer who has
+quite good defensive stats but you only
+get one and it does pretty crappy damage
+honestly overall of these three options
+I think the ice maites are Far and Away
+the best because each of them can cast
+chromatic orb cold which is the best
+version of chromatic orb uh at will so
+they can stay 60 ft back from the
+fighting meaning their defensive stats
+don't matter as much and they produce
+ice surfaces regularly we've talked
+extensively during these tier lists
+about why ice surfaces are so powerful
+so uh the ability to just have a bunch
+of free ice surfaces every turn are
+really good and of course the fact that
+they're range attackers means that they
+can be much more safe meaning they're
+much more likely to last you the entire
+day considering the use of ice Ms I
+think that this spell is another one
+that is reasonable to cast in for most
+adventuring days and will give you a
+bunch of solid additional crowd control
+and kind of moderate damage because
+their attack roles with the chromatic
+orbs are not incredible so you won't hit
+that often but making two extra attacks
+every turn is definitely very powerful
+and the crowd control availability of
+the ice surfaces is extremely strong one
+thing that I'm not actually sure of and
+I should I should test this or if
+someone wants to test this uh and let me
+know in the comments uh is what the save
+DC on the ice Ms ice surfaces is does it
+use your the Caster safet DC or does it
+use theirs um if it uses the Caster
+safet DC it's much
+better so uh something to test if you if
+you feel like jumping into the game and
+testing that
+out overall I would say that this is a a
+nice use of a level four spell slot it's
+not going to be a huge boost to your
+adventuring day but the fast fact that
+you can pre-cast it and it will give you
+a solid additional Advantage for the
+entire day is definitely
+not worth um is is definitely worth
+paying attention to uh you can do
+without this and of course these do have
+the struggles of all Summons of needing
+some support needing micro so they take
+a lot of time to move around although
+the ranged attacker summons are a little
+easier to use in combat than the uh than
+melee summons are and of if they die
+randomly or an enemy chooses to attack
+them then you've spent a spell slot on
+nothing because the your spell slot is
+gone and you no longer have the benefit
+of it overall I would say this is a b
+tier spell that I think you're going to
+cast some days and not cast other days
+depending on whether you have more
+important uses for your level four spell
+slots and whether you're kind of a
+summon focused build or summon focused
+party next up we have another summon
+spell conjure Woodland being this is a
+druid only spell at level seven Druid
+and it conjures a drad who in turn
+conjures a wood wde now the dryad is a a
+reasonably solid summon she has weak
+stats but does actually quite
+respectable damage with a 4 d8
+bludgeoning damage attack it's a melee
+attack but for a summon that you don't
+have to spend actions on that's a pretty
+reasonable amount of damage and more
+importantly she can cast in tangle and
+Spike growth for free and has the
+passive effect of making your entire
+party immune to difficult terrain
+including her own entangles and Spike
+growth the wood WOD that she also
+summons is that she herself summons the
+dryad summons um also gets to cast
+entangle for free giving you two
+powerful surface effects that you are
+not spending spell slots or actions on
+in every single combat um and the woodw
+has actually quite good stats with 18 AC
+40 plus hit points and 10 points of of
+regeneration every round the woodwood
+can actually tank pretty well and
+doesn't need healing support from the
+rest of your party in order to stay
+alive meaning that this this uh adds
+quite a bit of resilience to your
+party's adventuring day this is free
+spellcasting of two very powerful spells
+both in tangle and Spike growth are very
+good immunity to surface effects or or
+to difficult terrain surface effects
+which they are also producing these two
+spells and solid additional damage
+throughout the adventuring day this is
+an incredible amount of value packed
+into a single spell the uh number of
+uses for the the Woodland beings and
+wood wods are
+absurd and unlike a bunch of other
+summoning spells this spell is so good
+that even if you hate microing summons
+around during the day and like making
+them jump over Ledges with you you can
+just cast this for one fight and it's
+probably still the best spell that you
+could cast for that one fight compared
+to any other fourth level spell slot
+even if you only use this spell for
+single fights and then dismiss the
+summons afterwards because you hate uh
+hauling them around the world with you
+which is very understandable given the
+way balers gate handles that this this
+spell is so good that it's worth doing
+that absolutely an S tier spell for
+Druids I do not think you should leave
+home without this spell for a druid um
+surface effects Spike growth and so on
+are very powerful getting them for free
+is very powerful and having an
+additional tank available to your party
+um is an excellent effect the spell will
+remain incredible throughout the entire
+game uh highly
+recommended death Ward death Ward is a
+melee range action that lasts all day
+until last until long rest um does not
+require concentration so and if your
+Creature if the target would die they
+instead survive at 1 HP if they'd go to
+zero they survive at one HP this lets
+you protect your party's actions in so
+that part is pretty nice because
+normally if you get knocked to one H to
+zero HP and then get brought back with a
+healing spell or effect you lose your
+action for that turn um which is a rules
+change from table top to Boulders gate
+that I like a lot personally uh I might
+do a video about that and some of the
+other rules changes whether I like them
+or not at some point um but that one I
+like a lot and so this lets you protect
+that character's action but it's the
+it's if still effectively one point of
+healing for a level four spell slot so
+the numbers on this spell are not very
+good yes it's the the most important
+point of healing uh something that I'm
+fond of saying is that the only hit
+point that matters is the last one and
+this hit uh spell protects the only hit
+point that matters but there are two
+things that are holding this spell back
+significantly one is just that it is so
+expensive a level four spell slot is
+really really expensive and two
+sometimes enemies do multiple instances
+of damage in a single attack um and in
+Boulder's Gate very often that's more
+than they very often they will do
+multiple instances of damage in a single
+attack the death Ward will trigger and
+then you'll die anyways to the to the
+additional damage that they've done from
+another attack so the chances that this
+actually keeps you alive against an
+enemy and saves an action um it your
+initiative has to like then come up next
+and they have to not be doing multip
+multi- attacks or multiple damage
+instances in a way that kills your
+character uh this spell will just almost
+never actually be useful like all the
+other non-concentration long rest spells
+this spell is worth casting from a camp
+follower because then it's free
+but when considered as a spell that you
+actually spend party resources on you
+shouldn't cast this spell because the
+numbers are bad and it will basically
+never
+work dimension door dimension door is a
+teleportation spell that targets you and
+one other creature to anywhere you can
+see anywhere you can see is pretty cool
+um this does take an action but uh the
+extreme range on this spell does mean
+that it has some uses that Misty step
+doesn't obviously the comparison we have
+to make is how often is dimension door
+going to be more useful than just having
+Misty step and the answer is not very
+often right because Misty 60 foot range
+is enough that Misty step will be good
+enough for most uh uses and you
+typically won't need to bring an ally
+with you and of course being a bonus
+action rather than an action is
+incredibly impactful when you're talking
+about um a teleportation spell however
+there are two Encounters in the game
+where moving long distance in a short
+period of time that I can think of we're
+moving a long distance in a short period
+of time is really important and one of
+those encounters dimension door is is
+basically going to solve the encounter
+for you it will pretty much solo one of
+in my opinion the hardest Encounters in
+the game which I won't spoil because
+it's it's a very important story
+encounter but happens in act three um
+against one of the one of the major
+bosses in the game if you've played it
+you know which one I'm talking
+about being able to move across the
+entire arena in that encounter and in a
+couple other encounters does mean this
+spell has some uses and so while I
+wouldn't recommend preparing it
+regularly if you're going into a very
+large Arena and know that you want to be
+on the other side of that Arena
+dimension door is the best way to do it
+so I'm going to put this spell in C tier
+um overall you will cast this spell like
+once or twice per game but when you do
+cast it it's going to be extremely
+impactful and useful and the fact that
+it just by itself pretty much solves one
+of the most difficult Encounters in the
+game I think justifies a c tier for
+dimension
+door dominate Beast dominate Beast uh is
+a wisdom saving throw concentration
+effect that forces a beast to fight for
+you it turns them from an enemy into an
+ally and they will then fight alongside
+the Caster rather than against them uh
+dealing doing a punch a bunch of uh
+which which is an extremely powerful
+crowd control effect obviously and also
+increases the damage output of your
+character significantly cuz now you have
+a beast fighting for you the question is
+how many beasts are there and how
+difficult are the Beast encounters I
+guess there is one late game encounter
+against beasts that can be pretty
+difficult but even then uh dominate
+Beast is probably not the best way to
+deal with that encounter and other than
+that other than the chol en counter
+there's almost no beasts in the game so
+dominate Beast just will never come up
+um and if you're Landing dominate beast
+on a single Beast maybe it's better to
+just land hypnotic pattern or whatever
+on multiple beasts instead anyways um
+how often is this spell going to be
+significantly better than just an AOE
+disable for all of the beasts that
+you're fighting in the in the game I
+would not recommend dominate beast in
+general um D tier spell just because
+this campaign that we're playing in
+balers gate simply do does not feature
+enough beasts to make it
+worthwhile evard's black tentacles I'm
+going to say evard rather than evard um
+although I think either way could be
+right I'm not 100% sure which way you're
+supposed to pronounce it go ahead and
+let me know your opinion in the comments
+below so I can ignore it iver's black
+tentacles is a concentration-based 20
+foot radius uh ground targeting effect
+with that you can place within 60t range
+that creates an area of difficult
+terrain on the ground in which enemies
+have to make a strength saving throw or
+they become smothered smothered is a
+condition in balers gate that is
+basically identical to in Tangled from
+the level one spell entangled in the
+enemies can't move attacks against them
+have advantage and their attacks have
+disadvantage and their deck saves have
+disadvantage um but with the addition
+that they also take 3d6 of bludgeoning
+damage this is a significant Nerf from
+the tabletop version of black tentacles
+because they get to make a strength
+saving throw every return to get out uh
+for free in tabletop they have to spend
+their action trying to free themselves
+from the black tentacles and they don't
+get to make a save at all unless they
+spend an action to make a strength or
+deck save to get out so in tabletop this
+costs characters their actual turns if
+they fail the save in balers gate this
+only costs them their movement if they
+fail the save and they get to make the
+save every turn for free this
+significant Nerf obviously hurts the
+spell quite a lot and so the question is
+is it still good the answer is
+unfortunately basically no um you're
+essentially casting a level four spell
+slot for a minor addition of damage to a
+level one spell 3d6 of damage is not
+worth turning requiring your entangle to
+cost a fourth level spell slot um and
+while entangled is a pretty good
+condition the only difference between it
+and black tentacles in Boulder's Gate is
+is a tiny amount of bonus damage black
+tentacles also has some weird timing
+rules rules with how it takes effect in
+game so when you cast the spell they
+make the initial saving throw and if
+they fail it they become restrained um
+when you cast a spell immediately but
+they don't take the damage immediately
+at the beginning of their next turn they
+then get to make a strength save again
+and if they succeed they escape breaking
+off the restrained effect but if they
+fail then they are continued to be
+restrained and take the damage so the
+initial saving throw matters only for
+advantage on attacks for the rest of
+that round and it's the second saving
+throw that actually determines whether
+they lose their movement or not or take
+the damage or not one thing this does
+mean is that you can cast it on yourself
+as a wizard and you won't take the
+damage and thus potentially lose
+concentration on the spell um until the
+beginning of your next turn so if you're
+in a really weird situation where you
+need an AOE that you can cast on the
+ground at yourself and uh not
+potentially lose concentration on it you
+can do do that with black tentacles I
+don't recommend that but I guess it's an
+option overall the spell just because of
+the enormous Nerf that it's received in
+balers gate compared to the tabletop
+version just isn't very good um the
+timing rules on it do also hurt it a
+little bit although not as much as some
+other spells but it means that you
+aren't double dipping on the damage the
+way you are with a bunch of other ground
+targeting damage effects so you're not
+getting the same level of additional
+damage and the damage is already very
+small basically you're adding 3d6 of
+bending damage to a level one spell
+which obviously is not a trade that is
+worth upgrading the spell three levels
+um and there's no other change from
+entangle so this is a d tier
+spell I really wish they had implemented
+this as it is implemented in tabletop
+incidentally because it's a super cool
+and fun enatic spell um really powerful
+in tabletop but in Boulder's Gate they
+just just decided not to make it do the
+thing that it's supposed to do so uh as
+with many of the spells that have
+received massive Nerfs this one also
+suffers and is no longer worth
+casting fire Shield fire Shield is an
+interesting spell because amongst other
+things about this spell the tool tip for
+the spell lies it's just completely
+wrong so the tool tip says that this
+does uh four to 32 damage or 4 d8 of
+damage but it's counting both the fire
+and cold versions in that calculation
+and you have to choose between the fire
+and cold versions when you cast the
+spell how the spell works is you cast it
+um and for the next 10 turns you gain
+resistance on either fire or cold and
+when an enemy uh hits you you do the
+damage the opposite damage type back to
+them so if you choose the cold version
+of fire Shield it's going to do 2 d8 of
+cold damage and you'll have resistance
+to fire damage if you choose the warm
+version of fire Shield it's going to uh
+give you resistance to cold damage and
+you'll do 28 of fire damage back this is
+significantly less damage than the tool
+tip claims it does so it's worth noting
+that the tool tip for this spell is
+wrong fire Shield is interesting for two
+reasons one it is not concentration and
+it is 10 turn uh 10 turn duration of
+passive damage that you don't have to
+take an action to get you just have to
+get hit now normally it's not a good
+idea to plan to get hit but there are
+some builds that want to be attacked act
+because they are retaliation builds
+typically you'll see fire Shield
+combined with armor of agathys and
+abjuration wizard in order to create a a
+retaliation tank build if you're
+interested in that full build check out
+my uh build called the ultimate tank
+wizard um which you can get more
+information from about how the fire
+shield and armor of agius combo Works
+alongside abjuration Wizard and in that
+context it's a reasonable use of a spell
+because it's going
+to not because the dam the individual
+amount of damage is particularly high
+but because you get cold damage on top
+of the armor of agius cold damage which
+you can then double with the wet
+condition and that will often cross a
+threshold of damage where it only takes
+one attack from an enemy to kill them
+rather than two attacks from an enemy to
+uh and the retaliation damage to kill
+them if you have like a level five armor
+of agius up for 25 uh retaliation damage
+double to 50 then a lot of enemies have
+about 60 health so the additional 2 d8
+doubled cold damage from fire Shield can
+cross the threshold of the about 60
+Health that a lot of enemies have
+causing them to die if they attack you a
+single time rather than getting multiple
+attacks in that context it can be an
+okay spell the other thing that fire
+Shield does that is kind of interesting
+is that it is a non-concentration way to
+gain resistance on a damage type and
+normally the best way to gain resistance
+on a damage type is either passively
+from like Ranger class levels or from
+gear but the other way that you will
+typically see gain see the ability to uh
+resist in Elemental damage gained is
+through the protection from energy spell
+which lasts all day but requires your
+concentration fire Shield is a way to
+get damage resistance that doesn't take
+your concentration so if you need damage
+resistant to a specific Elemental type
+for a specific encounter you can use
+fire Shield to gain cold or fire
+resistance without wasting your
+concentration leaving you open to
+concentrate on a a powerful crowd
+control spell or on um haste or you know
+any of the other tons
+of powerful concentration spells that
+are so useful for wizards to have that
+being said this is still a spell where
+you're spending a level four spell slot
+for if you get hit like lots of times a
+I don't know let's say getting attacked
+five times in a combat is a reasonable
+amount then you're doing 10 d8 of damage
+for a level four spell slot but spread
+out over multiple turns and presumably
+multiple enemies um so the efficiency on
+this spell isn't great and outside of
+the context of the retaliation tank
+build you really really do not want your
+wizard to get hit five times um so I
+would not recommend preparing this spell
+in general unless you really need a
+non-concentration way to
+gain um Elemental damage resistance
+or you are building specifically for
+this build now one other thing that's
+worth mentioning is that this is a
+pretty good use of a scroll so if you
+have a scroll of of fire shield on a
+Melee character this that can be a great
+way to add a little bit of extra damage
+to a character that intends to tank
+already um and can be a pretty
+reasonable use of a scroll uh to cast
+but as a spell that you prepare and cast
+um on Wizard or fiend warlock I would
+not recommend this spell uh it is a c
+tier spell for the uses of gaining
+concentration free energy resistances
+and for the retaliation tank build but
+only a c tier spell I would say sort of
+on a technicality because that one build
+exists and wants to use this spell
+otherwise I would typically avoid using
+this spell all right my friends I think
+that I am going to cut this video in
+half here because I was sort of hoping I
+could get through all of these in one
+video but I really don't want these to
+go over an hour and we're already at
+more than half an hour on this video so
+I am going to cut the level four spells
+into two for the level five and six
+spells I almost certainly will be able
+to fit them in one video but as always
+my friends I hope that you've enjoyed
+this tier list do let me know if there's
+anything that you would change or move
+around in the comments below as you've
+seen I am very open to feedback and
+suggestions and uh we've moved several
+spells already and of course if you've
+enjoyed the video do please feel free to
+leave a comment uh like the video and
+you can subscribe to my channel for more
+balers Gate 3 strategy guides and other
+strategy game videos cheers my friends
+I'll catch you next time

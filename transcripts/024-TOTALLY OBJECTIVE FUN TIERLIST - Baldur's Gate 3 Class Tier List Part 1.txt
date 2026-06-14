@@ -1,0 +1,1614 @@
+hello my friends and welcome back to
+another balers gate three tier list hope
+you're all doing well I've got a fun one
+for you today and I mean that literally
+because I'm going to be going through
+and ranking each of the sub classes
+based on how fun they are in my opinion
+to play now obviously this tier list is
+going to be completely objective and it
+is important to keep in mind that if you
+and I have different ideas about what
+makes a fun playthrough that does
+reflect poorly on you as a person so
+just bear that in mind as we're going
+through the tier list and because this
+is the internet I should say that was
+obviously sarcasm this is not meant to
+be that serious and I'm using this as a
+jumping off point to really talk about
+what I think is cool and interesting
+about each subass and maybe give people
+ideas for their next playthrough and
+things they'd like to try out because
+this game supports all kinds of
+different play Styles in all kinds of
+different ways and I think one of the
+things about the game is that every
+class has something really interesting
+and fun and unique about it and is worth
+exploring in fact I was tempted to do
+this playlist uh this uh tier list as a
+goof and just rate them all s tier and
+be like haha suckers they're all exactly
+the same but um I think that there are
+some really interesting things we can
+talk about about what makes the
+characters fun and especially in terms
+of how they're implemented in Boulder's
+Gate and if anyone from laran is
+listening maybe they can use these as
+patch ideas as well I should mention my
+biases things that I like in a subass I
+like to make decisions so I am always
+interested in characters that have lots
+of of different ways that they're going
+to play in an encounter and I don't
+particularly care about having the
+highest possible damage numbers and I
+like it when things can go wrong and
+force me to change my strategic uh plans
+in the middle so that's kind of where
+I'm coming from when I'm raing how fun a
+character is all right let's get into it
+and start raing every subass by how fun
+it is to play I should mention also how
+I'm going to be placing these characters
+within the tiers so I've divided them
+into five different tiers and
+just like with my power level tier list
+the margins between these five tiers are
+very thin the core systems of balers
+gate are really fun so whatever lens
+you're using to interact with them it's
+always going to be a good time so the
+differences between the top tier
+characters and the bottom tier
+characters are honestly not that
+huge in s+ tier I've placed characters
+that remain varied and interesting and
+exciting all the way through the game
+their core gameplay Loop is very fun but
+also they get to change it frequently as
+you go through keeping things fresh and
+interesting and aren't overly powerful
+so they're not going to trivialize the
+game you get to continue to interact
+with bosses and everything like that in
+s tier it's mostly characters that have
+an extremely satisfying core gameplay
+Loop but don't evolve that much over the
+course of the game um these characters
+might be mostly pushing the same buttons
+at level 12 as they were at level one
+and so are going to end up um feeling a
+little bit the same to play all the way
+through but that feeling is so good that
+it just doesn't matter in a tier I've
+got characters with sort of drawbacks in
+terms of how fun they are either there's
+an interface the the core gaml Loop is
+really good but either there's an
+interface issue or a balance issue
+holding these characters back a little
+bit in B tier I have characters that are
+just going to be a solid fun time all
+the way through these characters have
+satisfying gameplay loops and do exactly
+what you want them to do in ways that
+are really interesting and in C tier I
+have characters who uh have something
+annoying with their interface or a
+balance issue that holds them back from
+being as fun as they should be and I
+think maybe need some attention from the
+developers to fix something that I uh
+have an issue with with how the
+character is put together in Boulder's
+Gate I should also mention that if you
+think I've missed something fun about
+one of these classes definitely let me
+know in the comments I'm always
+interested in uh learning about like
+what is fun to other people and if I've
+missed a fun way to play a character I
+definitely want to know about it because
+then I'll give it a try if you think
+that a character that I think is fun
+isn't fun I couldn't care less um I mean
+feel free to leave a comment about it uh
+you can boost my metrics but nobody's
+interested in hearing that something
+isn't fun because uh that they think is
+fun all right let's get to raing the
+classes we'll start with barbarians and
+Barbarian is at first glance a very
+simple class you rage and you hit things
+but one thing that laran has done a
+great job of doing is giving Marshall
+characters a lot of interesting combat
+options that they don't have in base
+fifth edition Dungeons and Dragons with
+the bonus action jump and shove from the
+athletic skill and the short rest weapon
+actions you actually have a lot of
+different things that you can do in
+combat as a marshall character uh other
+than just attack again and again and
+again you can also do that and you can
+reach very satisfyingly large numbers
+and of course barbarians also get the
+ability to tank and so on um and moving
+quickly is always fun as well because
+barbarians get very large jump distances
+thanks to typically having very high
+strength and have fast movement as well
+and it's always exciting to be able to
+run all the way across the arena and hit
+something all the way on the other side
+of it for that reason barbarians despite
+having a sort of simple play style do
+give you a lot of choices in combat and
+uh the different things that you can do
+are always really interesting we'll
+start with Berserker Barbarian who uh
+gets an additional attack with their
+frenzied rage and that additional attack
+can be used with a melee attack which
+gives you a stacking minus one to hit
+penalty or with a throw which doesn't
+come with the penalty and knocks enemies
+over um as well as doing additional
+damage based on your strength Berserker
+barbarians are supposed to be sort of
+the allout aggression Barbarian um in
+Boulder's Gate because of the way that
+the throwing action works and the way
+that Tavern brawler works as a feat they
+mostly end up seeing use in throwing
+builds but just playing them as a normal
+melee combatant is a very satisfying and
+Powerful way to play the character as
+well to talk about Berserker Barbarian
+though I'm going to need to talk a
+little bit about Tavern brawler as a
+feet Tavern brawler as implemented in
+balers Gate 3 is different from how it
+is in tabletop and it uh frankly was not
+done very well it breaks a fundamental
+design rule of Dungeons and Dragons
+called bounded accuracy where your
+accuracy should never fall outside of
+certain boundaries uh when you're
+fighting an on level encounter you
+because Tavern brawler lets you add
+double your strength modifier to your
+attack roles it breaks that rule and
+means that often in Boulders gate a
+Berserker Barbarian with thrown weapons
+can never miss their attacks which
+honestly is just not that fun because
+you uh bypass one of the balancing
+mechanisms of the game and end up doing
+more accurate reliable and just more
+damage than you should be doing so that
+there's sort of a balance issue inherent
+to the most common play style with this
+class that being said the core uh of
+this character is super fun obviously
+just doing a lot of damage is very
+satisfying raging and running up to
+things pushing them around punching them
+is very satisfying and throwing enemies
+at each other is hilarious also Throne
+weapons knocking enemies prone is very
+fun as well um and the throne weapon
+play style despite its uh balance issues
+is still just a very fun play style
+there are some minor interface issues
+that takes a few more clicks than I
+would like I wish you could just set a
+um a throne weapon as your default
+ranged weapon and just have it work off
+of a single click instead of having to
+select it from a hot bar but it is uh
+still just an extremely powerful and uh
+satisfying effect to hurl a weapon or
+another Goblin at somebody and knock
+them over um as well as just doing
+enormous amount of damage because the
+intended play style of berserker is so
+fun but there's a balance issue that in
+my opinion holds back this character
+from reaching its potential I'm going to
+rate it a tier um I think this was a
+fairly difficult one to rate because I
+think that the the core gameplay Loop of
+berserker is awesome but Tavern brawler
+does sort of make the game um does does
+break the intended balance of the game
+in a way that makes a lot of encounters
+less interesting and tactical than I
+think they should
+be wildart Barbarian so wildart
+Barbarian is basically five classes in
+one five sub classes in one which is
+pretty cool because there's a lot of
+different play styles that you can use
+with Wild Heart Barbarian I've said in
+the past that I think wildart is the
+perfect balance uh for balers Gate 3
+it's it's the Baseline class from which
+other classes I believe should be
+balanced it does what it does extremely
+well and is super fun to play as a
+result it feels very satisfying to to do
+the things that it's trying to do but it
+doesn't do anything so well that it
+trivializes encounters with the
+exception of a couple broken item combos
+but um we can mostly discount like sort
+of late game item combos I think when
+we're discussing how fun a class is
+because those are fairly easy to avoid
+if you don't think they're they are fun
+Wild Heart Barbarian therefore I think
+is the prototypical S tier class in
+terms of balance you are going to be
+able to in terms of uh fun it and also
+in terms of uh where it should fall on
+the balance Spectrum you're going to
+have your core game play Loop be
+extremely satisfying all the way through
+whatever you wanted to do with your wild
+heart Barbarian it's going to do really
+well and you can run around and hit
+things and like I said because larion
+has added a bunch of other options to
+Marshall characters you will be doing
+more than just attacking on your turn
+that being said your gameplay Loop isn't
+going to change much over the 12 levels
+it's very fun to jump on enemies heads
+with your Eagle heart Barbarian but at
+level 12 you're still going to be doing
+the same get onto a ledge and then jump
+down onto stuff that you were doing at
+level three the fact that that is
+incredibly satisfying to do obviously
+weighs heavily in this class's favor and
+if you are just looking to put up good
+numbers and be an excellent contributor
+while having a great time I can't
+recommend wildart Barbarian highly
+enough the only downside is that it
+doesn't significantly change its play
+style over the course of the game but in
+some ways that's kind of an upside cuz
+if it's a play style you like you get to
+just keep doing it without having to
+change anything defin def itely an S
+tier
+class wild magic Barbarian so wild magic
+Barbarian is a class that I want to love
+because it's got a lot of really cool
+things going on with it Randomness is
+always exciting and you've heard me say
+probably many times if you've watched my
+optimization videos that uh Randomness
+is the enemy of optimization that is
+part of why it's so fun when things are
+random because it means that you have to
+adapt on the fly to what actually
+happens paradoxically though I think
+that wild magic Barbarian is just not
+random enough um because they there are
+almost no actual negative possibilities
+with the wild magic Barbarian surges um
+you can mitigate all of the downsides of
+this class just by raging at least 20 ft
+away from your allies that means that
+you can uh basically with 100% certainty
+only get positive benefits and those
+positive benefits are pretty minor
+there's a couple that are really good
+but most of the time it won't actually
+what wild magic effect you get when you
+rage won't actually change what you're
+doing in combat that much I think that
+this is kind of a m opportunity as a
+class because it is such a cool concept
+and it could really affect what you are
+doing fight to fight but uh the in
+actual play I've found it more to be
+just a kind of tax on my attention to
+make sure that I have positioned my
+Barbarian 20 ft away from my party
+members before I rage then it is
+something that makes me actually change
+my plan
+that said the effects are still pretty
+cool and a lot of things uh that you can
+get are really interesting and also when
+you do get the perfect surge for an
+encounter it is very satisfying and
+there's some surges that can cause you
+some problems but for the most part
+there's no real downsides in this list
+so you're always going to get something
+good and seeing what good thing you get
+is pretty fun it has all the the fun of
+sort of um like rolling a die which is
+part of what is fun about Dungeons and
+Dragons is just that rolling Dice and
+seeing what number comes up is
+inherently fun um and wild magic lets
+you do that with a very visual effect
+but uh I wish that the actual effects
+were a little more impactful on what you
+were doing turn to turn in combat or
+combat to combat within your playthrough
+for that reason I'm going to say that it
+is a b tier class it does what it does
+very well and it's satisfying to see
+what the the surges are but for the most
+I find that they don't change your
+strategy enough to be that interesting
+and so it ends up um being a a more of a
+positioning requirement than a strategic
+consideration when you are playing wild
+magic Barbarian all that said I think
+that refreshing spell slots for your
+allies is pretty cool and Barbarian is
+still just a really fun class to play
+getting the different sparkly effects
+when you uh wild magic rage can be
+awesome so it's there's definitely some
+times when it's going to be really
+satisfying it's also I think very
+flavorful for carlac since her her heart
+is malfunctioning so you if you think of
+it that way you can get a sort of lore
+connection and so um I definitely don't
+want to say don't play this class or
+anything like that just that for me
+thinking about the Strategic
+implications I wish they had gone
+further in the design of this class with
+how it impacted your
+combats BS so it's no secret that I love
+BS it's my favorite class it's what I
+gravitate towards playing in tabletop
+because I do love the sound of my own
+voice as you might have been able to
+guess from watching my videos and um it
+gets to do basically anything you can
+fit a Bard into just about any party
+because their skill access is spread is
+infinite you can access any skills um in
+the game and you can customize your Bard
+based on what your party needs that
+means they will always have something to
+do you will never reach a situation
+where your Bard is redundant with the
+the rest of your party members their
+Spell access is good although some of
+the Spells uh are different from their
+tabletop versions in ways that are
+either good or bad and some of the
+spells that are really Main Stays of BS
+in tabletop are missing in Boulder gate
+the main thing about Bard spells is that
+they're mostly support with few combat
+spells and that means that you have to
+do a lot of planning when you're playing
+your Bard in order for your control and
+support spells to actually matter in
+combat that means that a lot of the time
+what you're doing is um going to be
+quite different from encounter to
+encounter which is is something that I
+really enjoy because what spells
+actually matter in which encounters is
+going to change a lot for a Bard who
+don't tend to get spells that are just h
+a full of raw power and are something
+that you're going to cast over and over
+again but instead have to adapt their
+spells to the situation they find
+themselves in for that reason the
+adaptability and also just the fact that
+skill access is really fun I think that
+bards have as a baseline class are just
+incredibly fun to play we'll start by
+talking about lore s which uh is my
+favorite of The Three Bs so again there
+is some bias here because lore bards
+have what is in my opinion the single
+most satisfying design element uh or
+mechanic in dungeons of dragons in fifth
+edition dungeons of dragons cutting
+words reacting to what your enemies are
+doing is really fun and cutting words
+feels so powerful and so fun to use
+because it lets you change the course of
+combat in the middle you can turn an
+enemy attack that would have hit into a
+miss or a saving throw that would have
+succeeded into a failure at the cost of
+a meaningful resource it costs you a
+baric inspiration so it's not totally
+free and that feeling is just very
+satisfying doing things off turn is
+always going to be exciting I think
+because it means that you are going to
+be able to um act when normally you
+couldn't and so every character that can
+use their reactions for really
+interesting things is going to do uh
+pretty well in this ranking and Lard has
+one of the best reactions in the game it
+helps you protect your party members it
+helps you uh land critical spells and
+that is very fun lards also get the
+single best skill access in the game
+with lots of uh skills and skill
+expertise in various skills and get
+magical Secrets at level six which means
+you can build them into just about any
+type of character that you want because
+uh the magical Secrets come at level six
+and gives you access to all of the
+coolest spells in the game not only does
+that mean you'll always have cool spells
+on this character cuz can take whatever
+your favorite spells are on a lard they
+come early enough that you can
+multiclass and give you the flexibility
+to take magical Secrets while still
+multiclassing into other classes or
+adapting your character in various ways
+that means that lard as a the core of a
+class I think has one of the most
+different builds and builds that do
+radically different things that it can
+be part of of any character which also
+plays in its favor the downside of lards
+is that they're squishy and so you are
+feel like you don't want to be
+vulnerable to enemy attacks then this
+class may not be for you um and they
+don't do direct damage so you definitely
+need or typically don't do direct damage
+so you definitely need party members to
+support them and they play as part of a
+party much better than they play as solo
+characters or as characters um if you
+are looking to really be the one
+outputting a lot of damage I think that
+if you are somebody who just uh wants to
+hit really high numbers this is not the
+class for you but if you're someone who
+likes to feel like you always have
+options then this is definitely the
+class for you I am uh very much more the
+latter type of player I want to always
+feel like I have impactful options and
+like they are changing regularly and so
+uh lard is my favorite class subass in
+the game it's also very funny to play a
+lard because uh vicious mockery is funny
+cutting words is funny Tasha's hideous
+laughter is funny Otto's irresistible
+dance turns encounters into fares and so
+all of those things come together to
+just be one of the uh most uh hilarious
+classes to play in my opinion as well
+and I think in balers gate they've done
+a great job of implementing those
+features in a way that feels satisfying
+and funny to use s+ tier for lards I
+don't think that's going to surprise
+anyone for my tier list from me swords
+bars so swords bars are broken I rated
+them s+ in my power level tier list for
+the subclasses one of only two
+subclasses that I rated as s+ because
+they they kind of break the rules of the
+game as a Caster that gets extra attack
+and gets even more extra attacks than
+every other character they just do too
+many things in terms of the balance
+level of the class however they are
+broken in a really fun way because being
+a a full Caster that can also be an one
+of the most deadly archers or powerful
+melee fighters in the game is very
+satisfying and also just the fact that
+they can make like 8 to 12 attacks
+depending on how you build them in a
+single round is extremely satisfying
+machine gunning out 20 arrows is uh just
+a fun turn to do and so the way that
+swords SPS are broken I think is very
+fun but it must be acknowledged that
+there's a pretty serious balance issue
+with this class it also has to be said
+that this class is the best for abusing
+one of the most uh broken mechanics in
+the game Arcane Acuity and the band of
+the Mystic scoundrel which makes enemies
+completely unable to pass saves against
+your spells and will trivialize
+basically every encounter because you
+can use command or um other control
+spells to with maximized save DCS that
+enemies can't pass just take them out of
+the encounter instantly even if you
+discount that broken item combo though
+swords bars are uh just overow scale for
+Dungeons and Dragons but they're overow
+scale in such a fun way that I think
+they belong in s tier because they're
+still going to be extremely satisfying
+to play you get a lot of options you can
+play as a melee fighter you can play as
+a range character you can play as a
+caster and you can vary that from
+encounter to encounter um but you are
+not going to be facing a lot of
+challenges in your swords bar
+playthrough and it's rare that things
+will go wrong um and if they do
+then uh it's you will always have the
+tools to overcome it which can be
+satisfying in and of itself of course
+but it does mean that uh swords bars are
+going to make the game a little bit too
+easy in my opinion and not suffer the
+same setback attacks that you would from
+a character with well any downsides at
+all swords bars get to do basically
+everything they get skill access they
+get to be party face they get to be
+range damage melee damage control and so
+on support and so on the only thing they
+can't do that well is tank but even then
+they get medium armor access and will
+typically have high dexterity so they
+will be pretty safe to play as well uh s
+tier character I think because of how
+powerful it is too powerful but powerful
+in a really fun way Valor Bard so Valor
+Bard is class that I think is somewhat
+easy to overlook because from an
+optimization perspective there's not a
+lot of reasons to take it sword Bard
+already does all the things that valer
+Bard does and then does way more things
+besides and it does those things better
+so from an optimization perspective it's
+rare that you would want to take a Valor
+Bard because swords Bard is just
+Superior to it from a fun perspective
+though that's actually kind of a good
+thing because swords Bard is too good
+and so Valor Bard doing the same thing
+as swords Bard but not quite as
+efficiently actually in my opinion makes
+it a little more fun to play in a lot of
+circumstances if you want to fill the
+role that of the hybrid uh fighter and
+spellcaster Valor Bard is one of the
+best ways to do it and I think it's sort
+of a shame that um swords Bard gets to
+eat that role so easily in the community
+because of the uh Superior optimization
+that swords Bard offers Valor Bard is
+really fun to play for precisely the
+reason that you are doing both of those
+things at uh Reon reasonable power level
+you won't be quite as good a Caster as a
+more dedicated Caster like a lard you
+won't be quite as good a fighter as a
+more dedicated fighter but you do both
+quite competently and the ability to
+switch back and forth between those
+roles I think is really fun and
+interesting you also get to have uh a
+lot of multiclassing options because in
+six levels you get extra attack and you
+get a bunch of weapon and armor
+proficiencies but you also don't lose
+any Caster levels it's one of the only
+ways to get extra attack without losing
+Caster levels and so uh it is really
+useful in certain multiclass builds
+again obviously um sword Bard eats that
+role a lot of the time but Valor Bard
+does that as well and is really useful
+and flexible as a result so if you can
+get over and for me I this is difficult
+and so I imagine it is for a lot of you
+if you can get over the bad feeling of
+playing a character that is a worse
+version of another character then valer
+Bart I think will actually make for more
+fun and satisfying playthrough than
+swords b in a lot of ways because it
+won't just lay waste to everything by
+being a little too too powerful for that
+reason I'm going to rate Valor Bard as S
+Plus tier I think that it is just a very
+fun and flexible and um viable class
+that will work really well in various
+circumstances as well as giving you a
+whole bunch of different options to play
+the game um it's just a powerful and fun
+class and while it is not as powerful as
+the other two BS I don't think that
+doesn't matter as much because you're
+just looking to be able to do both
+things and if you want to do both things
+well Valor Bard is a great way to do it
+clerics so clerics are another character
+that can fill basically any role in a
+party the only thing you don't get is
+great skill access but otherwise clerics
+get to do just about everything that in
+my opinion makes them pretty fun because
+you can uh change your strategic posture
+between being a tank between being a
+controller between being a support and
+you can do that kind of on the Fly
+because the game does let you change
+your spell list and that's most of what
+will determine what you're actually
+going to do when you're playing the
+character for that reason clerics are
+always going to be satisfying but the
+sort of downside of clerics is that they
+do remove a lot of the element of risk
+from playing the game by being so
+powerful and by having access to some of
+the more powerful and more broken uh
+options in the game like radiating orbs
+and um reverberation Stacks again I'm
+not going to take too much into account
+the specific items that can be used by
+each of these classes to kind of break
+the game because those are relatively
+easy to avoid but it should be mentioned
+that clerics do add a big layer of
+safety to your party that can mean that
+you won't get the same tension and risk
+that you would have in a party without a
+cleric that being said it's still just
+so fun to have the answer to every
+problem and to be able to um have your
+cleric just uh go about uh filling the
+role that you need in every encounter
+and clerics are excellent at doing
+that life clerics so life cleric is kind
+of the default cleric and I think that
+the subass does an excellent job of
+filling the role of the default cleric
+one of the things that you have to look
+at when you're looking at cleric domains
+is what spells they get that aren't
+normally on the cleric list and for Life
+clerics the answer is zero so they're
+just going to be playing the way that a
+normal cleric would but slightly
+stronger they get additional healing uh
+and the ability to um heal more often
+and so if you are looking to play A
+Healer it's go it's likely to involve
+some variety of Life cleric
+unfortunately in Boulders gate healing
+is not a powerful strategy because the
+amount of healing even with the life
+cleric boost doesn't really keep up with
+incoming damage and so that can be
+frustrating I think when you're trying
+to play a cleric because um if you want
+to play the Healer class life cleric
+looks like it's going to do a good job
+of that and then often doesn't because
+healing is just such a difficult
+strategy to make work in Dungeons and
+Dragons in general the reason is just
+that the healing will not reach incoming
+damage and cost you resources and often
+enemies are not spending resources to
+deal that damage so you're going to
+start falling behind using spell slots
+and not even keeping up with the damage
+as it comes in because there's no way to
+heal for free and um enemies can attack
+for free with just weapon attacks so you
+will always be spending resources to
+negate something that cost the Enemy No
+resources to do that I feel like is
+often a frustrating Loop to get caught
+in and that does mean that clerics and
+the healing focus clerics in particular
+um can suffer a little bit in that case
+but life cleric used just as a default
+cleric uh with better access to the buff
+on heal items can be really fun the same
+way that any other cleric is I think
+that because the thing that this subass
+is intended to do is a thing that is
+often somewhat frustrating in Dungeons
+and Dragons I think that there are some
+design flaws with uh healing and with
+life cleric in general I really wish
+that they had some sort of resource free
+way to heal in combat so that they could
+actually fill the role of Inc combat
+healer in a more interesting way um you
+would need to limit it for outof combat
+healing so that it wasn't just free
+constant healing all the time but if
+they could actually act as a Healer and
+give that element to your party in a way
+that um Dungeons and Dragons is
+generally missing then that would be a
+cool unique Niche for them to fill as is
+it feels like a class that's a little
+bit without a home because the thing
+that it's or a subclass that's a little
+bit without a home because the thing
+that it's intended to do is
+strategically difficult to M to manage
+not impossible and there's builds that
+can make it work check out my build the
+best healer in Boulders Gate 3 for one
+that does um but overall it feels like
+you're going to spend a lot of your
+turns playing catchup when you're trying
+to play a life cleric the way it's
+intended to be played and if you're
+trying to play a life cleric just as a
+standard cleric um with just like minor
+bonuses to other things then you would
+often just be better off with another
+subass because they will do it better
+that being said the core cleric gameplay
+Loop is really fun to to play uh just
+controlling enemies running around with
+Spirit Guardians on is still really fun
+so even a character that doesn't get
+things that specifically improve that
+are um pretty fun to play I'm going to
+place life cleric in a tier because I
+think it's kind of a uh a difficult
+class because of the Trap that it sets
+you in where you try to heal in combat
+and then you fall behind and that can be
+frustrating but if you can make it work
+it's still incredibly fun so I think
+similar to um Berserker Barbarian but in
+the other direction this class has a bit
+of a balance issue that uh makes its
+core place style less um exciting than
+it should be and so I am dinging it a
+little bit because of that but it's
+still just a great character to play and
+if you want to play a Healer then a life
+cleric will still do a reasonable job
+light cleric so light cleric's main
+thing that it gets is an a bunch of
+damage spells on the spell list which is
+pretty fun because it adds a bunch of
+damage into cleric's Arsenal direct
+damage is not something cleric normally
+gets access to so adding that into the
+Arsenal gives you a bunch of extra
+options options which are always fun to
+have and warding flare which lets you
+give an enemy disadvantage on attacking
+you as well as at level six an ally
+disadvantage on uh a disadvantage on an
+attack against an ally this can be
+extremely powerful and in fact I think
+it is too good I think that light cleric
+even just monoc class is one of the top
+builds in the entire game even before
+you get into broken radiant orb stacking
+and stuff like that which it's also got
+the best access to in the game and so I
+think that it is just over power curve
+for where it's supposed to be I'll also
+say that while Warden flare is still
+very satisfying to use the same way that
+Shield or cutting words are um causing
+an enemy to miss an attack that they
+were going to hit just feels good
+warding flare is has less decisions
+associated with it because it doesn't
+cost you a resource to use so it's
+almost always right to activate whenever
+you get the opportunity to now you do
+have to sometimes decide whether that
+attack is important enough or if you
+should save it for the next attack in a
+in a round but it's never correct to not
+use it and I think that that is uh less
+interesting strategic Dynamic than with
+cutting Words which costs you an
+Inspiration Point or with Shield which
+costs you a spell which are both uh
+things that fulfill the similar fantasy
+like the similar power fantasy of um
+just saying no to something the the
+magic the Gathering Blue players power
+fantasy um of countering something but
+without a resource cost associated with
+it it is always right to do and I think
+that that is a less satisfying
+implementation of that power fantasy
+because it doesn't there's never a
+situation where you shouldn't do it l
+cleric also just gets uh the best nuke
+in the game at level two which I think
+is kind of a problem because uh often
+the early game is one of the most fun
+Parts because it's one of the parts
+where you're most likely to face real
+challenges and failure and light cleric
+does turn a lot of those encounters into
+free winds because you just run into the
+middle of the enemies and blow them all
+up with your giant AOE nuke doesn't hurt
+allies so there's not even any
+positioning associated with it so I
+think that light cleric while it is very
+fun and satisfying to play has um like
+the the things that it does are really
+fun it has the same balance problem as
+swords B of just being too good at the
+things that it does and being overow
+scale for the game for that reason I'm
+still going to place it in s tier for uh
+fun because I think that the gameplay
+Loop of light cleric is still awesome
+doing great damage having summons having
+tons of utility being one of the best
+support characters in the game is still
+just a really fun character to bring to
+a party but it is just too powerful for
+me to be comfortable putting it in s+
+tier because often it will remove
+decisions rather than increasing the
+number of decisions that you're making
+throughout the course of your play
+through thanks to just warding flare and
+radiant orbs and whatever being too
+powerful that is just an issue that I
+think that cleric suffers from a little
+bit as a class is that the best things
+that it does as a class often remove
+decisions from the game because you just
+run around like in almost every
+encounter your cleric is going to play
+out in a very similar way of casting
+Spirit Guardians and running around
+stacking radiant orbs or casting command
+and dropping all the enemies and so you
+aren't going to be changing your play
+style from encounter to encounter L
+cleric has that problem but sort of even
+more so because the things that it does
+are so good
+that you will always want to be doing
+the same
+things trickery cleric so I have a real
+grudge against trickery cleric so be
+warned if you're a trickery cleric fan
+I'm about to uh talk smack about this
+class because the way that they
+implemented it or rather didn't
+implement it in balers Gate 3 is in my
+opinion pretty lazy and poor invoke
+duplicity is one of my favorite tabletop
+abilities because in tabletop it you can
+cast spells through the illusion it
+works as an actual illusion so enemies
+will think it's real and you can use it
+to cast spells around corners which is a
+really cool tactical option in Boulder's
+Gate it's a concentration ability that
+costs your channel Divinity and gives um
+allies within 10t of it advantage on
+enemies within 10 ft of it and takes
+your concentration which means that it
+is uh just always worse than doing just
+about anything else with your turn if
+they had made any effort to fix this
+ability then it would be like I I
+understand if they couldn't code it in
+order to work the way that it does in
+tabletop without too much difficulty um
+casting spells around corners seems like
+a difficult thing to code but they
+didn't really make any effort to fix
+this ability unfortunately and so have
+just sort of half implemented it in a
+way that I find it quite frustrating the
+problem with invoke duplicity is that it
+is actively unfund to cast because you
+will almost never do anything with it
+you'll lose concentration on spells that
+you're casting it seems like it's going
+to be a good idea but it's not and I
+just don't think that the class's main
+ability being actively unfund to cast is
+the where you want your design to be I
+feel like there's a lot of fixes they
+could have used for this it obviously
+shouldn't be concentration it costs your
+channel Divinity and so it costing your
+concentration is just too much and I
+think it should be a bonus action so
+that trickery clerics could use it to
+actually um make advantaged attack roles
+in combat the way that uh it seems like
+they want them to do um but the way that
+it plays out now what you do is you just
+never ever use it and I think that
+that's a real
+shame the rest of the stuff that
+trickery gets is pretty fun actually you
+get a decent spell list so even though
+you don't get anything else um from your
+trickery domain your subass abilities
+are mostly not useful the spell list is
+pretty fun pass without Trace enables
+some things although it is uh one of the
+things that it enables is uh probably
+the least fun play style in balers gate
+the permanent invisibility play style
+where the enemies never notice that
+you're there and you um don't actually
+play the game uh but having fear and and
+stuff like that on a cleric can be
+pretty fun giving a cleric a melee AOE
+spell incentivizes you like a melee AOE
+control spell cuz fear is a cone
+incentivizes you to move into combat
+which I think is pretty interesting and
+there are ways that you can hybridize
+trickery cleric with other classes to
+make a more interesting character but I
+think that the or design flaw of uh
+invoke duplicity and how they
+implemented it so badly means that I
+can't put this class anywhere other than
+c tier I really feel that this is one of
+the things that they need to fix in
+Boulders gate in order to um in in an
+upcoming patch of some kind I I think
+even just removing concentration or
+making it a bonus action or both would
+solve a lot of the problems with this
+and those would both be pretty easy
+fixes I wish they had implemented it the
+way it is in tabletop it's so cool in
+tabletop but in Boulders gate um you're
+playing a subass that has its main
+ability be um detrimental when you use
+it and I think that that's a real
+shame knowledge cleric so knowledge
+cleric is the skill focused cleric and I
+think that's a pretty cool thing for a
+cleric to be when you get access to
+skills on a cleric something they're
+normally quite bad at it lets you fill a
+role that you normally would not be able
+to fill and so while you're also doing
+all the fun things that clerics are
+normally doing you get to to be the
+party face or the party's lock picker or
+something like that by setting your
+knowledge of the ages to the skill uh
+tree that you need in theory you could
+swap this based on the situation in
+practice you're just going to pick one
+of either Charisma or dexterity and set
+knowledge of the ages to that and just
+fill that role for your party because
+basically most parties need one Charisma
+user and one dexterity uh skill user and
+otherwise don't care about skill access
+for that reason also the expertise in
+knowledge skills is only useful of the
+time it's still pretty fun for this
+character but only if you're actually
+being the party face will you ever get
+to use them because the knowledge skills
+the intelligence based skills only get
+used in dialogue almost all the time in
+Boulder's Gate and because of the design
+decision that only one character can
+participate in dialogue at a time you
+need to have your knowledge skills and
+your dialogue skills on the same
+character um which I think is is uh not
+the best decision I'm still unhappy
+about that one but uh is the way that
+the game works and so means that if this
+character is not your party face then
+you won't get to use its expertise that
+being said it can be your party face if
+you invest in just a little bit of
+Charisma and use knowledge of the ages
+to gain charisma skill proficiency and
+that's kind of fun having your cleric be
+the person actually doing the talking
+for your party is unusual and is
+something that's kind of cool for a
+cleric to be able to do your spell list
+isn't amazing it's got a bunch of really
+cool option it's it has some cool
+options but a lot of them don't
+meaningfully uh adapt the play style of
+cleric so you are going to be playing
+still just a controlling and supporting
+character but that is what you went into
+knowledge cleric 4 is just doing the
+cleric things but with a a really with a
+skill-based element added to them and so
+I think that knowledge cleric really
+fills the role that it's intended to
+fill very well of just being a uh cleric
+but with some extra skills added and
+that's a really fun thing to be so I'm
+going to put it in s
+tier nature cleric so nature cleric is I
+think the third strongest from a power
+level standpoint after Tempest and light
+cleric um and I think that that's a
+pretty good place to be in terms of
+cleric balance that's definitely on the
+the stronger end for a character it's
+maybe still too strong in terms of power
+level but it doesn't have the same sort
+of broken mechanics that light cleric or
+Tempest cleric get access to while still
+being an excellent character you get all
+the great stuff that clerics normally
+get but also uh fewer of the weaknesses
+because you get good consist an early
+game damage from shalele and just using
+uh shalele and a weapon you get uh AOE
+control spells from Spike growth and
+plant growth and uh sleet storm and so
+those are things that cleric um is
+slightly missing from its Arsenal and
+nature cleric gets to do those which
+means that you actually get to do uh
+just about any role in any combat you're
+going to switch what you're doing from
+combat to combat regularly the character
+will play quite differently at early
+levels and at late levels cuz at early
+levels you're going to be a melee
+fighter and at late levels you're going
+to be a more pure spellcaster with the
+controller uh element and you are going
+to have the answers to just about any
+encounter in Your Arsenal thanks to the
+great spell list that nature cleric gets
+access to you also get grasping Vine
+which is pretty fun to use with a bunch
+of other cleric stuff you can refer to
+my nature cleric guide for more of these
+cool combos because nature cleric gets
+some unique combos that are also uh
+really fun to use for this character and
+I think that it's right on the upper end
+of power level that is still within the
+sort of acceptable range of power level
+for playing the game and not acceptable
+but you know a most fun range of power
+level for playing the game you're always
+going to feel like you're powerful and
+doing something you're never going to
+feel useless but you will be changing
+your strategy regularly based on the
+encounter and I think that that's really
+fun for a character to be doing and um
+if you mess up with nature cleric there
+are real downsides unlike light cleric
+which can always use wng flare to get
+out of a lot of problems or always use
+radiant orb stacking to get out of a lot
+of problems nature cleric doesn't have
+just the broken mechanics that
+completely solve encounters the same way
+but if you have good spell selection and
+um game knowledge and and whatever then
+you can use nature clerics very
+effectively and that's the type of class
+that I like to play versatile powerful
+changes its play style over the course
+of the game S Plus tier in terms of fun
+Tempest cleric so Tempest cleric I've
+already alluded to being a little over
+power curve in my opinion I think the
+spell list that you get is too good and
+the abilities that you get are too good
+and it makes your cleric sort of a
+One-Stop shop to win encounters because
+it just has all of the tools that you
+need now I said that that was really fun
+for nature cleric but I think that
+Tempest cleric takes it just a little
+bit too far to the point where the
+Tempest cleric is just slightly too
+powerful and too uh flexible and no and
+uh reaches the point where you you are
+often making fewer decisions as a result
+because you can maximize lightning
+damage you can blow up enemies in a
+single turn and I think that that is an
+unfortunate thing for the game because
+you can just completely remove
+encounters without having to ever play
+them if you play my lightning Lord build
+for example maximizing lightning damage
+to 300 damage is going to uh end every
+encounter before it starts pretty much
+and I personally like my encounters to
+last multiple turns so that I have to
+actually engage with the mechanics of
+the game and and what my opponents are
+doing however it is very satisfying to
+just blow up an enemy from Full to zero
+so at least the first few times you do
+that is going to be really fun and
+Tempest cleric has a lot of cool things
+going on as well that uh don't interact
+with some of its more broken Mechanics
+for example ping-ponging enemies all
+over the map using the pushing mechanic
+or just having sleet storm on a cleric
+that you can focus on while also getting
+Marshall weapons and heavy armor so you
+can beat down or weit into combat with
+Spirit Guardians is just a very
+satisfying feeling so there's a lot of
+cool things that Tempest cleric does it
+just does them all just a little bit too
+well and so like light cleric I'm going
+to place it in s tier because I think it
+is extremely powerful and extremely fun
+but maybe just too powerful so it
+sometimes removes some decisions that
+you would otherwise be making from the
+game because you are winning the
+encounters just a little bit too easily
+thanks to the power of Tempest cleric
+this is um exacerbated with certain
+multiclasses that use sorcerer or wizard
+to maximize lightning damage and those
+multiclasses in my opinion although I'm
+very fond of those builds having put
+together several of them um I think are
+not great for long-term play because you
+will often just not get to play the
+encounters cu the enemies will be dead
+in one shot before the encounter would
+start overall Tempest clerics are
+extremely fun extremely flexible
+extremely powerful but maybe just a
+little bit over power curve and so like
+swords bars and light clerics before
+them we're going to place them in s tier
+War cleric so uh to be honest I have not
+played a character that takes more than
+one level of War cleric so I don't want
+to spend too much time pronouncing on
+whether this character is fun to play or
+not cuz I haven't myself played uh it
+other than as a one-level dip for other
+characters as a onele dip it's just a
+numerical bonus the bonus action throws
+that you get three times per day are
+just sort of the optimal choice in terms
+of maximizing your damage so it's
+nothing special there for what I can see
+of the character having not played it
+myself and you know I want to be clear I
+haven't played a war cleric past uh a
+onlevel dip so uh guided strike seems
+pretty fun adding a plus 10 bonus to
+your attack rooll is is pretty fun and
+um War God's blessing where you can use
+that on an ally as a reaction seems
+pretty fun as well similar to combat
+inspiration from Valor Bard so that's
+pretty cool dazing enemies from your
+bonus action attacks is reasonable and
+there's probably neat stuff that you can
+do with war cleric where you build a
+more combat focused cleric but for the
+most part I think it's going to play out
+just like uh any other cleric and
+clerics are fun a tier character um not
+much more to say because I don't have
+much direct experience of this
+character Druids Druids I think might be
+the best balance Caster in Boulder's
+game because they do everything well
+they're extremely powerful and flexible
+and and really fun to play as a result
+of that but don't do too many things
+that are way out of power scale with the
+rest of the game they also don't have
+some of the Dead levels that other
+casters have Druid level four and five
+spells are really good and really
+interesting and add New Dimensions to
+the character whereas basically every
+other Caster in the game the fourth and
+fifth level spells that they implemented
+in balder's Gate are pretty weak and you
+will end up just up casting second and
+third level spells with your fourth and
+fifth level spell slots a lot of the
+time Druids don't have that problem
+which is really cool and it gives them
+um a much more satisfying progression
+curve over the course of the game than
+the other Caster classes in my opinion
+because you continue to change your
+strategy even when other casters have
+some dead levels going on in the mid in
+the uh sort of mid game Druids also just
+get some of the most varied strategies
+in the game of course because they can
+alternate between being control casters
+or characters so what uh strategy you
+use from fight to fight is going to
+change significantly because of the
+ability to Wild shape or not wild shape
+concentrate on a spell in Wild shape use
+uh one-hot spells when outside of wild
+shape and so on and um they're also as a
+result of wild shape extremely item
+independent so you don't have to hunt
+down specific items which is something
+that I appreciate because um I don't
+always want to be following a guide
+looking up exactly which items are where
+when I'm going through the game although
+by now I kind of know them all but um in
+terms of just like uh in terms of actual
+fun when you're playing I think that
+being item independent definitely adds a
+layer of fun because it lets you play
+more of an exploratory and Discovery
+play style rather than having to kind of
+know exactly where specific items are to
+maximize your character overall I think
+that Druids have one of the strongest
+baselines of any character class in
+terms of flexibility and fun just
+incredibly solid uh well-designed
+characters I think that the way they
+implemented wild shape which is
+notoriously difficult to do in video
+games because games will often try to be
+too broad or end up being too narrow um
+I think worked out very well in Boulders
+gate where the multiple wild shaped
+forms feel distant uh different and
+distinct but there aren't so many that
+it's wildly overwhelming and none of
+them are uh hugely broken or anything
+like that the way you might have found
+in Neverwinter Nights or older D and D
+games where some of the wild shape forms
+were just too powerful because they used
+like every monster available in the game
+so you can I
+think see that Druids are well
+positioned to do well on this tier list
+land Druids in particular are just uh
+Druids but more so they are Druids that
+just get access to extra spells mostly
+these will allow you to customize your
+character based on what your party needs
+or what you really want with your party
+but also enables some really cool um
+unique builds like one of the very first
+builds that I did on this channel was
+called the owl bear flies using land
+Druid to make a jumping owl bear build
+that could jump the maximum distance in
+the game you can go check that one out
+and that type of flexibility is what
+makes Druids really exciting to me the
+one downside of Druid as a class in
+general is the summon mechanics in
+Boulders Gate 3 a lot of its power level
+comes from summons and summons are
+pretty annoying to use uh they will
+often not follow your characters so for
+a long time they didn't many summons
+didn't even have the ability to jump and
+so couldn't follow your characters over
+Ledges at all but even now that they'
+fixed that they will often not follow
+your characters and uh that means that
+you end up sort of microing things
+outside of combat and then in combat if
+you have too many summons it can make
+your turns take an awfully long time
+especially because Boulders gate has a
+pretty high burden on the player to make
+precise movements this can make your
+turns very timec consuming if you have a
+lot of of summons um in a party because
+there's no attack preview so you have to
+sort of guess whether your summon will
+be able to cast the spell or make the
+attack that you want from the location
+that you're trying to send it and that
+means you have to often double check
+your movement before you make it that
+compounds when you have more and more
+units um on the field to make your turns
+take a really long time and so I often
+end up not wanting to play Pure Summoner
+builds which makes Druids a little bit
+uh less enticing from that
+perspective that being said you don't
+have to play a Summoner and for a land
+Druid in particular is not really the
+encourag play style there's two powerful
+summons that land JS get that you're
+going to um have and then you'll be able
+to add in a bunch of other cool
+abilities that you can use based on the
+circles that you select the only other
+downside of landid is that you will
+sometimes have a dead turn at the
+beginning of combat where you are
+casting a um where you are either
+casting a spell or entering wild shape
+and unable to do other things and
+because you don't have the bonus action
+wild shape from Moon Druid you will have
+to choose between those two things but I
+think that that can make for interesting
+strategic considerations as well and so
+I'm going to rate land Druid because of
+their flexibility power level and just
+the the sheer number of different things
+they can do as S Plus tier in terms of
+fun moon Druids so Moon Druids do suffer
+a little from the same thing as
+Berserker barbarians where Tavern
+brawler is kind of an a balance
+oversight in the game that makes them a
+little bit too powerful however unlike
+Berserker barbarians it doesn't make
+them so powerful that they just shut
+down combats alone it's a very strong
+option on them and it probably shouldn't
+be available to mids it does kind of
+break the intended power curve of the
+game but it doesn't make their damage so
+high or their uh attacks so reliable
+that they will never miss and so I think
+that there's a distinction between how
+Moon Druids use Tavern brawler and how
+Berserkers use Tavern brawler also at
+time of recording on honor mode uh
+Tavern brawler only gives you the attack
+and not the damage that's still the
+important part of the tavern brawler
+effect for Moon Druids but um it is less
+egregious than if it gave you both
+attack and damage um the way it does for
+unarm attacks in humanoid form or thrown
+weapons other than that Moon Druids are
+just really fun to play the the core
+play style of choose a concentration
+spell a powerful concentration spell um
+and cast it and then in the same turn
+bonus action wild shape I think is
+incredibly fun and satisfying it means
+that you're going to be doing different
+things in every combat basically and
+there's a lot of different options that
+you can use when you are faced Within
+counter what wild shape form you take
+deter is often going to change as well
+not as often as maybe you'd like there's
+some that are better than others and
+because Moon Druids get the special wild
+shape forms often those are the correct
+ones to use but the number of different
+options you have every encounter as a
+moon Druid is still extremely high and
+um the fact that it just the play style
+is just so smooth of casting a powerful
+concentration spell entering wild shape
+and then beating down I think works very
+heavily in this class's favor it also
+just does all of the other cool things
+that Druids do you get access to a wide
+variety of control spells you get a nice
+smooth power curve up the levels where
+you are gaining new wild shaped forms as
+well as new spells uh as you level up
+and that I think means that mids will
+always have a new and interesting thing
+to do at every point in the game and are
+obviously extremely fun as a result s+
+tier character I really think that the
+only thing that holds this character
+back in terms of sort of balance issues
+is Tavern brawler um but I don't think
+that Tavern brawler is actually a real
+balance issue for Moon Druids I don't
+think that it uh breaks the power curve
+of the game the way it does on some
+other
+characters spor Druid so spor Druid just
+like the other Druids has all of the fun
+things that Druids get to do going on
+with for Droid you have powerful
+flexible spell list you gain power as
+you level up also the late game bonus
+action AOE poison cloud is really fun to
+use the reaction the proactive reaction
+is kind of neat it's just mechanically
+interesting to me that it's a character
+that gets to use its reaction
+proactively and having um that be able
+to be used on your turn is just kind of
+cool as well it enables some cool things
+like free action dropping a healing
+potion and then using your reaction
+without spending an action to break that
+healing potion to give yourself a heal
+um thank you again to the person who
+pointed that out in my sport Dr guide
+cuz that's just a cool little neat trick
+to know and so there's a lot of um
+really interesting things that you can
+do with spor Druids the downside of spor
+Druid compared to the other two Druids
+is that you won't be wild shaping so you
+will be making fewer decisions or at
+least not often so you'll be making
+fewer decisions overall um and it feels
+really bad to lose your spor Druid
+Shield having it feel bad to lose the
+shield isn't in and of itself a bad
+thing because it enables for tension and
+emotional moments when you lose your
+Shield suddenly lose your damage and can
+no longer activate your sport Druid
+abilities in the same way um so that
+part isn't necessarily bad but the fact
+that you won't be making as many
+decisions because you're not wild
+shaping into different forms definitely
+does decrease some of the interactivity
+that the class has that being said the
+Druid play style is super fun and the
+melee Druid play style with SP Druid is
+fun it also enables a whole bunch of
+multiclass combos all of which are
+really exciting um the one other however
+the one other downside of spor Druid is
+that it is the most summoning Focus
+Druid and in particular it uses animate
+dead and its own special animate dead in
+order to maximize the effectiveness of
+spor Druid you want the zombies and the
+animate dead guys running around um and
+that's like six summons to manage I
+already talked about why I think that
+summons in balder's Gate are kind of
+annoying to use and the Spore Druid
+summons plus the normal druid summons is
+just too many summons you can ignore the
+those summons you don't have to use
+animate dead you don't have to use the
+spor Dr zombies so it's not a um not a
+problem if you don't use those you won't
+be giving up a big chunk of the power
+level of the class but in order to use
+this class's class features to the
+fullest extent you do have to interact
+with one of the mechanics that I think
+was sort of um implemented in a way that
+is kind of uh timec consuming and
+frustrating to actually use in terms of
+summons because trying to haul all the
+zombies and stuff through the world gets
+old pretty fast for me because they will
+get stuck on Ledges or not go through
+doorways or um just have to be microed
+in combat which I find kind of a waste
+of
+time obviously you can just bypass that
+and if you do then spor Druid is just as
+fun as the other Druids but the fact
+that one of the main things that it
+gives you is a kind of downside in terms
+of fun I think does have to be taken
+into account and so for that reason I'm
+going to play Spore Druid into s tier
+rather than s+ tier I think that Druids
+overall are just so fun to play that
+that's as as low down as I'll place it
+even though I'm digging it for the
+summons um but the core play style of
+jids is just so excellent regardless
+that I think that sport Druids are
+definitely an S tier
+class all right my friends this video is
+already almost an hour long so I'm going
+to make the cut here and we'll come back
+in I guess will end up splitting it into
+three parts we'll come back in part two
+with the next four classes and in part
+three with the last four classes one
+thing that I would like to emphasize of
+course is that all of these classes are
+super fun to play the game at core is
+really fun and so um while it's a
+fraught subject to do design criticisms
+I want to sort of reiterate that this is
+meant to be a a jumping off point where
+we can find the fun in specific classes
+and so definitely if you think that I
+have rated have underrated how fun a
+class is let me know what you think is
+really fun about it and why I should
+give it a try because I'm always
+interested in trying out something new
+um and a new way of playing a class that
+I might have overlooked is really
+exciting to me so that's part of why I
+wanted to do this another reason I think
+is that it could be helpful just to
+maybe try to find the fun in some
+classes that you you yourselves might
+have overlooked as well as get a sense
+of my biases when you're looking at
+builds cuz this might be useful if you
+want to know whether I'm optimizing for
+something that you'll enjoy uh in terms
+of looking at a build for specific
+characters that I might have put
+together as always of course if you've
+enjoyed the video please feel free to
+leave a comment and like the video both
+of those things help me out a tum with
+the algorithm and definitely let me know
+if you enjoyed this type of more sort of
+design criticism focused content if this
+was something that you were interested
+in um this is something that I think
+about a lot but obviously uh have no
+power to change and I'm not a
+professional designer so I don't know uh
+to what extent this is content that
+people are interested in hearing my
+thoughts on but if you've enjoyed it or
+not enjoyed it definitely let me know
+I'd appreciate that very much and you
+can subscribe to my channel for more of
+this and other strategy game content
+cheers my friends I'll catch you next
+time

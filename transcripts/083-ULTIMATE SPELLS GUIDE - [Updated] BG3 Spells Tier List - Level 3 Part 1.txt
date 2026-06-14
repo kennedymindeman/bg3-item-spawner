@@ -1,0 +1,1357 @@
+Hello my friends and welcome back to
+another Balders'sGate 3 tier list and
+guide. Hope you're all doing well. Today
+we're continuing my updated ultimate
+guide to spells with the level three
+spells which are game changers. These
+spells are so powerful that a lot of the
+early game is entirely centered around
+simply surviving until you get to start
+casting them because so many of them win
+entire encounters on their own or turn
+previously deadly situations trivial,
+which makes them the biggest power spike
+available to a party throughout the
+entire game. Which of these spells to
+take and cast may be the single most
+important skill that you need as a
+Balders's Gate 3 player. That's how big
+a difference they make. I've already
+gone over the rating system and
+definitions of the tiers in part one.
+Uh, so we can just get right into it.
+But before I do, I do want to take a
+quick moment to say thank you so much to
+Tarantula for the $10 donation, Knawing
+Fetus for the $2, Wanda Husbando for the
+£25, and Rodrigo Anellei and Hilco
+Timmer for becoming channel members.
+Thank you so much, my friends. I really
+appreciate the support. All right, let's
+change the game. We're going to start
+with animate dead, which is a pretty
+complicated spell because its effect
+actually changes depending on what level
+you use to cast the spell. And even
+within those different effects at
+different spell levels, it also gives
+the player choices in how to use it. So,
+it's very flexible, has a lot of
+different possible effects. At third
+level, you can use it to summon either a
+skeleton, who's a ranged damage dealer,
+or a zombie, which is a kind of weak
+melee fighter. The skeleton does pretty
+solid damage. Um, and it will do this
+over an entire adventuring day if you
+can keep it safe. So, it's a pretty nice
+addition to the damage output of your
+party. The zombie is pretty weak as a
+fighter by itself, but when it hits an
+enemy, it inflicts them with zombie
+disease, which if the enemy dies while
+infected, turns them into more zombies.
+The skeleton is always a good default
+choice for Animate Dead. It's just a
+little more damage for your party over
+the course of the the adventuring day.
+It can absorb maybe one attack before
+dying. So, you can use it if you're in a
+really bad situation to block a doorway
+or distract enemies. Having more turns
+and more bodies on the field is just
+always incredibly helpful. So, summons
+are just always good. The zombie is a
+little more of a specialized tool.
+You're going to want to use it for
+encounters where there's lots of weak
+enemies, which in some early game
+encounters there are, and the zombie can
+just zombify an entire encounter and win
+it in a single cast of a spell because
+the zombie just turns everything into
+more zombies, and then they just win the
+fight for you. If you cast a spell with
+a level four spell slot, you get either
+three skeletons or three zombies. And
+then with a level five spell slot, you
+can start summoning ghouls. A ghoul is a
+fairly weak fighter for a fifth level
+spell, but it has a chance of paralyzing
+enemies on each attack. So, if it gets
+to hit enough, you'll get some pretty
+strong debuffs out of it. And you can
+also summon a flying ghoul, which is
+squishier even than the ghoul, but of
+course can fly. With a sixth level spell
+slot, you can summon three ghouls or
+three flying ghouls. So, depending on
+which spell slot you use, you can get a
+fairly large army. It's also important
+to note that if you're a necromancer
+wizard, you get plus one summon at each
+level. So, a third level spell will give
+you two skeletons or zombies, and a
+fourth level will give you four, and so
+on. Um, so obviously this spell is
+significantly stronger if you're a
+necromancer wizard. Animate dead is a
+very solid spell. Summons are always
+very strong. Being able to just make
+your party significantly stronger for
+every encounter throughout an entire day
+is always a valuable use of a spell
+slot. And being able to get multiple
+summons from the same spell gives you a
+lot of optionality with how you position
+them around the field, how you use them
+in order to maximize their damage, or
+how you use them in order to prevent
+enemies from attacking your more
+valuable party members. The question, of
+course, is which of the many options
+that this spell gives you should you
+use? And I think that the answer for
+most characters is that you want to use
+the fourth level version of Animate Dead
+to summon three skeletons. Um, this will
+just give you a decent amount of extra
+damage throughout the day. Now, the
+skeletons will miss a lot of attacks,
+but when they do hit, their damage stays
+pretty respectable even on into the end
+game. Um, and there's lots of ways to
+give them advantage or give them
+guaranteed hits. And of course, it's
+just free to take an attack with them
+every turn. It only costs you the spell
+at the beginning of the day. So, even if
+they only hit some of the time, you're
+still getting a lot of value out of it.
+You will also often want to summon a
+zombie for specific encounters. Um,
+especially in the very early game where
+you have encounters like the goblin
+camps or the spiders where there's a lot
+of weak enemies and you can zombify them
+all. Um, then you will end up with a
+very powerful army that just wins the
+encounter for you. Generally, I think
+you're going to want to avoid casting
+the ghouls with a fifth or sixth level
+spell slot. By this by that point, you
+have stronger summons available, so more
+valuable uses of the spell. Of course,
+if you're a very summon focused party,
+you can do both. And obviously that's
+still a powerful use of animate dead.
+But for most characters in terms of
+resource comp uh conservation, a fourth
+level spell slot is usually going to be
+the way to go with this spell. There's
+one niche interaction also with the
+flying ghouls where the abyss beckoners
+don't drive them mad, the gloves that
+give your summons damage resistance. Um
+but it's kind of hard to keep them in
+the aura and they still die really fast
+anyways. So I don't find that to be a
+particularly powerful strategy, but it
+is kind of fun to play around with. But
+for most characters, you're going to use
+this for uh constant extra damage for
+your party by summoning some skeletons.
+I'm going to give Animate Dead A tier.
+It's very good in some encounters, and
+it's a nice little bonus for all of the
+other ones. Uh it doesn't um just solve
+the game by itself like a lot of S tier
+spells, but summons are always very
+powerful, and this is a good one. Next
+up, Bacon of Hope. Sorry, Beacon of
+Hope. You can tell I'm recording this
+over lunchtime. Yes, I made that joke a
+year ago. Yes, I think it's still funny.
+Beacon of hope is a concentration-based
+buff spell. You cast it, it's a 30- foot
+radius, so it hits your whole party and
+for 10 turns or as long as you maintain
+concentration, they have advantage on
+wisdom saves and death saving throws.
+And any healing they receive, they get
+the maximum possible value from. So if
+you use healing word normally heals them
+for a d4 with beacon of hope active, it
+just heals them for four. The advantage
+on wisdom saves is okay. There's a lot
+of other ways to get that effect, but
+that's an effect you're reasonably happy
+to have in some fights. Advantage on
+death saves is useless. If an ally is on
+the ground, you don't want to rely on
+death saving throws. You want to get
+them back up with healing. The question
+is, how good is maximizing healing?
+Because the other two effects really are
+not worth a level three spell slot. And
+the answer is it's pretty much not good
+at all. Let's look at the numbers. If
+you cast fewer wounds on an ally then
+which is one of the healing spells with
+the highest variance because it uses d8s
+instead of a lot of them which use d4s
+then um the ally will normally get 4 and
+a half average healing plus any
+modifiers that you might have. Beacon of
+hope means that they get eight average
+eight total healing. So they've gained
+an average of three and a half extra hit
+points from you spending a spell. The
+beacon of hope didn't do anything by
+itself. you had to combo it with another
+effect. And the amount that it increased
+that effect was extremely minimal. Most
+of the time when you're healing in
+Balders's Gate, you don't actually care
+how much healing you're doing. You're
+doing it to get downed allies back up to
+apply the buff on heal items or to allow
+them to hit uh to take one more hit, in
+which case you're going to be using a
+large healing effect like one of the
+highle healing potions. and in which
+case maximizing it will usually not turn
+it from one extra hit to two extra hits
+regardless. Beacon of hope you're is
+super expensive. You're spending a level
+three spell slot and a and your
+concentration and doesn't do anything by
+itself. You have to combine it with
+another effect and that other effect is
+healing. Something you usually don't
+want to do as a primary strategy because
+offensive abilities are usually what
+you're going to be wanting to spend your
+turns on. So spending your time, effort,
+and spell slots on casting this spell is
+typically going to be extremely
+counterproductive. Dtier for Beacon of
+Hope, the numbers aren't just there to
+accomplish the thing that it's trying to
+do, and the thing that it's trying to do
+also isn't particularly good. Next up,
+Misto Curse, which is one of the weirder
+spells in the game. It's a melee range
+singlet target concentration debuff
+spell, which is not an encouraging thing
+for a spell to be. And when you land it
+on an enemy, they have to make a wisdom
+saving throw or receive one of a large
+number of possible disadvantages. You
+can give them disadvantage on a saving
+throw of your choice, any one of the six
+abilities. You can give them
+disadvantage on saves on that ability
+for 10 turns. You can give them
+disadvantage on their attack roles. You
+can make it so that they take extra
+damage from all of your attacks and
+spells, specifically attacks and spells
+from the spellcaster. they will take 1d8
+extra necrotic damage from. Um, so you
+can use it kind of like hex where you
+concentrate on it on a specific enemy
+and then they'll take extra damage when
+you hit them just like uh they would
+from hex. Or finally, you can use it to
+lock down an enemy where they have to
+make a wisdom save every single turn or
+they skip their turn. They just lose the
+rest of that turn. Now, most of these
+modes we can safely ignore. Disadvantage
+on a saving throw is not worth a level
+three spell slot and all of the other
+things that this spell costs you. And
+disadvantage on attack rolls we can get
+from blindness with no concentration a
+level earlier or from fogcloud with no
+saving throw two levels earlier. So
+bestow curse is not useful for either of
+those modes. The damage mode is pretty
+good especially on wizards with
+scorching ray. And the mode that causes
+enemies to skip a turn is very powerful
+if your save DC is high enough. Each
+turn they make a wisdom save or they
+have to skip their turn, which if you
+have high save DCs can cause them to
+just stay locked down for an entire
+fight. Even so, neither of those
+abilities would be particularly worth
+casting Bestow Curse for an action where
+you have to actually get up into melee
+and then maybe lose concentration cuz
+you're in melee and so on. um if it
+wasn't for one other key feature of the
+spell, which is that it is fairly unique
+among hostile spells in that it doesn't
+count as a hostile action and doesn't
+start combat. You can cast bestow curse
+on a neutral character before combats
+begin and it will uh not begin the
+combat. So it effectively is action
+economy free. So you can set up the
+extra damage from your wizard scorching
+rays or the complete lockdown of an
+enemy um with the dread version of
+bestow curse be without spending an
+action on it at all. That of course is
+very powerful. Anything that's free to
+do in combat or before combat starts is
+always going to be really strong. And
+another thing is that the dread version
+of bestow curse like a few other crowd
+control effects doesn't count as um
+crowd control for the purpose of most
+immunities to uh incapacitation. So you
+can even lock down a bunch of honor mode
+bosses with it without running into
+their crowd control immunities. You're
+never going to cast this spell once
+combat has already begun. There are
+definitely better options that are both
+safer and more powerful and easier to
+use, but it's very powerful in some
+encounters which are against enemies
+that are neutral until you attack them
+or until you enter dialogue with them
+because you can use bestow curse on
+those characters to get a massive
+advantage before the fight starts. I'm
+going to give it B tier because it's
+only useful in a fairly small subset of
+dangerous fights, but the fights that it
+is useful in, it's very strong in. Next
+up, Blinding Smite. Blinding Smite is a
+paladin smite spell, and because it's a
+level three paladin spell, you don't get
+it until character level 9. So, you're
+mostly only using this spell in the late
+game if you're casting it at all.
+Blinding smite is a bonus action uh in
+addition to your weapon attack. It's
+made as part of a weapon attack and it
+does 3d8 radiant damage. So compared to
+using just a normal divine smite with a
+level three spell slot, you're losing
+1d8 damage, which is a relevant amount
+of damage to lose, but not the end of
+the world. And in exchange for that,
+enemies hit have to make a constitution
+save or become blinded. Unlike a lot of
+the other special paladin smites, this
+one doesn't take your concentration. Um,
+but enemies do get a new constitution
+save every turn in order to break out of
+the blind. There are definitely fights
+where giving up a D8 of radiant damage
+in order to blind an enemy is valuable.
+Any fight that's going to go long,
+blinding smite can be a useful way to
+spend your action. Um, obviously it is
+going to reduce the amount of uh damage
+that you're doing compared to using the
+spell slot, but just like the other
+smites, you can use it on top of a
+normal divine smite. So you can do if
+you have two third level spell slots,
+you can use a normal divine smite and a
+blinding smite to do a comparable burst
+damage to double smiting and do it all
+in one turn and then also have a chance
+of blinding an enemy. The fact that it
+adds extra possible burst damage and
+it's radiant damage, which of course is
+a relevant damage type for paladins um
+and has a decent debuff attached to it
+means that blinding smite is a great
+option if you just really want an enemy
+dead or if you know that a fight is
+going to go long and having the debuff
+is worth more than the extra d8 of
+damage. You probably won't use this
+spell that often, but it's a nice one to
+have in your back pocket for when you
+you want the extra burst damage or the
+blind. I'm going to give it B tier. Next
+up, Blink. Blink is a self-cast
+defensive buff spell. It doesn't take
+your concentration, but importantly, it
+can only be cast while actively in
+combat. So, you do have to spend a real
+combat action on casting blink. Each
+turn for the next 10 turns. Um, the you
+have a 50% chance of leaving the world.
+you go to the ethereal plane where you
+can't take reactions and enemies can't
+see, target, or uh injure you in any
+way. So, you're completely invincible.
+And then at the beginning of your next
+turn, you will appear in the material
+plane and be able to take your turn as
+normal. A 50% chance of becoming
+invincible does sound pretty good, but
+there's a couple reasons that this isn't
+as good as it sounds. Firstly, it's only
+a 50% chance. And when you're spending
+an action on a purely defensive effect,
+you really want to be able to rely on
+that effect. And blink is inherently
+unreliable because you don't know if
+you're going to get blunk. You can't
+plan your turns around it. Um because
+again, there's only a 50% chance of it
+happening. And if you really need to
+skip a dangerous enemy turn, uh, you
+know, 50% of the time, but really more
+like 98% of the time, you're not going
+to blink and you're just going to eat
+the full wrath of enemy attacks. The
+other problem is that the way that this
+works is by simply removing the
+character from the fight. So, it
+prevents your reactions, which is
+already a real downside. And enemies who
+can't target this character, the damage
+doesn't just disappear. They're just
+going to attack the rest of your party
+members instead. So, while there are
+situations where blink can prevent
+actual damage from happening to your
+party, for the most part, it's just
+going to retarget enemy aggro onto your
+party members, but not reduce the
+overall damage that you're taking. That
+can be a valuable thing to do, but it's
+much more efficient to do it with mirror
+image, which is a lower level spell slot
+and doesn't cost you an action in actual
+combat. So, blink is just not going to
+be used by most characters um when
+you're playing in a party. There is
+however one real use case for this
+spell, which is for solo play. A 50%
+chance of turning your entire party
+invincible is much more exciting than a
+50% chance of turning only one character
+invincible. Solo characters don't have
+allies to redirect aggro to. So if they
+blink out, enemies are just going to
+skip their turn. For that reason, I'm
+going to give it C tier because it's a
+pretty potent defensive option in solo
+play where it just makes you immune to
+half of all enemy turns, even though
+it's completely useless in party play
+and you shouldn't cast this spell if you
+have allies. Call Lightning. Call
+Lightning is a repeatable damage spell
+available to druids, storm sorcerers,
+and tempest domain clerics, as well as
+pack of the tome warlocks. Um, and it
+does 3d10 lightning damage in a 7 foot
+radius.
+with a dexterity saving throw for half.
+A 7 foot radius is reasonably large.
+You'll often be able to hit two enemies
+with it. You usually won't be able to
+hit three, but 3d10 damage to two
+different enemies is a pretty decent use
+of an action. And because it's lightning
+damage, of course, you can double it.
+With the wet condition, if you are a
+Tempest cleric who gets this for free,
+you can maximize that damage to a
+guaranteed 30 damage per shot. I say per
+shot because call lightning also lets
+you concentrate on it for up to 10 turns
+and then you can recast it using your
+action each of those turns for uh as
+long as you maintain concentration on
+the spell. So you cast call lightning
+and then you just spend the rest of the
+encounter calling down more lightning
+and just turn yourself into a laser
+cannon. P Lightning's damage
+individually isn't amazing, but in any
+fight that's going to go long or has
+tightly grouped enemies, this spell does
+a lot of damage, and it's a very
+efficient use of your spell slots
+because you only need to cast this one
+spell and then you have a great action
+to take for the rest of the fight unless
+you lose concentration. It also uh works
+very well, of course, with the classes
+that get access to it who often want to
+be doing cold and wet synergy to double
+out the call lightning damage. And for a
+Tempest cleric, um, maximizing the
+damage is incredibly valuable. Doing 30
+guaranteed damage or 15 on a successful
+save to a couple enemies is really good
+just in terms of damage efficiency and
+also lets you plan your turns really
+well cuz you can guarantee kill certain
+enemies. Cold Lightning also, like a lot
+of the other spells that let you
+reactivate it using an action, uh, just
+requires that you have an action. So if
+you are hasted or have a potion of
+speed, you can repeatedly cast call
+lightning in the same turn. So you can
+cast this multiple times using your
+hasted actions and get even more value
+out of the spell if you have haste from
+a party member or are drinking potions
+of speed. Call Lightning is just a very
+efficient spell. Good damage, good
+range, good radius, lots of synergy with
+things you already want to be doing. And
+of course, you can repeat it over longer
+combats to get tons of damage for a
+single spell slot. You won't usually
+cast this spell just for the initial uh
+damage from it. If you're trying to
+burst down an encounter, call Lightning
+is not your go-to. But in any fight
+that's going to go a little longer, it's
+a very solid spell. A tier for tall
+lightning. Conjure Barrage. Conjure
+Barrage is a ranger spell, and as a
+thirdle ranger spell, you don't get it
+until character level 9. and it
+basically lets you make a weapon attack
+uh in the shape of a cone. So, you cast
+the spell and you do your normal weapon
+damage plus 2d8 additional damage of the
+same type in a 30foot cone in front of
+you with a dexterity save for half. Now,
+there's a couple things that
+differentiate this from a couple other
+spells that work off of your weapon. It
+doesn't work like an actual weapon
+attack, so it won't apply most onhit
+effects. It actually just works like a
+spell. Um, so it won't apply most on hit
+effects from your weapon. And enemies
+have a dexterity save for half, which is
+obviously significantly worse in most
+cases than just attacking their armor
+class. It also, unlike most other spells
+that uses your weapon, takes your whole
+action. It doesn't work with extra
+attack. So you can't conjure barrage and
+then do another attack. You have to
+spend your whole turn on casting this
+spell. All of these things together mean
+that you're giving up one attack to
+potentially do less damage to every
+target. Um because they may well save
+for half and
+that is not a good trade unless you hit
+a huge number of enemies in this cone
+which is extremely unreliable. Um and it
+costs a level three spell slot which of
+course you have other uses for. Uh
+there's just no reason to cast the
+spell. The numbers simply don't work out
+on it. The opportunity cost is too high.
+Just make weapon attacks if you want to
+do damage as a ranger. Dt tier for
+conjur barrage. Next up, counter spell.
+Counter spell is a defensive reaction
+that lets you stop a spell as it is
+being cast. A spell that you counter
+simply disappears. It has no effect on
+the game at all. Counter spell is an
+absurdly powerful spell. It's one of the
+best five or so spells in the entire
+game because the ability to trade your
+reaction for an enemy's entire turn and
+a very valuable resource, one of their
+highle spell slots, means that you are
+under vastly less threat from powerful
+spells than you would be otherwise. An
+honor mode party with one or two counter
+spellcasters is just in so much less
+danger than an honor mode party without
+one. I've talked a little bit about how
+good these level three spells are. And
+of course, at higher levels, there are
+other dangerous spells that you want to
+stop. Counter spell just makes you
+immune to those as long as you have
+spell slots to burn countering them,
+which of course makes the game
+enormously easier. A lot of the most
+threatening fights in the game are
+against spellcasters, and counter spell
+is your solution to those fights.
+However, uh the spell is somewhat
+confusing. So, while it's absurdly
+powerful, I think a lot of people
+underrate this because they try it and
+have it not work. The game doesn't
+explain very well how the spell actually
+works. So, I'm going to take a minute to
+explain how counter spell actually works
+and how it's used so that you understand
+how to get uh maximum value out of this
+incredibly powerful effect. When an
+enemy tries to cast a spell, the game
+will pop up a reaction asking you if you
+want to try to counter it and what level
+spell slot you'd like to use to do so.
+Make sure, by the way, that you have
+this spell set to ask you when you want
+to use it. Otherwise, it's going to burn
+your reaction and your spell slots on
+countering stuff that you don't care
+about. When you do try to counter a
+spell, that spell is automatically
+countered. If you use a spell slot of
+equal to or higher level than the spell
+that's being cast. So, if you're trying
+to count counter an enemy haste and you
+use a level three counter spell, it will
+always be countered. If you're trying to
+counter a wall of fire, use a level four
+counter spell. It will always be
+countered. But if you use a lower level
+spell slot, then you have to make an
+ability check. That ability check is
+equal to the the difficulty of that
+ability check is equal to the level of
+the spell being cast plus 10. So, if
+you're trying to counter a level five
+spell, um you have to roll a 15 or
+higher on a d20 plus your main
+spellcasting modifier. At time of
+recording, this is also bugged and
+always uses your intelligence whether or
+not you're a wizard. So, for a sorcerer,
+trying to counter a highle spell with a
+lower level spell slot is going to be an
+exercise in frustration cuz it's going
+to roll using your very low
+intelligence. What that means in
+practice, even for wizards, is that you
+almost always want to try to counter a
+spell using an appropriate level spell
+slot. If you're trying to counter a
+spell of level four or five, use a level
+four or five spell slot to counter it
+because you do not want to turn this
+incredibly reliable powerful effect into
+a die roll that you then have to make
+and it's hard to uh get additional
+bonuses to that die roll. There's very
+few ways to adjust it in game. So, you
+won't be able to reliably counter spells
+with lower level spell slots. Counter
+spell is absurdly strong. Being able to
+turn your reaction into turning off the
+enemy's entire turn is just invaluable
+and incredibly powerful. It's one of the
+best action economy exchanges in the
+game, one of the best uh resource
+exchanges in the game, one of the best
+panic buttons in the game. A an honor
+mode party without counter spell is at a
+significant disadvantage to an honor
+mode party with counter spell. um you
+need a very good reason to play a
+composition that doesn't get access to
+this spell because you are making the
+game significantly harder if you don't
+have counter spell anywhere in your
+party. Usually I like to have at least
+two characters that can cast this in
+order to maximize the level of safety of
+an honor mode run. Counter spell is of
+course an S tier spell, but one other
+important thing to note is there are no
+scrolls of this spell in the game. So if
+you're a wizard, you have to actually
+learn it by leveling up. Um, and any
+party should strive to have at least one
+and possibly more characters that can
+cast it. Uh, S tier for counter spell.
+Crusader's Mantle. Crusader's Mantle is
+a paladin buff spell. So, like other
+paladin spells, they don't get it until
+level 9. Um, and they concentrate on it
+for up to 10 turns. And it makes your
+whole party or every creature within a
+30-ft radius do an extra 1d4 radiant
+damage with each of their weapon attacks
+for up to 10 turns or as long as you
+maintain concentration on the spell. It
+only works on weapon attacks. So, if you
+have a party that is not heavy on weapon
+attacks, then you probably won't want to
+use crusader's mantle. But, it works on
+every creature. So if you have summons
+with weapons like the animate dead
+skeleton archers, then they will benefit
+from the extra damage from Crusader's
+Mantle as well. So um while parties that
+are heavy on spellcasters or have a lot
+of monks and stuff like that may not
+benefit from Crusader's Mantle, parties
+with summons that attack with weapons
+will get a lot of extra benefits from
+this spell. Being a paladin spell, you
+have to compare it to just using a
+divine smite. And in terms of burst
+damage, which is what you mostly want
+from paladins, it comes out
+significantly behind in that aspect. Um,
+unless you have a lot of summons with
+weapon attacks, you're usually going to
+be better off not spending a third level
+spell slot and your concentration on a
+small amount of damage on each of your
+weapon attacks because you could just
+spend that third level spell on smiting
+for way more upfront damage. However,
+for those parties that have a lot of
+summons with weapons, Crusader's Mantle
+can be a lot of damage because when you
+multiply it over 10 or so creatures
+attacking, then the extra 1d4 radiant
+damage adds up really fast. Crusader's
+Mantle is also not just available to
+paladins alone. War Domain clerics get
+this, and they get it at level five, of
+course, cuz they're clerics, so that's
+why they get third level spells, which
+makes it much more usable for war domain
+clerics throughout the game. Bards can
+al also take this with magical secrets,
+though usually this is not going to be a
+high priority for picking up with
+magical secrets. You're going to grab
+counter spell instead. Overall, this
+spell is very situational. Most parties
+are just going to have more efficient
+uses of their level three spell slots
+and their concentration. But for a party
+with a lot of summons that attack with
+weapons, Crusader's Mantle can be very
+efficient. I'm gonna give it C tier, I
+think, because um it's going to be only
+very specific types of parties that will
+use this spell, but it will be pretty
+strong if you are one of those types of
+parties. It's also worth noting that
+this spell uh you can get from a cloak
+that casts it once per short rest. That
+cloak is actually pretty good because
+you're not spending an extremely
+valuable resource like a third level
+spell slot when you're casting it from
+an item. Daylight. Daylight is big
+light. Uh, it's like the light cantrip
+where you cast it on an allies weapon
+and they will glow with bright light.
+Though in unlike the light cantrip, it
+glows with bright light for a 50ft
+radius instead of the 25 ft radius of
+the cantrip. Daylight can also be cast
+on the ground to make a 50ft radius
+sphere of bright light. So you can use
+it to light pretty much any combat
+encounter entirely. So if you need an
+area lit, daylight will definitely get
+the job done. Of course, when you're
+comparing a big version of a cantrip to
+that cantrip, you have to take into
+account this costs a third level spell
+slot and the cantrip is free. So, is
+doubling the radius really worth it? Of
+course, the answer is mostly no. If you
+need light in most circumstances in the
+game, the cantrip or other sources of
+light are going to be more than
+sufficient and you don't need to spend
+actual long rest resources on casting
+this spell. However, there are a couple
+cases where you might want daylight over
+light. If you really need to light an
+entire combat arena for whatever reason,
+maybe you have an archer who needs to be
+able to see at long range, daylight can
+be a good way to do that. And there are
+a few enemies, most notably in Act
+three, vampires, who are vulnerable to
+specifically daylight. And so for some
+specific encounters in the game, having
+this spell can be extremely strong. Most
+enemies who care about being um lit at
+all don't care about whether it's just
+normal dim light or bright light, but
+vampires specifically suffer when under
+the effects of daylight. So, this spell
+can be very good for them. Because it
+works in some encounters, I'm going to
+give it C tier. But for the most part,
+you're going to be happy just with other
+light sources and won't need to cast
+this spell. Elemental Weapon. Elemental
+Weapon is a weapon buff spell, similar
+to magic weapon, except obviously a
+third level spell instead of a second
+level spell. It's available to paladins,
+who of course don't get it until level
+9, but as of patch 8, newly available to
+hexlade warlocks as well, who get this
+starting at level three and then also
+get to automatically uh level five,
+excuse me. Um, and then also get to
+automatically upcast it as they continue
+to level up. When you cast a spell, you
+choose a weapon. So either the main
+weapon in a character's hand or you can
+put the weapon on the ground and target
+the weapon directly. And it enchants it
+with a plus one to hit chance and plus
+1d4 elemental damage of your choice. So
+you can choose acid, cold, fire,
+lightning, or thunder damage, and it'll
+do an extra 1d4 damage on each of those
+attacks. In Balders's Gate 3, there's a
+lot of synergies available for these
+elemental damage types, so they can be
+pretty powerful. Cold damage can be used
+to freeze water surfaces and alongside
+the snow burst ring can create an ice
+surface underneath every enemy that you
+attack, causing entire encounters to
+slip and fall over. Lightning or thunder
+damage can be used to trigger
+reverberation. So for characters using
+the reverberation items, this can be a
+pretty powerful way to make sure that
+you're applying that effect on every
+single attack. And of course, lightning
+and cold damage can be doubled with the
+wet condition. So, usually you're going
+to want to use one of those three damage
+types when you cast elemental weapon.
+Plus one to attack and plus 1d4 damage
+on all your attacks all day isn't a
+terrible use of your concentration and a
+level three spell slot, but for
+paladins, this comes fairly late in the
+game. Um, and again, has to be compared
+to just using that spell slot for smite.
+So, often they won't want to spend their
+spell slots on elemental weapon.
+However, because hexlade warlocks now
+get access to elemental weapon and it
+gets upcast for an extra um point of
+attack and an extra
+uh 1d4 damage when used with a fifth
+level spell slot. So when used at third
+level, it just does plus one to attack
+roll plus 1d4 damage. But once you hit
+warlock level 9, you get plus two to
+attack and plus 2d4 damage on all of
+your attacks. Elemental weapon is
+actually very powerful for hex blade
+warlocks. You can cast it on yourself.
+And as a hexlade, you're going to be
+making a lot of weapon attacks, but it
+especially shines when cast on an archer
+ally who can apply all this damage at
+range, use snow burst ring shenanigans,
+and so on. And that's a totally
+reasonable usage for your hexlade
+warlock's concentration and one of their
+spell slots. So, if you have a party
+member who makes good use of this spell
+effect, it's very powerful. elemental
+weapon is somewhat duplicated by the
+existence of the draketh throat glaive
+which lets you cast this once per long
+rest and doesn't take your
+concentration. Um, and also with the
+version used by the draketh throat
+glaive, you can twin cast it with a uh
+sorcerer. So, you can cast it on two
+different weapons. So, there's a lot of
+other powerful things that you can do
+with the item version of this spell, but
+for hexblade warlocks in particular,
+elemental weapon is a totally reasonable
+thing to spend their spell on and will
+increase your damage pretty
+dramatically. You will have other things
+that you want to concentrate on a lot of
+the time with hexlade warlocks. But for
+a more supporting version of the
+character, elemental weapon can be
+pretty strong. I'm going to give it B
+tier for hexblade warlocks in
+particular. Paladins will very rarely
+want to actually cast this spell. Fear.
+Fear is a concentration-based AoE
+control spell. And at third level,
+there's a few AoE control spells which
+can be used to just win encounters
+outright. Um, fear is one of them, and
+picking the right one for a given
+encounter is very important. These
+control spells are what let spellcasters
+just win whole encounters on their own.
+Fear in particular is a 30-foot cone
+where enemies have to make a wisdom
+save. And if they fail the save, they
+drop their weapon and become fearful for
+two turns. Now, the fearful condition
+can be a little bit confusing because in
+Balders's Gate 3, fearful, frightened,
+terrified, unnerved, and feared are all
+different conditions. Um, so knowing
+which one you're actually applying can
+be pretty confusing because there's a
+lot of synonyms for the same thing. But
+the fearful condition in particular
+forces enemies to run directly away from
+you and makes them unable to do anything
+else on their turn. So for two turns,
+they're going to spend their entire turn
+just running away from the caster. If
+they end their turn outside of line of
+sight of you, they get another save to
+break out of the effect. Otherwise,
+they're just stuck in the fearful state
+for two turns. So when you hit an enemy
+with this spell, they just can't do
+anything for the next two turns. Also,
+they've dropped their weapon and then
+run away from it. So against weapon
+attackers, they'll have to come back in
+order to pick it back up or probably be
+pretty ineffective. Fearful, when used
+on melee enemies, just outright shuts
+them down. And since it's a cone, that's
+when you're mostly going to want to use
+this spell. You concentrate on fearful
+for two turns against a melee enemy, and
+it just runs away from you for two turns
+while you attack it. Um, and then it's
+two turns of movement away from its
+weapon if it has somehow survived. that
+is going to just win any fight against
+primarily melee enemies pretty easily.
+It's a wisdom save, so the types of
+enemies that you want to target with
+this spell will typically fail it pretty
+frequently. So, this is just an
+extremely powerful control spell. The
+only downside of this spell is that it's
+a 30-foot cone, so enemies have to get a
+little bit close to your casters in
+order for you to make use of this. But,
+it is the strongest of the control
+spells when you actually land it on
+enemies. So, it can be very useful for
+to have this prepared um because it's
+the best one to land if it's possible to
+land it given the targeting
+restrictions. I'm going to give fearful
+a tier. You're going to be using these
+AoE disable spells a lot, but you're
+going to be choosing between them in
+different encounters. So, fear is going
+to come up a pretty frequent amount and
+you're just going to shut down melee
+enemies with it whenever you cast it.
+Fain Death. Fame Death is a spell that
+lets you put an ally into a coma and
+make them resistant to damage. So, you
+cast it on an ally. It's melee range and
+for 10 turns, they become completely
+incapacitated and unable to act, but uh
+gain resistance to all incoming damage
+except for psychic damage. You can also
+remove it early by using the help action
+on an ally. Otherwise, it will just last
+for 10 turns and then they'll wake up
+normally. This spell is completely
+useless when cast on an ally. Obviously,
+you don't want to incapacitate your own
+allies. Damage resistance is certainly
+not worth taking them out of the fight
+cuz what is the point of having a
+resistant character there um if they're
+not contributing to the combat? Uh there
+used to be some uses to feain death
+where you could cast it on NPC allies to
+stop them from running into the middle
+of groups of enemies so you could keep
+them alive more easily. You could also
+use this to steal from merchant by
+casting it on uh merchants who were
+allied to you um and then stealing all
+their stuff and they wouldn't notice
+because they were unconscious. But as of
+I think patch 7, you can only cast this
+on party members now, which makes it a
+completely useless spell. Dier,
+fireball. Fireball is of course a
+classic spell. It's when you want to
+blow something up. It is an AoE damage
+spell with 13 ft radius that does 8d6
+fire damage for an average of 28 damage
+with a dexterity saving throw for half.
+Now, the fact that it's uh 13 ft is a
+real mark against this spell in
+Boulders's Gate 3. In tabletop D and D,
+this spell has a 20ft radius, meaning
+that you're much more likely to blow up
+an entire encounter. Um, in Boulders's
+Gate 3, a 13 ft radius means you almost
+certainly will not catch an entire
+encounter in a fireball without somehow
+otherwise grouping them up. Fire damage
+is not a great damage type in Boulders
+Gate 3. There's a lot of enemies that
+are resistance to it, and a dexterity
+save for half is fairly likely to have
+enemies succeed because enemies will
+typically tend to have good dexterity
+saving throws. Enemies also have higher
+health relative to the tabletop game.
+Uh, so 28 average damage is just less
+powerful by the time you get access to
+the spell than it is in tabletop. None
+of those downsides mean that fireball
+isn't a good spell. It's still a very
+solid spell for killing lots of weak
+enemies, especially if you can group
+them up, either using the black hole
+ithid power later on or just finding
+ways to cause them to cluster around
+your allies. But it's if you're used to
+casting fireball in tabletop and having
+it solve a lot of problems for you, it
+just isn't the same spell in Boulders's
+Gate 3. A pure damage spell that will
+often leave enemies alive. If they pass
+the save, they're only taking 14 damage,
+which is just not going to kill a lot of
+stuff, um, is only going to be usable in
+some fights because you can really only
+get benefit from fireball if enemies are
+fairly tightly clustered and, uh,
+they're relatively weak. So, they're
+likely to die. You can still definitely
+cast this spell when those things come
+up, but as a go-to strategy, this is
+going to be less powerful than damage
+that you can spread out across enemies
+who are further spread apart. I'm going
+to give Fireball B tier because it's
+still a very powerful amount of damage.
+Um, sometimes you just need a big burst
+of damage and this is a good way to
+provide it, but it's significantly less
+powerful than it would be in tabletop
+D&amp;D. um and is just not going to be
+useful in every encounter. Next up,
+gaseous form. Gaseous form is a long
+rest concentration, I guess, buff spell
+uh that lets you turn a character into a
+cloud of gas. You cast it on an ally and
+they turn into mist, becoming unable to
+make attacks, cast spells, or interact
+with the world in most ways, permanently
+flying, gain resistance to all damage,
+and become tiny in size, which lets them
+go through like cracks and pipes in
+various locations. Gaseous form is
+pretty powerful um for exploring because
+it gives you everything that you want.
+It gives you permanent flight. It gives
+you the ability to pass through small
+holes and so on. And if you do get
+caught by an enemy, you have resistance
+to damage, so you can get out. You can
+also use it to do various things like
+pass through gradings and um fences. Any
+door that's not solid, you can pass
+through while you're in gaseous form.
+You can use it to hover over a lake of
+lava and maybe make enemies chase in
+after you. So, there's some pretty
+creative uses and interesting things
+that you can do with gaseous form when
+you actually cast the spell. I actually
+went into quite a lot of detail on all
+the cool things you can do in my potions
+tier list because one of the best ways
+of getting this spell is by drinking a
+potion of gaseous form rather than
+actually casting the spell. The effects
+of gaseous form are pretty powerful. Uh
+when you want an exploration tool, this
+is one of the best ones, but it's very
+expensive. Your concentration and a
+third level spell slot means that you
+are spending a lot in order to do
+something that is useless in combat. Um,
+obviously you don't want to have your
+character, similar to fain death,
+gaining resistance to damage is not
+useful if your character is not doing
+anything in combat. So, gaseous form is
+not really a combat spell. Although,
+there's a couple uses for it like
+passing through a grading or going out
+over a lake of hazardous material like
+lava or something like that. Um, but
+other than that, gaseous form is just
+not going to be used in combat. So, it's
+a purely out of combat exploration
+spell. There's a couple sequences in the
+game where this is the best way to
+explore and you might want to cast this
+as a spell and save your gaseous form
+potions for combat because the potions
+are actually pretty good there. Um, so
+for that reason, I'm going to give it C
+tier, but you're never using this to
+actually fight. Uh, you're just using it
+to explore areas and for that usage, it
+can be okay in some circumstances
+throughout the game. Glyph of warding.
+Glyph of warding is an AOE damage and
+control spell. It's non-consecentration
+and you cast it on the ground and it
+lasts until an enemy passes over it and
+triggers the effect. You can use one of
+eight possible effects with glyph of
+warding although six of them are just
+damage. So you can do thunder,
+lightning, fire, cold, or acid damage
+and it does 5d8 of each of these types
+of damage of whichever type of damage
+you chose. Um or you can have it knock
+enemies 20 ft backwards or you can have
+it put enemies to sleep. Each of these
+uses has a dexterity saving throw. If
+it's one of the damage uses, then
+they'll take still take half damage if
+they pass the deck save. Um, if it is
+the detonation or sleep version of the
+spell, then they will ignore the effect
+if they pass the the dex the dexterity
+saving throw. The trick with glyph of
+warding is that although it looks like
+it's supposed to be cast on the ground
+and you wait for enemies to walk over
+it, that's not how you actually use it
+in practice. If you cast it directly on
+top of an enemy, it will detonate
+immediately. So you can just use this
+basically the same as fireball. It's 13t
+radius just like fireball. So if you
+just cast this on an enemy, you're doing
+comparable damage in a very similar
+radius with a lot of optionality
+compared to fireballs 28 average damage.
+5d8 damage from glyph of warding does 22
+1/2 on average. So significantly less
+average damage, but because you can do
+lightning or cold damage, you can double
+it using the wet condition. Um, meaning
+that often glyph of warding will do more
+damage than a fireball uh if an enemy is
+wet. And also it can trigger a lot of
+other effects. If you cast this on a
+puddle of water on the ground, the cold
+damage will freeze it. So you can get an
+ice surface from glyph of warding and so
+on. So and of course uh if enemies are
+resistant to a damage type, you have six
+possible damage types at your disposal.
+So unlike fireball where a fire
+resistant enemy will have trouble you'll
+have trouble using it against glyph of
+warding will almost always be valuable.
+The real use of this spell though is for
+the sleep version because it is a
+non-conentration AoE sleep. It doesn't
+have a hit point requirement like the
+actual sleep spell and it's dexterity
+save based. So enemies that will often
+pass um disables against other kinds of
+disables like enemies with good wisdom
+saves. So they might save against fear,
+may have poor dexterity saves and be
+unable to save against glyph of warding.
+The sheer versatility and power of this
+spell, it's one of the best AoE damage
+spells available at this range. It's one
+of the best control spells available at
+this range, and it's not concentration,
+so you can spam it during combats. Makes
+this an extremely powerful option.
+There's some other uh things that make
+it even better for certain types of
+characters. For an abjuration wizard,
+this is an abjuration spell. So casting
+it will also give you three arcane ward
+stacks um whenever you you use glyph of
+warding. So for abjuration wizards in
+particular, this is especially powerful.
+It's also bard's best option for direct
+damage. So bards in particular are going
+to be using this spell constantly.
+Clerics will also be usually
+concentrating on another spell like
+spirit guardians and glyph of warding
+will be their best non-conentration way
+to add damage to that. Uh this spell
+does everything. It's kind of the Swiss
+Army knife of spells and it does each
+individual thing better than a lot of
+the spells that are specifically
+designed for that thing. S tier for
+glyph of warding. Um it's just so
+versatile and so powerful once you learn
+that you can cast it directly on an
+enemy. Uh, I think that's what keeps a
+lot of people from using it is that it
+doesn't seem like it is used the same
+way as a fireball, but you can just do
+that. And when you do, it's going to be
+better in a lot of cases than the spells
+that do even one of the eight effects
+that this spell does. Grant Flight.
+Grant Flight was renamed from the
+tabletop version of the spell, which is
+simply called fly, to disamiguate it
+from other things called fly in
+Boulders's Gate 3. It's a buff spell,
+and it lets you fly. except it actually
+doesn't because there's no such thing as
+flying in Balders's Gate 3. You cast
+Grant Flight on a creature and it's a
+10- turn concentration buff. And while
+they have it, they can effectively do
+little hops using their fly action. It
+lets them uh gives them essentially a 60
+ft jump that uses their movement speed.
+You use one foot of movement speed to do
+2 ft of flying. So, you can split this
+up across multiple little hops, but you
+always have to land at the end of your
+movement. Um, unlike a jump, it can also
+go around corners and change direction
+in the middle and everything. So, you
+are more mobile than you are simply by
+jumping. But a lot of the time, you can
+just duplicate the effects of flight by
+using enhanced sleep and just jumping to
+where you need to go. This can be useful
+for some encounters where you need a
+character to be particularly mobile.
+Maybe you have a melee character that
+needs to move from one side of an arena
+to the other frequently for whatever
+reason. Maybe enemies are spread out and
+all on top of high ground, like they're
+all on inaccessible pillars spread out
+around the arena and you need to move
+from one to the other. Grant flight can
+be useful for those specific scenarios.
+But for most cases uh where you just
+need to get somewhere in a hurry, being
+able to just jump there is more than
+good enough and you don't actually need
+to fly. For the cases where you do need
+Grant Flight, potions and scrolls of
+this spell exist. So, I think it's
+pretty rare that you're actually going
+to want to spend a spell slot on this
+spell because just drinking a potion of
+Grant Flight will give you the same
+effect without wasting a third level
+spell slot and the concentration of a
+character who might want to concentrate
+on an offensive spell instead. If this
+spell let you actually fly, then it
+would be extremely powerful cuz it could
+keep you away from melee enemies and
+stuff permanently. as is. It really does
+not do that much that isn't duplicated
+by just jumping or running around. Um,
+and it costs you a very expensive
+resource in order to do it. Misty step
+will usually be more than sufficient for
+the mobility that you need as well. Um,
+cuz it's rare that you need to teleport
+more than once in an encounter. So,
+Misti step will often just be good
+enough alongside normal jumping and
+normal character movement. So actually
+casting Grant Flight is rarely I think
+going to be correct. And of course when
+you do want it, you should just drink a
+potion of this spell. Deter for Grant
+Flight. Uh not cuz the effect is
+necessarily bad, but just because it's
+so expensive and so easily duplicated by
+other things that spending your
+concentration and an actual spell slot
+on this is not usually going to be a
+good idea. All right, my friends. That
+is 17 of the 34 thirdle spells. So,
+we're halfway through and this video is
+approaching an hour, so we're going to
+make the cut here. Um, I hope that you
+have enjoyed looking at the third level
+spells so far. Again, this list is
+shaping up to be very different from my
+previous version of the third level
+spells list with a lot of spells moving
+to higher tiers, which I think is really
+interesting. Um, it's it's kind of neat
+that just as I have played the game more
+and gotten more experienced, spells that
+I had previously dismissed move up my
+rankings as I learn how to use them. And
+hopefully this spell tier list will give
+you some ideas for using spells that you
+had previously discounted. Of course, if
+you have enjoyed the video, feel free to
+leave a comment and hit like. Helps me
+out a ton with the algorithm. And of
+course, if you think that there is
+anything that I should move to a
+different tier, especially if there are
+spells you think I'm underrating,
+definitely let me know in the comments.
+We've already moved some spells around,
+so I'm very open to continuing to do
+that. Uh, as always, you can subscribe
+to my channel for more for part two of
+this video, more Boulders Gate 3 build
+guides, and other strategy game
+analysis. Thank you for watching, my
+friends, and I'll catch you next time.

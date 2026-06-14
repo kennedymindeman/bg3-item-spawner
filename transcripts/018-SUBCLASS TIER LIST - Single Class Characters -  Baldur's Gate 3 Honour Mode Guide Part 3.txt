@@ -1,0 +1,2069 @@
+hello my friends and welcome back to
+another Boulders Gate 3 character
+building guide hope you're all doing
+well today we're continuing with part
+three of my subclasses tier list where
+we go over every single subass in the
+game in significant detail talk about
+their strengths and weaknesses and what
+draws you to play that character how
+they fit into a party and what you
+should consider when you're building a
+character of that class and how strong
+they are if you take 12 levels of that
+class since this is a single class tier
+list we'll be covering multiclass builds
+in a future installment and also I
+already covered the base classes in a
+previous tier list so if you haven't
+seen that make sure to check it out
+before I begin uh we already know the
+drill and sort of how we're going over
+these things but I do have one quick
+sort of update or correction to make um
+and then also going to just quickly go
+over the tiers again so we're all on the
+same page before we start so first off I
+want to mention that I did unell open
+Palm monk a little bit in my previous
+video because I I forgot to mention that
+of course they get the additional bonus
+action um in addition to their key
+recovery which does allow them to make
+six attacks in a round once uh per day
+or a couple times once per day and that
+is obviously very powerful and brings
+their burst damage up so for certain
+fights once per long rest you do get to
+increase their burst damage massively I
+don't believe that moves them up into s+
+tier but definitely something that I
+should have mentioned when discussing
+the character and secondly is that The
+Saga of the Elder tonight icons
+continues because as it turns out these
+are wrong in game um as well as on the
+wiki or potentially the wiki is right
+and the game is wrong it's not entirely
+clear because in the level up screen
+this is Battlemaster and this is eldrich
+Knight but in the character sheet this
+is Battlemaster and this is eldrich
+Knight I'm going to assume that this one
+that's sort of a banner um is was
+intended to be Battlemaster and this one
+that's got the Flames was intended to be
+eldrich Knight but it's not clear which
+one they actually meant since it's
+different across two different places in
+the game uh hopefully that gets fixed at
+some point because that's kind of a
+silly error for them to have made but
+for now this is on this tier list this
+is Elder tonight in s tier and this is
+Battlemaster in a tier sorry for the
+confusion everyone also just to quickly
+go over the tiers in S Plus tier I'm
+placing sub classes that give you way
+too much and are out of scale for the
+balancing intentions of the game in s
+tier we have characters that are both
+incredibly versatile and Incredibly
+powerful in a tier characters that are
+either incredibly versatile or
+incredibly powerful but fall short in
+one of those two metrics in B tier
+characters that are neither as powerful
+nor as versatile as the S tier
+characters um and so well while still
+great characters in their own right do
+suffer a little bit by comparison and
+then in C tier I have characters that
+are restricting your that restrict your
+strategy in some way either by having a
+significant drawback that you have to
+play around or by just not having quite
+as much of the thing that they bring to
+your party as you need a party member to
+actually bring and finally in the uh the
+last tier the outclass tier I'm placing
+subclasses that fulfill exactly the same
+role as another subass within that class
+so the characters are intended to do
+exactly the same thing but it just does
+it worse than the other subass for
+example Valor Bard has basically no
+abilities that swords Bard doesn't get
+and so while Valor Bard is still an
+excellent character in its own right um
+it is totally superseded by swords which
+does the same thing but better and more
+things I'm judging these classes on
+three metrics one is just the raw power
+that they bring to the table so how much
+damage do they do for damage dealers how
+much control do they do for controllers
+and so on two is how easy is it to fit
+them into a party so how many different
+roles can they fill how greedy are they
+for items how much support do they need
+from your party members um and three is
+how forgiving are they of play mistakes
+so for example an eldrich knight uh if
+you built as a thrower is a ranged
+character character who's extremely
+tanky has the shield spell and long
+Strider and so on and can barely ever
+miss your attacks because of the broken
+nature of Tavern brawler so even if you
+put your ELD Tonite in a bad position
+it's very unlikely to cost you a combat
+and therefore it's extremely forgiving
+of play mistakes I think that should
+count pretty heavily in a game mode as
+long as honor
+mode I will be tilting these subclasses
+a little more heavily towards raw power
+than towards versatility um whereas the
+base class I was more emphasize
+versatility a little more because once
+you're choosing a subass you've already
+sort of chosen the role that your party
+member is going to fulfill and so we
+should judge it based more on how well
+it fills that role than on how many
+different roles it can fill at this
+point in the tier list all right without
+further Ado let's jump in and start
+rating the classes we'll start with
+draconic sorcerer so sorcerer I rated s
+tier in my class tier list um and I
+think in fact that sorcerer's base
+mechanics as implemented in Boulders
+Gate 3 are the closest to being s+ of
+any of these classes because there's a
+significant change in how Sorcerers work
+from the tabletop game to the to balers
+gate that is that in tabletop you can't
+cast multiple leveled spells in a turn
+so even if you Quicken one spell you can
+cast a cantrip with your second action
+but you can't cast a leveled up spell
+with your second action no double
+Fireball turns in balers gate they've
+gotten rid of that restriction so you
+can cast as uh spells of whatever level
+as long as you have the sorcery points
+to Quicken them meaning that Sorcerers
+basically get two actions for every
+other character's one that gives them an
+incredibly High Baseline so it really
+does not take much for a sorcerer uh
+subass to be an incredibly strong
+character so what does draconic sorcerer
+get well you get two initial Buffs that
+are both pretty reasonable you get
+draconic resilience that gives you um 13
+Armor class whether as long as you're
+not wearing armor um so basically you
+just have free Mage Armor up all the
+time not a huge bonus because you could
+just have Mage Armor but still a a
+reasonable upgrade that makes it a
+little more convenient mostly to wear
+robes and you get an additional hit
+point per level one additional hit point
+per level doesn't sound like much but
+that's a pretty fair percentage of your
+total hit points when you're a Max Level
+sorcerer so if you're you will probably
+have somewhere in the range of 60 to 70
+hit points at level 12 as a sorcerer so
+adding 12 to that is increasing your
+total hit points by a sixth or a seventh
+and that's a pretty reasonable addition
+to your hit point total um that means
+that draconic Sorcerers especially when
+combined with other defensive options
+that Sorcerers get are surprisingly
+tanky for spellcasters still not tanky
+don't get me wrong here but they're a
+little more resilient than other
+spellcasters because of the additional
+hit points you also get to pick An
+ancestry and this gives you two things
+one is it chooses a damage type so
+different draconic ancestries give you
+different Associated damage types which
+don't do anything initially but give you
+uh advantages using that Elemental
+damage type as you level up and you also
+get a bonus spell most of these spells
+are already on the sorcerer list and so
+there's not a huge benefit to taking
+them but there are I believe two that
+aren't on the sorcerer list already uh
+if you are a white dragon you get armor
+of agathys which is a really nice one to
+have access to and if you are a copper
+Dragon you get Tasha's hideous laughter
+I think there's no other ones that
+aren't already on the sorcerer spell
+list let me know if I missed one of
+these the really good ones are probably
+the white dragon because cold damage is
+a good damage type to associate with
+lots of powerful cold damage effects and
+there's some items that trigger off of
+cold damage and armor of agius is a
+pretty nice spell to add to the sorcerer
+spell list um Copper Dragon uh or sorry
+excuse me bronze dragon gives you
+lightning and gives you fog Cloud which
+is also very useful or blue dragon gives
+you lightning and witch bolt if you're
+not doing a witch bolt combo attacking
+build um like my one shot lightning Lord
+then you probably better off with bronze
+dragon to get the lightning damage
+because fog cloud is a very relevant
+spell to have all the time if you really
+want to do uh a fire damage build of
+course which are very powerful with
+draconic Sorcerers um there aren't ones
+that give you great spells but having
+disguise self is never bad so a gold
+dragon can be useful um and Brass Dragon
+at least gives you sleep which is okay
+in the early game I wouldn't bother with
+burning hands it's just not a very
+powerful spell early on but overall I
+think it doesn't really matter which
+fire dragon you pick I'd typically avoid
+acid or poison dragon because though
+there's less Synergy with those damage
+types although it really for most
+draconic sorcerer builds what Elemental
+damage type you pick will not be a huge
+component of the damage that the of the
+character's power level you're still
+just a fully fledged sorcerer even if
+you never use your element abilities so
+you can also pick these based on theme
+however they they do give you access to
+a few really powerful builds because of
+class features that you get later on at
+level six you get elemental damage
+affinity and Elemental damage resistance
+and or Elemental Affinity damage and
+resistance which will let
+you add your charisma modifier whenever
+you deal damage of the associated type
+that's incredibly powerful especially
+with cold lightning or fire damage for
+various reasons cold and lightning of
+course you can double that damage using
+the wet condition so that's an
+incredibly powerful buff because it's
+probably adding 10 or more damage to
+every spell that you're casting and it
+will work in with AOE spells and
+everything so that's a lot of extra
+damage and with fire you get to add it
+to scorching Ray where it adds to each
+Ray so some of the most powerful damage
+builds are draconic uh are fire damage
+draconic Sorcerers that use leveled up
+scorching Rays a six level scorching Ray
+fires seven Rays so you're adding 30
+damage to the cast of that spell at base
+before even taking into account items
+and and whatever that can increase the
+damage of scorching R to massive levels
+that's one broken build you can do with
+draconic sorcerer but in general um just
+adding a bunch of damage to all of your
+damage spells is pretty powerful and
+often takes them over the threshold of
+one-shotting enemies which is what you
+want when you're casting a damage spell
+the whole point of a damage spell as
+opposed to just making a weapon attack
+is to actually kill something in one
+shot and so adding damage consistency to
+those spell effects is very powerful you
+can also benefit uh it it's also worth
+noting that the cold damage sorcerer
+Buffs the best cantrip in the in the
+game Ray of frost um but also you can
+buff fire bolt and still be pretty
+happy so there's a lot of different
+options here when you're picking your
+draconic element to do a lot of extra
+damage you also uh can spend a sorcery
+Point whenever you cast a spell of that
+type to gain resistance damage of that
+type that will come up like maybe once
+in the entire game but you know when
+when it does come up you're happy to
+have it and then at level 11 you get Fly
+uh permanent flying is pretty cool it
+lets you reposition based on height and
+everything but flying in balers gate is
+less powerful than it sounds like for
+one thing you can get permanent flying
+from an elit ability so it's it's not
+unique to draconic sorcerer still nice
+that they have access to it but for
+another flying in Boulder's Gate isn't
+really flying it's hopping and so it's
+somewhat redundant with just the ability
+to jump that every character has this
+does give you quite a lot of extra
+mobility in combat but by level 11 you
+probably have access to Misty step and
+and enhanced leap and long Strider and
+all of the other Mobility options so if
+you haven't solved your Mobility
+Problems by level 11 then you probably
+should have uh I guess you you have been
+doing something wrong for the whole game
+um and I don't know quite how you made
+it to level 11 without having Mobility
+options but the fly is a nice little
+bonus that will help you out not a major
+component of the characters of the
+draconic sorcerer class power the
+additional damage equal to Charisma is
+where most of the subclass's power
+budget is spent but that's a huge bonus
+that has all kinds of implications as
+well as giving you access to a bunch of
+the most broken builds in the game in
+terms of doubling or uh sep tupling this
+bonus with scorching rays and so of
+course draconic sorcerer being a
+powerful sorcerer with a a great class
+feature is an S tier
+character storm sorcerer it's a little
+funny to me that we have draconic
+sorcerer for lightning damage and then a
+whole lightning damage focused subass in
+addition to that but storm sorcerer is
+probably the better choice if you really
+want to focus on lightning damage um
+because the AOE damage will add to more
+most of the time than the draconic
+sorcerer damage either one will be
+totally reasonable if you want to focus
+on lightning damage that being said
+storm sorcerer isn't really a lightning
+damage Focus class it has a bunch of
+lightning damage abilities but most of
+what you get is really powerful for any
+sorcerer and does not have to be focused
+on on doing lightning damage or casting
+lightning or thunder themed spells in
+order to get the strengths of this
+character you get at level one
+tempestuous magic which lets you
+whenever you cast a spell a leveled
+spell so not a cantrip you can fly as a
+bonus action until the end of your your
+turn without receiving opportunity
+attacks this lets you uh fly up to your
+movement speed um the tool tip says 30
+ft but it is actually based on your
+movement speed as a character so the
+tool tip is incorrect um but that flight
+not costing opportunity attacks and just
+letting you fly from very early in the
+game is super powerful it may come as a
+bit of a surprise cuz I just talked crap
+about the draconic sorcerer flight
+ability with and the storm Sorcerers
+requires activation requires resources
+to be spent to be used but the
+difference between getting this ability
+at level 11 and getting it at level one
+is massive obviously having flight by
+the time you're level 11 you should
+definitely have gotten your Mobility
+problems sorted out but at level one
+getting access to a really powerful
+Mobility skill very early in the game
+will make your early game significantly
+smoother and make it much harder for you
+to end up with your with your storm
+sorcerer in melee or in bad situations
+because you can cast a spell and leave
+the immunity to opportunity attacks is
+also super powerful and lets you just
+get out of any bad situation very
+frequently people often uh talk about
+how much they love shock and grasp which
+I I mostly disagree with but this turns
+every spell into shock and grasp where
+enem it will deny enemy reactions and it
+works on groups of enemies so even if
+you're surrounded you can get away um
+and then you are able to escape even the
+worst possible situations as long as you
+still have a few hit points obviously
+that's an incredibly powerful feature
+but it's also worth noting that flight
+early in the game is better than flight
+later in the game simply because the
+Arenas uh in act one are more are both
+smaller but also more vertical than the
+Arenas in Act 2 and three uh because
+they I mean to be brutally Frank because
+they are better designed and had more
+time in testing because that that was
+the act that was released for Early
+Access the Arenas in Act One have tend
+to have a lot more verticality and a lot
+more interesting terrain features and
+also involve enemies who can't just
+bypass all of the verticality anyways if
+you go up onto the ra Rafters in the
+goblin Camp the Goblins mostly won't be
+able to follow you later on in the game
+if you go up into the rafters enemies
+will just have ranged options or be able
+to follow you easily and it won't be as
+huge an advantage getting access to that
+kind of Mobility early is super powerful
+and then of course a lot of fights in
+act two like all the outdoor fights in
+act two are uh take place on just
+basically flat open featureless ground
+and most of the indoor Arenas are big
+empty rooms where Mobility becomes much
+less of a concern in Act One vertical
+mobility is incredibly powerful but it
+does fall off as the game goes on just
+because of the nature of the combat
+Arenas that you're fighting
+in at higher levels you get some
+additional bonuses you get heart of the
+storm which at level six which does
+additional damage uh based on thunder or
+lightning whenever you cast a lightning
+or thunder spell this damage is equal to
+half of your sorcerer level so it's a
+small amount of damage but done in an
+AOE and it will importantly add all of
+your Ryder effects whatever rer effect
+you have on extra spell damage um and
+can give can as a result do a lot of
+cool effects things like reverberation
+from the Thunder damage or just
+generally speaking anything that adds to
+your spell damage will go off with heart
+of the storm and that's obviously very
+powerful and as you level up you gain uh
+and you also gain resistance to
+lightning and thunder damage which are
+hard resistances to get in general and
+not the most common damage from enemies
+but relevant in some encounters having
+damage resistance is certainly never bad
+definitely not the largest bonus but a
+small bonus and uh you also get
+additional spells basically like a
+cleric domain as you level up the
+additional Spell access means that
+you're much more flexible in terms of
+what other spells you take and some of
+them are really good create or destroy
+water obviously works very well with
+your theme cuz you you get this on a on
+a sorcerer which is uh hard which you is
+very powerful to have access to on a
+sorcerer especially because you're
+theoretically a lightning damage Focus
+sorcerer although again you don't have
+to be um and sleet storm and call
+lightning are two just excellent spells
+that it's great to have access to on
+this character you'll never be sad to
+have them Thunder Wave is one you
+probably wouldn't spend a spell known
+slot on but you're very happy to just
+have it when it's given to you from your
+domain finally at level 11 you get an
+ability that triggers when you take a
+melee attack so that's mostly irrelevant
+but the class features that you get from
+Storm sourcer throughout the game are
+all really powerful they play really
+well into your theme and they give you a
+lot of safety in the early game and a
+lot of flexibility in terms of your
+spell selection so obviously storm
+sorcerer in combined with the extremely
+powerful nature of the sorcerer based
+class is an S tier class and uh my
+personal favorite sorcerer because I
+really like the flying movement and I
+think it's fun and tactical but
+um just in general a very solid class to
+play Wild magic so wild magic sorcerer
+is one that you'll often hear people say
+never ever play this character in honor
+mode I disagree I think that wild magic
+sorcerer is totally playable in honor
+mode and in fact one of the most fun
+honor mode playthroughs you can possibly
+have it breaks one of the main negative
+play patterns of Honor mode because I
+think that often honor mode playthroughs
+devolve into using the same strategy in
+combat over and over again and playing
+the same turn over and over again
+because you you just use one sort of
+broken mechanic wild magic sorcerer
+throws a wrench into the works by having
+random effects happen in combat which
+you then have to react to that means
+that your playthrough ends up more
+varied and interesting than a lot of
+other possible playthroughs uh with the
+game because you have have to react to
+things on the Fly rather than getting to
+plan everything out in advance wild
+magic sorcerer gives you random effects
+that trigger whenever you cast a leveled
+up spell through the wild magic class
+feature by default there's a 5% chance
+whenever you cast a wild magic spell of
+one of these triggering but you can
+increase the chance to 50% by using the
+tides of chaos ability tides of chaos is
+a very powerful ability but increasing
+the wild magic surge chance to 50% is a
+pretty significant downside also it is
+irritating to me that those numbers are
+not shown anywhere in the tool tips or
+in game or anything and you have to
+learn those by trial and error uh but
+those are the the accurate numbers for
+wild
+magic so basically what you need to know
+is how many different wild magic effects
+are there how many are good and how many
+are bad and how do you play around the
+worst of them and to maximize the best
+of them in order to gain benefit from
+these wild Magic surges there are by my
+count 23 different wild magic effects um
+which means that on a given turn there's
+a slightly less than one in 400 chance
+of any of them happening because you
+only have a 5% chance of one of them
+triggering and then a roughly 5% chance
+of each individual one triggering of
+course as we know since we've played a
+lot of this game a one in 400 chance is
+the same chance as rolling two natural
+ones in a row so it's going to happen
+and it will happen more frequently than
+you might like that you get specifically
+the worst wild magic surge for you which
+is usually the cambian appearing but
+I'll talk a little bit about that in a
+second um and so you really have to plan
+all of your fight around the possibility
+of having the worst possible outcome
+from your wild Magic
+surges you can also increase the chance
+of wild Magic surges if you want them by
+using tides of chaos tides of chaos also
+available from level one gives you
+advantage on your next attack roll
+ability check or saving throw which is a
+hugely powerful ability and it's a
+reaction that doesn't actually take a
+reaction so similar to Reckless attack
+you can use it to turn misses into hits
+or failed saving throws into successes
+which is incredibly powerful but then
+your next uh the next time you cast a
+spell you'll have a 50% chance of the
+wild magic surge instead of 5% so it's
+really important to know how to play
+around the wild Magic surges in general
+about 60% of them are good for you about
+20% of them don't really do anything and
+about 20% of them are pretty bad for you
+but you can maximize the good ones and
+minimize the bad ones through careful
+positioning most of the negative effects
+so the effects that hit everybody in an
+AOE around you for damage or whatever
+have a range of 30 feet and most of the
+positive effects have a range of 20 feet
+so if you are more than 30 feet from
+your allies and more than 20 feet from
+your enemies you uh minimize the chances
+of you doing something bad to your
+allies or buffing your enemies this is
+pretty important because some of the
+positive effects are really powerful
+like guaranteed Critical Hits which if
+you give them to your enemies is very
+dangerous um that being said you can't
+eliminate the chance of terrible things
+happening entirely one of the worst
+things that can happen is it can summon
+a cambian that's hostile to everybody
+and it will appear near your sorcerer
+which obviously um especially if you've
+positioned your sorcerer away from your
+allies is really dangerous in the late
+game this mostly won't matter one
+cambian more or less is not going to
+make the difference between a one or
+lost fight but in the early game
+obviously an unexpected Campion can be
+an instant party wipe and so you do have
+to be very careful with when and how you
+cast spells and make sure that you can
+always deal with the worst possible
+effects that means that to play Wild
+magic Sorcerer optimally And I I
+honestly I don't recommend playing it
+optimally I recommend just going in
+blind and having fun with it um but to
+play it optimally most tactically uh you
+want to memorize the table and think
+about what possible effects could happen
+and how you would react to them every
+time you cast a spell that's a lot of
+extra work so that's why I don't
+recommend doing it but you should have a
+good sense how to play around the
+possible effects and the positioning
+thing where you're 30 ft from allies and
+20t from enemies is will help go a long
+way for that however if you do that
+that's going to be a pretty restricted
+restrictive play style and it will only
+come up sometime so it's going to feel
+pretty silly to do a lot of the time
+where you are restricting your play
+style in order to generate uh to
+minimize the chances of something going
+horribly wrong you're giving up
+advantages that you would have have
+through different positioning or casting
+spells when you might decide that it's
+too risky to cast a spell and instead
+you want to cast a cantrip you're
+definitely giving up stuff in order to
+bring your wild magic
+sorcerer however you also get some other
+powerful abilities as you level up which
+go very well uh with these effects
+because you at level six get Bend luck
+which is basically you can spend two
+sorcery points for guidance or for Bane
+um increasing your party members ability
+checks by a D4 or decreasing um or or
+ability checks attack roles or saving
+throws by a D4 so basically a mini Bic
+inspiration or decreasing an enemy's
+attack roll or saving throw by a D4 so
+basically a mini cutting words for two
+sourcery points this isn't like the most
+amazing deal but it's going to turn
+misses into hits and that's incredible
+and turn uh failed saves into successes
+or succeeded saves into failures and
+obviously that's extremely powerful it
+that that is a very very useful ability
+and it only costs sorcery points which
+are a relatively plentiful resource so
+you basically get to have a lot of the
+benefits of being a Bard while also
+being a sorcerer which is an incredibly
+strong thing to
+be that being said the way that you have
+to play around the dangers of wild magic
+restrict your strategy significantly and
+so because of the restricted positioning
+the chance of getting a uh an instant
+party wipe if you lapse on your
+positioning or if you just get really
+unlucky if a fight's going badly you can
+often pile uh Misfortune onto more
+Misfortune because if a fight's going
+badly maybe you've used tides of chaos
+to try to land an important attack um
+and this does work with spells with
+attack rols by the way so that that is
+very useful for wild magic um but then
+you now have to play around the chance
+of getting a a terrible result on your
+wild magic surge because you have a 50%
+chance of one happening and that's going
+to restrict any future turns so it means
+that while your combats are you're still
+a a sorcerer you still have lots and
+lots of tools to deal with combats that
+are going badly but your combats will be
+going badly more and you have to be a
+little more careful when things start to
+turn against you not to make them
+significantly worse overall I would say
+that wild magic sorcerer is uh C tier
+because it restricts your strategy
+significantly although it brings a lot
+of power to the table because it's a
+sorcerer um but I also think that it's
+one of the most fun possible honor mode
+playthroughs and will force you to
+change your strategy on the fly
+something that balers gate often doesn't
+do and so I highly recommend playing
+this character even though from a a
+purely power level standpoint or I guess
+not power level but like how it fits
+into this tier list standpoint it's a
+CTI character warlocks so warlocks I
+rated a tier in my class tier list
+because they are very sustainable using
+their highest level spells on short rest
+cooldowns they have access to a bunch of
+broken combos like darkness and devil
+sight they get Hunger of fadar they're
+not that flexible from combat to combat
+because mostly what you're doing is
+hunger of fadar and then repelling blast
+people back into hunger of Hadar and
+that play play pattern holds true across
+all three warlock um packs but that is a
+very powerful play style and of course
+they give you access to dialogue skills
+and everything so just a great character
+they really don't need that much from
+their subclasses in order to be a
+character that excels in an honor mode
+playthrough start with Arch Fay warlock
+which is often considered the weakest of
+the three although I tend to think that
+Arch Fay is actually quite underrated
+some of the abilities they get are
+pretty powerful Arch Fay warlock gets uh
+Fay Presence at level one which lets you
+do in a short range so 10 feet from you
+do an AOE fear or Charm an AOE fear at
+level one in with a with a short rest
+cooldown is pretty powerful and is
+basically an extra disable um like feed
+warlock gets command at level one which
+is one of the things they're going to be
+doing uh F presence is almost as good as
+that comes back on a short rest just
+like your actual spells and is AOE so
+that's going to be a pretty powerful
+boost for the first few levels it'll
+fall off pretty quickly at later levels
+as you get access to AOE spells um and
+as for example F warlock's command
+becomes multi-target because it's
+getting the auto scaling but in general
+uh F presence is still just a pretty
+powerful disable and especially for the
+early game you can run into groups of
+enemies activate it and um and you'll
+hit a lot of enemies since it uses your
+charisma save DC a lot of enemies are
+going to be feared and you can run in
+activate it and then use a bonus action
+Jump Plus the rest of your movement to
+get out also if enemies get close to you
+you'll be able to escape from them uh
+from any enemies that the fear fails on
+I I I'd say this is actually a pretty
+powerful
+ability um it also has two turns of
+duration and so it's one of the very few
+ways to do two full turns of disabl
+starting from level one available in the
+game so it's just a a a an extremely
+powerful early level ability you get
+some additional spells and most of them
+are not particularly strong um fairy
+fire is okay sleep is pretty useless to
+a warlock in general um CU you you'd
+rather just kill enemies most of the
+time at level one uh calm emotions and
+is fine fantasmal force is terrible um
+the big hit here is plant growth and
+then uh greater invisibility is fine at
+if you're doing that strategy but the
+the big win on your spell list is plant
+growth which is very useful to a warlock
+plant growth plus hunger of Hadar of
+course is an incredibly potent combo so
+if you want to blow two of your spell
+slots in in one turn of combat then you
+can set that up and enemies and
+just win fights instantly through that
+you also get Misty Escape escape a
+reaction ability that makes you
+invisible when you take damage and then
+on your next turn you get a free Misty
+step which then breaks your invisibility
+but becoming invisible on taking damage
+means that you're only going to take one
+hit that turn most likely and so that's
+a very powerful effect as well um that
+can get you out of bad situations pretty
+easily one of the things that warlocks
+do sometimes suffer from is just getting
+jumped on because they're concentrating
+on Hunger of Hadar and they're uh
+relatively vulnerable and they want to
+be in range to be eldrich blasting don't
+have a lot of inbuilt Mobility typically
+so having an escape option that comes
+with mobility and prevents you from
+dying it's a great reaction also just a
+very solid ability at level 10 you
+become immune to Charmed which is
+totally useless uh or not totally
+useless but almost useless and kind of a
+bad Capstone I wish they got something a
+little different there but both of those
+the abilities that they do get are very
+strong um very much worth having and so
+I think Arch Fay warlock is absolutely
+an a tier
+warlock fiend of the three warlock packs
+fiend has probably the worst just
+generic abilities but um you have also
+one of the better spell lists so the
+additional spells that you get are
+really good you get command at level one
+which is incredibly powerful just cuz
+command is great obviously but
+especially good for a warlock because it
+auto levels up so as you level up you're
+going to be casting it with higher level
+spell slots and will be commanding
+multiple creatures without having to
+spend a more important resource you also
+get some decent damage spells uh most of
+those are not that useful but you also
+get wall of fire which is really nice to
+have access to especially because at say
+level seven wall of fire casting wall of
+fire would cost your sorcerer or wizard
+um or Druid their most important spell
+slot whereas for you it's just one spell
+slot that you get for that day and so
+wall of fire which is a a situational
+spell that solves some encounters
+entirely especially in act two when
+you're going to be level seven is a an
+addition to a party that doesn't cost
+you much resources as a fiend Warlock
+and will just One-Shot certain
+Encounters in a very easy and resource
+free way so that is a pretty significant
+boost to have on your spell list you
+also get whenever you kill an enemy you
+gain um temporary hit points equal to
+your charisma plus your warlock level
+that's going to be a lot of temporary
+hit points at at high levels it does
+conflict somewhat with um the warlock's
+best item the potent robe but if you're
+monoc class fiend warlock then this is
+going to be a lot of temporary hit
+points and you'll be killing enemies
+pretty regularly because you'll be using
+eldrich blasts in your decent damaging
+spell list and so you you'll be
+generating a lot of temporary hit points
+which helps your warlock sustain which
+otherwise is something that they have
+trouble doing warlocks are relatively
+squishy and vulnerable and so having the
+defensive abilities much like Arch Fay
+warlocks Misty Escape uh this the
+additional temporary hit points are
+pretty powerful warlocks also get access
+to Blade Ward uh by default which means
+that which is pretty nice because it
+lets you protect those temporary hit
+points so you can benefit from those um
+and of course you can use it to protect
+armor of agius now it is it is uh
+redundant with armor of agathys so fiend
+warlocks usually won't be using that
+strategy but that's okay because you
+just don't you will use it in like the
+early game and then you can just swap
+out and then you just take one of your
+other more important spells later on you
+also get at level six dark one's own
+luck which lets you add a d10 to a skill
+check once per short rest that's a huge
+boost I mean that's more than double
+guidance so that is a pretty
+impressive addition to Your Arsenal and
+will let you just pass skill checks
+pretty frequently um it's great for
+dialogue skills and as a Charisma
+character of course dialogue skills are
+something you're very likely to be doing
+but will also just uh allow you to you
+know make disarm traps or do anything
+that you particularly need to do very
+useful to have in the late game when
+you're trying to do uh the mirror or any
+of the other really important skill
+checks having this ability it as a
+situational boost is very powerful as
+well finally at level 10 you get a
+changeable damage resistance and notably
+this damage resistance can be anything
+it's not just Elemental damage and you
+can change it uh based once per short
+rest based on the encounters that you're
+going to face this means you'll
+basically always have resistance to the
+most common damage that you're going to
+be facing in an encounter which combined
+with your generation of temporary hit
+points makes fiend warlocks really hard
+to kill while also dishing out very
+consistent and and Powerful control
+effects or damage effects so just again
+a very solid character that will very
+easily cruise through honor mode a tier
+great old one great old one or goolock
+are probably the generically most
+powerful and and sort of most common
+warlock for most warlock builds you're
+best off with a great old one build
+because of mortal reminder Mortal Mortal
+reminder is whenever you land a critical
+hit which because you're a warlock is
+going to be pretty frequently because
+you'll be eldrich blasting and when you
+fire an eldrich blast at level 10 or
+higher it's going to have three beams
+all of which can individually critical
+hit so you have very frequent Critical
+Hits very high chances to critical hit
+whenever you land one the Target and um
+nearby creatures have to succeed on a
+saving throw which of course is a wisdom
+save based on your charisma um or become
+frightened frightened like we talked
+about very powerful condition and
+applying it for free is incredible just
+constantly dishing out these crowd
+control effects is something that is
+going to be super powerful about your
+great old one and so any eldrich eldrich
+blasting build excuse me
+um that uses that that it wants to focus
+primarily on Eldridge blast should
+probably be great old one you also get a
+uh very solid spell list for a warlock
+so your additional spells are excellent
+dissonant Whispers fills a big hole in
+your early game combat so it gives you
+some burst damage and a crowd control
+effect um and later on you get slow
+which is quite nice to add to the
+warlocks Arsenal because you get um you
+have a lot of AOE damage effects that
+you can't use when allies are in the mix
+or AOE control effects I guess you've
+got one you've got hunger of fadar but
+it's the best one um but you can't use
+it when allies are mixed up with the
+enemies slow lits you have a crowd
+control effect that works even when
+allies and enemies are all mixed
+together evard's black tentacles combos
+well with um any like walls of fire from
+your allies so while it's not an
+incredibly powerful spell it's nice to
+have access to somewhere in your party
+um and then telekinesis lets you one
+shot things all of these spells are a
+lot better and you'll notice that some
+of these are spells I rated fairly low
+tiers on low tier on my spell tier list
+but warlocks can use more situational
+spells much better because they aren't
+expending highle spell slots or uh to to
+use them since warlock spell slots are
+always max level it's not the same
+resource expenditure to cast telekinesis
+as it is for another
+spellcaster that means that these kinds
+of more situational spells like slow or
+evars or telekinesis are all really Ed F
+to have on a warlock and let you use
+those spells in ways that are optimal
+without having to spend resources on
+acquiring them combined with the free
+crowd control effects from Mortal
+reminder this makes the goo warlock both
+really good at dishing out damage and
+really good at dishing out control and
+that's what you want from a hybrid
+spellcaster damage dealer like a a
+warlock you also at level six uh get
+entropic Ward where you can impose
+disadvantage on an attack roll against
+you and then if they miss you gain
+advantage on your next attack roll
+against the attacker advantage of course
+is great for you cuz more critical hits
+means more fears but also reactive
+disadvantage is very powerful as we
+talked about with light cleric and and
+everything already um and then at level
+10 you get psychic resistance obviously
+much worse than fiend's variable
+resistance uh but you also deal damage
+back when you take psychic damage that
+does matter because in balers gate a lot
+of the late game enemies are psychic
+damage dealers and so you will be taking
+psychic damage occasionally and dealing
+it back um but for the most part that's
+a very very minor boost in the end game
+and you're mostly there for Mortal
+reminder from level one I would say that
+goo warlock actually benefits the least
+from the Restriction to monoc class
+Warlock the other two warlock classes
+gain from that because goo warlock gets
+a lot of its power budget at level one
+but is still just an excellent character
+that you can take all the way through
+and I'm going to rate it a tier I'll
+also mention for the warlocks that there
+are three packs for the war warlocks
+which are basically also subclasses uh
+blade chain and toome blade packed
+warlock for a monoc class warlock can go
+and all three of them can be used with
+any of these sub classes and I think
+they'll all be good and there's no
+there's no bad pick for Honor mode um
+blade packed warlock for a monoc class
+warlock probably benefits the least
+because it's not that often that your
+blade weapon blade weapon attacks are
+better than just using eldrich blast uh
+chain warlock is probably the strongest
+of them for Honor mode cu the Imp is
+incredible
+uh and then and the the summon is
+incredible for scouting and doing extra
+damage and everything and to warlock is
+always good guidance is great to add to
+your party none of those packs change
+the tiers of the warlocks but um which
+sounds like a sounds like a bad fantasy
+novel The Tears of the warlocks um but
+overall I think you're you will be happy
+with any of them and you should pick one
+that is based on the concept of your
+character it will change how your
+character plays out but it won't change
+the effectiveness of your character I
+think any combination any of the
+possible combinations of warlock packs
+and subclasses are all a
+tier wizard wizard I think has some of
+the highest variant between their
+subclasses of any of the classes because
+they get each uh subass gets three
+abilities each magic school gets three
+abilities and some of these abilities
+that you get at level two are like the
+best abilities in the entire game and
+some of the abilities that you get um
+all the way through to level 10 do
+literally
+so how strong your wizard is does depend
+quite heavily on what subass you select
+for your wizard Wizards also have
+benefited a lot from a rules change from
+tabletop to Boulder's Gate where you can
+swap your prepared Spells at any time
+outside of combat in tabletop you have
+to prepare choose your spell list for
+the day at the beginning of the day and
+can't just swap based on what you're
+going to face um so Wizards are even
+more versatile in Boulder's Gate and
+that means that the ability to
+specialize in specifics
+uh spells based on your spell school is
+less important in Boulders gate than it
+is in tabletop so your subass has less
+um gives you less in that sense because
+specializing in specific spells is just
+less important than it is in tabletop
+since you'll be varying your spells cast
+more over the course of a
+game we'll start with abjuration school
+so abjuration wizard gets you uh three
+different abilities although two of them
+are the same ability and then um and
+then the third one is just a buff to the
+same ability really it's actually never
+mind it's just one ability you one
+ability from uh from ABD duration Wizard
+and it gets better as you level up it
+has the cost also of uh learning ABD
+duration spells from Scrolls but money
+is free in this game so while every
+spell every wizard School learns their
+Associated spells better that doesn't
+matter at all or cheaper that doesn't
+matter at all ABD duration wizard gives
+you arcane Ward so whenever you cast an
+abjuration spell you gain one intensity
+uh per level of the spell that you cast
+so if you cast a level three abjuration
+spell like Glyph of warding you gain
+three intensity uh up to a maximum of
+twice your wizard level so at max level
+up to 24 at say level five up to 10
+whenever you take damage you reduce the
+damage by the intensity uh and then
+reduce the intensity by one so if you
+take a hit at if if you're level 12 and
+have a 24 intensity Ward you take a hit
+you take that damage minus 24 and then
+the intensity drops to
+23 this is a significant change from the
+tabletop version of this ability which
+basically just works as like temporary
+hit points the the ward intensity just
+uh decreases by the damage that you take
+and you gain a little more per cast but
+overall it's just temporary hit points
+rather than these this layers of
+ablative damage reduction ction that uh
+abjuration wizard gets at level six you
+can uh reduce the damage to an ally so
+you can basically use your Arcane
+Ward um on on an ally as a reaction and
+at level 10 uh whenever you take a short
+rest you gain a bunch of free intensity
+on your ward so you can keep it up for
+longer as a monoc class wizard there are
+some things that are a little bit
+different compared to the multiclass
+builds that usually use this you can't
+build up your ward for free using the
+the Warlock uh invocations and you can't
+uh get armor of agius on this character
+to do the retaliation build however the
+damage reduction that you get from this
+build if you just cast abjuration spells
+in combat and it's worth noting that one
+of the most powerful combat spells in
+the game powerful non-concentration
+spammable combat spells in the game is
+Glyph of warding which is an ABD
+duration spell that'll give you three
+intensity on your uh on your Arcane Ward
+the amount of damage reduction that you
+get is
+insane reducing incoming damage by twice
+your level will often reduce it to zero
+or will completely or or reduce it to
+trivial amounts that are then easily
+healed up you also can reduce this
+damage even further by adding additional
+sources of damage reduction even without
+armor proficiencies the bone Spike Garb
+lets you add two more damage reduction
+to your character adding damage
+resistances like Elemental resistance or
+blade Ward or anything along those lines
+um I guess uh which you can get from an
+ally healing you uh and this gives your
+wizard effectively thousands of hit
+points because the amount of damage that
+you need to take before you are ever in
+danger of dying are in the hundreds or
+even in the late game thousands it's
+very possible that you can with
+appropriate damage reduction and healing
+survive 10,000 incoming damage and I'm
+not exaggerating with that number um if
+you continuously reapply your Arcane
+Ward and so you can you can sit in some
+of the most dangerous Encounters in the
+game continuously taking damage and
+negate almost all of the incoming damage
+heal it back up very very easily if
+you're getting the buff on heal blade
+Ward from a a cleric Ally or whatever
+you can
+continuously uh reduce the damage and
+it's notable that damage resistance
+applies before damage reduction so if
+you have anything that's having incoming
+damage it hases it and then you apply
+the flat damage reduction that means
+that abjuration wizard has so many more
+effective hit points and is basically
+unkillable this rules change from
+tabletop is I'll be honest silly this is
+just too powerful Wizards are not
+supposed to have 10,000 defective hit
+points and ABD duration wizard as a
+result is an S Plus tier character that
+totally breaks the game um by virtue of
+just literally being impossible to kill
+it is true true that in the first like
+three levels or so your damage reduction
+does not keep up with incoming damage
+and you probably won't have the damage
+resistances but by the time you're
+you're level three your Arcane Ward is
+blocking six damage um and six damage is
+going to be more than half of all
+incoming damage it's relatively easy to
+refresh outside of combat uh and by the
+time you're level five when you get
+access to Glyph of warding it's blocking
+10 damage which is more damage than most
+incoming damage especially if combined
+with resistances and healing
+uh you will be taking zero damage from
+just about everything and can easily
+refresh your ward and then you'll never
+take damage again for the rest of the
+game the amount of damage that enemies
+have to do to overcome this resistance
+is absurd and abjuration wizard is
+simply busted in half just an incredibly
+powerful ability that makes you
+effectively unkillable in the late game
+conjuration conjuration is kind of the
+control wizard school um but you don't
+really get any meaningful bonuses until
+Level 10 at level two you get uh minor
+conjuration create water which lets you
+use create water once per short rest
+without spending a spell slot definitely
+useful and will save you some spell
+slots but the the main consideration
+behind create water was just the action
+it took usually rather than the spell
+slot it took um so while that's a a nice
+little boost it's not going to be a huge
+bonus for your character for the most
+part you get B benign transposition
+which is an action-based teleport that
+you can get for 30 foot of teleport at
+level six um action-based tort is
+obviously not very good and it only
+being 30 ft is pretty bad you can use it
+to swap with an ally which is cool in
+some circumstances but pretty rarely is
+going to come up the times when this is
+better than just jumping are or just
+walking are honestly not very many
+because it takes your whole action so
+you can use it maybe to access uh like
+the Vault behind the gate some things
+some outof combat utility to this spell
+very rarely going to use it in combat uh
+and then at level 10 you get Focus
+conjuration which is a very good ability
+because it stops damage that you take
+from disrupting your concentration on
+spells um on conjuration spells
+conjuration spells include a lot of the
+best Contra uh concentration spells so
+it is very useful to be able to do that
+because you can concentrate on sleet
+storm or whatever all of which or uh
+many other very powerful concentration
+spells without being at risk of losing
+them and that's a very powerful effect
+that being said it takes you all the way
+to level 10 to get that and I just don't
+think that it is really worth being in
+conjuration wizard all that way um to
+get that one defensive ability and if
+you want to not lose concentration on
+stuff ABD duration wizard does that
+better now I'm not going to Place
+characters that uh I'm not goingon to
+just say abjuration wizard does that
+better for every wizard school because I
+think that would be a little reductive
+but in this case conjuration Wizard's
+thing that it does is not lose
+concentration on spells and not losing
+concentration on spells you can
+definitely accomplish better through
+abjuration Wizard or through other
+Wizards that give you more powerful
+defensive options and so I just don't
+think that conjuration wizard is uh
+worth taking compared to other wizard
+schools since the main thing that it
+does is easily duplicated by the other
+wizard schools divination divination
+gives you portent dice so when you take
+a long rest you roll two 20-sided Dice
+220s and you carry those portent dice
+throughout the day as a reaction you can
+then expend one of those portent dice to
+turn any attack rule or saving throw
+that you see into that number um so you
+can just if you have a 15 stored up and
+you roll a two on an attack roll you can
+just say Noe that two is a 15 if you
+have a natural if you have a 20 stored
+up you can turn any attack into a
+critical hit if you have a two stored up
+you can turn basically any attack into a
+miss this is an incredibly powerful
+effect even if it's only limited to a
+couple times per day the ability to just
+know exactly the role that you are
+getting on a die is incredibly strong
+low dice can be used to force enemies to
+fail saving throws and so you can
+guarantee Landing important crowd
+control effect in boss fights High dice
+can be can force allies to pass saving
+throws making you immune to certain
+effects or guarantee Landing a hit
+obviously natural ones and natural 20s
+are the best to roll but any dice that
+you roll um of any value has a lot of uh
+has a lot of value overall I would
+rather have very low dice than very high
+dice typically but both are incredibly
+useful middle dice are slightly worse
+but still sometimes you just need an 11
+or higher on the die so you can use your
+portent die to turn uh turn any roll
+into an 11 and just make sure that
+something actually goes off you also get
+at level six the ability to regain some
+of these portent dice because you get
+these prophecies expert from the expert
+divination feature um and the prophecies
+are basically ability conditions that
+you have to fill during the day to
+regain a portent die and um you can you
+can stock more portent dice you don't
+have to regain a used one it will also
+stack up to more than two if you
+complete a prophecy uh so you get and
+the prophecies are pretty equ easy to
+fulfill they're things like cast a spell
+of a certain school or do damage of a
+certain type generally speaking you'll
+be able to do that pretty easily and
+arrange to have multiple portent dice
+throughout the day lots of portent dice
+is incredibly powerful because it gives
+you a wider range of numbers to choose
+from and also just lets you affect more
+things over time so this is a great
+addition to the
+effect and I think a very cool one very
+thematic that you have to fulfill these
+conditions to get the extra dice I think
+that's very neat um and portent dice are
+just going to basically remove
+Randomness from your adventuring day at
+the most important moments which is
+nonsensically powerful in effect I often
+say that divination is generically the
+best Wizard and you'll I often get push
+back against that but I think um that
+it's very important to understand how
+good it is to have a role not be random
+that's just an incredible powerful
+effect and you guarantee turning a
+failure into a success or a success into
+a failure if you have the right portent
+dice you also at level 10 have uh this
+ability annoys me honestly the third eye
+dark vision and see invisibility
+abilities because you have to activate
+them every single day but they last all
+day so why are they not just passive I
+find that kind of irritating but uh and
+also they're pretty minor benefit so I
+usually forget to activate them um but
+if you want see invisibility or dark
+vision you can have them for free
+starting at level 10 by that point you
+probably have better ways to do those
+things than this ability but it's a
+minor boost uh so you won't say no but
+really the strength of divination wizard
+is in the portent Dice and the portent
+dice are ridiculously strong you will
+use these all the time from the
+beginning of the game to the end of the
+game and they will never stop being
+incredibly powerful um definitely an S
+tier class one thing that is kind of I I
+guess I should warn you when playing
+this class you will see the portent
+reaction pop up constantly and so if
+that irritates you then this wizard
+probably is not for you because it's
+going to interrupt enemy turns every
+single time and interrupt Allied turns
+every single time saying hey do you want
+to use this die um but uh the power
+level that you get from that is in my
+opinion worth the irritation because
+it's just so good enchantment
+enchantment gets hypnotic gaze which
+once per long rest you can use an action
+to charm an enemy Within 5T of you 5T of
+course is within melee range so if this
+ability fails then you are taking an
+attack of opportunity if you try to run
+away from them or you're just in melee
+range for whenever they're turned
+happens if it succeeds they become
+Charmed and incapacitated uh but if they
+take damage that effect breaks so it's
+basically the same as sleep or hypnotic
+pattern
+um and you have to uh maintain the charm
+to extend it for multiple turns now you
+get two turns of duration from it IM
+immediately and then you can uh spend
+another action to extend it for two more
+turns so two turns of duration as on a
+disable is pretty good the difference
+though and and you'll notice that this
+is somewhat similar to the arch Fay
+warlocks ability that I praised so it
+might be a little surprising that I
+think that hypnotic gaze is terrible but
+the difference between 5T and 10 ft is
+massive and of course this ability only
+works on a single creature rather than
+in an AOE so you this forces you to put
+yourself at considerable risk cuz in
+melee is not where your wizard wants to
+be causes you to just roll one die to do
+an effect that is often available in an
+AOE and then traps you there uh
+maintaining it if you want it to go for
+longer than two turns enemies can easily
+be broken out of it because allly their
+their allies will come shove them and
+that will break them out of the effect
+and so and any stray damage that you are
+doing uh will break them out of the
+hypnotic gaze effect it's pretty bad and
+very risky to use it's nice if it goes
+off um and if there's only one enemy on
+the field this can be a reasonable way
+to disable them without spending a spell
+slot but if there are multiple enemies
+or if you don't have a good followup
+this is just a very dangerous thing to
+use on the other hand you get
+instinctive charm at level six which
+gives you a charm effect as a reaction
+um which is a reasonable defense
+defensive ability the enemy has to make
+a wisdom save again against your
+intelligence or they will attack a new
+Target now that new Target is usually
+going to be an ally it doesn't force
+them to Target uh in in tabletop this
+ability forces them to Target the
+nearest creature to them meaning that if
+you use it against an Archer they'll
+almost always shoot one of their buddies
+in Boulder's Gate they just use their
+normal targeting rules except can't
+shoot the spellcaster so they'll usually
+shoot usually shoot an ally but moving
+an attack from your wizard to anybody
+else in your party is almost always
+going to be good so that's a totally
+reasonable ability there it's not going
+to lower the total damage your party is
+taking usually I mean some allies might
+have better defenses than your wizard so
+it'll on average lower the incoming
+damage a little bit but for the most
+part it just shifts damage to less
+vulnerable targets and that's good um
+and then at level 10 you get the
+Capstone ability and the good ability of
+Enchantment Wizards split enchantment
+this means that whenever you cast an
+enchantment spell that would normally
+only target one creature uh like hold
+person or Autos irresistible dance you
+target two creatures double Autos
+irresistible dance is incredible cuz
+it's a no saave disable that can last
+for many many turns um and this is just
+a an extremely powerful feature one
+thing that is uh notable about this is
+that if you double dominate on somebody
+um it doesn't work it only dominates on
+two people it doesn't dominate two
+people it only dominates one so that is
+an irritation and you can't use this
+ability with dominate person but
+otherwise it does work and lets you uh
+double up on your enchantment effects
+hold person you could already Target
+multiple people with by or hold Monster
+by upcasting it but the ability to do
+that without upcasting it is really nice
+and the ability to double cast Auto
+irresistible dance is incredible um
+overall I think that enchantment wizard
+doesn't get that much until the late
+game but is the best wizard at late game
+disables and that is a very useful Niche
+to fill definitely an a tier character
+evocation now I did an entire build
+guide on a monoc class evocation wizard
+so I'm not going to reiterate every
+trick and piece of advice that I gave
+there for a more detailed breakdown go
+check out my lore friendly Gil build
+guide called the best Gale build in
+balers Gate 3 but I'll quickly go over
+what the class gives you and what makes
+it powerful evocation gets sculpt Spells
+at level two so early on it gets its
+most important ability um which makes
+allies immune to your evocation spells
+they always pass saving throws and they
+take no damage from your evocation
+spells this is really powerful because
+it lets you drop a fireball on a big
+mixed up fight and and not fry your
+allies but also gives you a bunch of
+cool tricks like having your allies
+stand inside your walls of fire taking
+no damage and protecting them from from
+uh your buddies you can even stand
+inside your own wall of fire although
+it's possible that you'll lose
+concentration because you still take the
+burning damage from the ground being on
+fire um but being able to stand inside
+your own wall of fire is still very cool
+and as long as you can make the dc10
+concentration save you'll be able to
+keep that active and have your whole
+party fight safely inside a wall of
+billowing Flames both cool and effective
+also while in a perfect world you would
+just position your allies such that they
+wouldn't get hit by your spells and
+that's certainly what you should be
+striving to do with all your other
+Wizards obviously play mistakes happen
+evocation wizard is easier to play than
+the other wizard variants and that's
+definitely relevant for Honor mode um
+over the course of hundreds of hours of
+gameplay you're going to have times when
+you make a move and then go ah crap I
+meant to drop a fireball on that guy and
+now I can't cuz my dumb cleric is in the
+way or when an enemy moves in a way you
+wouldn't expect evocation wizard gets
+around those problems and makes the game
+a little bit safer and easier to play at
+level six you get potent canant trip um
+which lets you when enemies make a
+saving throw against your canant trips
+they take half damage instead of zero
+damage that's a very minor boost but it
+is nice because it turns acid Splash
+into uh from a totally useless spell
+into one that is actually pretty useful
+half damage just means that you are
+guaranteed damage and can never miss you
+can never miss entirely casting acid
+Splash and guaranteed damage on a can
+trip is pretty nice because it lets you
+finish off low Health enemies or apply
+effects so that is one use for um that
+ability or the only real use for that
+ability but it's a it's a reasonably
+solid boost to your character and then
+at level 10 you get to add intelligence
+modifier to damage roles with any
+evocation spells so all damaging spells
+basically get your intelligence modifier
+added to the damage same as the draconic
+sorcerers effect but it hits everything
+and so it's especially while it's as
+good with scorching Ray as uh the fire s
+fire sorcerer's ability it's also really
+good with a bunch of other things most
+notably magic Missile magic Missile up
+casted fires a bunch of missiles and
+each of them doing an extra five damage
+means that you get a lot of guaranteed
+damage which cannot miss and not being
+able to miss is very very powerful um as
+we talked about with divination Wizard
+and everything so evocation wizard in
+the very late game becomes a very
+reliable way to finish off low Health
+enemies thanks to assid Splash being
+guaranteed damage magic Missile being
+high guaranteed damage to a bunch of
+different enemies and helps out a lot is
+that worth bumping it up to S tier I
+don't think so I think that these
+benefits are all nice and make for a
+very smooth play experience I recommend
+an evocation wizard if you're a little
+bit newer to the game as well um but I
+think that they don't add that much in
+terms of raw power to your character if
+you're playing if you want to play a
+damage focused spellcaster sorcerer is
+usually going to be a better bet than
+wizard um just because casting two
+spells is better than casting one spell
+uh I know that shocks everyone but
+evocation wizard does a great job a tier
+character illusion illusion gives you
+improved minor illusion which sounds
+really exciting because minor illusion
+is one of the best spells in the game um
+but what this lets you do is cast minor
+illusion illusion as a bonus action or
+while silenced neither of those things
+matter a lot because minor illusion is
+not for use in combat so it just doesn't
+really matter what action economy it
+uses and you're never going to be
+silenced while casting it unless you've
+set up the arena somewhat weirdly like
+you're trying to pull enemies into a
+silence bubble that you're already in
+for some reason but you probably don't
+want your wizard inside your own
+silences anyways um and if an enemy
+silences you you have more important
+things to do than cast minor illusion
+this isn't Z zero use in combat because
+it does change enemy facing and so you
+can bonus action cast minor illusion to
+make enemies turn away from you changing
+their sight lines and then hide or if
+you're on the same initiative as an ally
+bonus action minor illusion and have the
+Ally hide and then like get off a sneak
+attack or whatever so it's not like
+totally zero use but most of the time
+this is a solution in search of a
+problem um and is just not going to
+enhance your minor illusion usage at all
+level six you get C invisibility which
+is like the divver feature in that it's
+activatable once per short rest but it's
+a it's a an a spell that lasts until
+long rest why is and doesn't take a
+spell slot why is this not passive I
+genuinely don't understand why they make
+you activate these every time but uh C
+invisibility is just not that powerful
+in effect so while it's okay to have you
+know it's a boost you won't turn down
+it's certainly not going to draw you to
+play this class the big draw at level 10
+is ucer self which lets you as a
+reaction just cause an attack to miss um
+you you get to once per short rest just
+turn a hit against you into a miss that
+is really powerful because it doesn't
+roll dice and not rolling dice is really
+really good once per short rest is a
+reasonable amount of times to do this
+but um one downside of it of course is
+that it doesn't work very well against
+multi- attacks because the the enemy
+will just uh continue to hit you if
+you're multi- attacking and overall it
+is probably a little bit worse than just
+having a divination Wizard and rolling
+low portent dice um the missing the
+ability to turn a hit into a Miss is
+very good but not getting it until Level
+10 holds it back significantly and again
+I feel like this defensive ability is
+duplicated better by uh divination
+wizard for the most part it's the the if
+the enemy is attacking you you
+specifically the elusory self is usually
+better than a portent die because it's a
+on a short rest cool down so it's a
+slightly less expensive resource uh sort
+of in some ways um and you don't have to
+have exactly the die that you need so
+you're guaranteed to be able to use it
+but uh 90% of the time divination wizard
+is going to be able to do the same thing
+and then also do a thousand other things
+with their ability so I just don't think
+illusion wizard Stacks up very well and
+is also in the outclass wizard tier
+Necromancer necromancers are for
+summoning they get a couple non-
+summoning related abilities but all
+their abilities that really matter focus
+on summer summoning at level two they
+get Grim Harvest which heals you
+whenever you kill an enemy with a spell
+uh double the the spell slot uh if it's
+a normal spell or triple if it's a
+necromancy spell notably this doesn't
+work with bone chill which is annoying
+CU that's the necromancy spell you're by
+far most likely to actually kill enemies
+with all the damaging necromancy spells
+all the leveled damaging necromancy
+spells are bad especially with the staff
+of cherish necromancy bug fixed so
+you're never going to be using this to
+with a necromancy spell that means
+you're getting a very small amount of
+healing um whenever you kill an enemy
+with a leveled spell and that's not
+something that you aim to be doing this
+isn't a sorcerer or an evocation Wizard
+and wizards typically don't focus on
+damaging Spells at all so this ability
+almost never comes up and when it does
+come up it's not relevant compare it to
+the fiend warlocks ability where they
+gain temporary hit points that's way
+better because it is proactive rather
+than reactive temporary hit points can
+go over your maximum and also they get
+more of them and don't have to
+specifically use a spell to do it this
+ability is going to be I don't know
+you'll maybe make uh like 10 20 hit
+points with it over the course of the
+game and probably have made a suboptimal
+choice in order to do so just cuz it's
+cool uh so most of the time this ability
+won't come up at level 10 I'm skipping
+level six for the moment you get immu
+you get resistance to necrotic damage uh
+which is a useful damage resistance
+there's some a lot of act three enemies
+that do necrotic damage fewer than act
+two of course but still a lot and so
+it's a useful damage resistance damage
+resistances are fine on Wizards not
+spectacular because you don't want them
+to be taking hits in the first place but
+not not a terrible uh ability and your
+hit point total can't be red Ed but or
+hit point maximum can't be reduced which
+almost never matters but I suppose is a
+nice little bonus um but the main thing
+that you get for Necromancer Wizards are
+big Buffs to animate dead you gain
+animate Dead for free at level six and
+you get to summon an additional corpse
+every time you cast animate debt that
+means with a third level slot you get
+two zombies or skeletons with a fourth
+level slot you get four with a fifth
+level slot you get two uh ghoul Ghouls
+and with a six level slot you get a
+whole horde of
+ghouls these summons also get big Buffs
+they get additional hit points equal to
+your wizard level which often uh like
+doubles their hit points because these
+are are pretty weak minions overall and
+your proficiency bonus is added to their
+damage when you're when you have four
+archers four skeleton archers shooting
+that's a lot of additional damage that
+you're doing provided they're hitting
+pretty regularly and a lot more hit
+points for enemies to get through that
+is a very nice ability the down side of
+course is that you don't you you still
+don't want to spend a level six spell
+slot on animate dead you'd much rather
+use uh a meridon summon still just way
+better than two ghouls um and so you're
+still probably using a fourth level
+spell slot the way you would for any
+other wizard and just getting on animate
+Dead uh and just getting three four
+skeletons instead of three but a 33%
+increase to efficiency of your skeletons
+plus the additional hit points and
+damage is very good and for a summon
+focused character Necromancer wizard
+does do very well you don't get a lot as
+you level up past level six and so
+you'll typically see this character in
+multic classes rather than as monoc
+class but it's still a a very solid
+bonus to a monoc class build summon
+builds are incredibly strong in
+Boulder's Gate and this build enables
+them pretty well definitely a tier I
+think it gets just very solid abilities
+at level six even if it doesn't have any
+other abilities worth mentioning trans
+mutation transmutation is an interesting
+one because in balers Gate 3 it's almost
+always seen as a camp follower uh just
+reping potions and passing off the
+transmuter stone something that you can
+no longer do as a patch six more than it
+is as an active member of the party
+however the abilities that you get for
+an active play with this character are
+still pretty reasonable um at least one
+of them is quite relevant and one of
+them is pretty is is nice so I think
+that this character actually is still
+totally playable not as a camp follower
+even though that's what people mostly
+use it as um at level two you get
+experimental Alchemy where you brew two
+potions instead of one when you combine
+extracts if you succeeded dc15 medicine
+check uh dc15 medicine check is not
+super easy to succeed at early levels
+with this character Wizards do get
+medicine proficiency but typically won't
+have high wisdom especially if you're
+not building this as a dedicated Camp
+Caster
+um but even the small amount of bonuses
+here will let you have way more access
+to Alchemy over the course of the game
+now the game's economy is totally broken
+you can have infinite ingredients and
+infinite access to Alchemy for most
+potions so how much that matters depends
+on sort of how much you're willing to
+abuse the game's broken economy I'm
+going to assume that you are trying to
+play the game at least relatively
+reasonably and so you know not like
+respecing constantly to refresh Merchant
+inventories and doing that uh over and
+over again to max out all your potions
+and so this ability comes into play
+occasionally and is nice little boost to
+your economy giving you extra potions uh
+I wouldn't say it's the most powerful
+ability in the world but it's definitely
+useful if you have this character
+Brewing uh doing your Alchemy I will say
+that having to have one specific
+character do all your Alchemy is mildly
+annoying but um especially if it's a
+wizard who doesn't have high strength
+because it's it's usually better just to
+have your highest strength character
+carry all your Alchemy ingredients to
+make it just less irritating to pass
+them around camp but since they fixed
+some of the inventory systems that's a
+little bit l of a
+problem you also at level six get the
+transmuter stone which lets you uh set
+it to a number of abilities um and then
+carry it around getting a passive
+benefit when while it's in your
+inventory you can also give it to an
+ally although which you used to be able
+to do from camp and they would get to
+keep it now it disappears if you leave
+Camp so this has to be an active member
+of your party if you want to pass it off
+to an ally the benefits that you can get
+really there's one that's way better
+than the others but you can get various
+benefits like dark vision speed
+resistance to a damage type but most
+importantly you can get Constitution
+save proficiency which includes
+proficiency on concentration saves this
+is not as powerful in ability as the
+conjuration Wizard's ability to uh just
+ignore concentration saves caused by
+damage on conjuration spells but is
+still very powerful a wizard with
+Constitution save proficiency is a lot
+better at not failing concentration on
+spells also not being limited to
+conjuration spells specifically makes it
+a little bit better as well which
+is um pretty nice uh just just a little
+more flexible when you're trying to
+decide how to use this ability generally
+speaking that's the one that you want to
+be running around with is conafe
+proficiency and you probably just want
+to keep it on the wizard so that they
+just never lose concentration on their
+spells and then at level 10 you can turn
+into a blue J which uh lets you fly but
+if you take damage you basically
+immediately lose the form obviously this
+is a lot worse than just the passive
+flight that draconic sorcerer gets but
+still um a very small boost to your late
+game Mobility same problem is with the
+draconic sorcerer ability though by
+level 10 you should definitely have
+sorted out all your mobility issues and
+have Mobility items and everything
+spells learned and everything as
+appropriate so that your character can
+move around so this is more for fun and
+flavor thing than it is a powerful thing
+that being said uh just some extra
+potions over the course of the game and
+the ability to gain con saave
+proficiency are still pretty nice for a
+wizard um and so I'm going to say that
+this is an a tier character I don't
+believe that it's superseded by
+conjuration Wizard's ability because
+that's only for conjuration uh and comes
+much later in the build transmutation
+wizard is going to lose concentration
+much less often because of its powerful
+ability also the damage the elemental
+damage resistance in some encounters can
+be useful but mostly this is just you
+get some more potions and lose
+concentration left less often and it
+doesn't take much for Wizard to be an a
+tier character cuz it's already just a
+very good base
+chassis all right my friends this has
+been the complete look at every subass
+in the game as monoc class characters
+going into their strengths and
+weaknesses and I'm very happy with this
+list I think it was really fun to go
+over every single subass um and we will
+be back with multiclass characters both
+base classes and subclasses I'm not it's
+still not 100 % sure how I'm going to
+structure that tier list but I will be
+back and uh show you how that works when
+we get there I'm going to let me let me
+zoom out here so that you have a moment
+to take a screenshot of the final list I
+think one thing that is really
+interesting about this list is just how
+well balanced the game actually is in
+terms of the sub classes uh I think this
+list is a testament to the balance work
+and design that went into this game
+because very few classes missed on power
+level and often they missed on power
+level for for good reasons like wild
+magic sorcerer for example you wouldn't
+want it not to be C tier because the
+whole point is that it makes funny
+random things happen and so uh only a
+few classes actually missed and were
+intended to be really powerful and many
+of those are intended to be actually
+missed on balance in a way that I think
+was unintentional and those classes
+often can be fixed through very simple
+additions of multiclasses which is a
+core component of the game I'm going to
+give you all a moment to look at this
+tier list and just kind of uh absorb it
+or take screenshots or whatever you do
+and then because a couple people
+requested it I will also move all these
+outclass classes to the tiers that I
+would have them in just so that you have
+a visual sense of where I would put
+those as well um because of course a lot
+of those are not that much worse they're
+not any worse than their base classes so
+they're still powerful characters in
+their own right and it's useful to have
+that visual reference as well so take a
+look this is the final tier list as I
+have presented it and then we're going
+to move these outclass characters just
+for the visual reference Valor Bard
+definitely a tier trickery cleric I
+think still a tier even though it is the
+thing that it does tempest cleric just
+does better um Champion fighter in B and
+all the paladins and wizards going a so
+this gives you more of a sense of where
+I would Place everything if the outclass
+tier list didn't exist outclass section
+didn't exist but I did want to give you
+a visual reference for what it would
+look like for for which classes are
+totally superseded by other classes in
+their other subclasses within their
+class all right my friends I hope that
+you've enjoyed this video and of course
+as always if you have do feel free to
+leave a comment uh let me know if you
+think I missed on anything um and of
+course you can like the video that helps
+me out a ton with the algorithm helps
+new people see my stuff which I
+appreciate very much and you can
+subscribe to my channel for more tier
+list like this including the upcoming
+multiclass tier list more exciting
+balers gate things and other strategy
+game content and of course if you have
+really enjoyed this and want to support
+me further you can feel free to give me
+some money using the buttons below the
+video cheers my friends I'll catch you
+next time

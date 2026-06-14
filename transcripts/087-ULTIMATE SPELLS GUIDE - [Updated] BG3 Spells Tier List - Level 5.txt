@@ -1,0 +1,1493 @@
+Hello, my friends, and welcome back to
+another Balders's Gate 3 tier list and
+guide. Hope you're all doing well.
+Today, we're continuing my updated
+ultimate guide to spells with the level
+five spells, the second most powerful
+spell slot in the game. Fifth level
+spells have some of the strongest direct
+damage spells, the weirdest and most
+interesting utility spells, and also two
+of the three secret spells. So, there's
+a lot of just very cool stuff going on
+at this spell level. It also contains
+several of the very worst spells in the
+game. Just pure traps that either do
+completely nothing or actively harm your
+party when cast. So, knowing which ones
+to use and which ones to avoid at this
+level is very important. At this point,
+you know the drill. I've already gone
+over the rating system and definitions
+of the tiers. So, we're just going to
+get right into it. But before I do, I do
+want to take a quick moment to say thank
+you so much to Chavi Gar for the 100
+rupee donation. Tarantula for the $5 and
+Sean McGaffy, FMT, and David Ramos for
+becoming channel members. Thank you so
+much, my friends. I really appreciate
+the support. It really means a lot. All
+right, let's talk fifth level spells.
+We're going to start with banishing
+smite. Banishing smite is a paladin
+smite attack, so it works the same as
+other smites, although unlike most of
+them, can be made either with ranged or
+with a melee attack. Although it is a
+paladin spell, technically, paladins in
+Boulders's Gate can't actually get it
+because it's a fifth level spell slot,
+which they never reach in only 12 levels
+in this game. So, banishing smite is
+actually only available through being a
+bard and selecting it at level 10 with
+one of your magical secrets picks or as
+of patch 8 being a hexblade warlock who
+also gets access to this spell. It's a
+smite spell, so made as part of a weapon
+attack. And it requires in addition to
+that your bonus action and your
+concentration. And it does your normal
+weapon damage plus 5d10 additional force
+damage for an average of 27.5 extra
+damage. Um, which is a pretty
+significant amount, especially because
+as an attack roll, this can critically
+hit. It works really well with
+guaranteed critical hit effects in order
+to double that damage output in addition
+to the extra damage that you get. Um, if
+an enemy is reduced below 50 hit points,
+so if they have between 1 and 49 hit
+points after you hit them with banishing
+smite, they're banished for two turns.
+No saving throw on this, simply removed
+from the game for two turns. If you plan
+your attacks well, you can mostly think
+of this as doing just an extra 50
+damage. Because if you reduce an enemy
+below 50 health and they get banished,
+any enemy who's returning from
+banishment with less than 50 HP is
+certainly going to die before they take
+another turn. So, a lot of the time when
+you cast banishing smite, it's going to
+do about 75 extra damage or 100 extra
+damage on a critical hit cuz if you
+reduce the enemy below the threshold,
+then they'll get banished. And that's a
+pretty good use of a level five spell
+slot. 100 damage to one enemy if you can
+guarantee a critical is very very
+powerful. So even though this is a very
+expensive spell to cast, um when you
+line everything up so that it works
+well, it does do the thing that you want
+it to do pretty effectively. The
+downside of this spell is that it is
+kind of hard to get for a lot of
+characters and it competes with other
+really valuable things. for a bard
+picking it with magical secrets. That's
+an incredibly important class feature
+that you want to spend on the very best
+spells in the game. So, you have to give
+up something pretty powerful to get
+banishing smite. Lore and glamour bards
+obviously never want this cuz they're
+rarely attacking with weapons. Valor and
+swords bards can take it, but may have
+better choices with their magical
+secrets. Things like counter spell,
+command, or hunger of Hadar may be more
+powerful for those characters. So, while
+some builds for Swordsbards in
+particular will take banishing smite, a
+lot of the time you still won't want
+this spell just cuz magical secrets is
+such an important thing to spend on
+really powerful stuff. For warlocks,
+it's a lot easier. Hexblade warlocks
+just have to spend a level five spell
+known slot on this. And level five
+spells for warlocks are not heavily
+contested, so you will often take
+banishing smite. You probably won't cast
+it that often because it requires your
+concentration, which is an extremely
+important resource for a warlock.
+Concentration is heavily contested for
+warlocks. But there are times where the
+extra 100 damage is exactly what you
+want. So for a hexblade warlock, you're
+definitely going to use this sometimes.
+I'm going to give it B tier. Um, there
+are some specific builds that can make
+use of it and like uh paladin swordbard
+multiclasses can stack this on top of
+other smite spells for really ridiculous
+melee burst damage. Um, and hexlade
+warlocks will always have some use for
+this even if they won't use it in every
+combat. So, vanishing smite pretty solid
+spell with very high upside. Next up,
+cloud kill. Cloudkill is a groundargeted
+damage spell. It's 60 foot range and 20
+foot radius, which is a pretty large
+radius. And everything inside of it
+takes 5d8 poison damage um with a
+constitution save per half and then
+takes that damage again at the beginning
+of each of their turns. Like a lot of
+other groundargeted damage spells, that
+lets you double dip when you do damage
+to enemies cuz they take the initial
+cast damage and then they also take the
+damage again at the beginning of their
+turn. So, they're going to take damage
+twice before they get to act. Cloudkill
+also, as long as you concentrate on it
+for 10 turns, lets you recast the spell
+to move the cloud um with only 30 foot
+range. And that 30 foot range is from
+the caster, not from the initial
+location of the cloud. So, you can end
+up moving this across the battlefield as
+long as you're moving your character in
+between uh movements. Since recasting
+cloudkill counts as casting the spell
+again, enemies who you put the new cloud
+kill on top of will take the initial
+cloud kill damage and then again at the
+beginning of their turn will take
+damage. So effectively cloudkill does
+10d8 damage every turn. Um as long as
+you're spending your action to recast it
+or 5d8 damage every turn if you're not
+recasting it uh because you can double
+dip on it by spending an action. This is
+actually pretty solid turnover turn
+damage. Enemies will take an average of
+45 damage before they get to act. And
+you can recast it each turn to do that
+45 damage additionally or just let
+enemies who are stuck in it take the 22
+and a half damage that it does without
+any input from the character if you want
+to spend your turns doing something else
+as long as they don't break your
+concentration. So you can use cloudkill
+pretty effectively to wipe out weaker
+enemies. The downside of this spell is
+that it is a constitution saving throw,
+which enemies will typically have good
+constitution saves. So, they'll often
+end up taking only half of the damage
+from the cloud kill. And it's poison
+damage. Something like half of the
+relevant enemies in the game are immune
+to poison damage. So, there's a lot of
+encounters where cloudkill is going to
+be useless or they'll be resistant to it
+and have really good con saves, so it'll
+be basically useless. Um, so only in
+some encounters will cloud kill be
+effective. In those encounters though,
+if you need a damage spell, it's a
+pretty good one. You can layer it on top
+of surface effects to keep enemies
+inside it without having to reposition
+it or reposition it to double up on the
+damage and also get extra damage output.
+And all of those are pretty valuable
+uses of the spell. There's also some
+neat tricks that you can do with
+cloudkill. Um, hero's fee makes you
+immune to the effects of cloudkill
+because it makes you immune to the
+poisoned condition. And the way that
+cloud kill is coded, it actually does
+its damage through inflicting the
+poisoned condition, which then does the
+poison damage. So if your party has
+heroes feast on, they're immune to cloud
+kill and can actually stand happily
+inside the cloud kill um and force melee
+enemies to fight them inside it, taking
+constant damage over every single turn,
+which is pretty powerful. The PL cloud
+kill that you get from Marahesh gear is
+also kind of interesting because if you
+have the poison version of Marahesh gear
+active, enemies actually get poisoned
+and take disadvantage on their attack
+roles as well. Um, so that can be a
+pretty powerful tool. Usually,
+obviously, you're not going to use the
+poison version of Marahesh gear, but if
+you're doing a themed build, that's a
+kind of fun thing that you can do with
+the spell. The downsides of cloudkill
+are pretty high. Uh because in a lot of
+encounters, it just won't be good.
+Enemies will be resistant or doing
+damage every turn just isn't the the
+goal in that encounter because it you
+need to bring down one highalth enemy
+instead of a bunch of lowhealth enemies
+and cloudkill suffers in those spots as
+well. But for the encounters where this
+is good for a pure damage spell, the
+spell is quite good. It just does a lot
+of damage when you can get full value
+out of it. I'm going to give it C tier
+even so because the the things that hold
+it back do hold it back pretty
+significantly. Uh so you're only going
+to use this in a couple encounters, but
+honestly this is a pretty high C tier
+cuz the encounters where it's good, it's
+actually very good. Cone of Cold. Pone
+of Cold is an AoE burst damage spell.
+It's a 30-foot cone, which means that
+you'll usually be able to get two or
+three enemies in it, but can sometimes
+have trouble hitting the entire
+encounter, unless you use an effect to
+group enemies together before casting
+this spell. It does 8 d8 cold damage for
+an average of 36 with a constitution
+save for half. And of course, because
+this is cold damage, you can double that
+36 average damage to 72 average damage
+if you get enemies wet. This is a pretty
+decent AoE damage spell, which is
+certainly not bad in a wet and cold
+party, but because it's a constitution
+save that does decrease the value of the
+spell somewhat, a lot of enemies have
+good constitution saves, so cone of cold
+will often have enemies succeed against
+the saving throw. Um, but the amount of
+damage that you get from this for a
+fifth level spell slot if you've used
+minor illusion or black hole to group
+enemies together can be pretty immense.
+So, in some encounters where there's
+lots of medium health enemies, cone of
+cold can be very good. Where this spell
+really shines, though, is in multiples.
+If you have a sorcerer or wizard and a
+warlock in your party, and they both
+have access to cone of cold, cuz this is
+a sorcerer wizard spell. It's also
+available to fiend or hexblade warlocks.
+Layering two cones of cold on top of
+each other can be really powerful.
+You'll cast something like create water
+to create to get a big group of enemies
+wet and then double cone of cold them
+for a huge amount of burst damage.
+That's an average of 144 damage uh in an
+AoE. And because you put a water surface
+on the ground and then hit it with cold
+damage, it will also create an ice
+surface. So cone of cold can also in
+that case be used as a crowd control
+effect uh to knock any enemies who
+survive it prone. This is a pretty
+powerful tool in the late game. A lot of
+encounters can be solved if you have
+multiple cone of cold casters by using
+minor illusion or black hole to group
+enemies, dropping crate water on top of
+them, and then just double coning them
+until they all explode. Um, and so
+usually you're not going to want to cast
+this spell if you uh are only going to
+cast it once. But if you plan to use two
+fifth level spell slots in an encounter,
+double cone of cold can often be the
+best way to just end that encounter
+immediately. Even in the late game, 140
+damage to everything in the encounter
+will blow up a lot of encounters in
+their entirety or leave only one really
+tough enemy. Um, so this is a very
+powerful strategy and since it's
+available to both warlocks and sorcerers
+and wizards, um, you will are reasonably
+likely to have multiple characters that
+can cast this spell and druids as well
+given the right um, land druids as well
+given the right circle selection. Uh,
+you're reasonably likely to have
+multiple characters that can cast this
+spell or you can use a scroll for one of
+them and use a normal spellcast for the
+other in order to get full value out of
+it. Overall, I'm going to give this
+spell B tier. You don't usually want to
+just cast cone of cold normally, but if
+you build your party around setting up
+to make maximum use of it, then it can
+be very powerful. And also for hexlade
+warlocks in particular, this is just a
+really nice option to have cuz it's
+their best source of AoE burst damage.
+So, some parties are going to get good
+use of it and others will ignore it.
+Btier for Code of Cold. Conjure
+Elemental. I could and probably should
+at some point do an entire video on just
+this spell because the amount of options
+that Condra Elemental gives you is
+incredible. The short version is that
+this is the best highle summon spell in
+the game and summoning is an incredible
+strategy in Boulders Gate 3. So conjure
+elemental is an en enormous benefit for
+any party giving you effectively an
+extra whole party member because the
+elementals and merdons that you summon
+with this spell are basically as strong
+as a normal character. So you more or
+less just give yourself an extra party
+member all day at the cost of your fifth
+or sixth level spell slot. There are
+eight possible ways that you can use
+tandra elemental. With a fifth level
+spell, you can summon an air, earth,
+fire, or water elemental. And if you
+upcast it to sixth level, you can summon
+an air, earth, fire, or water meridon.
+All eight of these modes are good.
+Actually, uh, strong shout out to the
+Balders's Gate 3 balance team because
+all eight of the possible ways that you
+can cast Conjure Elemental are viable,
+powerful, and even optimal given certain
+encounters and party compositions. So, I
+highly encourage you to experiment with
+conjure elemental and summoning
+different elementals and different
+Mermadons to see which one works best
+given your specific party composition
+and whi what encounters you are facing
+and what your party actually needs
+because they're all pretty viable. If
+you don't want to spend a lot of time
+experimenting with this spell, a good
+default in Balders's Gate is to just
+always choose the water versions of
+everything because you can double their
+damage with create water. it'll
+synergize with other cold and lightning
+effects that you have in your party. And
+so they're just always a good option.
+Um, but I highly encourage you to play
+around with this spell and summon all
+eight of the modes in order to find the
+one that works particularly well with
+your character.
+For the fifth level spell slot, you get
+a very solid summon that's very powerful
+all day. And this is usually going to be
+the best use of the fifth level spell
+slot for a character who has access to
+this spell um until you hit sixth level.
+then you're probably going to want to
+upcast conjure elemental. This is
+overall the most valuable use of a sixle
+spell slot in the game. And so most
+characters that have access to this are
+going to want to spend their one sixle
+spell per day on conjure elemental. It
+out competes most of the actual sixle
+spells in the game. This is just an
+incredibly powerful uh summoning effect.
+The summon is very tough, does a lot of
+damage, has a lot of utility no matter
+which one you pick. And like I said,
+it's basically like adding an extra
+character to your party for the entire
+day. S tier, of course, for Conjure
+Elemental. Contagion. Contagion is a
+pretty weird spell um with a lot of
+different possible effects that works in
+a pretty unusual way in Balders's Gate
+3. How it works is you make a melee
+spell attack against an enemy, so
+against their armor class, and if you
+hit, then they're inflicted with poison,
+no saving throw, uh which gives them
+disadvantage on all their attack roles
+and skill checks. Each turn while
+they're under this poison effect, they
+have to make a constitution saving
+throw. If they get three failures before
+they get three successes, then they're
+inflicted with a permanent disease
+chosen at the time when you cast the
+spell, and there's six possibilities for
+which disease they're going to get. If
+they get three successes before they get
+three failures, then the spell goes away
+and doesn't do anything. What that means
+is if you hit with the initial melee
+attack, enemies are going to be poisoned
+for a minimum of two turns. Even if they
+pass three saving throws in a row,
+they'll be poisoned for at least two
+turns. Um, so it's a reasonable no save
+debuff. Though disadvantage on attack
+rolls is just not what you want to spend
+your fifth level spell slot on. Uh, and
+if they fail all the saves, then you can
+inflict a pretty nasty disease on them,
+which is, depending on which one you
+chose, quite debilitating. In combat,
+this spell is basically useless. It's a
+melee spell attack. Enemies have to fail
+three constitution saving throws um
+before they succeed on three of them.
+So, it's going to take a minimum of
+three turns before the effect that you
+actually want from contagion applies.
+So, and uh combat simply won't go that
+long. So, it's very unreliable. The
+effect is kind of minor up until that
+point. So, you should never cast this
+spell in combat. However, contagion has
+an unique property which is uh or I
+guess not unique but unusual property
+similar to bestow curse. If you hit with
+the initial melee attack to apply
+contagion, it doesn't count as a hostile
+action. So, you can cast this spell
+outside of combat before combat begins
+in order to inflict one of the diseases.
+Weirdly, if you miss with the attack
+roll, it does count as taking a hostile
+action. So, you have to be pretty
+certain that you're going to hit if you
+want to use contagion. You're never
+going to use this spell in combat. It's
+just too slow and unreliable. But
+outside of combat, putting these debuffs
+on an enemy before combat begins can end
+an encounter before it starts. Very
+similar to bestow curse. The diseases
+that enemies can get can be extremely
+dangerous. There's six possibilities,
+but almost always you're going to want
+to use uh either uh flesh rot, which if
+it applies to them will give them
+vulnerability to all damage, which
+obviously is in immensely powerful, or
+slimy doom, which if it applies will
+stun them every single time they take
+damage. So, an enemy affected by Slimy
+Doom is effectively just killed
+instantly because they'll never get a
+turn again as long as you can do a
+single point of damage to them in an
+entire turn cycle. Pretty easy to
+manage. The others do sometimes have
+their place. Mindfire can confuse an
+enemy which or can confuse a neutral
+character which then turns them hostile
+and then it doesn't count as a crime to
+kill them. So there is a use for that
+but mostly it's going to be flesh rot or
+slimy doom. The real comparison that you
+have to make with contagion which is an
+out of combat debuff is uh to bestow
+curse. And bestow curse is a pretty
+powerful tool and usually going to be
+better. It's a much lower level spell
+slot that also can just win encounters.
+Uh, so you're spending a level two
+instead of a level five spell slot, and
+that's significantly less expensive. Um,
+and contagion also has the problem that
+it is both poison and a disease, and a
+lot of enemies are going to be immune to
+those effects. So, there's plenty of
+enemies that you can't land this on, but
+the effects when you do land contagion
+on an enemy are incredibly powerful. So,
+and you can take a few tries at it as
+long as you don't miss your melee
+attacks. So, if you know you want to
+fight an enemy uh who's neutral to you
+before combat starts, then you can get
+this. You can at least take a crack at
+applying contagion for free. And if it
+works, you almost certainly just win
+that combat instantly. I'm going to give
+it C tier because it's mostly just out
+competed by Bestow Curse, which is just
+much cheaper, and there's a lot of
+enemies that it doesn't work against.
+But when you do land this spell, you do
+just instantly kill whatever you landed
+it on. Destructive wave. Destructive
+Wave is an AoE damage spell, and it kind
+of breaks my rating system a little bit
+because we've been talking about whether
+you should learn or prepare these
+spells, but destructive wave is
+available only as a domain spell to
+Tempest and Light clerics. So, they
+never have to make the choice of whether
+they're going to prepare this spell or
+not since any character that has access
+to this spell will always have it
+available. So, we'll talk about whether
+you should spend your actions and spell
+slots on casting it. And the answer is
+basically yes. Destructive Wave is a
+pretty good AoE damage spell. It does
+10d6 thunder and 10d6 of either radiant
+or sorry 5d6 thunder and 5d6 of either
+radiant or necrotic damage for a total
+of 10d6. Um which is 35 average damage
+in a 30ft AOE centered on the caster.
+Enemies get a constitution save um and
+if they fail the save then they're also
+knocked prone. If they succeed on the
+save then they're not knocked prone and
+take half damage from the spell. a big
+AoE damage spell that also knocks
+enemies prone is pretty good. Knocking
+enemies prone is very powerful in
+Boulders's Gate 3 and there's a lot of
+stuff you can do with it. It's also some
+relevant damage types. Both thunder and
+radiant damage are extremely relevant
+damage types for itemization, especially
+of course for tempest and light clerics.
+Though, it's worth noting that there's a
+couple bugs with the thunder damage
+portion of this spell where not
+everything that works with thunder
+damage works with destructive wave
+because it's not properly tagged as
+thunder damage. A lot of effects will,
+but some effects won't, including the
+ability to maximize thunder damage as a
+tempest cleric. So, you can't maximize
+the thunder damage half of this spell.
+The other important thing to know about
+this spell is that the description is
+incorrect. Um, it says that it damages
+all creatures within 30 ft of you, but
+that's wrong. it's only enemies. So, you
+can use this safely no matter where your
+cleric is positioned. And this just
+makes a great non-conentration damage
+and control spell for a Tempest or light
+cleric. Those characters will often want
+to be up in the mix anyways, so you'll
+hit the entire encounter. An enemy who's
+knocked prone and in the difficult
+terrain from your spirit guardians may
+not be able to get out of spirit
+guardians cuz they'll have a vastly
+reduced movement speed. So, destructive
+wave is just a very powerful damage and
+control option. doesn't take your
+concentration. Characters that have it
+uh always have it available, so they'll
+be using it pretty often. A tier. Next
+up, dispel good and evil. Though, this
+is a funny spell to rate because I was
+making the icons for this spell tier
+list and I saw this one and realized I
+had literally completely forgotten that
+this spell existed at all. Dispel good
+and evil is a fifth level version of a
+first level spell. Um, protection from
+evil and good. And uh basically it's
+exactly the same spell except it costs a
+fifth level spell slot instead of a
+first level spell slot. Only lasts for
+10 turns and can only be cast on
+yourself. In addition to that, the
+disadvantage on attack rolls that um
+aberrations are supposed to get doesn't
+work cuz it's bugged for this version of
+the spell. So it's literally just a
+worse version of a first level spell
+that you can cast with a fifth level
+spell for the 10 turns that you have it
+active. It also gives you the ability to
+spend your action to break an ally out
+of charm, frighten, or possess, except
+that that action mostly doesn't work on
+most charm, frighten, or possess
+effects. So, you're effectively spending
+a fifth level spell slot to get a
+buggier and significantly worse version
+of a first level spell that's already
+kind of a marginal first level spell.
+Obviously, you shouldn't cast this
+spell. It's kind of laughable how bad
+this spell is. Honestly, I'm glad it
+exists because it's funny how terrible
+it is. Dominate person. Dominate person
+is a single target control spell. And I
+mean control of course in the truest
+sense of the word because it forces an
+enemy to fight for you. It only can
+target humanoids. So same targeting
+restrictions as hold person. Uh and the
+enemy that you target has to make a
+wisdom saving throw or for 10 turns they
+swap sides and fight on your side. You
+don't get complete control over the
+character. They just treat you as an
+ally and your enemies as enemies. So
+they'll follow you around and fight for
+you. um but you don't get to actually
+control their actions. So they may not
+do what you want in a given combat. In
+addition to that, uh whenever they take
+damage, they get a new wisdom saving
+throw to shrug off the effect. So in
+longer fights where you would want to
+use this effect, it's probably not going
+to last very long because the enemy that
+you target with it is going to get a lot
+of chances to break out of it. Still,
+it's a pretty powerful tool to reduce
+the enemy's numbers by one and increase
+your numbers by one. So, it's not the
+the worst uh case scenario if you land
+this spell. It's just unreliable. It
+doesn't have a lot of targets and it
+only targets one enemy. So, if you're
+fighting say five humanoid creatures or
+uh you could use hold person to get four
+of them out of the fight or you could
+use dominate monster with a fifth level
+spell slot or you could use dominate
+monster to uh dominate person, excuse
+me, to get one of them fighting on your
+side. And usually you you would rather
+just use an AoE control spell or a spell
+like hold person instead of dominate
+person. The problem with this spell is
+just the opportunity cost. It costs a
+fifth level spell slot and you could use
+that to shut down the entire encounter
+rather than just swap one enemy onto
+your side and they may not do anything
+and they may break out of it
+immediately. So in combat this spell is
+just not significantly powerful. There
+are a couple uses for this spell for
+sort of story events. Um, you can use
+this to keep to to allow you to protect
+a character that you want to keep alive.
+So, dominating Minsk, for example, can
+let you then put buffs on him to keep
+him alive during the combat where you
+need to do that. So, there are some
+cases where you can use this for story
+events, but like most of the time,
+dominate person is just not an efficient
+use of your turn or spell slot. I'm
+going to give it D tier because even the
+very marginal uses of this spell, I
+don't think it's worth preparing and
+casting. If you do ever need the effect,
+there's some items and scrolls that can
+provide it. So, you should rarely
+actually cast the spell itself. Um, and
+the chance that you do need the effect
+is very low. Dier, Flame Strike. Flame
+Strike is an AoE damage spell available
+to clerics and fiend warlocks. Um, and
+it does 5d6 radiant damage and 5d6 fire
+damage in a 10-ft radius, 60 ft range
+with a dexterity saving throw for half.
+10d6 damage is uh fairly easy to compare
+because that's the same amount of damage
+that an upcasted fireball would do if
+you used a fifth level spell slot for it
+in a smaller radius. So, you're kind of
+getting a worse version of fireball for
+a higher level spell slot in a lot of
+cases. The fact that it's radiant damage
+is relevant of course for clerics
+especially who are who get access to
+this spell and clerics don't get AOE
+burst damage the way that wizards or
+sorcerers do. So comparing it to
+fireball directly is not always the
+exact comparison that you want because a
+lot of clerics just don't have an
+equivalent spell effect. If you are not
+a uh tempest, light or death domain
+cleric, flame strike is your best source
+of AOE burst damage. That's not
+something that clerics really want,
+though. You can probably just do your
+damage based on casting spirit guardians
+and running next to enemies rather than
+spending your time on flame strike. So
+unless you have a very specific
+encounter where you need AoE burst
+damage, this is just a worse version of
+a lower level spell and you usually
+shouldn't cast it. I'm going to give it
+C tier because there are some encounters
+where you do want your cleric to do AOE
+burst damage even in a very inefficient
+way and flame strike is your best tool
+for doing that. Um, but the times when
+you use the spell should be few and far
+between because you're just spending a a
+highle spell slot on a fairly marginal
+effect.
+Greater restoration. This lets you touch
+an ally, so it's melee range, and you
+can remove any charm, petrification,
+stun, or curse currently affecting them.
+Being able to remove dangerous effects
+is pretty useful. I talked about this
+with freedom of movement. But freedom of
+movement breaks you out of stuns and
+also gives you a relevant buff for the
+rest of the day, and also only costs a
+fourth level spell slot compared to
+Greater Restoration's fifth level spell
+slot. Being able to remove charms and
+curses in addition to stuns is sometimes
+relevant. Though a lot of time you can
+just become immune to charm and curse
+you can remove with remove curse a lower
+level spell as well. So greater
+restoration is mostly going to be used
+to break you out of stuns. Uh just like
+freedom of movement and freedom of
+movement does a better job with more
+upsides. Being able to break out of
+petrification is almost completely
+irrelevant in Balders's Gate. It's very
+hard to get yourself petrified so it
+just won't happen. So, greater
+restoration just doesn't really have a
+use case. It's completely duplicated by
+lower level spells. Dtier. Next up, hold
+monster. Hold monster is of course the
+same as hold person, except that it
+works on any creature except for undead
+instead of only on humanoids. It costs a
+fifth level spell slot instead of a
+second level spell slot for the same
+effect. But being able to target a lot
+more creatures means that sometimes this
+is exactly the spell that you want.
+Paralysis is an incredibly devastating
+condition. It's the most dangerous thing
+to be afflicted with in Boulders's Gate
+3. Automatic critical hits and inability
+to act are very powerful. And although
+the enemy gets a saving throw to break
+out every turn, you'll always get at
+least one round of automatic critical
+hits against them. And it can cost them
+multiple turns as well. The difference
+between spending a second level spell
+slot and a fifth level spell slot on uh
+this spell is immense. And also, hold
+monster can't easily be used to disable
+whole encounters the way hold person
+can. Just like hold person, you can
+upcast it for an extra target per spell
+level, but you can only upcast it up to
+level six, unless you're playing with
+mods that let you increase your maximum
+level or whatever. Um, so the maximum
+number of creatures you can hit with
+hold monster is two, which is a lot less
+effective than locking down five enemies
+with a sixle hold person. So, in the
+encounters where you want to lock down
+an enemy, which are most of them, hold
+monster is going to be a good option if
+hold person doesn't work, it's
+especially powerful for sword bards and
+characters and hex blades, characters
+using band of the mystic scoundrel, um,
+who can use hold monster as a bonus
+action while building up arcane acuity
+stacks and then also benefit from the
+automatic critical hits. So, hold
+monster is very, very powerful when you
+do land it, but it is very, very
+expensive as well, costing a fifth level
+spell slot. Uh, I'm going to give this a
+tier because you won't want to use it.
+You know, any fight where you can use
+hold person, you would prefer to use
+that cuz it's much cheaper, but when you
+don't have an alternative, hold monster
+is still an amazing effect and you're
+definitely going to want to land it in a
+lot of encounters. So, a tier. Next up,
+Insect Plague. Insect plague is a
+groundargeted AoE damage overtime spell.
+Lasts for up to 10 turns or as long as
+you concentrate on it. And it does 4d10
+piercing damage every turn with a
+constitution save for half. That's 22
+average damage which is not that much
+for a fifth level spell slot. And unlike
+other groundargeted damage spells,
+insect plague does its damage at the end
+of the enemy's turn. So you can't double
+dip on the damage. You get the initial
+cast damage, but then they'll almost
+always just move out before taking
+damage again. unless you can keep them
+inside the effects of the insect plague.
+It's a little easier to do that because
+it the area also counts as difficult
+terrain, so enemies will move at half
+speed, but they can often just jump out.
+They also have disadvantage on
+perception checks while they're in the
+radius, which is almost entirely
+irrelevant. That only matters if you're
+making stealth checks, but not stealth
+checks from greater invisibility. So,
+uh, enemies having disadvantage on
+perception checks is rarely, if ever,
+going to come up. The upshot of this
+spell is that it's just a level five
+spell slot that does damage and doesn't
+do very much damage. Um, a 22 average
+damage with a constitution saving throw
+per half is pretty sad at this level.
+It's only two more damage than the than
+a cloud of daggers cast at level two.
+So, it's going to be significantly um
+harder for so it's it's just not very
+efficient. And enemies can save against
+the damage of this spell, which they
+can't against cloud of daggers. So,
+insect plague is mostly just dominated
+by other damage options. Even at level
+five, you have cloud kill, which you can
+double dip on the damage and recast. So,
+it does way more damage in the same
+radius. So, insect plague is just very
+inefficient in terms of spell slot to
+damage ratio. And I wouldn't recommend
+casting the spell. There's a couple
+minor tricks you can do with it. It is
+piercing damage, so you could give
+enemies vulnerability with the ballist
+armor or the bloodthirst dagger. Um, but
+giving them vulnerability to small
+amounts of piercing damage isn't what
+you really want to do with those broken
+items. You want to give them
+vulnerability to huge amounts of damage.
+So, insect plague is just not really
+worth casting. Dtier, it it's just a
+damage spell that doesn't do enough
+damage. Mass cure wounds. This is an AoE
+healing spell. It basically lets you
+cast cure wounds uh but on up to six
+creatures instead of on just one
+creature. and it has 60 ft range. So,
+you can use mass cure wounds usually to
+heal every creature in uh your party in
+an encounter um for 3d8 plus your
+spell-casting modifier. So, you get a
+little bit more healing than you do with
+level one cure wounds. It's sort of like
+casting level three cure wounds on
+everyone in your party. This is a
+healing spell, and it does do a decent
+amount of healing if your whole party is
+injured, but spending your action on a
+reactive healing spell in Boulders's
+Gate 3 is typically not an efficient use
+of your turns. Enemy damage will outpace
+healing and usually be done without
+spending something really valuable, like
+a level five spell slot, in order to
+negate it. Um, if an enemy is just
+attacking you with weapons, then you're
+probably not even keeping up on the
+damage when you're casting this spell
+and it's not costing them anything and
+is costing you stuff. So, mass cure
+wounds just suffers from the problem
+that healing suffers from in general in
+Dungeons and Dragons. The numbers are
+too low. Doesn't keep up with incoming
+damage. It's an inherently defensive
+strategy that costs you resources, so
+it's not progressing your progressing
+your game plan. though without other
+sources of bonuses from healing, you
+usually don't want to spend your turn on
+it. The uh mass cure wounds in
+particular struggles because mass
+healing word exists and if the best way
+to use healing in Boulder's Gate is to
+apply the buff on healing items um which
+mass healing word does with only a bonus
+action and a third level spell slot
+instead of a fifth level spell slot. So
+maybe you could use this if an enemy has
+hit you with an AoE spell. you can undo
+the damage from the AoE spell, but even
+then you're just trading your turn for
+their turn reactively, which is not a
+great thing to be doing strategically,
+and your resources are more important
+than enemies. So, mass cure wounds is
+just conceptually not a strong spell,
+and the numbers don't back it up. Dtier,
+uh, you usually shouldn't cast it. Next
+up, planer binding. Planer binding is
+the same as dominate person except
+instead of working on humanoids, it
+works on celestials, elementals, fay, or
+fiends. Um, it doesn't have the dominate
+person problem of hold person targeting
+the same creatures and just being
+cheaper and better. But hold monster is
+typically just is is going to target the
+same creatures and is typically going to
+be a better use of your spell slot. Uh
+because planer binding has all of the
+problems that dominate person has where
+enemies get lots of saving throws
+against it because they can save against
+it every time they take damage. Fighting
+having an NPC ally fighting on your side
+can often be more dangerous for you
+because the AI can often do things that
+are actively counterproductive to your
+combats and you don't get control of the
+the character's actual actions. Um and
+it's still fairly unreliable. It also
+suffers from the additional problem of a
+lot of the enemies who are celestials,
+elementals, fay or fiends are just
+immune to this effect. So against the
+creatures that you can target with this
+spell, a lot of the time it simply won't
+work cuz they'll be immune to domination
+and charm effects and so planer binding
+won't succeed against them. This spell
+does have some uh uses. There's a couple
+merchants who fall into these categories
+and you can use planer binding to do
+kind of uh funny things where you steal
+all their money and whatever. Um, but
+otherwise it is just not useful to spend
+your turns casting this in combat. If
+you want this to lock down uh this type
+of enemy, hold monster just does a
+better and more reliable job. So, you
+really shouldn't cast planer binding
+either. Dtier. Next up, Seaming. Seeming
+is another in the proud tradition of
+fifth level spells that are duplicating
+lower level spells, but more expensive
+and much worse. Seeming is a fifth level
+spell that lets you cast to disguise
+self on up to four creatures. Disguise
+self of course is a level one ritual
+spell. So you can have it from the
+beginning of the game and it costs
+nothing to cast. Whereas seeming costs
+you a fifth level spell slot and lets
+you target your whole party. That's
+completely useless because in Balders's
+Gate you don't need more than one party
+member disguised. Um disguising is
+almost exclusively used for
+conversations and you can't have more
+than one character in a given
+conversation. So, if you have another
+party member just standing in the
+background, the NPCs don't care at all
+what they look like. So, disguising more
+characters just doesn't matter at all um
+compared to using disguise self, even if
+you weren't able to just get that for
+free on every party member anyways
+because it's a ritual spell. Uh seeming
+is therefore an incredible waste of
+resources. I do think that there's
+something interesting about this spell,
+which is that the problem with it is a
+fundamental design flaw in Boulders's
+Gate 3. One of the things that annoys me
+most about Boulders's Gate is that you
+can't have more than one character in a
+conversation, even when they're standing
+right there. You know, if I'm if my
+barbarian main character is asked by an
+NPC to identify a magical artifact, I
+cannot just ask Gail about it. I have to
+make my arcana check myself, which is
+just ridiculous. seeming would maybe
+have usage if the game was set up so
+that multiple characters could
+participate in conversations. Um, but
+since that's not true, it's completely
+useless. I'm torn as to whether dispel
+good and evil or seeming is the worst
+spell in Balders's Gate 3, but it's
+probably one of the two dtier. Next up,
+telekinesis. Telekinesis is a unique
+spell with a really fun effect. It
+basically lets you pick up and throw an
+object or enemy once every turn for 10
+turns. When you cast telekinesis, if you
+cast it on an object, you can just throw
+it as though you were using the throw
+command. And if you cast it on a
+creature, they get a strength saving
+throw, which if they fail, you can throw
+a character in any direction. You can
+concentrate on it for up to 10 turns.
+And each turn, you can spend your action
+to recast telekinesis and throw another
+thing. The upside of telekinesis is
+there's a lot of cool stuff that you can
+do when you can reposition enemies. And
+it has 60 ft range. So unlike the normal
+throw command, you can use this to grab
+enemies and pull them towards you if you
+want to because you can throw them in
+any direction. So you can use this to
+push enemies back into uh damaging crowd
+control effects or dangerous uh
+battlefield control spells that they
+have escaped from. You can use it to
+throw them off of chasms into instant
+death. You can use it to throw enemies
+into each other, dealing damage and
+knocking each of them prone. You can use
+it to grab enemies who are up on high
+ground or something like that and pull
+them down onto low ground while also
+potentially dealing damage and knocking
+them prone. So, there's a lot of neat
+things that you can do with this spell
+and a lot of creative uses that you can
+put it to in order to have uh impact in
+combat. The downside of this spell is
+that it's just a throw, which is
+something that a character with high
+strength can just do. So spending a
+fifth level spell slot on this effect
+that you can duplicate basically for
+free is not always going to be the most
+interesting uh use of your spell slot.
+You can also often duplicate the effect
+of this with a shove, which is a bonus
+action and not take any action resources
+in order to get a very similar effect to
+telekinesis. There's a couple things
+that uh work in telekinesis's favor
+though, which is that there's no weight
+limit. So, while even with high
+strength, you can't pick up and throw
+larger or heavier enemies, with
+telekinesis, you can do that. So, you
+can grab enemies who normally you
+wouldn't be able to throw and chuck them
+into dangerous effects or off of cliffs
+or whatever, giving you a lot more
+options to use it. And of course,
+repositioning enemies is always
+powerful. There's also one severe
+game-breaking bug that you should be
+aware of when using telekinesis.
+um or I guess spellbreaking bug, which
+is that the when you make when you cast
+it on an enemy, if it's the first time
+you cast it and they make their initial
+strength saving throw, if they succeed
+on the throw, the game does not uh the
+game just cancels the spell. You don't
+get to concentrate on it and you don't
+get to recast it next turn. So, you
+usually want to start by casting
+telekinesis on an object in order to get
+the concentration effect. Otherwise,
+there's a chance that you can just lose
+the spell completely if an enemy makes
+their save on just the first one because
+of this very severe bug. It's very
+unfortunate that they still haven't
+fixed that at this point. So, uh just be
+aware that when you cast telekinesis,
+you're usually going to want to start
+casting it before combat. Grab an object
+so that you can get the recast and then
+use it on an enemy over and over. The
+number of uses that you can put this
+spell to, I think, make it pretty solid
+in some encounters, especially if there
+are chasms, then you can use telekinesis
+to throw enemies into those. And the
+ability to snatch enemies off of high
+ground and drop them down to where your
+characters can hit them is pretty
+powerful. So, I'm going to give it B
+tier. Even though it duplicates
+something that you can often do
+otherwise, there's enough times where
+telekinesis gives you some cool and
+unique tactical possibilities and
+creative players can make great use of
+this spell that I think it is very much
+worth uh paying attention to when you're
+playing the game. Next up, wall of
+stone. Wall of stone is a wall spell
+similar to wall of fire in that you draw
+a line between two points and the effect
+of the spell happens along that line and
+it lasts uh as long as you you
+concentrate on it and basically just
+creates a wall. When you draw the line
+of wall of stone pillars each of which
+is about 10 ft long appear and they're
+connected to each other. So you make a
+solid wall of stone along that line that
+enemies can't shoot or walk through or
+nobody can shoot or walk through. Each
+individual segment of the wall has 30
+HP, immunity to psychic damage because
+it's made of rock, and vulnerability to
+force and thunder damage. Unlike other
+objects though, it doesn't have hardness
+or resilience. So 30 HP by the time you
+get wall of stone is going to die in one
+or two hits from enemies. So enemies who
+want to break this wall to get to you
+often can. And the AI is programmed to
+attack it. So they will try to break the
+wall of stone in order to get to you.
+You can use this to block certain
+attacks. Like if an enemy is about to
+use an AoE attack that you know is
+coming, you can use Wall of Stone to
+block it. And you can use it to divide
+an encounter in half where half of the
+enemies have to break through the wall
+and half of them you can fight. But it
+costs your concentration and uh fifth
+level spell slot. So it's incredibly
+expensive to cast this spell and doesn't
+do by itself anything to control enemies
+or do damage. So you really need to
+catch them on the other side of the
+wall. and even then they can often break
+through it. Wall stone is also made
+worse by the fact that it is very
+inconsistent. Like other wall spells in
+Balders's Gate 3, the casting interface
+is incredibly sensitive and fiddly. Even
+a tiny amount of intervening terrain can
+cause the cause you to be just unable to
+cast the spell along a line. So,
+actually blocking an entire arena with
+this to seal enemies on the other side
+of it can be extremely difficult. If
+there's even a single step or a single
+object on the ground, you can just not
+be able to cast the wall. And what's
+worse with wall of stone is sometimes it
+won't uh not let you cast it, but also
+won't let the pillar spawn. So
+intervening terrain can cause the wall
+to just spawn with a hole in it, which
+completely removes the purpose of this
+spell if enemies can just walk through
+it or shoot through it. So, although
+this is a spell that I personally love
+and am always trying to find cool uses
+for it and cast it way more often than
+you should, the inconsistency and
+overall the fact that it is um a spell
+that's more tricky than it is good, just
+make it not really very usable in actual
+practice. Even if you find the perfect
+use for it, it might not work. And
+sometimes it might not work in a way
+that still costs you the spell slot. And
+the times when you are going to find a
+perfect use for it are somewhat few and
+far between. So unfortunately because I
+love this spell and wish it were better,
+I'm going to have to give it D tier. Uh
+it's just too hard to make it do
+anything useful. So there are two more
+spells remaining in fifth level. And
+depending on the point that you have
+reached in the game, you may or may not
+recognize the remaining two spells.
+That's because the next two spells and
+one other level six spell are the game's
+three secret spells, which are only
+available through a specific story
+event. You will get scrolls of each of
+these spells, which you can either use
+normally, casting them from the scroll,
+or a wizard cancribe them into their
+spell book. That's obviously the power
+fantasy of any wizard is to find a
+unique spell that nobody else gets to
+know and learn it and be able to cast
+it. So, it's really cool that these are
+in the game. And when you get to the
+story event that lets you have them,
+you're going to get some pretty powerful
+tools as a result of getting these
+secret spells. So, if you don't
+recognize these spells, that's what
+they're from. You're going to find
+scrolls of them, and a wizard character
+can scribe and learn these spells and
+then be able to cast them normally. The
+first of these secret spells is
+Curriculum of Strategy: Artistry of War.
+Yes, that is the full name of the spell.
+I've just put artistry of war here
+because it wouldn't fit on the tier list
+icon. Uh, it is in fact a very long
+spell name. Curriculum of strategy,
+artistry of war, is basically a
+souped-up magic missile. The spell
+description talks about summoning six
+master strategists, but that's all
+flavor text. What it does is fire six uh
+powered up magic missiles, which just
+like magic missile, you can fire at one
+specific enemy or split them across
+multiple enemies. And just like magic
+missile, cannot miss and always do their
+damage. Each of these six bolts will do
+2d6 plus six force damage for an average
+of 13 damage or 72 average damage uh
+across all six of them. So, this is a
+lot of force damage that you get from
+this single spell because it can't miss
+and there's no saving throw against it.
+It's also incredibly reliable, although
+it doesn't benefit from all of the
+bonuses that you can apply to magic
+missiles, but a lot of them it does.
+It's done in six damage instances. So,
+it will trigger hex uh six times or hex
+blades curse six times. It will trigger
+um Polar Louv six times and other damage
+riders it will add six times over. So,
+you can end up with an enormous amount
+of additional damage. And for a magic
+missile build in particular, this is
+going to be a really powerful upgrade
+that you can cast once per short rest.
+This spell does in fact have a mandatory
+short rest cool down in addition to the
+level five spell slot that it costs. Uh
+you can only cast it once per short
+rest. So you can't use it multiple times
+in the same fight. And if you don't
+short rest in between fights, you may
+have to go some fights without it. But
+for a spell this powerful, you won't
+need to cast it more than once per
+fight. And you can just blow up one
+enemy or finish off a bunch of low or
+even moderately low health enemies with
+it extremely easily. If you're built
+around it, it's absurdly powerful. But
+even if you're not, this is still an
+incredible amount of damage and highly
+reliable and also extremely modular,
+which makes it really good at finishing
+off lowhealth enemies or just doing
+guaranteed damage to uh enemies in an
+extremely useful way. Can't miss.
+There's no saving throw. And the minimum
+damage on this spell is very high. Each
+bolt does 2d6 plus 6, which is a minimum
+of eight damage. So, this spell does a
+minimum of 48 total damage even if you
+were to roll a one on every one of the
+12 d6s that you're rolling. It's very
+unlikely, obviously. Um, you would still
+do a minimum of 48 damage. So, this
+spell is incredibly reliable. Just as
+with magic missile, randomness is the
+enemy of optimization and this spell is
+almost entirely non-random. So, in
+addition to being incredibly powerful,
+really high damage, it also bypasses one
+of the ways that you can lose the game,
+just getting unlucky, because it's very
+hard to get unlucky with this spell
+since there's almost no case where it
+doesn't do its job. S tier for artistry
+of war. And finally, the second secret
+spell and the last fifth level spell,
+dethrone. Dethrone is a single target
+direct damage spell. cast it on one
+creature and it does 10d6 plus 20
+necrotic damage, which is an average of
+55 necrotic damage. And because it's
+10d6, it'll usually roll near the middle
+distribution of that 55 with a
+constitution saved for half. Now, there
+is a severe bug with this spell, and the
+constitution save is always DC-18, no
+matter what the caster save DC is. Since
+this has to be learned by a wizard who
+will usually have high save DCs and high
+DC gear, uh, a DC-18 con save is going
+to be much lower than your normal save
+DC for most cases with the character.
+So, enemies are going to be much more
+likely to pass this saving throw than
+you would think otherwise. Of course,
+it's also a constitution save, which
+enemies typically have very good
+constitution saves. um and it's necrotic
+damage which a lot of enemies in the
+game are resistant or immune to. So
+dethrone uh while it does a lot of
+damage on paper, the fact that the save
+DC is really low and targets con saves
+and a lot of enemies are going to resist
+or be immune to this damage means that
+in practice you're usually going to get
+a lot less damage than it seems like you
+should when you cast this spell. Uh one
+other cool thing about this spell is it
+has a 100 ft range. Almost every other
+spell in the game caps out as a 60 ft
+range. So it is it does let you hit
+enemies from further away which can be
+pretty useful. It also has a mandatory
+long rest cool down similar to artistry
+of war which can only be cast once every
+short rest. Dethrone can only be cast
+once every long rest no matter how many
+fifth level spell slots you have or if
+you're using free casting or whatever.
+This is a fifth level spell slot for a
+kind of mediocre amount of damage to a
+single target. Spending that fifth level
+spell is just usually not going to be a
+good use of your action or um uh spell
+slot. So, dethrone is rarely, I think,
+going to be valuable. You can, because
+it is a necromancy spell, uh use free
+casting with the
+uh staff of cherish necromancy, excuse
+me, uh in order to cast this spell for
+free. But you can still only do that
+once per long rest. So even if you have
+a character that's built around using
+the staff of cherish necromancy,
+dethrone is rarely going to be better
+than anything else. And also if you
+compare it its damage to just upcasting
+inflict wounds, which is often going to
+be the thing that you're doing with a
+character that's built around that, the
+damage isn't even favorable compared to
+that. So honestly, this is a single
+target damage spell that's extremely
+unreliable because enemies will usually
+make the saving throw or be resistant to
+the damage. and it just doesn't do
+enough damage to justify the cost. D D D
+D D D D D D D D D D D D D D D D D D D D
+D D D D D D D D D D D D D D D D D D
+tier, unfortunately for Dethrone.
+All right, my friends, that is the fifth
+level spells. As you can see, there's a
+lot of real stinkers amongst the fifth
+level spells, but there's also some
+incredibly powerful and important
+spells. Condra Elemental is obviously
+the big winner, which in a lot of cases
+is a sixth level spell. So, your fifth
+level spell slots are often going to be
+used to upcast lower level spells, but
+there are still some that are pretty
+important to know about. Hold monster is
+obviously extremely useful when you
+can't use hold person and the B tier
+spells here give you a lot of really
+neat tactical options and even the C and
+D tier spells include some that you can
+do some pretty cool things with. So uh
+although fifth level is almost certainly
+the weakest spell tier overall in
+Boulders Gate 3, there's still a lot of
+interesting stuff in this spell uh in
+this spell level. I think it makes
+sense, of course, that this is a really
+weak spell level in Tabletop Dungeons
+and Dragons. Fifth level is where you
+get to start really breaking the laws of
+physics and the laws of narrative. Doing
+things like teleporting across
+continents or seeing what your enemies
+are doing in the midst of their
+stronghold, but a spell like
+teleportation circle or scry doesn't
+really make sense in the context of a
+video game. So, we're left with a lot of
+just direct damage spells. and fifth
+level spells suffer, which are pretty
+exciting in tabletop, have suffered as a
+result of just the fact that you're
+playing a video game and a lot of the
+coolest things you do at this spell
+level don't really translate. Um, but
+nonetheless, this is still a very
+powerful set of spells that give you a
+lot of really interesting options. As
+always, of course, if you uh think that
+I have misrated any of these spells,
+especially if you think there's any I
+have placed too low, definitely let me
+know in the comments. As always, I'm
+very open to moving things around. And
+of course, if you compare this list to
+my previous fifth level spells list,
+you'll notice a lot of them have moved
+up since then already. So, very open to
+moving spells around based on good
+arguments. Make those in the comments
+below. Of course, if you've enjoyed the
+video, feel free to hit like and leave a
+comment of any kind. Helps me out with
+the algorithm, so I appreciate you
+taking the time to do that. And of
+course, you can subscribe to my channel
+for more Balders's Gate 3 spell tier
+lists. We'll come back with the level
+six spells and other strategy game
+analysis. Cheers, my friends.

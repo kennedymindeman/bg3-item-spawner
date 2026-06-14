@@ -1,0 +1,1699 @@
+So, I think this will be extremely
+useful for helping you to build powerful
+synergistic parties and for
+understanding what strategies are
+available when you're constructing your
+party and which go well together. And
+it'll also help us answer the age-old
+question, well, we've had one monk, but
+what about second monk? Before I begin,
+I do want to take a quick moment to say
+thank you so much to Tarantula for the
+$25 donation and all the awesome
+consistent support. The cooking one for
+the $5. No, Nutr Rushy for the $25 and
+Intention and Kagan Cutlu Hachiu for
+becoming channel members. Thank you so
+much, my friends. I really appreciate
+all of your support. It really means so
+much to me. All right, let's double up.
+Hello, my friends, and welcome back to
+another Balders's Gate 3 tier list and
+guide. Hope you're all doing well.
+Today, we're going to be talking about
+which characters get better when you
+have more than one of the same class in
+a party and which characters get worse.
+whether or not you actually intend to
+build a party with more than one of the
+same character in it. I think that this
+is a really interesting discussion to
+have because we're going to be talking
+about which strategies in Boulders's
+Gate 3 get stronger when you invest
+really heavily into them and which
+strategies are meant to complement other
+parts of your party that are doing other
+things. So, let's talk a little bit
+about how we're going to be rating these
+characters. When you're considering
+whether a character gets better in
+multiples or not, there's a couple
+things we need to take into account.
+First is versatility. Can they cover the
+situations that you need covered? A
+party of all clerics, for example, would
+have a really hard time picking locks
+because they don't get slight of hand as
+a class skill. So, you would have a much
+harder time in situations where you
+needed to pick locks or disarm traps.
+That's true. Even if it's not like a
+monocclass party, doubling up on a
+character can make it harder to deal
+with certain situations. Next is gear
+dependency. Some characters are really
+uh gear dependent and maybe they demand
+gear that there isn't a lot of in the
+game. If there was only one good bow in
+the entirety of Balders's Gate 3, you
+wouldn't want more than one archer. So,
+there are classes that will suffer just
+by not being able to equip them all with
+optimal items if you have more than one
+of them. Lastly, is is the thing that
+they do something that gets better when
+you do more of it? Damage is always
+relevant. So, a party that's composed of
+all damage dealers will always be able
+to do something in combat. Healing, for
+example, though, isn't always relevant
+because when your party is at full
+health, you don't need to heal at all.
+So, doubling up on damage is always
+going to make your party better at
+something. Doubling up on healing won't
+necessarily improve your party's ability
+to heal cuz there's a maximum amount of
+health that your party has. For the
+tiers, I'm going to be considering these
+characters relative to their normal
+strength. So, you're going to see some
+characters that are very strong show up
+lower on this tier list because they get
+worse in multiples, and some characters
+that are weaker show up high on the tier
+list because they get better in
+multiples. Um, I'm also using the
+subclass tier list. Mostly, it's going
+to be the same for each subclass within
+a class, but there's some exceptions.
+So, I'll mostly be talking about like
+all barbarians as a class, but if
+there's one barbarian subclass that
+particularly differs when you double up
+on it, then I'll mention it specifically
+and move it. For the tiers, rather than
+using S through D tier or whatever, I am
+going with characters in the top tier
+break the game. The thing that they do
+uh when you do too much of it will just
+end encounters before they begin or
+prevent enemies from being able to act
+in some way. Um, so this is always going
+to be an extremely powerful combination
+when you double up on those characters.
+Some characters just get stronger in
+multiples because they have a powerful
+effect that you want more of and don't
+conflict particularly for gear or
+anything. Some characters it doesn't
+really matter if you double up on their
+strategy. Some get slightly weaker. Um,
+and these are generally going to be ones
+where there's maybe like the second or
+third best set of gear for that type of
+character isn't very good. So those
+characters will struggle to outfit an a
+party with more than one of them in it
+or doubling up on their strategy is a
+little bit weaker. And some characters
+get much weaker because the thing that
+they do is something that you really
+only need one of in a party. Um, and
+either it will prevent the other party
+members from acting or uh pre prevent
+the other copies of that character from
+doing their thing because you'll already
+have done it or it just doesn't have
+additional impact when you have more
+characters doing it. So, that's how
+we're going to be ranking the characters
+as we go through. So, let's talk
+barbarians. Barbarians are going to do
+two things for most parties. They're
+going to tank and they're going to do
+damage. Damage is always good to double
+up on or triple or quadruple up on
+because not only is it typically the
+most important thing that you're doing
+in Boulders's Gate 3, it also scales
+really well with more damage. Having
+more damage in your party means that you
+are more likely to remove an enemy by
+doing enough damage to kill them. And
+each enemy that you kill makes each
+subsequent enemy that you kill better.
+The fewer enemies there are in an
+encounter, the more uh of the the the
+higher a percentage of the remaining
+enemies in the encounter, removing an
+additional enemy represents. So as you
+kill enemies, killing each subsequent
+enemy becomes better and better in terms
+of reducing the threat level in an
+encounter. So, as you have uh more
+damage, each point of additional damage
+that your party is capable of doing is
+better than the previous point of damage
+that you were able to do, cuz it
+represents a higher percentage of the
+total hit points that you have to get
+through before you remove an enemy or
+win the encounter outright. Tanking is
+also something that gets a little bit
+better in multiples. in particular
+tanking the way barbarians do it through
+damage resistance because when there are
+more enemies in an encounter um or when
+you have more tanks in an encounter,
+enemies have fewer targets that they can
+hit where they will do appreciable
+amounts of damage. So if you have like
+multiple bare heart barbarians and then
+enemies will not be easily able to
+target a character who doesn't have
+damage resistance and so the total
+incoming damage to your party is going
+to be decreased by having multiple
+barbarians. Both because you're killing
+enemies faster thanks to having more
+damage and because you're able to resist
+incoming damage more effectively the
+more characters in your party have
+resistances. However, there's a couple
+things that hold barbarians back from
+just being purely stronger when you
+double up on barbarians. Firstly, they
+tend to be melee. Having more than one
+melee character in a party or having a
+party that's all melee does reduce your
+options in combat in several pretty
+important ways. Firstly, um it makes it
+harder to split your party members apart
+while still positioning them where they
+can do damage. uh if all of your party
+members have to group around an enemy to
+attack them, it makes you much more
+vulnerable to AoE spells and effects
+because you're going to be standing
+closer together necessarily. And it
+makes it harder for you to hit the
+priority targets, especially because as
+you get more and more melee characters
+in a party, it can become harder to
+equip them all with good sources of
+mobility. There are there are some
+mistiep items available in the game to
+help you solve this problem. But the
+more melee party members you have, the
+higher in demand items like that become
+and sources of mobility become and the
+harder it can be to position your party
+such that they're able to easily attack
+the most important enemies in an
+encounter. There's some encounters also
+where enemies start really far away.
+Having a ranged character to allow you
+to attack on the first turn can be the
+difference between doing nothing and
+being able to actually do damage on the
+first turn of combat. Barbarians also
+because they're all melee do conflict a
+little bit for gear. I know there's
+throwing barbarians. I'll talk about
+that in a second. Um do conflict a
+little bit for gear. There are a lot of
+good medium armor sets, but especially
+in the Midame, you will run into a
+pretty strong quality difference between
+your best medium armor set and your
+worst medium armor set. Um, especially
+if you are not a character that makes
+use of like the luminous armor in a
+particularly effective way, which
+barbarians tend not to be. Also, the
+best melee weapons in the game are
+better than the second and third best
+melee weapons by fairly significant
+margins. And this is especially true in
+the end game. So, you will sacrifice a
+little bit of gear quality when you have
+lots and lots of melee characters that
+need weapons in order to attack. So,
+barbarians do have some problems with
+gear. They have some problems with
+versatility. You can build a charismatic
+or dexterity based barbarian, but
+probably they're not going to be
+contributing skills to your party. So,
+you're going to struggle a little bit
+with skills as you double up on
+barbarians. But most importantly, you're
+going to be making your party a little
+more vulnerable to AoE spells and making
+it a little harder to focus your damage
+on the most important targets when you
+have lots of melee characters in a
+party. They can also run into problems
+with rest dependency. Barbarians are a
+lot weaker without rage. Obviously, they
+can still fight without it, but uh the
+more characters you have that need a
+resource in order to fight at their
+highest effectiveness in a party, the
+less able you are to take fights even
+when you're out of that resource. If
+your barbarians are all out of rage, you
+probably are going to want to rest.
+Whereas, if you just have one barbarian,
+maybe you can take a couple fights
+without uh raging on that character
+because your other party members are
+picking up the slack. So there is a
+little bit of extra rest dependency
+baked into having multiple barbarians in
+a party in general for these reasons
+because melee characters tend to get a
+little weaker in multiples um because
+barbarians are
+not particularly versatile and because
+it will incentivize you to rest more
+often. I think they tend to get just
+slightly weaker when you have more than
+one of them. It's also true that while
+tanking inherently gets better in
+multiples, if you're not tanking for
+anything, you know, if you're not
+distracting from a powerful damage or
+control character uh with your tank,
+then you are getting less advantage out
+of having a tank than a party member
+than a party that was able to um you
+know have a a archer or something
+running around doing damage freely would
+be getting. For that reason, I'm going
+to say that berserker barbarians and
+wildart barbarians get slightly weaker
+um when taken in multiples, unless the
+berserker barbarian is a throwing build.
+Throwing builds obviously don't suffer
+from the melee issues. And so giant
+barbarians, I think, actually get a
+little bit stronger in multiples,
+especially because they're also much
+less gear dependent because they can
+turn any weapon into a throwing weapon.
+And wild heart barbarians get much
+weaker or wild magic barbarians, excuse
+me, get much weaker in multiples because
+not only um do they have all of the
+issues with all being melee that other
+wild heart barbarians have, they also
+will tend to interfere with one another
+cuz you don't want when you have a wild
+heart barbarian, you want them to fight
+further away from their allies in
+general. um when all of your party
+members have that positioning
+requirement, it's going to make it much
+much harder to position your characters
+in combat, especially because it
+directly conflicts with the positioning
+requirements of a melee character. So,
+barbarians have a little bit of variance
+here, but throwing builds will tend to
+get stronger because you can easily
+focus damage. Melee builds will tend to
+get weaker, and while magic barbarians
+will be much weaker. Bard Okay, so bards
+have some strengths when you double up
+on them. In particular, bards are very
+versatile with lots of skill access. So,
+you'll still be able to cover pretty
+much any out of combat situation, no
+matter how many bards you have in your
+party. However, there are some things
+about bards that uh really hurt them
+when you double up on bards. In
+particular, bards do a lot less damage
+than most other characters. Their spell
+list is not typically damage oriented
+and it tends to be fairly specialized,
+which while that's fine when you only
+have one bard in your party, you can
+take a bunch of spells that are only
+useful in certain encounters, when you
+have uh and then just use the right one
+for that encounter. When you have a lot
+of bards in your party, that becomes
+harder to do. And characters that are
+specialized into certain types of
+encounters may not have the right tools
+depending on the situation that you find
+yourself in because the spells are
+specialized rather than generalized.
+A damage spell is always going to be
+good because pretty much every encounter
+you need to do damage to an enemy, but a
+control spell or a utility spell may not
+be good in a given encounter if enemies
+are immune to that type of control or if
+enemies are im uh or if the utility
+isn't relevant for that type of
+encounter. And since bards tend to have
+support, control, and utility spells,
+there are often scenarios where those
+spells are not good. And having doubled
+up on that type of spell access is going
+to make it harder to have relevant
+things to do in every encounter. Support
+characters like bards also will tend to
+get weaker in multiples because you need
+something to support. Um the the reason
+that you have a support character is to
+enable your damage dealers or your
+control casters to do things more
+effectively. So obviously barge can
+still fill those roles, but um their
+supporting abilities will tend to lose
+strength the fewer good targets there
+are to use supporting abilities like
+inspiration or like mantle of
+inspiration, etc. or valor bards, combat
+inspiration on. Uh so that will tend to
+hold bards back when they're in
+multiples as well. Gear dependency can
+also be an issue for bards. While bards
+mostly don't need specific kinds of gear
+and can get away with having less gear
+dependency than most other characters,
+there are some conflicts when you have
+more than one of them that can become
+issues. Light armor sets in Balders's
+Gate 3 are at a premium. So, characters
+because there's just not many good light
+armor sets. So, characters that require
+light armor can often struggle to outfit
+more than one of them. Uh there's pretty
+much two reasonable endgame light armor
+sets, and one of them is the ballist
+armor, which you only get given certain
+story uh actions. So having multiple
+characters that want light armor in the
+endame means some of them are going to
+be in robes. You're going to struggle to
+outfit them um with appropriate light
+armor gear. And as casters, bards will
+often want the staffs and spell DC gear,
+of which there's only a certain amount.
+um and so can also struggle to outfit
+themselves for maximum casting
+capabilities just like they can with
+defensive capabilities. So gear
+dependency for bards in particular can
+be an issue. Obviously bards are an
+incredible character, but they do I
+think tend to get slightly weaker when
+you have more than one bard in a party.
+Now bard subclasses do change this a
+little bit. Lore bards have cutting
+words which gets better in multiples. Um
+because the ability to have multiple
+characters burn off enemy damage means
+that you are again reducing a larger
+proportion of incoming damage. Each
+attack that an enemy misses is better
+than the previous attack cuz it
+represents a larger percentage of the
+total damage that you were going to take
+in that encounter. So being able to use
+multiple copies of cutting words can be
+um still pretty powerful. That being
+said, I think the other issues that I
+mentioned are enough that lore bards do
+still get slightly weaker in multiples.
+Valor bards don't have quite the same
+problems either because they have medium
+armor and shield proficiency. So gear
+dependency is much much less of an issue
+for valor bards and because they get
+extra attack and can focus a little bit
+more on damage. they have many more
+things that they can do in a given uh
+turn of combat than the caster bards
+when their spells aren't good. So, valor
+bards will still be able to function
+even in situations where they don't have
+the right spells for that scenario. So,
+valor bards, I think, will actually be
+pretty good and stay roughly even even
+if you double up on them. Swordbards, on
+the other hand, are the first one that's
+going to go up in the purple
+game-breaking tier here because
+swordbards are just about dealing
+massive burst damage. And massive burst
+damage stacks incredibly well with
+itself. Every time you increase the
+damage potential of your party, it
+represents faster and faster turns to
+kill for the ability to shut down
+encounters before they start. And
+swordbards are just really, really good
+at ending encounters before they begin.
+They get um more weapon and armor
+proficiencies as well. So, you have more
+options for gear. And uh in the late
+game, like even some of the hardest
+encounters in the game end when you do
+about a,000 points of damage, four
+characters that do 250 damage on the
+opening turn of combat, which is pretty
+easy to manage with a bunch of sword
+bards, just win any encounter outright.
+So, um doubling up on swordbs will end
+encounters immediately. Glamour bards
+have the opposite problem because their
+ability directly conflicts with itself.
+Mantle of inspiration doesn't stack. So
+multiple glamour bards are much much
+weaker than one glamour bard. It does
+give you the option to like have one go
+have the enemy take a turn and then the
+other can replace the hit points that
+the temp HP. Um and mantle of majesty
+gets better in multiples, but in general
+glamour bards because their main ability
+doesn't stack with itself are going to
+be much weaker in multiples. clerics.
+So, clerics tend to suffer from many of
+the same problems that bards do in that
+their supporting abilities don't scale
+very well. Um, because they either don't
+stack or just by the nature of support,
+you have fewer targets that you want to
+support the more support characters you
+have in a party. Spells like bless and
+aid are AoE spells, so they don't stack
+with each other. So, having multiple
+characters that can cast those tends to
+be pretty redundant. Clerics also have
+the additional problem that they get
+pretty bad skill access. So, a party
+with multiple clerics may struggle to
+make up all of the skills that you want
+for a playthrough. Um, because clerics
+get very weak skill access. It's hard to
+build them with dialogue skills. It's
+hard to build them with lockpicking
+skills. So, parties with multiple
+clerics can struggle to cover those
+bases for out of combat utility. Um,
+clerics on the other hand do have a
+little bit more just raw damage and
+crowd control effects than bards do.
+Command is a spell that gets way better
+in multiples um because it it lets you
+shut down greater and greater
+percentages of the encounter with each
+subsequent cast of command. And uh just
+the sheer damage that some of their
+spells do obviously scales well just
+like other damage characters. They are
+rest dependent as well. So that could be
+an issue. So there are some things that
+uh clerics do well when you stack up on
+them. Mostly command is a really good
+spell and so stacking uh multiple casts
+of command is good, but for the most
+part having more than one cleric is
+going to be fairly redundant and they
+will tend to be slightly weaker with
+multiple clerics in a party. They also
+run into a lot of issues in Balders's
+Gate 3 with gear conflicts because
+clerics are very gear dependent. um they
+tend to want the healing items in order
+to make good use of their healing
+abilities. They tend to want the
+radiating orb items in order to be the
+strongest version of a cleric that you
+can have. Shields are sometimes a
+conflict as well cuz obviously there's a
+lot of good shields in the game, but
+some are better than others. And after
+the top three or so, you are seeing a
+drop in quality if you have multiple
+characters that want shields. So,
+there's definitely some and of course
+they have the the save DC issues that
+every caster has. When you have too many
+casters in a party, it can be hard to
+stack enough save DC gear to land their
+spells reliably. So, there's just a lot
+of things that make clerics um less
+effective when you have more clerics in
+the party. So, most cleric subasses, I
+think, are going to go into the slightly
+weaker pile. Um, however, there are a
+couple exceptions to this, and I'll talk
+about those now. Death clerics are more
+damage focused, and the more damage
+focused a character, the better it tends
+to do when you double up on it. Having
+multiple death clerics will allow you to
+burst down enemies pretty effectively.
+And tempest clerics are damage focused,
+but even more uh than that, they really
+synergize with one another because
+they're going to be doing lightning
+damage. Um, which will benefit from one
+cleric casting crate water and the
+others doing lightning damage. and their
+ability to maximize damage scales
+extremely well with itself because the
+more your party has damage that doesn't
+roll dice, uh, Tempest clerics of course
+can maximize their damage to do exact
+amounts of damage with their lightning
+spells, um, the more your party has
+effects that where you know exactly how
+much damage they're going to do, the
+better that effect is because it lets
+you space out your damage between
+different enemies perfectly. ly. So,
+tempest clerics let you be extremely
+efficient with your damage allocation
+when you have more than one of them and
+actually get a little bit stronger in
+multiples. Life clerics, on the other
+hand, get way weaker when you have more
+than one of them because they're so
+healing focused and you just don't need
+that much healing. One life cleric will
+be way more healing than a party will
+ever need. And multiple life clerics can
+slow down your damage output enough that
+it actually ends up being
+counterproductive because enemies just
+do way more damage to you, which means
+you have to heal more. Um, healing. They
+also, of course, there's only one copy
+of most of the healing gear, which life
+clerics very, very badly want. So, they
+are going to get significantly weaker if
+you double up on them. On the other
+hand, light clerics are absolutely
+game-breaking in multiples. their
+channel divinity for the AoE damage uh
+spell can just like if you have more
+than one light cleric can just one-shot
+a lot of early game encounters entirely
+just by having them all use their
+channel divinity and warding flare gets
+incredibly stronger when you have
+multiples of it just like I talked about
+with cutting words for the lore bard um
+when enemies are missing attacks each
+subsequent missed attack is better
+because it represents a larger portion
+of the overall damage that enemies are
+going to do in that encounter. So, the
+more warding flares you have and the
+more enemies are attacking with
+disadvantage, the fewer critical hits
+your part is going to take, the less
+often you're going to get hit. It's
+free, so it's perfectly spammable and
+you can just blow up encounters with
+light clerics, so they are game-breaking
+in multiples, but most cleric builds are
+going to get weaker um when you have
+more than one cleric. Druid. So, druid's
+main strength as a class is its
+versatility. Two different druids, even
+within the same subclass, can be vastly
+and entirely different characters. So,
+doubling up on druid subasses mostly
+just doesn't matter at all. The one
+downside is that druids skill access
+isn't incredible. So, a party with lots
+of druids may struggle with locks and
+with conversations, but druids are so
+easily built in so many different ways
+that you can have a party of all druids
+or with two or three druids and it will
+still be just as effective as if you
+only had one. For the most part, druids
+have um tools for support. They have
+tools for damage. They have tools for
+tanking. You can build melee characters.
+You can build ranged characters. you can
+build spellcasters. All of those can uh
+all come from the same chassis when
+you're playing a druid. Um and their
+spell list is both very versatile and
+very powerful. They have generically
+powerful spells that do well in any
+combat. And they have um utility spells
+and specific spells that do well in
+specific encounters. So, it's very easy
+to structure a party with multiple
+druids in it to be able to succeed um
+just as well, no matter how many druids
+you have or don't have. That's part of
+why I think the Bouldersgate 3
+developers were comfortable giving us
+two druid characters as companions,
+because you can build them completely
+differently and still end up with quite
+uh different builds in practice despite
+them both being the same class. Druids
+also don't have any issues with gear
+dependency really because a lot of druid
+builds just don't need gear at all if
+you're wild shaping. Um, and they have
+medium armor and shield proficiency. So,
+you can outfit them in a lot of the best
+and most prevalent gear in the game.
+Spell save DC gear can be an issue and
+initiative gear can be an issue.
+Depending on how you're building your
+druids, you may run into some
+redundancies there, but for the most
+part, just having multiple druids in
+your party will not affect how you're
+constructing your party significantly at
+all, and they're all going to go in the
+even tier. However, there is one
+exception, which is star druids, for the
+same reason as uh uh cutting words and
+warding flare get better in multiples.
+Omens also get better in multiples and
+star druids also have a lot of um burst
+damage be their damage forms and the
+guiding bolts that they get stack really
+well for removing enemies from combat
+very quickly. So star druids I think do
+tend to get very slightly stronger in
+multiples. Um for the most part though
+druids are uh a versatile enough
+character that they simply don't care
+one way or the other if you have more
+than one of them. Fighters. So fighters
+of course are typically going to be
+melee characters using heavy armor and
+large weapons. And heavy armor is at
+something of a premium in Balders's Gate
+3. Definitely the difference between the
+best heavy armor sets and the second and
+third best heavy armor sets and
+available especially early in the game
+but even later in the game is very
+significant. Now you can use medium
+armor but it does mean that you might be
+compromising on the gear for some of
+your fighter characters. Melee
+characters do suffer for the reasons
+already discussed um because it forces
+you to cluster your party members and
+maybe you don't have an easy way to get
+to enemies. And because fighters are
+less mobile than a lot of the other
+melee characters, barbarians have fast
+movements, so do monks. Um rogues can
+bonus action dash and stuff. They will
+suffer a little bit more from that.
+Obviously, you can jump, you can use
+misty step gear, but fighters will still
+typically have a slightly harder time
+getting to their enemies to melee them
+than other melee characters will. That
+all holds fighters back just a little
+bit um when it comes to having more than
+one of them. Fighters also get really
+bad skill access. Uh, and their best
+ability is on a short rest cool down,
+which does mean that you will be
+incentivized to short rest in order to
+get action surge back. Though, fighters
+are obviously nowhere near as rest
+dependent as a bunch of other
+characters.
+Fighters can also suffer a little bit in
+terms of their saving throws um because
+they don't have good wisdom saves.
+Enemies who target wisdom saves can take
+out more than one fighter in a single
+spellcast, but they do have indomitable
+to resist that a little bit. Um, so
+there's definitely a lot of downsides to
+having multiple fighters in a party, but
+there is one thing that just makes
+fighters really good when you stack up
+in multiples, and that's just action
+surge. Action surge combined with having
+high damage and in the endame, three
+attacks in a round for up to six attacks
+with action surge and your normal attack
+action uh means that fighters excel at
+just ending fights quickly. Upfront
+burst damage is one of the effects that
+gets the most from stacking multiple
+copies of it in a party. The more
+upfront burst damage you have, the fewer
+turns enemies are going to take
+throughout the entire game, and the more
+often you're going to remove uh a major
+threat or the entire encounter before
+enemies get to take their turns. Action
+surge is probably the single best tool
+in the game for doing this. So fighters
+because of action surge and action surge
+alone get stronger in multiples just
+because they're so good at ending
+encounters before they ever really
+start.
+Battlem fighters in particular uh do
+fairly well because they can also lock
+down enemies with their stuns and prones
+and disarms and things like that.
+Champion fighters a little less so. So
+I'm going to put them in the even tier.
+Eldrich knight fighters do get a little
+bit better in multiples, especially if
+they are throwing weapon Eldrich Knight
+fighters, um, which have many fewer of
+the downsides than all of the other
+characters. A little bit more gear
+dependency, but obviously aren't melee,
+so are going to get much stronger in
+multiples. But arcane archer fighters in
+particular are kind of the reason that I
+decided to do this tier list in the
+first place because of a a discussion I
+was having in the comments under my
+recent ultimate archer build guide.
+Arcane archers may be the character that
+the single character in the game that
+benefits the most from having more than
+one of them. There's a bunch of reasons
+for this. Upfront burst damage at range
+with action surge. Crowd control
+abilities also stack really really well
+with one another. Um, so both of those
+things get better when you have multiple
+arcane archers. Uh, because again, every
+time you remove an enemy from combat,
+each subsequent enemy you remove is a
+higher percentage of the remaining
+enemies in that combat. Doing that with
+damage stacks really well with itself.
+Doing it with crowd control, like arcane
+archers have, stacks really well with
+itself. and doing it with one of the
+game's most broken abilities in patch 8,
+Vanishing Arrow, stacks ludicrously well
+with itself. Vanishing Arrow lets you
+simply just remove an enemy from combat
+in the first turn, and so it's very easy
+to just end encounters before they
+start. Half of the enemies just aren't
+on the field if you have more than one
+Arcane Archer. And at the same time,
+you're also outputting incredible
+damage, so you're going to end
+encounters instantly. So, multiple
+arcane archers are just absolutely
+game-breaking. Banishing Arrow is
+already such a strong ability, but when
+you have more than one copy of it, it
+just gets ridiculous. Next up, monks,
+where we get to find out how much monkey
+business you want in your party. Monks
+have some qualities that make them
+really good in multiples and some
+qualities that make them significantly
+weaker in multiples. So, they're a
+little bit of a polarizing class in
+terms of how your builds work and
+whether you want more than one of a monk
+in your party. They are melee
+characters, so they do struggle with
+some of the positioning issues that
+having lots of melee characters can
+create in a party, but much much less
+than most other melee characters because
+they're incredibly mobile. So, it's much
+easier to position a monk where enemies
+can't attack all of your characters at
+once with an AoE spell while still
+hitting the targets that you actually
+want to hit. Monks will tend to, in most
+parties, strike off on their own and not
+really care about what the other party
+members are doing at all. They'll run
+solo missions to go uh kill the enemy
+backline and stuff like that. And it's
+totally fine to have more than one
+character doing that. It means that they
+don't gain that much from working with a
+team, but they also don't lose that much
+if the team doesn't work especially well
+with them. There are some downsides,
+though. Monks are extremely uh squishy
+in general, or not extremely, but
+squishier than most other melee
+characters. They have lower hit points,
+and they'll tend to have pretty low
+armor class, especially if you have more
+than one monk in your party because the
+way to get your monks to catch up in
+armor class values to other melee
+characters is with the enchanted AC
+items, and there's only so many of
+those. So, if you have more than one
+monk, then your party is probably going
+to have relatively low hit point totals
+and relatively low armor class, which
+can make you vulnerable. And the lower
+your total armor class over the c over
+your whole party, um, the worse it is
+because it just increases the amount of
+damage that enemies are doing to you
+somewhat dramatically when they get to
+attack. Now, of course, if you're
+playing an all monk party, your goal is
+probably to stop enemies from attacking
+at all. And monks are really, really
+good at that. They're mobile. They do a
+lot of upfront damage. And they have
+stunning strike. Stunning strike, like
+banishing arrow, is one of those
+abilities that gets massively better the
+more opportunities you have to use it
+against enemies that are vulnerable to
+stuns. Each stun that you land in a
+combat is better than the previous stun
+because it removes a higher percentage
+of the remaining enemies in that combat.
+So having lots of stunning strikes so
+you can stun everything means that you
+will often be able to end combats
+completely before they start by simply
+stunning or killing every enemy in the
+arena. It's not as reliable as a bunch
+of arcane archers because um there are
+times even though monks are mobile where
+being melee can come back to bite you
+and there's a lot of enemies that are
+immune to stuns um in Balders's Gate 3
+or at least enough enemies that are
+immune to stuns that it will come up
+sometimes though many monk subasses have
+other forms of crowd control. in general
+because monks um mostly don't need gear.
+They're somewhat gear dependent in
+especially in terms of defensive
+options, but you're probably going for
+an overwhelming first strike strategy if
+you're playing more than one monk in a
+party. So, defensive options will be
+less important. Um, and they don't
+really care what their party members are
+doing. I'm going to say that most monks
+are relatively even. um very powerful as
+just one member of a party being a monk
+and very powerful as having more members
+of your party as a monk. The one
+exception is of course open-hand monks
+because not only do they have all of the
+burst damage and upfront damage that
+monks get, they do more damage than the
+other monk subasses. So they're stacking
+even more upfront burst damage and they
+have more crowd control. So when you
+stack all of that together and have more
+than one character, it's very hard for a
+party with multiple openhand monks to
+have enemies take actions at all. And so
+similar to arcane archers, they just end
+combats as soon as they begin and are
+indeed gamebreaking. Next up, paladins.
+So similar to monks, paladins have many
+of the qualities that make characters
+good in multiples, but many of the
+qualities that make characters weaker in
+multiples. They're extremely gear
+dependent. Paladins maybe the most gear
+dependent class in Balders's Gate
+because they have high attribute
+requirements in a lot of different
+attributes. They need heavy armor and
+they are all melee so they're going to
+need strong melee weapons and heavy
+armor suits are uh few and far between
+especially in the early game. So having
+multiple paladins in a party will cause
+some conflict in terms of the gear that
+you can have. one of their strongest
+abilities also doesn't stack or of
+protection which does help mitigate the
+issue where as melee characters they're
+going to be standing too close together
+sometimes doesn't stack. So having
+multiple paladins with a of protection
+will um lose out on some value from a
+very powerful class feature. Now if you
+have multiple paladins from different
+subclasses you can have like one ancient
+paladin and one oathbreaker paladin
+providing different auras and things
+like that. Um, but the aura of
+protection aura will still be wasted
+between multiple paladins. On the other
+hand, paladins, like fighters and like
+monks, are upfront burst damage
+characters. And paladins are better than
+pretty much any other character at just
+getting an enemy that you want dead
+instantly. So having two paladins or
+more than that even means that you can
+end the lives of the most important
+targets in most fights just guaranteed.
+The downside here is that because
+paladin smites cost spells and they have
+relatively limited spell slots, this is
+a long rest resource that you're going
+to be expending pretty frequently. When
+there's only one paladin in your party,
+you can get away with saving your smites
+for really important targets or really
+key fights and stretch out the longevity
+of that character over the course of the
+day. But if you're relying on multiple
+paladins to be your main damage source,
+you're going to be using a lot of
+smites, which is going to force you to
+rest pretty frequently. At the end of
+the day, most things about paladins make
+them a little bit weaker uh when used in
+multiples. They're gear dependent.
+They're melee. They use heavy armor,
+which is a little harder to come by. Um,
+and they're long rest dependent, so
+they're going to force you to rest more
+often. However, it is true that the
+ability to quadruple smite and just
+delete one enemy is very powerful, but
+you could just combine your paladin with
+any other damage class to achieve more
+or less the same thing without
+introducing any issues that you get from
+having more than one paladin. So, I
+think overall paladins are slightly
+weaker, and I want to say very slightly
+weaker. I debated a bit between putting
+them in the even tier or the slightly
+weaker tier. Um, but I do think that
+there's just enough that makes them a
+little awkward to use in multiples that
+I'm going to say that they are slightly
+weaker. I also don't think there's any
+Paladin subasses that significantly
+change this. So, all five Paladin
+subasses are going to go in slightly
+weaker, though I think you could put
+them in the even tier, and I wouldn't
+lose any sleep over it. Next up,
+rangers. So, rangers will tend to be
+archers. Not all ranger builds are
+archer builds, but in general, they're
+going to be more ranged oriented. And
+ranged characters get better in
+multiples because it makes it easier for
+you to focus your damage on the targets
+that you want. Rangers are typically
+damage oriented characters as well,
+which as we've discussed many times, get
+stronger in multiples because as you
+focus that damage on enemies, it becomes
+more and more likely for those enemies
+to die. Rangers also don't come with a
+lot of the weaknesses of other damage
+oriented characters because they are
+very defensively powerful and very gear
+independent because rangers have just
+naturally high armor class thanks to
+their uh typically being dexterity
+builds. They've got good hit points and
+they have a bunch of damage resistances
+as well as some extra mobility tools.
+They don't have as many as some other
+characters, but they do have some extra
+ways to move around. They will be very
+resilient. So there will not be um a
+weak point in your party if you have
+multiple rangers because the rangers
+themselves will always be pretty
+powerful. If you have uh a build
+entirely composed of rangers, it's very
+easy to spread them out so that the
+enemies cannot ever hit more than one of
+them with a spell. And even if they do,
+you've got all the the natural damage
+resistances to elemental damage that
+makes that significantly less dangerous.
+Rangers have uh often good bonuses to
+saving throws and will have high
+initiative due to being dexterity based
+characters. So there's just a lot of
+stuff that works really well when you
+put all these characters together.
+Winning initiative and volleying down
+the most important enemies on the field
+with a hail of arrows is just a powerful
+strategy and in with a ranger it mostly
+comes with no downsides. They're also of
+course as decks characters able to
+handle a lot of out of combat stuff. You
+can stealth, you can pick locks, you
+can't really do dialogue skills very
+easily with them. Um, but that's more or
+less the only thing that they don't
+bring in terms of out of combat utility
+to the party, though there's no
+particular weaknesses there. So,
+rangers, despite being a uh not a
+terribly versatile class, they have one
+role that they want to fill. They do
+manage to cover enough bases that that
+role just being filled extremely well
+ends up being a very powerful tool for
+your party. There are also enough good
+bows in the game, even relatively early,
+that you'll be able to equip a a party
+with multiple archers in it pretty
+easily. Right at the beginning of the
+game, it can be a little challenging,
+but the because some archers will use
+hand crossbows and some will use bows.
+Because there are bows that provide
+crowd control and debuffs like Harold or
+the bow, the banshee, it gives you a
+little more tactical optionality as
+well. And because they don't otherwise
+need any items other than just a good
+bow, there will be very few conflicts.
+For all of those reasons, I'm going to
+say that rangers in general are slightly
+stronger when used in a uh in multiples
+because the ability to just focus
+enemies down is always powerful. And a
+damage oriented character without too
+many weaknesses or downsides is going to
+do really well when you just stack up
+more of those characters means fewer
+failure points and more possibilities
+for success. The exception to this is
+gloomstalker rangers because
+gloomstalkers are the upfront damage
+ranger. They get bonus attacks in the
+first round of combat and they get
+bonuses to their initiative as well as
+just a bunch of other tools. And the
+ability to just annihilate enemies on
+the first turn of combats by making so
+many attacks that nothing can survive it
+is of course incredible. So gloomstalker
+rangers similar to arcane archers and
+other upfront damage focused characters
+with huge bonuses to doing that well are
+pretty gamebreaking in multiples. Having
+more than one gloomstalker ranger in a
+party means that you just never have to
+face uh like half of the enemies in the
+game at minimum. So you end up just
+making the game vastly easier. Next up,
+rogues. So at first glance, rogues are
+quite similar to rangers in that they're
+a damage focused class with a lot of
+mobility. They can be ranged, so you can
+easily focus down enemies and they have
+really good defensive tools, especially
+if you're playing more monocclass
+rogues. they will level up and get
+evasion and uncanny dodge and be able to
+defend themselves. And if you're
+multi-classing them, then they can get
+defensive tools from other classes.
+However, because rogues don't naturally
+get extra attack, um rogue builds that
+are heavily invested in rogue will tend
+to be lower damage than builds for other
+marshall characters. And their damage
+source, sneak attack, is something
+that's a little bit situational and gets
+worse when you have multiple rogues on
+the field. Rogues rely on having a melee
+ally usually in order to make it easy to
+trigger sneak attack. And so if you have
+multiple ranged rogues, that can be
+difficult. Or if you have to leave your
+melee rogue in base contact with an
+enemy, then it can put them at
+unnecessary risk. So, there are some
+downsides to having multiple rogues
+because if they have to ever trigger
+sneak attack for one another by being
+the source of threaten, then it can
+force you to put your characters in
+undesirable locations or just be harder
+to trigger that effect without a an ally
+who just wants to run up to an enemy and
+stand there. Rogues also because they
+have lower sustained damage than other
+marshall characters. A party with
+multiple rogues in it can start to run
+into damage issues. It's not as severe
+as if you have multiple bards. Um but it
+can still be an issue where your rogues
+are just not providing enough damage
+output to kill enemies quickly enough.
+And so even though they provide a lot of
+tricks and out of combat utility, you're
+still going to end up taking more damage
+in return because enemies are just
+living longer. A lot of what rogues do
+also has some um some interesting
+interactions with the AI and might be
+counterproductive. If you are hiding
+with multiple characters in your party,
+then the enemies are going to focus all
+of their damage on any character that's
+not hiding. Whether that's uh if uh you
+know, if you're an all rogue party, then
+any rogue that ends its turn not hiding
+is probably just going to get
+obliterated cuz they have relatively low
+hit points. Um, and if you have multiple
+rogues in a party, it means that you're
+focusing your damage on other
+characters. There's ways that you can
+manipulate this. Having a party of
+stealth characters plus an abjuration
+wizard can cause enemies to skip their
+turns or focus damage on the abduration
+wizard who you don't care if they get
+hit. Um, but in general, it's going to
+be a little harder to spread damage
+evenly out across your team, which you
+usually want to do in Boulders's Gate
+because characters don't lose
+effectiveness as they take damage. So
+spreading out the damage means that you
+stay fighting for longer. Rogues also,
+one of the main things that they provide
+to a party is great skill access, but
+you don't really need more than one
+rogue to do that. Once you have one
+expert lockpicking character, having a
+second expert lockpicking character
+isn't that important. And the same
+character can have expertise in
+persuasion and slight of hand and
+provide all of the skills that you
+really need in Balders's Gate um in a
+single character. So you end up with
+some redundant stuff outside of combat
+when you double up on rogues because of
+their relatively low damage and the fact
+that they're doubling up on a lot of
+things that you don't really need more
+than one copy of rogues I think tend to
+get slightly weaker in multiples. Though
+there's some exceptions based on the
+subclass. That's true for arcane
+tricksters and it's true for thief
+rogues. Um, but swashbuckler rogues
+don't suffer from some of these problems
+because they can trigger sneak attack
+for themselves and they come with an
+initiative bonus and initiative bonuses
+stack extremely well with other
+initiative in your party. Something
+that's really worth keeping in mind is
+that it is exponentially more powerful
+to have all of your party win initiative
+than just have one of them win
+initiative cuz you can mix and match
+your actions. You can kill enemies
+before they ever get to act much more
+easily. You can set up sneak attacks and
+then still move your characters away.
+So, the initiative bonus from
+swashbuckler rogue really helps set that
+up. And they don't need an ally to
+trigger sneak attack. They just get it
+um if the enemy is isolated at all. So,
+swashbuckler rogues don't really suffer
+from being in multiples. And I'm going
+to put them in even. Assassin rogues get
+even stronger because their whole thing
+is killing enemies before they ever get
+to react. And as we've talked about
+previously, that's just an incredibly
+powerful strategy in Boulders's Gate. A
+team of four assassin rogues hiding and
+getting automatic critical hits and then
+multiple attacks in the first round of
+combat because they refresh their action
+as they enter combat um means that you
+are just going to one-shot encounters
+very very easily. You don't have to
+worry about having an ally trigger sneak
+attack because you'll usually do it from
+hiding. So, assassin rogues with their
+automatic criticals and extra actions
+are similar to gloomstalkers or arcane
+archers. Just a game-breaking volley of
+arrows that annihilates enemies before
+they ever get to go. Sorcerers. So,
+sorcerers, of course, excel at ending
+encounters on the first turn. They're
+the action economy class and they're
+burst damage casters. So, they are
+amazing at overloading upfront damage
+and ending encounters before they ever
+begin. As we've said many times, that's
+an extremely potent strategy. And the
+more you invest into that strategy, the
+stronger it gets because the more likely
+you are to end encounters on the first
+turn and not have enemies retaliate
+against you. So sorcerers conceptually
+are really really powerful in multiples
+because the thing that they do linearly
+increasing damage is so strong when you
+continue to increase it. Ending
+encounters on the first turn will often
+save you resources. So even though
+sorcerers are long rest dependent and
+expend a lot of resources on their burst
+damage, they don't have to spend other
+forms of resources because they're not
+taking damage because all the enemies
+are dead. and it doesn't cost you extra
+spell slots that you weren't spending,
+weren't planning to spend in that fight
+cuz something went wrong cuz nothing can
+go wrong if the encounter is already
+over. There are some downsides to having
+multiple sorcerers. That rest dependency
+is still real. They do burn up through a
+lot of resources and they're very
+squishy with fair relatively low hit
+points. So, if enemies do survive,
+they're very likely to be able to bring
+down one of your vulnerable sorcerers.
+The more squishy targets you have on the
+field, the harder it is to position them
+so that they're hard to attack for the
+enemies. So those enemies will usually
+have a good target when you have lots of
+weak casters running around. And that
+can run you into problems if that
+character then goes down from damage
+from the enemies. Like other casters,
+they can also run into some gear
+dependency issues. There's only so many
+save DC items in the game. though
+because a lot of their spells are going
+to be damage spells which enemies still
+take damage if even if they save
+typically and also you get so many tries
+because of quicken spell and because of
+effects like haste that you will usually
+be able to drop enemies even if they
+make their first couple saves. So save
+DCs aren't as important for sorcerers as
+they are for other casters cuz you just
+get more dice uh that the enemy has to
+roll. For that reason, sorcerers, just
+the incredible upfront burst damage that
+sorcerers provide is game-breakingly
+powerful in multiples. Having two
+sorcerers in your party also means that
+your party can be full-time hasted.
+Having four sorcerers can be a little
+bit more challenging, but even then,
+it's still just ridiculous. So, I'm
+going to put both Draconic and Storm
+Sorcerer as game-breaking characters.
+Now, wild magic sorcerer is a little bit
+weirder because wild magic sorcerer
+comes with a lot of positioning
+requirements, and those get harder the
+more you have. When you have to spread
+out your characters a lot to avoid
+blowing each other up with the wild
+magic effects, um, and when you add more
+and more randomness by having more wild
+magic sorcerers, things do get harder,
+but they still have all the other
+advantages that sorcerers have. And the
+positioning requirements for wild magic
+sorcerers aren't that bad cuz casters
+you typically want to spread out pretty
+wide anyways. So it's fine. I'm going to
+put them in the even tier um with wild
+magic sorcerers because they still get a
+bunch of edges but things are a little
+bit harder for them in terms of their
+positioning. Uh, shadow magic sorcerers
+have one significant issue, which is
+that the dark vision, which is a major
+point in favor of shadow magic
+sorcerers, um, is based on actually
+casting their darkness spell. They don't
+get it passively. So, multiple shadow
+magic sorcerers can really suffer cuz
+only one of them will have dark vision
+at a time. There's lots of ways to get
+around this though with blindness
+immunity items. So, I don't think it's a
+significant issue, but it is a real
+issue for the characters. Also, they're
+just slightly less burst damage oriented
+than other sorcerers. So, I'm going to
+say that they also are relatively even
+in multiples because the upsides are
+somewhat tempered by the downsides. Um,
+but sorcerers in general in multiples
+are just incredibly strong. Warlocks.
+So, warlocks have the opposite thing
+that shadow sorcerer does because they
+all naturally come with dark vision. And
+the more characters you have with dark
+vision um or with see through magical
+darkness with devil sight, the better
+that effect is. Being able to see
+through darkness is one of the most
+powerful things you can do in Balders's
+Gate and you want it on your whole
+party. So the more warlocks you have in
+your party, the easier it is to do that
+and the more you get to abuse darkness
+effects. So inherently just because of
+darkness, warlocks stack really well
+together because it lets you abuse that
+extremely powerful strategy much more
+easily. Warlocks also don't have a lot
+of the problems that some other casters
+do. Um they operate on short rests, so
+they're still pretty resource dependent,
+but warlocks do have Eldrich Blast, so
+they always have something good to do.
+And just Eldrich blasting from four
+different characters will often be
+enough to kill an enemy. ranged damage
+that's powerful and reliable remains
+extremely strong. Also, because uh
+warlocks come with slightly more um
+proficiencies, they will not have as
+many gear requirements as other casters.
+So, you will not run into as many gear
+issues and warlocks are just just
+require less gear. The potent robe in
+particular is going to be hotly
+contested when you have multiple
+warlocks in your party. And obviously
+the one that gets it is going to be much
+stronger than the others. But even
+without that item, warlocks are still
+really strong. And the ability to use
+darkness in multiples is excellent.
+Also, warlocks have lots of crowd
+control and can cast highle spells at
+the start of combat. And just like
+damaging enemies, crowdcontrolling
+enemies also scales really well when you
+can do do it more often because each
+enemy that you stun or remove from
+combat in some way represents more of
+the enemies on the field than the
+previous one. So having lots of crowd
+control, having lots of upfront damage,
+not relying particularly on gear and
+having a really really strong synergy
+and a linear strategy that gets better
+the more you invest into it in the form
+of darkness means that I think warlocks
+are generally just much stronger the
+more warlocks you have on the field.
+Hexblade warlocks add to this because
+they get to use resonant stone
+shenanigans to break the game. Multiple
+Hexlades curses also work well for
+hexlade because no matter the origin of
+the hexlade curse. Um the charact any
+character with hexlad's curse will still
+benefit from it. It's not supposed to
+work that way, but there is a a bug
+where another warlock another hexlad's
+curse will still increase the damage of
+um any hex blade on the field. And they
+get the darkness shenanigans and hexlade
+is just broken. So obviously more than
+one hex blade is gamebreaking. And
+finally, wizards. So we've already
+discussed some of the issues that can
+plague having multiple squishy casters
+in a party, and wizards will probably
+suffer from those the most. This
+character is not based around doing tons
+of upfront damage, though it can. Um,
+but is more based around just having the
+right solution to the problem at any
+given time. Once you have the perfect
+solution to a problem, you don't really
+need that perfect solution twice over.
+So the thing that wizards give you,
+which is a tremendous amount of
+versatility and optionality, is not
+something that you necessarily need to
+duplicate. Now, the burst damage spells
+that they have do get better in
+multiples, and the crowd control effects
+that they have do get better in
+multiples for the same reason that
+that's always true. But more than most
+other casters, wizards do suffer from um
+gear uh issues because they really need
+high safe DCs in order to be effective.
+So, having uh conflicts in terms of the
+items that you can actually find is also
+a real issue for wizards. They're also
+extremely squishy with few defensive
+tools. And so wizards are going to be
+probably the most vulnerable type of
+character to having more than one of
+them and having enemies therefore always
+have a good target. They especially
+because some of the best defensive
+options for wizards are items that
+there's only one of in the game and you
+won't be able to put them on multiple
+wizard characters. There's definitely
+some upsides. Having extra copies of
+burst damage spells like wall of ice or
+chain lightning can end encounters
+immediately. And having just more casts
+of things like globe of invulnerability
+means that you could be more um you can
+use it in more combat. So you can
+definitely build parties that have
+multiple wizards in them with very very
+powerful strategies. But in general,
+because wizards are a little bit gear
+dependent, not very gear dependent, but
+they want the same gear as other
+wizards, obviously, and there aren't
+really good ways to get around that. Uh,
+and because they're squishy, and because
+they are not so burst damage heavy that
+they're doubling up on something that
+just ends encounters immediately. I
+think wizards mostly get very slightly
+weaker when you have more than one
+wizard in a party. Again, this doesn't
+mean you can't build a party with uh
+that setup, but it will, I think, make
+the wizards shine just a little bit
+less. So, for most wizard subasses, I'm
+going to say that they do get slightly
+weaker when they're in multiples, but
+there's a lot of variance in terms of
+the impact of wizard subasses. So, some
+of them are going to be a little bit
+different. So, we're going to say that
+conjuration wizards, enchantment
+wizards, um, illusion wizards, and
+transmutation wizards all get slightly
+weaker uh, when you have more than one
+of them in a party. Evocation wizards
+are more or less the same thing. You
+might think that because they're the
+damage focused wizard subclass that they
+would benefit from just being a damage
+character and thus get better in
+multiples, but the main thing that
+evocation wizard gives you in terms of
+damage output is the ability to drop
+your AOE spells on your allies without
+harming them. Um, so it eases the
+positional requirements for mixing
+casters and melee characters. The fewer
+melee characters you have in the party,
+and as you're adding more evocation
+wizards, you're going to have fewer of
+them, the less relevant that ability is.
+So, evocation wizards are still slightly
+weaker. Divination wizards, um, their
+ability doubles up really, really,
+really well. Excuse me. Uh, because
+divination wizards control die rolls.
+And when you have more guaranteed die
+rolls that you can use, uh, those become
+exponentially more powerful the more
+options you have in order to control
+enemy dice. when um you can guarantee
+that more spells are going to succeed or
+more enemy attack roles are going to
+fail. It gives you way more control over
+combat. Now, an all divination wizard
+party is probably not the way to go
+usually, although that would probably be
+pretty fun to play if you could stand
+all the pop-ups. But having more than
+one divination wizard in a party gives
+you enough additional tools that I'm
+going to say that those go in the even
+tier, even though they do suffer from
+the other issues that plague wizards
+when you have more than one of them.
+Bladinger wizards actually synergize
+with one another quite a bit. They're
+more burst damage oriented with the
+blade song climax. they have the attacks
+that they can actually do in order to do
+damage. So, you're less allin on being
+able to cast a powerful spell to end
+combat immediately when you've got
+multiple blades singer wizards running
+around. They still have the same issue
+with squishiness, but they are um in
+general going to work pretty well
+together. So, I'm going to say that
+blade song wizards actually become
+slightly stronger when used in
+multiples. They become way stronger when
+used in multiples. Also, if you're doing
+shadow blade as your main attack source
+for multiple blade song wizards, and
+then they can all benefit from the
+resonance stone. Obviously, psychic
+damage parties are incredibly strong
+given the resonance stone presence in
+Balders's Gate 3. Necromancy wizards
+have sort of a bizarre problem because
+um having lots of summons running around
+is obviously pretty powerful, but
+necromancer wizards, if you have more
+than one of them in a party, run into a
+pretty serious issue that can make your
+party struggle a lot, and that's running
+out of corpses. There are only so many
+dead bodies in Balders's Gate 3. And
+being able to summon um expendable
+zombies and stuff like that, which will
+die pretty frequently in combat, is
+something that you actually can't always
+rely on if you have lots of necromancer
+wizards running around or lots of
+characters that want to use corpses for
+summons. So, uh just because of that and
+just the corpse shortage issue that
+you're going to run into, it's a funny
+problem to have, but it does make
+necromancy wizards much weaker in
+multiples. And finally, everyone's
+favorite character um for breaking the
+game, Abjuration Wizard does it again.
+Having more than one abjuration wizard,
+not only are they super powerful on
+their own, but enemies will simply just
+not be able to attack anything. If your
+whole party is abjuration wizards, they
+have no targets that are uh valuable to
+hit. Um, abjgeration wizards in
+multiples will cause the enemies to
+simply skip their turn entirely um, very
+frequently because they will often just
+not have anything to attack. They aren't
+gear dependent or anything like that cuz
+all you need to do is just have Armor of
+Agthus and run around with Arcane Ward
+up and you become immune if your whole
+party is effectively immune to damage.
+Turns out the game is pretty easy. So
+abjuration wizards of course are going
+in the gamebreaking tier. And this is
+one where they'll literally break the
+game as in the AI will stop working at
+all when you have multiple abjuration
+wizards in a party. All right, my
+friends. I hope that you've enjoyed this
+tier list. This was a little bit more of
+a theoretical or conceptual exercise
+than a lot of my tier lists cuz we're
+really focused on drilling down into how
+characters operate and whether that's
+something that you are interested in
+doubling up on, whether it gets better
+when you have more of it or whether it's
+something that you want to complement
+other strategies in your party. Um, and
+I think that's a way that can be
+extremely helpful to think about
+characters that isn't often discussed. I
+don't think anybody else has done a
+similar tier list to this as far as I'm
+aware. So hopefully this gave you some
+interesting ideas for building your
+parties and new ways to think about the
+game that could maybe help you um find,
+you know, winning lines for honor mode
+or just construct fun, interesting
+parties that you really want to try out.
+If you have enjoyed the video, of
+course, feel free to hit like and leave
+a comment. Those actions help me a ton
+with the algorithm. And if you think
+that there's any characters that should
+be moved around um or anything that I'm
+missing or concepts for these characters
+that you have that would make them
+stronger or weaker when taken in
+multiples, definitely let me know in the
+comments. These are very much jumping
+off points for discussion obviously. Um
+and there's lots of different ways to
+build characters, so I'm interested to
+hear your thoughts. Of course, as
+always, you can subscribe to my channel
+for more Balders's Gate 3 guides and
+other strategy game analysis. Thank you
+for watching and I'll catch you next
+time.

@@ -1,0 +1,1642 @@
+Hello my friends and welcome back to
+another Balders's Gate 3 tier list and
+guide. Hope you're all doing well. Today
+we're continuing my updated ultimate
+guide to spells with the level two
+spells. Level two spells are where
+spellcasters start to really come into
+their own. It's where you start getting
+a lot of the awesome damage, area of
+effect attacks, and game-changing crowd
+control and utility spells that really
+make spellcasters so powerful. Level two
+spells also include a lot of really bad
+spells. So, it's where choosing the
+right spells to learn and cast starts uh
+significantly impacting how effective
+your character is. I've already
+discussed the rating system, my
+assumptions, and what each of the tiers
+mean in part one. So, we're just going
+to get right into it. Before I do
+though, I do want to quickly take a
+moment to say thank you so much to Aon
+for the $5 donation, Tarantula for the
+$10, Tardemate for the $10, and Nardo
+and Courtney for becoming channel
+members. Thank you so much, my friends.
+I really appreciate the support. All
+right, let's talk level two spells.
+We're going to start with Aid. Aid is a
+buff spell. its area of effect and gives
+every ally within 30 ft of the caster,
+including the caster themselves, plus
+five maximum hit points. This is
+distinct from other forms of healing or
+temporary hit points because this
+actually increases your health point
+maximum. So, if you then take damage,
+you can heal back up to your new
+maximum. So, it basically just increases
+the overall total hit point pool of your
+party. At default, this means that in a
+four-person party, if you cast aid,
+you're gaining plus 20 hit points for
+the entire day. Uh, which is uh for a
+level two spell slot an okay rate, but
+not something to be super excited about.
+But where aid really starts to shine is
+when you increase its effects. When you
+upcast this spell, it gives an extra
+five maximum hit points per level that
+you upcast it by. So, with a third level
+spell slot on four characters, you're
+getting 40 HP on your party. And with a
+sixth level spell slot, you're getting
+100 extra hit points across your party.
+That's already pretty good. But
+critically, aid is not limited to just
+your four party members. It affects
+every allied creature within the radius.
+So if you have summons, then those will
+also gain the extra maximum hit points.
+While increasing a 20 HP character's
+health to 25 is not that exciting,
+increasing a 10 HP summons health to 20
+probably means it can take one hit
+before dying. So aid when used with any
+summons multiplies the effectiveness of
+this spell dramatically. So, when you
+start upcasting this spell and using it
+on more characters than just your core
+party members, this spell starts to give
+you an enormous amount of extra
+survivability across your party and also
+multiplies the value that you're going
+to get out of very powerful spells like
+summons. Obviously, when a summon dies,
+you lose access to the spell. So,
+increasing its health means you're going
+to get way more value out of the spell
+slots you spent on whatever summon
+you're boosting. Aid also works on every
+type of summon, even ones that normally
+can't be healed. So, undead can have
+their maximum hit points increased with
+aid. Uh, the guardian of faith can have
+its maximum hit points, which can let it
+get extra attacks because it will be
+able to survive more self damage. So,
+there's a lot of uh cool synergies that
+this spell has, but mostly you're just
+getting a boatload of hit points um
+across your party for the entire day
+when you cast it. It's a dayong
+non-conentration spell, which means that
+you can get value from it all day
+without sacrificing anything other than
+the spell slot. And obviously, that's
+always pretty powerful. The question is,
+is a purely defensive ability like this
+worth spending spell slots on? And the
+answer is yes. Aid gives you so much
+extra safety, even if you're only using
+it on four characters, that it's very
+much worth just sacrificing one spell
+slot. Usually what I like to do is cast
+this using uh spells of whatever the
+second highest level spell I have
+available is. So at maximum level, I'll
+use a fifth level spell slot on aid. If
+my party is say level seven, I'll use a
+third level spell slot on aid in order
+to boost my party but still have
+powerful resources for the fight. This
+spell can also be used by campcast
+casters and it's one of the best to use
+from a character that stays at camp
+because it works just fine even after
+the character has left the active party
+and you can get a huge amount of extra
+hit points basically for free. But even
+if you cast this from your active
+party's spell slots, the amount of extra
+hit points you get even on just four
+characters is amazing. And if you
+multiply that across additional summons
+and everything, the survivability you
+get from this spell is ridiculous. It
+just gives you so much extra safety, so
+much extra leeway to make mistakes, and
+of course, gives you tons and tons of
+extra value from any summons that your
+party is using. So, aid, I think, is
+just a pretty easy S tier spell. Arcane
+lock. Arcane locks a door or chest. It
+you cast it, it lasts forever, and that
+door or chest can no longer be opened.
+You can't lock pickick it or use knock.
+So, if you want to get the thing open
+again, you're going to have to break it.
+Locking a chest in Balders's Gate is
+useless. Um, nobody ever tries to steal
+from your camp or anything like that, so
+locking a chest has no functional value.
+But locking a door in Balders's Gate can
+be pretty useful. There's a lot of
+fights where there are doorways nearby,
+and if you can lure some portion of the
+enemies through the doorway and then
+close and lock it behind them, you can
+divide the fight in half. Previously in
+Boulders's Gate, enemies would uh just
+bug out and enemies on the other side of
+the arcane locked door would just stop
+acting. So, I considered this to be bug
+abuse. Uh, but they've fixed that and
+enemies will now try to actually break
+down the door. So, Arcane Lock can buy
+you a turn or two while enemies break
+down the door where you're only fighting
+half of the encounter. There's also a
+couple story events where enemies run
+through a door and you can use it to
+cheese those encounters to stop them
+from getting to the lever that they were
+going to pull or the escape tunnel that
+they were going to run through if you
+lock the door before they can go through
+it. So, there's some story events and uh
+in some combat arenas, you can use this
+to divide enemies in half. That being
+said, this is still a relatively rare
+feature of an arena is a door that you
+can both conveniently close and then
+cast arcane lock on for actual value.
+So, this bow won't come up that often,
+but it will make you feel really, really
+smart when it does. I'm going to give
+Ctier to Arcane Lock because it
+definitely has some uses. Mostly I think
+the use is making the player feel really
+clever for finding a way to use this
+spell. But when you do find a way to use
+the spell, uh it does definitely give
+you some advantages. Bark skin. Bark
+skin is a dayong concentrationbased buff
+spell. So you cast it on an ally and how
+it works is if a character's armor class
+after all other bonuses are applied is
+less than 16, bark skin will increase it
+to 16. So, it doesn't do anything on
+characters that have 16 or higher AC,
+but if you have less than 16, it'll
+boost it up to that value of 16. There's
+a couple weird interactions where you
+can get 17 with bark skin, but mostly
+it's just going to give you 16 AC. This
+uh would be okay, I think, if it didn't
+take your concentration because while 16
+AC isn't great, and a lot of characters
+are just going to have 16 AC right out
+of the box, just using their normal
+non-magical gear, there are some
+characters that would have lower than 16
+AC that could benefit from boosting it
+up to that, even at the cost of a level
+two spell slot. But given that you have
+to concentrate on it all day, if the
+character who is concentrating on it
+takes damage, you might lose your armor
+class. If you're casting it on yourself,
+it's a defensive concentration spell
+that you can lose if you take hits. Uh,
+and 16 AC just isn't that good. The
+expense of spending a level two spell
+slot and a concentration on this weak,
+purely defensive buff just is not
+justified. So, you should pretty much
+never cast this on a party member. You
+can also use the spell on a wild shape
+form or a summon, some of whom have much
+lower than 16 AC to boost that up, but
+again, you're spending a level two spell
+slot and a concentration on still not
+achieving an armor class high enough
+that most enemies won't hit you anyways.
+16 AC just isn't high enough that you'll
+reliably not get hit. So, it will just
+not impact how much damage your
+character or summon or wild shape form
+or whatever is taking that often. Uh,
+and this is a very expensive spell to
+cast, requiring your concentration and a
+level two spell slot. It's just not
+worth it. Dier. Next up, blindness.
+Blindness is a debuff spell, and it's
+not concentration and lasts for 10
+turns, which makes it pretty unique in
+Balders's Gate. There are very few
+spells that apply debilitating effects
+to enemies and aren't concentration. And
+there's also very few debuff spells that
+last for 10 turns. So, blindness is kind
+of unique in that sense. It's also a
+range spell. You can target it at
+enemies up to 60 ft away, which makes it
+very easy to cast as a range spell with
+no concentration requirement. It's very
+low opportunity cost to cast this spell.
+You cast it on an enemy and they have to
+make a con save or they become blinded.
+Blinded means that they have
+disadvantage on all their attacks,
+attacks against them have advantage, and
+they can't target anything further than
+10 ft from them, which can stop them
+from jumping, using ranged attacks,
+casting spells, and so on. So, it's a
+pretty solid debuff and you can hit an
+enemy with it and then it's a set and
+forget spell. You cast it on an enemy
+and you don't have to concentrate on it.
+Every turn they get a new con save to
+dispel the effect. So, it probably won't
+last more than a few turns before
+they'll eventually make a save, but that
+will be enough time that you'll probably
+win the fight because a solid debuff
+like that on an enemy for a few turns is
+still pretty good. You can also upcast
+this spell in order to hit more targets
+with it. Each level increases the number
+of targets, so you can hit uh a fair
+number of enemies in a given encounter
+with blindness.
+It's a pretty solid package. Not
+concentration, decent debuff, uh easy to
+use and everything. But there is one
+sort of major drawback to the spell or
+one thing that kind of holds it back as
+a spell um that you might want to use,
+which is just that it's a little bit
+redundant with other possible effects.
+If you want to blind enemies, fogcloud
+or darkness both do that with no saving
+throw at all. So, when you're trying to
+get blindness on an enemy, those will
+often be your go-tos. And if you're
+going to land a debilitating saving
+throw targeting effect on an enemy, you
+often just want to spend your
+concentration and make that a really bad
+one like old person or not use your
+concentration and make that command,
+which obviously is going to win the
+fight more easily than blindness. So,
+while this is a pretty solid spell and
+the actual effect is very good, it is
+just a little bit outclassed by other
+debuff spells. That being said, the fact
+that it targets constitution uh does
+give it an interesting spot against
+enemies with really good wisdom saves.
+This may be your best bet at getting a
+debuff on them. And some enemies are
+immune to incapacitation effects, but
+not immune to blindness, so you can land
+it on those. So, it does have some use
+in some encounters. Death clerics in
+particular will get good use out of
+blindness because they get it as a
+domain spell. So they don't have to
+spend a spell prepared slot on it. They
+just always have the option to use it.
+So they'll cast it pretty frequently.
+Other characters may prefer to prepare
+more reliable debuff spells. I'm going
+to give Blindness B tier, although I
+think it's a fairly high B tier and and
+would not be opposed to putting it in A
+tier. Um because any non-conentration
+debuff is just really interesting. But a
+lot of the time, you're going to want to
+use another spell instead of it. Blur.
+Blur is a concentration buff spell. You
+can only cast it on yourself, and it
+lasts for 10 turns. And for those 10
+turns, it gives all attacks against you
+disadvantage. So, enemies are much less
+likely to critically hit you and just
+much less likely to hit you overall.
+This is a pretty solid buff. Um, held
+back a little bit because you can only
+cast it on yourself. So, wizards and
+sorcerers will typically not want to use
+blur on themselves. they have better
+things to concentrate on. And if they do
+want to use a defensive spell like this,
+they're going to use mirror image, which
+gives you more defensive capabilities
+and doesn't cost your concentration.
+However, blur does have some pretty nice
+uses for marshall characters. It's
+available to hexlade warlocks who uh may
+want to concentrate on blur, especially
+if they're fighting enemies who are
+immune to blindness or darkness, their
+normal way of giving enemies
+disadvantage. Blur can give your hexlade
+warlock a ton more survivability and
+they're going to be up in the mix giving
+and and you know trading blows with the
+enemies. So giving enemies disadvantage
+on attacks against them will increase
+their survivability a lot. Uh Eldrich
+knights in particular get a lot of value
+out of blur. It's a spell available to
+them and their level two spell slots are
+just not that valuable and their
+concentration usually isn't that
+important either. So giving all enemy
+attacks disadvantage can make your
+Eldrich Knight extremely hard to kill.
+Between their heavy armor, shield
+proficiency, and the fact that they have
+the shield spell or hex blades with
+medium armor, shield proficiency, and
+the shield spell disadvantage on attacks
+to prevent critical hits and prevent
+enemies from attacking can give these
+characters a tremendous amount of
+survivability. So, while I would almost
+never use this on a sorcerer or wizard
+because mirror image is going to be
+better, hex blades and eldrich knights
+can get a decent amount of use out of
+blur. It is still a purely defensive
+buff. So, it's not going to win fights
+on its own, but it can be very useful in
+fights where you're going to just get
+this character attacked a lot. You can
+get a lot of value out of giving enemies
+disadvantage on all of those attacks and
+keep that character alive for much
+longer. I'm going to give it B tier
+because you won't use it every fight or
+on every build, but for the builds and
+fights that it's good for, it's very
+solid. Branding Smite. Branding Smite is
+a paladin smite spell, so it's made as
+part of a weapon attack. It takes your
+bonus action and your concentration and
+does 2d6 extra radiant damage. Then, as
+long as you maintain concentration on
+it, the enemy that you hit can't turn
+invisible. That's the only effect of
+concentrating on this. So you don't
+really need to use to to maintain
+concentration on this spell. Most
+enemies can't turn invisible anyways. So
+the effect of the ongoing effect of
+branding smite isn't that important.
+Obviously 2d6 radiant damage from a
+smite spell has to be compared to what
+if we just use this level two spell slot
+on divine smite which would do 3d8
+damage. 3d8 is 13 1/2 average damage
+whereas 2d6 is seven average damage. So,
+you're basically doing half as much
+damage for the same spell slot in
+exchange for also wasting your
+concentration and bonus action and uh I
+guess stopping enemies from going
+invisible, but you can just splash some
+water on them if you want that effect.
+Branding smite is trash. If you use it
+in melee, just use divine smite instead.
+If you want to use two smite spells in a
+turn, thunderous smite uses a level one
+spell slot for the same amount of
+damage. There's a couple things that are
+a little interesting about this. It's
+radiant damage, which you might think
+would be good for radiating orbs, but uh
+again, you're making this as part of a
+smite attack almost certainly, and it
+won't do more radiating orbs cuz it's
+still part of the same attack. Um, and
+you can use it on ranged attacks. So, if
+you're trying to do a ranged paladin
+build, I guess this is the the go-to
+smite, but even for a ranged paladin, I
+don't think you're going to cast this
+very often. D tier, uh, it's just a
+damage spell that does crappy damage.
+Calm Emotions. Calm Emotions is a
+concentration-based AoE buff
+slashdebuff. It has a 20 foot radius, so
+you can hit a huge amount of stuff with
+it, usually your entire party and all
+the enemies in an encounter if you're in
+a relatively small encounter. And it
+prevents creatures who are under the
+effect of calm emotions from being
+charmed, frightened, or raging. Immunity
+to charm and frighten is very valuable
+for your party in a bunch of encounters.
+There's a lot of specific encounters
+where enemies can charm. The first one
+that most players will encounter is
+probably the harpies, and calm emotions
+just prevent the unique mechanic of that
+fight from hurting you. Um, and there's
+a lot of other fights where enemies
+charm or frighten you, and calm emotions
+will prevent that as well. Having fear
+immunity is really good in Balders's
+Gate. I talked about this with
+protection from evil and heroism
+already, and calm emotions gives it to
+your whole party. It does cost your
+concentration and a level two spell
+slot, but uh for fights where it's
+relevant, it's very much worth having
+this active. It also can be used to
+prevent enemies from raging. Not only
+does that turn off enemy barbarian
+rages, there's a lot of effects in the
+game that are classified as rages. And
+although calm emotions in its
+description says it only works on
+humanoids, that's actually not true at
+all. It works on anything. So any enemy
+that has a effect that counts as
+enraging itself, you can prevent that
+effect with calm emotions. In honor mode
+in particular, there's a lot of bosses
+that have legendary actions that count
+as entering a rage. And calm emotions
+will prevent those bosses from taking
+those actions. So for specific fights
+where enemies rage or where you're at
+risk of being charmed or feared, Palm
+emotions is just going to be one of the
+best options available to um debuff the
+enemies or buff your allies so they can
+ignore those effects. A lot of these
+fights are kind of puzzle fights or um
+uh do you have the right answer checks
+and calm emotions is the right answer,
+so it's going to just solve those
+encounters. For encounters where none of
+those effects happen, it's obviously
+useless. So you only bring it into an
+encounters. You only bring it into
+encounters where it's good. But in the
+encounters where it's good, it's very
+good. B tier for calm emotions. Uh only
+because it doesn't get used for every
+encounter. But for the encounters where
+it's great, it really is great. Next up,
+Cloud of Daggers. I think Cloud of
+Daggers is a lot of players first moment
+where they go, "Oh, this is why I have a
+spellcaster in the party." Because Cloud
+of Daggers just wins fights.
+It's a groundargeted uh area of effect
+spell. It has a 7 foot radius, which
+isn't the biggest radius, but is still
+pretty decent. Uh so you're going to
+usually hit two and often three enemies
+in it, maybe even more in a fight where
+that's tightly clustered. Uh, and it
+does 4d4 slashing damage both when you
+cast it and at the beginning of the turn
+or when they enter uh the cloud of
+beginning of turn of creatures inside it
+or when they enter the cloud of daggers.
+For D4 is 10 average damage. And
+importantly uh because it's a bunch of
+D4s, it's usually going to roll a number
+that's very close to 10. um which makes
+this a much more reliable spell than a
+lot of other damage spells which can
+have a lot of variance in how much
+damage they do. Having a very tight
+range around the center of the damage
+distribution is good for a spell cuz it
+lets you plan around how much damage
+it's doing more easily. So you can
+usually rely on cloud of daggers to
+actually kill stuff. But it's not just
+10 damage because it does that 10 damage
+both when you cast it um on the enemy
+and again at the beginning of their
+turn. So, Cloud of Daggers does really
+8d4 damage before the enemy ever gets to
+act. Cloud of Daggers is actually the
+third best damage spell at second level.
+Even if it only hits one target, it does
+uh only two less damage than Moon Beam
+and only one less damage than Scorching
+Ray. And both of those have saving
+throws and hit chances. And Cloud of
+Daggers has neither. The important thing
+about this spell, in addition to
+everything else that I've mentioned, is
+that there is no saving throw. There's
+no hit roll. There is no way other than
+being immune or resistant to slashing
+damage to avoid taking the damage from
+Cloud of Daggers. So, when you initially
+cast it, it just works. It just does the
+damage and is going to kill or vastly
+injure enemies before they take their
+turn. If an enemy gets out of it, you
+can push them back into it for more
+damage, and then when they start their
+turn again, they're going to keep taking
+damage. So, Cloud of Daggers will not
+only do tons of initial burst damage, it
+also will continue to do damage over
+long fights. If you have ways to keep
+enemies inside of the Cloud of Daggers,
+like say you put it on top of uh a
+couple of the spells that we're going to
+talk about later, like spike growth,
+then you can often get multiple turns of
+value off of this spell, but you don't
+need to. Even just casting it on three
+enemies, it's going to be 60 damage for
+a second level spell um before they get
+to take their turns, which is an
+incredible damage ratio, even more so
+when you take into account the fact that
+there is no way to avoid that damage.
+Like magic missile, this spell just
+always works. If you can't tell,
+obviously this is an S tier spell. Um,
+Cloud of Daggers is just the go-to
+damage spell for spellcasters at low
+levels and will remain useful throughout
+the entire game. Guaranteed damage is
+always great and this is an amazing
+source of it. Um, and even despite being
+an AoE spell, is good for single targets
+and also good for AoE, just one of the
+best spells in the game. Crown of
+Madness. Crown of Madness is a single
+target concentration-based debuff spell.
+lasts for up to three turns. You cast it
+on an enemy and they have to make a
+wisdom save and if they fail it, they
+get the crown of madness condition. Now,
+the crown of madness condition says that
+the creature is instilled with magical
+madness and will attack the nearest
+creature other than the spellcaster. But
+what it actually does is literally none
+of that. The description for this spell
+is completely a lie. How Crown of
+Madness actually works is that when the
+enemy fails the saving throw, then for
+three turns, they use the madness AI
+package, which is going to come up a
+couple times as we talk through the the
+spells tier list. And the madness AI
+package does a few things. It overwrites
+the normal target priority for uh
+enemies and replaces it with they can no
+longer distinguish between enemies and
+allies. So they they will try to hurt
+their allies as well as your party
+members. they no longer care about doing
+self-damage to themselves. So, they're
+going to throw grenades um even if that
+would catch them in the AoE. Uh so,
+they're going to use AoE spells a lot
+more freely. And they no longer
+prioritize the normal things that enemy
+AI will prioritize doing like raking
+concentration on your casters, targeting
+low hit point creatures, or uh targeting
+enemies with low armor class. So,
+basically, it ruins all their targeting
+priorities. And what that means in
+practice is that they're going to if
+they have the ability to do an AOE burst
+damage effect, they're going to throw
+it, usually damaging themselves as well
+as others. Um, and if they just have
+melee weapons, they'll probably just go
+after the nearest target to themselves,
+but sometimes they won't, and they'll
+run off after another target. There is
+also nothing stopping them from
+attacking the caster, even though Crown
+of Madness uh claims that it stops them
+from attacking the caster of the spell.
+That's not true. they still can target
+the caster. So, when you put it all
+together, what you have is a powerful
+but very unreliable debuff. Sometimes
+you'll cast Crown of Madness and the
+target will just take out all their
+allies for you, which will be awesome.
+But sometimes you'll cast it and they'll
+just continue acting normally and
+attacking your party members and the
+spell will have done nothing. Except the
+Crown of Madness also has a secondary
+effect which isn't mentioned anywhere,
+which is that while a creature is
+affected by Crown of Madness, their
+former allies treat them as hostile. So,
+they're going to consider them a hostile
+target. That means that you can often
+cause enemies, especially if you use
+Crown of Madness and then back off out
+of sight so that the the enemies are the
+only things in sight of one another, um,
+to attack each other. You can cast this
+on a boss and if they fail, the ads in
+that encounter will often all turn on
+the boss and maybe just kill the boss
+for you without you having to engage in
+the fight against the actual boss. Uh,
+and you can cast this on a bunch of
+enemies with AoE effects to get them to
+all blow each other up and maybe then
+you make a previously very difficult
+fight much easier. In fights that are
+just kind of a straightup brawl between
+your party and the enemies, Crown of
+Madness is not very good because a lot
+of the time your party members are still
+going to be the highest priority targets
+for enemies cuz you will often be
+concentrating on spells or have low AC
+and stuff like that. So that enemies
+that are using the normal targeting
+rules will still go after you. But in
+any fight where you can arrange it so
+that the only things that they can see
+are the Crown of Madness characters, you
+can often get a ton of value out of
+Crown of Madness by having enemies kill
+each other. So, this is a still a fairly
+unreliable spell. Um, there are
+definitely cases where you're going to
+cast this spell and all it will do is
+make the enemy use all their grenades on
+you and you'll be very sad that you cast
+it. Uh, but when it goes well, it goes
+really well. So, there are cases where
+you can use this spell to just win
+encounters outright. You have to be
+careful and judicious in when you apply
+it. So, I'm going to give it B tier, but
+the effect of this spell is quite
+powerful. Next up, darkness. Darkness is
+a cloud spell similar to fog cloud. Just
+like fog cloud, you place it on the
+ground and it makes a circle in which
+everything is blinded uh and heavily
+obscured. However, there are two major
+differences um between darkness and fog
+cloud that are very important. The first
+is that darkness prevents ranged attacks
+into or out of it. So creatures inside
+the darkness can't make ranged attacks
+out at anything that's outside of it.
+And anything that's outside of it can't
+make ranged attacks at anything in the
+darkness. This is obviously incredibly
+powerful. If you put it on an enemy
+ranged attacker, they just won't be able
+to attack until they can get out of the
+darkness cloud. And if you put it on
+your party, then you gain complete
+immunity to enemy ranged attackers as
+long as you end your turn inside the
+darkness. Even without the ability to
+ignore the darkness, which I'll get to
+in a second, this gives you an
+incredible fortress strategy that lets
+you completely ignore enemy ranged
+attackers by just moving your party
+members out of the darkness, firing off
+their attacks, and then having them move
+back in in order to end their turn
+inside of it where enemies will not be
+able to retaliate. If there's a way to
+stop enemies from getting to you, like
+you're fighting across a chasm or a pit
+or something, or from high ground onto
+low ground, then this just lets you make
+all of your ranged attacks with impunity
+while enemies can't do anything back to
+you. The second thing that makes
+darkness different from fog cloud is
+that characters with devil's sight, the
+warlock uh class feature, will be able
+to see through the magical darkness. So
+they become immune to the negative
+effects of darkness that allows them to
+attack into and out of clouds of
+darkness and it gives them immunity to
+the blind uh for creatures that are
+inside darkness. This is the source of
+one of the most powerful strategies in
+Boulders's Gate 3 bar none which is
+darkness abuse alongside blind immunity
+and devil's sight in order to have your
+party be immune to darkness while
+enemies are suffering the full effects.
+If you have your whole party able to see
+through the darkness somehow, then uh
+your whole party gets advantage on all
+of their attack roles because they're
+heavily obscured, so enemies can't see
+them. Enemies have disadvantage on all
+their attack roles, even if they enter
+the darkness to come after you cuz
+they'll be blinded. And enemy ranged
+attackers can't do anything. So, it
+gives you complete immunity to ranged
+attackers, advantage against every melee
+attack, and enemy melee attackers get
+disadvantage on their attacks against
+you. The only thing that you really have
+to worry about when you're using this
+strategy is area of effect attacks, but
+other than that, you have a massive
+advantage against like 80% of the
+enemies in the game. That's obviously an
+absurdly strong strategy that a lot of
+uh parties are built around abusing, and
+this spell is the core of that. Now, you
+don't necessarily need to cast the
+actual darkness spell. You can use
+arrows of darkness fired by a character
+and they make a darkness cloud for two
+turns. But just like with bless and
+bottles of grease, the arrows of
+darkness don't entirely replace actually
+casting the darkness spell. They only
+last for two turns, whereas the actual
+spell you can concentrate on for up to
+10 turn and they have a much smaller
+radius. So uh the actual darkness cloud
+will cover a lot more area and give you
+a lot more tactical flexibility. It also
+won't cluster your party as much for
+area of effect attacks. So, you
+definitely, if you're using darkness,
+still want access to this spell. Even if
+your part is not built around this
+though, any fight with enemy ranged
+attackers, you can just use darkness to
+just win that fight outright. So, this
+spell is absurdly powerful. There's also
+a lot of honor mode fights where
+darkness just solves the encounter by
+making enemies come to you. There are
+enemies who can't move, who you can cast
+darkness on, and then they're just stuck
+in it. Uh, and that just ruins their
+entire day. Um, especially if they're an
+enemy who is usually making ranged
+attacks. Like enemies up on top of a
+pillar who fire attacks can't get out of
+the darkness and then they just can't
+fight. Uh, and it has no saving throw.
+So, uh, and all of the effects of fog
+cloud as well. So, you can use it to
+hide, you can use it to blind things,
+you can use it to steal stuff, whatever.
+It's a little redundant with fog cloud
+in those cases, but the utility is still
+there. S tier for darkness, uh, both for
+its just normal uses and also as a
+source of one of the games strongest
+strategies, dark vision. Dark vision is
+a dayong non-conentration buff that lets
+you see in the dark. Cast it on a
+creature and they can see in the dark up
+to 40 ft. Importantly, this does not
+include magical darkness from the
+darkness spell, just normal unlit areas.
+In Boulders Gate 3, most arenas are lit.
+And if one isn't and you need to see in
+the dark, you can use the light cantrip
+or a light source to just be able to
+light the area. So most of the time dark
+vision isn't going to come up. The fact
+that it only has a 40ft range is also
+pretty painful cuz the only type of
+character that would want this effect is
+probably a stealth archer or something
+like that who will want to be further
+than 40 ft away from their target. So
+they won't benefit from dark vision
+either. In the very rare circumstance
+where you don't want to light it in
+arena but can't see in the dark cuz a
+lot of races have natural dark vision,
+there are plenty of other ways to get
+this effect. I guess just use a scroll.
+Don't waste your spell slots on this
+spell. Dtier. Next up, detect thoughts.
+Detect thoughts is a dayong
+concentration ritual spell, so you can
+use it outside of combat without
+spending a spell slot. And since it's
+used for conversation, you're usually
+going to be outside of combat when
+you're casting this spell. and it lets
+you read a creature's thoughts. Now,
+obviously in dialogue, this is only
+going to come up when the developers
+have scripted in a use for detect
+thoughts. You can't just use it all the
+time, but there are a lot of uh
+conversations in the game where you can
+use detect thoughts to learn some
+information. Weirdly though, when it
+comes up in dialogue, something like
+half of the time, it's actually less
+useful than just making a skill check or
+just choosing another dialogue option.
+And it comes with a risk. When you cast
+attack thoughts, you have to make an
+intelligence check. The description says
+intelligence or wisdom, but it always
+uses intelligence. Uh, and if you fail,
+the target might become hostile. So, you
+have to be careful about when you
+actually use the spell in dialogue. And
+in general, I think it's just not worth
+it. Um, it will sometimes fail and and
+it'll fail more often than making just a
+charisma check or whatever. Um, you
+know, using a dialogue skill. Uh, and
+it's more effort. Some enemies are
+immune to the effects of detect thought
+or some characters are immune to the
+effects of detect thoughts. And just in
+general, the developers just haven't
+written in enough use cases for this
+spell to make me want to use it in
+dialogue. Though it's a ritual, so it
+doesn't really have a cost to do so. The
+real use for this spell, though, is just
+that it is a dayong concentration ritual
+spell. So you can cast this at any time
+and it gives you something to
+concentrate on all day that didn't cost
+you any resources. You can get this
+effect from cantrips like resistance or
+guidance which are concentration can
+trips but those only last 10 turns.
+Detect thoughts you can use anytime and
+then you'll be concentrating on
+something all day long which can be
+useful for using the strange conduit
+ring which does extra damage when you're
+concentrating on a spell or for
+dispelling this to use the concentrated
+blast illithid power. Detect thoughts is
+the best way to use concentrated blast
+because it's free. So you can just uh
+constantly recast it and then just use
+concentrated blast on the first turn of
+combat. Especially good if you have
+gotten the zithisk buff and can use uh
+powers as a bonus action and detect
+thoughts is just the best way to be able
+to trigger that. So for the actual use
+of the spell, I think it's kind of a
+C-tier spell cuz it it really does not
+come up as often as I would like it to
+in dialogues. But the fact that it lets
+you use these concentrationbased effects
+for free actually bumps the spell up to
+B tier. Kind of some weird emergent
+gameplay here. But getting concentrated
+blast without canceling an actual
+concentration spell is pretty valuable
+for some builds. Next up,
+enhanceability. Enhanceability is a
+concentration-based dayong buff spell.
+uh you cast it on a target and you
+choose an ability score and then when
+they make a skill check using that
+ability score they gain advantage on the
+skill check. So cast it on dexterity
+they have advantage on lockpicking cast
+it on charisma they have advantage on
+persuasion and bluffing and so on. You
+can use this in response to a skill
+check just like with friends or
+guidance. So uh if you are in a dialogue
+and have to make a skill roll you can
+use enhancability in order to gain
+advantage on that skill role. By
+default, this isn't an amazing trade for
+most skills in the game because the most
+important skill checks in Boulders's
+Gate 3 come in two categories. Dialogue
+checks, which you can use friends or to
+gain advantage on and not spend a level
+two spell slot on. So enhancibility is
+kind of wasteful when you use it on
+charisma checks and um out of combat
+lockpicking and disarming checks uh
+which obviously give you mechanical
+benefits because they will let you get
+more treasure or take less damage and
+things like that. But the gloves of
+thieving exist which also give you
+advantage on those checks. So most of
+the time you have ways to get advantage
+on the important skill checks in the
+game that don't cost you a level two
+spell slot. However, there are some
+points in the game where you're going to
+make important skill checks that are not
+otherwise easy to gain advantage on, and
+enhance is invaluable for succeeding on
+those. In particular, in act three,
+there's some huge mechanical advantages
+that you can get from the right skill
+checks, and you're definitely going to
+want enhance available in order to make
+those more reliably. There's also quite
+a bit of peace of mind from having this
+spell prepared if you forgot that a
+skill check was upcoming or if you just
+really want to roleplay your character
+as being able to pass knowledge history
+checks or whatever. Um, enhancability
+does make you more likely to be able to
+do that. So, uh, even outside of the
+mechanical benefits of this spell, there
+are definitely some benefits from having
+it prepared. As you gain more and more
+experience playing the game and learn
+where important skill checks are and
+stuff like that, you're going to use
+this spell less because you're mostly
+going to spend it on the important ones
+and have other sources of advantage or
+not worry about advantage for the other
+checks. Um, but enhancability is still
+very powerful for the checks that it's
+good on. I will also mention that I
+think that a lot of people value this
+spell much higher than I do. If you long
+rest more frequently, the level two
+spell slot is a much less impactful
+resource to spend. Uh, and if you care
+about passing skill checks even when
+they don't give you a huge mechanical
+benefit, then enhance is obviously
+really nice for them. So, I'm going to
+give this B tier because um, from a
+strict mechanical standpoint, you're
+only going to cast it a couple times a
+playthrough and it'll be good when you
+do. Um, but it can often be nice to have
+this spell prepared just to make sure
+that you have it available when there's
+a skill check that comes up that you
+want to pass. Enlarge reduce. Enlarge
+reduce is a modal spell uh, which you
+can use to either make a creature bigger
+or make them smaller. It's concentration
+and lasts for up to 10 turns. And if you
+cast it on somebody that's not a party
+member, they get a constitution save to
+resist the effects of the spell. I'll
+talk about each of these two effects in
+turn. If you enlarge a creature, a
+couple things happen. It gets physically
+bigger and heavier, which actually does
+matter. Um, it gets to carry more stuff,
+gets advantage on strength saves, and
+most importantly, gets plus 1d4 damage
+on all of its weapon and unarmed
+attacks. Plus 1d4 damage per attack is
+not a bad buff, but it's mostly
+outclassed by other concentration based
+buffs. Uh, bless or even magic weapon
+are usually going to be better uses if
+you want that effect, and a lot of the
+time you don't really want that effect
+at all anyways. So, enlarge reduce is
+not often going to be used to buff your
+allies, but if you do, then it's an okay
+usage of the spell. Reduce will give a
+creature disadvantage on strength checks
+and saves and makes them lighter and
+smaller. There's a couple reasons why
+you might want to make a party member
+smaller. Uh, one of them is that if you
+use reduce and are a small creature or
+disguise yourself as a small creature
+like a halfling, you become a tiny sized
+creature which allows you to fit through
+even the smallest little passageways in
+the game, the pipes and cracks in the
+walls and things. So, you can get into
+other areas using enlarge reduce and
+gives you some out of combat
+exploration. You can also throw your
+allies um even if you wouldn't normally
+have the strength to lift them, which
+can be can come up in some cases. More
+often though, you're going to shrink
+enemies because it gives them
+disadvantage on the strength checks uh
+and saving throws. So, if you want to
+land a strength-based save effect on an
+enemy or if you want to push them around
+using an athletics check, reduce can let
+you do that. Enemies can be too heavy
+for a character to pick up and throw,
+but reduce reduces their weight. So, it
+can put enemies that are normally too
+big to throw in range for you to hurl
+them. Um, that actually ends up being
+fairly relevant in some encounters, and
+you can pick otherwise large enemies off
+of cliffs uh and instant kill them,
+things like that. So, the spell can be
+used either to buff your allies for a
+moderate damage increase or to shrink
+your enemies in order to uh throw them
+around more easily. It's also very funny
+when you shrink an enemy. Personally, I
+like shrinking Gortach. It doesn't do
+anything, but it's just very funny to me
+when he runs around in tiny mode. The
+other thing that you can do with enlarge
+reduce is increase your own party
+members weight. And that matters for
+builds where you're jumping down on
+enemies from a height and doing falling
+damage to them. In particular, owl bear
+jumping builds. Uh you can look up my
+build, the biggest bear one-shots
+everything, which I posted relatively
+recently for an example of this where
+you turn into an owl bear and jump down
+on an enemy from a height and you just
+flatten them underneath your gigantic
+bulk. But outside of those specific
+builds and specific scenarios and large
+reduce just isn't going to see that much
+play. It's a medium buff and it has some
+utility outside combat or for throwing
+enemies. I think it's still a C-tier
+spell, but it's a C-tier spell where you
+can definitely get creative and use it
+in interesting ways. Enthral. Enthral is
+a wisdom save. You target a character
+with it, and if they fail the save, they
+have to look at you for the next 10
+turns. If that sounds useless to you,
+uh, good job. Well identified. Enthral
+has almost no mechanical effect. Well,
+you can turn a character with it in
+order to steal their stuff while they're
+not looking at you. Um, Fogcloud and
+Minor Illusion do a way better job of
+giving you places to hide or pulling
+NPCs away so you can steal their stuff.
+And while technically it can stop them
+from investigating crimes, I've
+basically found this to be extremely
+unreliable and never works. So, I would
+m much rather use fogcloud and minor
+illusion to get these effects. Uh,
+Enthral is a spell that basically does
+absolutely nothing. Dtier, Flameblade.
+Flameblade is a bonus action buff spell.
+It works uh on yourself. It's a druid
+spell, and it summons a burning sword
+into your hand for the next 10 turns.
+That sword does 3d6 fire damage per
+attack. Um, and you can upcast it for an
+extra d6 per two levels that you upcast
+a spell. So, with a fourth level spell
+slot, you get four d6. With a sixth
+level spell slot, you get 5 d6. The
+problem with this spell is that it's
+just 3d6 damage. It doesn't add your
+ability modifier to the damage output.
+Um, and you can't increase the damage by
+poisoning the sword or by lighting it on
+fire or anything. There aren't really
+good ways to increase the damage that it
+does. So, compared to just attacking
+with a normal weapon, it's not actually
+more damage most of the time. It also
+has the problem that a lot of burning
+weapons do where it's going to set
+things on fire that maybe you don't want
+set on fire. um which can make it harder
+to use in some scenarios. Of course, it
+also druids often want enemies to be
+wet, which will give them resistance to
+fire damage because a lot of druids do
+lightning and cold damage stuff as well.
+Um so there's a bunch of anti-inergy
+with actually using this uh spell. It
+also it lasts for 10 turns, but it costs
+a level two spell slot. So you're
+burning this spell slot or every time
+you want to attack. you have to have
+your character set up to use attacks in
+order to make use of this. And druids
+only get one attack uh because they
+don't get extra attack. So, you're just
+wasting a level two spell slot on just
+really not doing damage. There's a
+couple ways where you can cheese this
+spell to gain a permanent flame blade.
+And using that bug abuse, it can be
+okay, but for just uh normally casting
+this spell, the damage output is low. Uh
+it it doesn't add your ability score
+modifier. It doesn't last all day or
+anything like that. You just shouldn't
+spend a spell slot on this. A level two
+spell slot spent on spike growth will do
+way more damage and not waste your
+action swinging for just a very small
+amount of damage output. Dtier for flame
+blade. Flaming sphere. Flaming sphere is
+a summon spell. Um it's concentration
+and lasts for up to 10 turns. And when
+you cast it, you get a flaming sphere.
+The sphere itself has 20 hit points and
+16 armor class which isn't bad at low
+levels. And it also has resistance to
+slashing, piercing, and bludgeoning
+damage, which means that most enemy
+attacks at early levels are only going
+to do half damage to the sphere. So, it
+can often absorb four or five attacks
+from enemies before it dies while also
+generating decent damage value. It has
+the ablaze passive, so uh when enemies
+end their turn near it, they have to
+make a dexterity uh they take 2d6 fire
+damage with a dexterity save for half.
+It also leaves a fire surface everywhere
+it goes. So enemies, you can move it
+past enemies and deal a guaranteed 1d4
+damage when they stand on the fire
+surface. And then also each turn as a
+bonus action, you can have it ram an
+enemy and then again they have to they
+take 2d6 fire damage with a deck save
+for half. Now there is a bug with
+flaming sphere where it always uses your
+wisdom to calculate the safe DC even for
+wizards. So, a wizard casting this
+spell, enemies will almost always take
+half damage cuz the save DC is much
+lower than it's supposed to be, but
+they'll still take guaranteed damage
+every turn. And even if enemies always
+pass the save, dealing uh a d6 of damage
+each turn, plus a d4 of damage each turn
+with the option of getting more if
+enemies end their turn near the flaming
+sphere and or if they do happen to fail
+the save, while also absorbing a bunch
+of attacks from enemies is still pretty
+valuable. So, even for wizards where
+this spell is bugged, it's still very
+good. And for druids and light domain
+clerics where it's using their proper
+DC, it's actually going to be excellent.
+The uh damage from this spell is not
+huge, but it gives you sort of constant
+value over time. You spend one action on
+casting it. You can cast it before the
+combat even begins and then it just
+takes your bonus action for the uh each
+turn in order to generate tons of damage
+value while enemies are wasting their
+attacks on this. You can use this to
+block doorways uh keep your allies alive
+by collecting enemy attacks. Enemy melee
+attackers will often end their turn near
+it and take extra damage as well. So the
+amount of value acrewed over longer
+fights from flaming sphere is always
+going to be excellent. This is
+definitely a very solid spell in uh the
+late game. Of course, it's going to fall
+off when enemies can one-shot it and
+against enemies who aren't making
+physical attacks, so its damage
+resistances don't work. Not going to be
+as effective. But in the early game,
+this will absorb tons of attacks from
+enemies, costing them turns, block them
+from getting to your party, costing them
+turns, and the whole time just be doing
+great damage to them overall. A tier for
+Flaming Sphere. Gust of Wind. Gust of
+Wind is a 40 foot line uh which is an
+odd targeting shape but it's a fairly
+wide one so you can often catch a lot of
+things in it and it does two things. It
+dispels clouds and gases in the area. So
+things like fog cloud will be removed by
+gust of wind. So will darkness weirdly
+even though I personally have rarely
+been outside in weather where it was
+windy enough that I could see at night.
+Um, and it also uh when creatures are
+caught in it, they have to make a
+strength saving throw or it pushes them
+17 ft backwards. Pushing a bunch of
+enemies backwards can be pretty useful.
+You can shove enemies off of cliffs. And
+the fact that it lets you shove them at
+range definitely has its uses. There are
+times where an enemy is like on a bridge
+over a chasm where you don't want to go
+out to meet them. You can use gust of
+wind to push them off that bridge and
+instant kill them. Uh there's so it does
+have some uses there. Dispelling clouds
+and stuff is not particularly useful in
+most encounters. Even in encounters
+where there are cloud or gas spells,
+gust of wind is not that exciting an
+option, though you can maybe get some
+value out of it. But the main usage is
+just to knock enemies off of cliffs if
+they happen to be next to them. All that
+said, there are just better ways to get
+this effect. Although it is ranged and
+AoE, it's still just a push which you
+can just do as a bonus action. And there
+are a lot of spells and attacks and
+things that will push enemies while also
+doing damage or controlling them in some
+way. So spending a whole spell slot and
+an action on gust of wind is rarely
+going to be advised. Um there are some
+neat things you can do with this spell,
+but in general it's just not very
+strong. And the fact that it's 40 foot
+range also holds it back cuz a ranged
+push would be most useful for getting
+enemy archers off of high ground, but
+40t is often not enough to do that. So,
+Gust of Wind, while despite being cool,
+in practice has very few applications,
+Dtier.
+Heat Metal. Heat Metal is a single
+target concentration-based damage and
+debuff spell. It lasts for 10 turns, and
+you can only target creatures that are
+wearing metal armor or carrying a metal
+weapon. Obviously, this restricts
+somewhat who you can use the spell
+against, but um that is a fair subset of
+the enemies in Balders's Gate and
+includes most of the most dangerous
+enemies in Boulders's Gate. So, you can
+still use this spell in a lot of
+encounters, especially in the earlier
+game when you're more likely to be using
+second level spells. A lot of the most
+dangerous enemies fit one of those two
+conditions. some enemies that clearly
+are carrying metal weapons or wearing
+metal armor, the spell doesn't work
+against because not everything was
+properly tagged um by the developers.
+So, unfortunately, sometimes you will
+think you can use the spell and won't be
+able to, but obviously then you can just
+do something else. How the spell works
+depends on if you're hitting a creature
+with metal armor or with a metal weapon.
+If they have both, it always uh targets
+the weapon. So, it'll always behave as
+though they they have a metal weapon if
+they have both things. If you target a
+creature with metal armor, then they
+take 2d8 fire damage and get
+disadvantage on all their attack rolls
+for as long as you maintain
+concentration on the spell with no
+saving throw. Each turn, you can spend a
+bonus action to deal 2d8 extra fire
+damage to them. If you target a creature
+with a metal weapon, then they take 2d8
+fire damage with no with no saving throw
+and have to make a constitution save. If
+they pass the save, uh, or if they fail
+the save, excuse me, they drop their
+weapon on the ground, becoming disarmed.
+And if they pass the save, then they get
+disadvantage on all their attack rolls.
+So, it works the same as if they had
+armor. So, basically, heat metal always
+does the damage and always does a debuff
+uh, no matter whether enemies pass or
+fail their saving throw. being able to
+disarm an armed enemy and even if it
+fails, they still take disadvantage on
+their attacks and you can still give
+them uh damage every round. Also, if you
+reactivate the spell on a creature with
+a weapon, they have to make another save
+or drop the weapon again. Um is very
+very powerful. So, heat metal will end
+up debuffing enemies significantly,
+either removing their weapon or giving
+them disadvantage on attacks while also
+doing consistent damage turn after turn.
+The thing that holds this spell back a
+bit is that it is incredibly buggy.
+You're supposed to be able to upcast it
+to do an extra d8 of fire damage, uh,
+both on the initial cast and each time
+you reactivate it. Um, but at higher
+levels, it often does the wrong damage.
+At level four, it does the wrong initial
+damage. At level five, it does the wrong
+subsequent damage. So, this spell has a
+lot of just bugs and errors with it. It
+also has a much more severe bug where
+whenever any condition is removed from
+the target, the disadvantage on attack
+rolls condition also gets removed. So on
+enemies that just have metal armor, they
+will often just lose the disadvantage on
+attack rolls. Um if you hit them with
+any other condition and then they get
+rid of that condition, which includes
+threatened. So, if you enter uh that
+character's melee area and then move
+away from them, then the heat metal
+disadvantage just disappears. Uh but
+also, weirdly, if you cancel the spell
+early, if you drop concentration on heat
+metal, the disadvantage won't disappear.
+So, you don't actually have to maintain
+concentration on the spell in order to
+get the main benefit of the spell and
+give enemies disadvantage on all their
+attacks. Even with those bugs, this
+spell is pretty solid, but the bugs
+definitely do make it a little more
+annoying to use and it has some some
+serious uh issues. I would rate it uh
+still probably A tier if they fix the
+bugs. Um but even with the bugs, I think
+it's still an A tier spell because being
+able to just do consistent damage, give
+enemies disadvantage even if it
+sometimes goes away before it's supposed
+to, and disarm enemies is still a very
+solid spell. You just have to be aware
+of the fact that this spell is very
+buggy. Hold person. Hold person is a
+concentrationbased debuff spell. It can
+only target humanoids. Um, but that's
+still a sizable plurality of the enemies
+in Boulders's Gate 3. So, you're still
+going to be able to use this in a lot of
+encounters. And, uh, while it only
+targets one target at level two, you can
+upcast it to target more creatures plus
+one level plus one creature per level
+that you upcast it. So you can target
+more than one creature with this spell
+at once and maintain concentration on
+holding them all in place all at once.
+When you cast it on an enemy, they have
+to make a wisdom saving throw. And if
+they fail, they become paralyzed. Each
+turn after that, they get another wisdom
+saving throw to try to break out of the
+whole person again. Paralysis is the
+most debilitating condition available in
+Boulders's Gate. It completely prevents
+a character from doing anything. They
+can't move, act, or react to anything.
+And also, they take automatic critical
+hits from every attack with an attack
+roll made from within 10 ft of them.
+You'll often see people saying that they
+take automatic crits from melee attacks,
+and they do. But that's not all. It's
+every attack made from within 10 ft. So,
+you can move your spellcasters and
+archers close to enemies and still get
+automatic critical hits. Hold person has
+two main uses. One is just as a lockdown
+spell. Enemies fail to save and they
+lose turns. And if you can keep them
+locked down, then you can continue to
+have them lose turns. And the second is
+as one of the best burst damage spells
+out there, where you hit an enemy
+withhold person and then all of your
+other party members hit them with
+attacks, which are now automatic
+critical hits. Giving an enemy
+effectively vulnerability to all damage
+and even better than that because it
+triggers crit effects means that you'll
+probably kill that enemy before they
+would get a turn. Anyways, when I did my
+last spells tier list, hold person was
+bugged and enemies would make the saving
+throw at the beginning of their turn.
+So, they would get two saves to break
+out of it before they lost a turn. Uh,
+but that bug has subsequently been
+fixed. Enemies still make the save at
+the beginning of their turn, but even if
+they pass the save, they still lose the
+rest of their turn. I don't know why
+they implemented it like that. But
+basically, one save failure means one
+lost turn now, the way that the spell is
+supposed to work. So, you can initially
+cast the spell, you can try to blow up
+the enemy. Even if you don't manage to
+kill them, they've still lost their next
+turn. So, you get a second round of
+attacks um which may or may not be
+critical hits because if they fail the
+second saving throw, then you'll get
+automatic critical hits for a second
+turn in a row and they'll lose yet
+another action. So, even if enemies
+eventually break out of hold person, it
+doesn't matter cuz they'll just be dead
+by then. Uh this effect is just so
+powerful that anytime you can land it on
+enemies, it's ridiculous.
+If you use this spell as uh just by
+default, then just landing it on enemies
+to try to cost them one or two turns and
+do a bunch of extra damage is still
+great. But where this spell really
+really shines is when combined with
+increased spell save DC where you can
+guarantee landing it. Obviously, this is
+great with Arcane Acuity. It's an
+enchantment spell, so it works with the
+Band of the Mystic Scoundrel, and some
+of the strongest builds in the game
+revolve around that combo. um locking
+enemies down with high enough safe DC
+that they can never pass the spell and
+doing guaranteed critical hits to them
+to one-shot them. But even with just
+normal plus safet DC gear where you make
+this fairly reliable, it costs enemies a
+lot of turns and gives you automatic
+critical hits against them. So you're
+going to be able to win any encounter
+where this spell lands on a dangerous
+enemy very very easily.
+This is a little bit less reliable as
+crowd control than other crowd control
+spells because enemies can break out of
+it, but it's so much more powerful,
+completely preventing them from doing
+anything and making it wildly easier to
+kill them. Hold person S tier.
+Invisibility. Invisibility is a
+concentration-based buff spell. You cast
+it on a creature plus one additional
+creature for every level that you upcast
+it. And for 10 turns or as long as you
+maintain concentration, that creature
+becomes invisible. While invisible, they
+have advantage on all their attack
+rules. And enemies can't target them.
+They don't know that they're there. So,
+hostile creatures won't become hostile.
+Um, you won't trigger uh story events
+and things like you won't trigger a lot
+of cutscenes and things like that or
+conversations. You can steal items with
+impunity. Invisibility breaks as soon as
+you do anything. So, if you make an
+attack, pick up an item, open a door, uh
+do almost any action, there are a couple
+things that you can do while invisible,
+most notably drinking potions and
+casting spells like minor illusion. Um
+and jumping uh work just fine while
+invisible, but anything else is going to
+break it. Uh you snap out of it and
+enemies will immediately be able to see
+you. Invisibility has a couple main
+uses. One is scouting. You can use an
+invisible character to scout a location
+and figure out where all the enemies
+are. Set up that character in an
+advantageous position before combat
+starts. Um, in order to get high ground
+or get on top of enemy backlininers with
+your frontline characters. Uh, so you
+can use this before combat starts to
+gain huge combat advantages and gain
+advantage on your first attack roll in
+combat, which isn't nothing either. The
+second is as a panic button. If a
+character is getting really low, you can
+cast invisibility on them and then
+enemies won't know where they are and
+won't be able to attack them. So, you
+can use invisibility to uh save a
+character or even your whole party with
+a fifth level spell slot that can target
+four characters. You can make your whole
+party invisible. Enemies will then waste
+their turns running around uh using the
+search action to try to look for you.
+So, you can cause enemies to waste their
+turns while being able to reset a fight,
+drink some potions, heal up, run away,
+whatever you need in order to stay safe
+in honor mode. The main downside of
+invisibility is that it doesn't give you
+huge combat advantages cuz it breaks as
+soon as you try to do combat stuff. Um,
+but it lets you traverse hostile areas
+for free. It lets you save allies. It
+lets you uh do all kinds of other
+powerful things. uh you can use it in
+various extremely creative ways in order
+to get advantages both in and out of
+combat. Uh so this spell has tremendous
+uses. The other thing holding back the
+actual spell invisibility is the
+existence of the invisibility potion cuz
+you can get this effect from potions.
+But invisibility potions are a valuable
+enough resource that just casting the
+invisibility spell is often going to be
+really good as well. Being able to turn
+invisible as a bonus action with the
+potion makes it an incredible defensive
+benefit. So, anytime you don't need that
+benefit, you may want to use the spell
+in order to conserve those potions for
+when you really really need uh this
+spell as a bonus action. I'm going to
+give this spell a tier because it
+doesn't win fights on its own, but it's
+so useful in so many scenarios, both
+offensively and defensively, that most
+parties should be using this um fairly
+frequently. All right, my friends, that
+is 21 of the 42 secondle spells. So,
+we're halfway through. And since the
+video is approaching an hour, um I'm
+going to make the cut here. We will come
+back with the other half of the level
+two spells in part two of this video. As
+always, of course, uh if you think that
+there's anything that I have put in the
+wrong tier for whatever reason,
+definitely let me know. Um once again,
+if you compare this tier list to my last
+version of the spells tier list, it's
+significantly different. So, I'm
+definitely open to moving things around
+if you have good arguments for why they
+should be moved. Uh and of course, if
+you just enjoyed the video, leaving a
+comment and hitting the like button
+helps me out with the algorithm, so I
+appreciate you taking the time to do
+that. Of course, you can always
+subscribe to my channel to get part two
+of this and subsequent spell levels as
+we continue this tier list and other
+Balders's Gate build guides and other
+strategy game analysis. Cheers, my
+friends. Thanks for watching and I'll
+catch you next

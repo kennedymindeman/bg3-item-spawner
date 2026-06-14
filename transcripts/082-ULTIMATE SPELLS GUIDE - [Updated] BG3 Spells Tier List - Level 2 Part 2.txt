@@ -1,0 +1,1669 @@
+Hello, my friends, and welcome back to
+another Boulders Gate 3 tier list and
+guide. Hope you're all doing well.
+Today, we're continuing my updated
+ultimate guide to spells with the second
+half of the level two spells, including
+some of the very most powerful spells in
+the game. I've already discussed the
+rating system and assumptions and what
+each of the tiers mean in part one. So,
+we're just going to dive right in. But
+before I do, I do want to take a very
+quick moment to say thank you so much to
+Cedric Ada for the $8 donation, Seth NMX
+for the $10, Aquilo NL for the €2, and
+Hudson Miles and Onur Doan for becoming
+channel members. Thank you so much, my
+friends. I really appreciate your
+support. It really means a lot to me.
+All right, let's get magical. We're
+going to start with Knock. Knock is a
+very simple spell with one effect. It
+opens a lock. It does so regardless of
+how difficult a lock it is. So, for the
+most part, it's always going to work.
+But there are some uh locks in the game
+that can't be opened with knock and can
+be lockpicked. And there's also some
+locks in the game that can't be
+lockpicked, but can be opened with
+knock. But for the most part, this
+basically replaces having a slate of
+hand character in your party in order to
+open locks, but not to disarm traps.
+Slate of hand is pretty easy to achieve
+in a party. All you need is a character
+with proficiency and reasonable
+dexterity. So, you don't really need a
+rogue to be able to open most of the
+locks in the game. And even if you have
+to pass on opening a few locks while
+you're playing through honor mode, it's
+not a big deal. The game is designed so
+you can win without ever opening a
+single lock. Um, so knock is certainly
+never going to be essential to victory,
+though you can get some nice advantages
+like treasure or better roots to
+surprise enemies, things like that.
+The main downside of this spell, of
+course, is that it's very expensive.
+cost you a level two spell slot for
+something that you can get for free if
+you have a character that can make
+slight of hand checks. And almost every
+party is going to have a character that
+can make most slight of hand checks
+available in the game. You're going to
+want someone to to disarm traps, even if
+you don't care about the locks at all.
+So, most parties just won't have a need
+to cast knock. If you're playing a very
+specific party composition where you
+have nobody who can handle sight of
+hand, this can replace it for the locks
+that you do want to open and it can be
+an okay backup to have uh if your slight
+of hand character just botches their
+check and you try five times to open a
+lock that you want open, you can
+eventually cast a spell on it. Mostly
+though, this spell is going to give you
+a very small advantage that you can
+normally get for free. So C tier. Next
+up, Lesser Restoration. Lesser
+restoration lets you remove a negative
+condition from an ally. So you cast it
+on a character and you remove uh
+diseased poisoned paralysis or blinded
+from an ally which is obviously those
+are bad conditions that you don't want
+your allies to be under. A paralysis in
+particular is extremely dangerous and
+quite prevalent especially in the early
+game but throughout the game because
+it's the condition that hold person
+applies and there's lots of hold person
+casters in Boulders's Gate. So having a
+way to negate that can be very helpful.
+One way to do that, of course, is to
+break their concentration. But having
+one that works every single time can let
+you in a situation that could otherwise
+be very bad. If a character gets
+paralyzed and you weren't expecting it,
+come out the other side with only minor
+bruises instead of a dead character or a
+lost combat. It's action neutral if you
+use it to remove paralysis as well
+because the character that was paralyzed
+wouldn't normally have acted. So, you
+spend one action but get an action back.
+So, uh although it sort of seems like
+wasting an action, when you actually
+cast this spell, it won't be. It also
+allows you to remove a bunch of effects
+out of combat. There are some uh
+negative effects that stay on your
+characters all day. One of the most
+notable is Aarian's bloodless debuff,
+which comes when he feeds on a party
+member. um which might be happening to
+the main character if you're doing his
+romance or you might just be using a
+party member as a convenient source of
+blood to trigger his happy buff. Uh
+lesser restoration will remove that
+immediately. For those uses, there's an
+amulet that lets you cast lesser
+restoration. So, I wouldn't usually want
+to spend a spell slot on casting this
+outside of combat, but in combat, having
+a character who has it prepared can give
+you a panic button that is very helpful.
+and you don't usually want to use the
+amulet for that because you want a
+better amulet equipped most of the time.
+This spell is sort of similar to enhance
+ability in that you will often want to
+have it prepared but are going to try to
+avoid actually casting it as much as
+possible, but you still want it for the
+emergency situations where you need it.
+I'm going to give it B tier because you
+probably won't use this more than a
+couple times during a run, but when you
+do use it, it will be invaluable. Magic
+weapon. Magic weapon is a
+concentration-based dayong buff. So, it
+lasts until you lose concentration on it
+and you cast it on a weapon. If you cast
+it on a character, it'll work on
+whatever weapon they're holding in their
+hand. You can also drop the weapon on
+the ground and cast it directly on the
+weapon itself. It gives the a weapon
+that you target a plus one bonus to
+attack and damage. Uh, which stacks with
+any existing enhancement bonus that it
+might have. So, if you have a plus two
+weapon, this will turn it into a plus
+three weapon and so on. You can also
+upcast this spell. With a level two
+spell slot, it gives you plus one to
+attack and damage. With a level four, it
+gives you plus two. And with a level
+six, it gives you plus three. So, if you
+want to use a sixth level spell slot and
+cast it on a legendary weapon, you can
+turn that weapon into I don't know, an
+ultimate super saiyan weapon. I don't
+know what the technical term is, but
+it'll have a plus six bonus to hit and
+damage. Bonuses to your hit chance and
+damage roles in Boulders's Gate 3 are
+obviously incredible. Most encounters in
+the game, you need to hit enemies, and
+having bonuses to do that means that you
+are just better at the thing that you're
+trying to do across the entire game. The
+downside of this is that it is a
+relatively small bonus. It costs your
+concentration and a spell slot, and if
+you lose concentration on it, then it's
+obviously going to go away. So, it's
+fairly easy to not get that much value
+out of this spell. And a lot of the
+characters that have access to it, uh,
+most mostly wizards are going to want to
+concentrate on other things cuz if
+they're spending their concentration on
+magic weapon, then they're not getting
+the full value of playing a wizard
+because you need to concentrate on
+disables and crowd controls or buff
+spells for your allies and so on. Where
+this spell really shines though is for
+characters who don't have other things
+they want to concentrate on. It's
+available to paladins, Eldrich knights,
+and arcane tricksters, as well as any
+character that has at least one level in
+wizard because uh you can learn this
+spell from a scroll. And it includes, of
+course, blades singing wizards who may
+have other things they want to
+concentrate on, but also want to hit
+things with weapons. And magic weapon
+makes them better at that. For Eldrich
+Knights in particular, this is probably
+the thing that they're going to be
+concentrating on because it just boosts
+everything that that character is trying
+to do at very low cost and they're
+unlikely to lose concentration on it
+because as a fighter, they have con save
+proficiency. So, for an Eldrich Knight,
+you're almost always going to want to
+have magic weapon uh known and active on
+your character as long as you can
+maintain concentration on it. For
+paladins and arcane tricksters, it's
+also very solid. And for other builds
+that have levels of wizard and can learn
+this spell, it may well be something you
+want to invest a spell slot in. In
+particular, a sword bard may want to
+with a level of wizard may want to learn
+this because they're going to be making
+a lot of weapon attacks and magic weapon
+is going to make them better at that. It
+can offset sharpshooter and so on. So
+just a very very powerful tool for
+characters that don't have other things
+that they're usually going to want to
+concentrate on. For wizards who are the
+first character to get this spell,
+they're usually not going to want to use
+it. Though, you can still cast it on
+your barbarian party member and it will
+still be okay. But for characters that
+don't have things they want to
+concentrate on, this spell is excellent.
+For Eldrich Knights in particular, this
+is a tier, so I'm going to give it a
+tier. Um, and then for the rest of them,
+it's a little bit weaker, but this is
+still just a very powerful option for
+any character who can make use of it.
+Next up, Melt Acid Arrow. A spell which
+you can tell was named before the
+internet. Melt's acid arrow is a damage
+spell. You make an attack roll against
+the enemy's armor class, and if you hit,
+they take 4 d4 acid damage for an
+average of 10 damage, and then 2d4 acid
+damage at the end of their next turn.
+So, 15 damage total. This is a frankly
+pathetic amount of damage for a second
+level spell. Uh, obviously a little
+unfair to compare it to one of the best
+spells in the game, but compare that to
+Cloud of Dagger's 20 damage before they
+act. This does less damage and only to a
+single target. Um, so Mel's acid arrow
+is just not going to be worth spending
+your spell slots on. It does leave a
+pool of acid on the ground, which
+reduces enemy armor class, but you could
+do that with a number of other tools and
+still just not waste a spell slot on
+this spell. It's a damage spell that
+does no damage. Dtier, mirror image.
+Mirror image is a self-cast defensive
+buff spell. Takes an action to cast, but
+you can cast it before combat starts
+because it lasts for 10 turns and
+doesn't require concentration. So,
+usually you're not going to actually
+spend an action on this spell in actual
+combat. Uh rather, you're going to set
+it up before combat begins. When you
+cast it, you summon three elucory
+duplicates of yourself, each of which
+increases your armor class by three. The
+duplicates thing is really just flavor.
+Basically, this spell increases your AC
+by 9 and then whenever an enemy misses
+you with an attack, one of those
+duplicates goes away. So, you lose three
+of the bonus. So, you get plus 9 AC when
+you cast it. Each time an enemy misses
+within an attack, you lose three of that
+bonus until the mirror image has gone
+away. Now, plus 9 AC for one fight is a
+pretty solid bonus for a level two spell
+slot. You'd be very happy with that.
+Plus 6 AC is not bad, and plus 3 AC is
+okay. Certainly not worth a level two
+spell slot, but definitely a nice bonus.
+If you do manage to stop three attacks
+directed at your character, then mirror
+image will have gotten very good value.
+Um, but often it won't cause attacks to
+miss because the AC bonus just won't be
+high enough, so enemy attacks will still
+hit you, especially after the first
+miss. Uh, so you can't rely on this to
+perfectly protect you. The thing that
+makes this spell good though in
+Balders's Gate 3 in particular is the
+way the AI chooses targets. When the AI
+is choosing who to shoot at, it
+considers a few things. And one of the
+things it considers is how easy it is
+for it to hit that target. So characters
+with really high armor class, the AI
+will simply tend to not shoot. So, if
+you have decent armor class already and
+then you cast mirror image, you will be
+able to just stop the AI from ever
+targeting that character, which can be
+very helpful, especially since this is a
+wizard sorcerer spell. So, you can use
+it to protect yourself against um from
+losing concentration on a powerful spell
+like haste or something like that
+because the enemies won't target that
+character since they don't think they're
+going to be able to hit it. And the AI
+does not take into account dispelling
+mirror images. It doesn't care about
+that at all. So, it just treats you as
+having nine higher AC for the purpose of
+target selection. This spell can also be
+useful on characters that already have
+naturally high AC to just make them
+basically invincible to enemy attacks.
+If your AC is high enough, enemies will
+actually just pass their turn and not do
+anything and not even try to attack you.
+So on an Eldrich Knight, for example,
+with between the shield spell and mirror
+image and just having naturally high AC
+from being an armored character, you can
+easily hit armor class in the high30s
+and enemies just won't attack that
+character. For an extreme example of
+this, check out my video, the highest
+possible AC in Boulders Gate 3. It's
+actually a little higher post patch 8
+now. Uh so we could do even better than
+we do in that video. Um, but just
+getting your AC high enough that enemies
+can't hit you means that you will uh
+have a character who's invincible for
+one fight. So, mirror image is pretty
+powerful in certain encounters where
+enemies will actually just pass their
+turn and not even try to break the
+mirror images. For that reason, I'm
+going to give it B tier. It's still
+pretty expensive, but as a defensive
+tool, this is a very good one. It will
+cause enemies to redirect their attacks
+to your other party members. It can
+cause enemies to just pass their turn if
+the only character they can target they
+don't think they can hit at all. Um, and
+it's also just very powerful on
+characters with naturally high armor
+class, but it's expensive to use. A
+level two spell slot is pretty uh pretty
+a pretty big cost. Don't know why I just
+stumbled over that, but a level two
+spell slot is a pretty big cost. So, you
+won't use this every fight, but again,
+when you do, it'll be very nice. Next
+up, Misti Step. Misty Step is a bonus
+action teleport. you cast it and you can
+teleport anywhere within 60 ft of
+yourself and it only takes your bonus
+actions. So, you can then still move uh
+and also actually make an action like an
+attack or another spellcast. Mistyep is
+on the short list of the top five or so
+very best spells in the entire game.
+It's no questions asked mobility, and
+mobility is one of the most important
+things for any party in Boulders's Gate
+3. You can use this spell to get away
+from bad situations. It doesn't provoke
+attack of attack attacks of opportunity.
+So, a wizard can use it to get out of
+melee if a dangerous enemy has caught up
+to them and they'll be 60 ft away so
+that enemy will not be able to
+re-engage. You can misty step away, cast
+a spell, and then just walk backwards
+and the enemy won't be able to reach you
+on their subsequent turn. You can use it
+to get up onto high ground. You can use
+it to pass through obstacles. You can
+use it to catch uh squishy enemies,
+especially ones who are otherwise hard
+to reach. and you can use it to
+reposition your characters um in order
+to avoid area of effect attacks. There
+are almost infinite uses for being able
+to just say I would like to be somewhere
+else and just having that happen. Now, a
+level two spell slot is a fair cost for
+this use. Uh, obviously spending a level
+two spell slot on mistep means you don't
+have it for something else, but this
+spell just has so many and such powerful
+uses that you are going to be spending
+that spell slot happily and often. I'm a
+firm believer that every honor mode
+character should strive to get access to
+mistep, bar none. There are two uh items
+in the game that give you this spell,
+the disintegrating night walkers and the
+amulet of misty step. And most parties
+are going to want at least two
+characters that can naturally cast the
+spell and two characters wearing those
+items so that everyone can use misty
+step when necessary. This spell is just
+absurdly good. Being able to move your
+character to another location solves
+encounter after encounter after
+encounter. S tier for Misty Step. Moon
+Beam. Moon Beam is a druid
+concentration-based damage spell. You
+cast it and it creates a circle on the
+ground with a threefoot radius. Uh,
+which obviously is tiny. You're almost
+never going to get more than one enemy
+in the radius of Moon Beam. Maybe
+sometimes you'll get two if they're very
+very clustered, but you can never get
+more than two in this spell uh, under
+most circumstances.
+Inside the spell, enemies have to make a
+constitution save or take 2d10 radiant
+damage uh, with a con save for half. And
+this happens both when you cast the
+spell on them and at the beginning of
+each of their turns. So similar to cloud
+of daggers, you get double value off the
+damage of moon beam before the enemy
+gets to act. This makes moon beam
+technically the highest damage level uh
+two spell on average. You do 2d10 damage
+on the initial cast, which is 11 average
+damage, and then 2d10 damage at the
+beginning of the enemy's turn for 22
+average damage, which is one more than
+scorching rays 21, two more than cloud
+of daggers 20, though obviously enemies
+have to fail both constitution saves in
+order to receive full damage. In
+addition to that, you can also each turn
+that you maintain concentration on the
+moon beam, spend your action to move it
+up to 60 ft. So unlike other
+groundargeted damage spells, if an enemy
+leaves the moon beam, which they will
+cuz the radius is tiny, you can spend
+your turn to just move it back over them
+and they'll keep taking hits. That's a
+very good use of subsequent turns in
+longer combats because moon beam is just
+a very efficient damage spell. Does a
+lot of damage on the first turn and
+every turn thereafter. There's also a
+bunch of bugs with this spell that are
+very much worth discussing. The game
+treats Moon Beam as a summon and the
+damage that it does originates from that
+entity from the summon, not from the
+caster. This has a couple implications.
+Firstly, it doesn't work with radiating
+orb despite being radiant damage or
+other on-hit effects because it's not
+the caster doing damage. So, your items
+that apply effects when you deal damage
+to an enemy don't work cuz the game
+doesn't see you doing that damage. And
+it also doesn't work with uh the alithid
+power coal the week and other effects
+that care about the caster doing damage
+because again it doesn't see the damage
+as coming from the caster. On the other
+hand, it doesn't break sanctuary because
+it doesn't count as the caster doing
+damage and it doesn't count as taking a
+hostile action to move the moon beam on
+subsequent turns. This all only applies
+to the uh second and later turn of the
+moon beam. By the way, the initial cast
+counts as damage from the caster. Um, so
+when you have a character with
+sanctuary, you can have them just keep
+chasing enemies around the field with
+Moon Beam, and the enemies won't be able
+to target them in order to interrupt
+your concentration on Moon Beam or
+retaliate in any way. That's obviously a
+cheesy and quite broken combo, but very,
+very powerful um, when you're using this
+spell. Another bug with Moon Beam is
+again for the subsequent casts. The game
+uh, uses your item save DC, not your
+caster save DC. If you don't know what
+this means, then you probably don't
+really need to worry about it. But
+basically, if you are a multiclassed
+character casting Moon Beam, the save DC
+can sometimes be unexpectedly low
+because it's using the the save from
+your the wrong casting class rather than
+your druid save, as you would expect.
+So, um, Moon Beam can sometimes do less
+damage than you think because enemies
+will make the save more reliably if
+you're a multi-class character. All of
+those bugs aside though, this is still
+just an incredibly efficient damage
+spell. Dealing 22 damage every turn for
+10 turns is just very, very nice. And
+even if you're only hitting one
+character with it, uh, Moon Beam is just
+a very solid damage spell. The only
+thing really holding this back is that
+druids have other amazing spells to
+concentrate on, but this is still a
+powerful spell. When you want damage,
+it's a great option. A tier. Next up,
+pass without trace. Pass without trace
+is a dayong concentration buff spell
+that gives the caster and their entire
+party or everybody within 30 ft plus 10
+to their stealth checks. This is
+obviously an enormous bonus and means
+that you're going to pass pretty much
+every stealth check that you roll all
+the time as long as you're maintaining
+concentration on this spell. However, in
+Boulders Gate 3, you don't really roll
+stealth checks. Even characters that are
+staying stealthy, if they don't enter
+enemy vision cones, they never actually
+roll stealth. So most characters that
+are trying to stay hidden simply don't
+roll stealth checks at all and don't
+actually need pass without trace. There
+are two types of characters though that
+will roll stealth checks. Stealth
+archers and characters using greater
+invisibility. When you make an attack,
+you can sometimes pass a stealth check
+to avoid the enemy noticing you and get
+that attack without entering combat. And
+with greater invisibility, you can
+freely make attacks as long as you keep
+passing stealth checks in increasing
+difficulty. Pass without trace combos
+with this play style uh in order to just
+make an enormous number of free attacks
+before you ever enter combat as long as
+your stealth check is high enough, which
+with the plus 10 bonus it will be. And
+if you're concentrating on it uh on
+yourself, then you're not going to be
+taking damage in return. So, you're
+never going to be losing concentration
+on this spell since characters that
+intend to abuse greater invisibility and
+stealth archery don't ever enter combat
+throughout pretty much the entire game,
+so enemies never get to attack them.
+That's probably the single most broken
+and powerful strategy in Boulders's Gate
+3. It removes most of the game plays cuz
+enemies never enter combat. Uh which
+makes the spell very hard to rate. It's
+useless for most parties, but absurd in
+one literally game-breaking strategy.
+So, I think I'm going to give it C tier
+because if you aren't doing specifically
+greater invisibility stealth archery,
+you're never going to cast this spell.
+But obviously, it's mandatory for that
+strategy.
+Fantasmal Force.
+Oh boy. Uh, Fantasmal Force is the angry
+YouTube commenter of the Balders Gate 3
+spell list. I look at it and every
+single thing about it just disappoints
+me. This spell was done incredibly dirty
+in the transition from tabletop to
+Boulders Gate 3. In tabletop, this is a
+pretty cool disabled spell because it
+makes enemies believe that what they're
+seeing is real. So, you can make them
+think a giant monster is chasing them
+and they'll act accordingly. Um, but in
+Balders's Gate 3, they got rid of that
+feature of the spell. What it does in
+this game is you cast it on a single
+target and they have to make an
+intelligent saving throw, which if they
+fail, they take 1d6 damage per turn. You
+heard that number right, 1d6 damage for
+an average of 3 and 1/2 damage with an
+intelligent saving throw to resist it.
+And each subsequent turn, they get
+another intelligent saving throw to
+break out of the effect. So, as if doing
+less damage than a cantrip wasn't
+pathetic enough, enemies have additional
+chances to resist the effect of this
+spell. What's even worse than all that,
+to add injury to insult to injury, 1d6
+damage is much less damage than this
+spell does in tabletop where it does
+2d8. So, not only did they remove the
+main feature of the spell, they also
+reduced its damage to a third of what
+it's supposed to be. Honestly, my heart
+goes out to the poor animator who had to
+work on making a visual for this spell.
+Um, because it's absolutely trash. This
+is the longest that anyone has ever
+thought about this spell since the game
+launched. Dt tier for fantasmal force.
+Prayer of Healing. Prayer of Healing is
+an out of combat healing spell. It can
+only be used when you're not in combat,
+and it heals the caster and everybody
+within 30 ft of them for 2d8 plus your
+spell-casting modifier. At low levels,
+this is going to be nine hit points from
+the 2d8 plus three additional from your
+16 wisdom. Uh, which will mean that if
+you hit your full party with it, that
+can be 48 hit points, even more if
+you're a life cleric or something like
+that. So, this is pretty efficient out
+of combat healing in terms of restoring
+hit points. Unfortunately for the spell,
+out of combat healing just isn't
+something that you need at all in
+Boulders's Gate 3. This is another spell
+that really did not survive the
+transition from tabletop to a video game
+because in a tabletop game, you might
+not be able to just rest whenever you
+wanted. You probably don't have healing
+potions dripping out your ears the way
+you do in Balders's Gate. But in
+Balders's Gate, if you need to heal, you
+can always just short or long rest. And
+the game gives you so many healing
+potions that if you ever need to heal
+your characters outside of combat,
+you're better off just consuming a
+healing potion rather than using a spell
+slot because they're just less valuable
+resources than your spell slot. And
+spells are free because you can go back
+to camp and health is free because you
+can go back to camp and rest at any
+time. So there just really isn't a use
+case for prayer of healing in Boulders's
+Gate 3 because the thing that it does,
+it does okay out of combat healing. Um,
+it it's the best source of out of combat
+healing. Uh, but out of combat healing
+just isn't valuable in this game. If
+you're doing a like no resting challenge
+run of some kind, prayer of healing
+could potentially be useful, but outside
+of that, it's uh never going to see
+play. Dtier, protection from poison.
+Protection from poison is a dayong
+non-conentration buff spell. You cast it
+on a single target and it gives them
+resistance to poison damage and
+advantage against the poisoned
+condition. There's a decent amount of
+poison damage in Balders's Gate, and
+there's a few encounters where poison
+damage is going to be the main damage
+type. And having resistance to that
+damage, um, without having to spend an
+action on it is great. Obviously,
+resistance is always a powerful tool.
+Taking half damage from enemies means
+that any encounter where that's the case
+is going to be vastly less threatening.
+So having this available for certain
+specific encounters where there's going
+to be a lot of poison damage can be
+reasonably useful because this is a
+dayong non-conentration buff. You can
+also have a camp cer uh prepare and cast
+this spell. It's certainly not a high
+priority for a camp cer, but if you're
+doing camp casting, protection from
+poison is definitely one that's
+available, but even when cast by your
+active party members, there are some
+fights where protection from poison will
+be pretty relevant. the vast majority of
+fights you're not going to use this
+spell, but if you know that an enemy is
+about to do a bunch of poison damage, uh
+there's a couple enemies in act two that
+use poison and cloud a lot of the time.
+Um so there will be a lot of uh poison
+damage in those fights, which having
+resistance to can make a lot safer. For
+that specific reason, I'm going to use
+this C tier. Though I will say it's a
+fairly low C tier because there's only a
+few fights in the game where it's
+relevant. But for those fights, it is
+still pretty relevant. Ray of
+Infeblement. Ray of Infeilment is an
+attack roll-based concentration debuff
+spell, which is a kind of unusual
+combination of features for a spell to
+have. You target a creature with it and
+make an attack roll. And if you hit,
+then they get the feeble debuff without
+a saving throw. And then at the end of
+each of their turns, as long as you
+maintain concentration on the spell,
+they get a constitution save to try to
+break out of the feeble debuff. So the
+first turn if you hit them they don't
+get a save. Every subsequent turn
+thereafter they get a save to break out
+the spell effect. The feeble debuff
+gives enemies uh causes enemies to only
+deal half damage with their weapon
+attacks if that weapon attack is made
+with strength. So it won't work against
+archers. It won't work against rogue
+type characters who are attacking with
+finesse weapons that are based on their
+dexterity. But against uh characters
+with a great sword or an axe or
+something like that where they're
+attacking based on strength, um then ray
+of infement will cause them to do half
+damage. Half damage obviously is very
+powerful. It's like all of your
+characters having resistance to their
+damage and it stacks with other sources
+of resistance. So if you have resistance
+to that damage type and ray of infement
+on the enemy, they'll only be doing one
+quarter of their normal damage to you.
+The main downside of this spell is that
+it is a concentration debuff spell. And
+if you're going to be concentrating on a
+debuff, why are you concentrating on ray
+of infeeblement instead of something
+like hold person that just wins the
+fight outright? Um, this decreases their
+damage, but there are lots of spells
+that stop them from doing anything at
+all. And it only works on a small subset
+of enemies or a a reasonable subset of
+enemies, but not every enemy because
+they need to be a strength-based weapon
+attacker. So, it doesn't work on
+characters with natural weapons. And
+also, um, not every character that this
+should work is tagged properly. So,
+there were some characters where it
+should work where it doesn't. Um, so
+this will only come up in a small subset
+of encounters and is often outclassed by
+concentrating on any more powerful
+debuffing spell. Also, the characters
+that you want to use it on,
+strength-based weapon attackers, will
+tend to have good concent constitution
+saves, so will usually be able to break
+out of this spell more easily than other
+characters. So, the characters you most
+want to use it against, it's less
+effective against. There is, however, a
+use for ray of infement, which is that
+very few enemies are completely immune
+to this effect. And on honor mode, a lot
+of bosses have immunity to more powerful
+debuff spells, whereas they don't to ray
+of infement. So, this may be a debuff
+that you can land on a boss in order to
+stop them from doing meaningful damage,
+even if they're immune to a bunch of
+other uh possible ways to shut down that
+character. For that reason, I'm going to
+give it C tier. Though, honestly, if you
+forgot that this spell existed and never
+cast it, you certainly wouldn't be
+harmed. But technically, this can come
+up against some bosses who are immune to
+more powerful debuffs. Scorching Ray.
+Scorching Ray is a direct damage spell.
+You cast it and you fire three beams of
+fire at enemies and you can split them
+between multiple targets or target them
+all at the same target. It's an attack
+roll, so it can critically hit. And each
+beam does 2d6 fire damage if it hits.
+Now, if all three beams hit, this is an
+average of 21 damage, which makes it the
+second highest single target damage
+spell available at second level. Uh, one
+less than moon beam and one more than
+cloud of daggers, but obviously less
+reliable than cloud of daggers because
+you need to hit all three attacks in
+order for the scorching rays to land. On
+a character with critical hit bonuses,
+though, the fact that it has attack
+rolls can actually be a significant
+advantage. And also it combos extremely
+well with hold person because automatic
+critical hits will mean that all of the
+damage from scorching ray is doubled.
+Since the damage is 2d6, it's all damage
+dice and when you critically hit with
+one, you get 4d6. That can end up being
+a lot of damage. If you get triple
+critical hits, that's 42 average damage
+from a single spell. That's before you
+even add extra hit modifiers on this
+because just like Eldrich Blast, which I
+talked about in the cantrips video, this
+benefits from firing multiple rays
+because each ray individually is going
+to apply any bonus damage or bonus
+effects that you have when you hit an
+enemy with a spell. In particular, this
+is incredible for stacking arcane
+acuity. with the hat of fire acuity. The
+scorching rays will each individually
+boost your arcane acuity, making each uh
+ray more likely to hit and making your
+your other spells have higher save DCs.
+So, scorching ray is extremely powerful
+for a character using fire acuity uh as
+their main strategy, but then also is
+just a pretty solid damage spell for any
+character that can cast it. Having a
+non-conentration damage option that can
+be split across multiple targets that's
+pretty reliable because at least one of
+the rays is very likely to hit most of
+the time that you cast this spell uh is
+very useful for a character that is
+usually going to want to concentrate on
+something else. So for a wizard or
+sorcerer, this can be a better damage
+option in some fights than cloud of
+daggers because your concentration will
+be used up on something else.
+The other thing about scorching ray is
+that you can upcast it and each spell
+level that you add adds an extra ray
+which adds an extra 2d6 damage or with
+critical hits and extra damage modifiers
+like faral and the callus glow ring and
+so on can add enormous amounts of
+damage. So some builds are built around
+solely around maximizing scorching ray.
+a fire dragon sorcerer uh can um add
+their charisma modifier to each uh as
+damage to each of the rays as well
+because the fire draconic uh sorcerers
+will add their charisma modifier to any
+fire damage they do. And just like every
+other onit effect, this is going to
+apply for each individual ray. So you
+can stack your damage up pretty
+significantly with this spell. Even if
+you're not building around maximizing it
+though, this is just a very solid spell
+overall. I'm going to give it a tier
+because there are definitely fights
+where it's just not that efficient in
+terms of damage and it doesn't win
+fights on its own unless you're really
+building around it the way the S tier
+spells do. But this is just a very solid
+spell that's going to see a lot of play
+on any character that has it. C.
+Invisibility. The invisibility is a long
+rest non-conentration buff. When an
+invisible creature moves within 30 ft of
+the character who has the invisibility,
+that creature has to make a dexterity
+saving throw or they lose their
+invisibility and become visible. This is
+uh not a bad way because it's passive,
+so it's not a bad way to render
+characters visible. Um, but there's only
+so many encounters where there's
+invisible enemies and there's lots of
+ways to reveal them. The most reliable
+one is splashing them with water, which
+doesn't have a saving throw associated
+with it at all. And if I want to remove
+invisibility from an enemy, I usually
+want to do that 100% of the time rather
+than relying on something like C
+invisibility. That said, there's pretty
+low opportunity cost for this spell cuz
+it's a non-conentration buff spell that
+lasts all day. So, you can just cast it
+um you can use a camp cer and get it for
+free without spending a second level
+spell slot or you can cast it on another
+character if you have uh spell slots
+that you don't want to use on anything
+else. But a second level spell slot is
+still a fairly expensive resource. So
+for such a marginal effect, I don't
+think it's worth it, even though it
+doesn't cost you an action to actually
+use in combat. In the encounters where
+there are invisible enemies, um there
+are lots of other ways to see them,
+either splashing them with water. A lot
+of parties will also go through a story
+event that will give you the sea
+invisibility effect for free without
+casting a spell. And if you do want this
+spell effect, the game uh just showers
+you in scrolls of sea invisibility. So
+you'll probably have like 20 of those
+lying around for any time you actually
+do want to cast the spell. I don't
+recommend using your spell slots on
+casting se in invisibility. Dtier. I had
+to briefly pause recording to let my cat
+into my office cuz he really wanted to
+be here for this next one, which is fair
+cuz it's a very exciting spell. Shadow
+Blade. Shadowblade is a new spell added
+in patch 8. It used to be available in
+item form, but is now just castable as a
+spell. And similar to flame blade, it's
+a bonus action that summons a weapon
+into your hand. Unlike flame blade,
+though, it lasts all day instead of only
+for 10 turns. So, you spend the level
+two spell slot on shadow blade, and you
+get this weapon for the entire
+adventuring day. The shadow blade itself
+is a finesse weapon that does 2d8
+psychic damage. And because it's
+finesse, it uses the higher of your
+strength or dexterity to calculate its
+hit rolls and also adds that to damage
+as well. So for uh any character that's
+deck based, this is a very powerful
+weapon. Um it also gains automatic
+advantage on all attacks that you make
+while in uh while uh the enemy is in an
+unlit area. So if they are lightly or
+heavily obscured uh as in the there's no
+light source directly shining on them,
+you will always have advantage on the
+attack. That basically means permanent
+advantage on attacks if you put out
+lights before you go into fights or are
+fighting in dark areas. Uh as well as
+just doing 2d8 psychic damage with every
+attack, which is more damage than any
+equivalent weapon at these early levels
+is going to do. In addition to all of
+that, you can upcast shadow blade. With
+a third or fourth level spell slot, it
+does 3d8 damage per attack. And with a
+fifth or sixth level spell slot, it will
+do 4d8 psychic damage per attack. 4d8
+damage per swing is a ton of damage. So
+even though this weapon doesn't have an
+enhancement bonus, so it's not adding
+the like normal plus one, two, or three
+to the hit chance and damage, this is
+still more damage than any other
+equivalent weapon does per swing. It's
+one-handed, uh, uses your dexterity, so
+it's great for any character that has
+high dexterity and, um, and can be used
+with a shield or another off-hand weapon
+and just does an absurd amount of damage
+as well as giving you automatic
+advantage on your attacks. Put that all
+together and you have an absurdly strong
+weapon. But the hits don't stop there.
+This is a warlock spell. Uh, so for pack
+of the blade warlocks and hex blade
+warlocks in particular, you get the
+fifth level version of this spell for
+4d8 psychic damage without having to
+spend higher level spell slots cuz your
+warlock spells will automatically upcast
+it. It's also the perfect weapon for a
+blading wizard um because it gives them
+a tremendous amount of damage with every
+attack and they're a wizard so they're
+going to have the spell slots to cast
+the highle versions of this. For Eldrich
+Knights and Arcane Tricksters, this is
+also a very powerful option. As an
+arcane trickster, it's a finesse weapon.
+Works very well with your sneak attack
+and everything. And as an Eldrich
+Knight, you want to be up in the mix.
+And this lets you use a shield, so
+maintain high armor class while still
+doing excellent damage. There's also one
+particular item interaction that makes
+Shadow Blade that sends Shadow Blade
+from merely amazing to incredibly
+broken, and that is the resonant stone.
+The resonant stone is an item that just
+sits in your inventory and everything
+within a radius of you gains uh
+vulnerability to psychic damage. That
+includes the caster, but that mostly or
+the holder, but that mostly doesn't
+matter because when enemies have
+permanent passive vulnerability to all
+the damage you're doing and the shadow
+blade will now just do double damage on
+every single attack, they're just going
+to die immediately. So, the resonance
+stone shadow blade combo is just
+absolutely game-breaking and makes this
+weapon uh go from already excellent to
+truly absurd if you're going to use that
+combination. The fact that it doesn't
+cost an item slot to double all of your
+damage is just icing on the cake. Um,
+but any time that you can give enemies
+permanent vulnerability to your weapon
+attacks, you're going to take it. There
+are a couple enemies in the game that
+are immune to psychic damage, but um you
+just use, you know, a different weapon
+for those fights. And for every other
+fight, you have one of the most powerful
+weapons in the game. Shadow Blade gives
+you such a powerful tool that for any
+character that can both cast a spell and
+also make weapon attacks, it's usually
+going to be the best weapon. Um for
+warlocks, especially hexblade warlocks
+and blading wizards in particular, this
+weapon is incredible. But it's also just
+a very good default weapon just to have
+uh on almost any other character. And
+even for a wizard who's primarily a
+wizard, like an abjgeration wizard, can
+cast this spell and get up in melee and
+still do respectable damage. Um if
+you're an abjuration wizard, then you're
+safe to do that. So shadow blade is just
+absurdly strong. S tier. Next up,
+shatter. Shatter is an AoE damage spell.
+It does 3d8 thunder damage with a
+constitution save for half in a 10-ft
+radius. It's just a cast spell. So, and
+it's got 60 ft range. So, you just
+select an area on the ground. Everything
+within 10 ft of that point has to make
+the con save or they take 3d8 thunder
+damage. If they pass, they take half
+damage. This is not much damage for a
+level two spell. 3d8 thunder damage is
+fine, but it's the same amount of damage
+that the thunder version of chromatic
+orb does. The fact that it's AoE
+obviously means you're going to get more
+damage out of this than you will out of
+chromatic orb, but it's still comparable
+damage to a level one spell and has a
+saving throw. So, enemies will often
+take half damage. Being a constitution
+save is also a disadvantage. A lot of
+enemies will have very good constitution
+saves, so they're going to pass the
+saving throw against shatter pretty
+reliably and take half damage from this
+spell. The main advantage of this spell
+is its AoE and not concentration, which
+is not otherwise available at um second
+level. The other main AoE spell is cloud
+of daggers, which is obviously way
+better, but takes your concentration. Uh
+so the question is, is it worth spending
+a spell slot on this while you're
+concentrating on something else? And the
+answer is almost always no. Chatterage
+is is just a damage spell that just does
+not do enough damage to justify spending
+the action and the spell slot on it.
+It's unreliable and it's very low damage
+output. So, I wouldn't recommend casting
+this spell against enemies. However,
+there is one very specific use for
+shatter, which is against the scrying
+eyes. The scrying eyes are scattered
+throughout the game and are particularly
+prevalent in act one. And if they see
+you starting a fight or committing a
+crime against the absolute, then uh you
+can get into some pretty difficult
+fights before you're ready. So, being
+able to remove them from play can be
+pretty useful. And shatter is a good way
+of doing that. Inorganic creatures have
+disadvantage on the saving throw, so
+they'll almost always take full damage
+from this. And they have vulnerability
+against thunder damage, so you'll almost
+always one-shot them if you use shatter
+on the scrying eyes. Um, you can use
+chromatic orb for thunder as well, but
+shatter is going to be a little more
+reliable because of the saving throw
+disadvantage. So, this is a good way to
+get rid of those in order to move freely
+about in act one. So, just for that use
+against the scrying eyes, I'm going to
+give shatter C tier. It's also useful
+for Tempest clerics who can maximize it.
+So, it does have a use for them as well,
+though they don't have to choose to
+prepare it because it's a domain spell,
+so they'll always have it. Um, but uh in
+particular, you're going to use this
+spell against crying eyes for most
+parties. Next up, silence. Silence is a
+ritual spell, meaning that it doesn't
+cost a spell slot when used outside of
+combat, and it creates a 20ft radius
+area on the ground. So, a very large
+radius uh in which creatures cannot cast
+spells. It requires your concentration.
+Um, and there's a couple spells that you
+can cast while silence, but for the most
+part, anything caught inside of it will
+not be able to cast spells. This used to
+not start fights, so you could silence
+enemy spellcasters before fights began.
+Uh, but they have fixed that. So,
+silence will start hostilities. But
+initiating a fight against enemy
+spellcasters by putting silence on the
+ground costs you no resources. and will
+often ruin their first turn, especially
+if you can keep them trapped inside the
+silence area with a another spell or
+effect that reduces their mobility in
+some way. If an enemy spellcaster is
+silenced, they are not a threat because
+they're just not able to cast their
+dangerous spells. And you can start this
+uh start fights by casting this spell
+for free without cast costing a spell
+slot at all because it's a ritual.
+Silence also has some other uses in
+honor mode especially because a lot of
+boss honor mode boss legendary actions
+require them to make some kind of noise
+which they can't do while silenced. So
+there's some specific legendary actions
+in addition to also spell casting that
+you can prevent by having silence on
+certain honor mode bosses. So, not only
+is this good against fights with
+spellcasters, it's also good against
+bosses who need to yell to call their
+allies or something like that with their
+legendary actions. The main downside of
+this spell is that often enemies can
+just walk out of it because it doesn't
+stop them from moving or anything. So,
+you're going to need to combine it with
+some way to keep them in place in order
+to actually get value out of the
+silence. There are also some story
+events that it can interfere with
+because it can prevent scripted
+dialogues that are supposed to go off
+during combat. If the if a silence
+effect is on, you can't engage in
+conversation with that character. So,
+you can mess up some specific story
+events. So, you do have to be a little
+bit aware of that. But, for the most
+part, you can just use this spell before
+combat begins to shut down mages. And as
+long as you keep them inside the silence
+effect, you're going to win that fight
+because they won't be able to cast their
+spells. Obviously, not useful for every
+fight, but many, many fights in
+Boulders's Gate have spellcasters, and
+they're often the most dangerous ones.
+And silence is a great and pretty much
+free tool that you can use in those
+fights. I'm going to give it a tier
+because you do have to combine it with
+some other effects, and it's not going
+to be useful in every fight, but when
+you can make it work, this is just a
+fight-winning spell. Speaking of keeping
+enemies in place, spike growth. Spike
+Growth is a battlefield control spell.
+It's a concentration groundargeted spell
+with a 20 foot radius and a 60 foot
+range. So, an enormous amount of area
+that it covers. Um, and it lasts for as
+long as you want to concentrate on it.
+The creating an area of difficult
+terrain where if enemies move on it,
+they take 2d4 piercing damage for every
+5 ft that they move on the spike growth.
+This doesn't count most forced movement,
+but anytime that the enemy walks on it,
+they're going to take 2d4 piercing
+damage. So, if you put an enemy in the
+center of this 20 foot radius spell,
+they're going to take that damage four
+times if they just walk out of the
+spell. In addition to that, it's
+difficult terrain, so they're moving at
+half speed. So enemies who uh can't jump
+or teleport or fly are going to be just
+completely shut down in the center of
+the spite growth, unable to act and also
+taking enormous amounts of damage. This
+spell just wins fights against any
+encounter where it's mostly melee
+enemies, especially if they have to pass
+through a specific area to get to you.
+But that area can be quite wide because
+this spell is 40 ft across. So it's
+enormous. So you can cover an a huge
+amount of area with the spike growth and
+force enemies to come to you across it.
+Um especially potent when combined with
+effects like fog cloud or darkness that
+prevent enemies from jumping or the
+warlock spell at level three. Hunger of
+Hadar is another extremely natural
+combination with spike growth. Uh but
+even without those effects, this spell
+is just going to win the game. Win a lot
+of encounters on its own. I said win the
+game because it it honestly comes close.
+Uh, this spell will just win most fights
+with purely melee enemies entirely on
+its own. It slows them down. It costs
+them turns. It does tons and tons of
+damage when they're moving across it. If
+they do get out of it, you can use shves
+or pushes to push them back into it.
+It's not flammable, so it works with
+other surfaces and other um if types of
+damage as well. Spike growth plus wall
+of fire on top of the spike growth is a
+devastating combination. And there's all
+kinds of cool things you can do with it.
+There's also some neat specific combos.
+The druid cantrip thorn whip where you
+pull an enemy across the spike growth
+counts as them moving. So they're going
+to take the spike growth damage. If you
+use thorn whip, they'll take an extra
+4d4 damage from the thorn whip because
+they'll have moved 10 ft across the
+spike growth. Uh, and also druids,
+rangers, and wildart barbarians get
+land's stride as a class feature, and
+that makes them immune to the effects of
+spike growth. So, most characters that
+can cast this will eventually be able to
+stand inside it and move around inside
+it with impunity, moving at full
+movement speed and taking no damage,
+making them making it even more
+impossible for enemy melee attackers to
+actually get to them. This spell almost
+single-handedly makes druids and nature
+clerics basically the best early game
+characters. It will carry your entire
+act one uh more or less on its back. In
+fact, the easiest way to win the vast
+majority of act one encounters is just
+to put down spike growth, put cloud of
+daggers on top of it and just sit back
+and watch while your magical microwave
+just cooks everything in the encounter.
+Uh you can't overstate how good spike
+growth is. S tier. Next up, spiritual
+weapon. Spiritual weapon is a cleric
+summon spell, cost plus a bonus action
+and does not take your concentration,
+lasts for up to 10 turns, and summons a
+spiritual weapon. That uh summon has 20
+HP and 10 armor class, which obviously
+is not much in terms of defenses, but
+it's also completely immune to psychic
+and poison damage and resistant to all
+other damage types. So, those 20 hit
+points will go a lot further than it
+seems like they will. um enemies will
+often target it with attacks because it
+has 10 AC and they're more likely to
+target things with low armor class and
+then not do that much damage because
+it's resistant to all damage from
+enemies. The spiritual weapon can of
+course also attack. It attacks for 1d8
+uh plus one plus the spell-casting
+modifier of the caster in force damage.
+Um and it uses a spellcaster's attack
+modifier to hit as well. Uh
+spell-casting attack modifier to hit as
+well. So, you will hit a reasonable
+percentage of the time with the
+spiritual weapon, and you'll do okay
+damage every turn when you do so.
+Especially because it's free. It doesn't
+take your concentration. You only used a
+bonus action to summon it. So, if you
+even land a couple attacks with it, then
+you've gotten pretty good value. The
+weapon also comes in six different
+types, and each of those types comes
+with one of the special weapon actions
+that that weapon would normally have. If
+you summon the great axe, great sword,
+or hellbird, you can use lacerate to
+make enemies bleed. If you summon the
+spear or trident, you can use you can
+inflict a gaping wounds, which causes
+them to take two extra damage from every
+damage instance. And if you summon the
+mall, you can daz them, preventing enemy
+uh reactions. Basically, if you care
+about enemy reactions, summon the Maul
+for the spiritual weapon. And if you
+don't, then either the spear or trident
+is going to be your best bet. gaping
+wounds is usually going to be more
+damage than the bleed. So, uh, between
+those three is what you're usually going
+to summon for your spiritual weapon.
+There's a few main uses for spiritual
+weapon. Blocking doorways. Um, it's a
+very small object, but it does still
+take up space, so you can use it to
+block doorways. Distracting enemies. If
+they attack it, it has resistance to
+damage, and so they'll often just waste
+their action not killing it. And then
+you get more damage value from the
+spiritual weapon. Uh, and of course,
+just dealing damage in longer fights
+because just an extra attack every turn
+that only cost your bonus action and
+didn't cost your concentration is still
+a pretty powerful tool to have in your
+arsenal. The the upsides of spiritual
+weapon are minor, but there's a lot of
+them. And the downside is very low
+because it only took a bonus action to
+summon. So, the opportunity cost of
+summoning spiritual weapon is pretty
+minor. It also has a couple other
+synergies. It's permanently flying, so
+it doesn't care about things like spike
+growth or other effects on the ground.
+And it's immune to blindness, so it can
+fight just fine inside of fog clouds or
+darkness. So you can use it alongside
+crowd control effects in order to
+distract enemies and do extra damage
+without the spiritual weapon suffering
+from those things. The uh negatives of
+the spiritual weapon are that it is
+pretty slow and it has very low
+initiative. So it will often roll after
+enemies go and if they attack it may not
+even get to take a turn uh because it
+rolls separate initiative. And if
+enemies move away from it, it often
+won't be able to catch back up to them.
+So you have to be fairly careful with
+where you place it so that that doesn't
+happen. This is one of my favorite
+spells in the game, and I think people
+often undervalue it because they think
+of it as a damage spell. But the way to
+think about spiritual weapon is as bonus
+action, concentrationfree crowd control.
+Enemies will target it fairly
+frequently, so it can distract them,
+absorb damage, and cost enemies turns.
+And it can also block enemy movement and
+disrupt their formations. and the cost
+of casting it is very low because you're
+not spending an important resource like
+concentration and it only takes a bonus
+action so you can still do something
+else on that turn. It's good early where
+it can often absorb three or four
+attacks from enemies um before dying
+while dishing out decent damage. And
+it's good in the late game where the
+level two spell slot is not as important
+and being able to do something extremely
+relevant with your bonus action. It can
+be invaluable in lateg game fights where
+every possible turn needs to be
+maximized as much as possible. S tier
+for spiritual weapon. If you're having a
+little bit of trouble using this, just
+try putting it in doorways and see how
+much easier fights get when you divide
+the doorway in half with a spiritual
+weapon. Warding bond. Warding bond is a
+dayong non-conentration buff spell
+available to clerics and oath of the
+crown pal. And before I talk about the
+spell, I just want to remind you that
+I'm mostly considering these spells when
+you cast them using your active party
+rather than casting them from
+campcasters. The reason I'm reminding
+you about that is how warding bond works
+is you cast it on an ally and until long
+rest that ally has plus one to their AC
+and saving throws and any damage that
+they take is divided half and half
+between the ally and you. So, they're
+going to take half damage of uh any
+incoming damage and then you will also
+take half of that damage. The reason
+that this uh interacts with camp casting
+is that the most common way you're going
+to see this spell recommended for
+players to use is to have characters who
+stay at camp cast it on your active
+party and then your active party just
+has permanent resistance to all damage.
+You will come back to camp and find your
+casters dead. Uh, but that's a small
+price to pay for um being able to just
+take half damage from all enemies for
+the entire game. Now, I think that
+that's a pretty cheesy strategy in
+general. Um, but it is obviously very
+powerful. So, if you're using warding
+bond to just gain permanent resistance
+to all damage by casting it from a camp
+cer, then it's obviously an S tier
+spell. More interesting, I think, is the
+use of the spell as an actual spell that
+you cast from your active party. Is it
+worth splitting the damage across two
+party members at the cost of a second
+level spell? You also get a small
+additional bonus in defense to the
+target of the warding bond as well. I
+think the answer is um irritatingly
+enough, it depends or sometimes. This is
+a spell that can be very useful if you
+have a character who is tending to take
+most of the damage that your party
+takes. So, if you have a front liner
+like a barbarian who's taking most of
+the damage that your party is taking,
+warding bonds to split that damage up
+can make healing, especially AoE
+healing, go much further, can stop that
+character from being dropped in a single
+round, and can make your party a lot
+more resilient. Warding bond also
+interacts pretty interestingly with a
+lot of other sources of damage reduction
+because resistance in Balders's Gate
+applies before flat damage reduction.
+So, a character in heavy armor that
+reduces incoming damage, like the
+adamantine splint, will take half damage
+from warding bond and then subsequently
+reduce that damage by two. This also
+counts for damage that the caster of
+warding bond is taking as well. So,
+they're going to take half of that
+damage and then reduce that even
+further. And if they have damage
+resistances, then that will apply to the
+warding bond damage as well. So you can
+end up with the caster only taking one
+quarter of the normal damage of um that
+that the party member would be taking
+and actually reduce the total amount of
+damage that you're taking. So you get to
+multiply these damage reduction effects
+as well as splitting up the damage
+across your party. You need some pretty
+specific party setups to make this good,
+but there are definitely setups that
+make this very powerful, especially
+involving things like abjgeration
+wizards who are multiclassed with cleric
+to get access to the spell. Oath of the
+crown paladins actually can cast warding
+bond and have it be very good um because
+they will have a lot of hit points and
+usually heavy armor to reduce incoming
+damage further. So, Oath of the Crown
+Paladins can make use of warning bond
+sort of as intended and actually use it
+as a spell that you cast from your
+party. This is just a powerful effect um
+with a specific party setup. It's very
+good. So, I'm going to give it B tier.
+Even if you're using warding bond from
+your actual party's spell casting rather
+than camp casting. Obviously, if you're
+casting this from camp, then it's broken
+because it just makes your whole party
+take uh half damage for free. But even
+aside from that, this spell can be
+pretty solid. And finally, web. Web is a
+concentration battlefield control spell,
+and it's almost identical to the level
+one spell entangle with a couple
+differences. You cast it on the ground,
+and it has a 13 ft radius, so 3 ft
+larger in radius than the entangle
+spell. And if enemies are inside it,
+they have to make a dexterity saving
+throw or they become nwebbed, which
+identical to entangled means that
+attacks against them have advantage,
+their attacks have disadvantage. and
+they can't move. Their dexterity saves
+also have disadvantage though, but once
+you've locked them down in a web, that
+probably won't matter as much. Just like
+entangle, this is a fairly powerful
+debuff that can shut down melee enemies
+in particular. And it's a dexterity
+saving throw um rather than a strength
+save. So against melee enemies who are
+uh strength-based and often the ones
+that you want to shut down, especially
+in the early game, web is going to be a
+pretty good option. And just like in
+Tangle, it also has the same downsides
+of being flammable. So sometimes you're
+going to cast this, accidentally catch a
+torch in the radius, and immediately
+waste your level two spell or enemies
+are going to set something on fire, or
+you won't be able to use your fire
+weapons. So being flammable is of course
+a real downside for these groundargeting
+effects in Balders's Gate, but the
+upsides are definitely there, especially
+against melee enemies. This is available
+to sorcerers and wizards, so you don't
+usually have a choice of casting
+entangle or web on the same character
+because druids will be able to cast
+entangle, sorcerers, wizards, uh, and
+sorcerers and wizards will be able to
+cast web. So, as a level two spell for
+sorcerers and wizards, this is still
+something that you can concentrate on.
+Even though it's a higher level spell
+slot for a very similar effect, web is
+still pretty powerful, and it has some
+uses that entangled doesn't. The larger
+radius makes it easier to catch an
+entire encounter in it, and the fact
+that it's a dexterity save will actually
+usually be better for the types of
+enemies that you most want um to catch
+in a web effect.
+You can also use this spell as
+essentially featherfall because you
+don't take damage if you jump down onto
+a webbed surface. Uh which is fun and
+flavorful, although obviously not a
+super efficient use of a level two spell
+slot. Um but mostly this is just a spell
+that just like entangle has its place
+for the characters that can cast it. It
+doesn't overlap with entangle cuz it's
+available to different characters and is
+slightly more powerful. So, just like
+entangle, it's going to go in B tier
+despite being a higher level spell slot
+for basically the same effect. Uh,
+druids and rangers can also get web for
+free because the spider companion and
+spider wild shapes can shoot webs uh
+non-stop for free. And obviously, that's
+incredibly powerful. But when cast as a
+spell, this spell is still totally solid
+B tier. All right, my friends, that is
+all the level two spells. Let me uh zoom
+in so you can get a clean screenshot if
+you want. Um, you'll notice that with
+level two spells, this is where you
+start getting the really nice damage
+spells, most notably cloud of daggers,
+moon beam, and scorching ray, which are
+very efficient damage output to the
+spell slot. And also where we first
+start seeing spells like darkness and
+spike growth that can just win entire
+encounters on their own and will let you
+just solve certain types of encounters
+using pretty much only this spell for
+the entire game. So, the spells on this
+list are going to be absolute main stays
+for your strategy throughout your entire
+time playing Balders's Gate. As always,
+if you think there are any spells that
+I've put in the wrong tier, in
+particular, if you think there are
+spells that I'm underrating and you
+think are stronger than I've rated here,
+definitely let me know in the comments.
+I'm very interested to see your
+reasoning for ways to use spells that I
+might not have thought of that might be
+causing me to underrate some of these
+spells. Um, so let me know. I'm very
+open, of course, to moving spells
+around. As I mentioned previously, if
+you compare this spell tier list to the
+previous one that I did, you'll notice
+that things are extremely different. So,
+obviously, we can move things around if
+you have good arguments for why we
+should do so. Of course, if you've
+enjoyed the video, then feel free to
+leave a comment and hit like. Helps me
+out with the algorithm. So, I appreciate
+you taking the time to do that. And of
+course, you can subscribe to my channel
+for future spell tier lists when we come
+back with level three and above, more
+Balders's Gate 3 build guides, and other
+strategy game analysis. Cheers, friends.
+I'll catch you next time.

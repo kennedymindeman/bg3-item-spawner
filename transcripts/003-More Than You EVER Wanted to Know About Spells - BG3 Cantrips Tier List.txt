@@ -1,0 +1,1288 @@
+hello my friends and welcome back to
+another balers Gate 3 character building
+guide hope you're all doing well today
+I'm covering one of the least discussed
+and I think most important topics in the
+game for spellcasters canant trips we're
+doing a canant trips tier list because I
+think that when which can trips you pick
+is one of if not the most important
+decision that you're going to make when
+you're building any character with
+access to cantrips the reason is that
+cantrips are with you from the very
+beginning of the game and they cost no
+resources which which means you're going
+to be using them in combat and out of
+combat a lot in fact the cantrips that
+you take are often going to be the
+single most common action that your
+character takes throughout the entire
+game and you will be using them dozens
+or even hundreds of times over the
+course of the Run that's why it's a
+little odd to me that so many builds
+either get the cantrip selection wrong
+skip over it or have no rationale for
+why they're taking specific can trips
+something that I try to avoid with my
+builds and we're going to be discussing
+each of the can trips in detail and why
+they're good and why they're bad before
+I begin I will also mention that I got
+great feedback on my last tier list for
+Feats and as a result I am going to make
+no changes I think there's some marginal
+adjustments you could make to the Feats
+tier list but basically I'm very happy
+with it and think that um everything is
+pretty much in the right place so no
+corrections to be made there all right
+let's get in and talk about canant trips
+first off let's talk about the
+categories that we're going to be
+grouping them into I've grouped canant
+trips into five categories in s tier we
+have cantrips that you will always take
+if you have access to them with very few
+exceptions every character that has
+access to this cantrip will always
+select it in a tier we have strong
+cantrips that are going to be a great
+use of a turn when you don't have a a
+leveled spell or something that you want
+to use and are in general just very
+powerful to have throughout the game
+they give you significant advantages in
+certain encounters and are just very
+valuable overall in B tier we have
+cantrips that are useful you're never
+going to be sad to have these and
+they're often situationally excellent
+maybe they're not useful in like every
+single encounter but when they are
+they're really useful um or just canant
+trips that are overall pretty solid but
+not as powerful as the atier canant
+trips in c-tier we have canant trips
+that are pretty marginal they are ones
+that you can use and it won't be
+significantly worse than a better
+cantrip most of the time but definitely
+will be worse or has very narrow in
+situational uses and in D tier we've got
+cantrips that are just weak choices most
+of the time either you shouldn't be
+taking these or they only have some very
+narrow uses uh I think there are no
+completely useless cantrips so I haven't
+included an F tier and there's also no
+cantrips that sort of break the game in
+an unintentional way so there's no S
+Plus tier like you've seen in some of my
+previous tier lists all right let's get
+in and talk about the canant trips I'll
+be judging these based on their strength
+within the class that has access to them
+primarily we will be judging them a
+little bit against the other cantrips
+from other classes but since you'll be
+usually deciding whether to take them or
+not based on what cantrips your class
+actually has access to it makes the most
+sense to consider them as alternatives
+to the other options that class has so
+for something like vicious mockery for
+example I will be um considering it
+against the other Bard canant trips
+because only bards can take it and it is
+uh you have to decide whether or not to
+take it based on what BS have access to
+so it does doesn't make sense to compare
+it too strongly to all the other canant
+trips it's worth mentioning that most
+characters get access to three canant
+trips at the beginning of the game and a
+second and a fourth at level two and
+then one more as they level up although
+if you multiclass you get a lot more can
+trips and can afford to take the
+situational ones more freely if you are
+multiclass into two casters to begin
+with let's talk about acid Splash acid
+Splash is the first of the damaging
+cantrips and cantrips basically come in
+two typ types either they just do damage
+or they provide utility all the damaging
+canant trips do a small amount of damage
+that increases at level five and at
+level 10 and that's your character level
+five and character level 10 so whether
+you multiclass or not these canant trips
+will still improve as you level up when
+for almost all of the canant trips this
+means just adding one more die of the
+damage they do so acid Splash deals 1 D6
+damage at level one and then as you
+level up it's going to deal two D6 and
+then 3d6 damage that means that the
+cantrips that have higher base damage
+dice will improve more as you level up
+than the cantrips that have lower base
+damage dice because it's just um
+doubling and then tripling the damage
+they do so if you start with a higher
+number it's going to do more damage acid
+Splash uh is we also uh one other thing
+I should say we also when we're
+considering the damaging can trips have
+to compare them against the other ones
+that that class has access to usually
+you aren't going to take want to take
+more than one damaging cantrip there's a
+couple situations where you might but in
+general you are going to be best off
+taking one damaging canant trip and then
+multiple utility canant trips for most
+characters because why take multiple
+damaging canant trips you just want the
+best one that just does Dam the most
+damage in
+general acid splash does not do the most
+damage it has the cool effect of being
+the only area of effect canant trip so
+it's a 60ft range dexterity saving throw
+which negates the damage so if the enemy
+makes a deck save they take zero damage
+um in a 7ot radius so you can hit
+multiple enemies with it and if you do
+hit multiple enemies it's going to be
+better damage than any other cantrip
+however that's not reliable and you
+really want your cantrips to be able to
+help you finish off weak enemies that's
+the primary use for damaging cantrips or
+have some other form of utility Which
+acid Splash has none deck saves is also
+the weakest the worst thing for it to
+Target enemies are more likely to pass a
+dexterity save than they are to have AC
+you can't hit typically it depends on
+the enemy but when you're only picking
+one you're going to want to take things
+with the most General use case um
+and while not that many enemies are
+immune to acid it's not a great damage
+type either there's not a lot that's
+vulnerable to it and it has uh a few
+enemies that are immune or resistant to
+it as well it generally speaking is just
+going to be worse damaged than every
+other damaging canant trip and has no
+unique effects so acid Splash right off
+the bat I'm going to suggest not taking
+we're just going to call it a weak
+canant trip it's not zero usefulness and
+if you have acid Splash on your Wizard
+or sorcerer you can use it in some
+situations but in general for damaging
+cantrips you're just going to be better
+off with something else blade Ward blade
+Ward is the first of the utility
+cantrips but it's a utility can trip
+that you will typically use in combat
+how it works is you cast it on yourself
+and gain resistance I.E take half damage
+from bludgeoning piercing and slashing
+damage for two full turns so this means
+you're spending your action so you
+basically lose one turn in order to get
+two turns of taking half damage by
+itself this isn't a great trade because
+spending one turn to take half damage
+for two turns you break even on the
+amount of incoming damage but you had to
+do that in advance so you had to spend
+an earlier turn and earlier turns in
+combat uh are more valuable than later
+turns in in combat cuz you're wanting to
+set up more powerful effects earlier on
+an easy way to consider this is let's
+say an enemy has 20 health and you do 10
+damage if you attack them once for 10
+damage then they hit you once uh for
+let's say 10 damage back then you attack
+them again for 10 damage they die if you
+spend your first turn casting blade Ward
+then they hit you for five damage you
+hit them for 10 they hit you for five
+and then you hit them for 10 again uh
+and they die either way you've taken 10
+damage but in the second case you've
+taken three turns to do it so just in
+combat blade Ward is not an incredibly
+useful spell however it has a couple
+really cool synergies that actually make
+it very powerful blade Ward does two
+things that are really interesting one
+it allows you to protect temporary HP so
+for example armor of agathys gives you
+temporary HP and blade Ward effectively
+doubles the amount of temp HP you get
+since armor of agathys returns damage as
+long as it's active blade Ward also
+doubles the amount of damage your armor
+of agius is going to do so if you have a
+build based around armor of agius Blade
+Ward effectively doubles that in in
+power level by reducing incoming damage
+to half it also combos extremely well
+with any sources of other damage
+reduction you have so if you have say a
+set of armor that reduces incoming
+damage by two and an enem is hitting you
+for 10 then that um that incoming damage
+is reduced by 20% with blade Ward it's
+applied first so the incoming damage is
+only five and 5 minus 2 is a 40% damage
+reduction so it doubled the
+effectiveness of your damage reduction
+there as well that com that set of
+combos with blade Ward and how it
+combines with temporary HP and how it
+combines with damage reduction I mean
+it's actually a very powerful effect
+that you can use certain builds to
+extremely strong effect it also has some
+other Corner case uses like if your
+character just needs to survive one turn
+for um an ally to come help them like
+they're in a bad position and don't have
+anything better to do you can use blade
+W to keep them alive in general I think
+blade Ward is a great pick on on pretty
+much any character that has access to it
+it works very well with a lot of other
+spells and is extremely powerful in uh
+with certain combos as well as having
+pretty solid utility in bad situations
+in combat where you just need to live
+through one turn I don't think it's an S
+tier spell because you do need to plan
+around it a little bit but blade Ward is
+very good and we're going to put it in a
+tier bone chill bone chill is another
+one of the damaging cantrips and it's a
+60 foot range attack that deals 1 d8 of
+damage so an eight-sided die for an
+average of 4.5 damage this will
+obviously increase at levels 5 and 10 um
+as well to 2 d8 and then
+3d8 bone chill also prevents the enemy
+from healing for one round and there's
+no save against this effect so if you
+hit them with the bone chill which just
+attacks their AC with a normal attack
+roll then they can't heal in any way for
+one round this turns off potions
+regeneration healing spells Etc also if
+the target is Undead it gives them
+disadvantage on all their attacks for
+the next round which the more attacks
+they're making the more powerful this is
+compare this to vicious mockery which
+just gives disadvantage on the next
+attack the enemy makes against Undead's
+bone chill can be often preventing them
+from or giving them disadvantage on two
+to four attacks depending on how
+powerful the enemy is necrotic damage is
+an okay damage type not amazing a lot of
+Undead that you want to Target uh with
+this are resistant to necrotic damage
+but most human enemies will not resist
+necrotic damage um and it's just a very
+good damaging cantrip with a very
+powerful Rider effect special mention
+for use against vampires which are
+Undead and and have regeneration so this
+turns off their regeneration and gives
+them disadvantage on all their attack
+roles um so very very powerful there I
+think bone chill is one of the best
+damaging cantrips in the game and
+definitely a top tier
+consideration Dancing Lights Dancing
+Lights uh lasts 10 turns and requires
+your concentration and it light a 30t
+radius area up that's a big radius so
+that's much bigger than the light from a
+torch or anything like that however it
+uses your concentration and it only
+lasts for 10 turns um so while you can
+pre-cast it in combat before combat
+starts it does get in the way of pre-c
+some other things there's a couple
+Encounters in the game where just having
+light is very very useful um but in
+general I think you're going to be
+better off using light while I don't
+think Dancing Lights is a bad spell at
+all light can just last all day you can
+cast it on an ally and just have them
+shed bright light for the whole day you
+can also throw a torch in place of using
+dancing lights or light something on
+fire and that will create a lit radius
+as well um I would say that dancing
+lights is is good and if light didn't
+exist I would bump it up a couple tiers
+but as is uh or at least one tier as is
+I'm going to place it in C tier just cuz
+it's outclassed I think By the Light
+cantrip which does basically the the
+same thing but usually
+better and of course it competes for
+your concentration in combat and
+concentration is such an important
+resource light doesn't require
+concentration so is is much better
+overall eldrich blast so eldrich blast
+is unique for the damaging cantrips in
+that rather than getting extra damage
+dice as it levels up it gets extra
+attacks as it levels up so eldrich blast
+is 1 d10 Force damage the same damage as
+Firebolt and no Rider effect it doesn't
+do anything fancy like prevent enemies
+from healing or anything um but it's one
+of the best damaging spells even before
+you consider that it gets extra attacks
+rather than extra dice that's really
+really good for two reasons one is that
+it increases the N the chances of
+getting Critical Hits so uh if you roll
+2 d20s you have more chances of getting
+Critical Hits actually it's good for a
+lot of reasons I'm just going to go
+through all of them two it normalizes
+the distribution of your damage so it it
+tightens the distribution um having
+Firebolt roll 2D make one attack roll
+for 3d10 damage in the late game means
+that you either get 3d10 or you get zero
+eldrich Blast has the same average
+damage but because it's three different
+attack roles you are much more likely to
+get a result in the middle which is good
+because predictable predictability is
+really important in the game uh it's
+also for damage which is a damage type
+that almost nothing resists and also is
+really good against objects meaning that
+you can use eldrich blast to lockpick um
+and finally having multiple attacks
+means it applies any Rider effects from
+your cantrips multiple times warlocks
+also get agonizing blast that gives them
+Charisma to damage on their Elder blast
+attacks and at late levels when you are
+making three Elder blast attacks that
+applies three times over but also any
+items or anything work with every shot
+of the eldrich blast not uh whereas they
+would only work one time with other
+cantrips eldrich blast is the gold
+standard for damaging cantrips nothing
+resists it it will very reliably hit you
+can add additional damage to it very
+easily um it's 60 foot range incredibly
+powerful generally speaking eldrich
+blast plus agonizing blast is the
+Baseline damage for a damaging character
+and you can consider uh a warlock with
+eldrich blast as being the the standard
+damage output per turn for a character
+um with no resources expended so any
+character that does worse damage than an
+elder blast warlock should probably be
+rebuilt and any character that does
+better damage is doing really well and
+contributing more than their fair share
+of damage to the team Elder blast is an
+incredible canant trip obviously every
+warlock is going to take it but also
+it's the only cantrip that's worth
+considering only damaging cantrip that's
+worth dipping into another class just
+because it's so good you can take
+warlock to gain access to eldrich blast
+on other casters and increase your
+damage massively it's also the only
+cantrip that's even slightly worth
+consider considering taking a feat for
+which is a more valuable resource than a
+one-level character dip but spell sniper
+and Magic initiate can be can can be
+considered for taking eldrich blast
+generally I'd rather just take a level
+of warlock or two levels of warlock so
+you get agonizing blast but eldrich
+blast is incredible um and every
+character that has access to it is going
+to take
+it Firebolt Firebolt is very similar to
+eldrich blast in that it is 1 d10 at
+level one 2 d10 at level 5 3d10 at level
+10 it's um but it's all made in one
+attack and it's fire damage which is a
+very commonly resisted type of damage
+it's the best damaging canant trip for
+everybody who's not a warlock uh in
+terms of raw damage output however this
+is one that I've recommended a lot in
+some of my build guides that I've
+actually come down on a little bit I
+think that the rider effects of the
+other 60 foot range damaging canant
+trips put them a little bit over
+Firebolt it's never going to be a bad
+pick and it just because it does lots
+and lots of damage and or it does great
+damage for a can trip you can also light
+stuff on fire with it which is not
+irrelevant at all um but because it
+doesn't have the utility of bone chill I
+think in general you're going to want to
+go with one of the other 60 foot range
+damaging cantrips you give up a very
+small amount of average damage in
+exchange for a better damage type uh
+necrotic is generally better to do than
+fire and also a bunch of extra utility
+so I'm going to put Firebolt in the
+useful category rather than the strong
+category despite what I've some
+sometimes said in previous build
+guides friends friends is used in
+dialogue and it's used when you make a
+Charisma based skill skill check so
+persuasion uh intimidate perform or uh
+deception and it gives you advantage on
+that role however on tactician
+difficulty it will annoy PE or honor
+difficulty it will annoy people after
+you use it when the friends effect wears
+off it counts as breaking the law so in
+areas where law breaking is um
+punishable by going to jail you'll go to
+jail in areas where lawbreaking is
+punishable by being attacked you'll be
+attacked so it's very dangerous to use
+this that being said there are some
+really really important persuasion
+checks in the game that you are making
+against enemies that you would fight at
+the end of the conversation anyways and
+having a free way to get advantage on
+those is super powerful so for that
+reason I'm going to put it up in the
+useful tier you're not going to cast it
+very often but when you do it's going to
+matter a lot uh generally avoid using
+this in town don't ever use it on
+companions cuz you you you lose
+reputation with your companion canons
+don't use it on Merchants cuz it'll make
+things more expensive but against people
+that you intend to fight anyways and are
+making Charisma checks against it's
+really really
+useful guidance guidance just gives you
+a D4 on a skill check and can be used
+either in advance to making the skill
+check or in reaction to Rolling the
+skill check it does take concentration
+but since it's only used outside of
+combat that doesn't or almost only used
+outside of combat that does not really
+matter um and a D4 is just extra two and
+a half on average to your skill checks
+which is basically plus your doubling
+your proficiency it's the same as giving
+you expertise at early levels um and
+still massively useful throughout the
+game guidance is incredible passing
+skill checks is great um being able to
+react to skill checks by passing them is
+really important it's also really good
+to have this on multiple characters so
+one can use friends and one can use
+guidance and those stack very well
+together and so on um every single
+character that can take guidance should
+it's an incredible can trip and probably
+the single best can trip in the
+game might actually be the single best
+spell in the game in fact just massive
+amounts of value over the course of of
+the
+Run light so I've already talked a
+little bit about light but basically you
+cast this on an ally or an object and it
+lights them up uh in a 25t radius like a
+bright torch for the duration of a long
+rest um that does mean that it will be
+harder for that person to sneak so you
+want to be careful who you're casting it
+on but it's still massively useful to
+light stuff up there are some encounters
+in the game where having things lit is
+really powerful and it can prevent you
+from taking uh disadvantage on um
+attacks in the dark that doesn't happen
+that often in in this game most areas
+are lit so you're not going to worry too
+much about having not having dark vision
+or whatever but but just being able to
+light an areaa is very useful in general
+you're not going to cast light that
+often and there are a lot of other ways
+to duplicate this effect but when you do
+cast it it's going to be very good so
+once again I think that's going to be in
+the useful tier um of cantrip there's a
+lot of ENC there's a bunch of encounters
+especially in act two where having light
+is very valuable although you can
+duplicate the effect with a weapon that
+just sheds light by itself or any item
+sheds light by itself or just holding a
+torch light is a a way to do that that
+doesn't cost you something that you're
+holding but does cost you a cantrip slot
+I think most parties should try to have
+light somewhere in the party but if you
+don't if you can't fit it in your build
+it's not going to ruin your game or
+anything so useful tier I think is a
+great spot for light to be
+in Mage hand so Mage hand is is a weird
+one in Boulders gate it summons an
+invisible hand permanently invisible I
+with one HP that can only do a few
+things it can't attack but it can move
+around it can throw stuff and it can
+interact with objects by itself this is
+already pretty good interacting with
+objects like disarming traps and
+whatever from across uh the area
+um throwing things into or out of
+hazardous locations so there's a lot of
+uh items that might be let's say inside
+a cloud of gas that you want to go pick
+up with your m hand and then you can
+hurl them somewhere else useful that's
+very good but Mage hand also has some
+really really powerful although very
+irritating to use in combat
+utility what you can do with Mage hand
+because it can throw items is you can
+drop a stack of potions and put the Mage
+hand next to them and then the Mage hand
+can throw potions or bombs or whatever
+at your characters this is a great way
+or at the enemies this is a great way to
+heal and also a great way to apply bombs
+um Alchemist fire fireworks Etc to
+enemies without taking your character's
+turn you can cast this in advance of the
+combat starting it lasts all day and you
+get a massive amount of utility from it
+being able to use potions for free
+without taking an action is ridiculously
+strong and throwing them at whichever
+Ally needs one is very very powerful and
+Mage hand also does not take up a summon
+slot or anything you can have a familiar
+alongside your Mage hand um so you can
+just use this pretty much whenever
+another thing that's kind of weird about
+it is that because it's a summon with
+one HP and enemies uh will attack it
+they can't normally see it but enemies
+with C invisibility you can use Mage
+hand as a distraction if you cast it
+next to an enemy with C invisibility
+they will often spend their turn hitting
+it and spending a can trip to cost an
+enemy an entire turn is an incredible
+trade so for that reason Mage hand also
+has some weird incom comat utility
+specifically against enemies that can
+see invisibility you can also actually
+cheese this by running your pre summoned
+Mage hand up to enemies and then casting
+fairy fire on them and the Mage hand
+revealing the Mage hand to enemies that
+can't normally see invisibility and
+causing them to attack it um just a
+weird little combo that you can use I
+find these combos personally pretty
+annoying to use but they are really
+really powerful so we're going to put
+this in the strong te
+you could even consider putting this in
+s tier um if you are using it for the
+potion throwing very often but I think
+that most players are not going to be
+doing that in most combats just because
+it takes a long time to drop the potions
+and then throw them and then pick them
+back up at the end of every combat but
+remember that dropping stuff doesn't
+take an actual action so while it takes
+time out of your valuable life here on
+this Earth to do that it doesn't take
+time out of your character's
+turn minor
+illusion minor illusion uh can be placed
+anywhere within 60 ft and doesn't break
+stealth to cast um and it causes enemies
+to turn and look at it and walk over to
+it this is very powerful out of combat
+for stealing stuff because you can just
+get NPCs and guards and and whoever to
+leave and then steal stuff uh and run
+away before they come back and also very
+very powerful to set up combats there's
+two main uses for this one is to move
+enemies is to group enemies for AOE
+effect
+um and two is to move enemies so that
+they can't see you allowing you to set
+up in a good position to start with a
+surprise attack having enemies all
+looking in the other direction means you
+can get into stealth and even make melee
+stealth attacks very easily with minor
+illusion and of course having enemies
+group up on the minor illusion they all
+go huh and go look at the cat and then
+you drop a fireball on their head me
+massively multiplies the power of your
+AOE spells you can also use it to place
+them next to hazardous locations if
+there's a really difficult fight that
+you want to use you can bring enemies
+next to the edge of a Chasm and just
+shove them into it it cost you loot but
+that's definitely an option or just next
+to a cliff or acid cloud or whatever uh
+trap that's on the map already you can
+use minor illusion to pull them over to
+that thing most enemies are immune to
+the traps that are in their their Arenas
+they won't trigger them but you can pull
+them next to like a one of the mines
+that are in some areas and then detonate
+the mind with a fire BL a Firebolt from
+far away one of the utility for Firebolt
+or flaming arrows or whatever and then
+hit them with their own traps minor
+illusion has millions of creative uses
+is very powerful will often be worth um
+like a 100 damage in some encounters if
+you can group enemies up for a fireball
+it's just going to do massive amounts of
+damage by itself it's often worth
+advantage on your first attack it's
+often worth a surprise round minor
+illusion is just incredible and every
+single party should have access to it
+you don't need multiples of it you don't
+need it on every character who can take
+it but if you if you have a character in
+your party who can take it they always
+should uh the the first character in
+your party who can take it always
+should poison spray poison spray is
+another damaging cantrip it's a
+constitution save so that's one of the
+saves that enemies will most often have
+a very good save in and it's poison
+damage um which enemies are very often
+immune to or resist like most Undead
+resist or are immune to poison slime and
+oozes resistor our immune to poison any
+ethereal enemies resistor our immune to
+poison and the list goes on it's also
+only 10et 10 foot range the advantage it
+has is that it is the highest damage die
+it's a D12 compared to Firebolts d10 so
+it's going to deal on average 6 and a
+half damage compared to Firebolts 5 and
+a half multiply it as you level up um
+poison spray is bad 10 foot range is
+really really bad uh the fact that it
+does more damage is not useful in
+general um you would much rather be able
+to consistently apply your damage than
+deal like one more damage on your
+cantrip attacks um and it would it won't
+actually average to more damage because
+enemies will very often resist the
+damage and it targets the most the the
+save that enemies are best at in the
+entire game in Constitution saves
+there's very few enemies that have weak
+Constitution saves so poison spray is
+just a bad choice for a damaging can
+trip it is one of the only ones um that
+Druids get access to which makes it
+slightly more interesting for them but I
+would still avoid it on Druids you do
+have better options although Druids get
+weak damaging cantrips
+overall one of those better options is
+produce flame so produce flame is weird
+it has a lot of text but basically you
+make a f fire that you can either hold
+and it acts as a light spell or throw
+and it acts as a Firebolt it's a
+slightly weaker Firebolt and a slightly
+weaker light spell because it
+um it takes a hand to to hold on to it
+and it uh does 1d8 damage as opposed to
+1 d10 but having both in one spell is
+pretty good and since these are both
+useful spells I think that produce flame
+is actually quite strong um it's not my
+first pick in general of the a tier can
+trips but it's it's just a good cantrip
+it does two things that already good can
+trips do and while it's slightly worse
+at both of those things just having the
+versatility in a limited cantrip slot is
+very useful so I like produce flame a
+lot Ray of frost Ray of frost is a 60
+foot range damaging cantrip targets AC
+um and so just like Firebolt produce
+flame and eldrich blast Etc it's got the
+same range
+and it does 1d8 damage just like bone it
+does cold damage which is in Boulder's
+Gate actually surprisingly one of the
+least resisted damage types um some
+Undead resist it but balers gate enemies
+normally in D and D cold is a fairly
+frequently resisted damage type but just
+because of the specific makeup of
+enemies in Boulders gate it's it's less
+often um but it does a d8 damage and it
+slows the enemy movement speed by 10 ft
+again there's no save for this so if you
+hit with this it just slows their
+movement speed by 10 ft this also
+compounds if they Dash it's going to
+slow them by 20t if they Dash there's
+two main uses for Ray of frost one is
+it's just it's a solid damage en canant
+trip uh that you can just use any time
+three three main uses excuse me solid
+damage en cantrip that you can just use
+anytime for damage two you can kite with
+it meaning that you can slow an enemy
+and then move away from them and then
+they won't be able to catch up to you in
+combination with anything that increases
+your movement speed like long Strider
+being a Wood Elf jumping um often
+enemies even with a dash will not be
+able to get into melee range with you if
+their movement speed has been reduced by
+10 feet a an enemy that moves 30 feet in
+a round with a 10- foot movement speed
+reduction gets only 20 feet of movement
+or 40 feet if they Dash you can often
+move 40 ft in one round if you uh have
+long Strider on you you already have
+that 40 ft of movement speed
+speed 45 if you're a Wood Elf you can
+usually gain a few extra feet of
+movement by jumping with your bonus
+action meaning you can infinitely stay
+ahead of enemies as long as you Ray of
+frost them every turn secondly uh it or
+thirdly it lets you freeze water hitting
+it water with ice will freeze it
+creating an ice surface on the ground
+and Ice surfaces in Boulder's Gate are
+ludicrously powerful because enemies
+that fall prone on an ice surface just
+end their turn they also instantly lose
+concentration on anything they're
+concentrating on that means that enemies
+who have um ice surfaces that putting an
+ice surface under an enemy often allows
+you to trade your cantrip for their
+entire turn you can also often Target
+the enemy and if they're standing on
+water it will still freeze the water um
+meaning you can do some damage and cost
+them their entire turn Ray of Frost has
+multiple ways of costing enemies a whole
+turn and does great damage as you're
+doing it so it is just an extremely
+powerful canant trip I think it is the
+other good damaging canant trip
+alongside bone chill generally speaking
+you're going to want one of these two as
+you're damaging
+cantrips resistance so resistance is the
+cousin of guidance but it gives saving
+throws instead of skill checks
+resistance is worse for that reason
+because it still takes concentration and
+saving throws are mostly made in combat
+whereas skill checks are mostly made out
+of combat so when you would want
+resistance there's a lot of other stuff
+competing for your concentration that
+being said if you don't want to spend a
+spell pre-buff with resistance is is
+pretty good it lasts for 10 turns um and
+while it does take your concentration
+you know 10 turns of an extra D4 of
+saves on somebody can come up in certain
+combats if you don't want to concentrate
+on something else in that combat you can
+also use it in some dialogue checks or
+story events where you need to make a
+save during dialogue um resistance will
+come up in the same way that guidance
+will it's significantly less frequent
+than guidance and so we're going to put
+it under useful rather than always take
+it but resistance is still pretty good
+and one that I like having somewhere in
+the party um just generally being able
+to make your characters better at saving
+throws is always good and if you know
+you're going to make a saving throw in
+advance you can pre-cast it and when a
+saving throw comes up in dialogue you
+can use resistance to make it more
+easily SA flame so sacred flame is only
+available to cleric and it is the cleric
+version of a damage en cantrip they get
+it it does 1d8 of damage just like bone
+chill or Raya Frost Etc but it's radiant
+damage and instead of being an attack
+rooll it's a dexterity saving throw for
+your enemies now a dexterity saving
+throw is usually slightly worse than an
+attack role um
+but in general uh radiant damage is a
+great damage type that a lot of
+important enemies are weak to it and
+having the option between a saving throw
+damaging action or just making a
+crossbow attack um targeting the enemy's
+AC is pretty nice for clerics I don't
+think this is mandatory for clerics it's
+usually nice to have it's a decent
+damaging cantrip that has uh some uses
+against certain enemies but all it does
+is do damage it has no utility effects
+or of any kind so we're going to put it
+in the uh useful tier but overall it is
+I would say an okay spell I think most
+clerics are going to end up taking this
+but you won't miss it that much if you
+don't take
+it shalele which uh as I've mentioned
+before is how you pronounce it uh or at
+least as close as I can come without a
+gaic accent shalele is a weird one so
+it's only available to Druids and it
+transforms a staff or Club in your hand
+into a magical weapon meaning that you
+deal one eight base damage with it and
+it uses your spell casting modifier for
+attack roles
+um so what that means is that you can
+make attacks with a melee weapon using
+your wisdom as a druid there is also a
+weird Corner case where if you take this
+spell from Magic initiate it will use
+your spellcasting modifier for the class
+you uh took it from so you can take
+shalele on a warlock and have a Charisma
+based Club if you want um somebody
+pointed that out in the comments of my
+one of my more recent videos and that's
+that's a cool Corner case but not
+particularly useful to the discussion of
+shalele shalele has
+one marginally powerful use in Boulders
+gate which is with a torch which counts
+as a club and when you're wielding a
+torch in your hand as a druid it's going
+to actually deal decent damage torches
+deal 1 D4 plus 1 D4 fire so adding
+making that 1d8 plus 1 D4 fire means
+that your one-handed weapon is actually
+dealing pretty good damage um when you
+use shalele it also lets you use your
+wisdom instead of your strength so you
+can dump strength which you want to do
+on a druid of course that being said
+it's pretty much only useful at level
+one because after level two if your
+Druid is going into melee you're just
+going to Wild shape it rather than
+casting a cantrip and trying to hit
+things with a club and it locks you into
+using a club or staff of which there are
+not that many great ones for Druids to
+be carrying in the the game anyways um I
+would say that shalele is marginal it's
+not going to be the worst thing to spend
+your early turns on but generally
+speaking you if you want to go into
+melee with your Druid just turn into a
+spider and hit stuff uh it's much more
+effective than then hitting stuff with
+your attacks and if you are stuck in
+human form and want to make attacks you
+probably don't want to be entering melee
+anyways because in human form humanoid
+form your Druid is going to be pretty
+squishy chele is not the worst thing you
+can take on your Druid but it's not the
+strongest thing at all so I would avoid
+it most of the
+time shocking grasp shocking grasp is a
+melee attack so it is the lowest range
+of all of the cantrips because it's only
+melee uh it's shorter range even than
+poison spray um and does a d8 of
+electrical damage not that many things
+resist electrical damage but there are
+some very important enemies that do
+however it has the effect of removing an
+enemy reaction when you hit them with
+shocking grasp um what this means is you
+can attack with shocking grasp and then
+move away from them it also gains
+advantage on the attack rule against
+creatures with metal armor so you're
+fairly likely to hit against a lot of
+melee enemies that being said a lot of
+enemies that should count as having
+metal armor in Boulders gate don't
+they're just for whatever reason are not
+tagged as it so a lot of constructs and
+stuff you do not get Advantage with
+shock and grasp against them um so that
+that kind of of coding error is a
+problem for shocking grasp generally
+speaking the use for shocking grasp is
+to replace a disengage action so if your
+character is stuck in melee and you
+don't want to be in melee you hit them
+with a shocking grasp and then you can
+move away costing them their reaction
+you can also use it to disable a counter
+spell before an enemy that you know has
+counter before an important spell so if
+you know an enemy has counter spell um
+then you can hit them with a shocken
+grasp stop them from using their
+reaction and then they won't be able to
+counter a spell that you want that you
+really want to land uh there's also some
+reactions that certain bosses get that
+are very powerful to turn off so it does
+have some utility um but the times when
+it comes up are times where it's kind of
+a problem because you don't really want
+to be in melee with your caster and if
+you really want to take a disengage
+action then you really really want it to
+work right if it times where you want to
+spend your turn getting out of melee
+with somebody you don't care that much
+about the marginal amount of damage that
+you're doing and you just want to use
+disengage and get away for that reason
+I'm going to put it in marginal that
+being said the main use of shocking
+grasp is actually from the feet warter
+which lets you use shock and grasp in
+place of an opportunity attack you can
+do that for some Caster oriented melee
+characters like a a cleric who's using
+Spirit Guardians put them on top of of
+certain enemies and prevent them from
+moving away or cost them their reaction
+if they do move away allowing you to
+counter spell or whatever that for those
+characters it's useful but it doesn't
+come from actually picking shock and
+grasp the spell I would generally avoid
+taking shock and grasp on most casters
+similarly the other melee characters
+that might want it don't will not have
+the stats to use it so like an eldrich
+Knight could take shock and grasp but
+that would be based on their
+intelligence so it won't hit that often
+you're better off just making a melee
+attack with an eldrich
+Knight thury thury is like friends it's
+the uh the medium-sized brother of
+friends in that it also gives you
+advantage on Charisma checks but uh only
+for intimidation and performance these
+are the two least used Charisma checks
+but unlike friends it doesn't have any
+cost so for whatever reason um casting
+friends on somebody is a hostile action
+but you know blowing out all the candles
+or making your voice boom like you're at
+a rock concert isn't a hostile action
+even if you do it in the middle of a
+city um nobody's going to get mad at you
+for that
+one given that there are not that many
+in intimidation or performance checks in
+the game it's still not as powerful as
+uh friends or it won't come up as often
+as friends but every time it does come
+up it's really really good to have for
+this reason um cleric one to grab thury
+is a really useful dip on a lot of
+Charisma based characters and Bs and
+Sorcerers especially can really benefit
+from taking
+um taking cleric one and grabbing thury
+and then you can intimidate with your
+with your thury advantage to very
+reliably land intimidation checks I'm
+going to put it in the useful tier um
+similarly to friends it is very very
+powerful when you can use it but it
+doesn't come up that that often but uh
+there's lots of ways to make it useful
+by especially by grabbing it on classes
+that don't normally get access to it for
+a cleric who's not going to be making
+that many persuasion checks in general
+or not going to be be making that many
+performance or intimidation checks in
+general thury is not that great but for
+characters that will be making it it's
+incredible um when you need to make
+those checks so definitely worth a grab
+from another class especially bards
+sorcerer and
+warlocks Thorn whip Thorn whip is 60ft
+range and Deals uh 1 D6 of damage so one
+of the weakest damage amounts but its
+utility Rider is that you can pull an
+enemy 10 ft closer to you as long as
+they're not enormous uh pulling an enemy
+is very powerful for the same reason
+that pushing an enemy with Athletics is
+very powerful but unlike Athletics this
+does take your whole action um it's
+there's no save against it again all you
+have to do is hit with the thorn Whip
+and you can pull the enemy and one of
+the things that does make pulling a
+little better than pushing is that often
+enemies will start the fight on cliffs
+above you you can use Thorn whip to pull
+them down off of those Cliffs one thing
+that restricts that use is that it's
+only 30 foot range compared to 60 foot
+Thorn whip is very very powerful when it
+does do something good but it will
+almost never do something that good
+don't think um I'm going to place it in
+the marginal tier but with the
+understanding that um that's just
+because it it comes up so rarely that
+it's going to be powerful but when it is
+powerful it's really really powerful
+pulling down an an enemy down off of a
+cliff or into an AOE effect that is in
+between you and them is really good but
+just because of the short range it's
+pretty hard to effectively use this that
+said I still think it's often one of the
+best pick for Druids just cuz their
+cantrip selection is so weak so maybe I
+should bump it up a tier yeah i' I've
+actually talked myself into it and to
+bump it up a tier to to useful just
+because cantrips are a sore point for
+Druids anyways they have weak cantrip
+selection in general and when it does
+come up it is very good so we're going
+to put it
+there true strike this is the one I know
+you've all been waiting for um true
+strike and here comes my hot take true
+strike is not useless
+um lots of people will say true strike
+is going to be completely useless and
+you should never ever cast it and that's
+based on Good Intentions so the reason
+that true strike is bad is that it just
+gives you advantage on your next attack
+it takes your concentration so or uh
+which is bad of course lots of things
+compete for your concentration in combat
+um while you can cast it on an ally you
+will often be like self-c casting it or
+something um and you can usually
+duplicate its effect just by hiding
+however there is one particular case
+where true strike is good and that is if
+you can't hide for whatever reason uh to
+gain advantage on your attack uh let's
+say you don't want to start the combat
+with that character um so they'll be
+seen as soon as you hit the enemies with
+a different character or you are in an
+arena where you can't get a Melee
+character into combat you can cast true
+strike before the combat starts to gain
+advantage on your first attack in combat
+you would never ever cast true strike
+during combat and the reason is simple
+because rolling two dice on one attack
+is always worse than just rolling a
+second attack so taking an action to
+give yourself advantage on your next
+attack is just worse than rolling just
+rolling two attacks basically if you
+miss with your first attack then true
+strike is the same as uh as another
+attack would be right you're rolling two
+dice but if you hit with your first
+attack true strike has removed the
+possibility of getting two hits because
+you spent one action on true strike and
+one action on an attack uh with
+Advantage versus just hitting twice also
+of course that gets even worse at later
+levels when every action is worth
+multiple
+attacks for the marginal utility of
+using it before combat we're going to
+put it in in Weak and not in completely
+useless I know some people say this is a
+completely useless spell it's not
+completely useless but it is pretty
+close there are times where it will come
+up and I wouldn't take it as my um as a
+cantrip on most characters but if you're
+if you've already got like two options
+for damaging can trips and all the
+utility can trips that you want true
+strike will get cast like once or twice
+during the game whereas you might never
+use acid Splash um on that character
+that already has Ray of frost and and
+Bone chill so there are times where you
+would take it over one of these other
+spells um generally speaking though very
+bad
+spell vicious mockery vicious mockery
+does a D4 of damage so is actually the
+weakest of the damaging cantrips um but
+it is the only damaging cantrip that
+bards get access to it also targets a
+wisdom saving throw which means there
+are some enemies that will have very bad
+wisdom saving throws like most brutish
+melee enemies will have very weak wisdom
+saving throws and you can reliably land
+it there it also does psychic damage
+which is a not a great damage type
+mindless enemies will always ignore
+psychic damage so it doesn't work
+against like most Undead and so on um or
+constructs or anything like that and
+many of the most dangerous brutish melee
+enemies that have bad wisdom saves also
+are just immune to psychic damage
+however it has the rer effect of giving
+enemies disadvantage on their next
+attack role meaning that they
+will uh which which is very powerful it
+doesn't unlike bone chill give them
+disad anage on a whole turns worth of
+attack so if they have multiple attacks
+in a round it's only disadvantage on the
+first one but stopping an enemy from
+hitting you especially disadvantage
+combined with a lore Bar's cutting words
+can very reliably prevent an enemy from
+Landing one attack if the The Vicious
+mockery goes off it's not going to be
+something that your character is
+spending a lot of their turns doing and
+often aard is going to be better off
+just making a crossbow attack but it's
+not zero uses and um I think that it has
+some utility in some combat engagements
+you have to pick your spots with vicious
+mockery lots of bars are going to take
+it but in general it's it's weaker than
+just using uh a crossbow or using a
+scroll something like that if you are
+just looking to deal damage and win the
+fight as soon as possible against some
+particularly strong enemies with weak
+wisdom saves it can be useful to stop a
+single attack with it so I'm going to
+put it in in the marginal tier um I
+think you if you were comparing it
+theoretically to acid Splash or whatever
+it's better than that because it does
+have some pretty good utility but um
+just the very weak damage on it means
+it's often not a great use of your turn
+so for Action economy reasons it goes in
+marginal all right my friends here is
+the final look at all of the cantrips
+one thing that you'll notice here is I
+think cantrips are actually quite well
+balanced in Boulders gate and in
+Dungeons and Dragons there's not an over
+like most of them are in B tier which is
+what you want you really want this kind
+of bell curve distribution when you're
+doing game balance um you'll notice as
+well that a lot of the weaker ones are
+damaging cantrips and that's just
+because when you're picking a damaging
+cantrip you just want the best ones uh
+the others are usually superseded by
+better
+options I hope that you enjoyed this
+video and as always of course feel free
+to let me know what you think if you'd
+move anything around um leave a comment
+like the video and you can subscribe to
+my channel for more of this and other
+strategy game content and let me know if
+a spells tier list for higher level
+spells is something that you're
+interested in cheers my friends catch
+you next time

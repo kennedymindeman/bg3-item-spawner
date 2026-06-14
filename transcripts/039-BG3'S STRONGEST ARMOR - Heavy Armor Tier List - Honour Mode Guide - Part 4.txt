@@ -1,0 +1,1562 @@
+hello my friends and welcome back to
+another Boulders Gate 3 tier listing
+guide hope you're all doing well today
+in part four of this series we are
+completing our comprehensive look at
+every single piece of armor in balers
+Gate 3 with heavy armor in part one we
+covered cloth and robes in part two
+light armor and in part three medium
+armor So today we're going to look at
+all of the heavy armors in the game
+which characters they're good for
+strengths and weaknesses of the items
+and whether they're worth picking up or
+if you should just feed them to Gale by
+this point you know the drill but just
+to quickly run over the ground rules
+here I'm rating these armors based on
+act so when you acquire the armor we're
+looking at how good it is when you
+actually pick it up which means that as
+we go from left to right in the tiers
+the items to the right will tend to be
+stronger in absolute terms because they
+show up later on in the game in s tier I
+am placing armors that are best in slot
+for either very powerful builds or a
+wide variety of builds in a tier armors
+that are are best in slot for narrow
+builds or interesting alternatives to
+the S tier armors in B tier armors that
+are pretty useful in some narrow
+circumstances in C tier armors that are
+uh unlikely to be useful but have some
+marginal value so maybe given the right
+team composition or exactly the right uh
+moment in time you can use these armors
+for some benefit and in D tier armors
+that are rarely if ever going to be
+useful if they are ever useful it will
+be require a pretty unusual team
+composition to want to pick up and wear
+these armors heavy armor is available by
+default to Fighters and paladins um and
+weirdly you only get heavy armor
+proficiency if you start with your first
+level in fighter or Paladin if you
+multiclass into those uh classes later
+on you only get medium armor proficiency
+but you can also pick up heavy armor
+proficiency as a cleric from certain
+cleric subclasses or as a ranger through
+the r night class feature and if you get
+it that way you can still pick it up
+with uh levels later on in the build so
+there's fewer characters that will be
+able to use heavy armor only certain
+classes will be able to use it some
+multiclasses will be prevented from
+using it but of course it inv it
+includes some of the most powerful armor
+sets in the game so it's very much worth
+picking up and will be excellent for
+some builds heavy armor also always
+gives you disadvantage on stealth checks
+I won't be mentioning that as we go
+through except for the rare exceptions
+where I will talk about it also just
+because I know many people will ask this
+question I am aware that you can get the
+hell dusk armor in act one I'm going to
+be talking about it as an act three
+armor um because larion has tried to
+patch out the the methods for getting it
+in act one a few times unsuccessfully so
+I'm considering it an exploit we'll talk
+about it as though it arrives at the
+point in the game when you're intended
+to get it in act three all right let's
+get to raiding the armors
+first Up Ring mail so again I'm going to
+keep the nitpicking on these Armor
+Designs to a minimum here but the ring
+mail is such a bizarre design for a
+piece of armor that I do want to comment
+on this just a little bit um this is not
+a historical kind of armor and unlike
+the studded leather it doesn't have even
+the excuse of looking vaguely like a
+historical kind of armor uh these
+gigantic open rings that seem to be sewn
+into this leather backing obviously
+aren't going to help it because they
+have big holes in the middle um and
+they're also not closely spaced enough
+to distribute the force in any way if
+you get hit by a blunt weapon so all of
+the force is just going to go on one of
+these rings so it's it's sort of obvious
+why nobody ever wore something that
+looked like this and why you wouldn't uh
+in game it gives you 14 Armor class
+which wouldn't be terrible except that
+the 14 Armor class is exactly the same
+armor class as scal male the medium
+armor that most car most are going to be
+able to acquire from on the nautiloid or
+very shortly thereafter or even just
+start with medium armor allows you to
+use up to two points of your dexterity
+to increase your armor class so a
+character with 14 dexterity and scal
+male is going to be in is going to have
+16 AC whereas that same character
+wearing ring mail will only have 14 AC
+so it's significantly worse than the
+equivalent medium armor that you
+actually start the game with um because
+it just restricts your ability to use
+your Dex it bonus to Armor class there's
+just uh even if you have uh low
+dexterity for some reason it's not going
+to be better than the 14 and AC scale
+male and most characters obviously are
+not going to have low dexterity so
+there's just no circumstance where you'd
+ever want to use the ring mail because
+you start the game with armor that's
+just strictly Superior than it so D tier
+chain mail okay so quick nitpick here D
+And uses male as a synonym for armor and
+just calls all sorts of things different
+kinds of male male specifically means
+the kind of closely interlocked rings
+that D and D calls chain so the name of
+this armor is basically chain chain or
+male male if you wanted to refer to it
+properly you would call this kind of
+armor probably a male halber meaning the
+kind of male garment that has a skirt
+and extends down to or below the knees
+if it was just a shirt like the chain
+shirt from the light armor section you
+would call it a a male shirtt or a male
+Bernie or possibly a jack of male uh
+those are all possible options points
+though because this was a real
+historical kind of armor and a real
+piece of protective equipment that
+someone could actually wear probably
+shouldn't be classified under heavy
+armor cuz it's actually a quite light
+and flexible piece of armor but at least
+is a real thing and a pretty useful
+thing to have if you're going
+adventuring in game it gives you 16
+Armor class which obviously because it's
+a heavy armor is 16 base Armor class but
+you can't add your dexterity bonus so
+it's on par with the splint mail from
+the medium armor which is 14 AC with a
+maximum plus two dexterity bonus for any
+character with 14 decks or higher while
+I don't recommend that you take
+characters with lower than 14 dexterity
+the chain mail is therefore an
+improvement for characters that have
+lower than 14 dexterity so if you're
+doing a specific kind of run where you
+have a bunch of characters with less
+than 14 dexterity or a character with
+heavy armor proficiency and less than 14
+dexterity the chain mail is acquirable
+early enough that it could be an
+increase your armor class notably also a
+lot of the companion characters the
+origin characters have starting odd
+numbers in dexterity starting 13
+dexterity um so if you're doing like a
+no resps run then you could use the
+chain mail to give you a slight increase
+in armor class over the splint maale uh
+for the early game for that reason I'm
+going to put it in C tier because while
+it does take a very unusual and
+unoptimized party comp to want to use
+the chain mail there are definitely
+cases where that could be the where that
+could be the right move um if you're
+doing a low dexterity run for whatever
+reason the splint armor so the splint
+armor is 17 AC non-magical armor uh that
+you can get from Merchants near the end
+of Act One the splint armor being 17 AC
+but without a DEX bonus is on par with
+the gith yank half plate or other 15 AC
+medium armors um for characters with 14
+or more dexterity though again like the
+chain mail for a low dexterity run could
+conceivably be an upgrade to your armor
+class by the time you get the splint
+armor near the end of Act One however
+the same Merchants that sell you the
+splint armor will also sell you the
+plate armor which has at and AC and is
+just better in every uh conceivable way
+so since these show up at the same time
+in the game and the splint armor is just
+strictly worse than the plate armor it's
+never going to be worth using and is
+going straight into D tier the plate
+armor so I've already mentioned that
+this shows up from the same Merchant who
+will sell you the splint armor near the
+end of act one and is therefore going to
+be a strictly Superior option because it
+gives you 18 Armor class instead of the
+splint armor 17 that means that it's
+also better than the 15 AC plus two Dex
+bonus medium armers that are what you've
+probably been wearing up until this
+point and so this is the first heavy
+armor that represents what is likely to
+be an improvement in your armor class
+over the equivalent medium armors in
+available in act one for that reason a
+lot of the time this will actually
+improve your character's defensive
+capabilities while it doesn't have the
+magical effect of some of the the medium
+armors available there are definitely
+routes you could take through act one
+that get you to the plate armor at a
+point where it's still worth buying and
+wearing because it's it's just an
+improvement to your armor class if you
+do do that though it won't be long
+before um magical armors that are based
+on your level like the plus one splint
+that's just better start showing up and
+before you get other 18 AC armors with
+magical effects that obsolete the plate
+armor so while there are definitely
+routes that you can take through the
+game where the plate armor will be a
+benefit and will be a real upgrade it
+will not remain uh something that you
+want to
+stay in for very long for that reason
+I'm going to put it in B tier because
+only some routes through the game are
+going to pick up the plate armor before
+they have better options and even those
+playthroughs are going to find better
+options very quickly after you pick up
+the plate armor but still one that's
+worth keeping an eye out if your
+playthrough is one that can use it the
+plus one ring mail so the plus one ring
+mail gives you 15 Armor class uh again
+this is going to be less than the
+equivalent medium armors so you're
+taking an AC hit under under most
+circumstances to equip this armor um and
+gives you a plus one bonus to strength
+saving throws and strength ability
+checks now some strength ability checks
+show up in dialogue but the vast
+majority of strength skill checks that
+you're going to make in the game are
+going to be Athletics checks to push
+enemies around which this passive the
+the body Aid passive from the plus one
+ring mail doesn't work on so
+irritatingly the only thing that this
+armor is designed to do which is sort of
+to help you push enemies around or at
+least that that's the use case that it
+could have uh doesn't work so the only
+reason to ever equip this is if you know
+you're going to a fight where you're
+going to have to make strength saving
+throws there are very very few strength
+saving throws in the game and the ones
+that are there are still typically
+you're going to be better off with
+higher Armor class anyways than a very
+small bonus to strength saving throws um
+or of course one of the many armors that
+just gives you a flat bonus to all of
+your saves rather than uh trying to mess
+around with the plus one ring mail which
+is just a downgrade in your defensive
+capabilities and doesn't improve your
+Athletics checks which it could
+theoretically have been a fun use for
+this armor but unfortunately doesn't
+work for that reason I'm going to put it
+in D tier maybe you could swap this in
+before a dialogue uh or story event
+where you have to make a strength check
+but um carrying around that much weight
+just for that is going to be way more
+hassle than it's worth don't bother with
+the plus one ring mail the plus one
+chain mail so the plus one chain mail
+has 17 Armor class one more than the
+chain mail itself and gives you one
+resistance to slashing damage which is
+mostly not an enormous benefit obviously
+it's a relevant bonus that you won't say
+no to but not one that's going to make
+or break most combats it shows up at
+Merchants from levels four through level
+six so when your party is between levels
+four and level six you can buy the plus
+one chain mail and it's going to give
+you 17 base AC now by the time your
+party is level four you have all of the
+half plates that you can eat so you are
+probably full up on 17 AC armors
+provided that your party has the
+standard 14 or higher dexterity however
+similar to the chain mail for parties
+that have lower than 14 dexterity the
+plus one chain mail could to be a real
+armor class upgrade depending on the
+route that you take through the game so
+you can take um you could theoretically
+have arrived at the plate armor before
+this but if you didn't then the plus one
+chain mail might be a bonus for your
+character who's still got the chain mail
+equipped this is a very unusual
+playthrough and again one that requires
+you to uh deliberately be not optimizing
+your characters cuz there are very very
+few optimized character builds that are
+going to take less than 14 dexterity and
+they're all quite unusual um and so the
+plus one chain mail is only going to
+show up in very rare playthroughs but
+for a playthrough where you're doing
+like a no resps run or something like
+that similar to the chain mail you could
+benefit from the plus one chain mail um
+when you hit level four it might be a a
+upgrade to the chain mail that your
+party members might still be wearing the
+plus two ring mail so this gives you 16
+AC and shows up with when your
+characters are between levels five and
+levels eight in Merchants um it has the
+same passive as the plus one ring mail
+where it increases your strength saves
+and ability checks by one and it also
+reduces incoming slashing damage by one
+16 Armor class armor by the time you are
+uh level five is just not where you want
+to be you already have had access to the
+plus one chain mail if that's even an
+effect that you want so there's just no
+reason to ever pick up the plus two ring
+mail I do wish that this passive worked
+on athletic X checks cuz then it might
+be kind of cool for that but since it
+doesn't there's just no reason to ever
+pick this the plus one splint armor so
+this is an 18 AC armor available for
+merchants between characters level 6 and
+8 so pretty late in Act One typically it
+gives you 18 Armor class and one
+resistance to piercing damage the one
+resistance to piercing damage is the
+most relevant of these three damage
+resistances piercing damage is the
+second most common damage type after
+slashing those slashing piercing leging
+um but piercing damage is also the
+damage type dealt by the most
+threatening enemies typically who are
+archers uh you are going to take more
+piercing hits than you are going to take
+slashing hits typically over the course
+of your runs because archers are more
+likely to actually get their attacks off
+than melee
+enemies it's still only one damage
+resistance of course but it is at least
+the best of the three damage resistance
+types splint armor is going to show up
+relatively late in AC one there are rats
+you can take where you're going to have
+plate armor first there are rats you can
+take where you won't have plate armor
+first so um either way it's going to be
+a slight upgrade over plate armor or a
+more significant upgrade over the other
+kinds of armor that you're using up to
+this point in order to increase your
+base Armor class to 18 splint armor
+therefore is the first one that you are
+probably going to uh try to buy but even
+then it's not a significant upgrade over
+the medium armors with uh with plus two
+dexterity and doesn't have the magical
+effects of those media MERS or of the
+adamantine splint which is also likely
+available around the same time as the
+plus one splint again this depends a lot
+on your routing for your playthrough if
+you are doing a very specific order of
+uh play that prevents you from getting
+some of the other armors before you hit
+Level six or you're doing like all the
+quests um to level up as quickly as
+possible before you enter combat
+then the splint armor could absolutely
+be something that comes into play in
+your run I'm going to put it in B tier
+same as the plate armor it shows up at
+around the same time and gives you
+around the same bonus uh these two are
+relatively interchangeable so B tier the
+adamantine splint armor so this is
+available from a story event near the
+end of act one and gives you 18 AC
+reduces all incoming damage by two and
+prevents Critical Hits From landing on
+you entirely so uh as well when an enemy
+actually does hit you they receive three
+turns of reeling which reduces uh their
+attack rolls they get a minus one
+penalty to attack rolls for every turn
+of reeling remaining and this will stack
+so if they hit you multiple times
+they'll get even more stacks of reeling
+reeling even though it's harder to stack
+up than radiating orbs which it's the
+same effect as obviously that's an
+incredibly powerful effect so enemies
+are very very rarely going to land
+multiple hits on you when you're wearing
+this armor and if they do you've taken
+less damage you aren't taking a critical
+hit so you aren't going to sort of
+randomly get spiked with damage and die
+when you weren't expecting to uh and it
+will completely shut down that enemy for
+the rest of the encounter because they
+will have so many turns of reeling that
+they won't be able to hit anything three
+turns for a minus three attack penalty
+is really bad for most enemies and if
+they do hit you twice they're getting
+six turns of Reeling for a minus 6
+attack Penal y uh which is just a
+ridiculous amount of of penalty and is
+going to prevent them from hitting their
+attacks again for the rest of combat
+combine that with Early Access to two
+flat damage reduction which is really
+powerful especially this early in the
+game when a lot of attacks still do very
+low amounts of damage it also combines
+extremely well with other sources of
+damage reduction um if you can get heavy
+armor proficiency on an ABD duration
+wizard it combines super well with
+Arcane Ward it combines well with uh the
+force conduit items the um the I'm for
+blanking on the name but the glaive that
+lets you apply Force conduit um it
+combines extremely well with sources of
+resistance like blade Ward uh in order
+to reduce incoming damage to you vastly
+so the adamantium splint makes you
+incredibly safe when you are wearing it
+removing Critical Hits from the equation
+also removes one of the ways that you
+lose the game when you're playing honor
+mode one of the the things that can
+happen to a party and uh if you are
+planning well and building well this is
+one of the most dangerous things that
+can possibly happen to a party is just
+getting critically hit a few times in a
+row that can snowball out of control
+because then your other party members
+are having to spend actions saving the
+lives of your downed party members and
+so on uh removing Critical Hits from the
+equation just makes your whole party so
+much safer combine that with the fact
+that enemies that do actually hit you
+are shut down for the rest of combat and
+the just very solid armor class on this
+armor ATAC is totally reasonable for
+this point in the game and will stay
+pretty good uh throughout the next long
+section of game play and the adamantine
+splint is going to stay a very relevant
+piece of armor throughout a big chunk of
+the game really powerful uh armor set
+and definitely worth picking up uh s
+tier armor and one of the reasons to go
+heavy armor is access to this armor set
+all right so let's start our act two
+armors starting with the plus two chain
+mail so the plus two chain mail is
+available from Merchants starting at
+party level seven uh which means it's
+either very near the end of act one or
+near the beginning of act two depending
+on exactly how much content and how much
+grinding you did in act one since it's
+most likely to see Heavy use in Act 2
+I'm counting it as an act two armor as
+with all the other things that are
+available level seven and later it gives
+you 18 Armor class and two resistance to
+slashing damage so it's an upgrade over
+the plate armor um a kind of a side
+grade from the plus one splint armor but
+you could theoretically swap to the plus
+two chain uh when you are going into a
+fight with a lot of slashing damage and
+not much piercing damage uh but of
+course by the time you're using the plus
+two chain you almost certainly have
+access to the ataman splint so that
+means that it's only worth taking for a
+fight with a of slashing damage if you
+either don't have you didn't pick up the
+adamantine splint maybe you valued some
+of the other adamantine items more or
+the adamantine splint is already
+equipped by another party member then in
+theory you could use the plus two chain
+mail um I don't even know if that's
+worth putting it into C tier uh 4
+because that's such an extraordinarily
+narrow use case but honestly I just like
+that all of the chain mails are going in
+C tier so I'm going to put it in C tier
+just for for the Symmetry um but this is
+just not one that you're going to want
+to go out of your way to use in any way
+if you haven't picked up the plate armor
+or splint armor then the plus two chain
+mail of course can be worth it or if you
+are specifically worried about slashing
+damage and don't have the adamantine
+splint then the plus two chain mail
+could be worth it for one level um but
+those are very very unusual
+circumstances the plus one plate armor
+so this is a 19 AC armor so it's the
+first break point where wearing heavy
+armor is actually a meaningful
+improvement over wearing the easily
+available medium armors and just having
+14 dexterity um 19 AC is going to be
+higher than you're going to reach with
+most of the medium uh armors with a
+character that's not dexterity based
+itself the plus one plate armor gives
+you 19 Armor class and one piercing
+damage resistance and is available from
+Merchants starting at level eight so it
+will immediately obsolete the plus two
+chain one level later you get the plus
+one plate which is just more armor class
+and again there are some routes you can
+take through the game where the plus one
+plate armor is going to show
+up uh before you get access to other 19
+AC armors while it is less powerful in
+general than the adamantine splint you
+will be better off defensively by having
+the Adam maintain splint if you for
+whatever reason want a character who
+just has the highest possible POS Armor
+class um maybe you're doing a character
+with like a Battle Master fighter with
+Golding attack or something along those
+lines um then the plus one plate armor
+is probably going to be your highest
+available AC setup at the point in the
+game where you get it for that reason
+I'm going to put it in B tier again I
+think this is a fairly narrow option for
+most parties and not one that you are
+going to be interested in a lot of the
+time but it will enough of the time that
+you see it be upgrade to your heavy
+armor characters Armor class that I
+think it's worthy of be tier the armor
+of devotion so the armor of devotion is
+an 18 AC armor available from a merchant
+in Act 2 weirdly even though it's plate
+armor or at least the visual depicts
+plate armor it doesn't have the superior
+material or Superior plate passive uh so
+it doesn't prevent incoming piercing
+damage uh it just gives you 18 base
+Armor class so is exactly the same as
+the normal plate armor except for its
+activated ability
+it's activated ability Eternal devotion
+lets you once per long rest restore a
+spent Channel oath charge so only works
+if you're a paladin who is spending
+Channel oath charges um Channel oath
+charges normally restore on a short rest
+so this gives you basically an extra
+short rest uh worth of Channel oath
+charges for a paladin Channel oath
+charges vary pretty highly in terms of
+how valuable they are depending on what
+Paladin subass you are for oath of the
+Vengeance paladins they're very very
+powerful for other paladins much less so
+so how critical this restoration effect
+will be will depend quite significantly
+on what kind of Paladin you're playing
+and obviously because this armor is
+pretty weak as actual armor the use case
+for this ability is to swap it in
+activate the ability after you've spent
+a channel oath charge and then swap it
+back out again for the armor that you
+actually wanted to be wearing that's uh
+sort of I guess not really an exploit
+but just a an irritating and sort of
+gamey way to play the game so it's not
+something that I personally do but if
+you're optimizing your Paladin
+playthroughs then definitely uh the
+armor of devotion is going to power them
+up making you take fewer short rests and
+giving you more access to uh vow of
+enmity and so on so the armor of
+devotion can be pretty powerful if
+you're a paladin who's regularly
+spending your channel oath charges for
+that reason I'm going to put it in a
+tier because it's only good for paladins
+but for paladins it's just free value
+you don't give up anything to just be
+carrying this armor around and restoring
+your channel oath charges um like the
+other items that you can swap in and out
+uh this one I don't think is is really
+worth the effort uh but it is free and
+free is always good so a tier is where
+we're going to put it the Dwarven splint
+mail okay so first before we discuss the
+item I just want to quickly note that
+for some reason they've decided that for
+some items mail is a suffix uh so splint
+mail is all one word whereas for some
+it's a separate word chain mail is
+written out as two separate words um I
+don't know why they did that and it's
+vaguely irritating to
+me aside from that though this is one of
+my favorite armors in the entire game
+this gives you 19 base Armor class and
+plus two Constitution as well as the uh
+one resistance to piercing damage that
+many other plate armors have and the
+plus one bonus to strength saves and uh
+strength ability checks that the ring
+males have um the plus one bonus to
+strength saves and ability checks again
+just like the ring males is not a
+particularly relevant ability but being
+a 19 AC armor um at this point in the
+game means it's the highest Armor class
+that you have access to almost certainly
+and plus two Constitution is just so
+awesome for a heavy armor user um this
+is great for any character that wants to
+tank so any fighter or Paladin who is
+designed to be up in the front lines
+just
+increasing your hit points is great and
+having that on an armor is awesome and
+it's great for especially for
+spellcasters so any spellcaster that can
+get heavy armor proficiency through a
+one level cleric dip or two one or two
+level fighter dip or any character that
+is multiclassing with Paladin can use
+this to more easily maintain
+concentration on
+spells fix their relatively low hit
+points because you get plus one hit
+point per level from the extra
+Constitution when you have this armor
+equipped and just generally solve all of
+the problems that come with being a
+spellcaster if you have like a one Lev
+dip in cleric uh this gives your
+spellcaster plus 12 hit points by the
+end of the game plus one to all their
+constitution saves so they're
+maintaining concentration on their
+spells much more easily and is just all
+around an incredibly solid armor as well
+as giving you just an uh very high Armor
+class meaning you're much less likely to
+be hit there
+are many uh armors that you will wear
+for specific builds that are better for
+those specific builds but the Dwarven
+splint mail is one of the most widely
+applicable armors in the game there are
+very few characters that cannot benefit
+from wearing this just because it
+provides such a solid package of
+abilities and plus two Constitution is
+so great that the Dwarven splint mail is
+definitely going into s tier another
+notable thing about this armor is that
+it's you can buy it from the merch Mer
+but the merchant then after you've
+bought it also still often drops a copy
+it doesn't happen 100% of the time but
+in several of my playthroughs I've
+gotten two copies of this armor one from
+buying it from the merchant and then one
+from subsequently killing the merchant
+afterwards so you can often end up with
+two copies of this armor which is great
+because so many different characters can
+make excellent use of it the flawed husk
+armor so this is available through a
+story event near the beginning of act
+two uh gives you 18 Armor class one
+resistance to piercing damage and
+whenever you are hit by an enemy within
+7 ft of you so basically a melee attack
+but enemies who are making ranged
+attacks from very very close uh to you
+just uh just outside of your melee range
+can still be affected by this um they
+might take 1 D4 fire damage that might
+is based on a dc13 dexterity saving
+throw so the enemies have to make a dc13
+deck save after hitting you uh or they
+take 1 D4 fire damage now this does
+trigger off of more things than you
+would expect it to so it can trigger off
+of some environmental damage things it
+can trigger off of like some damage
+auras that some kinds of enemies have um
+but for the most part this is like once
+a turn a
+dc13 dexterity save for 1 D4 fire damage
+which is such a tiny tiny ability as to
+be completely irrelevant um so this is
+basically just 18 AC armor with one
+piercing damage resistance uh which is
+just going to be worse in general than
+the plus one plate that you're going to
+get very very soon after this worse in
+general um because it
+requires uh worse in general than the
+plus two chain uh because it gives you
+less damage resistance it's slightly
+better I mean it's strictly better than
+the plus one splint armor which you
+probably acquire around the same time um
+but that you just have so many better
+options than the flawed hell dusk armor
+by the time by the point in the game
+that you get it that it's going to be
+useful only very rarely since it is 18
+AC armor with piercing damage resistance
+and in theory you could do something
+with the infernal retribution passive
+where you're doing some kind of getting
+hit build and then you do 1 D4 damage
+back I'm going to put it generously in C
+tier but you can pretty safely ignore
+the flawed hellus armor in most
+playthroughs
+the protective plate so this is kind of
+a weird one the protective plate has
+some just sort of oddness around it that
+make me think that it was intended to be
+a different armor and maybe made it into
+the game um in an incomplete state or
+with some sort of bugs attached to it
+the protective plate gives you 18 Armor
+class and it shares both a model and an
+icon with plate armor
+um as well as being unspawnable using
+third party tools so if you are using a
+mod as as I do often to test items to
+spawn items in you can't spawn the
+protective plate because the item ID for
+it doesn't work it also doesn't unlike
+every other heavy armor give you
+disadvantage on stealth checks uh which
+makes me wonder if that was just some
+kind of database entry error that they
+made when uh making this item the
+protective plate in addition to that
+gives you resistance to necrotic damage
+um so it's an at Armor class armor that
+gives you resistance to necrotic damage
+and doesn't give you disadvantage on
+stealth checks that's available
+relatively early in act two for that
+reason it is going to be useful for some
+encounters where you are likely to take
+a lot of necrotic damage so if you're
+going into a fight where you know
+there's going to be necrotic damage then
+you could swap in the protective plate
+and you could maybe do something weird
+with the fact that it doesn't give you
+disadvantage on stealth checks uh
+alongside being a heavy armor user maybe
+for a Ranger with the ranger Knight
+feature you could be doing stealth
+checks while still wearing heavy armor
+with the protective plate most
+characters that are going to be making
+stealth checks will be dexterity
+characters and so we'll get more AC out
+of one of the uncapped medium armors
+like around the same time as you get the
+protective plate you could just have the
+uan scale mail get more AC and better
+passives and everything but the
+protective plates resistance to necrotic
+damage could be relevant in some fights
+and
+the fact that it doesn't give
+disadvantage on stealth checks is kind
+of cool for a heavy armor so I'm going
+to put it in C tier because of the
+potential to use it for certain fights
+for the necrotic damage resistance the
+reaper Embrace so this is available
+under both circumstances near the very
+end of act two um and so is in some ways
+an act two armor and in some ways an act
+three armor cuz while you do get it
+during act two it's going to see most of
+its play during early act three I'm
+calling in an act two armor though
+because you do by definition acquire it
+during act two it gives you 19 armor
+class and two flat damage reduction so
+at the point in the game where you get
+it it's tied with the Dwarven splint
+mail and the plus one plate armor for
+the highest available Armor class and
+two flat damage reduction is obviously
+excellent for the same reasons it's
+excellent on the adamantine splint just
+reduces all incoming damage by two it
+also gives you a toggleable passive and
+an activated ability the to Global
+passive makes you immune to force
+movement when it's on but gives you
+disadvantage on dexterity saving Pros so
+enemies can't shove you around but you
+will get hit a little bit easier by in
+tangling effects or Fireballs or
+whatever and the active lets you attempt
+to numb every character within 10 ft
+numb gives you advantage on attack roles
+against those enemies and reduces their
+movement speed by half but it's a dc14
+wisdom save so you can pretty safely
+ignore that active the passive is also
+uh except for some very specific spefic
+fights something that you can pretty
+much ignore um so mostly the reaper
+Embrace is just a 19 AC armor that gives
+you two flat damage reduction but that's
+a very good thing to be at this stage of
+the game it's going to be a little bit
+before we get armors that just strictly
+out class it so it's mostly competing
+with the Dwarven splint mail which it
+has um the damage reduction instead of
+the increased hit points and the
+adamantine splint which it has higher
+Armor class then uh and maybe you have
+critical hit immunity from another
+source or something so the reaper
+Embrace is definitely going to be best
+in slot for some heavy armor characters
+depending on your party setup throughout
+the beginning of act three if you care
+about the damage reduction more than the
+Constitution bonus maybe you're not
+casting spells or you have a lot of
+damage resistances that make the damage
+reduction particularly valuable um and
+if you either didn't get uh the
+adamantine splint or just have critical
+hit immunity from other sources then the
+reaper Embrace is just going to be your
+best bet for armor so it's going to go
+into s tier it won't stay in s tier for
+very long cuz in act three we're going
+to get stuff that outpaces it relatively
+early but there will definitely be a
+chunk of act three where this is your
+best armor on several varieties of
+character and finally for act two the
+Rippling Force mail so the Rippling
+Force mail uh gives you 17 Armor class
+and whenever you take slashing piercing
+or bludgeoning damage you gain two turns
+of force conduit Force conduit reduces
+all incoming slashing piercing or
+bludgeoning damage by one per turn
+remaining um and if you uh take damage
+while you have five or more stacks of it
+you deal Force damage in a 20 foot
+radius so you can explode with Force
+damage that Force damage can then
+trigger cold the week and stuff uh this
+is a core component of builds that just
+passively kill enemies by walking near
+them is using Force conduit to deal
+passive damage and kill enemies with
+cold the Weak by stacking Force conduit
+up and other sources of damage reduction
+like Arcane Ward uh you can end up with
+ridiculous amounts of damage reduction
+the force conduit itself is limited to
+only seven Stacks um but it Stacks
+whenever you take slashing piercing or
+bludgeoning damage including self damage
+so you can do this to yourself using uh
+some items that um allow you to damage
+yourself or just have like a mage hand
+poke you uh in order to stack this up
+and so you can pretty easily reach very
+high damage reduction levels with the
+Rippling Force mail now to really use
+this item or abuse this item you have to
+be doing a pretty specific and rather
+exploitative build in order to just
+stack up a bunch of force conduit and
+abuse it so I'm going to consider it uh
+mostly for its use just if it's armor
+that you're actually just wearing rather
+than for the kind of gamebreaking
+exploit builds that are based around
+this item the Rippling Force mail if you
+just put it on for 17 AC and a bunch of
+damage reduction uh when you take
+physical damage is still pretty darn
+good you can combine this with um like
+blade Ward or anything like that anytime
+you get hit you take less damage it's
+going to in most fights average out to
+less damage than the just flat two
+damage reduction from the adaman and
+splint but if you have other ways to
+stack damage reduction um or if you're
+using a build that does damage to itself
+like the Marshall exertion gloves and
+stuff like that then you can make use of
+the Rippling Force mail I'm going to put
+it in a tier because you do have to
+build around it but it is one of those
+items where if you build to abuse it
+then it's off the charts powerful um but
+as just a piece of armor that you
+actually put on for 17 Armor class and a
+little bit of damage reduction it's
+outclassed by uh other passive armors so
+the Rippling Force mail a little bit
+difficult to rate because of how abusive
+it its main usage is uh but overall I
+think a tier is good CU if you build
+around it it's incredible but if you
+don't then it's merely acceptable the
+plus two splint armor so the plus two
+splint is 19 AC armor available from uh
+Merchants when your party is level nine
+or higher and it is identical to the
+Dwarven splint mail except it's called
+splint armor written as two words
+whereas the Dwarven splint mail is
+called splint mail written as a single
+word um and it doesn't give you plus two
+Constitution so that means that since
+you are very very likely to have access
+to the Dwarven splint mail the 19 AC one
+piercing damage resistance and plus one
+to strength uh checks and strength saves
+and checks on the plus two splint armor
+is very likely to just be strictly
+obsoleted by the Dwarven splint mail by
+the time you get access to the plus two
+splint armor in addition to that there's
+also the other Alternatives the
+adamantine splint is still probably
+better for a defensive armor the
+Reaper's Embrace is definitely better
+for a defensive armor when you get
+access to that so there just aren't that
+many circumstances where the plus two
+splint armor is ever going to come up by
+the time you get access to this armor
+it's just very it's it's extremely
+unlikely that you don't just have better
+options so it's going into D tier the
+plus two plate armor so plus two plate
+armor is available from Merchants
+starting at level 11 so you need to be
+um pretty far on into act three before
+you get this most likely uh though again
+if you've gotten all of the XP available
+earlier in the game you might hit Level
+11 relatively early in in act three and
+get access to the plus two plate armor
+uh quite a bit earlier plus two plate
+armor gives you 20 Armor class and uh
+also you take two less damage from all
+physical damage so you get two damage
+resistance to all slashing piercing and
+bludgeoning damage um so it's quite a
+significant upgrade over the other uh
+passives from the just normal magical
+armors because plus two uh two damage
+resistance to all physical damage
+obviously less powerful than two damage
+resistance to all damage like the
+Reapers Embrace or the atam anti and
+splint but still very good and 20 AC is
+is possibly the highest Armor class
+armor that you have at this point that
+being said um by the time you get this
+armor at level 11 and can buy it from a
+merchant it's very likely that you have
+access to better armors or um are have
+settled into a strategy where you don't
+particularly need to increase your armor
+class by one uh by the time you are in
+the late game here these like 19 AC
+armors plus a shield plus some Armor
+Gear will have your armor class high
+enough that you're going to be
+outstripping your other party members uh
+by quite a margin regardless in heavy
+armor so running up the score by
+increasing your armor class even a
+little bit further doesn't actually
+matter cuz enemies are mostly going to
+be targeting your allies rather than
+this character since Ai and boulders
+gate decides who to attack based on how
+easy they are to hit so going from 19 to
+20 AC is is a real bonus of course but
+not as impactful as you might think
+because it will just shift enemy
+attention from your tanky heavy armor
+character to one of your squishier
+characters potentially that being said
+20 Armor class is still very high and
+that's good and the Damage resistance is
+still relevant so if you get this if
+you've leveled up really fast um and
+haven't reached some of the other armors
+available in the game at this point um
+if you're like level 11 while still in
+the lower City or something then you can
+benefit uh quite a bit from the plus two
+plate or while still in the in the
+outskirts of the city you can benefit
+from the plus two plate just showing up
+in some of the merchant shops there and
+increasing your armor class so I'm going
+to put it in B tier cuz it's not a bad
+armor and it might increase your AC in
+some circumstances but you you will have
+better options by the time you get it in
+most playthroughs the armor of
+persistence so this one's locked behind
+some story events but some relatively
+common story events for many
+playthroughs and is available from an
+act three Merchant the armor of
+persistence gives you 20 Armor class so
+tied with the plus two plate armor and
+better than anything else we've talked
+about so far two flat damage resistance
+so just similar to the adamantine splint
+or the reaper Embrace just reduces all
+incoming damage by two and gives you
+resistance and blade Ward as the Spells
+uh permanently blade Ward gives you
+resistance so you take half damage from
+all bludgeoning piercing and slashing
+damage all of the time and the
+resistance canant trip increases all of
+your saving throws by 1 D4 so that means
+that you are taking almost no physical
+damage ever because you have 20 base
+Armor class and blade Ward um as well as
+the two flat damage red red uction which
+remember how I mentioned that the damage
+reduction is com combines extremely well
+with sources of resistance sources of
+damage resistance not resistance the
+spell which is a little confusing
+because this armor gives you both um
+well this armor gives you all of those
+things in a single package you get flat
+damage reduction and you get
+multiplicative damage reduction and you
+get higher Armor class meaning that
+enemies will hit you very rarely and if
+they do hit you it will do almost no
+damage um in addition to that heavy
+armor users are often mostly at risk
+from failing uh checks on spells because
+you will have such high armor class and
+damage reduction and so on you will
+often be very hard to kill with physical
+damage and with the armor of persistence
+you're basically impossible to kill with
+physical damage that means that what
+actually puts you at risk is spells that
+might disable you and take you out of
+the fight things like hold person and
+similar this armor gives you permanent
+resistance increasing your saving throws
+by a D4 meaning that you're much much
+less likely to be dropped by effects
+like that when you're wearing the armor
+of persistence all of these effects work
+together extremely well they're all
+extremely powerful the base stats of
+this armor are incredible and so
+altogether this is just the best piece
+of defensive equipment in the entire
+game um barring you know abusive uh
+damage reduction stacking like with the
+Rippling Force mail and and so on um but
+the armor of persistence when you're
+playing the game normally is the best
+piece of armor in the game best
+defensive piece of armor available um
+and is going to keep your party alive
+your character alive no matter what is
+thrown at it s tier armor easily and
+again this is one of the reasons to get
+heavy armor proficiency is access to
+This truly excellent piece of equipment
+the blackards plate which yes is how you
+pronounce it uh you can blame the
+British for that one that's what I do
+the blackards plate gives you 19 base
+Armor class and and reduces all incoming
+damage by one so less damage reduction
+than the other uh heavy armors that
+provide damage reduction but gives you
+advantage on wisdom saving throws
+advantage on wisdom saves is super
+powerful especially for a heavy armor
+user because like I just talked about
+the armor of persistence the only thing
+that's putting you in a lot of
+danger as a heavy armor user who's
+likely very hard to kill with physical
+damage is being taken out of the fight
+by uh a saving throw Target effect that
+disables your character most of those in
+the game Target wisdom so advantage on
+wisdom saving throws can make you much
+much harder to uh disable when you have
+the blackards plate now a lot of parties
+are going to be able to get this through
+Heroes Feast which you will probably
+have access to around this time if you
+have a cleric or Druid in your party you
+can use Heroes Feast if you're using a
+camp caster which a lot of Honor mode
+parties do um not one that I personally
+do for most runs but definitely a viable
+strategy then you'll always have access
+to Heroes Feast so you can gain
+advantage on wisdom saves uh pretty
+easily through other sources if you are
+playing a run where you don't have
+access to Heroes Feast then the
+Blackridge plate can definitely be
+useful for uh advantage on wisdom saves
+to sub in for encounters where you know
+enemies have spells that Target wisdom
+like if an enemy has hold person or hold
+monster then you can use the blackards
+plate to make your uh Melee character
+characters much more resilient to that
+effect and prevent them from being taken
+out of the fight for that reason I'm
+going to put it in B tier because it
+does have a real use case though most
+parties are going to be able to
+supersede that with access to Heroes
+Feast um but if you aren't doing that
+then The Bard's plate can definitely be
+swapped in for some fights where you
+know you're going to be targeted by
+effects that it's good against the
+cerebral Citadel armor the cerebral
+Citadel armor gives you 18 Armor class
+immunity to fear so you can't be
+frightened or Afflicted with other
+sources of fear effects not all fear
+effects inflict frightened specifically
+and this it gives you immunity to most
+of them um and it also gives you the
+elith protection passive which if the
+wearer is Infested by a mine flare
+tadpole they get plus one to
+intelligence wisdom and Charisma saves
+most companions are infested by a mind
+fler tadpull so this works on most
+Companions and uh oddly enough it works
+on of the origin companions or all of
+the companions except for hon and jira
+which makes sense because they don't
+have tadpoles but also does work on
+hirelings who can't gain ilth Powers um
+so the whatever tadpole infestation or
+absolute infestation the hirelings have
+I guess counts for the cerebral Citadel
+armor or they just wrote in the armor as
+an exception for house and jira rather
+than uh tagging each character as to
+whether they were infested or not all of
+that goes to say that this is an armor
+that gives you 18 Armor class fear
+immunity and plus one to your mental
+saving throws on most characters um and
+you get it relatively late in the game
+by which point you just have better
+options for those effects fear immunity
+is good but you can get that from a lot
+of other effects and the plus one to um
+wisdom saving throws is the one that
+mostly matters intelligence and Charisma
+are rarely targeted by enemy saves
+intelligence more than Charisma but both
+quite rarely uh you will do better with
+The Bard's plate for example which just
+gives you advantage on wisdom saving
+throws which also makes you much better
+at resisting fear so it doesn't give you
+complete immunity but makes you better
+at resisting it this is another one that
+is just superseded by the existence of
+Heroes feast and unlike the blackards
+plate actually costs you quite a bit in
+terms of armor class and defensive
+capabilities in order to put this on so
+while this armor is a cool piece of
+environmental storytelling when you find
+it it's not particularly useful in the
+game I'm going to put it in C tier
+because it is a boost to your
+intelligence Save which is otherwise
+somewhat difficult to boost in Boulders
+Gate 3 so if you're going against
+enemies that make you that force you to
+make in saves you could use the cerebral
+Citadel armor but obviously things like
+the armor of persistence are just going
+to be better um and fear immunity is not
+totally irrelevant again if you don't
+have access to Heroes feast or other
+sources of fear immunity this can be
+useful but most parties are not going to
+find a use for this armor the emblazened
+plate of the Marshall so this is locked
+behind some story choices you you have
+to make specific story choices in order
+to get this armor um and it gives you 19
+Armor class uh all incoming damage is
+reduced by two so again it's similar to
+The Reaper Embrace in that sense it
+gives you 19 AC two damage reduction it
+gives you uh fire resistance which is a
+very relevant damage type to be
+resistant to obviously there's a lot of
+fire damage in Boulder's Gate so
+resistance to fire damage is quite
+relevant um and a plus two bonus to your
+saving throws plus two flat bonus to
+your saving throws is awesome it's not
+quite as good as the armor of
+persistence which gives you just
+resistance which is on average plus two
+and a half to all your saving throws but
+plus two to your saving throws and Fire
+Resistance combined with uh damage
+reduction by two for incoming damage is
+a really good defensive package it also
+gives you fire Shield um which you can
+cast once per long rest and the warm
+version of fire Shield gives you cold
+resistance so you can gain cold
+resistance in addition to fire
+resistance um from this armor if you
+need it and of course do a little bit of
+retaliation damage all of those things
+together make it a pretty solid piece of
+armor though by the time you get it you
+have access to a lot of uh more powerful
+armors most likely most notably the
+armor of persistence you will be able to
+reach um around the same time that you
+can reach the the emblazened plate of
+the Marshall uh there might be some
+playthroughs where you're able to get
+the emblazened plate before you get the
+armor of persistence but for a lot of
+them you won't get it until later on um
+so for that reason I'm going to put it
+in a tier it's still a solid piece of
+armor that gives you a lot of powerful
+abilities and if you're going into a
+fight with fire or cold damage you could
+swap this in in order to gain those
+resistances cuz those are very useful
+damage resistances to have in the game
+um just a very solid piece of armor that
+you won't be sad to have equipped
+unfortunately it doesn't quite have just
+the raw stats to crack the top rank of
+armors but is still just a very good
+piece of equipment overall and finally
+the last of the act three armors and
+thus the last piece of armor in balder's
+Gate we will now have talked about all
+of them the hell dusk armor now for
+those of you who skipped the intro I do
+want to say again that I'm aware that
+the hellus armor can be acquired in act
+one since larian have tried to patch out
+that method um I'm going to be
+considering that an exploit so we're
+going to be raiding this armor as though
+it's acquirable only at the intended
+time in act three but there is a way to
+get it in act one which obviously breaks
+the game balance wide open to do this
+what you do I'll just briefly describe
+it what you do is when you first see
+Raphael to engage him in conversation
+keep one character stealthed and Far
+Away enter the conversation have that
+character attack him from stealth and
+then he will disappear he then later
+reappears at your Camp cast silence on
+him and then kill him so he can't uh
+cast can't disappear from your camp and
+then he'll drop the hell dusk armor um
+this is a pretty convoluted method maybe
+there's other methods but I know that
+one still works so that's the those are
+the steps to do it um and that will get
+you the hellus Armor in act one which
+obviously is a way more powerful item
+than you're intended to have an act one
+and totally break scam balance wide open
+so obviously in act one it's going to be
+an stier piece of equipment and we'll
+obsolete a lot of the other pieces of
+equipment on the armor list because of
+how the hell dusk armor
+works all that said though we're going
+to consider its usage when it drops
+relatively late in the game at near the
+middle or end of act three depending on
+the order that you do things in where
+the hellus armor excuse me the hellus
+armor gives you 21 Armor class so the
+highest base armor class of any armor in
+the game um but does not allow you to
+add your dexterity modifier uh but just
+like the Elven chain from medium armors
+you are considered proficient with the
+hellus armor when you're wearing it
+similar to The Elven chain the way they
+coated the husk armor was just by making
+it a piece of cloth it doesn't actually
+count as heavy armor for most things uh
+so effects that only work when you are
+unarmored uh still work with the h dusk
+armor this means you can use the bracers
+of Defense with it have 23 armor class
+you can use monks unarmored movement to
+still move quickly when you're wearing
+the hell dusk armor um because of how
+they specifically how they coated it it
+doesn't work with uh sources of
+unarmored Defense um it won't stack with
+that it won't stack with Mage Armor that
+kind of thing but it does work with the
+bracers of defense and uh monks uh fast
+movement which is a pretty powerful
+thing for this armor to be able to do
+also uh whenever you succeed a saving
+throw the Caster gets set on fire for
+three turns so when you succeed a saving
+throw from an effect or a spell uh the
+person who cast it gets set on fire for
+three turns you get resistance to fire
+damage and Immunity to burning um and
+three flat damage reduction and the
+ability to cast fly as the spell uh as a
+bonus action once per long rest fly is
+normally an action so being able to cast
+it as a bonus action is awesome so
+altogether this armor gives you 21 AC
+three damage resistance resistance to
+Fire and uh sets things on fire when you
+succeed on saves against uh their
+effects and lets you fly once per long
+rest um and can be worn by anybody
+obviously this package of abilities
+altogether is still insane even in act 3
+the sheer Armor class that it gives you
+is going to outstrip um most other
+effects only medium armor characters
+with the uncapped medium armors can get
+higher armor class than a hellus armor
+character uh so this is going to be the
+highest AC setup in the game for any
+character any class with some very
+narrow exceptions uh it gives you three
+flat damage reduction which means that
+for damage reduction builds it's going
+to be incredible and a variety of
+powerful effects like the flight now for
+a purely defensive setup in act three
+the armor of persistence is better at
+keeping you alive because physical
+damage resistance is better than fire
+damage resistance um so for a heavy
+armor character specifically the armor
+of persistence is going to be better if
+your goal is just to stay alive but the
+hellus armor can be worn by anybody so
+you can have this on a wizard or a
+sorcerer they can still cast it's
+especially fun for Sorcerers because you
+have the Pyro quickness hat that sets
+you on fire um when which uh and gives
+you additional actions uh and this can
+be used
+to uh gain immunity to that fire so for
+a fire sorcerer the hellus armor is
+particularly powerful but obviously for
+any character who can get access to the
+hell dusk armor every party is going to
+be able to use this cuz anybody can wear
+it and any character is going to be very
+happy using it fly as a bonus action is
+also a pretty powerful effect I mean by
+the time you get this you might have the
+athid flight but for parties that aren't
+using that fly as a bonus action is just
+a super powerful option that gives you a
+ton of additional mobility and the sheer
+defensive power of this armor is awesome
+it also can turn off enemy uh
+concentration effects because they could
+um if you succeed on a save against the
+concentration effect they'll catch fire
+take damage immediately and then
+potentially fail concentration so if
+they're concentrating on something that
+hits both you and an ally you can break
+their concentration with the fire the
+hellus armor has a bunch of these little
+synergies but the main thing is just
+it's a 21 AC armor that gives you three
+damage reduction that anybody can wear
+and so obviously it's going straight
+into s
+tier all right my friends I hope that
+you've enjoyed this look at all of the
+heavy armors in balder's Gate if you've
+watched this whole armor series from the
+beginning thank you so much for sticking
+with it obviously this is a lot of
+information about armor but I hope it
+was enjoyable um what I've learned about
+heavy armors is that honestly the ones
+that I thought were good are the good
+ones uh these five are the ones that
+you're going to end up wearing in the
+vast majority of your playthroughs and
+they're a very solid set of armor that
+you're pretty happy to wear most heavy
+armor characters are going to be wearing
+medium armor through most of act one so
+it's not surprising that only one act
+one armor shows up uh in s or a tier
+here and it's one that you get laid in
+Act One um and my opinion on that hasn't
+changed that's still going to be the
+play is to stay in medium armor for the
+early game and then swap to Heavy Armor
+in act two uh but the heavy armors that
+you get access to give you a a variety
+of powerful abilities and let you
+emphasize different things and of course
+the hell dusk armor is just broken uh no
+matter when you get it at any point in
+the
+game as always if you think that there
+is something that I missed or a use for
+one of these armors that I missed or I'm
+Mis rating something definitely do let
+me know in the comments I'm very open to
+moving things around in these tiers and
+just like with many of my previous tier
+lists I'm going to do a follow-up video
+for any corrections for this video or
+previous tiers that I need to make or if
+you are convincing enough and can get me
+to move some armors around in various
+tiers I'm definitely open to doing that
+and we'll do a video to follow up and
+make do any moves that I think are
+necessary of course if you have enjoyed
+the video then uh feel free to leave a
+comment helps me out a ton with the
+algorithm so I do appreciate people
+taking the time to leave a comment and
+like the video and of course you can
+subscribe to my channel for more balers
+Gate 3 tier lists and other strategy
+game content and if you've really
+enjoyed the content uh then of course I
+would appreciate it very much if you'd
+consider uh leaving a super thanks or
+becoming a channel member obviously no
+obligation but of course I appreciate it
+very much when people are generous
+enough to do that all right my friends
+hope you enjoyed the video and I will
+catch you next time
