@@ -876,6 +876,31 @@ ITEMS.forEach(i => {
   }
 });
 
+// Looser fallback index: tier lists write enchantments as a prefix and drop the
+// "Armour" noun (e.g. "+1 Studded Leather"), while items.json uses a suffix and
+// keeps the noun ("Studded Leather Armour +1"). looseKey() normalises both by
+// dropping the "armor" token and moving any "+N" digits to the end. Keys that
+// would map to more than one distinct item are dropped, so this never resolves
+// ambiguously to the wrong item.
+function looseKey(str) {
+  const toks = canon(str).split(' ').filter(t => t && t !== 'armor');
+  const digits = toks.filter(t => /^\d+$/.test(t));
+  const rest = toks.filter(t => !/^\d+$/.test(t));
+  return rest.concat(digits).join(' ');
+}
+const LOOSE_INDEX = {};
+const LOOSE_FIRST = {};
+ITEMS.forEach(i => {
+  const k = looseKey(i.n);
+  if (!k) return;
+  if (k in LOOSE_FIRST) {
+    if (LOOSE_FIRST[k] !== i.n) delete LOOSE_INDEX[k]; // ambiguous: drop it
+    return;
+  }
+  LOOSE_FIRST[k] = i.n;
+  LOOSE_INDEX[k] = i;
+});
+
 const cats = [...new Set(ITEMS.map(i => i.c))].sort();
 
 // ============== CATEGORY COMBOBOX ==============
@@ -1293,6 +1318,8 @@ function renderTierlist(tl) {
     }
     const it = NAME_INDEX[canon(name)];
     if (it) return { u: it.u, wname: it.n };
+    const loose = LOOSE_INDEX[looseKey(name)];
+    if (loose) return { u: loose.u, wname: loose.n };
     return { u: null, wname: name };
   }
 

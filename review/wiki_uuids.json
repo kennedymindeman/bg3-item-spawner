@@ -1,0 +1,690 @@
+{
+  "arrows": {
+    "Arrow of Smokepowder": {
+      "uuid": "0788a2bb-c732-4ebb-abf9-2ef150f509be",
+      "title": "Smokepowder Arrow",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "barrels": {
+    "Runepowder Barrel": {
+      "uuid": "79dfb371-cd87-48f3-b542-26db2d39cfe2",
+      "title": "Runepowder Barrel",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Runepowder Bomb": {
+      "uuid": "9a711e91-04d0-4300-8ca8-b4cc07529a56",
+      "title": "Runepowder Bomb",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Smokepowder Barrel": {
+      "uuid": "9c875b66-4024-487f-b67c-0c175538eb5c",
+      "title": "Smokepowder Barrel",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Water Barrel": {
+      "uuid": "253b6d64-91f4-46a2-b05a-a606b0d7b342",
+      "title": "Water Barrel",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Smokepowder Satchel": {
+      "uuid": "08c75e58-6e70-469a-a22e-44c184995e6c",
+      "title": "Smokepowder Satchel",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Runepowder Vial": {
+      "uuid": "9220d896-4ff3-430f-9523-00d2a4dfbc17",
+      "title": "Runepowder Vial",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Oil Barrel": {
+      "uuid": "72e3f454-5a68-4bb2-acef-7b8d595b5015",
+      "title": "Oil Barrel",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Box of Fireworks": {
+      "uuid": null,
+      "title": null,
+      "n_uuids": 0,
+      "status": "not_found"
+    },
+    "Box of Oddfire Fireworks": {
+      "uuid": null,
+      "title": "Box of Oddfire Fireworks",
+      "n_uuids": 0,
+      "status": "page_no_uuid"
+    },
+    "Brine Barrel": {
+      "uuid": "d6806561-2bd3-4333-ba90-dfbaf9474307",
+      "title": "Brine Barrel",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Popdrake": {
+      "uuid": "db1675d9-5147-4201-b243-a9ee9540cbb8",
+      "title": "Popdrakes",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Squidjins": {
+      "uuid": "8cc1c07f-398c-42fb-9cdf-76ef052bdaa6",
+      "title": "Squidjins",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Wogglims": {
+      "uuid": "2f900203-cbe9-4b6c-8d63-1a9a873a13ff",
+      "title": "Wogglims",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Acid Barrel": {
+      "uuid": "77cfc9e7-02ca-4be8-8e01-51ae3f873d60",
+      "title": "Acid Barrel",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "boots": {
+    "Bonespike Boots": {
+      "uuid": "23806fd3-f5f6-4ff3-826d-054afe03b7c0",
+      "title": "Bonespike Boots",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Hoarfrost Shoes": {
+      "uuid": "6ca10a61-07d8-478c-a6e7-8e43072233cf",
+      "title": "Hoarfrost Boots",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Spacehunt Boots": {
+      "uuid": null,
+      "title": null,
+      "n_uuids": 0,
+      "status": "not_found"
+    }
+  },
+  "cloth_armor": {
+    "Bonespike Garb": {
+      "uuid": "7cca51a5-bfa6-4c65-b2d9-ef0167762a19",
+      "title": "Bonespike Garb",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "elixirs": {
+    "Supreme Arcane Cultivation": {
+      "uuid": "4f17f210-9cde-4dad-80b5-fc4f9ddb1e1f",
+      "title": "Supreme Elixir of Arcane Cultivation",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Colossus": {
+      "uuid": "0aacb1f9-116a-45ec-9b0c-cb436301d4b2",
+      "title": "Elixir of the Colossus",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Superior Arcane Cultivation": {
+      "uuid": "fb16d5a8-866f-4c17-9591-0df1372b49c9",
+      "title": "Superior Elixir of Arcane Cultivation",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Resistance": {
+      "uuid": null,
+      "title": "Resistances",
+      "n_uuids": 0,
+      "status": "skip_category"
+    },
+    "Greater Arcane Cultivation": {
+      "uuid": "8c7656f5-507a-4cee-8e15-320c968539f0",
+      "title": "Greater Elixir of Arcane Cultivation",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "finesse_weapons": {
+    "Render of Body and Mind": {
+      "uuid": "f06c0554-bba8-4036-ac92-1b225a578f57",
+      "title": "Render of Mind and Body",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Shortsword": {
+      "uuid": "467ddb4f-6791-41fa-99f7-ee8620d63bbe",
+      "title": "Shortsword",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Worgfang": {
+      "uuid": "247e7543-f8e6-477e-af66-550996e9131f",
+      "title": "Worg Fang",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Sylvan Scimitar": {
+      "uuid": "b9656931-da39-4024-92a2-f45264593b14",
+      "title": "Sylvan Scimitar",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Coldsnap": {
+      "uuid": null,
+      "title": null,
+      "n_uuids": 0,
+      "status": "not_found"
+    },
+    "Scimitar": {
+      "uuid": "868217db-9dcb-414c-bb88-e321ab3e0349",
+      "title": "Scimitar",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Poo-Scraper": {
+      "uuid": "26398e41-8636-4fd5-bc12-d7971dfe1ca8",
+      "title": "Poo-Scraper",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Salty Scimitar (RRR)": {
+      "uuid": null,
+      "title": "Quenora Grisly",
+      "n_uuids": 1,
+      "status": "needs_review_variant",
+      "all_uuids": [
+        "9d475536-34f0-4a6f-9191-3a635b81a232"
+      ]
+    }
+  },
+  "gloves": {
+    "Dark Justiciar Gauntlets": {
+      "uuid": "73a443e0-2056-4e4c-b8d2-d4283d8d3595",
+      "title": "Dark Justiciar Gauntlets (Rare)",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "(Rare) Dark Justiciar Gauntlets": {
+      "uuid": null,
+      "title": "Dark Justiciar Gauntlets (Rare)",
+      "n_uuids": 1,
+      "status": "needs_review_variant",
+      "all_uuids": [
+        "73a443e0-2056-4e4c-b8d2-d4283d8d3595"
+      ]
+    },
+    "Hra'cknir Bracers": {
+      "uuid": null,
+      "title": null,
+      "n_uuids": 0,
+      "status": "not_found"
+    },
+    "Abyss Beckoners": {
+      "uuid": "7ef359b6-79af-4414-99bc-f93bc5eeed77",
+      "title": "Abyss Beckoners",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Gloves of the Duelist": {
+      "uuid": "97e362b2-e2aa-4703-9840-6824d7068334",
+      "title": "Gloves of The Duellist",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Bonespike Gloves": {
+      "uuid": "7e32e812-b79d-4bdb-a7c6-ee6778e893ec",
+      "title": "Bonespike Gloves",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Gemini Gloves": {
+      "uuid": "fc4fd633-bc45-4ff4-90e6-2e454f7ceaa0",
+      "title": "Gemini Gloves",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Knock Knuckle": {
+      "uuid": "31809893-c293-4c89-b6b6-437a3c49b604",
+      "title": "Knock Knuckle Gloves",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Herbalist's Gloves": {
+      "uuid": "f3ff7066-f407-41c7-b936-0aff066c08e4",
+      "title": "Herbalist's Gloves",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Spell-Seeking Gloves": {
+      "uuid": "98c60a0f-a58b-4dc1-99ca-06b9db0cd42f",
+      "title": "Spellseeking Gloves",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Unwanted Masterwork Gloves": {
+      "uuid": "b337cd63-d206-4229-84fd-4b77809f7eb3",
+      "title": "Unwanted Masterwork Gauntlets",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "grenades": {
+    "Smokepowder Bomb": {
+      "uuid": "278271f9-3fbc-4cf7-a5dc-b36527f521b2",
+      "title": "Smokepowder Bomb",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Haste Spore Grenade": {
+      "uuid": "6008231b-9f5a-44f6-8050-14586b7626fd",
+      "title": "Haste Spore Grenade",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Haste Spore Flask": {
+      "uuid": "b09296f1-2bc3-422e-8735-c13e83ac8801",
+      "title": "Haste Spore Flask",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Noxious Spore Grenade": {
+      "uuid": "9320005f-18c6-4c2b-be7f-e168d3b15573",
+      "title": "Noxious Spore Grenade",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Oil Flask": {
+      "uuid": "91947f48-4368-4794-8429-2f57172dc53d",
+      "title": "Oil Flask",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Sleeping Potion": {
+      "uuid": "7090a500-c392-4566-a79f-0c9453323bc8",
+      "title": "Potion of Sleep",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "helmets": {
+    "Cap of Curing": {
+      "uuid": "cfbd013c-f24d-4430-be13-d7bfafd48709",
+      "title": "Cap of Curing",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Cap of Wrath": {
+      "uuid": "b2ac96aa-5f04-49fb-800c-ab51a2bdb3c6",
+      "title": "Cap of Wrath",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Circle of Bones": {
+      "uuid": "d2a4e407-b5de-4f0b-ab7a-75f9bf5041dd",
+      "title": "Circle of Bones",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Bonespike Helmet": {
+      "uuid": "72152951-3670-4004-b275-6b722c498bbc",
+      "title": "Bonespike Helmet",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Steel Watcher Helmet": {
+      "uuid": "c2ef4013-e6d1-48da-99f0-db486c223a90",
+      "title": "Steelwatcher Helmet",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Hat": {
+      "uuid": null,
+      "title": "Headwear",
+      "n_uuids": 0,
+      "status": "skip_category"
+    }
+  },
+  "light_armor": {
+    "Spidersilk Armour": {
+      "uuid": "c0c0534c-b7fc-4d0b-a335-b8f4c548852d",
+      "title": "Spidersilk Armour",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Armour of the Sporekeeper": {
+      "uuid": "eb3a4744-26e4-404a-be65-c72bb17f5cfc",
+      "title": "Armour of the Sporekeeper",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "medium_armor": {
+    "Adamantine Scale Mail": {
+      "uuid": "5427c806-5565-421f-a00f-a8282a9f504f",
+      "title": "Adamantine Scale Mail",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Yuan-Ti Scale Mail": {
+      "uuid": "14ebeea8-7d0a-47a9-ba79-b1168c21f8d4",
+      "title": "Yuan-Ti Scale Mail",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "(Rare) Dark Justiciar Half-Plate": {
+      "uuid": null,
+      "title": "Dark Justiciar Half-Plate (Very Rare)",
+      "n_uuids": 1,
+      "status": "needs_review_variant",
+      "all_uuids": [
+        "742d43ff-b74d-4cbe-9554-51773bbccdc2"
+      ]
+    },
+    "Scale Mail": {
+      "uuid": "ca0aafad-0f1e-4d76-8e3b-925397bb436b",
+      "title": "Scale Mail",
+      "n_uuids": 2,
+      "status": "ok_first_of_many"
+    },
+    "+2 Scale Mail": {
+      "uuid": "21f0dd84-6f02-4be9-8654-4cebd00dcbaf",
+      "title": "Scale Mail +2",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Dark Justiciar Half Plate": {
+      "uuid": "742d43ff-b74d-4cbe-9554-51773bbccdc2",
+      "title": "Dark Justiciar Half-Plate (Very Rare)",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Unwanted Masterwork Scalemail": {
+      "uuid": "5ff8df3a-6924-4eb4-9d1a-9e87bd644bf7",
+      "title": "Unwanted Masterwork Scalemail",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "+1 Scale Mail": {
+      "uuid": "dc748177-8590-4a99-a446-feccbd8d8eb4",
+      "title": "Scale Mail +1",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Damaged Scale Mail": {
+      "uuid": "ddf6982a-72d4-44db-a152-4dd2b816e836",
+      "title": "Damaged Scale Mail",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "one_handed_weapons": {
+    "The Sacred Star": {
+      "uuid": "5637bf93-ebd4-4170-a251-d77d9687c58a",
+      "title": "The Sacred Star",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Sword of Screams": {
+      "uuid": "df6698d2-b690-4aea-be83-956d3b2ea97e",
+      "title": "Sword of Screams",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Rapier": {
+      "uuid": "7061f489-4b13-4982-aa09-cf0ad961e75f",
+      "title": "Rapier",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "poisons_oils": {
+    "Serpent Fang Toxin": {
+      "uuid": "b0385b93-f525-4740-8126-471a76fa31a2",
+      "title": "Serpent Fang Toxin",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "polearms": {
+    "Selune's Spear of Night": {
+      "uuid": "2eeabe97-8f29-4f4f-827e-6cfcd8fd1779",
+      "title": "Selûne's Spear of Night",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Pike": {
+      "uuid": "baa5b139-42ad-40fd-b6c3-6b52b092c48e",
+      "title": "Pike",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Spear": {
+      "uuid": "9f0f1c0e-012d-44e1-9b29-86c64d2bf675",
+      "title": "Spear",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Jagged Spear": {
+      "uuid": "1fea9dfa-96a6-43c5-bce8-34452baa073e",
+      "title": "Jagged Spear",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "potions": {
+    "Remedial": {
+      "uuid": "ae9a9360-7cbe-4f72-8bea-1dd5747c180d",
+      "title": "Remedial Potion",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Basilisk Oil": {
+      "uuid": "212ca846-4766-4370-8847-454e59751598",
+      "title": "Basilisk Oil",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Essence of Ether": {
+      "uuid": "49458a4c-c5e3-42a4-88e4-c03e14343575",
+      "title": "Essence of Ether",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Silkroot": {
+      "uuid": "667d2f69-1ba4-427a-96f6-890fc034a3ec",
+      "title": "Silkroot",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "ranged_weapons": {
+    "The Long Arm of the Gur": {
+      "uuid": "b2fb13a7-ce3e-4721-b2ea-1dee303707ed",
+      "title": "The Long Arm of the Gur",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "rings": {
+    "Eversight Ring": {
+      "uuid": "0661eb9b-0924-450d-923b-1e371de444ae",
+      "title": "Eversight Ring",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Ring of Spiteful Thunder": {
+      "uuid": "5c05ff73-9d0d-4d58-b93a-e4b448a1e388",
+      "title": "Ring of Spiteful Thunder",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Explorer's Ring": {
+      "uuid": "046598e3-8cb4-497c-bfd2-866ff88b50db",
+      "title": "Explorer's Ring",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Ring": {
+      "uuid": null,
+      "title": "Rings",
+      "n_uuids": 0,
+      "status": "skip_category"
+    },
+    "Mattis's Rings": {
+      "uuid": "540ddc1f-42c6-4347-ba03-b3cf3d3942ab",
+      "title": "Silfy",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "shields": {
+    "Shield": {
+      "uuid": null,
+      "title": "Shield",
+      "n_uuids": 0,
+      "status": "skip_category"
+    }
+  },
+  "simple_weapons": {
+    "+1 Mace": {
+      "uuid": "5a948b12-ca43-4256-9821-0d151036dbd1",
+      "title": "Mace +1",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Redcap Sickle": {
+      "uuid": "6b95bb45-41c3-4954-ac2f-ef1aa169b0b6",
+      "title": "Sussur Sickle",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Salami": {
+      "uuid": "e082f373-81ec-4f4b-818b-9ee86952e2fa",
+      "title": "Salami",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Sickle": {
+      "uuid": "50d677ed-3a0e-40e9-8291-ee6823af5672",
+      "title": "Sickle",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "staves": {
+    "Corellon's Grace": {
+      "uuid": "48b4f49b-2937-4664-ac87-7db2c64d09c9",
+      "title": "Corellon's Grace",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Quarterstaff": {
+      "uuid": "96e2abaf-78ff-4dcb-a6a3-a5f0c348bd9f",
+      "title": "Quarterstaff",
+      "n_uuids": 2,
+      "status": "ok_first_of_many"
+    },
+    "Harper Sacredstriker": {
+      "uuid": "111e30c6-ced0-478b-9922-3428cb50b7e1",
+      "title": "Harper Sacredstriker",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Staff of the Ram": {
+      "uuid": "f6b9701c-66ca-43d1-adea-2e5b443fa35d",
+      "title": "Staff of the Ram",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Bigby's Chew Toy": {
+      "uuid": "59cd94ae-c26c-459a-89d8-a1f1ebdd13ba",
+      "title": "Bigboy's Chew Toy",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "versatile_weapons": {
+    "Phalar Aluve": {
+      "uuid": "cc16c1cb-d355-47df-820a-33a83c42234b",
+      "title": "Phalar Aluve",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Voss's Silver Sword (Act 3)": {
+      "uuid": null,
+      "title": "Voss",
+      "n_uuids": 1,
+      "status": "needs_review_variant",
+      "all_uuids": [
+        "2adce2df-0799-49dc-b867-ba7ca21e9aea"
+      ]
+    },
+    "Voss's Silver Sword": {
+      "uuid": "2adce2df-0799-49dc-b867-ba7ca21e9aea",
+      "title": "Voss",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Trident": {
+      "uuid": "d3807461-7c32-44ae-9aba-49ef4d3bf35e",
+      "title": "Trident",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Warhammer": {
+      "uuid": "6b17998d-2e79-405d-8b1f-beb53658312f",
+      "title": "Warhammer",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "+1 Warhammer": {
+      "uuid": "3e1b3db9-036e-4931-ab92-c3730a1c3d5f",
+      "title": "Warhammer +1",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "+1 Longsword": {
+      "uuid": "3fc2ba50-3070-4caa-abe8-3bf885969bde",
+      "title": "Longsword +1",
+      "n_uuids": 1,
+      "status": "ok"
+    },
+    "Ceremonial Battleaxe": {
+      "uuid": "0698b266-b7f8-4593-9063-f1189082c6e1",
+      "title": "Ceremonial Battleaxe",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "amulets": {
+    "Amulet (non-magical)": {
+      "uuid": null,
+      "title": "Amulets",
+      "n_uuids": 0,
+      "status": "skip_category"
+    },
+    "Amulet of the Unworthy": {
+      "uuid": "b96d16dc-da98-4108-9a0e-5e55720dbf5c",
+      "title": "Amulet of the Unworthy",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  },
+  "heavy_armor": {
+    "Protective Plate": {
+      "uuid": "26c0bb98-7d24-4807-91f0-cf075ea568a9",
+      "title": "Protective Plate",
+      "n_uuids": 1,
+      "status": "ok"
+    }
+  }
+}

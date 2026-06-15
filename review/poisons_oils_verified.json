@@ -1,0 +1,27 @@
+{
+  "key": "poisons_oils",
+  "subject": "Poisons, oils, and coatings",
+  "source": "031",
+  "method": "full human/LLM read of transcript 031 (not the heuristic)",
+  "note": "All 18 tiers below were confirmed to match the stored tierlists.json exactly. The 'why' field is new content extracted from the transcript. Weapon coatings last 10 turns and apply on every hit at near-zero opportunity cost; many have lower save DCs when thrown as a grenade vs applied to a weapon.",
+  "ratings": {
+    "Diluted Oil of Sharpness": { "tier": "S", "why": "+1 to attack and damage for 10 turns that stacks with weapon enchantments and makes the weapon magical; pure upfront damage with no downside, scaling with every attack — just use it constantly." },
+    "Oil of Accuracy": { "tier": "S", "why": "+2 to attack (better than the +1/+1 of Sharpness since to-hit is king); raises a damage dealer's average output by roughly 10% and makes them far more reliable." },
+    "Crawler Mucus": { "tier": "S", "why": "DC13 con save or poisoned AND paralyzed for a turn — the most debilitating condition in the game (no actions plus guaranteed crits within 10ft); a free ~25% chance to instantly win an encounter on the opening hit." },
+    "Karabasan's Poison": { "tier": "S", "why": "A unique, non-craftable version of Crawler Mucus that does exactly the same thing — DC13 con save or paralyzed, an encounter-ending effect." },
+    "Oil of Combustion": { "tier": "S", "why": "No-save: hit an enemy then deal any fire damage and they explode for 3d6 fire (no save) in a 10ft radius; trivial to self-trigger with a fire damage source, and the explosions chain across grouped enemies for huge AOE burst." },
+    "Arsonist's Oil": { "tier": "A", "why": "No-save strip of fire resistance (the tooltip lies — it doesn't grant vulnerability outright), mandatory for fire-damage builds; a buggy combo with the Wet condition can even flip enemies to fire-vulnerable for double damage." },
+    "Drow Poison": { "tier": "A", "why": "DC13 con save or fall asleep — losing a turn often wins the fight outright; low DC and one-shot inoculation limit reliability, but the asleep effect is powerful enough to use all game, especially thrown early as a grenade." },
+    "Wizardsbane Oil": { "tier": "B", "why": "No-save -3 to enemy spell attacks/save DCs plus disadvantage on concentration saves for two turns; reliably breaks enemy caster concentration, a nice-to-have for specific wizard encounters." },
+    "Malice": { "tier": "B", "why": "DC15 con save (on a weapon) or poisoned and blinded; blind is a solid condition enabling advantage on follow-up attacks, but less debilitating than Crawler/Drow's effects — use it when the better poisons are unavailable. (Thrown DC is a near-useless 10.)" },
+    "Oil of Bane": { "tier": "B", "why": "DC11 Charisma save or Bane (-1d4 to attacks and saves); the low DC targets Charisma, the best save to target, and there's no inoculation so you keep retrying — a reliable workhorse debuff when you lack a better oil." },
+    "Oil of Freezing": { "tier": "B", "why": "No-save stacking Encrusted with Frost; at 7 turns built up it forces a DC12 con save or Frozen (incapacitated, vulnerable to bludgeoning/thunder/force). No inoculation but needs ~4 hits to trigger — B by default, A/S for multi-hit builds." },
+    "Basic Poison": { "tier": "C", "why": "DC11 con save or poisoned (disadvantage on attacks); the DC is too low to land reliably and it's purely defensive, but it's the earliest poison you'll have, so it can help in dangerous early multi-turn fights." },
+    "Wyvern Toxin": { "tier": "C", "why": "A toxin dealing 1d8 at end of the enemy's next turn on a DC15 con save; weak in a vacuum, but you can get it extremely early, where the relevant damage and beatable DC speed up some of the hardest opening fights." },
+    "Thisobald's Brewed-Up Bellyglummer": { "tier": "C", "why": "Weapon-only DC17 con save (no inoculation, so retries land it reliably) for disadvantage on attacks plus 1d6 poison/turn; similar to Oil of Bane but its disadvantage is easily duplicated by no-save effects like Fog Cloud." },
+    "Simple Toxin": { "tier": "D", "why": "DC11 con save or 1d4 at end of the enemy's next turn — the DC is far too low and delayed end-of-turn damage barely matters; only worth it if you have no other coating and a spare bonus action." },
+    "Serpent Fang Toxin": { "tier": "D", "why": "Same delayed-damage toxin as Simple Toxin with DC13 and 1d6; the DC is just reaching a breakpoint but 1d6/turn is still negligible damage for a coating slot." },
+    "Purple Worm Toxin": { "tier": "D", "why": "DC19 (reliable) but only 1d10 delayed damage that ignores crits/riders, obtained in Act 2 where you have better coatings and many enemies are poison-immune — usually better sold." },
+    "Oil of Diminution": { "tier": "D", "why": "DC11 con save or Reduced (-1d4 melee damage, disadvantage on strength); the save is pitiful and the effect marginal, so you can never build a strategy around it — sell it." }
+  }
+}

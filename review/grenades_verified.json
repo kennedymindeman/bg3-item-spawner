@@ -1,0 +1,29 @@
+{
+  "key": "grenades",
+  "subject": "Grenades and throwables",
+  "source": "029",
+  "method": "full human/LLM read of transcript 029 (not the heuristic)",
+  "note": "All 20 tiers below were confirmed to match the stored tierlists.json exactly. The 'why' field is new content extracted from the transcript. Most grenades use a fixed (often low) save DC and are rated largely for their early-game impact; throw only costs an attack, not a full action.",
+  "ratings": {
+    "Smokepowder Bomb": { "tier": "S", "why": "3d4+9 force (avg ~16, very reliable) in a fireball-sized 13ft AOE, buyable early — better than any level-1/2 AOE spell at that stage; force damage is rarely resisted, and it can be cheesed to multi-detonate off damage riders." },
+    "Water": { "tier": "S", "why": "Cheap, humble, and broken: applies Wet (doubles lightning/cold damage, grants fire resistance) and a water surface you can turn to ice (prone) or steam; throw water then zap for instant kills — every character should carry a stack." },
+    "Haste Spore Grenade": { "tier": "S", "why": "AOE Haste for your whole party with NO lethargy downside; action-neutral if you drop it at your feet, and the three turns of extra actions are flatly broken — only doesn't stack with other haste sources (but stacks with Terazul)." },
+    "Haste Spore Flask": { "tier": "S", "why": "A quest-reward Haste Spore grenade with a larger 10ft radius and a cloud that lasts forever instead of three turns — even more of the best grenade in the game, worth hanging onto." },
+    "Sanguine Explosive": { "tier": "S", "why": "Story-locked but worth a level-4 slot: 4d8 force + 4d8 fire (avg 36, more than Fireball) in a huge 26ft AOE plus burning, with a high DC17 save; buy up to two a day for nearly free Nova damage anyone can throw." },
+    "Flashblinder": { "tier": "S", "why": "Blind on a beatable DC16 con save is mediocre, but its unlisted no-save stun on Steel Watchers trivializes some of Act 3's most dangerous encounters — situational, but it instantly wins those fights." },
+    "Alchemist's Fire": { "tier": "A", "why": "No-save burning plus a 10ft fire surface for ~3d4 fire, common and craftable; reliably finishes low-HP goblins and replaces a spell like Burning Hands — wins you a fight or two in the early game." },
+    "Grease Bottle": { "tier": "A", "why": "A Grease spell in a bottle: chance to knock enemies prone (trading your action for theirs), creates difficult terrain, and is flammable for guaranteed finishing damage; low fixed DC12 but high ceiling against grouped enemies." },
+    "Void Bulb": { "tier": "A", "why": "One trivial force damage, but a 20ft AOE pull on a genuinely high DC18 strength save — reliably groups enemies for AOE spells/attacks or yanks them off high ground; repositioning is powerful and stays relevant late." },
+    "Web Grenade": { "tier": "A", "why": "Plays almost identically to Grease Bottle: low DC12 but the debilitating Webbed condition (can't move, attacked with advantage), difficult terrain, and a flammable surface for extra damage — usually good for one solid effect." },
+    "Acid Vial": { "tier": "B", "why": "2d6 acid that rarely lands (DC13 dex save, a bad save to target), but the no-save acid surface gives -2 AC in a 7ft area — handy to set up a Sharpshooter/GWM ally's attacks, though often beaten by just attacking." },
+    "Scrap and Shrapnel Grenade": { "tier": "B", "why": "Fireball-sized AOE dealing a guaranteed ~3 damage plus no-save bleed (disadvantage on con saves) — great for setting up a con-save spellcaster or bleed synergy; easy to forget, and Alchemist's Fire is better for raw damage." },
+    "Spiked Bulb": { "tier": "B", "why": "A functional reprint of the Scrap and Shrapnel Grenade (same AOE, ~3 guaranteed damage, no-save bleed/con-save disadvantage), obtainable from the very start of the game." },
+    "Caustic Bulb": { "tier": "C", "why": "Creates a unique caustic brine surface for 1d4/turn no-save damage, but it's strictly worse than Alchemist's Fire (no initial burst, no lingering burn) — only relevant on the nautiloid before you can craft Fire." },
+    "Holy Water": { "tier": "C", "why": "3d6 radiant (dex save for half) only to fiends/undead, but those enemies show up late enough that Spirit Guardians and cantrips outdamage it; the water surface is its lone niche — keep one to finish a low-HP target." },
+    "Fungal Bamboozler": { "tier": "C", "why": "A 3-turn befuddle cloud (essentially a stun), but the DC10 con save is so low enemies almost never fail it; only worth it with heavy setup (bleed for disadvantage + lockdown), so it's more a for-fun grenade." },
+    "Noxious Spore Grenade": { "tier": "C", "why": "1d4/turn poison plus 2d4 on a save (oddly using your item save DC), so slightly more reliable damage than Caustic Bulb, but a small 7ft AOE and self-destructs if ignited — marginal trapping tool." },
+    "Hearthlight Bomb": { "tier": "D", "why": "Just Dancing Lights without concentration; lighting is a marginal effect you cover better with the Light cantrip or a thrown torch, so it's not worth the weight or crafting ingredients." },
+    "Oil Flask": { "tier": "D", "why": "An Act 3-only item that makes an inert oil surface whose only use is catching fire — i.e. a strictly worse Alchemist's Fire (which is available from the start), so completely redundant." },
+    "Sleeping Potion": { "tier": "D", "why": "Actually a grenade: a tiny 3ft AOE forcing a DC11 con save to sleep, but the DC is too low, allies wake each other, and one-shot use means no re-rolls — a ~30% stun on one enemy for an action; just sell it." }
+  }
+}

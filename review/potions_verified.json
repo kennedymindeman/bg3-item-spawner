@@ -1,0 +1,32 @@
+{
+  "key": "potions",
+  "subject": "Potions",
+  "source": "028",
+  "method": "full human/LLM read of transcript 028 (not the heuristic)",
+  "note": "All 23 tiers below were confirmed to match the stored tierlists.json exactly. The 'why' field is new content extracted from the transcript. Potions are rated with almost no opportunity cost (they stack and barely cost an action), so ratings reflect raw usefulness.",
+  "ratings": {
+    "Supreme Healing": { "tier": "S+", "why": "Heals a reliable 10d4+20 (avg 45) for a bonus action — roughly half a health bar, enough to undo a major enemy attack or revive an ally to fighting shape; uses unchanged tabletop numbers while BG3 makes drinking a bonus action, so it breaks the HP economy." },
+    "Speed": { "tier": "S+", "why": "Three turns of Haste from a potion, so no concentration risk and no chance of stunning yourself/allies; one extra action per turn breaks action economy, and even an unexpected lethargy stun still nets you two extra turns." },
+    "Terazul": { "tier": "S+", "why": "Two turns of Haste that costs no action to consume AND stacks with other haste sources — drink it alongside a Speed potion for two extra actions a turn; criminally under-discussed but flatly busted." },
+    "Healing": { "tier": "S", "why": "2d4+2 (avg 7) for a bonus action: a self-cast Healing Word that pushes you past one-hit thresholds, revives a downed ally, and turns gold into HP out of combat — indispensable on every character." },
+    "Superior Healing": { "tier": "S", "why": "8d4+8 (avg 28) is more than most healing spells and actually lets you out-heal incoming damage in combat; buyable/craftable regularly so you can stockpile a deep reserve." },
+    "Angelic Slumber": { "tier": "S", "why": "Two turns of sleep grants a full long rest — all spell slots, HP, and long-rest abilities back; extends adventuring days, has real in-combat stall combos (banishment/globe), and bypasses story events tied to camping." },
+    "Flying": { "tier": "S", "why": "Ten turns of flight — effectively a free Misty Step every turn with no spell slot or concentration cost; the king of mobility, letting you reach archers, cross chasms, and exploit verticality at will." },
+    "Universal Resistance": { "tier": "S", "why": "Resistance to ALL damage (including hard-to-get physical) for 10 turns — like a Superior Healing potion every turn pre-cast; fight-winning for AOE-heavy fights or tanking a boss, only held back by rarity/cost." },
+    "Gaseous Form": { "tier": "A", "why": "Bonus-action, slot-free Gaseous Form: resistance to all damage, hover over surfaces, slip through grates/gateways, and bait enemies into hazards; the spell's huge resource cost is what normally holds it back, and the potion removes that." },
+    "Glorious Vaulting": { "tier": "A", "why": "Enhanced Leap (triple jump distance) for 10 turns — immense pre-combat repositioning power plus dungeon/trap bypass; can't combo with a same-turn jump because both cost a bonus action, keeping it just under S." },
+    "Greater Healing": { "tier": "A", "why": "Strictly double Healing (4d4+4, avg 14), but by the time you use it enemies hit hard enough that 14 vs 7 rarely changes how many hits you survive — use the ones you find, but not worth chasing (and oddly costs more to craft than buy)." },
+    "Remedial": { "tier": "A", "why": "Cures blinded, silenced, paralyzed, and poisoned — the widest-coverage cleanse potion and the best panic button of the antidote family, especially for un-paralyzing an ally before they eat guaranteed crits." },
+    "Angelic Reprieve": { "tier": "A", "why": "Two turns of sleep grants a short rest (half HP, first/second-level slots, short-rest abilities); great longevity/quality-of-life tool, especially the Sorlock sorcery-point cheese, though skipping it just means resting more often." },
+    "Invisibility": { "tier": "A", "why": "Level-2 Invisibility with no slot or concentration cost: escape a bad spot, bait enemies out of position, set up before combat, or spend a bonus action for an advantage attack where hiding isn't available." },
+    "Animal Speaking": { "tier": "B", "why": "Day-long Speak with Animals; mostly roleplay but bypasses some skill checks and saves a spell known/prepared (e.g. frees a Bard's level-1 pick) — worth keeping, not worth chasing." },
+    "Antidote": { "tier": "B", "why": "Removes Poisoned and other poison-tagged conditions, including some day-long ones; a fine panic button to carry one or two of, though preempting poison is usually the better play and forgetting it rarely matters." },
+    "Feather Fall": { "tier": "B", "why": "Ten turns of Feather Fall; powerful out of combat for bypassing dungeon sections and traps, but the bonus-action-to-drink + bonus-action-to-jump conflict kills its in-combat use, and a wizard usually covers it for free." },
+    "Mind Reading": { "tier": "B", "why": "Detect Thoughts for bypassing dialogue/skill checks without spending concentration; useful on a party face that can't otherwise cast it, but a minor, occasional benefit." },
+    "Vitality": { "tier": "B", "why": "A strictly-upgraded Antidote that also cures diseases, but BG3 has few diseases so it plays exactly like Antidote in practice — carry whichever you find, don't seek it out." },
+    "Basilisk Oil": { "tier": "C", "why": "Reverts petrification, which essentially never happens in combat; purely a completionist tool for a few rare dialogue/loot story beats, so it's safe to sell." },
+    "Dream Mist": { "tier": "F", "why": "A drug that forces a Con save or knocks you out for three rounds — no upside, avoid." },
+    "Essence of Ether": { "tier": "F", "why": "Puts you to sleep for two rounds with no save and no positive effect (an Angelic Reprieve without the reward) — avoid." },
+    "Silkroot": { "tier": "F", "why": "A drug giving three rounds of disadvantage on Dexterity and Charisma checks with no benefit; only a roleplay reason to ever want it — avoid." }
+  }
+}

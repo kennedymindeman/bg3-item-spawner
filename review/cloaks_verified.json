@@ -1,0 +1,26 @@
+{
+  "key": "cloaks",
+  "subject": "Cloaks",
+  "source": "042",
+  "method": "full human/LLM read of transcript 042 (not the heuristic)",
+  "note": "All 17 tiers below were confirmed to match the stored tierlists.json exactly. The 'why' field is new content extracted from the transcript. Cloaks rated by power when acquired (mostly Act 2+); 'Cloak' is the non-magical filler, 'Cloak of Cunning Brume' = cloak of cunning broom.",
+  "ratings": {
+    "Deathstalker Mantle": { "tier": "S", "why": "Dark Urge-only and the only magical cloak in Act 1: turn invisible for two turns on a kill (once/turn) with no action cost — incredible survivability for squishy melee/solo builds. (Won't trigger on indirect kills like barrels or Moonbeam.)" },
+    "Cloak of Protection": { "tier": "S", "why": "+1 AC and +1 to all saves, permanently — small numbers but universally valuable, and each point compounds; someone in your party wears this all game." },
+    "Cloak of Displacement": { "tier": "S", "why": "Disadvantage on attacks against you at the start of every turn (no cooldown) until you take damage; makes high-AC characters near-untouchable and redirects enemy AI away from squishy ones — featured in ~100% of parties." },
+    "Cloak of the Weave": { "tier": "S", "why": "+1 spell save DC and spell attack rolls (one of the most valuable caster bonuses) plus a once-per-rest half-Elemental-damage reaction — best-in-slot endgame cloak for casters." },
+    "Cloak of Cunning Brume": { "tier": "A", "why": "Casts a free Fog Cloud whenever you disengage; with bonus-action disengage (Rogue) it's a free spell that self-triggers Sneak Attack via blind, plus huge out-of-combat crime utility — high ceiling for the builds that can exploit it." },
+    "Vivacious Cloak": { "tier": "A", "why": "8 temp HP whenever you cast a spell in melee (even a cantrip) — a solid survival cushion for the spellcaster who can't wear the single Cloak of Protection; also helps refresh a Spore Druid's shield." },
+    "Mantle of the Holy Warrior": { "tier": "A", "why": "Crusader's Mantle once per short rest (+1d4 radiant on all attacks, party-wide) without spending a slot; great for attack-heavy or summon-heavy parties — far better than paying a level-3 slot for a mediocre spell." },
+    "Shade-Slayer Cloak": { "tier": "A", "why": "Lowers your crit threshold by 1 while hiding — excellent for stealth archers (who stay hidden) and a strong opener for any Rogue/Paladin crit build, though situational since most attacks break hiding." },
+    "Cloak of Elemental Absorption": { "tier": "B", "why": "Once-per-rest reaction to halve incoming elemental damage plus +1d6 elemental on your next weapon hit; a fine panic button for an unexpected big hit, but reactive and often replaceable with gear/elixir resistance." },
+    "Fleshmelter Cloak": { "tier": "B", "why": "1d4 acid to enemies who deal you melee hit-point damage; free retaliation value on builds that expect to be hit, though annoyingly it won't trigger if Arcane Ward absorbs the damage." },
+    "Nymph Cloak": { "tier": "B", "why": "Dominate Person once per long rest — a powerful spell when it lands, but it uses your weak item save DC and competes with the Cloak of the Weave/Displacement, so it's a situational swap-in for humanoid-heavy fights." },
+    "Derivation Cloak": { "tier": "C", "why": "Heal 1d4 when you apply Poisoned; nearly nothing on its own, and even the three-item poison combo (with Brood Mother's Revenge + Poisoner's Gloves) is only okay for the slots it costs — playable but not optimized." },
+    "Reverse Rain Cloak": { "tier": "C", "why": "Permanently Wet: fire resistance/no burning, but vulnerability to cold and lightning (and vulnerability hurts more than resistance helps); mostly a niche combo with the Pyroquickness Hat to stop a fire sorcerer self-immolating." },
+    "Cloak": { "tier": "D", "why": "The non-magical cloak has no effect and no associated story event — pure Gale food." },
+    "Thunderskin Cloak": { "tier": "D", "why": "Enemies with reverberation that damage you must pass a DC13 con save (unboostable, a bad save to target) or be Dazed; far too many specific prerequisites for a minor, reactive effect that almost never fires." },
+    "Cindermoth Cloak": { "tier": "D", "why": "Enemies who damage you within 7ft make a trivial DC12 dex save or catch fire (1d4/turn) — essentially a strictly worse Fleshmelter Cloak, which deals its damage immediately with no save." },
+    "Wavemother's Cloak": { "tier": "D", "why": "Grants the Wet condition but only in combat — a strictly worse Reverse Rain Cloak (can't lead off combat fire-immune), and the game pointlessly has two permanent-wetness cloaks; only worth it for the joke." }
+  }
+}

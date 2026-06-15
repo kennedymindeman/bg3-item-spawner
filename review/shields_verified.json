@@ -1,0 +1,32 @@
+{
+  "key": "shields",
+  "subject": "Shields",
+  "source": "041",
+  "method": "full human/LLM read of transcript 041 (not the heuristic)",
+  "note": "All 23 tiers below were confirmed to match the stored tierlists.json exactly. The 'why' field is new content extracted from the transcript. Rated by power when acquired; note 'Shield Bash' reactions/most shield effects use your SPELL save DC, favoring casters.",
+  "ratings": {
+    "Shield": { "tier": "S", "why": "The plain non-magical shield's +2 AC is deceptively huge — every miss is effectively a stunned enemy turn, low-AC party members are your weak link, and AC compounds the value of HP/healing/resistance; trivially makes the early game near-invincible." },
+    "Adamantine Shield": { "tier": "S", "why": "Shield Bash (knock attackers prone, using your spell save DC), Reeling on enemies who miss, and full critical-hit immunity — the best pure-defensive shield in the game all game, removing the random crit spikes that snowball lost fights." },
+    "Justiciar's Greatshield": { "tier": "S", "why": "+2 AC, Shield Bash, advantage on perception, and a bonus-action Darkness + auto-hide — casting Darkness as a bonus action is wildly powerful: a panic button granting a turn of ranged immunity and protected concentration." },
+    "Ketheric's Shield": { "tier": "S", "why": "+2 AC, Shield Bash, advantage on Dex saves, and +1 spell save DC / spell attack rolls — a top-tier caster bonus (which even improves its own Shield Bash) in a slot that normally can't grant it; the author's second-most-used shield." },
+    "Sentinel Shield": { "tier": "S", "why": "+3 initiative, advantage on perception, and Shield Bash — initiative (rolled on a d4) is one of the strongest stats, so this patches a build's initiative entirely, near-replacing Alert; the only downside is there's just one." },
+    "Viconia's Walking Fortress": { "tier": "S", "why": "The only legendary shield: +3 AC, improved Shield Bash (prone + 2d4 force), advantage on spell saves with disadvantage on spell attacks against you, and bonus-action Reflective Shell that bounces projectiles back — one of the best tank items, and it wrecks the AI." },
+    "Absolute's Warboard": { "tier": "A", "why": "+2 AC and (with the Brand of the Absolute) +1 to all saves plus Heroism once/rest; a solid early upgrade over the basic shield, great for concentration, but not run-defining if you skip it." },
+    "Safeguard Shield": { "tier": "A", "why": "+2 AC and +1 to all saving throws with no story requirement — usually your first upgrade over a non-magical shield and a strong, free concentration aid for casters." },
+    "Wood Woad Shield": { "tier": "A", "why": "+2 AC and a bonus-action Ensnaring Strike (melee, uses spell save DC) — locks down an enemy for 3 turns (no move, disadvantage on their attacks, advantage on yours); superb on a melee caster hunting enemy archers/casters." },
+    "Shield of Scorching Reprisal": { "tier": "A", "why": "Essentially a better +1 Shield: +2 AC, Shield Bash, fire resistance (the most common elemental damage), a bonus-action +1 AC (making it +3), and minor fire retaliation — the go-to for any character that just wants high AC." },
+    "Swires' Sledboard": { "tier": "A", "why": "+2 AC, Shield Bash, and 2 stacks/turn of Force Conduit (stacking damage reduction that ticks UP over a fight, with AOE force retaliation at 5+ stacks) — excellent for damage-reduction/abjuration builds that want long fights." },
+    "Glowing Shield": { "tier": "B", "why": "+2 AC and 8 temp HP once/rest when hit below 50% HP (self-triggerable); a fine free bonus early but the small temp HP gets obsoleted quickly by Act 1/2 shields." },
+    "+1 Shield": { "tier": "B", "why": "+3 AC instead of +2 — a solid, simple upgrade in Act 2, but you'll soon want shields whose effects are worth more than one AC, and the Adamantine Shield is usually the better defensive pick." },
+    "Absolute's Protector": { "tier": "B", "why": "Shield Bash and (with the Brand) -1 damage from all spells plus Fire Shield (cold) once/rest; a fine but uncompelling package — mostly for a retaliation/tank build, which often already has Fire Shield." },
+    "Shield of Devotion": { "tier": "B", "why": "+2 AC, Shield Bash, an extra level-1 spell slot (good for Paladin Smites), and Aid once/rest (+10 max HP); fine but a weak package — most characters prefer initiative, defenses, or save DC from the S-tier shields." },
+    "Shield of the Undevout": { "tier": "B", "why": "+2 AC, Shield Bash, an extra level-1 slot, and disadvantage on enemy saves vs your fear effects — best-in-slot for a Great Old One warlock, but held back because most important Act 3 enemies (where you get it) are fear-immune." },
+    "The Real Sparky Sparkswall": { "tier": "C", "why": "+2 AC and a 3-lightning-charge Aura: AOE save-or-1d6, then 3 turns of no-save 1d4/turn that blocks enemy reactions; niche for lightning-charge or 'walking' damage-rider builds, but charges are usually better spent attacking." },
+    "Gloomstrand Shield": { "tier": "C", "why": "+2 AC and 'stealth +1' coded as a proficiency bump (so +2 with stealth expertise) — the only shield that boosts stealth, useful solely for a stealth-archer maximizing stealth checks who can spare the slot." },
+    "Shield of Shielding": { "tier": "C", "why": "+2 AC, Shield Bash, and the Shield spell once per LONG rest — too infrequent to be exciting in Act 3, and it gives up better passive effects; only worth micro-swapping until you take a hit." },
+    "Broken Shield": { "tier": "D", "why": "A training/set-dressing shield giving only +1 AC instead of +2, with no special interactions — safely ignored." },
+    "Ironvine Shield": { "tier": "D", "why": "Deals your Wisdom modifier to melee attackers, but only while wielding a Shillelagh'd weapon — an absurdly narrow build that also wants to be hit; even its intended user is better served elsewhere." },
+    "Watcher's Shield": { "tier": "D", "why": "+2 AC and advantage on perception and nothing else — and that perception bonus is already bundled onto the far better Justiciar's Greatshield and Sentinel Shield." },
+    "Abdel's Trusted Shield": { "tier": "D", "why": "+2 AC, Shield Bash, and Protection from Missiles once/rest, but it costs an action and concentration for only ~50% ranged protection — the bonus-action Justiciar's Greatshield Darkness does it better (100%)." }
+  }
+}

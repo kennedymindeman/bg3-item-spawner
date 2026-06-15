@@ -1,0 +1,26 @@
+{
+  "key": "barrels",
+  "subject": "Barrels, satchels, and fireworks",
+  "source": "032",
+  "method": "full human/LLM read of transcript 032 (not the heuristic)",
+  "note": "All 17 tiers below were confirmed to match the stored tierlists.json exactly. The 'why' field is new content extracted from the transcript. Items are rated by their in-combat use (throw/place + ignite), NOT the out-of-combat 'barrelmancy' one-shot cheese, which would make them all S.",
+  "ratings": {
+    "Firewine Barrel": { "tier": "S", "why": "The famous one: ignited it explodes for 4d6+18 fire (avg 32, more than Fireball) using your character's item save DC so it often lands full; broken into an alcohol surface it can instead be frozen into a huge crowd-control ice sheet — hugely versatile." },
+    "Runepowder Barrel": { "tier": "S", "why": "Detonates for 10d8+40 force (avg 85) in a massive 59ft radius and auto-crits objects; only four exist and the radius makes in-combat use tricky, but AOE-spell/teleport/globe-of-invulnerability setups make the absurd damage well worth it." },
+    "Runepowder Bomb": { "tier": "S", "why": "Functionally identical to the Runepowder Barrel (10d8+40 force, ~85 avg, 59ft radius); slightly shorter model can make line-of-sight to ignite it a touch harder." },
+    "Smokepowder Barrel": { "tier": "S", "why": "Ignited gives a Fireball-equivalent 4d4+18 force (avg 28) PLUS a smoke powder surface that adds 2d6 fire/2d6 force and a no-save knockback — reposition enemies into pits or AOEs reliably; excellent damage and control." },
+    "Water Barrel": { "tier": "S", "why": "A level-3 Create Water in a 20ft radius that makes everything Wet — double cold/lightning damage across a whole encounter, ice-surface freezes, and fire resistance for your own party; the broken Wet condition at huge scale." },
+    "Smokepowder Satchel": { "tier": "A", "why": "Can be thrown intact then ignited (better positioning than barrels); 3d4+9 force (avg ~16) in a 13ft radius plus a smoke powder surface for extra damage and, crucially, a no-save knockback — marginal damage but powerful repositioning." },
+    "Runepowder Vial": { "tier": "A", "why": "A unique satchel: throw-then-ignite for 5d4+18 force (avg ~30) in a 25ft radius (over 3x the deceptive on-screen indicator) plus a no-save knockback; bigger than the Smoke Powder Satchel but the larger radius makes knockback placement less precise." },
+    "Oil Barrel": { "tier": "B", "why": "Throw/break for a flammable oil surface, or ignite for 6d6 fire (DC12 dex save for half) plus burning in a 20ft radius; decent damage but less and less versatile than the Firewine Barrel (no ice option), and finicky to set up." },
+    "Nautiloid Tank": { "tier": "B", "why": "Functionally identical to the Oil Barrel (6d6 fire ignition, flammable surface) but weighs less, so it's a bit easier to lug around." },
+    "Box of Fireworks": { "tier": "B", "why": "The tooltip promises an 8d6 ranged firework blast but that activation is bugged and does nothing; you can still drop and ignite it for a decent Fireball-sized explosion — keep it in case a patch makes it work as intended." },
+    "Box of Oddfire Fireworks": { "tier": "B", "why": "Functionally identical to the Box of Fireworks (same bugged 8d6 firework, same drop-and-ignite explosion); very slightly taller model makes it marginally easier to hit over a ledge." },
+    "Surprise-Based Teddy Bear": { "tier": "B", "why": "Like the Oil Barrel (6d6 fire) but with a tougher DC15 save and, unlike the barrels, it can be thrown then ignited from range — a bit less damage overall but easier to land and set up." },
+    "Brine Barrel": { "tier": "C", "why": "Throw/break for a 20ft caustic brine surface dealing a guaranteed 1d4/turn; no-save damage that can finish low-HP groups and is non-embarrassing in the early game, but only worth it if you have the carry weight to spare." },
+    "Popdrake": { "tier": "C", "why": "A firework that travels in a straight line for 3d6 fire (dex save for half, your item DC) in a small AOE; its color spray rider is bugged to zero duration, leaving essentially a scroll of Chromatic Orb without the surface — a fine pinch-hit, not exciting." },
+    "Squidjins": { "tier": "C", "why": "Functionally identical to Popdrake — 3d6 fire in a small straight-line AOE with the same bugged, useless color spray rider." },
+    "Wogglims": { "tier": "C", "why": "Functionally identical to Popdrake and Squidjins — 3d6 fire straight-line firework with the same broken color spray effect." },
+    "Acid Barrel": { "tier": "D", "why": "Throw/break for a 20ft no-save -2 AC acid surface that can't be converted to other surfaces; spending an action just to make attacks slightly easier (like True Strike) is almost never worth it — only useful if caught in an AOE next to an enemy for free." }
+  }
+}

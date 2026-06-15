@@ -1,0 +1,31 @@
+{
+  "key": "cantrips",
+  "subject": "D&D 5e cantrips",
+  "source": "003",
+  "method": "full human/LLM read of transcript 003 (not the heuristic)",
+  "note": "The 'why' field is new content. 21 of 22 tiers matched the stored tierlists.json. ONE CORRECTION: Mage Hand was stored as S but the guide explicitly places it in 'the strong tier' (A), saying you 'could even consider s tier' only for heavy potion-throwing use -> corrected S->A here and in tierlists.json. Cantrips are reference-only (not spawnable). Damaging cantrips scale at character levels 5 and 10.",
+  "ratings": {
+    "Eldritch Blast": { "tier": "S", "why": "The gold-standard damage cantrip: 1d10 force (rarely resisted) that gains extra ATTACKS (not dice) as you level — more crit chance, tighter damage spread, and every rider/Agonizing Blast bonus applies per beam; the baseline every damage build is measured against." },
+    "Guidance": { "tier": "S", "why": "+1d4 to any skill check, usable reactively — basically free expertise on every check, all game; arguably the single best cantrip (maybe best spell) in the game. Every character who can take it should." },
+    "Mage Hand": { "tier": "A", "why": "An invisible hand that interacts with objects and THROWS items — pre-summon it, then have it lob potions/bombs at allies or enemies for free (no action), all day; also baits see-invisible enemies into wasting turns. Fiddly, so A rather than S." },
+    "Minor Illusion": { "tier": "S", "why": "Lures enemies to look at/walk to a point — group them for a Fireball, break their line of sight for a stealth opener, or pull them next to a chasm/hazard; often worth 100 damage or a free surprise round. Every party wants one." },
+    "Blade Ward": { "tier": "A", "why": "A turn for two turns of halved physical damage — break-even on its own, but it DOUBLES temp HP (Armour of Agathys) and stacks multiplicatively with other damage reduction, making it very strong in those builds plus a survival button." },
+    "Bone Chill": { "tier": "A", "why": "1d8 necrotic at 60ft that, with no save, stops the target healing for a round and gives undead disadvantage on ALL their attacks — excellent vs healers/regenerators (vampires); one of the two best damage cantrips." },
+    "Ray of Frost": { "tier": "A", "why": "1d8 cold (rarely resisted in BG3) at 60ft that, no save, slows by 10ft — lets you kite enemies forever and freeze water into prone-inducing, concentration-breaking ice surfaces; the other top damage cantrip alongside Bone Chill." },
+    "Produce Flame": { "tier": "A", "why": "Rolls a (slightly weaker) Firebolt and a Light source into one cantrip; the versatility of two useful effects in a single limited slot makes it a strong pick, especially for Druids with otherwise weak cantrips." },
+    "Firebolt": { "tier": "B", "why": "The highest raw-damage cantrip for non-warlocks (1d10, scaling) and it ignites surfaces, but fire is commonly resisted and it has no rider — so the 60ft cantrips with utility (Bone Chill/Ray of Frost) edge it out." },
+    "Friends": { "tier": "B", "why": "Advantage on a Charisma check, but it turns the target hostile afterward (crime in town) — so save it for important persuasion checks against people you'll fight anyway; rare but high-impact." },
+    "Light": { "tier": "B", "why": "Lights an ally/object for a whole long rest (no concentration); you won't cast it often and it's duplicable (torch, glowing item), but it's very handy in the dark Act 2 encounters — most parties want one somewhere." },
+    "Resistance": { "tier": "B", "why": "Guidance's combat cousin: +1d4 to saves for 10 turns, but it takes concentration (contested in combat) and saves happen mid-fight — fine as a pre-buff or for dialogue saves, just less reliably useful than Guidance." },
+    "Sacred Flame": { "tier": "B", "why": "The cleric's 1d8 radiant damage cantrip (dex save, no rider); radiant is a great type many key enemies are weak to, and having a save-based option alongside a crossbow is nice — solid but pure damage." },
+    "Thaumaturgy": { "tier": "B", "why": "Advantage on Intimidation/Performance with NO downside (unlike Friends); those checks are rarer, but a one-level cleric dip to grab it makes a Bard/Sorcerer/Warlock land intimidation checks very reliably." },
+    "Thorn Whip": { "tier": "B", "why": "1d6 at 30ft that pulls an enemy 10ft with no save — situationally huge (yank a foe off a cliff or into an AOE), and bumped up because it's one of the better picks for Druids' otherwise weak cantrip list." },
+    "Dancing Lights": { "tier": "C", "why": "A 30ft lit radius but it costs concentration and lasts only 10 turns — outclassed by Light (all day, no concentration) or just throwing a torch." },
+    "Shillelagh": { "tier": "C", "why": "Makes a club/staff use your Wisdom for d8 attacks (great with a torch for d8+1d4 fire), but it's really only relevant at level 1 — past level 2 a melee Druid just wild-shapes instead, and it locks you into limited weapons." },
+    "Shocking Grasp": { "tier": "C", "why": "Melee 1d8 lightning that removes the target's reaction (escape melee, stop a Counterspell); useful effect, but you rarely want your caster in melee, and its real value comes from the War Caster feat, not the cantrip pick." },
+    "Vicious Mockery": { "tier": "C", "why": "The Bard's only damage cantrip — weakest die (1d4 psychic, often resisted/immune) but disadvantage on the target's next attack; pick your spots (esp. with Cutting Words to deny a hit), otherwise a crossbow does more." },
+    "Acid Splash": { "tier": "D", "why": "The only AOE cantrip, but it targets the weak Dex save (negates all damage on success), does the least reliable damage, and has no utility — almost always beaten by another damage cantrip." },
+    "Poison Spray": { "tier": "D", "why": "Highest die (1d12) but only 10ft range, targets the strong Constitution save, and poison is one of the most-resisted/immune damage types — a bad damage cantrip even for the Druids who get it." },
+    "True Strike": { "tier": "D", "why": "Advantage on your next attack, costing concentration — strictly worse than just attacking twice (and you can usually get advantage by hiding); the lone niche is a pre-combat cast when you can't hide. Not useless, but close." }
+  }
+}

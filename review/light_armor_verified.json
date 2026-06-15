@@ -1,0 +1,28 @@
+{
+  "key": "light_armor",
+  "subject": "Light armor",
+  "source": "037",
+  "method": "full human/LLM read of transcript 037 (not the heuristic)",
+  "note": "All 19 tiers below were confirmed to match the stored tierlists.json exactly. The 'why' field is new content extracted from the transcript. Armors are rated by quality at the point you acquire them; the author notes light armor is weak until Act 3. (Bhaalist Armour = the 'Bhaalist'/aura-of-murder armor.)",
+  "ratings": {
+    "Spidersilk Armour": { "tier": "S", "why": "12 AC, +1 stealth, and advantage on Constitution saves; unremarkable for the Rogues it seems built for, but best-in-slot for defensive light-armor casters (warlock/bard) who need to hold concentration. Guaranteed in Act 1 regardless of story choices." },
+    "+2 Studded Leather": { "tier": "S", "why": "The first 14 AC light armor (finally beating Mage Armor) plus +1 initiative — and d4-rolled initiative makes that bonus hugely valuable; the first light armor you're actively happy to get, and merchant-available to every party from level 9." },
+    "Armour of Moonbasking": { "tier": "S", "why": "13 AC and advantage on spell saves that both persist into wild shape, +2 AC to all wild-shape forms, and 22 temp HP with -1 damage taken on each transform — exactly what Moon/wild-shaping Druids want, since few items work while shifted." },
+    "Armour of the Sporekeeper": { "tier": "S", "why": "13 AC, +1 save DC, +1 necrotic damage (a rider that can multiply on stacked builds), and grants once-per-rest Spore Sac abilities — including a bonus-action AOE Haste for your whole party, which alone is worth swapping it in for." },
+    "Bhaalist Armour": { "tier": "S", "why": "14 AC, +2 initiative, and the Aura of Murder: every enemy within 7ft becomes vulnerable to piercing (doubling all piercing damage, even against resistant foes) — game-breaking for daggers/archers and free value for any party with incidental piercing; arguably S+." },
+    "Elegant Studded Leather": { "tier": "S", "why": "14 AC, +2 initiative, advantage on stealth, and Shield once per short rest — the first light armor that genuinely keeps you alive, an elegant all-in-one package; not story-locked, so accessible to most parties (unlike Bhaalist)." },
+    "Studded Leather": { "tier": "A", "why": "12 AC and drops off many early enemies — your first upgrade from the base 11 AC armors; perfectly fine early, but you'll replace it as soon as something better appears." },
+    "Drow Studded Leather": { "tier": "A", "why": "12 AC and 'stealth +1' coded as a proficiency bump, so characters with stealth expertise actually get +2; comes from a box (not a merchant), making it a meaningful early upgrade over plain studded leather." },
+    "Armour of Landfall": { "tier": "A", "why": "13 AC, +1 save DC, advantage on Con saves, and Plant Growth once per short rest — a solid spellcaster package usable by any human/half-elf caster, but the low 13 base AC means robes+Mage Armor or medium armor often serve better." },
+    "+1 Padded Armour": { "tier": "B", "why": "12 AC with 1 bludgeoning resistance (a damage type that's rare early), available levels 2-4; only worth it if you can't field enough Studded Leather for the whole party — a marginal optimization, not worth seeking out." },
+    "+2 Padded Armour": { "tier": "B", "why": "Your first 13 AC light armor (levels 5-8) with 2 bludgeoning resistance, but 13 AC just matches Mage Armor, so most characters do better in a good clothing set + Mage Armor; useful only when you lack Mage Armor or want armor-slot boots/gloves." },
+    "Shadeclinger Armour": { "tier": "B", "why": "12 AC, stealth +1, and advantage on ALL saving throws while obscured (easy to maintain in dark Act 2); a powerful but purely defensive effect undercut by the low base AC, so it's a situational swap-in for fear/hold-person fights on caster types." },
+    "Padded Armour": { "tier": "C", "why": "Stand-in for all 11 AC non-magical armors; you'd never equip it on purpose, but it's the one use case where a robe-wearing wizard/sorcerer with light armor proficiency can bump AC from 10 to 11 in the very early game." },
+    "+1 Leather Armour": { "tier": "C", "why": "12 AC with +1 stealth (levels 4-6); a marginal step up from +1 Padded, but by the time you can buy it you likely have better options like the Graceful Cloth — not worth the mental energy." },
+    "+2 Leather Armour": { "tier": "C", "why": "13 AC with +2 stealth and +1 to Dex saves/checks (Act 2); a niche pick for characters who must wear light armor and can't use Mage Armor + Graceful Cloth, but otherwise outclassed by that combo." },
+    "Penumbral Armour": { "tier": "C", "why": "12 AC with +3 stealth while obscured; the big stealth bonus suits stealth archers, but the low AC and the fact that Graceful Cloth + Mage Armor does it better relegate it to all-stealth parties or backup." },
+    "Blazer of Benevolence": { "tier": "D", "why": "11 AC; grants 4 temp HP when you Bardic-Inspire an ally, but you give up at least 1 AC versus studded leather and 4 unhealable temp HP is worth less than that AC at the level you get it — even in its best case it's worse than plain studded leather. Looks cool, though." },
+    "+1 Studded Leather": { "tier": "D", "why": "13 AC with 1 bludgeoning resistance (levels 6-8) — strictly worse than +2 Padded Armour, which has the same AC, more resistance, and is always available a level earlier; no reason to ever use it." },
+    "Scarlet Leather": { "tier": "D", "why": "An Act-3-only reprint of +1 Leather Armour (12 AC, +1 stealth) — a weak Act 1 armor handed to you in Act 3, so it's terrible by the time you see it." }
+  }
+}

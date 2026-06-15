@@ -1,0 +1,27 @@
+{
+  "key": "skills",
+  "subject": "D&D 5e skills",
+  "source": "001",
+  "method": "full human/LLM read of transcript 001 (not the heuristic)",
+  "note": "The 'why' field is new content extracted from the transcript. 16 of 18 tiers matched the stored tierlists.json. TWO CORRECTIONS made here and in tierlists.json: (1) Persuasion was stored as S but the guide explicitly calls it 'important' and 'not critical to your playthrough', placing it in A/Important alongside Arcana and Medicine -> corrected S->A. (2) Insight was stored as B but the guide says 'we're going to place it in C tier as well' and lists it among 'marginal skills' -> corrected B->C.",
+  "ratings": {
+    "Stealth": { "tier": "S+", "why": "By itself can win the game: with a high enough score (pass without trace, invisibility, racial advantage) you make undetected attacks and end encounters before they start by picking off enemies — the backbone of stealth-archer solo runs." },
+    "Athletics": { "tier": "S", "why": "Powers the bonus-action shove (reposition or one-shot enemies into chasms/ice) AND resists being shoved, so it secures both your bonus action and your attacks of opportunity — useful on any character, even low-strength ones." },
+    "Sleight of Hand": { "tier": "S", "why": "Picks locks, disarms traps, and picks pockets (near-infinite money from restocking merchants); disarming traps on the first try is critical on honour mode where there's no reason to eat avoidable trap damage." },
+    "Perception": { "tier": "S", "why": "Detects traps (and the rare stealthed enemy) — finding and safely disarming traps, some of which can end a run, is critically important on honour mode; comes up constantly and is the best generically useful skill." },
+    "Persuasion": { "tier": "A", "why": "By far the most common dialogue skill (293 checks in Act 1) and usually offered wherever Deception/Intimidation are, so it covers nearly all social checks and gates the game's most important ones — important if you want any dialogue, but not strictly critical." },
+    "Arcana": { "tier": "A", "why": "The most frequent of the five intelligence skills (~50 Act-1 checks) and the game often offers it as an alternative to History/Religion checks, so it tends to supersede the other knowledge skills." },
+    "Medicine": { "tier": "A", "why": "Mostly scripted (including an early advantage to save Us on the nautiloid), but a level-6 transmutation wizard uses it to brew TWO potions instead of one — doubling output of Cloud Giant Strength, Bloodlust, Speed, etc.; A only on that Alchemist, otherwise ~C." },
+    "Acrobatics": { "tier": "B", "why": "Helps resist being shoved (but never shove), with essentially no dialogue checks; useful when it comes up, but the ranged characters who get it rarely mind being pushed — much weaker than its counterpart Athletics." },
+    "Religion": { "tier": "B", "why": "A knowledge skill that'd otherwise be C, bumped up because several early Religion checks grant Inspirations, which are especially valuable in Act 1 for re-rolling critical checks like disarming a trap." },
+    "Intimidation": { "tier": "B", "why": "A common dialogue skill (209 Act-1 checks), but most of its checks are also covered by Persuasion, so it's useful rather than essential." },
+    "Deception": { "tier": "B", "why": "Comes up less often than Intimidation (147 checks) but tends to gate more important checks, and along with Persuasion it's the usual way to talk your way out of being arrested (an unscripted use)." },
+    "Performance": { "tier": "B", "why": "A few good scripted dialogue uses plus an unscripted draw — performing pulls NPCs over to watch (a Minor Illusion stand-in for distracting marks) and earns a little money; borderline B/C." },
+    "Insight": { "tier": "C", "why": "A scripted-only skill that comes up far less than the Charisma dialogue skills, rarely grants Inspiration, and usually just provides an edge or info you could get from a Persuasion/Deception check anyway." },
+    "History": { "tier": "C", "why": "A scripted-only knowledge skill (~30-40 Act-1 checks) that's frequently superseded by an alternative Arcana check; fine to skip if you have one intelligence skill covered." },
+    "Investigation": { "tier": "C", "why": "Another scripted-only intelligence skill of similar frequency, generally redundant with Arcana and skippable." },
+    "Nature": { "tier": "C", "why": "A scripted-only knowledge skill, again often offered as an alternative to Arcana, so it's marginal once you have one intelligence skill." },
+    "Animal Handling": { "tier": "F", "why": "Effectively 100% bypassable — Speak with Animals (a free potion or party spell) covers essentially every animal-handling check in the game, so there's no reason to invest." },
+    "Survival": { "tier": "F", "why": "Only used to locate buried loot chests, and you can just grab a shovel and dig at the failed-check spot anyway; the random loot is unimportant and money is a non-issue, so never invest points here." }
+  }
+}

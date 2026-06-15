@@ -1,0 +1,28 @@
+{
+  "key": "elixirs",
+  "subject": "Elixirs",
+  "source": "027",
+  "method": "full human/LLM read of transcript 027 (not the heuristic)",
+  "note": "All 19 tiers below were confirmed to match the stored tierlists.json exactly. The 'why' field is new content extracted from the transcript. Giant Strength elixirs are rated by their drunk-daily use (the broken pattern), which is how the stored S+ tiers were assigned.",
+  "ratings": {
+    "Battlemage's Power": { "tier": "S+", "why": "Locks in three stacks of Arcane Acuity all day (+3 to hit and +3 spell save DC, like +6 casting stat) that can't drop below three; trivially stacks enemies out of ever saving against your crowd control, breaking bounded accuracy." },
+    "Hill Giant Strength": { "tier": "S+", "why": "Sets Strength to 21, so drinking it daily on an 8-STR character gives free 20 Strength from level 1 — effectively two extra feats and a pile of attribute points, an egregious balance error that powers most broken builds." },
+    "Cloud Giant Strength": { "tier": "S+", "why": "Sets Strength to 27 (+3 to attack and damage) and breaks the attribute cap so even dex/finesse builds gain from it; drunk daily it's the same free-stats abuse as Hill Giant, just acquired later." },
+    "Vigilance": { "tier": "S+", "why": "Free Alert feat: +5 initiative (worth ~5x a tabletop point since BG3 rolls initiative on a d4) plus surprise immunity, so you go first in nearly every fight and shut enemies down before they act." },
+    "Bloodlust": { "tier": "S", "why": "Grants an extra action and 5 temp HP on every kill; even with honour mode denying extra-attack scaling, one bonus attack or full spell per kill is enormous action economy that almost any damage dealer can exploit." },
+    "Supreme Arcane Cultivation": { "tier": "A", "why": "Free level-4 spell slot daily — strong day-long buffs (summons, upcast Aid for +15 party HP) and extra game-winning casts like 4th-level Spirit Guardians; buyable from any elixir merchant at level 9." },
+    "Colossus": { "tier": "A", "why": "Enlarge in a bottle: +1d4 damage on every attack plus battlefield-control from the size increase and advantage on Athletics shoves; a generically strong, somewhat overlooked offensive option." },
+    "Heroism": { "tier": "A", "why": "Permanent stacking Bless (works alongside the actual spell) for +1d4 to attacks and saves all day, plus 10 temp HP; great on dex characters, just edged out of S because most builds prefer Bloodlust." },
+    "Viciousness": { "tier": "A", "why": "Lowers your crit threshold by 1 and stacks with every other crit source; a minor bonus generally, but builds that care about crits (brutal-critical Barbarian, Smite Paladin, sneak-attack Rogue, GOO warlock fear) get huge value." },
+    "Superior Arcane Cultivation": { "tier": "B", "why": "Free level-3 spell slot — the level where the best spells live (haste, hypnotic pattern, hunger of Hadar), often granting a whole extra fight per day; better than the lower tiers but still a minor benefit overall." },
+    "Guileful Movement": { "tier": "B", "why": "Day-long Freedom of Movement: immune to difficult terrain, paralysis and restraint (counters Hold Person/Monster), but lacks the spell's stun-break panic button; solid defensive value that rarely beats an offensive elixir." },
+    "Peerless Focus": { "tier": "B", "why": "Advantage on concentration saves (a free War Caster feat) plus charm/sleep protection; genuinely useful for support casters maintaining haste, but you'll usually want an offensive elixir instead." },
+    "Resistance": { "tier": "B", "why": "Halves one chosen damage type and grants immunity to its condition; fight-winning against a damage-themed enemy, but it's purely defensive, demands prior knowledge of the fight, and is often available cheaper from other sources." },
+    "Arcane Cultivation": { "tier": "C", "why": "Free level-1 spell slot — best used for a free Mage Armor cast or a Paladin Smite, but an extra level-1 spell is never a meaningful boost." },
+    "Greater Arcane Cultivation": { "tier": "C", "why": "Free level-2 spell slot (good for Aid or an extra Cloud of Daggers); more than twice as good as the level-1 version but still too minor to leave C tier." },
+    "Barkskin": { "tier": "C", "why": "Sets AC to a minimum of 16 without needing concentration, but doesn't stack with other AC and 16 is low, so only low-AC wildshape Druids benefit — and even they have better elixirs." },
+    "Darkvision": { "tier": "C", "why": "Day-long 40ft darkvision, which is nearly useless in BG3 since arenas are lit or easily lit and the lighting engine is inconsistent; not harmful so not F, but a waste of clicks — sell it." },
+    "See Invisibility": { "tier": "C", "why": "Forces nearby invisible enemies to save (using the weak item save DC) or be revealed; a joke effect you can replicate for free with create water, so better sold than used." },
+    "Tadpole Elixir": { "tier": "F", "why": "Advantage on all attacks after using a tadpole power, but at the cost of disadvantage on Con/Wis/Int saves all rest — crippling the game's most important saves; Heroism or the risky ring give similar upside without the downside." }
+  }
+}
