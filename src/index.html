@@ -456,6 +456,7 @@
 
   .empty-state { text-align: center; padding: 60px 20px; color: var(--ink-faint); font-style: italic; }
   .empty-state.hidden { display: none; }
+  .tierlist-section.hidden, .tier-row.hidden, .item-pill.hidden { display: none; }
 
   /* Tier list reference panel */
   .tierlist-section {
@@ -664,7 +665,9 @@
 
   <section class="panel" id="panel-tierlists">
     <div class="attribution">Tier lists from Cephalopocalypse. Skills and Cantrips are reference-only — they aren't spawnable items.</div>
+    <input type="text" id="tl-search" class="search-input" placeholder="Search tier lists and items..." autocomplete="off" style="margin-bottom: 24px;">
     <div id="tierlists-content"></div>
+    <div class="empty-state hidden" id="tl-empty">Nothing matches that search.</div>
   </section>
 
   <div class="footer-note">
@@ -732,6 +735,23 @@ const commands = [
     keywords: "party size limit max companions",
     inputs: [{ id: "size", label: "Party Size", type: "number", default: "12", min: "2" }],
     build: v => v.size ? `SetMaxPartySizeOverride(${v.size})` : null },
+  { num: "X", title: "Full Restore", desc: "Fully heals the host and restores all spell slots and action resources — also revives them if downed.",
+    keywords: "heal full restore hp health revive resources rest downed",
+    inputs: [], build: () => `Osi.PROC_CharacterFullRestore(GetHostCharacter())` },
+  { num: "XI", title: "Restore Action Resources", desc: "Refreshes actions, bonus actions, reactions and spell slots mid-combat without resting.",
+    keywords: "action bonus reaction spell slots resources refresh combat ki rage",
+    inputs: [], build: () => `Osi.RestoreActionResources(GetHostCharacter())` },
+  { num: "XII", title: "Apply Status", desc: "Force-applies a status to the host for the rest of the day (ignores immunities). Common IDs: INVULNERABLE (god mode), HASTE, BLESS, INVISIBILITY, RESISTANCE_TO_ALL.",
+    keywords: "status effect god mode invulnerable haste bless invisible buff apply force",
+    inputs: [{ id: "status", label: "Status ID", type: "text", default: "INVULNERABLE" }],
+    build: v => v.status ? `Osi.ApplyStatus(GetHostCharacter(), "${v.status}", -1, 1)` : null },
+  { num: "XIII", title: "Add Boost", desc: "Grants a permanent boost (lasts until reload/region change). Examples: Ability(Strength,2), AC(5), RollBonus(Attack,5), CarryCapacityMultiplier(5.0), ActionResource(Movement,3,0).",
+    keywords: "boost ability score strength dexterity ac armor class speed movement carry weight attack",
+    inputs: [{ id: "boost", label: "Boost", type: "text", default: "Ability(Strength,2)" }],
+    build: v => v.boost ? `Osi.AddBoosts(GetHostCharacter(), "${v.boost}", "", "")` : null },
+  { num: "XIV", title: "Clear Debuffs", desc: "Removes all harmful statuses (poison, fear, hold, etc.) from the host character.",
+    keywords: "remove harmful status debuff cleanse poison fear hold paralyze cure",
+    inputs: [], build: () => `Osi.RemoveHarmfulStatuses(GetHostCharacter())` },
 ];
 
 // ============== TAB SWITCHING ==============
@@ -1280,6 +1300,7 @@ const tierlistsContent = document.getElementById('tierlists-content');
 function renderTierlist(tl) {
   const section = document.createElement('div');
   section.className = 'tierlist-section';
+  section.dataset.subject = (tl.subject || '').toLowerCase();
 
   const title = document.createElement('div');
   title.className = 'tierlist-title';
@@ -1427,6 +1448,7 @@ function renderTierlist(tl) {
         pill.type = 'button';
         pill.className = 'item-pill';
         pill.textContent = name;
+        pill.dataset.name = name.toLowerCase();
         pill.setAttribute('aria-expanded', 'false');
         const detail = buildDetail(name);
         pill.addEventListener('click', () => {
@@ -1454,6 +1476,37 @@ const sortedTierlists = TIERLISTS.slice().sort((a, b) => {
 
 sortedTierlists.forEach(tl => {
   tierlistsContent.appendChild(renderTierlist(tl));
+});
+
+// ---- Tier-list search: filter by list subject or item name ----
+const tlSearch = document.getElementById('tl-search');
+const tlEmpty = document.getElementById('tl-empty');
+tlSearch.addEventListener('input', () => {
+  const q = tlSearch.value.trim().toLowerCase();
+  let anyVisible = 0;
+  tierlistsContent.querySelectorAll('.tierlist-section').forEach(section => {
+    const subjMatch = !q || (section.dataset.subject || '').includes(q);
+    let sectionVisible = 0;
+    section.querySelectorAll('.tier-row').forEach(row => {
+      let rowVisible = 0;
+      row.querySelectorAll('.item-pill').forEach(pill => {
+        const match = subjMatch || (pill.dataset.name || '').includes(q);
+        pill.classList.toggle('hidden', !match);
+        const detail = pill.nextElementSibling;
+        if (!match && detail && detail.classList.contains('pill-detail')) {
+          detail.classList.remove('open');
+          pill.classList.remove('pill-active');
+          pill.setAttribute('aria-expanded', 'false');
+        }
+        if (match) rowVisible++;
+      });
+      row.classList.toggle('hidden', rowVisible === 0);
+      if (rowVisible) sectionVisible++;
+    });
+    section.classList.toggle('hidden', sectionVisible === 0);
+    if (sectionVisible) anyVisible++;
+  });
+  tlEmpty.classList.toggle('hidden', anyVisible !== 0);
 });
 </script>
 </body>
