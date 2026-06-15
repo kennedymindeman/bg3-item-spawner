@@ -477,6 +477,15 @@
     font-size: 0.88rem;
     margin-bottom: 18px;
   }
+  .tierlist-source {
+    display: inline-block;
+    color: var(--ink-faint);
+    font-size: 0.8rem;
+    text-decoration: none;
+    margin: -8px 0 18px;
+    opacity: 0.8;
+  }
+  .tierlist-source:hover { color: var(--gold); opacity: 1; text-decoration: underline; }
   .tier-row {
     display: grid;
     grid-template-columns: 70px 1fr;
@@ -1312,6 +1321,17 @@ function renderTierlist(tl) {
     ctx.className = 'tierlist-context';
     ctx.textContent = tl.context;
     section.appendChild(ctx);
+  }
+
+  if (tl.video) {
+    const src = document.createElement('a');
+    src.className = 'tierlist-source';
+    src.textContent = '▶ Source: ' + tl.video;
+    src.href = 'https://www.youtube.com/results?search_query=' +
+      encodeURIComponent('Cephalopocalypse ' + tl.video);
+    src.target = '_blank';
+    src.rel = 'noopener';
+    section.appendChild(src);
   }
 
   // Tier definitions header
