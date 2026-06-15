@@ -478,13 +478,17 @@
     margin-bottom: 18px;
   }
   .tierlist-source {
-    display: inline-block;
     color: var(--ink-faint);
-    font-size: 0.8rem;
+    font-size: 0.72rem;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    text-transform: none;
     text-decoration: none;
-    margin: -8px 0 18px;
-    opacity: 0.8;
+    margin-left: 12px;
+    vertical-align: middle;
+    opacity: 0.7;
   }
+  .tierlist-source::before { content: "\25B8 "; }
   .tierlist-source:hover { color: var(--gold); opacity: 1; text-decoration: underline; }
   .tier-row {
     display: grid;
@@ -674,7 +678,7 @@
 
   <section class="panel" id="panel-tierlists">
     <div class="attribution">Tier lists from Cephalopocalypse. Skills and Cantrips are reference-only — they aren't spawnable items.</div>
-    <input type="text" id="tl-search" class="search-input" placeholder="Search tier lists and items..." autocomplete="off" style="margin-bottom: 24px;">
+    <input type="text" id="tl-search" class="search-input" placeholder="Search tier lists..." autocomplete="off" style="margin-bottom: 24px;">
     <div id="tierlists-content"></div>
     <div class="empty-state hidden" id="tl-empty">Nothing matches that search.</div>
   </section>
@@ -1305,6 +1309,13 @@ cmdSearch.addEventListener('input', () => {
 // ============== TIER LISTS REFERENCE ==============
 const tierlistsContent = document.getElementById('tierlists-content');
 
+// Link to the source video (exact URL if known, else a YouTube search).
+function videoUrl(tl) {
+  if (tl.video_url) return tl.video_url;
+  return 'https://www.youtube.com/results?search_query=' +
+    encodeURIComponent('Cephalopocalypse ' + (tl.video || tl.subject));
+}
+
 // Group items by tier within each tierlist
 function renderTierlist(tl) {
   const section = document.createElement('div');
@@ -1314,43 +1325,19 @@ function renderTierlist(tl) {
   const title = document.createElement('div');
   title.className = 'tierlist-title';
   title.textContent = tl.subject;
-  section.appendChild(title);
-
-  if (tl.context) {
-    const ctx = document.createElement('div');
-    ctx.className = 'tierlist-context';
-    ctx.textContent = tl.context;
-    section.appendChild(ctx);
-  }
-
   if (tl.video) {
     const src = document.createElement('a');
     src.className = 'tierlist-source';
-    src.textContent = '▶ Source: ' + tl.video;
-    src.href = 'https://www.youtube.com/results?search_query=' +
-      encodeURIComponent('Cephalopocalypse ' + tl.video);
+    src.textContent = 'source';
+    src.title = tl.video;
+    src.href = videoUrl(tl);
     src.target = '_blank';
     src.rel = 'noopener';
-    section.appendChild(src);
+    title.appendChild(src);
   }
+  section.appendChild(title);
 
-  // Tier definitions header
-  if (tl.tier_definitions && Object.keys(tl.tier_definitions).length) {
-    const defs = document.createElement('div');
-    defs.className = 'tier-defs';
-    TIER_ORDER.forEach(t => {
-      if (tl.tier_definitions[t]) {
-        const span = document.createElement('span');
-        const strong = document.createElement('strong');
-        strong.textContent = t;
-        span.appendChild(strong);
-        span.appendChild(document.createTextNode(tl.tier_definitions[t]));
-        defs.appendChild(span);
-      }
-    });
-    section.appendChild(defs);
-  }
-
+  const isSpell = (tl.key || '').indexOf('spells_') === 0;
   const hasActs = tl.acts && Object.keys(tl.acts).length > 0;
 
   function resolveEntry(name) {
@@ -1361,6 +1348,10 @@ function renderTierlist(tl) {
     if (it) return { u: it.u, wname: it.n };
     const loose = LOOSE_INDEX[looseKey(name)];
     if (loose) return { u: loose.u, wname: loose.n };
+    if (isSpell) {
+      const scroll = NAME_INDEX[canon('Scroll of ' + name)];
+      if (scroll) return { u: scroll.u, wname: name, scroll: true };
+    }
     return { u: null, wname: name };
   }
 
@@ -1388,7 +1379,7 @@ function renderTierlist(tl) {
       const copy = document.createElement('button');
       copy.type = 'button';
       copy.className = 'detail-copy';
-      copy.textContent = 'Copy spawn command';
+      copy.textContent = res.scroll ? 'Copy scroll spawn command' : 'Copy spawn command';
       copy.addEventListener('click', () => copyToClipboard(buildItemCmd(res.u), copy));
       actions.appendChild(copy);
     }
@@ -1505,26 +1496,9 @@ tlSearch.addEventListener('input', () => {
   const q = tlSearch.value.trim().toLowerCase();
   let anyVisible = 0;
   tierlistsContent.querySelectorAll('.tierlist-section').forEach(section => {
-    const subjMatch = !q || (section.dataset.subject || '').includes(q);
-    let sectionVisible = 0;
-    section.querySelectorAll('.tier-row').forEach(row => {
-      let rowVisible = 0;
-      row.querySelectorAll('.item-pill').forEach(pill => {
-        const match = subjMatch || (pill.dataset.name || '').includes(q);
-        pill.classList.toggle('hidden', !match);
-        const detail = pill.nextElementSibling;
-        if (!match && detail && detail.classList.contains('pill-detail')) {
-          detail.classList.remove('open');
-          pill.classList.remove('pill-active');
-          pill.setAttribute('aria-expanded', 'false');
-        }
-        if (match) rowVisible++;
-      });
-      row.classList.toggle('hidden', rowVisible === 0);
-      if (rowVisible) sectionVisible++;
-    });
-    section.classList.toggle('hidden', sectionVisible === 0);
-    if (sectionVisible) anyVisible++;
+    const match = !q || (section.dataset.subject || '').includes(q);
+    section.classList.toggle('hidden', !match);
+    if (match) anyVisible++;
   });
   tlEmpty.classList.toggle('hidden', anyVisible !== 0);
 });
