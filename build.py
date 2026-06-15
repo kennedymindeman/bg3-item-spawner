@@ -28,6 +28,7 @@ OUT = Path("bg3_console.html")
 DATA = {
     "items": SRC / "data" / "items.json",
     "tierlists": SRC / "data" / "tierlists.json",
+    "builds": SRC / "data" / "builds.json",
 }
 
 

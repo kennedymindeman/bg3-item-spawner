@@ -10,10 +10,16 @@ and tier lists. Tier ratings come from Cephalopocalypse's Honour Mode YouTube gu
 - `src/data/items.json` — 3,310 spawnable items (`{n,u,c,d}`) as a JSON array.
   It's a curated subset of bg3.wiki, so many real items (and all generic `+N`
   variants) aren't in it; `u` is the RootTemplate UUID used by `TemplateAddTo`.
-- `src/data/tierlists.json` — 27 tier lists (`{key, subject, tier_definitions,
-  ratings}`, plus optional `notes`, `acts`, `uuids`, `wnames`). `uuids[name]`
-  overrides name-matching to give an explicit spawn UUID; `wnames[name]` is the
-  bg3.wiki page title for the wiki link.
+- `src/data/tierlists.json` — 38 tier lists (`{key, subject, ratings, video}`,
+  plus optional `notes`, `acts`, `uuids`, `wnames`, `tier_definitions`, `context`,
+  `is_gameplay_only`). `uuids[name]` overrides name-matching to give an explicit
+  spawn UUID; `wnames[name]` is the bg3.wiki page title for the wiki link; `video`
+  is the source-guide title (the app links to a YouTube search, or `video_url`
+  if added). The app no longer renders `context`/`tier_definitions` (kept in data
+  but considered low-value); spell lists resolve each spell to its `Scroll of <name>`
+  item for a "Copy scroll spawn command" button.
+- `src/data/builds.json` — **NEW, scaffolded.** Character build / leveling
+  organizer data. See "Build organizer" below.
 - `fetch_uuids.py` / `fetch_uuids2.py` — scrape bg3.wiki for UUIDs of tier-list
   items not in `items.json` (writes `review/wiki_uuids.json`).
 - `build.py` — inlines the JSON back into `bg3_console.html`. Run after editing `src/`.
@@ -29,6 +35,35 @@ and tier lists. Tier ratings come from Cephalopocalypse's Honour Mode YouTube gu
 uv run build.py        # regenerate bg3_console.html from src/
 ```
 Then open `bg3_console.html` directly (no server needed).
+
+---
+
+## 🏗️ Build organizer (NEW — scaffolded, content pending)
+
+A "Builds" tab + `src/data/builds.json` for a **character leveling / creator
+organizer**: per-build, the level-by-level class/feat/pick progression, plus
+role, summary, key items, and a source-video link.
+
+- **Primary source (builds we care about):** Cephalopocalypse's *Baldur's Gate
+  Full Party Builds* playlist —
+  `https://www.youtube.com/playlist?list=PLgTVc5Jd2rrK8-luUV3-rvMfiYz46BjQ2`.
+  builds.json is currently seeded only with the catalog of guide videos
+  (verified titles + URLs), each `status: "needs transcript"`.
+- **Secondary source (keep sourcing SEPARATE):** rpgbot.net BG3 handbooks
+  (`https://rpgbot.net/video-games/baldurs-gate-3/`) — per-class guides with
+  ability arrays, race picks, skill/feat advice, and per-class spell breakdowns.
+  Useful for: starting ability spreads, recommended races, level-by-level
+  feature notes, and spell-pick shortlists to flesh out each build. Tag anything
+  pulled from rpgbot distinctly from the Cephalopocalypse builds.
+- **Pipeline:** the build videos are a *different* playlist than the tier-list
+  transcripts, so run `get_transcripts.py` on the builds playlist (needs yt-dlp,
+  not installed in this sandbox), then author each build's `leveling[]` from the
+  transcript. Data model (per entry): `{name, kind, source, video_url, role,
+  summary, leveling:[{level, class, picks, notes}], status}`.
+- **Note:** exact source-video URLs for the *tier lists* still aren't known
+  (get_transcripts.py saved titles, not IDs); tier-list source links use a
+  YouTube search until a `video_url` is added per list (or the tier-list
+  playlist URL is provided so yt-dlp can resolve IDs).
 
 ---
 

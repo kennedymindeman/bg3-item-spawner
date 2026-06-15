@@ -490,6 +490,21 @@
   }
   .tierlist-source::before { content: "\25B8 "; }
   .tierlist-source:hover { color: var(--gold); opacity: 1; text-decoration: underline; }
+  .build-card { background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; padding: 18px 22px; margin-bottom: 18px; }
+  .build-card.hidden { display: none; }
+  .build-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+  .build-name { font-family: 'Cinzel', serif; font-weight: 600; font-size: 1.15rem; color: var(--gold-bright); letter-spacing: 0.03em; }
+  .build-kind { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); border: 1px solid var(--border-bright); border-radius: 4px; padding: 1px 7px; }
+  .build-role { color: var(--gold); font-size: 0.85rem; margin-top: 6px; }
+  .build-summary { color: var(--ink); font-size: 0.9rem; margin-top: 8px; line-height: 1.5; }
+  .build-steps { margin-top: 12px; display: flex; flex-direction: column; gap: 2px; }
+  .build-step { display: grid; grid-template-columns: 52px 170px 1fr; gap: 10px; font-size: 0.85rem; padding: 2px 0; }
+  .build-step-lv { color: var(--gold); }
+  .build-step-class { color: var(--ink); }
+  .build-step-picks { color: var(--ink-dim); }
+  .build-pending { color: var(--ink-faint); font-style: italic; font-size: 0.85rem; margin-top: 10px; }
+  .build-source { display: inline-block; margin-top: 12px; color: var(--ink-faint); font-size: 0.78rem; text-decoration: none; }
+  .build-source:hover { color: var(--gold); text-decoration: underline; }
   .tier-row {
     display: grid;
     grid-template-columns: 70px 1fr;
@@ -637,6 +652,7 @@
     <button class="tab active" data-tab="items">Item Spawner</button>
     <button class="tab" data-tab="commands">Commands</button>
     <button class="tab" data-tab="tierlists">Tier Lists</button>
+    <button class="tab" data-tab="builds">Builds</button>
   </nav>
 
   <section class="panel active" id="panel-items">
@@ -683,6 +699,13 @@
     <div class="empty-state hidden" id="tl-empty">Nothing matches that search.</div>
   </section>
 
+  <section class="panel" id="panel-builds">
+    <div class="attribution">Builds from Cephalopocalypse's <a href="https://www.youtube.com/playlist?list=PLgTVc5Jd2rrK8-luUV3-rvMfiYz46BjQ2" target="_blank" rel="noopener">Full Party Builds</a> playlist. Level-by-level progressions are being added from the source guides.</div>
+    <input type="text" id="build-search" class="search-input" placeholder="Search builds..." autocomplete="off" style="margin-bottom: 24px;">
+    <div id="builds-content"></div>
+    <div class="empty-state hidden" id="build-empty">Nothing matches that search.</div>
+  </section>
+
   <div class="footer-note">
     Open the in-game console with <code>&grave;</code> (backtick) and paste. Requires the BG3 Script Extender mod.
   </div>
@@ -692,6 +715,8 @@
 const ITEMS=/*@DATA:items*/[];
 
 const TIERLISTS=/*@DATA:tierlists*/[];
+
+const BUILDS=/*@DATA:builds*/[];
 
 const companions = [
   { name: "Karlach",     uuid: "S_Player_Karlach_2c76687d-93a2-477b-8b18-8a14b549304c" },
@@ -1501,6 +1526,94 @@ tlSearch.addEventListener('input', () => {
     if (match) anyVisible++;
   });
   tlEmpty.classList.toggle('hidden', anyVisible !== 0);
+});
+
+// ============== BUILDS ==============
+const buildsContent = document.getElementById('builds-content');
+const buildSearch = document.getElementById('build-search');
+const buildEmpty = document.getElementById('build-empty');
+
+function renderBuild(b) {
+  const card = document.createElement('div');
+  card.className = 'build-card';
+  card.dataset.search = ((b.name || '') + ' ' + (b.role || '') + ' ' + (b.kind || '') + ' ' + (b.source || '')).toLowerCase();
+
+  const head = document.createElement('div');
+  head.className = 'build-head';
+  const nm = document.createElement('span');
+  nm.className = 'build-name';
+  nm.textContent = b.name || 'Untitled build';
+  head.appendChild(nm);
+  if (b.kind) {
+    const k = document.createElement('span');
+    k.className = 'build-kind';
+    k.textContent = b.kind;
+    head.appendChild(k);
+  }
+  card.appendChild(head);
+
+  if (b.role) {
+    const r = document.createElement('div');
+    r.className = 'build-role';
+    r.textContent = b.role;
+    card.appendChild(r);
+  }
+  if (b.summary) {
+    const s = document.createElement('div');
+    s.className = 'build-summary';
+    s.textContent = b.summary;
+    card.appendChild(s);
+  }
+
+  if (b.leveling && b.leveling.length) {
+    const steps = document.createElement('div');
+    steps.className = 'build-steps';
+    b.leveling.forEach(st => {
+      const row = document.createElement('div');
+      row.className = 'build-step';
+      const lv = document.createElement('span');
+      lv.className = 'build-step-lv';
+      lv.textContent = 'Lv ' + st.level;
+      const cl = document.createElement('span');
+      cl.className = 'build-step-class';
+      cl.textContent = st.class || '';
+      const pk = document.createElement('span');
+      pk.className = 'build-step-picks';
+      pk.textContent = st.picks || st.notes || '';
+      row.appendChild(lv); row.appendChild(cl); row.appendChild(pk);
+      steps.appendChild(row);
+    });
+    card.appendChild(steps);
+  } else {
+    const pend = document.createElement('div');
+    pend.className = 'build-pending';
+    pend.textContent = 'Level-by-level progression coming from the source guide.';
+    card.appendChild(pend);
+  }
+
+  if (b.video_url) {
+    const src = document.createElement('a');
+    src.className = 'build-source';
+    src.textContent = '▸ ' + (b.source || 'Source video');
+    src.href = b.video_url;
+    src.target = '_blank';
+    src.rel = 'noopener';
+    card.appendChild(src);
+  }
+  return card;
+}
+
+BUILDS.forEach(b => buildsContent.appendChild(renderBuild(b)));
+
+buildSearch.addEventListener('input', () => {
+  const q = buildSearch.value.trim().toLowerCase();
+  let vis = 0;
+  buildsContent.querySelectorAll('.build-card').forEach(c => {
+    const m = !q || c.dataset.search.includes(q);
+    c.classList.toggle('hidden', !m);
+    if (m) vis++;
+  });
+  buildEmpty.classList.toggle('hidden', vis !== 0);
 });
 </script>
 </body>
