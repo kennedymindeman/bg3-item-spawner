@@ -511,6 +511,30 @@
   .build-pending { color: var(--ink-faint); font-style: italic; font-size: 0.85rem; margin-top: 12px; }
   .build-source { display: inline-block; margin-top: 12px; color: var(--ink-faint); font-size: 0.78rem; text-decoration: none; }
   .build-source:hover { color: var(--gold); text-decoration: underline; }
+  /* Breakpoint planner */
+  .bp-planner { background: var(--bg-panel); border: 1px solid var(--border-bright); border-radius: 8px; padding: 20px 22px; margin-bottom: 28px; }
+  .bp-title { font-family: 'Cinzel', serif; font-weight: 600; font-size: 1.1rem; color: var(--gold-bright); letter-spacing: 0.03em; }
+  .bp-sub { color: var(--ink-dim); font-size: 0.85rem; margin-top: 6px; line-height: 1.5; }
+  .bp-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); margin: 18px 0 8px; }
+  .bp-styles { display: flex; flex-wrap: wrap; gap: 8px; }
+  .bp-style-btn { border: 1px solid var(--border); background: var(--bg-deep); color: var(--ink); border-radius: 6px; padding: 8px 13px; cursor: pointer; font-size: 0.86rem; transition: border-color .12s, background .12s; }
+  .bp-style-btn:hover { border-color: var(--border-bright); }
+  .bp-style-btn.active { background: var(--gold); color: var(--bg-deep); border-color: var(--gold); font-weight: 600; }
+  .bp-engine { color: var(--ink-dim); font-size: 0.85rem; line-height: 1.5; margin: 16px 0 4px; }
+  .bp-engine strong { color: var(--gold); font-weight: 600; }
+  .bp-rec { background: var(--bg-deep); border-left: 2px solid var(--gold); border-radius: 0 6px 6px 0; padding: 12px 15px; margin-top: 12px; }
+  .bp-rec-tag { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); }
+  .bp-rec-split { color: var(--gold-bright); font-weight: 600; font-size: 0.98rem; margin: 4px 0 5px; }
+  .bp-rec-why { color: var(--ink); font-size: 0.88rem; line-height: 1.5; }
+  .bp-item { border: 1px solid var(--border); border-radius: 6px; padding: 11px 14px; margin-top: 8px; }
+  .bp-item-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+  .bp-lvl-badge { font-size: 0.72rem; font-weight: 600; color: var(--bg-deep); background: var(--gold); border-radius: 4px; padding: 1px 7px; white-space: nowrap; }
+  .bp-item-name { color: var(--gold-bright); font-weight: 600; font-size: 0.92rem; }
+  .bp-item-class { font-size: 0.78rem; color: var(--ink-faint); }
+  .bp-effect { color: var(--ink); font-size: 0.86rem; line-height: 1.5; margin-top: 6px; }
+  .bp-combos { color: var(--ink-dim); font-size: 0.82rem; line-height: 1.5; margin-top: 5px; }
+  .bp-combos::before { content: "\21B3 combo: "; color: var(--gold); }
+  .bp-empty { color: var(--ink-faint); font-style: italic; font-size: 0.85rem; margin-top: 12px; }
   .tier-row {
     display: grid;
     grid-template-columns: 70px 1fr;
@@ -594,6 +618,20 @@
     color: var(--ink);
     margin-bottom: 10px;
   }
+  .detail-loc {
+    font-family: 'EB Garamond', serif;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    color: var(--ink-dim);
+    margin-bottom: 10px;
+  }
+  .detail-loc strong {
+    font-family: 'Cinzel', serif;
+    font-size: 0.66rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--gold);
+  }
   .detail-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
   .detail-copy, .detail-wiki {
     font-family: 'Cinzel', serif;
@@ -655,13 +693,13 @@
   </header>
 
   <nav class="tabs">
-    <button class="tab active" data-tab="items">Item Spawner</button>
+    <button class="tab active" data-tab="builds">Builds</button>
+    <button class="tab" data-tab="items">Item Spawner</button>
     <button class="tab" data-tab="commands">Commands</button>
     <button class="tab" data-tab="tierlists">Tier Lists</button>
-    <button class="tab" data-tab="builds">Builds</button>
   </nav>
 
-  <section class="panel active" id="panel-items">
+  <section class="panel" id="panel-items">
     <div class="attribution">Tier ratings sourced from Cephalopocalypse's Honour Mode guides. Filter or sort by tier to focus on what matters.</div>
     <div class="items-controls">
       <input type="text" id="item-search" class="search-input" placeholder="Search items by name..." autocomplete="off">
@@ -705,8 +743,19 @@
     <div class="empty-state hidden" id="tl-empty">Nothing matches that search.</div>
   </section>
 
-  <section class="panel" id="panel-builds">
+  <section class="panel active" id="panel-builds">
     <div class="attribution">Builds from Cephalopocalypse's <a href="https://www.youtube.com/playlist?list=PLgTVc5Jd2rrK8-luUV3-rvMfiYz46BjQ2" target="_blank" rel="noopener">Full Party Builds</a> playlist. Level-by-level progressions are being added from the source guides.</div>
+
+    <div class="bp-planner" id="bp-planner">
+      <div class="bp-title">Breakpoint planner</div>
+      <div class="bp-sub">Set your level, then pick what you want to <em>do</em>. Assuming you'll respec, it shows the best split for that level plus every power-spike breakpoint you can reach.</div>
+      <div class="bp-label">Your level</div>
+      <div class="lvl-tabs" id="bp-levels"></div>
+      <div class="bp-label">What do you want to do?</div>
+      <div class="bp-styles" id="bp-styles"></div>
+      <div id="bp-output"></div>
+    </div>
+
     <input type="text" id="build-search" class="search-input" placeholder="Search builds..." autocomplete="off" style="margin-bottom: 24px;">
     <div id="builds-content"></div>
     <div class="empty-state hidden" id="build-empty">Nothing matches that search.</div>
@@ -723,6 +772,8 @@ const ITEMS=/*@DATA:items*/[];
 const TIERLISTS=/*@DATA:tierlists*/[];
 
 const BUILDS=/*@DATA:builds*/[];
+
+const BREAKPOINTS=/*@DATA:breakpoints*/[];
 
 const companions = [
   { name: "Karlach",     uuid: "S_Player_Karlach_2c76687d-93a2-477b-8b18-8a14b549304c" },
@@ -1406,6 +1457,15 @@ function renderTierlist(tl) {
       n.textContent = tl.notes[name];
       d.appendChild(n);
     }
+    if (tl.locations && tl.locations[name]) {
+      const loc = document.createElement('div');
+      loc.className = 'detail-loc';
+      const lab = document.createElement('strong');
+      lab.textContent = 'How to get it: ';
+      loc.appendChild(lab);
+      loc.appendChild(document.createTextNode(tl.locations[name]));
+      d.appendChild(loc);
+    }
 
     const actions = document.createElement('div');
     actions.className = 'detail-actions';
@@ -1659,6 +1719,138 @@ buildSearch.addEventListener('input', () => {
   });
   buildEmpty.classList.toggle('hidden', vis !== 0);
 });
+
+// ============== BREAKPOINT PLANNER ==============
+(function () {
+  const data = BREAKPOINTS || {};
+  const styles = data.playstyles || [];
+  const bps = data.breakpoints || [];
+  const planner = document.getElementById('bp-planner');
+  if (!planner || !styles.length || !bps.length) { if (planner) planner.style.display = 'none'; return; }
+
+  const BP = {};
+  bps.forEach(b => { BP[b.id] = b; });
+  const levelsEl = document.getElementById('bp-levels');
+  const stylesEl = document.getElementById('bp-styles');
+  const outEl = document.getElementById('bp-output');
+  let level = 12;       // assume max by default — show everything
+  let styleId = null;   // no playstyle picked yet
+
+  function bpItem(b) {
+    const el = document.createElement('div');
+    el.className = 'bp-item';
+    const head = document.createElement('div');
+    head.className = 'bp-item-head';
+    const badge = document.createElement('span');
+    badge.className = 'bp-lvl-badge';
+    badge.textContent = 'Lv ' + b.level;
+    const nm = document.createElement('span');
+    nm.className = 'bp-item-name';
+    nm.textContent = b.name;
+    const cl = document.createElement('span');
+    cl.className = 'bp-item-class';
+    cl.textContent = b.class + (b.subclass && b.subclass !== '—' ? ' — ' + b.subclass : '');
+    head.appendChild(badge); head.appendChild(nm); head.appendChild(cl);
+    el.appendChild(head);
+    const eff = document.createElement('div');
+    eff.className = 'bp-effect';
+    eff.textContent = b.effect;
+    el.appendChild(eff);
+    if (b.combos) {
+      const cm = document.createElement('div');
+      cm.className = 'bp-combos';
+      cm.textContent = b.combos;
+      el.appendChild(cm);
+    }
+    return el;
+  }
+
+  function render() {
+    outEl.innerHTML = '';
+    const ps = styles.find(s => s.id === styleId);
+
+    if (ps) {
+      if (ps.engine) {
+        const eng = document.createElement('div');
+        eng.className = 'bp-engine';
+        eng.innerHTML = '<strong>How it works:</strong> ';
+        eng.appendChild(document.createTextNode(ps.engine));
+        outEl.appendChild(eng);
+      }
+      // Best recommended split: highest minLevel that you've reached.
+      const rec = (ps.recs || []).filter(r => r.minLevel <= level).sort((a, b) => b.minLevel - a.minLevel)[0];
+      if (rec) {
+        const box = document.createElement('div');
+        box.className = 'bp-rec';
+        const tag = document.createElement('div');
+        tag.className = 'bp-rec-tag';
+        tag.textContent = 'Best split at level ' + level;
+        const sp = document.createElement('div');
+        sp.className = 'bp-rec-split';
+        sp.textContent = rec.split;
+        const wy = document.createElement('div');
+        wy.className = 'bp-rec-why';
+        wy.textContent = rec.why;
+        box.appendChild(tag); box.appendChild(sp); box.appendChild(wy);
+        outEl.appendChild(box);
+      }
+      // Reachable breakpoints feeding this playstyle.
+      const lbl = document.createElement('div');
+      lbl.className = 'bp-label';
+      lbl.textContent = 'Breakpoints you can reach';
+      outEl.appendChild(lbl);
+      const reachable = (ps.breakpoints || []).map(id => BP[id]).filter(b => b && b.level <= level)
+        .sort((a, b) => a.level - b.level);
+      if (reachable.length) reachable.forEach(b => outEl.appendChild(bpItem(b)));
+      else {
+        const em = document.createElement('div');
+        em.className = 'bp-empty';
+        em.textContent = 'Nothing online yet at level ' + level + ' — this style comes together a level or two up.';
+        outEl.appendChild(em);
+      }
+    } else {
+      // No style picked: show every breakpoint reachable at this level.
+      const lbl = document.createElement('div');
+      lbl.className = 'bp-label';
+      lbl.textContent = 'All breakpoints up to level ' + level;
+      outEl.appendChild(lbl);
+      const reachable = bps.filter(b => b.level <= level).sort((a, b) => a.level - b.level || a.class.localeCompare(b.class));
+      reachable.forEach(b => outEl.appendChild(bpItem(b)));
+    }
+  }
+
+  // Level buttons 1–12 (reuse the per-build level-tab styling).
+  for (let lv = 1; lv <= 12; lv++) {
+    const t = document.createElement('button');
+    t.type = 'button';
+    t.className = 'lvl-tab' + (lv === level ? ' active' : '');
+    t.textContent = lv;
+    t.dataset.lv = String(lv);
+    t.addEventListener('click', () => {
+      level = lv;
+      [...levelsEl.children].forEach(c => c.classList.toggle('active', c.dataset.lv === String(lv)));
+      render();
+    });
+    levelsEl.appendChild(t);
+  }
+
+  // Playstyle (intent) buttons.
+  styles.forEach(s => {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'bp-style-btn';
+    b.textContent = s.label;
+    b.dataset.id = s.id;
+    b.addEventListener('click', () => {
+      styleId = (styleId === s.id) ? null : s.id;  // toggle off to see everything
+      [...stylesEl.children].forEach(c => c.classList.toggle('active', c.dataset.id === styleId));
+      render();
+    });
+    stylesEl.appendChild(b);
+  });
+
+  render();
+})();
 </script>
 </body>
 </html>
