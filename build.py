@@ -45,7 +45,9 @@ def main() -> int:
         print(f"inlined {key}: {len(data)} entries")
 
     OUT.write_text(html, encoding="utf-8")
-    print(f"\nwrote {OUT} ({OUT.stat().st_size:,} bytes)")
+    # Also emit index.html so the root URL works on any static host (GitHub Pages, etc.)
+    Path("index.html").write_text(html, encoding="utf-8")
+    print(f"\nwrote {OUT} and index.html ({OUT.stat().st_size:,} bytes)")
     return 0
 
 
