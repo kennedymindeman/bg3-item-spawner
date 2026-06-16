@@ -60,10 +60,10 @@ role, summary, key items, and a source-video link.
   not installed in this sandbox), then author each build's `leveling[]` from the
   transcript. Data model (per entry): `{name, kind, source, video_url, role,
   summary, leveling:[{level, class, picks, notes}], status}`.
-- **Note:** exact source-video URLs for the *tier lists* still aren't known
-  (get_transcripts.py saved titles, not IDs); tier-list source links use a
-  YouTube search until a `video_url` is added per list (or the tier-list
-  playlist URL is provided so yt-dlp can resolve IDs).
+- **Tier-list source links** now point to the exact videos: `review/add_video_urls.py`
+  matched each list's primary transcript title to Cephalopocalypse's channel
+  uploads (via `yt-dlp --flat-playlist "@Cephalopocalypse/videos"`) and wrote
+  `video`/`video_url` per list. `videoUrl()` prefers `video_url`.
 
 ---
 

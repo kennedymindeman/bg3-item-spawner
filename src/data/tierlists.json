@@ -64,7 +64,8 @@
     "wnames": {
       "Arrow of Smokepowder": "Smokepowder Arrow"
     },
-    "video": "Arrows Tier List - BG3 Honour Mode Guide"
+    "video": "ARROWS Tier List - For Archers and Non-Archers Alike! - BG3 Honour Mode Guide",
+    "video_url": "https://www.youtube.com/watch?v=ZMCimWeIxCk"
   },
   {
     "key": "barrels",
@@ -144,7 +145,8 @@
       "Wogglims": "Wogglims",
       "Acid Barrel": "Acid Barrel"
     },
-    "video": "Barrels, Satchels and Fireworks Tier List - BG3 Honour Mode Guide"
+    "video": "SECRET BONUS TIER LIST - Barrels, Satchels, and Fireworks - BG3 Honour Mode Guide",
+    "video_url": "https://www.youtube.com/watch?v=kxTZtj7SY84"
   },
   {
     "key": "boots",
@@ -244,7 +246,7 @@
       "Bonespike Boots": "Bonespike Boots",
       "Hoarfrost Shoes": "Hoarfrost Boots"
     },
-    "video": "The BEST Boots in Baldur's Gate 3 - Tier List and Guide",
+    "video": "The BEST BOOTS in Baldur's Gate 3 - Complete Tier List and Guide",
     "acts": {
       "Boots of Aid and Comfort": "Act 1",
       "Boots of Speed": "Act 1",
@@ -280,7 +282,8 @@
       "Blackguard's Greaves": "Act 3",
       "Slinging Shoes": "Act 3",
       "Unwanted Masterwork Greaves": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=K--zIJJJotI"
   },
   {
     "key": "cantrips",
@@ -342,7 +345,8 @@
       "Poison Spray": "Highest die (1d12) but only 10ft range, targets the strong Constitution save, and poison is one of the most-resisted/immune damage types — a bad damage cantrip even for the Druids who get it.",
       "True Strike": "Advantage on your next attack, costing concentration — strictly worse than just attacking twice (and you can usually get advantage by hiding); the lone niche is a pre-combat cast when you can't hide. Not useless, but close."
     },
-    "video": "BG3 Cantrips Tier List [Updated] - Patch 8 Honour Mode Guide"
+    "video": "EVEN MORE About Spells - BG3 Cantrips Tier List  [Updated] - Patch 8 Honour Mode Guide",
+    "video_url": "https://www.youtube.com/watch?v=mgqMv2h-0x0"
   },
   {
     "key": "cloaks",
@@ -394,7 +398,7 @@
       "Cindermoth Cloak": "Enemies who damage you within 7ft make a trivial DC12 dex save or catch fire (1d4/turn) — essentially a strictly worse Fleshmelter Cloak, which deals its damage immediately with no save.",
       "Wavemother's Cloak": "Grants the Wet condition but only in combat — a strictly worse Reverse Rain Cloak (can't lead off combat fire-immune), and the game pointlessly has two permanent-wetness cloaks; only worth it for the joke."
     },
-    "video": "The COOLEST Items in BG3 - Complete Cloak Tier List and Guide",
+    "video": "The COOLEST ITEMS in BG3 - Complete Cloak Tier List and Guide",
     "acts": {
       "Deathstalker Mantle": "Act 1",
       "Cloak of Protection": "Act 2",
@@ -412,7 +416,8 @@
       "Thunderskin Cloak": "Act 2",
       "Cindermoth Cloak": "Act 3",
       "Wavemother's Cloak": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=MbZ0r-Tfixg"
   },
   {
     "key": "cloth_armor",
@@ -492,7 +497,7 @@
     "wnames": {
       "Bonespike Garb": "Bonespike Garb"
     },
-    "video": "Armor Tier List - Robes, Clothes and Cloth - BG3 Honour Mode Guide",
+    "video": "ARMOR TIER LIST - Robes, Clothes, and Cloth - BG3 Honour Mode Guide - Part 1",
     "acts": {
       "Graceful Cloth": "Act 1",
       "Protecty Sparkswall": "Act 1",
@@ -520,7 +525,8 @@
       "Robe of Summer": "Act 1",
       "Veil of the Morning": "Act 3",
       "Viconia's Priestess Robe": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=TwFGCc8OOfw"
   },
   {
     "key": "elixirs",
@@ -589,7 +595,8 @@
       "Superior Arcane Cultivation": "Superior Elixir of Arcane Cultivation",
       "Greater Arcane Cultivation": "Greater Elixir of Arcane Cultivation"
     },
-    "video": "Elixir Tier List - BG3 Honour Mode Guide"
+    "video": "Elixir Tier List - BG3'S MOST BROKEN Mechanic Ranked! - Honour Mode Guide",
+    "video_url": "https://www.youtube.com/watch?v=9BcQXb37Bik"
   },
   {
     "key": "finesse_weapons",
@@ -713,7 +720,7 @@
       "Murderous Cut": "A +1 dagger with +1d4 vs sub-50% enemies — the Ritual Dagger of Shar already does +1d4 on every attack better, so this is outclassed by an already-outclassed item.",
       "Salty Scimitar (RRR)": "A +2 scimitar with Command once/rest — a generic +2 is weak in Act 3; its real value is the joke of announcing 'I'm attacking with my Salty Scimitar' in multiplayer."
     },
-    "video": "The BEST Stabbing / Rogue Weapons in BG3 - Tier List and Guide",
+    "video": "The BEST STABBING WEAPONS in Baldur's Gate 3 - Honor Mode Tier List and Guide - Part 1",
     "acts": {
       "Knife of the Undermountain King": "Act 1",
       "Shortsword of First Blood": "Act 1",
@@ -745,7 +752,8 @@
       "Dread Iron Dagger": "Act 3",
       "Gleamdance Dagger": "Act 3",
       "Murderous Cut": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=jeSeVkmqmuc"
   },
   {
     "key": "gloves",
@@ -931,7 +939,7 @@
       "Unwanted Masterwork Gloves": "+1 to attack and +1 strength saves (medium armor) — the +1 to hit is duplicated and far exceeded by many other Act 3 gloves, so it'll essentially never be worn.",
       "Winkling Gloves": "+1 Sleight of Hand and +1 to attack — both effects are duplicated far better by other gloves you'll already have, so like the near-identical Unwanted Masterwork gloves it almost never sees play."
     },
-    "video": "Gloves Tier List and Guide - BG3 (Acts 1-3)",
+    "video": "The MOST IMPORTANT ITEMS in BG3 - Gloves Tier List and Guide - Act 1",
     "acts": {
       "Bracers of Defence": "Act 1",
       "Daredevil Gloves": "Act 1",
@@ -1002,7 +1010,8 @@
       "Spell-Seeking Gloves": "Act 3",
       "Unwanted Masterwork Gloves": "Act 3",
       "Winkling Gloves": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=nnmJWxi_IzA"
   },
   {
     "key": "grenades",
@@ -1076,7 +1085,8 @@
       "Oil Flask": "Oil Flask",
       "Sleeping Potion": "Potion of Sleep"
     },
-    "video": "Grenades Tier List - Throwables Ranked - BG3 Honour Mode Guide"
+    "video": "GRENADES TIER LIST - Throwables Ranked - BG3 Honour Mode Guide",
+    "video_url": "https://www.youtube.com/watch?v=VL49XCJgYno"
   },
   {
     "key": "helmets",
@@ -1220,7 +1230,7 @@
       "Jannath's Hat": "Advantage on persuasion/deception — but you've made the key checks by Act 3, and the Friends cantrip / Enhance Ability duplicate it cheaply and without risk; little impact.",
       "Scabby Pugilist Circlet": "+2 weapon/unarmed damage when surrounded by 2+ enemies — strictly worse than the Horns of the Berserker (near-unconditional +2 damage and +2 hit, no proficiency needed), which is itself often beaten by the Mask of Soul Perception."
     },
-    "video": "Helmets Tier List and Guide - BG3 (Acts 1-3)",
+    "video": "The MOST BROKEN Item Slot in Baldur's Gate 3 - Helmets Tier List and Guide - Act 1",
     "acts": {
       "Cap of Curing": "Act 1",
       "Diadem of Arcane Synergy": "Act 1",
@@ -1273,7 +1283,8 @@
       "Hat of Uninhibited Kushigo": "Act 2",
       "Jannath's Hat": "Act 3",
       "Scabby Pugilist Circlet": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=Epsdb6XtHkI"
   },
   {
     "key": "light_armor",
@@ -1337,7 +1348,7 @@
       "Spidersilk Armour": "Spidersilk Armour",
       "Armour of the Sporekeeper": "Armour of the Sporekeeper"
     },
-    "video": "Light Armour Tier List - BG3 Honour Mode Guide",
+    "video": "ARMOR TIER LIST - Light Armour - Baldur's Gate 3 Honour Mode Guide - Part 2",
     "acts": {
       "Spidersilk Armour": "Act 1",
       "Armour of Moonbasking": "Act 3",
@@ -1351,7 +1362,8 @@
       "Penumbral Armour": "Act 2",
       "Blazer of Benevolence": "Act 1",
       "Scarlet Leather": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=YsQlQcxhnFQ"
   },
   {
     "key": "medium_armor",
@@ -1457,7 +1469,7 @@
       "Dark Justiciar Half Plate": "Dark Justiciar Half-Plate (Rare)",
       "(Rare) Dark Justiciar Half-Plate": "Dark Justiciar Half-Plate (Very Rare)"
     },
-    "video": "BG3's BEST Armor - Medium Armor Tier List - Honour Mode Guide",
+    "video": "BG3'S BEST ARMOR - Medium Armor Tier List - Honour Mode Guide - Part 3",
     "acts": {
       "Luminous Armour": "Act 1",
       "Adamantine Scale Mail": "Act 1",
@@ -1475,7 +1487,8 @@
       "Barkskin Armour": "Act 2",
       "Psionic Ward Armour": "Act 2",
       "Slippery Chain Shirt": "Act 1"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=5Sbj8DDA04o"
   },
   {
     "key": "one_handed_weapons",
@@ -1555,7 +1568,7 @@
       "Sword of Screams": "Sword of Screams",
       "Rapier": "Rapier"
     },
-    "video": "The BEST One Handed Weapons in BG3 - Tier List and Guide",
+    "video": "The BEST ONE HANDED WEAPONS in Baldur's Gate 3 - Honor Mode Tier List and Guide",
     "acts": {
       "Infernal Rapier": "Act 2",
       "Duellist's Prerogative": "Act 3",
@@ -1571,7 +1584,8 @@
       "Ravengard's Scourger": "Act 3",
       "Corrosive Flail": "Act 1",
       "Myrkulite Scourge": "Act 2"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=xt7Eq1-Bzd8"
   },
   {
     "key": "poisons_oils",
@@ -1631,7 +1645,8 @@
     "wnames": {
       "Serpent Fang Toxin": "Serpent Fang Toxin"
     },
-    "video": "Poisons, Oils and Coatings Tier List - BG3 Honour Mode Guide"
+    "video": "POISONS, OILS, AND COATINGS Tier List - Get Those Weapons Working! - BG3 Honour Mode Guide",
+    "video_url": "https://www.youtube.com/watch?v=6TdhnnPbupo"
   },
   {
     "key": "polearms",
@@ -1725,7 +1740,7 @@
       "Spear": "Spear",
       "Jagged Spear": "Jagged Spear"
     },
-    "video": "The BEST Polearms in Baldur's Gate 3 - Tier List and Guide",
+    "video": "The BEST POLEARMS in Baldur's Gate 3 - Honor Mode Tier List and Guide",
     "acts": {
       "Lightning Jabber": "Act 2",
       "Returning Pike": "Act 1",
@@ -1748,7 +1763,8 @@
       "Spear of Night": "Act 2",
       "Breaching Pikestaff": "Act 3",
       "Infernal Spear": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=GunWjIpdxb0"
   },
   {
     "key": "potions",
@@ -1825,7 +1841,8 @@
       "Essence of Ether": "Essence of Ether",
       "Silkroot": "Silkroot"
     },
-    "video": "Potions Tier List - BG3 Honour Mode Guide"
+    "video": "POTIONS Tier List - Finally Use That Stockpile! - BG3 Honour Mode Guide",
+    "video_url": "https://www.youtube.com/watch?v=HygsHA55jNU"
   },
   {
     "key": "ranged_weapons",
@@ -1919,7 +1936,7 @@
     "wnames": {
       "The Long Arm of the Gur": "The Long Arm of the Gur"
     },
-    "video": "The BEST Bows in Baldur's Gate 3 - Tier List and Guide",
+    "video": "The BEST BOWS in Baldur's Gate 3 - Honor Mode Tier List and Guide",
     "acts": {
       "Bow of Awareness": "Act 1",
       "Titanstring Bow": "Act 1",
@@ -1945,7 +1962,8 @@
       "Spellthief": "Act 1",
       "The Joltshooter": "Act 1",
       "The Long Arm of the Gur": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=otTGzNc4xXw"
   },
   {
     "key": "rings",
@@ -2099,7 +2117,7 @@
       "Orphic Ring": "Confusion (upcast to 5) once/rest — only ~50% reliable and unpredictable, so a situational backup at best; not worth keeping equipped in advance when scrolls of Confusion are plentiful.",
       "Seemingly Gleaming Ring": "+1 Charisma saves but -1 Wisdom saves — you almost never make Charisma saves and Wisdom saves are the most dangerous, so it actively makes your character worse; an F-tier effect if the list had one."
     },
-    "video": "Rings Tier List and Guide - BG3 (Acts 1-3)",
+    "video": "The BEST RINGS in Baldur's Gate 3 - Honor Mode Tier List and Guide - Act 1",
     "acts": {
       "Caustic Band": "Act 1",
       "Crusher's Ring": "Act 1",
@@ -2158,7 +2176,8 @@
       "Keepsake Ring": "Act 3",
       "Orphic Ring": "Act 3",
       "Seemingly Gleaming Ring": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=EoRrJ5kI2yk"
   },
   {
     "key": "shields",
@@ -2222,7 +2241,7 @@
       "Watcher's Shield": "+2 AC and advantage on perception and nothing else — and that perception bonus is already bundled onto the far better Justiciar's Greatshield and Sentinel Shield.",
       "Abdel's Trusted Shield": "+2 AC, Shield Bash, and Protection from Missiles once/rest, but it costs an action and concentration for only ~50% ranged protection — the bonus-action Justiciar's Greatshield Darkness does it better (100%)."
     },
-    "video": "The BEST Shields in Baldur's Gate 3 - Tier List and Guide",
+    "video": "The BEST SHIELDS in Baldur's Gate 3 - Complete Tier List and Guide",
     "acts": {
       "Adamantine Shield": "Act 1",
       "Justiciar's Greatshield": "Act 2",
@@ -2244,7 +2263,8 @@
       "Ironvine Shield": "Act 2",
       "Watcher's Shield": "Act 2",
       "Abdel's Trusted Shield": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=5wATdII3wmI"
   },
   {
     "key": "simple_weapons",
@@ -2350,7 +2370,7 @@
       "Infernal Mace": "A +2 mace with a flat 3 poison on hit — duplicated and bettered by the Handmaiden's Mace (1d6 + strength set), and far too little damage for Act 3.",
       "Torch of Revocation": "A +1 torch adding necrotic + fire (3d4+1 lit) — a fun two-element idea, but you can replicate it by fire-dipping a better weapon, and the damage is unexciting for most Act 3 characters."
     },
-    "video": "The BEST Simple Weapons in BG3 - Tier List and Guide",
+    "video": "The BEST SIMPLE WEAPONS in Baldur's Gate 3 - Honor Mode Tier List and Guide",
     "acts": {
       "Loviatar's Scourge": "Act 1",
       "Shattered Flail": "Act 1",
@@ -2372,7 +2392,8 @@
       "Sussur Sickle": "Act 1",
       "Infernal Mace": "Act 3",
       "Torch of Revocation": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=nmFK4uJQfC8"
   },
   {
     "key": "skills",
@@ -2427,7 +2448,8 @@
       "Animal Handling": "Effectively 100% bypassable — Speak with Animals (a free potion or party spell) covers essentially every animal-handling check in the game, so there's no reason to invest.",
       "Survival": "Only used to locate buried loot chests, and you can just grab a shovel and dig at the failed-check spot anyway; the random loot is unimportant and money is a non-issue, so never invest points here."
     },
-    "video": "Skills Tier List - BG3 Build Guide"
+    "video": "HOW TO BUILD GOOD CHARACTERS： Skills Tierlist - Baldur's Gate 3 Build Guide",
+    "video_url": "https://www.youtube.com/watch?v=rUAlwK75gGI"
   },
   {
     "key": "staves",
@@ -2517,7 +2539,7 @@
       "Staff of the Ram": "Staff of the Ram",
       "Bigby's Chew Toy": "Bigboy's Chew Toy"
     },
-    "video": "The BEST Staves in Baldur's Gate 3 - Tier List and Guide",
+    "video": "The BEST STAVES in Baldur's Gate 3 - Honor Mode Tier List and Guide",
     "acts": {
       "Corellon's Grace": "Act 1",
       "Melf's First Staff": "Act 1",
@@ -2545,7 +2567,8 @@
       "Staff of Crones": "Act 1",
       "Bigby's Chew Toy": "Act 2",
       "Staff of a Mumbling Wizard": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=seZJlJ9tvag"
   },
   {
     "key": "two_handed_weapons",
@@ -2629,7 +2652,7 @@
       "Foebreaker": "A +2 maul that ignores bludgeoning resistance; resistance is better bypassed with a different damage type or damage riders, and there's no encounter where this beats your other weapons — safely ignored.",
       "The Undead Bane": "A +1 greataxe with +1d6 vs fiends/undead and a once/rest 2d6 + Bane action; even in its target encounters the bonus is weaker than generically powerful weapons (e.g. the Soulbreaker's stun), so the specialist loses out."
     },
-    "video": "The BEST Two Handed Weapons in BG3 - Tier List and Guide",
+    "video": "The BEST TWO HANDED WEAPONS in Baldur's Gate 3 - Honor Mode Tier List and Guide",
     "acts": {
       "Blooded Greataxe": "Act 1",
       "Everburn Blade": "Act 1",
@@ -2654,7 +2677,8 @@
       "Defender Greataxe": "Act 2",
       "Foebreaker": "Act 3",
       "The Undead Bane": "Act 3"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=jwuRyGKRxXk"
   },
   {
     "key": "versatile_weapons",
@@ -2770,7 +2794,7 @@
       "+2 Longsword": "A generic +2 longsword; by the time it appears you have far better magical options, so it's skippable.",
       "Katana": "A reskinned +1 longsword (an Easter-egg nod to the famous 'katana = +1 longsword' copypasta) — no special properties, D in Act 3."
     },
-    "video": "Versatile Weapons Tier List - BG3 (Acts 1-3)",
+    "video": "The BEST WEAPON TYPE in BG3 - Versatile Weapons Honor Mode Tier List and Guide - Act 1",
     "acts": {
       "Larethian's Wrath": "Act 1",
       "Phalar Aluve": "Act 1",
@@ -2798,7 +2822,8 @@
       "Ceremonial Longsword": "Act 1",
       "Ceremonial Warhammer": "Act 1",
       "Ketheric's Warhammer": "Act 2"
-    }
+    },
+    "video_url": "https://www.youtube.com/watch?v=6bdWlo4PgeA"
   },
   {
     "key": "amulets",
@@ -3084,7 +3109,8 @@
       "Unflinching Protector Amulet": "Unflinching Protector Amulet",
       "Amulet of the Unworthy": "Amulet of the Unworthy"
     },
-    "video": "The BEST Amulets in Baldur's Gate 3 - Tier List (Acts 1-3)"
+    "video": "The BEST AMULETS in Baldur's Gate 3 - Honor Mode Tier List and Guide - Act 1",
+    "video_url": "https://www.youtube.com/watch?v=PyWb31wejBA"
   },
   {
     "key": "heavy_armor",
@@ -3228,7 +3254,8 @@
       "+2 Splint Armour": "Splint Armour +2",
       "Protective Plate": "Protective Plate"
     },
-    "video": "BG3's STRONGEST Armor - Heavy Armor Tier List - Honour Mode Guide"
+    "video": "BG3'S STRONGEST ARMOR - Heavy Armor Tier List - Honour Mode Guide - Part 4",
+    "video_url": "https://www.youtube.com/watch?v=VjmWkRCoDWE"
   },
   {
     "key": "feats",
@@ -3319,7 +3346,8 @@
       "Skilled": "Three skill proficiencies — a huge opportunity cost for little benefit, since you can get skills from background/race and most BG3 skills aren't very impactful. Take only for flavor.",
       "Weapon Master": "+1 Strength or Dexterity and four weapon proficiencies, but any character who wants a weapon type already has proficiency in it; almost never worth a feat even as a half-feat."
     },
-    "video": "Feats Tier List [Updated] - BG3 Honour Mode Guide"
+    "video": "FEATS Tier List - [Updated] Baldur's Gate 3 Honour Mode Guide",
+    "video_url": "https://www.youtube.com/watch?v=f7uewDCrrqQ"
   },
   {
     "key": "classes",
@@ -3361,7 +3389,8 @@
       "Monk": "Moves fast, hits hard (Flurry of Blows + the broken Tavern Brawler giving ~99% accuracy), and stuns — the strongest linear strategy in the game. But it's extremely multi-attribute dependent (STR/DEX/CON/WIS), squishy, and a monoclass monk lacks the Thief bonus action, so one bad positioning turn can end an honour-mode run.",
       "Rogue": "Level-1 skill expertise and sneak-attack burst are great, but no Extra Attack and the once-per-turn sneak-attack cap limit its damage, and a monoclass rogue gains almost nothing after level 3 (just a d6 every two levels). It falls steadily behind as a damage dealer while still demanding party resources and protection."
     },
-    "video": "Class Tier List - Single Class Characters - BG3 Honour Mode Guide"
+    "video": "CLASS TIER LIST - Single Class Characters -  Baldur's Gate 3 Honour Mode Guide",
+    "video_url": "https://www.youtube.com/watch?v=AwU71WqBJEE"
   },
   {
     "key": "illithid_powers",
@@ -3433,7 +3462,8 @@
       "Fracture Psyche": "Short-rest single-target debuff (Intelligence save) lowering AC and saves by 1 (2 on a chain after a kill) for five turns — basically a weaker single-target Bane; occasionally used to set up an important spell, but low priority for your bonus action.",
       "Mind Sanctuary": "On Honour Mode it's simply AOE Haste (no stacking), which is fine but redundant by Act 3 — and it's badly bugged into sometimes eating a character's entire turn, which can lose an Honour run, so it's best avoided until fixed."
     },
-    "video": "Illithid Powers Tier List - BG3 Honour Mode Guide (Part 1 & 2)"
+    "video": "ILLITHID POWERS Tier List - It's TADPOLE TIME - BG3 Honour Mode Guide - Part 1",
+    "video_url": "https://www.youtube.com/watch?v=9af1gYSpXK4"
   },
   {
     "key": "subclasses",
@@ -3567,7 +3597,8 @@
       "Transmutation (Wizard)": "Usually a camp follower, but as an active member the Transmuter's Stone grants Constitution-save (concentration) proficiency so it rarely loses spells, plus extra potions — enough for an A on the strong wizard base.",
       "Bladesinging (Wizard)": "Bladesong adds AC, Con saves, and move speed for survivability plus a bonus-action burst of damage/healing (Bladesong Climax); the melee is secondary, but a wizard needs little from its subclass to be A."
     },
-    "video": "Subclass Tier List - Single Class Characters - BG3 (+ Patch 8 New Subclasses)"
+    "video": "SUBCLASS TIER LIST - Single Class Characters -  Baldur's Gate 3 Honour Mode Guide Part 1",
+    "video_url": "https://www.youtube.com/watch?v=lLrtQY-Rq8Y"
   },
   {
     "key": "spells_level_1",
@@ -3689,7 +3720,8 @@
       "Ray of Sickness": "2d8 of the game's worst damage type (poison) on a bad (con) save with a weak debuff — skip it.",
       "Searing Smite": "The worst smite — less up-front damage than Divine Smite and delayed; only ever used free by Zariel tieflings."
     },
-    "video": "BG3 Spells Tier List - Level 1 [Updated] - Honour Mode Guide"
+    "video": "ULTIMATE SPELLS GUIDE - [Updated] BG3 Spells Tier List - Level 1 Part 1",
+    "video_url": "https://www.youtube.com/watch?v=vIGOO9HAv5g"
   },
   {
     "key": "spells_level_2",
@@ -3791,7 +3823,8 @@
       "Prayer of Healing": "Efficient OUT-of-combat group healing — which BG3 never needs, since you can rest or chug potions freely. No use case outside a no-rest challenge.",
       "See Invisibility": "Reveals invisible enemies on a dex save, but splashing water reveals them with no save, the game gives free See Invisibility and a pile of scrolls — don't spend a slot."
     },
-    "video": "BG3 Spells Tier List - Level 2 [Updated] - Honour Mode Guide"
+    "video": "ULTIMATE SPELLS GUIDE - [Updated] BG3 Spells Tier List - Level 2 Part 1",
+    "video_url": "https://www.youtube.com/watch?v=xY5hyRLIdxE"
   },
   {
     "key": "spells_level_3",
@@ -3877,7 +3910,8 @@
       "Revivify": "Brings a dead ally back at 1 HP — a fine effect, but every character starts with a scroll and vendors/loot drown you in more (and Withers revives out of combat), so you'll never need to spend a slot.",
       "Vampiric Touch": "~10 melee necrotic with half as healing, re-castable each turn — the numbers are simply terrible for a level-3 slot; do damage and drink a potion instead."
     },
-    "video": "BG3 Spells Tier List - Level 3 [Updated] - Honour Mode Guide"
+    "video": "ULTIMATE SPELLS GUIDE - [Updated] BG3 Spells Tier List - Level 3 Part 1",
+    "video_url": "https://www.youtube.com/watch?v=y0rRBZarf2Q"
   },
   {
     "key": "spells_level_4",
@@ -3937,7 +3971,8 @@
       "Dominate Beast": "Mind-control a beast (wisdom save, repeated saves on damage) — a fine effect with almost no targets, since you've cleared every dangerous beast fight long before you get the spell.",
       "Stoneskin": "Concentration resistance to NON-magical physical damage — but most level-4-era damage is magical, it doesn't stack with the free Blade Ward, and chaining the right fights to use it isn't worth the effort."
     },
-    "video": "BG3 Spells Tier List - Level 4 [Updated] - Honour Mode Guide"
+    "video": "ULTIMATE SPELLS GUIDE - [Updated] BG3 Spells Tier List - Level 4 Part 1",
+    "video_url": "https://www.youtube.com/watch?v=vkcAg7oJ328"
   },
   {
     "key": "spells_level_5",
@@ -3993,7 +4028,8 @@
       "Seeming": "Disguise Self on the whole party for a 5th slot — pointless, since only one character can be in a conversation and Disguise Self is a free level-1 ritual anyway; a contender for worst spell in the game.",
       "Wall of Stone": "A blocking wall, but each 30 HP segment dies in a hit or two (the AI smashes through), it costs concentration + a 5th slot, and BG3's fiddly wall targeting often spawns it with holes — too tricky to be reliable, however cool it is."
     },
-    "video": "BG3 Spells Tier List - Level 5 [Updated] - Honour Mode Guide"
+    "video": "ULTIMATE SPELLS GUIDE - [Updated] BG3 Spells Tier List - Level 5",
+    "video_url": "https://www.youtube.com/watch?v=jhKY71bMDuw"
   },
   {
     "key": "spells_level_6",
@@ -4051,7 +4087,8 @@
       "Heal": "Restores 70 HP — a lot, but purely reactive in a game where preventing/disabling beats healing, and you're swimming in high-level potions; never worth a 6th slot, even on a dedicated healer.",
       "Wind Walk": "Gaseous Form on the whole party — a 6th slot for the benefits of an already-marginal level-3 spell; just don't."
     },
-    "video": "BG3 Spells Tier List - Level 6 [Updated] - Honour Mode Guide"
+    "video": "ULTIMATE SPELLS GUIDE - [Updated] BG3 Spells Tier List - Level 6",
+    "video_url": "https://www.youtube.com/watch?v=ZEhzdnk5zGA"
   },
   {
     "key": "multiclasses",
@@ -4093,6 +4130,7 @@
       "Shadow Magic (Sorcerer)": "A great monoclass but an awkward dip — a 3-level splash buys see-in-magical-darkness without the warlock caster-level tax, but limited sorcery points plus the Eversight Ring and Darkness items make the investment hard to justify; you'd rather just take more shadow-sorcerer levels.",
       "Drunken Master (Monk)": "Still little reason to take it — a 3-level investment buys only Drunken Technique (worse than Open Hand's flurries or Thief's second bonus action), and only the level-6 Redirect Attack enables a single niche retaliation build; in need of a rework."
     },
-    "video": "New Subclass Multiclass Tier List - BG3 Honour Mode Guide"
+    "video": "NEW SUBCLASS MULTICLASS TIER LIST - BG3 Honour Mode Guide",
+    "video_url": "https://www.youtube.com/watch?v=fiGILQiBgQs"
   }
 ]
