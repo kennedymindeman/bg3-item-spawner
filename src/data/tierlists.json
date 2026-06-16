@@ -3463,7 +3463,36 @@
       "Mind Sanctuary": "On Honour Mode it's simply AOE Haste (no stacking), which is fine but redundant by Act 3 — and it's badly bugged into sometimes eating a character's entire turn, which can lose an Honour run, so it's best avoided until fixed."
     },
     "video": "ILLITHID POWERS Tier List - It's TADPOLE TIME - BG3 Honour Mode Guide - Part 1",
-    "video_url": "https://www.youtube.com/watch?v=9af1gYSpXK4"
+    "video_url": "https://www.youtube.com/watch?v=9af1gYSpXK4",
+    "acts": {
+      "Psionic Overload": "Act 1",
+      "Favourable Beginnings": "Act 1",
+      "Cull the Weak": "Act 1",
+      "Shield of Thralls": "Act 1",
+      "Ability Drain": "Act 1",
+      "Luck of the Far Realms": "Act 1",
+      "Psionic Backlash": "Act 1",
+      "Illithid Persuasion": "Act 1",
+      "Force Tunnel": "Act 1",
+      "Stage Fright": "Act 1",
+      "Repulsor": "Act 1",
+      "Concentrated Blast": "Act 1",
+      "Transfuse Health": "Act 1",
+      "Charm": "Act 1",
+      "Displace": "Act 1",
+      "Perilous Stakes": "Act 1",
+      "Illithid Expertise": "Act 3",
+      "Black Hole": "Act 3",
+      "Fly": "Act 3",
+      "Psionic Dominance": "Act 3",
+      "Mind Blast": "Act 3",
+      "Freecast": "Act 3",
+      "Absorb Intellect": "Act 3",
+      "Displacer Beast Shape": "Act 3",
+      "Survival Instinct": "Act 1",
+      "Fracture Psyche": "Act 3",
+      "Mind Sanctuary": "Act 3"
+    }
   },
   {
     "key": "subclasses",
