@@ -1376,7 +1376,10 @@ function renderTierlist(tl) {
       return { u: tl.uuids[name], wname: (tl.wnames && tl.wnames[name]) || name };
     }
     const it = NAME_INDEX[canon(name)];
-    if (it) return { u: it.u, wname: it.n };
+    if (it) {
+      const matchedViaScrollPrefix = /^scroll of /i.test(it.n) && canon(it.n) !== canon(name);
+      if (!matchedViaScrollPrefix || isSpell) return { u: it.u, wname: it.n };
+    }
     const loose = LOOSE_INDEX[looseKey(name)];
     if (loose) return { u: loose.u, wname: loose.n };
     if (isSpell) {
@@ -1410,7 +1413,7 @@ function renderTierlist(tl) {
       const copy = document.createElement('button');
       copy.type = 'button';
       copy.className = 'detail-copy';
-      copy.textContent = res.scroll ? 'Copy scroll spawn command' : 'Copy spawn command';
+      copy.textContent = (isSpell || res.scroll) ? 'Copy scroll spawn command' : 'Copy spawn command';
       copy.addEventListener('click', () => copyToClipboard(buildItemCmd(res.u), copy));
       actions.appendChild(copy);
     }
