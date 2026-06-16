@@ -497,12 +497,18 @@
   .build-kind { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); border: 1px solid var(--border-bright); border-radius: 4px; padding: 1px 7px; }
   .build-role { color: var(--gold); font-size: 0.85rem; margin-top: 6px; }
   .build-summary { color: var(--ink); font-size: 0.9rem; margin-top: 8px; line-height: 1.5; }
-  .build-steps { margin-top: 12px; display: flex; flex-direction: column; gap: 2px; }
-  .build-step { display: grid; grid-template-columns: 52px 170px 1fr; gap: 10px; font-size: 0.85rem; padding: 2px 0; }
-  .build-step-lv { color: var(--gold); }
-  .build-step-class { color: var(--ink); }
-  .build-step-picks { color: var(--ink-dim); }
-  .build-pending { color: var(--ink-faint); font-style: italic; font-size: 0.85rem; margin-top: 10px; }
+  .build-meta { font-size: 0.82rem; color: var(--ink-dim); margin-top: 6px; }
+  .build-meta strong { color: var(--ink-faint); font-weight: 600; }
+  .lvl-wrap { margin-top: 16px; }
+  .lvl-tabs { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 10px; }
+  .lvl-tab { width: 30px; height: 30px; border: 1px solid var(--border); background: var(--bg-deep); color: var(--ink); border-radius: 5px; cursor: pointer; font-size: 0.85rem; }
+  .lvl-tab:hover { border-color: var(--border-bright); }
+  .lvl-tab.active { background: var(--gold); color: var(--bg-deep); border-color: var(--gold); font-weight: 600; }
+  .lvl-tab.empty { opacity: 0.28; cursor: default; }
+  .lvl-display { background: var(--bg-deep); border-left: 2px solid var(--gold); border-radius: 0 6px 6px 0; padding: 11px 15px; }
+  .lvl-class { color: var(--gold-bright); font-weight: 600; font-size: 0.92rem; margin-bottom: 5px; }
+  .lvl-picks { color: var(--ink); font-size: 0.88rem; line-height: 1.5; }
+  .build-pending { color: var(--ink-faint); font-style: italic; font-size: 0.85rem; margin-top: 12px; }
   .build-source { display: inline-block; margin-top: 12px; color: var(--ink-faint); font-size: 0.78rem; text-decoration: none; }
   .build-source:hover { color: var(--gold); text-decoration: underline; }
   .tier-row {
@@ -1536,19 +1542,20 @@ const buildEmpty = document.getElementById('build-empty');
 function renderBuild(b) {
   const card = document.createElement('div');
   card.className = 'build-card';
-  card.dataset.search = ((b.name || '') + ' ' + (b.role || '') + ' ' + (b.kind || '') + ' ' + (b.source || '')).toLowerCase();
+  card.dataset.search = [b.name, b.role, b.composition, b.summary,
+    (b.keyFeats || []).join(' '), (b.keyItems || []).join(' ')].join(' ').toLowerCase();
 
   const head = document.createElement('div');
   head.className = 'build-head';
   const nm = document.createElement('span');
   nm.className = 'build-name';
-  nm.textContent = b.name || 'Untitled build';
+  nm.textContent = (b.rank ? '#' + b.rank + '  ' : '') + (b.name || 'Untitled build');
   head.appendChild(nm);
-  if (b.kind) {
-    const k = document.createElement('span');
-    k.className = 'build-kind';
-    k.textContent = b.kind;
-    head.appendChild(k);
+  if (b.composition) {
+    const c = document.createElement('span');
+    c.className = 'build-kind';
+    c.textContent = b.composition;
+    head.appendChild(c);
   }
   card.appendChild(head);
 
@@ -1565,36 +1572,69 @@ function renderBuild(b) {
     card.appendChild(s);
   }
 
+  function metaLine(label, val) {
+    if (!val) return;
+    const m = document.createElement('div');
+    m.className = 'build-meta';
+    const l = document.createElement('strong');
+    l.textContent = label + ': ';
+    m.appendChild(l);
+    m.appendChild(document.createTextNode(val));
+    card.appendChild(m);
+  }
+  metaLine('Abilities', b.abilities);
+  metaLine('Key feats', (b.keyFeats || []).join(', '));
+  metaLine('Key items', (b.keyItems || []).join(', '));
+
+  // Level selector: pick a level, see what to do (for a full respec).
   if (b.leveling && b.leveling.length) {
-    const steps = document.createElement('div');
-    steps.className = 'build-steps';
-    b.leveling.forEach(st => {
-      const row = document.createElement('div');
-      row.className = 'build-step';
-      const lv = document.createElement('span');
-      lv.className = 'build-step-lv';
-      lv.textContent = 'Lv ' + st.level;
-      const cl = document.createElement('span');
-      cl.className = 'build-step-class';
-      cl.textContent = st.class || '';
-      const pk = document.createElement('span');
-      pk.className = 'build-step-picks';
+    const byLevel = {};
+    b.leveling.forEach(st => { byLevel[st.level] = st; });
+    const wrap = document.createElement('div');
+    wrap.className = 'lvl-wrap';
+    const tabs = document.createElement('div');
+    tabs.className = 'lvl-tabs';
+    const display = document.createElement('div');
+    display.className = 'lvl-display';
+    function show(lv) {
+      const st = byLevel[lv];
+      if (!st) return;
+      display.innerHTML = '';
+      const cl = document.createElement('div');
+      cl.className = 'lvl-class';
+      cl.textContent = 'Level ' + lv + ' — ' + (st.class || '');
+      const pk = document.createElement('div');
+      pk.className = 'lvl-picks';
       pk.textContent = st.picks || st.notes || '';
-      row.appendChild(lv); row.appendChild(cl); row.appendChild(pk);
-      steps.appendChild(row);
-    });
-    card.appendChild(steps);
+      display.appendChild(cl);
+      display.appendChild(pk);
+      [...tabs.children].forEach(c => c.classList.toggle('active', c.dataset.lv === String(lv)));
+    }
+    for (let lv = 1; lv <= 12; lv++) {
+      const st = byLevel[lv];
+      const t = document.createElement('button');
+      t.type = 'button';
+      t.className = 'lvl-tab' + (st ? '' : ' empty');
+      t.textContent = lv;
+      t.dataset.lv = String(lv);
+      if (st) t.addEventListener('click', () => show(lv));
+      tabs.appendChild(t);
+    }
+    wrap.appendChild(tabs);
+    wrap.appendChild(display);
+    card.appendChild(wrap);
+    show(b.leveling[0].level);
   } else {
     const pend = document.createElement('div');
     pend.className = 'build-pending';
-    pend.textContent = 'Level-by-level progression coming from the source guide.';
+    pend.textContent = 'Full level-by-level progression: watch the build guide below.';
     card.appendChild(pend);
   }
 
   if (b.video_url) {
     const src = document.createElement('a');
     src.className = 'build-source';
-    src.textContent = '▸ ' + (b.source || 'Source video');
+    src.textContent = '▸ ' + (b.source || 'Build guide');
     src.href = b.video_url;
     src.target = '_blank';
     src.rel = 'noopener';
@@ -1603,7 +1643,8 @@ function renderBuild(b) {
   return card;
 }
 
-BUILDS.forEach(b => buildsContent.appendChild(renderBuild(b)));
+BUILDS.slice().sort((a, b) => (a.rank || 99) - (b.rank || 99))
+  .forEach(b => buildsContent.appendChild(renderBuild(b)));
 
 buildSearch.addEventListener('input', () => {
   const q = buildSearch.value.trim().toLowerCase();

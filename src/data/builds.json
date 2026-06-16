@@ -1,42 +1,412 @@
 [
   {
-    "name": "The 11 Best Builds",
-    "kind": "collection",
+    "name": "Swords Bard Archer",
+    "rank": 1,
+    "role": "Ranged DPS + control + face (does everything)",
+    "composition": "College of Swords Bard 10-12 (often 2-level Fighter dip)",
+    "summary": "Slashing Flourish doubles every ranged attack, so it out-damages dedicated archers while also having full bard spellcasting, the best skills, and the Band of the Mystic Scoundrel + Arcane Acuity combo to land any control spell as a bonus action. The #1 honour-mode build.",
+    "abilities": "Dexterity primary (Gloves of Dexterity lets you skip it); Charisma secondary",
+    "keyFeats": [
+      "Sharpshooter",
+      "Alert"
+    ],
+    "keyItems": [
+      "Gloves of Dexterity",
+      "Helm of Arcane Acuity",
+      "Band of the Mystic Scoundrel",
+      "Hat of Fire Acuity"
+    ],
+    "source": "The BEST CHARACTER in Baldur's Gate 3 - Swords Bard Archer Honour Build Guide",
+    "video_url": "https://www.youtube.com/watch?v=-gnyG9gH-no",
+    "leveling": []
+  },
+  {
+    "name": "Eldritch Knight Thrower",
+    "rank": 2,
+    "role": "Ranged physical DPS, extremely tanky and forgiving",
+    "composition": "Fighter 11 (Eldritch Knight) / War Domain Cleric 1",
+    "summary": "Throws weapons (which use Tavern Brawler and apply all weapon effects at range) for up to seven near-guaranteed hits in the opening round. The highest first-turn burst of the martials, plus heavy armour + the Shield spell make it the hardest character in the game to kill — the most forgiving build to win honour mode with.",
+    "abilities": "Strength primary (Cloud/Hill Giant elixir frees it up); start 17 Str",
+    "keyFeats": [
+      "Tavern Brawler",
+      "Alert",
+      "ASI: Strength"
+    ],
+    "keyItems": [
+      "Elixir of Cloud Giant Strength",
+      "Returning Pike / any thrown weapon",
+      "Gloves of Heroism / Strange Conduit Ring"
+    ],
+    "source": "The CONSISTENT KILLER - [Updated] BG3 Lae'zel / Fighter Thrower Honour Build Guide",
+    "video_url": "https://www.youtube.com/watch?v=pd8mQNq8xbE",
+    "leveling": [
+      {
+        "level": 1,
+        "class": "War Cleric",
+        "picks": "Take Cleric FIRST: heavy armour, shields, martial weapons, and War Priest bonus-action attacks. Prepare Bless and Create Water."
+      },
+      {
+        "level": 2,
+        "class": "Fighter 1",
+        "picks": "Fighting Style: Defence. Second Wind."
+      },
+      {
+        "level": 3,
+        "class": "Fighter 2",
+        "picks": "Action Surge — a whole extra round of throws."
+      },
+      {
+        "level": 4,
+        "class": "Fighter 3",
+        "picks": "Subclass: Eldritch Knight. Bind a thrown weapon; learn Longstrider + Shield."
+      },
+      {
+        "level": 5,
+        "class": "Fighter 4",
+        "picks": "Feat: Tavern Brawler (the core of the build). Drink a Strength elixir from here on."
+      },
+      {
+        "level": 6,
+        "class": "Fighter 5",
+        "picks": "Extra Attack — now three throws per action with Action Surge."
+      },
+      {
+        "level": 7,
+        "class": "Fighter 6",
+        "picks": "Feat: Alert (go first almost every fight)."
+      },
+      {
+        "level": 8,
+        "class": "Fighter 7",
+        "picks": "Eldritch Knight: War Magic."
+      },
+      {
+        "level": 9,
+        "class": "Fighter 8",
+        "picks": "Feat: ASI — top up Strength (or Athlete) if not relying on the elixir."
+      },
+      {
+        "level": 10,
+        "class": "Fighter 9",
+        "picks": "Indomitable — reroll a failed save."
+      },
+      {
+        "level": 11,
+        "class": "Fighter 10",
+        "picks": "Eldritch Knight: extra War Magic / utility cantrips."
+      },
+      {
+        "level": 12,
+        "class": "Fighter 11",
+        "picks": "Improved Extra Attack — three main-action throws (seven in the opening round with Action Surge + the cleric bonus throw)."
+      }
+    ]
+  },
+  {
+    "name": "Open Hand Monk",
+    "rank": 3,
+    "role": "Melee burst + sustained DPS with free crowd control",
+    "composition": "Way of the Open Hand Monk 9 / Thief Rogue 3",
+    "summary": "Thief's second bonus action means up to 8-10 attacks a turn of Flurry of Blows, all near-guaranteed via Tavern Brawler, plus free prone/push on Flurry and frequent Stunning Strikes. The best melee character in the game — most fights end before the enemy acts.",
+    "abilities": "Very MAD: Strength + Dexterity + Wisdom + Constitution (Strength elixir is effectively mandatory)",
+    "keyFeats": [
+      "Tavern Brawler",
+      "ASI: Wisdom (or Alert)"
+    ],
+    "keyItems": [
+      "Elixir of Hill/Cloud Giant Strength",
+      "Gloves of Cinder and Sizzle / Caustic Band",
+      "Boots of Uninhibited Kushigo",
+      "The Joltshooter / Kushigo set"
+    ],
+    "source": "The BEST MONK in Baldur's Gate 3 - [Updated] Honour Build Guide",
+    "video_url": "https://www.youtube.com/watch?v=bX5paFDOGDU",
+    "leveling": [
+      {
+        "level": 1,
+        "class": "Monk 1",
+        "picks": "Unarmored Defense, Martial Arts. Start with high Dex/Wis (Strength comes from the daily elixir)."
+      },
+      {
+        "level": 2,
+        "class": "Monk 2",
+        "picks": "Ki: Flurry of Blows, Patient Defense, Step of the Wind."
+      },
+      {
+        "level": 3,
+        "class": "Monk 3",
+        "picks": "Subclass: Way of the Open Hand (crowd control on Flurry)."
+      },
+      {
+        "level": 4,
+        "class": "Monk 4",
+        "picks": "Feat: Tavern Brawler. Start drinking a Strength elixir each day."
+      },
+      {
+        "level": 5,
+        "class": "Monk 5",
+        "picks": "Extra Attack + Stunning Strike (uses your Str/Dex save DC — very strong)."
+      },
+      {
+        "level": 6,
+        "class": "Rogue 1",
+        "picks": "Expertise + Sneak Attack; great skills."
+      },
+      {
+        "level": 7,
+        "class": "Rogue 2",
+        "picks": "Cunning Action (bonus-action Dash/Disengage/Hide)."
+      },
+      {
+        "level": 8,
+        "class": "Rogue 3",
+        "picks": "Subclass: Thief — the second bonus action (more Flurries)."
+      },
+      {
+        "level": 9,
+        "class": "Monk 6",
+        "picks": "Ki-Empowered Strikes; Manifestation of Body damage rider."
+      },
+      {
+        "level": 10,
+        "class": "Monk 7",
+        "picks": "Evasion; Stillness of Mind."
+      },
+      {
+        "level": 11,
+        "class": "Monk 8",
+        "picks": "Feat: ASI Wisdom (AC + damage + DCs) — or Alert."
+      },
+      {
+        "level": 12,
+        "class": "Monk 9",
+        "picks": "Improved Flurry / extra ki — peak sustained damage."
+      }
+    ]
+  },
+  {
+    "name": "Berserker Barbarian Thrower",
+    "rank": 4,
+    "role": "Ranged physical DPS with built-in prone control",
+    "composition": "Berserker Barbarian 5 / Thief Rogue 4 / Fighter 3 (splits vary)",
+    "summary": "Berserker's bonus-action throw + Thief's second bonus action + Action Surge = a flood of Tavern-Brawler throws that never miss, each of which can knock prone. Slightly less first-turn burst than the EK thrower (a setup turn to rage), but enormous sustained damage and control.",
+    "abilities": "Strength primary (Strength elixir effectively required for this split)",
+    "keyFeats": [
+      "Tavern Brawler",
+      "ASI: Strength / Alert"
+    ],
+    "keyItems": [
+      "Elixir of Cloud Giant Strength",
+      "Returning thrown weapons",
+      "Nyrulna (Act 3)"
+    ],
+    "source": "GO FOR THE EYES BOO - The Ultimate Boo Throwing Build - BG3 Minsc Barbarian / Rogue Honour Guide",
+    "video_url": "https://www.youtube.com/watch?v=-ZrNOKm_Reo",
+    "leveling": []
+  },
+  {
+    "name": "Abjuration Wizard (Tank Wizard)",
+    "rank": 5,
+    "role": "Effectively invincible controller / caster",
+    "composition": "Abjuration Wizard 11 / White Draconic Sorcerer 1",
+    "summary": "Arcane Ward soaks enormous flat damage and is trivially refreshed with Glyph of Warding, so the character is near-unkillable; the White Dragon Sorcerer dip adds Armor of Agathys for ~60 cold retaliation (doubled when enemies are Wet) every time they hit you. A full wizard that simply cannot die.",
+    "abilities": "Intelligence primary; one Sorcerer level taken first for Con save proficiency",
+    "keyFeats": [
+      "War Caster / Resilient (Con)",
+      "ASI: Intelligence"
+    ],
+    "keyItems": [
+      "The Sparkle Hands / Bonespike Garb (extra damage reduction)",
+      "Markoheshkir",
+      "any Wet source"
+    ],
+    "source": "The ULTIMATE WIZARD - BG3 Honour Mode Abjuration Magic Missile Gale Build Guide",
+    "video_url": "https://www.youtube.com/watch?v=jghv0nkj5fQ",
+    "leveling": []
+  },
+  {
+    "name": "Lightning Lord",
+    "rank": 6,
+    "role": "Single-target nuke / control caster",
+    "composition": "Sorcerer 8 / Tempest Cleric 2 / Divination Wizard 2",
+    "summary": "Quicken Create Water (Wet = double lightning), maximise a 6th-level Witch Bolt or Chromatic Orb with Tempest Cleric's Destructive Wrath, and you do a guaranteed ~300 damage to one target turn one. Divination portent dice guarantee the hit; full sorcerer utility/control rounds it out.",
+    "abilities": "Charisma primary; start the first level as Cleric/Sorcerer for Con saves",
+    "keyFeats": [
+      "Alert",
+      "ASI: Charisma"
+    ],
+    "keyItems": [
+      "Markoheshkir",
+      "Spellsparkler",
+      "The Real Sparkswall",
+      "any Wet source"
+    ],
+    "source": "The ONE SHOT LIGHTNING LORD - [Updated] BG3 Honour Mode Build Guide",
+    "video_url": "https://www.youtube.com/watch?v=yGcfb0_dAEY",
+    "leveling": []
+  },
+  {
+    "name": "Cleric (Light / Tempest / Nature)",
+    "rank": 7,
+    "role": "Control + support + tank + the broken item engines",
+    "composition": "Cleric 12 (Light, Tempest, or Nature domain)",
+    "summary": "12 levels of cleric is just that good: top-tier utility (Guidance, Aid, Heroes' Feast), the easiest access to radiant-orb / reverberation stacking via Spirit Guardians, the buff-on-heal item combo, and (Light) Warding Flare to be nearly unhittable. Fills any combat role; only weakness is skills.",
+    "abilities": "Wisdom primary; take a perception race to bring a key skill",
+    "keyFeats": [
+      "Alert (free at level 4)",
+      "ASI: Wisdom"
+    ],
+    "keyItems": [
+      "Luminous Armour + Coruscation Ring (radiant orb)",
+      "Whispering Promise + Hellrider's Pride (buff-on-heal)",
+      "The Reviving Hand set"
+    ],
     "source": "The 11 BEST BUILDS in Baldur's Gate 3 - Honour Mode Guide",
     "video_url": "https://www.youtube.com/watch?v=bGupbGD2Fw0",
-    "role": "",
-    "summary": "",
-    "leveling": [],
-    "status": "needs transcript"
+    "leveling": []
   },
   {
-    "name": "Best Patch 8 Party",
-    "kind": "party",
-    "source": "The BEST PATCH 8 PARTY In Baldur's Gate 3 - Honor Mode Full Party Build Guide",
-    "video_url": "https://www.youtube.com/watch?v=s50sTy53DZw",
-    "role": "",
-    "summary": "",
-    "leveling": [],
-    "status": "needs transcript"
+    "name": "Fire Sorcerer",
+    "rank": 8,
+    "role": "AOE / single-target burst caster",
+    "composition": "Draconic Bloodline (Red) Sorcerer 12",
+    "summary": "Elemental Affinity adds Charisma to every instance of fire damage, and an upcast Scorching Ray fires up to seven beams — so you apply your (maxed) Charisma seven-plus times a turn, then Twin or Quicken a second one. Almost nothing survives, with full sorcerer control/utility as backup.",
+    "abilities": "Charisma primary (start 17, build to 20+)",
+    "keyFeats": [
+      "Alert",
+      "ASI: Charisma",
+      "Elemental Adept: Fire (optional)"
+    ],
+    "keyItems": [
+      "Helm of Arcane Acuity / Hat of Fire Acuity",
+      "The Annihilation Robes / Potent Robe",
+      "Markoheshkir",
+      "Arsonist's Oil"
+    ],
+    "source": "BURN IT ALL DOWN - [Updated] Baldur's Gate 3 Fire Sorcerer Honour Build Guide",
+    "video_url": "https://www.youtube.com/watch?v=iVOxw7TWYa0",
+    "leveling": [
+      {
+        "level": 1,
+        "class": "Sorcerer 1",
+        "picks": "Draconic Bloodline: Red (fire). Pick Shield + Mage Armour; start 17 Charisma. Magic Missile / Chromatic Orb for the early game."
+      },
+      {
+        "level": 2,
+        "class": "Sorcerer 2",
+        "picks": "Metamagic: Quickened Spell + Twinned Spell."
+      },
+      {
+        "level": 3,
+        "class": "Sorcerer 3",
+        "picks": "Scorching Ray — your main damage spell from here."
+      },
+      {
+        "level": 4,
+        "class": "Sorcerer 4",
+        "picks": "Feat: Alert (or ASI Charisma)."
+      },
+      {
+        "level": 5,
+        "class": "Sorcerer 5",
+        "picks": "3rd-level slots: Fireball, Haste."
+      },
+      {
+        "level": 6,
+        "class": "Sorcerer 6",
+        "picks": "Elemental Affinity (Fire) — add Charisma to all fire damage. The build comes online."
+      },
+      {
+        "level": 7,
+        "class": "Sorcerer 7",
+        "picks": "4th-level slots: Wall of Fire."
+      },
+      {
+        "level": 8,
+        "class": "Sorcerer 8",
+        "picks": "Feat: ASI — Charisma to 20."
+      },
+      {
+        "level": 9,
+        "class": "Sorcerer 9",
+        "picks": "5th-level slots: upcast Scorching Ray / Cone of Cold."
+      },
+      {
+        "level": 10,
+        "class": "Sorcerer 10",
+        "picks": "Extra Metamagic: Heightened or Distant."
+      },
+      {
+        "level": 11,
+        "class": "Sorcerer 11",
+        "picks": "6th-level slots: a seven-beam Scorching Ray."
+      },
+      {
+        "level": 12,
+        "class": "Sorcerer 12",
+        "picks": "Feat: Elemental Adept (Fire) to ignore resistance, or another ASI."
+      }
+    ]
   },
   {
-    "name": "Best No-Rest Party",
-    "kind": "party",
-    "source": "The BEST NO REST PARTY In Baldur's Gate 3 - Honor Mode Full Party Build Guide",
-    "video_url": "https://www.youtube.com/watch?v=0FfrSoE0ah4",
-    "role": "",
-    "summary": "",
-    "leveling": [],
-    "status": "needs transcript"
+    "name": "Assassin Archer",
+    "rank": 9,
+    "role": "Opening-round burst archer, very tanky and safe",
+    "composition": "Gloomstalker Ranger 5 / Assassin Rogue 3 / Fighter 4 (Battle Master)",
+    "summary": "Dread Ambusher + Assassin's restored action + Action Surge gives six-to-eight attacks in the surprise round, all auto-crits. One-shots the most dangerous enemy before the fight starts, while being a high-AC, high-initiative, single-attribute archer that's hard to kill.",
+    "abilities": "Dexterity primary (Gloves of Dexterity free up feats)",
+    "keyFeats": [
+      "Sharpshooter",
+      "Alert"
+    ],
+    "keyItems": [
+      "Gloves of Dexterity",
+      "The Dead Shot (Act 3)",
+      "Hunter's bow / Titanstring",
+      "Risky Ring"
+    ],
+    "source": "The BEST ARCHER in Baldur's Gate 3 - [Updated] Honor Mode Build Guide",
+    "video_url": "https://www.youtube.com/watch?v=m5gWwLqm02M",
+    "leveling": []
   },
   {
-    "name": "How to Build Good Parties",
-    "kind": "guide",
-    "source": "HOW TO BUILD GOOD PARTIES - Baldur's Gate 3 Honour Mode Party Composition Guide",
-    "video_url": "https://www.youtube.com/watch?v=xjAoeQFPBYE",
-    "role": "",
-    "summary": "",
-    "leveling": [],
-    "status": "needs transcript"
+    "name": "Moon Druid",
+    "rank": 10,
+    "role": "Early-game carry, tanky control caster",
+    "composition": "Circle of the Moon Druid 12",
+    "summary": "The best early-game character: bonus-action wild shape (spider webs, then strong melee forms via Tavern Brawler) plus game-winning spells like Spike Growth from level 2. Multiple HP bars, the best summons (Myrmidons, Woodland Being), needs only Wisdom and no contested items.",
+    "abilities": "Wisdom only (wild-shape forms use their own stats)",
+    "keyFeats": [
+      "Tavern Brawler",
+      "Resilient (Con) / War Caster"
+    ],
+    "keyItems": [
+      "The Spineshudder Amulet / radiant-orb gear",
+      "no contested item needs"
+    ],
+    "source": "The 11 BEST BUILDS in Baldur's Gate 3 - Honour Mode Guide",
+    "video_url": "https://www.youtube.com/watch?v=bGupbGD2Fw0",
+    "leveling": []
+  },
+  {
+    "name": "Lockadin (Paladin / Warlock)",
+    "rank": 11,
+    "role": "Melee burst + control, all on Charisma",
+    "composition": "Paladin 6-7 / Warlock 5-6 (Pact of the Blade, often Great Old One)",
+    "summary": "Smite with short-rest warlock slots far more often than a normal paladin, with everything (attacks, spells, smites) keyed to Charisma. Adds Eldritch Blast, Hunger of Hadar, Darkness abuse, and high-DC Command — huge burst, great control, great face skills. Slower to come online (level ~7).",
+    "abilities": "Charisma primary (attacks via Pact of the Blade)",
+    "keyFeats": [
+      "Alert",
+      "ASI: Charisma"
+    ],
+    "keyItems": [
+      "Eversight Ring (Darkness)",
+      "Helm of Arcane Acuity",
+      "Band of the Mystic Scoundrel",
+      "a Charisma-scaling weapon"
+    ],
+    "source": "The BEST WARLOCK in Baldur's Gate 3 - [Updated] Patch 8 Wyll Hexblade Honour Build Guide",
+    "video_url": "https://www.youtube.com/watch?v=2p2QqzNsfec",
+    "leveling": []
   }
 ]
