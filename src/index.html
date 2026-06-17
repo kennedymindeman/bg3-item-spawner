@@ -2041,10 +2041,6 @@ function buildDetailContent(b) {
     }
     tl.appendChild(sectionLabel('At level ' + N + ' — assign these in order', 'now'));
     now.forEach((st, i) => tl.appendChild(timelineRow(st, i + 1)));
-    if (later.length) {
-      tl.appendChild(sectionLabel('Later levels', 'later'));
-      later.forEach((st, i) => tl.appendChild(timelineRow(st, now.length + i + 1, true)));
-    }
   } else {
     const pend = document.createElement('div');
     pend.className = 'build-pending';
