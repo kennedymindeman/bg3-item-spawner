@@ -18,7 +18,21 @@
     ],
     "source": "The BEST CHARACTER in Baldur's Gate 3 - Swords Bard Archer Honour Build Guide",
     "video_url": "https://www.youtube.com/watch?v=-gnyG9gH-no",
-    "leveling": []
+    "tags": ["archer"],
+    "leveling": [
+      { "level": 1, "class": "Bard 1", "picks": "Pick your instrument carefully (the choice is permanent). Bardic Inspiration online.", "spells": ["Disguise Self"] },
+      { "level": 2, "class": "Bard 2", "picks": "Song of Rest + Jack of All Trades. Take an enchantment now for later bonus-action casting.", "spells": ["Tasha's Hideous Laughter"] },
+      { "level": 3, "class": "Bard 3", "picks": "College of Swords: Slashing Flourish (the core — two attacks per action). Two-Weapon Fighting; Expertise in Sleight of Hand + Persuasion.", "spells": ["Cloud of Daggers"] },
+      { "level": 4, "class": "Bard 4", "feat": "Sharpshooter", "picks": "Feat: Sharpshooter (+10 dmg applies to BOTH Flourish attacks). Cantrip Vicious Mockery (enchantment for the Mystic Scoundrel combo).", "spells": ["Vicious Mockery", "Hold Person"] },
+      { "level": 5, "class": "Bard 5", "picks": "Font of Inspiration (refresh Bardic dice on a short rest). Hypnotic Pattern is top-tier control; Glyph of Warding is a non-concentration option.", "spells": ["Hypnotic Pattern", "Glyph of Warding"] },
+      { "level": 6, "class": "Bard 6", "picks": "Extra Attack — now four attacks a round with Slashing Flourish.", "spells": ["Enhance Ability"] },
+      { "level": 7, "class": "Fighter 1", "picks": "Dip Fighter: Archery fighting style (+2 to hit), medium armour & shields.", "spells": [] },
+      { "level": 8, "class": "Fighter 2", "picks": "Action Surge — a full second set of four attacks (eight in the opening round).", "spells": [] },
+      { "level": 9, "class": "Bard 7", "picks": "Back to Bard. Confusion is a bonus-action enchantment that won't hit allies — or Greater Invisibility for stealth-archery.", "spells": ["Confusion"] },
+      { "level": 10, "class": "Bard 8", "feat": "Alert", "picks": "Feat: Alert (+5 initiative; with 18 Dex from the Gloves you almost always go first). Freedom of Movement as a panic button, or Plant Growth.", "spells": ["Freedom of Movement"] },
+      { "level": 11, "class": "Bard 9", "picks": "5th-level spells: Hold Monster — bonus-action lockdown on nearly anything.", "spells": ["Hold Monster"] },
+      { "level": 12, "class": "Bard 10", "picks": "Magical Secrets + more Expertise + a cantrip. Pull a top spell off another list (e.g. Counterspell or Haste).", "spells": ["Counterspell"] }
+    ]
   },
   {
     "name": "Eldritch Knight Thrower",
@@ -39,11 +53,13 @@
     ],
     "source": "The CONSISTENT KILLER - [Updated] BG3 Lae'zel / Fighter Thrower Honour Build Guide",
     "video_url": "https://www.youtube.com/watch?v=pd8mQNq8xbE",
+    "tags": ["thrower"],
     "leveling": [
       {
         "level": 1,
         "class": "War Cleric",
-        "picks": "Take Cleric FIRST: heavy armour, shields, martial weapons, and War Priest bonus-action attacks. Prepare Bless and Create Water."
+        "picks": "Take Cleric FIRST: heavy armour, shields, martial weapons, and War Priest bonus-action attacks. Prepare Bless and Create Water.",
+        "spells": ["Bless", "Create Water"]
       },
       {
         "level": 2,
@@ -58,7 +74,8 @@
       {
         "level": 4,
         "class": "Fighter 3",
-        "picks": "Subclass: Eldritch Knight. Bind a thrown weapon; learn Longstrider + Shield."
+        "picks": "Subclass: Eldritch Knight. Bind a thrown weapon; learn Longstrider + Shield.",
+        "spells": ["Longstrider", "Shield"]
       },
       {
         "level": 5,
@@ -121,6 +138,7 @@
     ],
     "source": "The BEST MONK in Baldur's Gate 3 - [Updated] Honour Build Guide",
     "video_url": "https://www.youtube.com/watch?v=bX5paFDOGDU",
+    "tags": ["flurry"],
     "leveling": [
       {
         "level": 1,
@@ -202,7 +220,21 @@
     ],
     "source": "GO FOR THE EYES BOO - The Ultimate Boo Throwing Build - BG3 Minsc Barbarian / Rogue Honour Guide",
     "video_url": "https://www.youtube.com/watch?v=-ZrNOKm_Reo",
-    "leveling": []
+    "tags": ["thrower"],
+    "leveling": [
+      { "level": 1, "class": "Barbarian 1", "picks": "Rage + Unarmored Defence. Throw weapons from level one — your rage damage rides every throw.", "spells": [] },
+      { "level": 2, "class": "Barbarian 2", "picks": "Reckless Attack (advantage on Strength attacks) + Danger Sense.", "spells": [] },
+      { "level": 3, "class": "Barbarian 3", "picks": "Subclass: Berserker — Frenzy gives a bonus-action throw every turn while raging.", "spells": [] },
+      { "level": 4, "class": "Barbarian 4", "feat": "Tavern Brawler", "picks": "Feat: Tavern Brawler — the core; throws stop missing. Drink a Strength elixir each day from here.", "spells": [] },
+      { "level": 5, "class": "Barbarian 5", "picks": "Extra Attack — two throws per action plus the Frenzy bonus throw.", "spells": [] },
+      { "level": 6, "class": "Rogue 1", "picks": "Dip Rogue: Expertise + Sneak Attack added to a throw.", "spells": [] },
+      { "level": 7, "class": "Rogue 2", "picks": "Cunning Action — bonus-action Dash / Disengage / Hide.", "spells": [] },
+      { "level": 8, "class": "Rogue 3", "picks": "Subclass: Thief — a SECOND bonus action = two extra throws every turn.", "spells": [] },
+      { "level": 9, "class": "Rogue 4", "feat": "Alert", "picks": "Feat: Alert (go first) — or ASI Strength if not on the elixir.", "spells": [] },
+      { "level": 10, "class": "Fighter 1", "picks": "Dip Fighter: Defence fighting style, heavy armour.", "spells": [] },
+      { "level": 11, "class": "Fighter 2", "picks": "Action Surge — a flood of extra throws, each able to knock prone.", "spells": [] },
+      { "level": 12, "class": "Fighter 3", "picks": "Subclass: Champion (crit fishing) or Battle Master (Trip/Menacing maneuvers). Peak sustained throwing.", "spells": [] }
+    ]
   },
   {
     "name": "Abjuration Wizard (Tank Wizard)",
@@ -222,7 +254,21 @@
     ],
     "source": "The ULTIMATE WIZARD - BG3 Honour Mode Abjuration Magic Missile Gale Build Guide",
     "video_url": "https://www.youtube.com/watch?v=jghv0nkj5fQ",
-    "leveling": []
+    "tags": ["tank"],
+    "leveling": [
+      { "level": 1, "class": "Sorcerer 1", "picks": "Take a White Draconic Sorcerer level FIRST for Constitution-save proficiency. Mage Armour + Shield; Armour of Agathys for cold retaliation.", "spells": ["Armour of Agathys", "Shield", "Mage Armour"] },
+      { "level": 2, "class": "Wizard 1", "picks": "Switch to Wizard. Magic Missile is your reliable, save-less damage; Find Familiar for utility.", "spells": ["Magic Missile", "Find Familiar"] },
+      { "level": 3, "class": "Wizard 2", "picks": "Subclass: Abjuration — Arcane Ward. Every abjuration spell you cast refills the ward.", "spells": [] },
+      { "level": 4, "class": "Wizard 3", "picks": "2nd-level slots. Upcast Armour of Agathys to charge the ward and punish attackers.", "spells": [] },
+      { "level": 5, "class": "Wizard 4", "feat": "Resilient (Con)", "picks": "Feat: Resilient (Con) or War Caster — lock down concentration.", "spells": [] },
+      { "level": 6, "class": "Wizard 5", "picks": "3rd-level: Glyph of Warding refills the ward for free every turn; Counterspell shuts down enemy casters.", "spells": ["Glyph of Warding", "Counterspell"] },
+      { "level": 7, "class": "Wizard 6", "picks": "Abjuration: Projected Ward — share the ward with allies.", "spells": [] },
+      { "level": 8, "class": "Wizard 7", "picks": "4th-level: Ice Storm / Evard's Black Tentacles for control while you're unkillable.", "spells": ["Ice Storm"] },
+      { "level": 9, "class": "Wizard 8", "feat": "ASI: Intelligence", "picks": "Feat: ASI — Intelligence to 20 (bigger ward, higher DCs).", "spells": [] },
+      { "level": 10, "class": "Wizard 9", "picks": "5th-level slots; more abjurations to keep the ward topped up.", "spells": [] },
+      { "level": 11, "class": "Wizard 10", "picks": "Globe of Invulnerability — total immunity bubble on top of the ward.", "spells": ["Globe of Invulnerability"] },
+      { "level": 12, "class": "Wizard 11", "picks": "6th-level slots: Chain Lightning or a Markoheshkir nuke while nothing can touch you.", "spells": ["Chain Lightning"] }
+    ]
   },
   {
     "name": "Lightning Lord",
@@ -243,7 +289,21 @@
     ],
     "source": "The ONE SHOT LIGHTNING LORD - [Updated] BG3 Honour Mode Build Guide",
     "video_url": "https://www.youtube.com/watch?v=yGcfb0_dAEY",
-    "leveling": []
+    "tags": ["nuke"],
+    "leveling": [
+      { "level": 1, "class": "Cleric 1 (Tempest)", "picks": "Start Tempest Cleric: heavy armour and the spells that set up the combo. Prepare Create Water + Bless.", "spells": ["Create Water", "Bless"] },
+      { "level": 2, "class": "Cleric 2 (Tempest)", "picks": "Destructive Wrath — Channel Divinity to MAXIMISE one lightning/thunder roll (no dice).", "spells": [] },
+      { "level": 3, "class": "Sorcerer 1", "picks": "Multiclass Sorcerer (Draconic, Blue/Storm). Chromatic Orb (lightning) + Shield.", "spells": ["Chromatic Orb", "Shield"] },
+      { "level": 4, "class": "Sorcerer 2", "picks": "Metamagic: Quickened (to Quicken Create Water) + Twinned.", "spells": [] },
+      { "level": 5, "class": "Sorcerer 3", "picks": "2nd-level: Witch Bolt — the spell you'll upcast into a single huge hit.", "spells": ["Witch Bolt"] },
+      { "level": 6, "class": "Sorcerer 4", "feat": "Alert", "picks": "Feat: Alert — go first and drop the nuke before anything moves.", "spells": [] },
+      { "level": 7, "class": "Sorcerer 5", "picks": "3rd-level: Lightning Bolt + Haste.", "spells": ["Lightning Bolt", "Haste"] },
+      { "level": 8, "class": "Sorcerer 6", "picks": "Elemental Affinity (Storm) — add Charisma to your lightning damage.", "spells": [] },
+      { "level": 9, "class": "Sorcerer 7", "picks": "4th-level slots; more sorcery points for Quicken.", "spells": [] },
+      { "level": 10, "class": "Sorcerer 8", "feat": "ASI: Charisma", "picks": "Feat: ASI — Charisma to 20 (bigger maximised hit).", "spells": [] },
+      { "level": 11, "class": "Wizard 1 (Divination)", "picks": "Divination Wizard dip; scribe scrolls. Portent dice incoming.", "spells": [] },
+      { "level": 12, "class": "Wizard 2 (Divination)", "picks": "Two Portent dice GUARANTEE the hit. Full-caster level 12 = 6th-level slots: a maximised, Wet-doubled Witch Bolt for ~300 to one target turn one.", "spells": ["Counterspell"] }
+    ]
   },
   {
     "name": "Cleric (Light / Tempest / Nature)",
@@ -263,7 +323,21 @@
     ],
     "source": "The 11 BEST BUILDS in Baldur's Gate 3 - Honour Mode Guide",
     "video_url": "https://www.youtube.com/watch?v=bGupbGD2Fw0",
-    "leveling": []
+    "tags": ["support"],
+    "leveling": [
+      { "level": 1, "class": "Cleric 1", "picks": "Pick your domain (Light = Warding Flare to be nearly unhittable). Guidance, Bless, Sacred Flame, Create Water.", "spells": ["Bless", "Guidance", "Sacred Flame", "Create Water"] },
+      { "level": 2, "class": "Cleric 2", "picks": "Channel Divinity (domain effect). Spiritual Weapon coming next level.", "spells": [] },
+      { "level": 3, "class": "Cleric 3", "picks": "2nd-level: Spiritual Weapon (bonus-action damage) + Aid (party HP).", "spells": ["Spiritual Weapon", "Aid"] },
+      { "level": 4, "class": "Cleric 4", "feat": "Alert", "picks": "Feat: Alert (or ASI Wisdom).", "spells": [] },
+      { "level": 5, "class": "Cleric 5", "picks": "3rd-level: Spirit Guardians — the radiant-orb / reverberation engine with Luminous Armour.", "spells": ["Spirit Guardians"] },
+      { "level": 6, "class": "Cleric 6", "picks": "Domain Channel Divinity upgrade.", "spells": [] },
+      { "level": 7, "class": "Cleric 7", "picks": "4th-level: Death Ward + Guardian of Faith.", "spells": ["Death Ward"] },
+      { "level": 8, "class": "Cleric 8", "feat": "ASI: Wisdom", "picks": "Feat: ASI — Wisdom (AC via Light, DCs, healing).", "spells": [] },
+      { "level": 9, "class": "Cleric 9", "picks": "5th-level: Greater Restoration + Mass Cure Wounds.", "spells": ["Greater Restoration"] },
+      { "level": 10, "class": "Cleric 10", "picks": "Divine Intervention; domain capstone.", "spells": [] },
+      { "level": 11, "class": "Cleric 11", "picks": "6th-level: Heroes' Feast (whole party, all day) + Heal.", "spells": ["Heroes' Feast", "Heal"] },
+      { "level": 12, "class": "Cleric 12", "feat": "ASI / Resilient", "picks": "Final feat. Full utility online — fills any role.", "spells": [] }
+    ]
   },
   {
     "name": "Fire Sorcerer",
@@ -285,11 +359,13 @@
     ],
     "source": "BURN IT ALL DOWN - [Updated] Baldur's Gate 3 Fire Sorcerer Honour Build Guide",
     "video_url": "https://www.youtube.com/watch?v=iVOxw7TWYa0",
+    "tags": ["fireball"],
     "leveling": [
       {
         "level": 1,
         "class": "Sorcerer 1",
-        "picks": "Draconic Bloodline: Red (fire). Pick Shield + Mage Armour; start 17 Charisma. Magic Missile / Chromatic Orb for the early game."
+        "picks": "Draconic Bloodline: Red (fire). Pick Shield + Mage Armour; start 17 Charisma. Magic Missile / Chromatic Orb for the early game.",
+        "spells": ["Shield", "Mage Armour", "Magic Missile", "Chromatic Orb"]
       },
       {
         "level": 2,
@@ -299,7 +375,8 @@
       {
         "level": 3,
         "class": "Sorcerer 3",
-        "picks": "Scorching Ray — your main damage spell from here."
+        "picks": "Scorching Ray — your main damage spell from here.",
+        "spells": ["Scorching Ray"]
       },
       {
         "level": 4,
@@ -309,7 +386,8 @@
       {
         "level": 5,
         "class": "Sorcerer 5",
-        "picks": "3rd-level slots: Fireball, Haste."
+        "picks": "3rd-level slots: Fireball, Haste.",
+        "spells": ["Fireball", "Haste"]
       },
       {
         "level": 6,
@@ -319,7 +397,8 @@
       {
         "level": 7,
         "class": "Sorcerer 7",
-        "picks": "4th-level slots: Wall of Fire."
+        "picks": "4th-level slots: Wall of Fire.",
+        "spells": ["Wall of Fire"]
       },
       {
         "level": 8,
@@ -329,7 +408,8 @@
       {
         "level": 9,
         "class": "Sorcerer 9",
-        "picks": "5th-level slots: upcast Scorching Ray / Cone of Cold."
+        "picks": "5th-level slots: upcast Scorching Ray / Cone of Cold.",
+        "spells": ["Cone of Cold"]
       },
       {
         "level": 10,
@@ -367,7 +447,21 @@
     ],
     "source": "The BEST ARCHER in Baldur's Gate 3 - [Updated] Honor Mode Build Guide",
     "video_url": "https://www.youtube.com/watch?v=m5gWwLqm02M",
-    "leveling": []
+    "tags": ["archer"],
+    "leveling": [
+      { "level": 1, "class": "Ranger 1", "picks": "Favoured Enemy / Natural Explorer. Hunter's Mark + a bow.", "spells": ["Hunter's Mark"] },
+      { "level": 2, "class": "Ranger 2", "picks": "Archery fighting style (+2 to hit).", "spells": [] },
+      { "level": 3, "class": "Ranger 3", "picks": "Subclass: Gloomstalker — Dread Ambusher (extra attack + bonus speed on turn one); invisible in darkness.", "spells": [] },
+      { "level": 4, "class": "Ranger 4", "feat": "Sharpshooter", "picks": "Feat: Sharpshooter (+10 dmg; offset the −5 with stealth/height/advantage).", "spells": [] },
+      { "level": 5, "class": "Ranger 5", "picks": "Extra Attack.", "spells": [] },
+      { "level": 6, "class": "Rogue 1", "picks": "Dip Rogue: Expertise + Sneak Attack.", "spells": [] },
+      { "level": 7, "class": "Rogue 2", "picks": "Cunning Action — bonus-action Hide to keep getting Sneak Attack & advantage.", "spells": [] },
+      { "level": 8, "class": "Rogue 3", "picks": "Subclass: Assassin — automatic crits vs surprised enemies; action restored on turn one.", "spells": [] },
+      { "level": 9, "class": "Fighter 1", "picks": "Dip Fighter: a second fighting style (Defence).", "spells": [] },
+      { "level": 10, "class": "Fighter 2", "picks": "Action Surge — even more auto-crit attacks in the surprise round.", "spells": [] },
+      { "level": 11, "class": "Fighter 3", "picks": "Subclass: Battle Master — Trip Attack / Menacing maneuvers for control + bonus dice.", "spells": [] },
+      { "level": 12, "class": "Fighter 4", "feat": "Alert", "picks": "Feat: Alert — guarantee the surprise round (or ASI Dex if not using Gloves of Dexterity).", "spells": [] }
+    ]
   },
   {
     "name": "Moon Druid",
@@ -386,7 +480,21 @@
     ],
     "source": "The 11 BEST BUILDS in Baldur's Gate 3 - Honour Mode Guide",
     "video_url": "https://www.youtube.com/watch?v=bGupbGD2Fw0",
-    "leveling": []
+    "tags": ["shapeshift"],
+    "leveling": [
+      { "level": 1, "class": "Druid 1", "picks": "Wisdom only — no contested gear. Shillelagh + Produce Flame cantrips.", "spells": ["Produce Flame", "Shillelagh"] },
+      { "level": 2, "class": "Druid 2", "picks": "Circle of the Moon: bonus-action Combat Wild Shape (Bear). Spike Growth — game-winning control from level 2.", "spells": ["Spike Growth"] },
+      { "level": 3, "class": "Druid 3", "picks": "2nd-level: Moonbeam (movable radiant column) + Flaming Sphere.", "spells": ["Moonbeam"] },
+      { "level": 4, "class": "Druid 4", "feat": "Tavern Brawler", "picks": "Feat: Tavern Brawler — makes your melee Wild Shape forms hit hard. Wild Shape: Owlbear.", "spells": [] },
+      { "level": 5, "class": "Druid 5", "picks": "3rd-level: Call Lightning (re-cast each turn for free) + Sleet Storm.", "spells": ["Call Lightning"] },
+      { "level": 6, "class": "Druid 6", "picks": "Circle of the Moon: Primal Strike — Wild Shape attacks count as magical.", "spells": [] },
+      { "level": 7, "class": "Druid 7", "picks": "4th-level: Conjure Woodland Beings — one of the best summons in the game.", "spells": ["Conjure Woodland Beings"] },
+      { "level": 8, "class": "Druid 8", "feat": "Resilient (Con)", "picks": "Feat: Resilient (Con) or War Caster — protect concentration on your summons.", "spells": [] },
+      { "level": 9, "class": "Druid 9", "picks": "5th-level: Conjure Elemental (Myrmidons) + Insect Plague.", "spells": ["Conjure Elemental"] },
+      { "level": 10, "class": "Druid 10", "picks": "Elemental Wild Shape — Myrmidon forms with multiattack.", "spells": [] },
+      { "level": 11, "class": "Druid 11", "picks": "6th-level: Heal + Sunbeam.", "spells": ["Sunbeam"] },
+      { "level": 12, "class": "Druid 12", "picks": "Peak Wild Shape forms + best summons; multiple HP bars that never run out.", "spells": [] }
+    ]
   },
   {
     "name": "Lockadin (Paladin / Warlock)",
@@ -407,6 +515,20 @@
     ],
     "source": "The BEST WARLOCK in Baldur's Gate 3 - [Updated] Patch 8 Wyll Hexblade Honour Build Guide",
     "video_url": "https://www.youtube.com/watch?v=2p2QqzNsfec",
-    "leveling": []
+    "tags": ["smite"],
+    "leveling": [
+      { "level": 1, "class": "Warlock 1 (Hexblade)", "picks": "Hexblade with Pact of the Blade at level 1: Charisma weapon attacks + short-rest slots. Eldritch Blast + Hex.", "spells": ["Eldritch Blast", "Hex"] },
+      { "level": 2, "class": "Warlock 2", "picks": "Invocations: Agonizing Blast (+Cha to Eldritch Blast) + Devil's Sight (see in magical Darkness).", "spells": [] },
+      { "level": 3, "class": "Warlock 3", "picks": "2nd-level short-rest slots. Abuse Darkness with Devil's Sight for advantage.", "spells": ["Darkness"] },
+      { "level": 4, "class": "Warlock 4", "feat": "ASI: Charisma", "picks": "Feat: ASI Charisma (everything keys off it) — or Alert.", "spells": [] },
+      { "level": 5, "class": "Warlock 5", "picks": "3rd-level short-rest slots: Hunger of Hadar (control) + Counterspell. These slots fuel your smites.", "spells": ["Hunger of Hadar", "Counterspell"] },
+      { "level": 6, "class": "Paladin 1", "picks": "Multiclass Paladin: Divine Sense, Lay on Hands, and Smite on hit.", "spells": [] },
+      { "level": 7, "class": "Paladin 2", "picks": "Divine Smite + Fighting Style — burn short-rest warlock slots for radiant bursts far more often than a pure paladin.", "spells": [] },
+      { "level": 8, "class": "Paladin 3", "picks": "Oath (Ancients/Vengeance) + Channel Divinity.", "spells": [] },
+      { "level": 9, "class": "Paladin 4", "feat": "Alert", "picks": "Feat: Alert (or finish Charisma).", "spells": [] },
+      { "level": 10, "class": "Paladin 5", "picks": "Extra Attack — two smiting swings a turn.", "spells": [] },
+      { "level": 11, "class": "Paladin 6", "picks": "Aura of Protection — add your (huge) Charisma to all party saves. Build-defining.", "spells": [] },
+      { "level": 12, "class": "Paladin 7", "picks": "Oath feature at Paladin 7. Peak Charisma smite + control + face skills.", "spells": [] }
+    ]
   }
 ]
