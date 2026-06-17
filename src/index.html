@@ -537,9 +537,9 @@
   .build-detail-overlay { position: fixed; inset: 0; background: rgba(8,5,3,0.72); z-index: 60; overflow-y: auto; }
   .build-detail-overlay[hidden] { display: none; }
   .build-detail-panel { max-width: 860px; margin: 0 auto; min-height: 100%; background: var(--bg-deep); border-left: 1px solid var(--border); border-right: 1px solid var(--border); padding: 16px 26px 64px; }
-  .build-detail-close { position: sticky; top: 12px; z-index: 1; margin-bottom: 14px; background: var(--bg-panel); border: 1px solid var(--border-bright); color: var(--ink); border-radius: 6px; padding: 8px 14px; cursor: pointer; font-size: 0.82rem; }
-  .build-detail-close:hover { border-color: var(--gold); color: var(--gold); }
-  .build-detail-panel { max-width: 1100px; }
+  .build-detail-panel { max-width: 1100px; padding-top: 22px; }
+  .bd-close { margin-left: auto; flex-shrink: 0; align-self: flex-start; width: 30px; height: 30px; line-height: 28px; text-align: center; background: transparent; border: 1px solid var(--border); color: var(--ink-faint); border-radius: 6px; cursor: pointer; font-size: 0.82rem; font: inherit; }
+  .bd-close:hover { border-color: var(--gold); color: var(--gold); }
   /* Redesigned build detail: header + respec bar + sticky items + timeline */
   .bd-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
   .bd-name { font-family: 'Cinzel', serif; font-weight: 600; font-size: 1.3rem; color: var(--gold-bright); letter-spacing: 0.03em; }
@@ -585,6 +585,17 @@
   .tl-spike.utility .tl-spike-tag { color: #6aa6e0; }
   .tl-spike.defensive .tl-spike-tag { color: #84cf84; }
   .tl-picks { color: var(--ink-dim); font-size: 0.86rem; line-height: 1.5; margin-top: 6px; }
+  .tl-choices { margin-top: 8px; display: flex; flex-direction: column; gap: 6px; }
+  .tl-choice { display: grid; grid-template-columns: 58px 1fr; gap: 9px; align-items: baseline; }
+  .tl-req { font-size: 0.62rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; text-align: center; border-radius: 4px; padding: 2px 0; white-space: nowrap; }
+  .tl-req.must { color: var(--bg-deep); background: var(--gold); }
+  .tl-req.rec { color: var(--ink-dim); border: 1px solid var(--border-bright); }
+  .tl-choice-main { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 8px; min-width: 0; }
+  .tl-choice-kind { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--ink-faint); }
+  .tl-choice-items { color: var(--ink); font-size: 0.86rem; line-height: 1.45; }
+  .tl-choice-runes { margin: 0; }
+  .tl-choice-note { color: var(--ink-dim); font-size: 0.8rem; line-height: 1.4; }
+  .lvl-spell.must { border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold); }
   .build-li-tag { font-size: 0.78rem; color: var(--ink-dim); }
   @media (max-width: 720px) {
     .bd-body { grid-template-columns: 1fr; }
@@ -831,7 +842,6 @@
     <div class="empty-state hidden" id="build-empty">Nothing matches that search.</div>
     <div class="build-detail-overlay" id="build-detail" hidden>
       <div class="build-detail-panel">
-        <button class="build-detail-close" id="build-detail-close" type="button">✕ Back to builds</button>
         <div id="build-detail-content"></div>
       </div>
     </div>
@@ -1814,7 +1824,15 @@ function timelineRow(st, pos) {
     body.appendChild(pk);
   }
 
-  if (st.spells && st.spells.length) {
+  // Granular pick guidance: each choice is Must-take or Recommended, covering
+  // the picks the guide leaves open (skills, spare spells, cantrips, styles...).
+  // Falls back to the legacy flat `spells` rune list for builds not yet authored.
+  if (st.choices && st.choices.length) {
+    const wrap = document.createElement('div');
+    wrap.className = 'tl-choices';
+    st.choices.forEach(c => wrap.appendChild(choiceRow(c)));
+    body.appendChild(wrap);
+  } else if (st.spells && st.spells.length) {
     const sp = document.createElement('div');
     sp.className = 'lvl-spells';
     st.spells.forEach(name => sp.appendChild(spellRune(name)));
@@ -1822,6 +1840,57 @@ function timelineRow(st, pos) {
   }
 
   row.appendChild(body);
+  return row;
+}
+
+const CHOICE_KIND_LABEL = {
+  skill: 'Skills', expertise: 'Expertise', cantrip: 'Cantrip', spell: 'Spells',
+  style: 'Fighting style', metamagic: 'Metamagic', subclass: 'Subclass',
+  feat: 'Feat', gear: 'Gear', other: 'Pick',
+};
+const RUNE_KINDS = { spell: 1, cantrip: 1 };
+
+// One Must-take / Recommended choice line within a level.
+function choiceRow(c) {
+  const row = document.createElement('div');
+  row.className = 'tl-choice';
+
+  const req = document.createElement('span');
+  const must = c.req === 'must';
+  req.className = 'tl-req ' + (must ? 'must' : 'rec');
+  req.textContent = must ? '★ Must' : '▸ Rec';
+  row.appendChild(req);
+
+  const main = document.createElement('div');
+  main.className = 'tl-choice-main';
+  const kind = document.createElement('span');
+  kind.className = 'tl-choice-kind';
+  kind.textContent = CHOICE_KIND_LABEL[c.kind] || 'Pick';
+  main.appendChild(kind);
+
+  const items = c.items || [];
+  if (RUNE_KINDS[c.kind]) {
+    const runes = document.createElement('span');
+    runes.className = 'lvl-spells tl-choice-runes';
+    items.forEach(name => {
+      const chip = spellRune(name);
+      if (must) chip.classList.add('must');
+      runes.appendChild(chip);
+    });
+    main.appendChild(runes);
+  } else {
+    const txt = document.createElement('span');
+    txt.className = 'tl-choice-items';
+    txt.textContent = items.join(', ');
+    main.appendChild(txt);
+  }
+  if (c.note) {
+    const note = document.createElement('span');
+    note.className = 'tl-choice-note';
+    note.textContent = '— ' + c.note;
+    main.appendChild(note);
+  }
+  row.appendChild(main);
   return row;
 }
 
@@ -1841,6 +1910,13 @@ function buildDetailContent(b) {
     c.textContent = b.composition;
     head.appendChild(c);
   }
+  const close = document.createElement('button');
+  close.type = 'button';
+  close.className = 'bd-close';
+  close.textContent = '✕';
+  close.title = 'Close (Esc)';
+  close.addEventListener('click', closeBuildDetail);
+  head.appendChild(close);
   card.appendChild(head);
 
   if (b.role) {
@@ -2039,7 +2115,6 @@ function closeBuildDetail() {
   currentDetailBuild = null;
   document.body.style.overflow = '';
 }
-document.getElementById('build-detail-close').addEventListener('click', closeBuildDetail);
 buildOverlay.addEventListener('click', e => { if (e.target === buildOverlay) closeBuildDetail(); });
 document.addEventListener('keydown', e => { if (e.key === 'Escape' && !buildOverlay.hidden) closeBuildDetail(); });
 

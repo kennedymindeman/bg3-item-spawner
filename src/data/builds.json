@@ -12,7 +12,7 @@
   ],
   "keyItems": [
    "Gloves of Dexterity",
-   "Helm of Arcane Acuity",
+   "Helmet of Arcane Acuity",
    "Band of the Mystic Scoundrel",
    "Hat of Fire Acuity"
   ],
@@ -32,7 +32,61 @@
     "spike": {
      "type": "utility",
      "note": "Expertise + Bardic Inspiration — best dialogue/skills in the party from turn one."
-    }
+    },
+    "choices": [
+     {
+      "kind": "skill",
+      "req": "must",
+      "items": [
+       "Sleight of Hand",
+       "Persuasion",
+       "Deception"
+      ],
+      "note": "face skills + lockpicking on your high DEX"
+     },
+     {
+      "kind": "skill",
+      "req": "rec",
+      "items": [
+       "Stealth"
+      ],
+      "note": "enables stealth-archery openers later"
+     },
+     {
+      "kind": "cantrip",
+      "req": "must",
+      "items": [
+       "Minor Illusion"
+      ],
+      "note": "near-universal utility, basically required on everyone"
+     },
+     {
+      "kind": "cantrip",
+      "req": "rec",
+      "items": [
+       "Friends"
+      ],
+      "note": "consequence-free dialogue advantage"
+     },
+     {
+      "kind": "spell",
+      "req": "must",
+      "items": [
+       "Healing Word",
+       "Dissonant Whispers",
+       "Longstrider"
+      ],
+      "note": "bonus-action heal · 2-turn lockdown · party-wide speed (ritual)"
+     },
+     {
+      "kind": "spell",
+      "req": "rec",
+      "items": [
+       "Disguise Self"
+      ],
+      "note": "merchant prices / dialogue — or Speak with Animals"
+     }
+    ]
    },
    {
     "level": 2,
@@ -40,6 +94,24 @@
     "picks": "Song of Rest + Jack of All Trades. Take an enchantment now for later bonus-action casting.",
     "spells": [
      "Tasha's Hideous Laughter"
+    ],
+    "choices": [
+     {
+      "kind": "cantrip",
+      "req": "must",
+      "items": [
+       "Vicious Mockery"
+      ],
+      "note": "enchantment cantrip → free bonus-action cast with Band of the Mystic Scoundrel"
+     },
+     {
+      "kind": "spell",
+      "req": "rec",
+      "items": [
+       "Tasha's Hideous Laughter"
+      ],
+      "note": "an enchantment to bonus-action later; swappable"
+     }
     ]
    },
    {
@@ -52,7 +124,42 @@
     "spike": {
      "type": "combat",
      "note": "Slashing Flourish (College of Swords) — two ranged attacks per action, the build's core."
-    }
+    },
+    "choices": [
+     {
+      "kind": "subclass",
+      "req": "must",
+      "items": [
+       "College of Swords"
+      ],
+      "note": "Slashing Flourish — two ranged attacks per action, the build's engine"
+     },
+     {
+      "kind": "expertise",
+      "req": "must",
+      "items": [
+       "Sleight of Hand",
+       "Persuasion"
+      ],
+      "note": "double proficiency on your key skills"
+     },
+     {
+      "kind": "style",
+      "req": "rec",
+      "items": [
+       "Archery"
+      ],
+      "note": "+2 to hit ranged — or Two-Weapon Fighting if you'll melee flourish"
+     },
+     {
+      "kind": "spell",
+      "req": "rec",
+      "items": [
+       "Cloud of Daggers"
+      ],
+      "note": "or another control spell"
+     }
+    ]
    },
    {
     "level": 4,
@@ -66,7 +173,17 @@
     "spike": {
      "type": "combat",
      "note": "Sharpshooter — the flat damage multiplier on every hit."
-    }
+    },
+    "choices": [
+     {
+      "kind": "spell",
+      "req": "must",
+      "items": [
+       "Hold Person"
+      ],
+      "note": "enchantment lockdown — auto-fail saves, bonus-action via Mystic Scoundrel"
+     }
+    ]
    },
    {
     "level": 5,
@@ -75,6 +192,24 @@
     "spells": [
      "Hypnotic Pattern",
      "Glyph of Warding"
+    ],
+    "choices": [
+     {
+      "kind": "spell",
+      "req": "must",
+      "items": [
+       "Hypnotic Pattern"
+      ],
+      "note": "the best AOE control in the game; bonus-action it after an attack"
+     },
+     {
+      "kind": "spell",
+      "req": "rec",
+      "items": [
+       "Glyph of Warding"
+      ],
+      "note": "pre-placed burst, or hold for Counterspell later"
+     }
     ]
    },
    {
@@ -87,14 +222,34 @@
     "spike": {
      "type": "combat",
      "note": "Extra Attack — Slashing Flourish now lands four ranged hits per action."
-    }
+    },
+    "choices": [
+     {
+      "kind": "spell",
+      "req": "rec",
+      "items": [
+       "Enhance Ability"
+      ],
+      "note": "advantage/utility — or Slow / Glyph; nothing forced here"
+     }
+    ]
    },
    {
     "level": 7,
     "class": "Fighter 1",
     "picks": "Dip Fighter: Archery fighting style (+2 to hit), medium armour & shields.",
     "spells": [],
-    "dipMin": 7
+    "dipMin": 7,
+    "choices": [
+     {
+      "kind": "style",
+      "req": "must",
+      "items": [
+       "Archery"
+      ],
+      "note": "+2 to hit with every ranged attack — the whole point of the Fighter dip"
+     }
+    ]
    },
    {
     "level": 8,
@@ -113,6 +268,24 @@
     "picks": "Back to Bard. Confusion is a bonus-action enchantment that won't hit allies — or Greater Invisibility for stealth-archery.",
     "spells": [
      "Confusion"
+    ],
+    "choices": [
+     {
+      "kind": "spell",
+      "req": "must",
+      "items": [
+       "Confusion"
+      ],
+      "note": "AOE enchantment; bonus-action via Mystic Scoundrel to shut down a fight"
+     },
+     {
+      "kind": "spell",
+      "req": "rec",
+      "items": [
+       "Greater Invisibility"
+      ],
+      "note": "if you like stealth-archery; otherwise skip"
+     }
     ]
    },
    {
@@ -122,6 +295,16 @@
     "picks": "Feat: Alert (+5 initiative; with 18 Dex from the Gloves you almost always go first). Freedom of Movement as a panic button, or Plant Growth.",
     "spells": [
      "Freedom of Movement"
+    ],
+    "choices": [
+     {
+      "kind": "spell",
+      "req": "rec",
+      "items": [
+       "Freedom of Movement"
+      ],
+      "note": "anti-control insurance — or swap for utility"
+     }
     ]
    },
    {
@@ -130,6 +313,16 @@
     "picks": "5th-level spells: Hold Monster — bonus-action lockdown on nearly anything.",
     "spells": [
      "Hold Monster"
+    ],
+    "choices": [
+     {
+      "kind": "spell",
+      "req": "must",
+      "items": [
+       "Hold Monster"
+      ],
+      "note": "single-target lockdown on bosses immune to Hold Person"
+     }
     ]
    },
    {
@@ -142,7 +335,25 @@
     "spike": {
      "type": "utility",
      "note": "Magical Secrets (Bard 10) — Counterspell and other top-tier non-bard spells."
-    }
+    },
+    "choices": [
+     {
+      "kind": "spell",
+      "req": "must",
+      "items": [
+       "Counterspell"
+      ],
+      "note": "Magical Secrets — the best reaction in the game"
+     },
+     {
+      "kind": "spell",
+      "req": "rec",
+      "items": [
+       "Banishing Smite"
+      ],
+      "note": "burst finisher — or Globe of Invulnerability / another AOE"
+     }
+    ]
    }
   ],
   "tag": "Bard · +face/control",
@@ -879,7 +1090,7 @@
    "Elemental Adept: Fire (optional)"
   ],
   "keyItems": [
-   "Helm of Arcane Acuity / Hat of Fire Acuity",
+   "Helmet of Arcane Acuity / Hat of Fire Acuity",
    "The Annihilation Robes / Potent Robe",
    "Markoheshkir",
    "Arsonist's Oil"
@@ -1244,7 +1455,7 @@
   ],
   "keyItems": [
    "Eversight Ring (Darkness)",
-   "Helm of Arcane Acuity",
+   "Helmet of Arcane Acuity",
    "Band of the Mystic Scoundrel",
    "a Charisma-scaling weapon"
   ],
