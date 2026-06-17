@@ -36,9 +36,9 @@ TAGS = {
 RESPEC_NOTES = {
     1: "The 2-level Fighter dip (Archery style + Action Surge) comes after Bard 6 — "
        "respeccing below level 7, stay pure Bard.",
-    2: "Respeccing? Start with Fighter for the 19–20 base-AC chassis. The War Cleric "
-       "dip (bonus-action thrown attacks) is optional — slot it once you're level 5+, "
-       "or skip it entirely for a third attribute feat.",
+    2: "Respeccing below level 5? Go pure Fighter (skip the dip) for the 19–20 base-AC "
+       "chassis. At level 5+ take the War Cleric level first, then Fighter the rest of "
+       "the way — or skip the dip entirely for a third attribute feat.",
 }
 
 # spike[rank][level] = (type, note)

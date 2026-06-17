@@ -1756,19 +1756,30 @@ function setRespecLevel(n) {
 }
 
 // A flagged dip (has dipMin) can't be assigned before that total level; absent
-// = always eligible. Build the respec pick order by placing each level at the
-// earliest position its dipMin allows, otherwise preserving natural order. So
-// at low respec levels a late/optional dip drops out and the lead class changes.
+// = always eligible. The build's natural level order is the intended order; we
+// only GATE dips out when you can't afford them yet. So when you respec at N:
+//  - "now": the first N picks in natural order whose dipMin <= N. An eligible
+//    lead-dip (e.g. War Cleric at level 1, dipMin 5) stays first; an un-affordable
+//    one drops out so a different class leads.
+//  - "later": the remaining picks, each slotting in at the level its dipMin allows.
 function dipMinOf(st) { return ('dipMin' in st) ? st.dipMin : 0; }
-function respecSequence(leveling) {
-  const remaining = leveling.slice().sort((a, b) => a.level - b.level);
-  const seq = [];
-  for (let pos = 1; remaining.length; pos++) {
-    let i = remaining.findIndex(st => dipMinOf(st) <= pos);
-    if (i < 0) i = 0; // safety: nothing eligible yet -> take next anyway
-    seq.push(remaining.splice(i, 1)[0]);
+function naturalOrder(leveling) { return leveling.slice().sort((a, b) => a.level - b.level); }
+function respecPlan(leveling, N) {
+  const nat = naturalOrder(leveling);
+  if (N == null) return { now: nat, later: [] };
+  const taken = new Set();
+  const now = [];
+  for (const st of nat) {
+    if (now.length >= N) break;
+    if (dipMinOf(st) <= N) { now.push(st); taken.add(st); }
   }
-  return seq;
+  const later = [];
+  for (let lvl = now.length + 1; lvl <= nat.length; lvl++) {
+    const next = nat.find(st => !taken.has(st) && dipMinOf(st) <= lvl);
+    if (next) { later.push(next); taken.add(next); }
+  }
+  nat.forEach(st => { if (!taken.has(st)) { later.push(st); taken.add(st); } }); // safety
+  return { now, later };
 }
 
 // One row of the level timeline. `pos` is the character level you take it at in
@@ -2010,8 +2021,8 @@ function buildDetailContent(b) {
   const tl = document.createElement('div');
   tl.className = 'timeline';
   if (b.leveling && b.leveling.length) {
-    const seq = respecSequence(b.leveling);
     const N = respecLevel;
+    const { now, later } = respecPlan(b.leveling, N);
     function sectionLabel(text, cls) {
       const s = document.createElement('div');
       s.className = 'tl-section ' + (cls || '');
@@ -2020,14 +2031,13 @@ function buildDetailContent(b) {
     }
     if (N == null) {
       tl.appendChild(sectionLabel('Level-by-level (fresh from 1)', 'plain'));
-      seq.forEach((st, i) => tl.appendChild(timelineRow(st, i + 1)));
+      now.forEach((st, i) => tl.appendChild(timelineRow(st, i + 1)));
     } else {
       tl.appendChild(sectionLabel('Respec at level ' + N + ' — assign these now, in order', 'now'));
-      seq.slice(0, N).forEach((st, i) => tl.appendChild(timelineRow(st, i + 1)));
-      const later = seq.slice(N);
+      now.forEach((st, i) => tl.appendChild(timelineRow(st, i + 1)));
       if (later.length) {
         tl.appendChild(sectionLabel('Then as you level up — take in this order', 'later'));
-        later.forEach((st, i) => tl.appendChild(timelineRow(st, N + i + 1)));
+        later.forEach((st, i) => tl.appendChild(timelineRow(st, now.length + i + 1)));
       }
     }
   } else {
