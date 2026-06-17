@@ -596,6 +596,13 @@
   .tl-choice-runes { margin: 0; }
   .tl-choice-note { color: var(--ink-dim); font-size: 0.8rem; line-height: 1.4; }
   .lvl-spell.must { border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold); }
+  .tl-row.compact { padding: 5px 0; opacity: 0.72; }
+  .tl-row.compact .tl-badge { background: var(--border-bright); color: var(--ink); height: 22px; font-size: 0.72rem; }
+  .tl-row.compact .tl-class { font-size: 0.86rem; }
+  .tl-spike-pill { font-size: 0.58rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; border-radius: 3px; padding: 1px 5px; border: 1px solid; }
+  .tl-spike-pill.combat { color: #e08a5f; border-color: #d4734a; }
+  .tl-spike-pill.utility { color: #6aa6e0; border-color: #4a90d4; }
+  .tl-spike-pill.defensive { color: #84cf84; border-color: #6bbf6b; }
   .build-li-tag { font-size: 0.78rem; color: var(--ink-dim); }
   @media (max-width: 720px) {
     .bd-body { grid-template-columns: 1fr; }
@@ -1739,19 +1746,16 @@ function spellRune(name) {
 }
 
 // ---- Respec level: global, persisted, shared as you hop between builds ----
-// null = "leveling fresh" (show the whole 1->12 path); 1..12 = "I'm respeccing
-// at this level" (show the exact pick order to assign now, then what's next).
+// 1..12 = "my current level" — assign these in order now; levels above it are
+// shown compactly. Defaults to 12 (assume max -> show the whole build in full).
 const RESPEC_KEY = 'bg3-respec-level';
 let respecLevel = (function () {
   const v = parseInt(localStorage.getItem(RESPEC_KEY), 10);
-  return (v >= 1 && v <= 12) ? v : null;
+  return (v >= 1 && v <= 12) ? v : 12;
 })();
 function setRespecLevel(n) {
   respecLevel = n;
-  try {
-    if (n == null) localStorage.removeItem(RESPEC_KEY);
-    else localStorage.setItem(RESPEC_KEY, String(n));
-  } catch (e) { /* private mode */ }
+  try { localStorage.setItem(RESPEC_KEY, String(n)); } catch (e) { /* private mode */ }
   if (currentDetailBuild) renderBuildDetail();
 }
 
@@ -1782,11 +1786,12 @@ function respecPlan(leveling, N) {
   return { now, later };
 }
 
-// One row of the level timeline. `pos` is the character level you take it at in
-// the current (respec or natural) order.
-function timelineRow(st, pos) {
+// One row of the level timeline. `pos` is the character level you take it at.
+// `compact` (used for levels above your current one) shows just the class, dip,
+// feat and a small spike pill — no picks/spells/choices clutter.
+function timelineRow(st, pos, compact) {
   const row = document.createElement('div');
-  row.className = 'tl-row';
+  row.className = 'tl-row' + (compact ? ' compact' : '');
 
   const badge = document.createElement('span');
   badge.className = 'tl-badge';
@@ -1815,7 +1820,15 @@ function timelineRow(st, pos) {
     ft.textContent = 'Feat: ' + st.feat;
     top.appendChild(ft);
   }
+  if (compact && st.spike) {
+    const pill = document.createElement('span');
+    pill.className = 'tl-spike-pill ' + (st.spike.type || 'combat');
+    pill.textContent = st.spike.type || 'spike';
+    top.appendChild(pill);
+  }
   body.appendChild(top);
+
+  if (compact) { row.appendChild(body); return row; }
 
   if (st.spike) {
     const sk = document.createElement('div');
@@ -1960,21 +1973,18 @@ function buildDetailContent(b) {
   bar.className = 'respec-bar';
   const lbl = document.createElement('div');
   lbl.className = 'respec-label';
-  lbl.textContent = 'Your current level (respec order):';
+  lbl.textContent = 'Your current level — assign these in order:';
   bar.appendChild(lbl);
   const btns = document.createElement('div');
   btns.className = 'respec-btns';
-  function mkBtn(text, val, title) {
+  for (let lv = 1; lv <= 12; lv++) {
     const t = document.createElement('button');
     t.type = 'button';
-    t.className = 'respec-btn' + (respecLevel === val ? ' active' : '');
-    t.textContent = text;
-    if (title) t.title = title;
-    t.addEventListener('click', () => setRespecLevel(respecLevel === val ? null : val));
-    return t;
+    t.className = 'respec-btn' + (respecLevel === lv ? ' active' : '');
+    t.textContent = String(lv);
+    t.addEventListener('click', () => setRespecLevel(lv));
+    btns.appendChild(t);
   }
-  btns.appendChild(mkBtn('Fresh', null, 'Show the whole level-1→12 path'));
-  for (let lv = 1; lv <= 12; lv++) btns.appendChild(mkBtn(String(lv), lv));
   bar.appendChild(btns);
   if (b.respecNote) {
     const note = document.createElement('div');
@@ -2029,16 +2039,11 @@ function buildDetailContent(b) {
       s.textContent = text;
       return s;
     }
-    if (N == null) {
-      tl.appendChild(sectionLabel('Level-by-level (fresh from 1)', 'plain'));
-      now.forEach((st, i) => tl.appendChild(timelineRow(st, i + 1)));
-    } else {
-      tl.appendChild(sectionLabel('Respec at level ' + N + ' — assign these now, in order', 'now'));
-      now.forEach((st, i) => tl.appendChild(timelineRow(st, i + 1)));
-      if (later.length) {
-        tl.appendChild(sectionLabel('Then as you level up — take in this order', 'later'));
-        later.forEach((st, i) => tl.appendChild(timelineRow(st, now.length + i + 1)));
-      }
+    tl.appendChild(sectionLabel('At level ' + N + ' — assign these in order', 'now'));
+    now.forEach((st, i) => tl.appendChild(timelineRow(st, i + 1)));
+    if (later.length) {
+      tl.appendChild(sectionLabel('Later levels', 'later'));
+      later.forEach((st, i) => tl.appendChild(timelineRow(st, now.length + i + 1, true)));
     }
   } else {
     const pend = document.createElement('div');
