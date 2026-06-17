@@ -34,11 +34,25 @@ TAGS = {
 }
 
 RESPEC_NOTES = {
-    1: "The 2-level Fighter dip (Archery style + Action Surge) comes after Bard 6 — "
-       "respeccing below level 7, stay pure Bard.",
-    2: "Respeccing below level 5? Go pure Fighter (skip the dip) for the 19–20 base-AC "
-       "chassis. At level 5+ take the War Cleric level first, then Fighter the rest of "
-       "the way — or skip the dip entirely for a third attribute feat.",
+    1: "Respeccing at level 7+? Take the first Fighter level FIRST — Fighter grants "
+       "CON-save proficiency (concentration), and saves come only from your starting "
+       "class; your spell DC still uses Charisma since Bard is taken second. Below "
+       "level 7 you can't afford the dip, so lead with Bard.",
+    2: "Take Fighter first — it grants CON-save proficiency (concentration) and the "
+       "19–20 base AC, and saves come only from your starting class. The War Cleric "
+       "dip is optional: slot it once you're level 5+ (you keep Fighter's saves), or "
+       "skip it for a third attribute feat.",
+    6: "Respeccing? Take the first Sorcerer level FIRST — Sorcerer grants CON-save "
+       "proficiency (concentration for Haste), and saves come only from your starting "
+       "class. Take the Tempest Cleric levels after.",
+}
+
+# respecLead[rank] = the cumulative-class label of the level to pull to the front
+# on a respec (the CON-save class), when it's affordable at the current level.
+RESPEC_LEAD = {
+    1: "Fighter 1",          # CON save for the archer's concentration control spells
+    2: "Fighter 1",          # CON save + AC; War Cleric becomes a 2nd-slot dip
+    6: "Sorcerer 1",         # CON save for Haste; over the Tempest Cleric opener
 }
 
 # spike[rank][level] = (type, note)
@@ -129,16 +143,20 @@ def main() -> int:
             b.pop("respecNote", None)
         spikes = SPIKES.get(rank, {})
         dipmin = DIPMIN.get(rank, {})
+        lead = RESPEC_LEAD.get(rank)
         for st in b.get("leveling", []):
             lv = st["level"]
             # clear stale fields so re-runs are clean
             st.pop("spike", None)
             st.pop("dipMin", None)
+            st.pop("respecLead", None)
             if lv in spikes:
                 t, note = spikes[lv]
                 st["spike"] = {"type": t, "note": note}
             if lv in dipmin:
                 st["dipMin"] = dipmin[lv]
+            if lead and st.get("class") == lead:
+                st["respecLead"] = True
     SRC.write_text(json.dumps(builds, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     n_spikes = sum(len(v) for v in SPIKES.values())
     print(f"tagged {len(TAGS)} builds, {len(RESPEC_NOTES)} respec notes, "

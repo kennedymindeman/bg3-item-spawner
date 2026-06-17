@@ -240,6 +240,7 @@
     "picks": "Dip Fighter: Archery fighting style (+2 to hit), medium armour & shields.",
     "spells": [],
     "dipMin": 7,
+    "respecLead": true,
     "choices": [
      {
       "kind": "style",
@@ -357,7 +358,7 @@
    }
   ],
   "tag": "Bard · +face/control",
-  "respecNote": "The 2-level Fighter dip (Archery style + Action Surge) comes after Bard 6 — respeccing below level 7, stay pure Bard."
+  "respecNote": "Respeccing at level 7+? Take the first Fighter level FIRST — Fighter grants CON-save proficiency (concentration), and saves come only from your starting class; your spell DC still uses Charisma since Bard is taken second. Below level 7 you can't afford the dip, so lead with Bard."
  },
  {
   "name": "Eldritch Knight Thrower",
@@ -399,7 +400,8 @@
    {
     "level": 2,
     "class": "Fighter 1",
-    "picks": "Fighting Style: Defence. Second Wind."
+    "picks": "Fighting Style: Defence. Second Wind.",
+    "respecLead": true
    },
    {
     "level": 3,
@@ -473,7 +475,7 @@
    }
   ],
   "tag": "Fighter · thrown nova",
-  "respecNote": "Respeccing below level 5? Go pure Fighter (skip the dip) for the 19–20 base-AC chassis. At level 5+ take the War Cleric level first, then Fighter the rest of the way — or skip the dip entirely for a third attribute feat."
+  "respecNote": "Take Fighter first — it grants CON-save proficiency (concentration) and the 19–20 base AC, and saves come only from your starting class. The War Cleric dip is optional: slot it once you're level 5+ (you keep Fighter's saves), or skip it for a third attribute feat."
  },
  {
   "name": "Open Hand Monk",
@@ -872,7 +874,8 @@
     "spells": [
      "Chromatic Orb",
      "Shield"
-    ]
+    ],
+    "respecLead": true
    },
    {
     "level": 4,
@@ -946,7 +949,8 @@
     }
    }
   ],
-  "tag": "Sorc/Cleric · lightning nuke"
+  "tag": "Sorc/Cleric · lightning nuke",
+  "respecNote": "Respeccing? Take the first Sorcerer level FIRST — Sorcerer grants CON-save proficiency (concentration for Haste), and saves come only from your starting class. Take the Tempest Cleric levels after."
  },
  {
   "name": "Cleric (Light / Tempest / Nature)",
