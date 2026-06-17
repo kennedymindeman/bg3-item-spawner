@@ -1,0 +1,951 @@
+all right my friends you have seen me
+kill designated punching bag the
+oathbreaker knight in a single round of
+combat many times over at this point but
+what if we kill him in a single action
+notice that we have almost no gear
+equipped and only a single buff that
+lasts all day the lightning aspect of
+marah hes here and we're going to take
+out the oathbreaker knight in a single
+spellcast let's go ahead and enter turn
+based mode and we're going to start by
+doing a uh quickened casting of create
+water you can do this before combat
+starts so it doesn't actually take any
+time during combat the oathbreaker
+Knight now has the wet effect and then
+with a level six witch bolt we are going
+to zap the oathbreaker Knight activate
+destructive wrath and luck of the far
+realms for an absolutely guaranteed 296
+damage ending him in a single spell all
+right let's get to the
+build hello my friends and welcome back
+to another Boulders Gate 3 character
+building guide hope you're all doing
+well today we're covering one of the
+very strongest builds in Boulders Gate 3
+in my list of the best builds in the
+entire game for Honor mode I rated this
+as one of the absolute strongest because
+it really does everything and it does it
+better than just about every other
+character not only does this character
+bring incredible support and utility to
+the party and not only does it also have
+some of the most powerful spellcasting
+out there in addition to that its core
+combo allows you to Simply choose an
+enemy and wipe them off the face of the
+Earth or I suppose Fon um with
+absolutely guaranteed damage the ability
+to just blow up an enemy and know for
+certain before you even roll a die that
+they're going to die cannot be
+overstated because it gives you just
+absolute confidence in your ability to
+take a fight and in addition to all of
+these powerful effects this character is
+one of the very best at using some of
+the most powerful items in the game so
+not only is it incredibly strong and
+dare I say quite broken in and of itself
+it also allows you to maximize some of
+the strongest effects available to every
+party so it you you really get benefits
+both coming and going with one of the
+best builds in and of itself and also
+some of the most powerful effects in the
+game maximized to their fullest
+potential this is an update video to one
+of my most popular videos on my channel
+and for good reason uh because this
+build received some changes in patch 7
+and so I wanted to update it to reflect
+the ways that the build has changed in
+the most recent patch of balder's gate
+and also to bring the guide up to date
+for the modern era of Honor
+mode before I begin I do want to take a
+quick moment to say thank you so much to
+Potato Man for the $5 donation Jason
+lickman for the extremely generous $50
+Caesar Shadow Knight for the $10 mil
+Cooney for the €20 and Rainbird for the
+$10 as well as Rainbird and Caesar
+Shadow KN for also becom coming channel
+members thank you so much my friends I
+really do appreciate the support and it
+really does mean a lot all right let's
+get to the build I'm using Gail is the
+example character here because of course
+he is The Wizard of the party and also
+what other character would want ultimate
+Cosmic lightning power as the onot
+lightning Lord more than gaale would uh
+so it only makes sense but if you're
+building this as a custom character then
+I highly recommend playing it as a
+halfling basically the only thing that
+can go wrong for this character is if
+you roll a natural one on your attack
+roll for your onot combo spell and that
+can leave you having to spend additional
+resources on that combat or being out a
+highle spell slot so playing as a
+halfling who gets to roll ones has
+incredible Synergy for this build
+because it makes the only failure case
+exponentially less likely to occur this
+build is incredibly safe to play and
+that just doubles down on that making it
+significantly safer also of course the
+normal standouts are still excellent DW
+guard's outof combat invisibility is
+always top tier wood elfelf or half wood
+elf for the bonus movement speed are of
+course great and gith Yankee has also
+pretty good Synergy for this build
+because the additional skill access
+works very well this build can be built
+as a skill monkey or party face to
+provide even more support and gii lets
+you uh gain access to even more skills
+and double down on that role as well so
+all of those are great options in
+addition but I really do think that
+halfling is the strongest pick by far
+now before I start leveling this
+character I do think a quick disclaimer
+is in order and that is that for most of
+my builds I say you can feel free to
+customize this character move levels
+around change things out for other
+things to fit a concept that you may
+have and that is much less true for this
+character the leveling order for this
+character and which levels you take are
+actually extremely important um this
+build is extensively tested both by
+myself and tens of thousands of other
+people and if you reorder things you do
+run the risk of breaking some aspects of
+the combo so unless you're very familiar
+with how the character works I highly
+recommend following the order given in
+the video to ensure that the character
+works as
+intended we're going to start with a
+level of
+sorcerer the reason that we do this is
+that we want to take wizard as our third
+level I'll talk about that more in a
+second so we want to take our other two
+levels other two classes first and
+starting as a sorcerer allows us to both
+have better skill access if we want to
+be the class the party's face character
+use dialogue skills and also gives US
+Constitution save proficiency one of the
+things that this character brings to the
+table is incredibly powerful
+concentration spells you get to Twin
+haste which is an incredible buff for
+any party um and have other powerful
+concentration spells running to support
+your party members and also power
+yourself up so having Constitution save
+proficiency means that you won't lose
+concentration on those powerful
+concentration spells and can uh provide
+the maximum power to your party we also
+get to to take power uh great utility
+spells early so sorcerer starting a
+sorcerer gives us a lot of additional
+options for our ability scores we are
+however going to take a very unusual
+attribute split for sorcerer there are
+two different ability score options that
+we can use whether and that will depend
+on whether we are going to have this
+character be our party face and if so we
+need to have the gloves of dexterity
+available and not need them for another
+party member or if we don't want to use
+the gloves of dexterity on this uh
+character I'm going to build this
+character assuming that you don't need
+the gloves of dexterity and you have
+another character doing conversation
+skills but just be aware that this
+character can be built as the party face
+um and take higher Charisma than this
+and then if you do that you can have it
+do all of your dialogue as well for this
+version of the character we're going to
+take eight Charisma uh and we're going
+to
+take 16 in intelligence because this
+character will actually be using its
+intelligence to cast spells rather than
+its Charisma 12 wisdom uh 14
+Constitution and 16 dexterity we want
+the high dexterity because going first
+allows us to delete an enemy immediately
+as soon as uh combat starts so we want
+High initiative and this character will
+not be able to fit alert into your build
+until much later on potentially so we
+want as much initiative as we can get in
+the early game to make certain that we
+go early enough in combat to impact it
+for our skill selection here since this
+version of the character isn't the party
+face it doesn't really matter what we
+select um we don't have access to any
+super important skills uh but of course
+if you are building the Charisma heavy
+version of the build then you would want
+to make sure that you have persuasion
+and deception because those are the most
+important dialogue
+skills for our krips because we took low
+Charisma we're going to only take can
+trips that are utility for this uh as
+sorcerer canant trips because we'll get
+any damaging cantrips that we want from
+our wizard level so this lets us to take
+all the utility cantrips that we need uh
+access to right away which is pretty
+helpful for any party to have all of
+these utility spells we'll take minor
+illusion and blade Ward if this
+character gets stuck out in the middle
+of nowhere blade Ward can help keep you
+alive for a round while your allies come
+to your rescue that shouldn't happen too
+often but is pretty useful and minor
+illusion of course can group enemies for
+powerful AOE spells pull enemies away
+from their allies before combat starts
+so you can blast them and of course this
+character can onot enemies so you can do
+that without even triggering combat much
+of the Time Mage hand is very good for
+this character as well because the Mage
+hand can throw bottles of water and one
+thing that we will need to do is get our
+enemies wet uh so fanfiction writers get
+your typing fingers ready um and the
+Mage hand can help us do that
+efficiently without spending spells or
+actions on doing so finally we can can
+just pick up another utility cantrip
+like light for example um because that
+will of course allow us to see what
+we're doing for our spell selection
+again we're taking only utility Spells
+at this level ones that do not rely on
+our Charisma or ones that don't rely on
+hit rolls or save DCS I recommend taking
+magic Missile and shield we know we're
+going to want access to both of those
+spells and they don't uh need us to have
+high Charisma in order to be effective
+so we can pick those up with our
+sorcerer levels right away for subass
+here we are going to take storm sorcery
+this gives us a ton of Mobility around
+the battlefield with tempestuous magic
+and is incredibly powerful and will also
+give us access to um a couple spells
+that will be useful later on down the
+line now the storm sorcery spells will
+use our Charisma for their spell save
+DCS um so you generally won't be casting
+them offensively but the bonuses from
+the storm sorcery passives are very good
+you could also take a draconic sorcerer
+and take one of the lightning Sorcerers
+for um additional lightning damage uh
+but I tend to prefer the mobility of
+storm sorcery on this build it does give
+up like three points of damage on your
+combo um but the storm sorcery version
+of the build just has so much more
+utility and Mobility it's much safer and
+smoother to play all right that is it
+for level one we've selected our spells
+and can trips done our ability scores
+and chosen our class level so let's move
+on to level
+two at character level two we are
+multiclassing and we're going to
+multiclass into cleric cleric not only
+gives us a ton of utility in the early
+game it's also going to be core to our
+later game combo for our krips on cleric
+again with our relatively low wisdom we
+don't want offensive can trips in the
+first two levels by the way you have 16
+dexterity so you can just fight by
+firing arrows from any bow that you have
+picked up um so don't worry about having
+to
+uh have combat can trips for your first
+two levels you'll still be able to fight
+reasonably well with your utility spells
+and a bow and of course we get to pick
+up even more utility for our party with
+guidance and resistance um one of the
+reasons this character can be such an
+effective party face if you want to go
+that direction is that you can take the
+thury can trip as well to give yourself
+advantage on some
+Charisma based effects that does allow
+you to succeed at dialogue more um if
+you're not the party face it doesn't
+really matter matter what you pick here
+as your last level as your last C trip
+excuse me but guidance and resistance of
+course are excellent for any party for
+our subass we're going to take Tempest
+domain which will of course give us some
+useful uh utility spells fog cloud in
+particular is a very good utility
+especially in the early game it's a no
+save blind which is a powerful debuff um
+since we're playing Gale you know let's
+go ahead and take mistra as our deity
+and we can also get access to a couple
+more skills which again allows this
+character to act as a party face with
+religion and insight as possible skills
+but most importantly we get to prepare a
+couple utility spells here in the early
+game the ones that you're going to be
+looking at most are bless sanctuary and
+healing word later on of course we're
+going to want create water for a combo
+um but in general bless and healing word
+will be extremely helpful in the early
+game to power up your party this
+character actually will be able to be
+one of the best in the game at using the
+buff on heal items as well because we
+will be able to like twin healing word
+to double apply them um so you can make
+your character a healing sub theme and
+increase its uh give the character a
+healing sub theme and increase the level
+of support it provides to your party as
+well and then later on you're going to
+swap to sanctuary and create water
+because that is a great panic button and
+enables the combo
+then at character level three we are
+multiclassing again and we're going to
+take wizard we want to take wizard as
+our third level because of the way
+Boulders gate calculates save DCS from
+items it uses the casting stat of your
+most recent newly acquired class so the
+most recent class you took the first
+level in um so we need to take our other
+two classes before we take a wizard
+level uh it doesn't matter what level we
+what order we level up in after this for
+our safety CS but we need to take wizard
+as our last new class in order to
+guarantee that we use our intelligence
+for our items and Scrolls and since this
+character is so good at casting spells
+from items and Scrolls we definitely
+want to make sure we're doing that for
+our canant trips here of course we don't
+want to duplicate cantrips that we
+already have but we do want to pick up
+some offensive power so we can grab Ray
+of frost and Firebolt and might as well
+pick up shocking grasp this is a
+lightning based character rof Frost and
+Firebolt together give you a bunch of
+utility and Ray of frost will be your
+main damage but shocking grasp can get
+you out of bad situations by preventing
+enemy reactions generally speaking
+though you're just using uh Ray of frost
+for most of your combat effects remember
+the damage of this is doubled by enemies
+being wet so it's an incredibly powerful
+damage Source even just as a canant trip
+for our spells here the most important
+spells to ensure that we have of course
+we want access to all the utility spells
+like long Strider and enhanced leap and
+we want good combat Spells at this point
+but we want to make uh certain that we
+have and one of these is in the prepared
+spells because uh Gail has already
+learned it from a scroll in in this save
+file we want to make certain that we
+have witch bolt and chromatic orb uh
+from our wizard levels these are going
+to be our main combat spells cuz they're
+our source of lightning damage that gets
+doubled by the wet condition and
+maximized by our Tempest cleric levels
+which is the source of our one shot
+combo so make sure that you take witch
+bolt and chromatic orb whether from
+Scrolls or whether from uh leveling up
+and then also get powerful utility in
+combat spells like grease and Ice knife
+enhanced leap long Strider of course you
+can pick up uh as many spells as you can
+find from Scrolls so what what Scrolls
+you have found up to this point in the
+game will dictate a little bit what
+spells you actually select when you
+level up so long as you make sure that
+you have chromatic orbit and witch bolt
+available to the
+character and of of course because of
+how learning wizard spells from Scrolls
+Works in balers Gate 3 you will also
+have access to second level wizard
+spells at this point because we have
+three Caster levels sorcerer cleric and
+wizard all give us additional spell uh
+casting levels and wizards can learn
+spells from Scrolls based on their
+Caster level not their wizard level so
+we'll be able to learn first and second
+level spells from Scrolls and we'll be
+able to power up our character uh
+significantly as a result things like
+scorching Ray and cloud of daggers are
+the most important ones to look out for
+just uh any good spells any good second
+level spells but of course it's going to
+depend on what Scrolls You' found up to
+this point in the
+game at character level four we're going
+to take our second level of cleric which
+brings this character's core damage
+combo online now that doesn't mean that
+the character hasn't always already been
+extremely powerful we're still just an
+excellent spellcaster up until this
+point but now that we have destructive
+wrath we can start one shotting enemies
+very easily destructive wrath lets us
+maximize lightning damage that we're
+doing and then that lightning damage
+gets doubled by the wet condition so
+with for example a witch bolt cast at
+level two with one of our level two
+spell slots that we have at this level
+uh we do a D12 of damage per level that
+gets maximized to 12 damage per level or
+24 damage that gets doubled by the wet
+condition up to 48 guaranteed damage and
+on a critical hit which we may be able
+to enable with luck of the far Realms at
+this point depending on how many elied
+power elied tadpoles we've acquired or
+just get lucky and critically hit that
+gets doubled again to 96 damage 96
+damage of course is enough to One-Shot
+almost any enemy that you're facing at
+this level or put a serious dent in even
+the toughest of bosses and even 48
+guaranteed damage will kill most
+important enemies or at least an
+important enemy from an encounter
+allowing your very powerful spell
+casting to reign supreme Chom IC orb at
+this level uh does the same 24 damage
+doubled to 48 critical hit doubles it
+again to 96 so at this level it's even
+with witch bolt for single Target damage
+witch bolt will outscale it at later uh
+levels um but chromatic orb also can
+still be twinned wi bolt as of the last
+patch can no longer be twinned at all um
+and so chromatic orb will be relevant
+when you're fighting multiple enemies
+cuz you can use twin spell on it from
+our sorcerer levels to One Shot Two en
+enemies at the same time so both of
+those spells are very powerful to have
+access to and let you just obliterate
+enemies in a single
+action at character level five of course
+we want to be able to Twin those
+chromatic orbs and one shot two enemies
+at the same time so we need to take our
+second sorcerer level so that we get
+access to more metamagic um this lets us
+trade our spell slots for sorcery points
+which we can then spend on metam Magic
+and of course the metam magic that we're
+going to take is going to be twin spell
+I also recommend distant spell because
+for only a single sorcery point this can
+let you use your combo from far away so
+if there's an enemy that you're not sure
+you're going to be able to fight you can
+take them on from outside of their range
+and then they won't be able to retaliate
+very easily a 90 foot range on your
+spells is enough to get out of range of
+almost any melee enemy in the game they
+just won't be able to reach you so
+you'll get two turns to fight them if
+you use distant spell an alternative is
+to use extended spell if if you're using
+more of the powerful control spells
+available to this character then
+extended spell can increase their
+duration uh six turns of hypnotic
+pattern will win any encounter by itself
+obviously um so uh extended spell is
+also a great option I tend to slightly
+favor distant spell but either of those
+are reasonable picks um again what
+spells we actually select at this level
+we're looking for utility spells that
+don't require us to roll dice using our
+Charisma to get the most uh benefit
+benefit out of them so just anything
+that doesn't have an Associated saving
+throw or die roll uh at this stage we
+can grab from our sorcerer
+levels uh character level
+six we're going to take our third
+sorcerer level because we want to gain
+more sorcery points and also get access
+to higher level sorcerer metamagic for
+quick and spell quick and spell lets us
+do the combo twice in one turn and of
+course also cast all of the other
+powerful sorcerer spells uh more than
+once Quicken create water so that we can
+set up our combo for ourselves rather
+than having to have an ally throw water
+or a mage hand throw a bottle of water
+uh quick and spell is just very powerful
+for this character
+obviously again just to reiterate how
+much damage we're doing at this point
+with a third level spell slot which we
+now have access to a witch bolt does 36
+base damage that gets doubled by the wet
+condition to 72 doubled by a critical
+hit to 14 four damage if you do that
+twice in one turn with click and spell
+which you can do uh that's
+288 damage guaranteed in a single uh
+round now the second one isn't
+guaranteed to be a critical so you
+probably are only going to get um 72
+damage less than that but still that's
+going to be more than 200 damage in a
+single round at level six uh and with
+very very little chance of anything
+going wrong so if you really want an
+enemy dead and don't mind spending some
+resources on it this character can
+definitely make that happen uh again for
+our spell selection here we're looking
+for utility spells so you can take
+things like Misty step enhance ability
+um whatever you haven't found from your
+wizard uh Scrolls but also any utility
+spells that you grab from sorcerer are
+ones you don't have to prepare with your
+wizard spell slots and this character
+with uh relatively low wizard levels we
+don't have that many actual levels in
+Wizard your wizard spells prepared are a
+somewhat limited resource so you want to
+have your utility spells available from
+your sorcerer levels so that you can
+save your wizard spell slots for your
+offensive spells that you're going to
+need so we're going to grab stuff like
+Misty step um enhan ability invisibility
+all of the utility spells that you want
+from our sorcerer levels all character
+level
+seven we actually have a choice at this
+point between taking a fourth sorcerer
+level for an additional feat or taking
+our second wizard level now I'm going to
+recommend taking the sorcerer level at
+this point because at this point 16
+intelligence is starting to strain our
+spells prepared list because we want to
+have higher level spells prepared and
+also because uh 16 intelligence is on
+the low end for being able to actually
+hit our shots at this point now since we
+only have to land one attack per combat
+we can usually hide before combat starts
+to guarantee attacking with Advantage so
+it's not as bad as it might seem to have
+160 in intelligence this late into the
+game but boosting that to 18 will
+definitely help us out here so we can
+take an ability Improvement to go up to
+18 intelligence um and this also lets us
+get the all important true strike which
+not only annoys people in the YouTube
+comments but actually is kind of good
+for this character it actually helps
+this character out quite a bit and maybe
+even you want to take it earlier um it's
+possible that you want to take true
+strike over something like shocking
+grasp at uh lower levels uh because if
+you are in a combat where you can't hide
+true strike can give you advantage on
+the attack and you only need to land one
+attack to end combats so having access
+to True strike for this character is
+actually kind of useful for uh compared
+to most characters um again we're going
+to grab a utility spell uh anything that
+lets us take some strain off of our
+wizard spells prepared list and because
+we're level seven we now have fourth
+level spell slots so fourth level wizard
+spells and higher level witch chromatic
+orbs then at character level
+eight we're going to go ahead and take
+our uh fifth sorcerer level and the
+reason for this we we do want a second
+wizard level I'll talk about that in a
+second but the reason that we want our
+fifth sorcerer level is that around
+level eight is when you start facing
+really dangerous spells from enemies um
+and so we want to take our fifth
+sorcerer level so that we can grab
+counter spell from our levels in
+sorcerer there are no Scrolls of counter
+spell in the game so you have to learn
+it by actually leveling up and learning
+the spell um so grabbing that at this
+point is very important if you already
+have other characters with counter spell
+you could take your second wizard level
+at level uh eight rather than your fifth
+sorcerer level and that can accelerate
+um your access to divination wizard uh
+but if you don't then you definitely
+need counter spell by this point in the
+game so I recommend taking level five
+sorcerer so that you can pick that up as
+quickly as possible
+at our next level though we're going to
+take our second wizard level because
+that lets us take a wizard subass and we
+can take divination wizard again the
+only thing that can go wrong for this
+character is if you roll natural ones on
+your hit chance uh portent just
+guarantees that you're going to hit
+enemies um that you need to hit with
+your spells so this gives us twice per
+day we can just land the attack
+guaranteed um using dice now one weird
+interaction is that if you were going to
+miss your attack and you change it to a
+hit with portent you can't use luck of
+thear Realms on that same attack so you
+won't be able to guarantee a critical
+hit when you use uh portent dice but
+this still just makes you so much more
+consistent at Landing your combo that
+divination wizard is excellent for this
+character of course it also helps you
+defend your party and help your party
+members land attacks or make important
+saving throws or whatever cuz uh
+divination wizard is just one of the
+most powerful tools in the game this
+character gets to make use of it very
+well uh what spells we take here of
+course doesn't really matter these are
+lowlevel wizard spells and we already
+have all the wizard spells we want from
+Scrolls at level
+10 we're going to take our uh six
+sorcerer level and we're just continuing
+to level in sorcerer because it gives us
+more utility spells things like gust of
+wind and sleep Storm from uh Tempest
+sorcerer are still very useful to have
+and of course we learn create water here
+so now we don't have to prepare it as a
+cleric spell uh cuz we just know it from
+our sorcerer levels saves a cleric uh
+prepared spell and also gives us heart
+of the storm to do a little bit of extra
+lightning damage and resistance to
+lightning and thunder damage which is
+pretty relevant in the late game mostly
+though we're leveling in sorcerer just
+for more metamagic points more sorcery
+points um so that just lets the
+character act longer by having more um
+sorcery point so we can twin or Quicken
+spells spell selection here if we uh we
+definitely want to make sure that we
+have haste twined haste is one of the
+things that this character does very
+well up until this point we've probably
+been using one of our wizard spells
+slots on it because haste is just that
+good um but now that we can learn it as
+a sorcerer spell we can save that wizard
+spell prepared slot for something
+else at character level
+11 we we are going to continue to level
+sorcerer just to increase our sorcery
+points um for our spell selection here
+again utility spells things like greater
+invisibility are very useful just avoid
+spells or dimension door just avoid
+spells that have saving throws or
+require a rule to hit cuz our Charisma
+is very
+low and then finally at character level
+12 we get our second feet U if you are
+finding that you are not missing your
+attacks at all uh you can spend this
+feat on something like alert to let you
+move some initiative gear to another
+character or guarantee that you go
+before even the fastest enemies in the
+game um Elemental adapt can let you uh
+ignore resistance to lightning but there
+are very few enemies that actually um
+have have pierceable resistance to
+lightning in that game um but uh
+Elemental adapt for lightning does give
+you uh um the ability to uh to avoid
+rolling ones which of course is very
+helpful so if you aren't missing your
+attacks then I would recommend Elemental
+adap or alert if you are still finding
+that you sometimes Miss then of course
+you can just boost your intelligence up
+to 20 probably you're just going to use
+hit chance gear um and go ahead and take
+Elemental Adept to uh grab lightning
+Elemental adaps and just make the
+character a little bit more reliable in
+that way so all of these things work
+together to just make sure that you can
+never fail and that's the only thing
+that we're worried about about the thing
+we're doing is so powerful that if it
+works we always win every combat I mean
+with a level six spell slot and then a
+quickened level five spell slot we are
+doing over uh like almost 600 damage in
+a single round of combat guaranteed um
+so that is enough to kill all but the
+very very strongest enemies in the game
+in a single uh shot and it gets those
+enemies down to like 10% and then you
+kill them with an attack or another
+hasted spell or something um so all we
+want to do is just make sure that we are
+as reliable as possible and remove the
+failure chance uh from this character
+entirely all right that is the one shot
+lightning Lord this character provides
+incredible spellcasting power incredible
+utility and of course blows enemies up
+but it also is going to be one of the
+best characters in the game to use some
+of the best items in the game so let's
+go ahead and talk about itemization for
+items for this character there are not a
+ton that you need specifically but you
+you get to make the absolute best use of
+some of the most powerful items in the
+game and one of the absolutely most
+powerful items in the game you are the
+best user in the game for and that is
+marah hesar marah hesar is the endgame
+staff for wizards and you're the best at
+using it because not only does it give
+you an extra level six spell slot which
+in this case is just one extra enemy
+absolutely obliterated it also increases
+all of your lightning damage and
+remember that we're maximizing and
+doubling our lightning damage gives us
+an additional spell save DC and spell
+attack which all we have to do is hit
+our attacks in order to win and lets us
+cast chain lightning once per short rest
+uh important to note that while they did
+fix the bug that allowed you to um
+twincast witch bolt so you can no longer
+twin witch bolt on multiple enemies and
+have to use chromatic orb instead to
+shoot multiple enemies at once they
+didn't fix the bug where you can
+twincast chain lightning if you cast it
+from marah Hesh Gar so normal chain
+lightning you can't twin uh but marah
+Hesh Gear's chain lightning you can you
+can see we get we get two Targets here
+uh so that allows us to double cast
+chain lightning um every short rest when
+we're using market hesar and of course
+our lightning damage is insane so we
+just obliterate entire encounters with
+that effect um other than that specific
+item for gear for this character in the
+early game I recommend using the buff on
+gal items for this uh character you can
+twincast healing word and are just a
+solid healer overall and so you can help
+buff up your party with items like the
+hell Rider's pride and the whispering
+promise um and then in the late game
+there's really three categories of item
+that we are looking for anything that
+increases our hit chance uh and spell
+hit chance with spells and um spell save
+DC we want to increase so items like the
+robe of the weave and marah hesar are
+very important items that increase our
+initiative are excellent like the fist
+breaker Helm for example and um remember
+that because we're a tempest cleric we
+have access to Heavy Armor and shield
+proficiency so this character can
+actually be quite tanky if you're
+wearing uh good midgame armors include
+the adamantine splint and the Dwarven
+splint mail and then of course you can
+wear a shield you have a pretty decent
+Armor class um so even despite your
+relatively low hit points you're
+reasonably tanky and hard to kill then
+of course in the late game you probably
+want to transition back to the robe of
+the weave use Mage Armor to stay at high
+armor class um but for the early and mid
+game you are able to be quite
+defensively geared the gloves of
+dexterity are very good on this
+character they let you move these points
+from dexterity into Charisma to give
+yourself um dialogue skills so if you
+want this character to be your party
+face then you can do that using the
+gloves of dexterity they also give you
+uh bonus to your attack roles which is
+very important for landing your shots
+and bonuses to your critical hit chance
+are also extremely valuable for this
+character because um while we can use
+ways that to guarantee criticals like
+the Killer's sweetheart ring and the
+elied power luck of the far Realms um
+increased chance of critical hits also
+allows us to do double damage with our
+lightning powers without even having to
+uh spend those resources if we roll well
+on critical hits so you can equip
+something like the Deadshot which just
+increases your chance of critically
+hitting in your bow slot a slot that you
+don't really use overall in order to
+maximize the power of this character by
+increasing the chance of of critical
+hits so to sum up in the early game
+Heavy Armor and shields to stay uh tanky
+and then in the late game just anything
+that increases your hit chance spell
+save DC and initiative in order to
+guarantee that you go before enemies and
+then of course you use marah Hesh gear
+to just obliterate big groups of enemies
+in combat also for combat strategy for
+this character remember that you are a
+fully functional wizard we have six
+level wizard spell slots and we can
+learn uh we have full spell casting we
+can learn basically every spell in the
+game from Scrolls so keep an eye out for
+lightning spells uh like lightning bolt
+and chain lightning as well as the most
+powerful wizard spells in the game to
+make sure that you can win fights with
+them like globe of invulnerability is
+very important um overall you are an
+extremely potent spellcaster if there
+are enemies that you can't kill with
+your lightning combo then you can
+twincast haste uh to let your party
+members take care of it very very easily
+so you always have options because
+you're just a fully functional wizard
+you're not reliant on the combo a
+question I get a lot about this
+character actually is doesn't it work
+only like once per short once per long
+rest because you have to spend your
+level six spell slot and the answer is
+no it's actually got more longevity than
+other spellcasters because you do all
+the the things that they do so you
+always have the option to take fights
+normally but any fight where it's better
+to just kill the enemy in a single shot
+you also have that option so you always
+have the ability to take the least
+resource intensive option uh for any
+given fight and make use of that finally
+for elied powers for this character uh
+the most important one is luck of the
+far Realms I do recommend that this
+character be your elied powers user
+you're one of the best in the game at
+doing that and if you get favor
+Beginnings to guarantee that you hit
+your shots remember that the first
+attack roll that you're making is almost
+certainly the last attack roll you're
+making against a given enemy because
+they'll be dead afterwards so favorable
+Beginnings is just a huge bonus and luck
+of the far Realms lets you guarantee
+Critical Hits to obliterate enemies
+immediately all right my friends I hope
+that you've enjoyed this look at the one
+shot lightning Lord uh still an amazing
+character and definitely worth uh a spin
+in honor mode I guarantee it will make
+your mode runs go smoother cuz you won't
+have to face a lot of the most dangerous
+enemies in the game and if you have
+enjoyed the video then please feel free
+to leave a comment uh and hit like helps
+me out of t with the algorithm and of
+course you can subscribe to my channel
+for more balers Gate 3 builds and other
+strategy game analysis cheers my friends
+I'll catch you next time

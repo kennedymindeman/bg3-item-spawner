@@ -1,0 +1,2015 @@
+Hello my friends and welcome back to
+another Balders's Gate 3 full party
+building guide for honor mode. Hope
+you're all doing well. Today we're
+covering the best no rest party in
+Balders's Gate 3. So this party operates
+entirely without ever needing to rest
+either short or long with no important
+cooldowns, resources, or abilities tied
+to resting. So you simply never have to
+think about what to do next because the
+answer can always be keep going and
+going and going. Whether you want to
+literally never rest for a challenge run
+or just minimize resting to preserve
+dayong buffs or avoid having to think
+about resource management, this party
+gives you all the tools that you need to
+win fights every single fight forever.
+Each build is very powerful in its own
+right, and when combined, they form an
+even more powerful and synergistic hole
+with everything that you need to
+dominate honor mode without ever
+stopping. Just like all of my other
+honor mode party guides, this part is
+designed to work together extremely
+naturally. We cover all of the skills
+that you need and uh utilities that you
+need outside of combat across the
+builds. There are no overlapping item
+requirements. In fact, for this
+particular party, there are very few
+specific item requirements at all. And
+we don't need any specific story
+choices. You can use them with any
+companions. So, no matter how you want
+to play your run, you can use this party
+to do it. Before I begin, I do want to
+take a quick moment to say thank you so
+much to eight databits for the $2
+donation, Ryantology for the $20, AON
+for the $10, Wanda Husbando for the £5,
+and EK and Courtney for becoming channel
+members. Thank you so much, my friends.
+I really appreciate the support. It
+really means a lot to me. All right,
+let's just keep on going. So, let's take
+a second to talk about why you might
+want to play a No Resting Party. So
+obviously for an experienced player that
+can be an interesting challenge run
+trying to complete the game with no
+rests or as few rests as possible. But
+for a newer player, this party is also I
+think pretty attractive and very
+powerful because by virtue of building
+without cooldowns or long rest resources
+that you need to manage. It takes a lot
+of the burden away from the player.
+These builds are powerful and extremely
+consistent and you don't have to make a
+lot of complicated decisions in order to
+play them. they will always just work.
+Rather than having to choose between 200
+different spells, you just get builds
+that are always going to be powerful.
+So, if you're a little newer to the game
+and intend to play through the game
+while still resting and stuff normally,
+this party can still be an excellent
+choice because it just gives you a lot
+less complexity that you have to stay on
+top of while still being incredibly
+powerful in every combat. Let's start
+with our first build, which specializes
+in overwhelming upfront damage. With
+this character in the party, the most
+dangerous enemy in every encounter will
+start the fight dead, which will make
+the subsequent fight significantly
+easier. As always, I'm going to be going
+over these builds uh in the video, of
+course, but I will also link in the
+description to the full build guide for
+each of these characters. So, if you
+want more detail on any of these builds,
+definitely go check those out. This
+character is going to be a classic gloom
+assassin, a gloom stalker, ranger,
+assassin, rogue multiclass who can just
+delete enemies at the beginning of every
+fight. Normally, you would start with
+rogue here in order to get extra skills,
+but we're going to cover those with a
+different character in this party. So,
+this character is going to start with
+ranger to maximize our combat power as
+soon as possible. So, level one, we're
+taking ranger. For our favorite enemy
+pick, we're going to take Ranger Knight.
+Ranger Knight is uh useful in some cases
+where there's a couple pieces of heavy
+armor that we might be interested in
+throughout the game. Mostly the reason
+that we're taking this though is because
+none of these others particularly do
+anything for us. For natural explorer,
+we're going to take wasteland wanderer
+fire. Fire damage is the most common
+damage type in the game. So having
+resistance to it makes this character
+significantly most common elemental
+damage type in the game obviously. So
+having resistance to it makes this
+character significantly harder to kill.
+For our ability score selection, this
+character only cares about having
+dexterity as well as hit points and some
+saving throws. So we get to get away
+with the greediest possible attribute
+split in the game. We're going to start
+with 17 dexterity, 16 in constitution,
+which will increase our hit points
+dramatically, and then 15 wisdom.
+Obviously, we're going to even out these
+odd numbers later on. If you want to,
+you can start with 12 strength for a
+little extra jump distance and carry
+weight in the early game um and and
+start like so and then switch to this
+attribute setup later on with a
+respspec. But respspecking is also
+resting, so I'm going to present these
+builds to avoid respspeing as well. This
+character just keys everything off of
+dexterity, so we just want that to be as
+high as possible. For our skill
+selection here, there aren't any uh
+particular skills that we desperately
+need other than stealth. This character,
+of course, is going to um try to kill
+enemies from stealth frequently. So, you
+definitely need to pick stealth, and we
+will later get stealth expertise when we
+take levels in rogue. This character
+also can provide perception. As a
+ranger, we get access to it. We've got
+good wisdom, which we will increase as
+we continue to go through the game. So,
+this can be our trap finding character
+as well. And then for your last skill
+selection here, it doesn't really matter
+what you pick. So you can pick whatever
+you want for flavor or take athletics or
+acrobatics to make you a little harder
+to shove around if enemies try to push
+you. That's it for level one. Let's keep
+going. At level two, we're continuing to
+take levels in ranger. And as a an
+archer, we're going to of course take
+the archery fighting style. This gives
+us a plus two bonus to hit, which will
+offset our sharpshooter penalty and also
+just make us significantly more
+dangerous, especially in the early game.
+Archery fighting style is incredibly
+powerful, so a real draw to having an
+archer in your party. For our spell
+selection here, we're going to take two
+ritual spells, which don't require spell
+slots to cast if used outside of combat.
+With enhanced sleep and longstrider, we
+get these spells. Um, enhanced sleep you
+can cast before combat starts on your
+party to give them extra mobility. Long
+strider you can cast on everyone at the
+beginning of the day. Since you're not
+resting, that day will last forever. So,
+you'll always have the long strider
+buff. But this is basically a way to get
+huge amounts of value from your ranger
+spell casting even though you can never
+refresh the spell slots because you're
+not spending them in the first place.
+Level three, we get to choose our
+subclass. And the subclass that we're
+going to pick is, of course,
+Gloomstalker. Gloomstalker Ranger gets a
+plus three bonus to initiative, which is
+awesome. This is an incredibly powerful
+ability. And it means that we can safely
+skip alert on this character with the
+plus three with high dexterity, of
+course, from being an archer and from uh
+initiative bonuses from our gear. That
+will give you plenty to win initiative
+every time in honor mode. And then you
+also get an additional attack on the
+first turn of every combat. The tool tip
+doesn't say it's an extra attack, but
+it's a whole extra free attack and extra
+movement speed. This is part of how
+we're going to just delete enemies right
+away. We can also hide as a bonus
+action. So, we can do that and then
+immediately disappear again. Make sure
+that we're making all of our attacks
+with advantage. Uh, for a spell
+selection here, there are no more ritual
+spells that we're super interested in.
+You can take something like speak with
+animals if you want to or you can pick
+hunter mark and just try to maintain
+concentration on it as long as possible.
+If you are literally never long resting,
+this will eventually go away. If you are
+long resting only occasionally, then uh
+the hunter's mark you can just use and
+because you can concentrate on it as
+long as you want until you lose
+eventually lose concentration on the
+spell from taking damage, it will last
+for a very very long time. So, you can
+still get good value out of Hunter's
+Mark, even if you're resting very
+infrequently.
+Character level four, we're going to
+take our first feat. And of course, as
+an archer, the feat is going to be
+sharpshooter. Yes, this does come with a
+to-h hit penalty, but remember, almost
+all of our attacks are going to be made
+with advantage because we can hide as a
+bonus action. So, our first attack is
+always going to be from stealth. And uh
+we have the plus two bonus from the
+archery fighting style. ble to offset
+that. You can use high ground and stuff
+like that to gain the extra hit hit
+bonus. And the plus 10 damage is an
+incredibly large boost to our damage,
+especially because we're getting that
+two times over thanks to playing a Gloom
+Stalker Ranger. So, sharpshooter is a
+massive DPS increase.
+Level five, we're taking our fifth level
+of Gloomstalker Ranger, and that gets us
+extra attack. Obviously, this doubles
+our damage output or increases it by 50%
+in the first round of combat when we
+already had two attacks. Um, which is an
+incredibly powerful addition to our
+build and will let us just delete
+enemies early on. This character is at
+this point extremely consistent. We just
+do solid constant excellent damage, but
+we're also going to add even more burst
+damage as we continue to level up. For
+our spell selection at this level, we
+get yet more value from picking ritual
+spells because we can take silence. It's
+not mentioned anywhere in the tool tip,
+but silence is a ritual spell. So, if
+you cast it before combat starts, it
+doesn't cost you a spell slot as long as
+you use it outside of combat. This can
+fully shut down enemy spellcasters,
+especially if you have a way to keep
+them in place, which later on this
+character and several of our other
+characters will. So, silence can be an
+incredibly powerful tool against enemy
+spellcasters. It's also really good in
+honor mode because there's a lot of
+honor mode bosses that have legendary
+actions that require them to make some
+sort of noise, which silence prevents.
+So, uh even though we're not picking
+spells that um you need to cast in every
+fight and then rest to refresh, you
+still get a lot of value out of this
+rangers spellcasting.
+At character level six, we've gotten
+most of what we need from Gloomstalker
+Ranger now that we have extra attack at
+this point. So, we're going to
+multiclass and we're going to take our
+level of rogue. This gets us sneak
+attack, which lets us do an extra d6 of
+damage once per turn. Um, which doesn't
+sound like a lot at this point in the
+game, but every little bit counts. The
+whole point of this character is 200 to
+zero important targets before fights
+even begin. So even that little bit of
+extra damage can make the difference
+between leaving an enemy alive and
+killing them outright. It'll also later
+be doubled when we get the automatic
+critical hits from our assassin rogue
+levels. We also get uh expertise and in
+two skills and an additional skill
+selection here. Now obviously one of the
+skills we're going to do is we're going
+to put expertise in stealth. The other
+one doesn't matter as much. You could
+learn slight of hand and then put
+expertise in it. will already have
+another character with slight of hand
+expertise, but having a backup
+lockpicker and disarming character is
+always useful. You could put expertise
+in another skill entirely if there's
+something else that you want. Expertise
+and perception also makes this character
+really good at finding trap finding
+traps and hidden things. So, that's
+another option as well. Um, this one is
+a little more open to how you want to
+play the character.
+character level seven, we get our second
+level of rogue, and that gets us cunning
+action dash and disengage. We already
+effectively have cunning action hide
+from our gloomstalker level, but being
+able to dash as a bonus action gives us
+a ton of mobility, it means that this
+character is extremely safe to play.
+Combined with our high constitution and
+damage resistances that we're going to
+keep getting as well. Um, it's very hard
+and good armor class, it's very hard to
+take this character down. And being so
+mobile, we can get out of fights that
+are going badly if such a thing ever
+happens to you. At level eight, we're
+going to take our third level of rogue,
+and we get to choose our rogue subclass.
+Of course, the subclass that we're going
+to pick is assassin rogue, which gives
+us um advantage on attack roles that
+against enemies that haven't taken a
+turn yet, which means basically
+advantage on all of our attacks because
+most enemies that you're facing with
+this party simply won't get a turn at
+all. You're going to win initiative and
+kill them before they ever act. We also
+get any successful attack against a
+surprised creature is a critical hit.
+So, on the first round of combat, you're
+going to be trying to start most of your
+combats from stealth in order to get
+these guaranteed crits, and this
+character will simply just delete
+enemies. We have three attacks in the
+opening round of combat, cuz we get an
+extra one from Gloomstalker Rogue. Three
+automatic critical hits with a very high
+damage character like this one is enough
+to just delete most enemies and remove
+all of their hit points. Um, then we
+also when combat actually starts get to
+go again. So you can use your attack uh
+from stealth to hit an enemy, roll into
+combat, and then go again with automatic
+critical hits. So you're just going to
+obliterate enemies cuz we effectively
+get multiple turns at the start of
+combat if you use this character's
+abilities to enter combat. Most
+characters will have used their action
+when they attack in order to roll into
+the initiative order. this character
+gets that back and can just do the whole
+thing over again, doubling your damage
+output in the opening turn. At this
+point, for a normal gloomstalker uh
+assassin build, we would start taking
+levels in battlem fighter because you
+would want the ability uh for action
+surge and the battlem maneuvers to
+increase your damage even further. Those
+require you to rest though. So for this
+version of the character, we're just
+going to keep leveling in rogue and
+ranger in order to get multiple feats
+and to level up um as smoothly as
+possible. So we're going to take our
+fourth level of rogue here and we'll get
+an ability improvement. We'll take a
+point in dexterity and a point in wisdom
+to even out these odd numbers. And now
+we're hitting in uh more accurately and
+doing even more damage. Then
+it's back to ranger because again we
+want to get another feat uh very
+quickly. So we get another favored enemy
+pick. Of course here we're going to take
+mageer so we can get true strike and
+annoy people in the YouTube comments.
+And we also get to have wasteland
+wanderer with resistance to cold damage.
+Cold is the second most dam uh common
+damage type um for elemental damage
+after fire. Though poison is also useful
+uh depending on what encounter
+specifically you're coming up to next,
+but cold is going to generally be more
+useful in act three. So I prefer getting
+these two.
+Ranger level seven as a gloomstalker
+ranger. We also gain proficiency in
+wisdom and intelligence saves which
+makes this character extremely
+resilient. were already really hard to
+kill with physical damage. Good AC, lots
+of hit points, uh, resistances to
+various elemental damage types. This
+makes us incredibly hard to control with
+damaging effects. So, it makes this
+character very, very safe. We also get
+another spell. Um, what spell you pick
+here mostly doesn't matter. There's just
+not any that you're going to be using
+significantly. Though, you can
+concentrate on pass without trace until
+long rest. It will, as long as you
+maintain concentration, give you a huge
+stealth bonus.
+Finally, at ranger level eight, we get
+land stride for difficult terrain, which
+is pretty useful for maneuvering around,
+and we get another feat. Here, we're
+just going to take an ability
+improvement and max out our dexterity to
+max out our accuracy and damage with our
+bow shots. And that's the first
+character, of course. Let's talk about
+items next. For this character's items,
+we really only need a few things. We
+need a good bow. We need to maximize our
+damage with that bow and we need to not
+die. So for our weapon, we're going to
+be using the Titan string bow alongside
+an elixir of hill giant strength. The
+Titan string bow adds your strength
+modifier to your damage. So the elixir
+lets you uh increase your strength and
+get plus five damage on all your shots.
+Since we're not going to be resting, the
+elixir will last forever, making it
+basically a permanent buff. So you don't
+even need to stockpile elixir with this
+build. If you really hate using elixirs
+at all, you can use the bow of the
+banshee early. This gives you some extra
+um crowd control in the early game and
+also is going to deal more damage
+because we have other characters that
+are providing fear as well. So that's
+some nice synergy also. Uh and then in
+the late game, you can swap to ga male.
+This setup will do a little bit less
+damage than the titan string bow setup,
+but is another great option. We also of
+course want to increase our damage when
+we fire these bows. So, we're looking
+for items like the gloves of archery
+that make you do extra damage. Later on,
+we'll want to swap to something like the
+flawed Helldust gloves that do extra
+damage dice because those will be
+multiplied by our automatic critical
+hits. So, glove slot should be
+increasing your damage. For your armor
+in the early game, you're going to be
+using most likely the graceful cloth.
+The extra dexterity is very important
+for this character. You want to make
+sure you're hitting with your attacks
+and again doing as much damage as
+possible. So, the graceful cloth just
+with the extra decks makes you extremely
+effective of that at that. Uh, you will
+have relatively low AC early game, but
+this is an archer who's playing mostly
+from stealth, so that's not a big deal.
+In the late game, you can swap to a more
+defensive setup like the armor of
+agility, which gives you great saving
+throws and excellent armor class across
+the board. One of the um uncapped medium
+armors like the yuanti scale mill can
+also be a good option, but the armor of
+agility is going to be the best endgame
+setup. for your helmet. The marksmanship
+hat in the early game, again, bonuses to
+your attack roles. And then the late
+game, also bonuses to your attack roles
+with the mask of soul perception, which
+gives you extra attacks and initiative,
+as well as perception checks, which this
+character is doing. So, this bonus,
+which usually is just flavor text, is
+actually relevant for this character.
+Another important setup for this
+character is in the late game
+especially, you can use the snow burst
+ring, which allows you to create an ice
+surface every time you do cold damage
+alongside the draketh throat glaive. Use
+the draketh throat glaive to cast
+draconic elemental weapon um on whatever
+weapon you're using. Make sure you get
+this on the right weapon because this is
+a long rest refreshed ability, but you
+can cast it on whatever bow you're using
+to add cold damage to that. And then
+every time you fire an arrow, it creates
+an ice surface. Enemies are going to be
+falling prone very frequently. So
+combined with the fear effects from
+other characters, this does a tremendous
+amount of crowd control just passively
+every time you shoot your arrows. So it
+makes this party extremely dangerous.
+One of the downsides, of course, of
+playing a no rest party is you don't get
+control spells, but a lot of the builds
+replicate that effect. We're also going
+to add in the strange conduit ring. We
+want damage and bonus damage on our
+attacks. And specifically, we want bonus
+damage that comes in the form of extra
+dice. So, the strange conduit ring um
+will add an extra damage die while we're
+concentrating on a spell. That's very
+powerful for this character cuz damage
+dice are multiplied when you crit and we
+get automatic crits. We're usually going
+to be concentrating on a spell um like
+Hunter's Mark uh because even though you
+will eventually lose concentration on it
+for most parties, if you're resting at
+all, you'll get it back. And if you're
+not resting at all, you can keep
+concentration on it for a long time. But
+also, this character is one of the
+better characters um in if you don't
+want to micromanage trying to stay
+concentrating on Hunter's Mark. This is
+probably the best character to carry the
+silver pendant, which gives you
+guidance. This character, of course, is
+not the one actually making lockpicking
+checks and not the one actually
+performing dialogue checks. So, it's the
+best one to cast guidance. And having a
+concentration cantrip means that you can
+set up the strange conduit ring. So you
+can do extra damage by casting guidance
+on a character, concentrating on it for
+a combat uh because it's a cantrip. So
+you can just keep concentrating and then
+use the strange conduit ring for extra
+damage. We also get a shield on this
+character and you're going to want to
+use the adamantine shield. This
+character is incredibly resilient to
+incoming damage. So having u immunity to
+critical hits is really good for us cuz
+it prevents damage spikes from
+happening. So, the only thing that we're
+really worried about, sudden bursts of
+incoming damage, is prevented by the
+adamantine shield. Finally, uh although
+another character will likely be using
+this in the early game, the knife of the
+under mountain king just gives us extra
+crit chance. So, this character can make
+use of that as well in order to deal a
+little bit more damage passively with
+your melee weapon slot. All right,
+that's build number one. Let's move on
+to build number two. For our second
+character, I've already mentioned that
+one of the challenges for a no resting
+run can be that you lack control
+effects. Without easy access to spells,
+a lot of the traditional ways that you
+would control dangerous enemies aren't
+available or are harder to use for this
+party. However, we can build characters
+that passively and permanently
+crowdcontrol enemies. So, we're looking
+for characters that every single turn
+can apply extremely heavy debuffs or
+brutal crowd control effects to enemies
+without spending anything to do so.
+Enter the great old one warlock. So, as
+a warlock, of course, we get Eldrich
+Blast. And as a great old one warlock,
+when we hit an enemy with a critical
+hit, that creature and nearby creatures
+have to make a wisdom save or become
+frightened. Frightened is a pretty
+brutal debuff because it stops enemies
+from moving. they get disadvantage on
+their attack roles. Um, which means that
+you're just going to defeat melee
+enemies, anything that's not immune to
+fear, as long as you can consistently
+generate critical hits and make enough
+attacks with Eldidge Blast. So, we're
+going to build this character to do that
+and to apply even more debuffs every
+single turn so that we can effectively
+uh destroy everything that enemies are
+trying to do. For our cantrips, of
+course, we're going to take Eldrich
+Blast as this character's main damage
+dealing and crowdcontrol tool. And then
+we're also going to take friends. As a
+charisma based character, this is going
+to be our party face. So, of course, we
+want friends to make us better at doing
+that. Uh, we already know our subclass.
+And so, for our spell selection here, it
+mostly doesn't matter what you pick with
+your warlock spells. We don't get access
+to any ritual spells. So, um, what we
+pick here is going to be somewhat
+limited in utility, unless you're
+resting more frequently with this party.
+So, I'm just going to pick spells as
+though we are resting a little more
+often. Um, so that if you're using this
+party and resting normally, you're going
+to pick the spells that you would pick
+in that case. So, we'll take dissonant
+whispers and hex in order to increase
+our damage output. For our ability score
+selection here, we're going with a
+classic warlock ability split of 16 in
+dexterity, 14 in constitution, 16 in
+charisma, and 12 in wisdom in order to
+maximize our stats as much as possible.
+For our skill selection, ideally with
+this character, you have a background or
+a character that has persuasion. If
+you're using will for this, and it's a
+warlock build, so you may well be, um,
+then he naturally comes with persuasion.
+Uh, but you don't, it's not required.
+Um, you'll be able to pick it up from
+class levels later on, even though
+warlocks can't normally start with it,
+but you can also grab it from a
+background. Otherwise, we're just going
+to put our skill points into as many
+dialogue skills as possible so we can
+handle being the party base.
+At character level two, we're going to
+take our second level of warlock because
+then we get Eldrich invocations here.
+Um, for our spell selection, if you are
+resting more frequently, armor of Agthus
+is the most useful of these remaining
+spells. And then for our Eldrich
+Invocation, of course, we're going to
+take agonizing blast to maximize the
+damage of our Eldrich Blast. And unlike
+a normal Warlock, because we will not be
+able to usually use darkness effectively
+because we can't cast it. So, you're
+relying on arrows and scrolls if you
+want to use darkness. We're going to
+take repelling blast. Repelling blast
+gives us even more crowd control options
+where we can push enemies around. So
+starting with these two is incredibly
+powerful and gives you a lot of
+optionality for how you're going to move
+enemies around the battlefield.
+At character level three, this build
+differs a little bit from how you would
+normally build this character. So of
+course, normally with a warlock, you
+want to level your spell casting as much
+as possible, but for a party that's not
+intending to rest frequently, that's
+much lower of a priority since warlock
+spellcasting requires you to rest in
+order to use it. So, we're immediately
+going to multiclass out of Warlock, and
+we're going to take a level of rogue.
+This is going to let us get more
+critical hits, which means that our
+Eldrich blasts are going to um
+crowdcontrol enemies with the frightened
+condition much more reliably. So, we're
+going to take a level of rogue. We get
+our abilities here, and we get to add
+persuasion if we didn't have it already,
+and gain expertise in persuasion, as
+well as expertise in whatever other
+dialogue skill that we want. So, this
+character can now have, say, persuasion
+and intimidation expertise and be truly
+excellent at passing dialogue skills for
+your party. We're also going to add um
+proficiency in insight. This is useful
+to have as a party face. So, this
+character can now pass most of the
+dialogue checks that you want to roll.
+Another good option for this character,
+by the way, is if you play a gif Yankee,
+you can set your astral knowledge to
+intelligence and be better at
+intelligence checks as well. But the
+most important thing is that now we have
+expertise in all of our important
+dialogue skills.
+Level four, we're going to take a second
+level of rogue, which again gets us
+bonus action hides and dashes, which for
+a range spellcaster are incredibly
+strong. And this whole party can operate
+from stealth very easily since we have
+lots of characters who are excellent at
+making stealth checks. Now, this
+character, you can also take stealth
+expertise. You're probably not going to
+be rolling stealth that frequently on
+this character, but it is an option as
+well.
+Then at level five, this character is
+also going to take assassin rogue, but
+for a very different reason than the
+gloomstalker ranger. We still of course
+get our automatic critical hits against
+surprised enemies and we're going to
+start most of our fights from surprise.
+But instead of being worried about the
+damage, although the damage is also
+really good on this character. The
+reason we're doing this is cuz we're a
+great old one warlock. Every time we get
+a critical hit, which we'll now get
+automatically, we frighten the enemy and
+everything near them. So, this character
+is going to be automatically passively
+crowdcontrolling entire encounters just
+by firing its Eldrich blasts, which is
+something that you want to do anyways.
+At character level six, we're going to
+take our fourth level of rogue. And this
+is just so that we can get a feat as
+quickly as possible. Going up to level
+six without a feat has been somewhat
+difficult, so we're going to grab that.
+Now, the feat we're going to take is
+alert. this character doesn't get
+natural bonuses to its initiative and
+you want to always go before enemies so
+that you get your automatic crits from
+assassin. So, we want to make absolutely
+certain that we pick that up right away.
+One of the things I really love about
+this no resting restriction is that it
+actually makes builds like this more
+creative. Normally, we would be forced
+to level with warlock um at least up to
+level five and get third level warlock
+spells, but when you don't uh prioritize
+those, you can do more interesting
+leveling orders like with this build.
+At level seven, we're going back into
+warlock and taking our third level of
+warlock, and we get a pack boon, which
+lets us add a new dimension to the
+character. Um, this character can
+benefit from taking pact of the blade
+because we can also uh as our spell take
+shadow blade and this is going to give
+us a pretty powerful tool for attacking
+in melee. So, while we will still prefer
+to sit at range, use Eldrich Blast to
+crowdcontrol enemies when you want this
+character to step up and do more damage,
+having a shadow blade with pack of the
+blade can be extremely powerful for
+increasing our damage output. And since
+Shadow Blade lasts until long rest, you
+don't have to worry about the the spell
+slot expenditure. You only ever need to
+cast it once.
+At level eight, we're going to take
+Warlock level four, getting another
+feat. And now that we can attack in
+melee, we can take Booming Blade, which
+of course increases our melee damage
+even further when we want to do that.
+We're also going to get another spell
+here. It mostly doesn't matter what you
+pick. Again, um for a character that is
+not resting, none of these are going to
+be particularly powerful. But you could
+take hold person for example, if you are
+resting a little more frequently, that
+is going to be the
+that's going to give you even more
+guaranteed critical hits, which is
+pretty strong. Remember that with
+assassin rogue and the um shadow blade
+and booming blade, you get guaranteed
+crits with those melee attacks as well.
+So, you can also just get enemies dead
+in addition to hitting them with a fear
+effect. We also get a feat here. So,
+we're going to take an ASI and boost our
+charisma. Of course, this character
+wants to increase its charisma as much
+as possible. It's also worth mentioning
+for this character that this is the
+character that would use Ethel's hair.
+You would take um 17 starting charisma
+and 10 starting wisdom. And so, this
+character can benefit from that to
+squeeze out extra charisma as well.
+At level nine, we're going to take our
+fifth level of warlock because that gets
+us deepened packed. So now we get an
+extra attack, and that makes us a pretty
+dangerous melee threat um with our
+guaranteed criticals when starting
+combats. This character can output an
+absurd amount of damage at the beginning
+of fights. Alongside all the crowd
+control that we're getting as well, we
+also get a spell here. Uh what spell we
+pick here again mostly doesn't matter.
+Although if you're even if you're never
+resting, having one emergency counter
+spell in your back pocket can sometimes
+still be useful. Um, so that's what I
+would select. Or you can take something
+like hunger of Hadar or more traditional
+warlock spells if you're planning to
+rest more frequently. For Eldrich
+Invocations, we actually have a bunch of
+choices here. This character again is
+not going to use Devil's Sight um super
+effectively because we're not casting
+darkness. Although of course you can
+still you you can still take devil's
+sight and use scrolls and arrows in
+order to uh have this character use
+darkness. Still very powerful. But we
+actually unlike most other warlocks get
+to choose other Eldrich Invocations and
+have them be good. Fendish vigor for
+example is just seven extra hit points
+for this character. Mask of many faces
+makes us better at being the party face
+cuz we can disguise oursel. And even one
+with shadows is actually pretty nice for
+this character. becoming invisible um as
+long as we stand still is pretty good
+for surprising enemies. So any of these
+are cool options that you don't normally
+see on Warlock builds. So I really like
+the fact that we can take those. You can
+also take uh beast speech if you want
+speak with animals though. You can of
+course just get that from a potion. I'm
+going to take one with shadows cuz you
+almost never see this and it's just neat
+that this character can actually make
+such good use of it.
+At level 10 for this character, we
+actually have a fairly interesting
+choice. If we're boosting our charisma
+using the mirror or Ethel's hair or
+other sources of increases to our
+charisma, which is the most important
+thing for this character, then we can
+take three levels of champion fighter to
+get increased critical hits. Um, so that
+in subsequent turns or in fights where
+it's not practical to surprise enemies,
+you can still get uh pretty frequent
+critical hits and hit them with fear.
+For this version of the build though,
+we're just going to take another level
+of warlock that gets us entropic ward,
+which can help defend you. Imposing
+disadvantage on an attack against you
+can be a pretty useful reaction to keep
+yourself alive in melee and the extra
+advantage on attacks against enemies can
+be useful as well. So, it gives this
+character, which is otherwise somewhat
+squishy, a little bit of resilience. For
+our spell selection here, we're just
+going to take normally powerful warlock
+spells.
+and then go to level seven where again
+we get higher level spells. Again, these
+mostly don't matter. Um, you could take
+something like dimension door, which is
+the most likely to be a like once per
+game emergency panic button that you
+might need. And then you get an Eldrich
+Invocation. Normally, we would be taking
+these types of spells uh that give you
+extra um these types of things like
+dreadful word, but for this character,
+we want to take the passive or permanent
+benefits, things like fish vigor,
+devil's sight, or mask of many faces.
+Finally, at level eight uh or at level
+12, warlock level 8, we get to take
+another feat. So, we get to choose
+another spell. Again, the spell
+selection here mostly doesn't matter,
+though I will pick powerful spells like
+fear in order to show what you would
+take if you were building this character
+normally. Um, and then finally, we get a
+last feat in order to boost our charisma
+to maximum. The alternative if you have
+maximum charisma is that you will get
+your champion fighter bonus critical hit
+chance at this level, which does apply
+to Eldrich Blast, so it makes fears more
+powerful. For items for this character,
+we want to maximize the damage of our
+Eldrich blasts because that's going to
+be our main attack that we're using
+almost every turn. And we want to
+increase the number of crowd control
+effects that every Eldrich Blast applies
+as much as possible. So, to start, the
+best in slot uh chest item for this
+character is the potent rogue. Now, this
+does require a specific story choice, so
+not every build will have it, but if you
+do have it, it's going to increase the
+damage of your Eldrich Blast
+significantly. Alternatively, you can
+just use any robe with a bonus to your
+spell save DC or in the late game, this
+character is a great candidate for the
+hell dusk armor. Although we don't have
+heavy armor proficiency, this gives you
+automatic proficiency and it makes this
+character significantly tankier. So, you
+can run up into melee um in order to do
+damage with impunity. In addition to
+that, we want to stack as me as much
+crit chance as possible so that we get
+our mortal reminder critical fears as
+often as possible. So, this character is
+going to use the Deadshot um in its
+ranged weapon slot in order to increase
+your critical hit chance. And weapons
+like the Knife of the Under Mountain
+King. You're probably using that in the
+early game for this character. And then
+uh later, the uh Bloodthirst Dagger can
+increase your critical hit chance. Also,
+the Shade Slayer Cloak. Anything that
+boosts your crit chance is really good
+for this character. Alternatively to
+those weapons, Rap City is a very good
+option. You can still dual wield
+alongside the knife of the under
+mountain king and gain bonuses to your
+attack rolls, damage, and save DC, which
+is very powerful because a lot of our
+effects key off of save DC. Or you can
+also use Marahesh gear. Now, normally
+the bonuses from Marahesh gear are uh
+not that powerful for this type of
+character or wouldn't be that powerful
+for a character that doesn't rest uh
+ever because its abilities come back on
+a long rest. But Maraheshir gives us the
+option to set Caresca's favor to bone
+shaking thunder, which means that every
+single spell attack that we fire also
+inflicts two turns. It says one turn
+here, but it's actually two turns of
+reverberation. So, we get extra
+reverberation with every attack.
+Reverberation, when you stack it up,
+deals thunder damage and knocks enemies
+prone. So, that's yet more crowd
+control. And enemies who are frightened
+and prone skip their turn because they
+can't move. uh in order to get back up.
+To stack on top of that, we can add the
+boots of stormy clamor and the gloves of
+belligerent skies because we're going to
+be doing radiant damage as well as
+inflicting conditions constantly. So, we
+we will be adding reverberation to every
+single attack with these items. And then
+the coruscation ring and the callus glow
+ring in order to do radiant damage.
+Callus glow ring's damage is radiant and
+the coruscation ring inflicts radiating
+orbs. So then we're stacking radiating
+orbs. We're stacking reverberation.
+We're hitting enemies with fear. So,
+we're knocking them prone, giving them
+huge stat penalties. And in addition,
+we're doing constant great damage at
+range. Or if we need to, we can cast
+shadow blade and wade up into melee. The
+ring of spiteful thunder is another good
+alternative because we will be doing
+thunder damage by just uh procking our
+reverberation, especially if we have um
+uh Marahesh gear. And then uh the
+birthright hat gives you more charisma,
+which is what this character needs most.
+So that's going to be a great helmet
+option. And of course, if you're walking
+into melee with shadow blade, which does
+psychic damage, then the resonant stone
+will give you uh will give enemies
+vulnerability to psychic damage. So it
+will double all the damage that you're
+doing. An enemy who's vulnerable and
+receiving an automatic critical hit from
+a shadow blade attack is of course dead
+instantly. So, the fact that this is an
+assassin character who gets to use
+vulnerability and um automatic criticals
+means you can just blow up any enemy
+who's not immune to psychic damage
+throughout all of act three with your
+melee attacks. So, you get great crowd
+control all of the early uh levels and
+then at later levels, you become an
+incredibly dangerous melee assassin.
+I also almost forgot to mention one
+other extremely powerful item for this
+character, the spine shutter amulet. Of
+course, we're dealing damage with range
+spell attacks all the time with Eldrich
+Blast. So, this is going to stack up six
+reverberation with just one cast of
+Eldrich Blast cuz it gives you uh stacks
+per beam. So, the Spine Shutter Amulet,
+of course, is amazing, especially when
+combined with all of our other debuffing
+tools. For our third character, we
+already have incredible upfront damage
+at the beginning of encounters to kill
+specific dangerous enemies, and we've
+got awesome repeatable crowd control to
+lock everything down. What we're missing
+at the moment is consistent damage
+output so that we can keep dealing
+damage turn after turn after turn.
+There's a lot of characters we could
+slot into this role, but the one that
+just does this the best is the Eldrich
+Nightthrower. This character is just the
+most reliable character in Boulders's
+Gate 3. It always gets the job done.
+Every single turn. It deals amazing
+damage output that almost never misses.
+So, the Eldrich Knight Thrower just adds
+that increased element of consistency
+that makes this party even stronger. Of
+course, to make this build, we're going
+to start as a fighter. Um, and for our
+fighting style, you actually have a
+couple options here. You can take
+defense, which is just the best uh
+passive option. Just makes the character
+even harder to kill, which of course you
+already are being a fighter. Um, or you
+can even take protection fighting style.
+If you pair this with one of your ranged
+characters in the backline, then when
+that character gets attacked, protection
+fighting style does let you defend them.
+This character will al always be using a
+shield. So, this is an option as well. I
+think defense is a little stronger, but
+protection is very fun. So, I like
+recommending it on characters where it's
+good. For our ability scores here, you
+have two choices. Since this character
+is strength-based in Balders's Gate 3,
+you can always replace your strength
+score by drinking an elixir of hill or
+cloud giant strength. On a low or no
+resting party, these elixirs last
+basically forever, so you don't need to
+stockpile a huge number of them. So, we
+could take eight starting strength and
+then replace that with an elixir. We
+don't need to do that, though. So, I'm
+going to recommend taking 17 starting
+strength, 16 dexterity,
+and 14 constitution, as well as 10
+wisdom. Um, and then we will increase
+these stats even further with our
+abilities. You can though, if you want
+to, uh, start with eight strength and
+replace that with a strength elixir and
+raise your other attributes, especially
+your wisdom, which will increase your
+mental saving throws a little bit more.
+Uh but this uh starting with 17 strength
+gives us some feet options that we
+wouldn't otherwise have. The only
+important skill for this character is
+athletics, which of course Lazel starts
+with. So that's the only one that you
+need to pay attention to. Um and other
+than that, we're just moving on to level
+two.
+Fighter level two, we get action surge,
+which of course is a short rest ability.
+Now, if your plan is to minimize long
+resting, then you'll still use action
+surge in important fights. If you're
+never resting, then this ability won't
+come up. Um, but either way, we're going
+to move on to level three and we we get
+to take our fighter subclass, which is
+going to be Eldrich Knight. Now, you
+could take champion fighter here. It has
+passive abilities, whereas Eldrich
+Knight do have uh Eldrich Knight spells
+do have some cool downs. But, War Magic
+is such a powerful ability for getting
+extra attacks that the Eldrich Knight
+Thrower, I think, is still the optimal
+way to build this character, even if you
+don't use any of its spell-casting. Of
+course, we get two cantrips here. So,
+one of these is always going to be
+booming blade. This is required for this
+character because that's how we're going
+to easily trigger war magic where when
+we cast a cantrip, we can then make a
+bonus action attack. Um, which we'll get
+at later levels of Eldrich Knight. So,
+this character can make one melee attack
+and then follow it up with a bunch of
+throwing weapon attacks. Remember,
+you're still a fighter, so your melee
+attacks are still really good. We'll
+also pick up Mage Hand. Uh, it's nice to
+have this in a party. So, this character
+or excuse me, we'll pick up minor
+illusion. Um, every party should have
+this. So, this is going to be the
+character that's going to run it. Uh,
+because uh then you can group up enemies
+in order to hit them with like a grenade
+explosion or something like that or lure
+them apart for your assassins to pick
+them off one by one. For our spells
+here, we're going to take mage armor.
+This is a great way to get a uh
+long-term benefit. we can cast it on our
+warlock who's going to be in a robe and
+that will increase their armor class.
+So, you don't need to use scrolls in
+order to get that effect. For our uh
+second spell, you don't really need
+anything in particular. You could take
+protection from good and evil and just
+concentrate on this spell forever if you
+want to. Um, but probably you are not
+casting other spells. For our expanded
+spell list here, we're going to take a
+ritual spell of some kind. So, I
+recommend find familiar. This is also a
+ritual and this gives you a hugely
+important tool. So, find familiar just a
+very powerful spell overall that doesn't
+cost a spell slot.
+Character level four, we get um
+additional spells. And these mostly
+don't matter how outside of the ritual
+spells, you're not going to be casting
+your spells here, though you can take
+shield for a panic button. And if you're
+resting more frequently, then you will
+want to adjust your spell selection a
+little bit. Uh and then for our feet
+selection here, we are going to take
+Tavern Brawler. Of course, as a throwing
+weapon character, Tavern Brawler doubles
+our strength bonus to our throwing
+weapons as well uh to our damage and
+attacks, which is what makes this
+character function and makes them so
+incredibly reliable and deal such high
+damage. We also get to add a point here,
+so we can even out our strength bonus
+going up to 18 strength, meaning that we
+have a plus eight bonus from our
+strength to hit and to damage on every
+throwing weapon attack that we make.
+Level five, we get extra attack, but
+nothing else particularly important. No
+decisions to make here. Extra attack,
+though, obviously doubles our damage.
+Character level six, as a fighter, we
+get another feat. And the feat that
+we're going to take here is, of course,
+alert. As always, we want to go before
+all of the enemies so that they get as
+few turns as possible. So, this
+character wants to win initiative. Since
+we do such high damage, so important to
+go first. And again, this party is
+designed to um win combat before enemies
+get to go. All of these characters get
+super high initiative in order to
+facilitate that.
+Eldrich Knight level seven, we get the
+feature that I have talked about
+previously, war magic. After you've cast
+a cantrip, you can make a weapon attack
+using a bonus action. And this, of
+course, is incredibly powerful because
+we can use booming blade as our cantrip
+in order to attack an enemy in melee.
+And then with our remaining attacks, we
+can throw our weapons. Remember that
+this character can still fight in melee,
+although we prefer to throw our weapon
+uh because Tavern Brawler is just so
+incredibly powerful. Um, you can still
+just make melee attacks. We're still a
+fighter with a big honking two-handed
+weapon probably, so you can deal a lot
+of damage. And booming blade damage of
+course is very high as well. And it
+triggers an extra attack every single
+turn of combat. We also get to pick a
+couple spells, but these don't matter.
+Um, none of these are ritual spells, so
+we're not going to be spending our spell
+slots on them cuz we can't refresh
+those.
+Character level eight, we get an
+expanded spell pick. And here we're
+going to pick a spell that you almost
+never see uh me suggest and that I rated
+D tier, but for this particular party is
+actually somewhat useful because we're
+going to take C invisibility. The only
+reason we're taking this is that it's
+some benefit that we can get out of our
+level two spell slot cuz it lasts until
+long rest and doesn't take concentration
+or anything. So you just have the sea
+invisibility effect sort of passively
+when you select it with your Eldrich
+Knight. We're also going to get a feet,
+which is much more important. And for
+our feet here, we're going to take
+athlete. This way, we can boost our
+strength by one, and then we can boost
+it by one again with heavy armor master.
+And that will let us hit 20 strength
+while also gaining increased jump
+distance. This character becomes
+incredibly mobile with the extra jump
+distance from athlete. Um, so we will
+now be able to go all over the
+battlefield. And again, a theme of this
+party is that we have tremendous
+mobility. So, even though we have
+somewhat fewer options in terms of spell
+casting than other parties, we have lots
+of options as to where and how we take
+fights.
+Fighter level 9, uh, we get indomitable,
+which again makes us a little bit harder
+to take down cuz we can roll our saving
+throws, but there's no particular
+decisions that we have to make. And then
+at fighter level 10, uh, we get Eldrich
+Strike, which again is fairly useful. We
+will be hitting enemies with weapon
+attacks in melee. Um, and that will give
+them disadvantage on our next effect.
+It's not just spells, but any effect
+that we apply to them, they will have
+disadvantage on. So, there's a lot of
+effects that you can put out from items
+or lithid powers that Eldrich Strike
+will be pretty potent with. For our uh
+cantrip selection here, of course, we
+are again going to take true strike to
+annoy people in the YouTube comments.
+And then for our spell selection, again,
+doesn't really matter what we pick here
+because we're not going to be making use
+of our spells. Though, obviously, if
+you're building the Elder Knight,
+normally shield is an incredibly
+powerful spell that you'll have picked
+up significantly earlier.
+Fighter level 11, we get improved extra
+attack. So now we are making four
+attacks every single turn of combat cuz
+we get our uh booming blade attack in
+melee and then three ranged attacks with
+thrown weapons. So improved extra attack
+for even more damage output. And again
+we get to choose a spell.
+And then finally at fighter level 12 we
+get our last feat. And the feat that
+we're going to take is heavy armor
+master. This lets us boost our strength.
+So now we have 20 strength and it gives
+us uh damage reduction. Combine that
+with the damage reduction that we're
+getting from um just the heavy armor
+sets that we're likely to be wearing at
+this point and we're going to be taking
+very very little incoming damage
+especially with the armor of persistence
+which we'll have all incoming damage cuz
+it gives you permanent blade ward. uh
+then we will be taking almost no damage
+cuz we'll be taking half damage and then
+reducing that further by the flat damage
+reduction that this character has which
+makes us nearly immune to most incoming
+enemy physical damage. Obviously
+incredibly powerful for this character.
+For items for this character, there's
+actually not that many specific item
+slots that we need for this character.
+So, you can use this character as kind
+of a catch-all for items that you think
+are powerful, fun, or cool. Outside of
+the very core items that we need, this
+character can really play around with
+your item build. So, if you find
+something interesting that you've always
+wanted to give a try, put it on this
+character and see how it works. There
+are some items, of course, that we
+specifically are going to want for this
+character. And firstly, obviously, we
+need a weapon. This character needs to
+do damage with a weapon with the throne
+weapon property um in order to have the
+maximum damage when we throw our weapon.
+In the early game, the returning pike is
+usually going to be the best one. Since
+we're an Eldrich Knight, we can use the
+lightning jabber, which isn't returning,
+but as an Eldrich Knight, we can bind it
+as our Eldrich Knight weapon and make it
+a returning weapon, and it does a lot of
+damage. especially if you're not playing
+on honor mode. This weapon also has some
+bugs where it does more damage than it
+should in some circumstances. So, you
+can get a tremendous amount of damage
+out of the lightning jabber. In the late
+game, you're going to be using either
+the dwarven thrower or nai. The dwarven
+thrower is slightly better for single
+target damage. And if you use disguise
+self, which you can learn as an Eldrich
+Knight to disguise yourself as a dwarf,
+then you can deal um you get the the
+bonuses from the dwarven thrower. So,
+it's a little better for single targets,
+but Nyona is usually just going to be
+the best in slot. It's also piercing
+damage, which has synergy with an item
+that our fourth character could use
+extremely well as well. So, Nai is
+usually going to be the go-to throwing
+weapon in the endame. We also want a
+shield. The best shield for this
+character is usually going to be the
+Sentinel shield. Just going first is so
+powerful, but any shield can kind of fit
+into this role. Um, any shield with good
+defensive bonuses like the walking
+fortress in the late game or the
+safeguard shield in the early game are
+also great options. Outside of that,
+there are a few specific items that we
+want. The gloves of uninh uninhibited
+cushigo increase our throwing damage.
+So, we want those cuz obviously the more
+damage we're doing with our throne
+weapons, the better. The ring of
+flinging also deals an extra D4 bonus to
+thrown damage. And the costic band will
+increase our throne damage as well. um
+and our weapon damage with our melee
+attacks. Some alternatives to these
+rings, the risky ring can make you even
+less likely to ever miss um your
+attacks. Combined with your tavern
+brawler bonus, this character will have
+a 1 in400 chance of missing basically
+every attack cuz most attacks you make
+you'll only miss on a natural one. With
+advantage, you will only miss those if
+you roll two natural ones in a row. The
+ring of protection is also an okay
+option for this character because um
+just having even more defenses makes
+this character already very hard to
+kill, even harder to take down. For our
+boots, the evasive shoes or a similar
+defensive pair of boots go very well on
+this character. And then for our armor,
+we just want the best set of heavy armor
+we can find. In the end game, this is
+going to be the armor of persistence.
+earlier on it will probably be the
+adamantine armor um just to maximize
+your uh chance to survive. The armor of
+persistence of course synergizes
+extremely well with heavy armor master
+cuz it the damage reduction is additive.
+So it's going to be five damage reduced
+from every incoming damage. And because
+we have blade ward passively from the
+armor of persistence, bludgeoning,
+piercing and slashing will deal half
+damage. So that damage will be h haved
+and then reduced by five which will
+reduce most incoming damage basically to
+zero. The helm of buldin another great
+defensive item for this character. Um we
+have medium armor proficiency, stun
+immunity and immunity to critical hits
+and constant healing. Bonuses to AC and
+saves are really good. So just stack
+your defensive items on this character.
+Once you have Nyola, the ring of
+flinging and the gloves of uninhibited
+cushigo, you'll you will have so much
+damage output. you can just put
+defensive and utility items on this
+character and be extremely happy. Also
+important, you should carry backup
+weapons with the throne weapon property.
+Uh there are times where you want a
+different damage type or your weapon is
+disposable. So things like daggers or
+light hammers are very useful. And this
+character should also carry bottles of
+water and healing potions. We get a lot
+of attacks every turn. So throwing these
+at your allies or when you need a bottle
+of water for uh to create an ice surface
+or for utility. um it can be very
+helpful to have these stacked on this
+character. You also can benefit a lot
+from an elixir of bloodlust for extra uh
+attacks or the elixir of cloud giant
+strength which maximizes your tavern
+brawler damage. But outside of the very
+core items, your weapon and the uh items
+that boost your throwing damage, you can
+really feel free to have fun with this
+character's itemization. For our fourth
+character, we want to add some utility
+to the party. we already have amazing
+damage output and uh excellent crowd
+control that's quite repeatable. So,
+this character is designed to handle out
+of combat situations by giving us a
+tremendous access to skills, especially
+lockpicking and trap disarming skills
+that we badly need, and also to be the
+glue that holds the party together by
+putting out fires when you're actually
+fighting, taking out specific enemies,
+using our crowd control abilities on
+dangerous enemies that survive our
+initial burst, and locking down enemy
+movement with a lot of crowd control and
+tremendous mobility. So, this character
+can be anywhere and do anything in order
+to keep the rest of the party
+functioning smoothly. It's going to be a
+somewhat unusual build to see an
+optimized honor mode parties, but it
+fits extremely well in this party. We're
+playing a monocclass squashbuckler
+rogue, but some of the choices we're
+going to be making are going to be a
+little bit different. Now, of course,
+we're starting with our rogue level
+here, and for our ability score
+selection, we're going to take 17
+starting dexterity, 14 constitution. Uh,
+we don't need any points in intelligence
+and we'll take 10 wisdom and 16
+charisma. Some swashbuckler abilities
+key off of charisma, so we want that as
+high as possible. For our skill
+proficiencies here, um, we're going to
+take slight of hand expertise and
+stealth expertise. And of course, we
+also want acrobatics so that we're a
+little harder to shove around. As a
+dexterity based character that's um
+operating mostly in melee, this
+character can sometimes be pushed by
+enemies. So, acrobatics makes that
+easier to avoid. We'll also take
+persuasion proficiency because we will
+want high persuasion for our level 9
+ability that keys off of persuasion. For
+our last ability here, there's nothing
+in particular that we need, but um
+taking investigation can be useful.
+There are some out of combat
+investigation checks that you're going
+to roll. So this character having
+proficiency in that can make your whole
+party slightly better at some of the out
+of combat things that you're asked to
+do. Also worth noting for this character
+that if you are playing this as a custom
+character or if you're playing a star on
+an origin run then taking a high elf or
+high half- elf, you can take booming
+blade as your high elf cantrip and
+that's very powerful for this character
+as well. You can only change this
+cantrip if you're playing a star as your
+main character. Unfortunately, it can't
+be respected during the game. Um, but uh
+if you are doing that or if you're
+playing a custom high elf or high half
+elf, booming blade is obviously amazing.
+Character level two, no choices to make,
+but of course, we get the extremely
+powerful cunning actions that our whole
+party basically has access to except the
+Eldrich Knight, which makes us
+incredibly mobile. Character level
+three, we get to take our subclass. And
+the subclass that we're picking is
+swashbuckler. Now, swashbuckler gives us
+two things right away. Firstly, we get
+uh if you melee attack a target, they
+can't make opportunity attacks against
+us. So, that makes this character very
+safe to run around attacking enemies and
+then running away to avoid reprisal. And
+then we also get a plus two bonus to
+initiative. This is equal to our
+proficiency bonus as long as we keep
+taking rogue levels. So, in the end
+game, this is going to be a plus4 bonus.
+Um, which is and basically means we
+don't have to take alert and can take
+even more cool feats on this character.
+And we don't need advantage to trigger
+sneak attack. So, the fact that we don't
+have another mainline melee character
+doesn't matter for this character. We're
+always going to be able to sneak attack.
+Level four, we get our bonus actions.
+And this allows us to use a bonus action
+to basically get a second attack. This
+is part of why a monoclass swashbuckler
+is pretty useful. You still do great
+damage cuz dirty trick flick of the
+wrist not only disarms enemies,
+extremely powerful. It also effectively
+acts as getting extra attack even uh a
+level early. It does consume your bonus
+action which is important for rogues,
+but it's still a very powerful tool. We
+also get vicious mockery. not going to
+be used that often, but if you need a
+ranged option, then sometimes this can
+be okay. And sand toss, which is very
+powerful because blinding enemies for
+two turns, is really good crowd control.
+The save DC for slime uh sand toss is
+also based off your dexterity, not your
+charisma for some reason. So, it's very
+likely to succeed cuz we're going to
+have very high dexterity. We also get a
+feet. And for our feet, we're going to
+take a feet that doesn't show up that
+often, moderately armored. This lets us
+boost our dexterity up and it also is
+going to let us use a shield. For most
+rogues, you would want a weapon in your
+offh hand. But for a swashbuckler rogue,
+both of your attacks uh in the turn are
+going to be made with your main hand
+weapon because your second bonus action
+attack is going to be dirty tricks. So,
+you don't need an offhand weapon. And
+that way, we can use a shield. You can
+also use medium armor, which will let us
+use the yuanti scale male for parts of
+act two, which is going to be the best
+armor available to this character at
+that point, giving you higher initiative
+and armor class. So, really nice to have
+this feat early, and it just lets us
+even out our dexterity.
+Level five, no decisions to make, but
+uncanny dodge is very powerful for this
+character. We're going to get an extra
+reaction late game. So, this character
+will actually be very good at defending
+itself with the various ways that we'll
+have to stop enemies from dealing
+damage. They don't get opportunity
+attacks. We can blind or disarm them.
+And if they do hit us, we can have the
+incoming damage with a reaction.
+Then at level six, we get additional
+skills. So, we can learn um extra skill
+proficiencies here or extra skill
+expertise here. Uh, so we're going to
+take um expertise in persuasion that we
+want in order to have really high
+persuasion for the end game because we
+get an ability that keys off of it. We
+can also take expertise in one of these
+other skills. Acrobatics just makes you
+harder to push around. So that's what
+I'm going to recommend taking there.
+Level seven rogue, we get evasion. So
+again, we get just more passive
+defensive bonuses that don't need a cool
+down. So, uh, we're going to take no
+damage for most dexterity targeting
+damaging spells, which is most of them.
+Uh, since our dexterity bonus is very
+high and we have proficiency in the
+save. Level eight, we get another feat.
+And the feat that we're going to take
+here is just to increase our damage
+output, we're going to take Savage
+Attacker. Savage Attacker is really nice
+for this character because um, we're
+just rolling a lot of dice. It's a melee
+damage buff that increases our damage
+output significantly. So, uh, Savage
+Attacker just boosts our damage output
+enormously at this point in the game.
+A character level 9, we get Pache. And
+Pache, while it takes an action, so
+you're not going to use it all the time,
+is actually pretty cool for this
+character and gives us yet another layer
+of possible crowd control. There's a
+couple reasons that this is actually
+better than it looks despite being uh
+just disadvantage for an action.
+Firstly, it lasts for 10 turns and
+that's a really long um that's a a
+really long set of crowd control. So,
+at character level 9, we get panache.
+And while this ability is not the
+strongest in the game, it actually
+performs a fairly useful function for
+this character. It does take an action,
+so you're going to be judicious with
+when you actually use it. Um, but this
+ability lasts for 10 turns and gives
+enemies disadvantage on all their
+attacks against your allies. As long as
+your allies don't harm them and break
+the charm effect. Uh, it's not mentioned
+anywhere in the tool tip, but if someone
+else hits the panached character,
+they'll lose the disadvantage. So, you
+have to be a little bit careful with how
+you employ this ability. But giving an
+enemy that you don't want to target
+right away disadvantage on all their
+attacks for 10 turns is and inability to
+make opportunity attacks is really
+powerful. It can let you just ignore an
+enemy. Remember also that you can spend
+your action on this and then still use
+your bonus action on um a dirty trick.
+So you can disarm one enemy, give
+another disadvantage and stack up more
+crowd control. So this is very helpful
+for those fights.
+It also, of course, is always going to
+work because the way that it works is
+it's a persuasion check um contested
+with an insight check and your
+persuasion is super high. Enemies
+typically have fairly low insight
+checks. They don't usually have bonuses
+to that. So, you're always going to get
+the success on this uh panache attack.
+Rogue level 10, we get another feat. And
+there's a bunch of different options
+here that can all be pretty useful. One
+option is to take an ability score
+improvement, just boost our dexterity up
+to 20. If you're finding that this
+character isn't hitting their attacks as
+much, that's definitely a great option.
+However, what I'm going to recommend
+here is that we take instead Sentinel.
+Sentinel is really nice for a rogue
+because it lets you effectively cheat
+your sneak attack to half a turn early.
+The way that sneak attack works is it's
+a per round cool down. Um, but it
+refreshes at the end of your turn. So,
+if you make an attack and get sneak
+attack, you then end your turn and you
+get sneak attack back. So, if you make
+an opportunity attack on the enemy's
+turn, you can sneak attack them again.
+Since we're a swashbuckler, we can
+always sneak attack on all of our
+attacks. So, Sentinel is going to let us
+uh use our sneak attack half a turn
+early. We then won't have sneak attack
+for the second round of combat, but
+that's okay. Two sneak attacks of savage
+attacker should kill most enemies. It
+also prevents enemies from moving, and
+that's very powerful for this um party,
+of course, because we need more crowd
+control. We just want ways to stop
+enemies from doing stuff. This character
+dancing around the backlines, being
+extremely annoying and hard to hit,
+dealing great damage, and preventing
+enemies from moving just shuts down a
+lot of what enemies are trying to do.
+This is also the point in the game where
+our other characters, our warlock is
+probably moving into melee more. So
+getting the reaction uh for when an
+enemy attacks an ally can be helpful as
+well.
+Rogue level 11, of course, we get
+reliable talent, which makes this
+character even more amazing at passing
+all the skills. It makes panache better
+as well, cuz you're still making the uh
+persuasion check. And then you will also
+just never fail at picking a lock.
+So, this character becomes even better
+at out of combat utility.
+Finally, at character level 12, we get
+an additional feat, and we're going to
+take an ability score improvement to max
+out our dexterity. Obviously, we want
+this as high as possible to make our
+character as strong as possible. Another
+thing that's worth mentioning at this
+point is there's a couple other feats
+that we could take on this character
+depending on our gear selection. If
+you're playing a race that has glaive
+proficiency, you can use the dancing
+breeze and you can take pole arm master.
+At that point, you would want to
+respspec out of moderately armored and
+take polearm instead in order to make
+use of the dancing breeze. Another
+option for this character, because we're
+probably going to be in light armor and
+we're likely going to be using the
+dualist prerogative at this point in the
+game, which means we won't be using a
+shield and we won't be in medium armor,
+is to respspec out of moderately
+armored, use um any stat item to
+increase our dexterity, like the mirror
+or Ethel's hair. And instead of that,
+take uh any number of other cool feats,
+but one that I think is particularly fun
+for this character is defensive duelist.
+you're always going to be using a
+finesse weapon and we're going to have
+two reactions if we're using the dualist
+prerogative. So, this basically gives us
+shield every turn for free without
+spending a spell slot. Um, this was
+mentioned in a comment on my original
+swashbuckler video. I'm sorry I don't
+remember who said it, but this is
+actually a really cool idea and I think
+it's actually definitely worth pursuing.
+All right, that's the last character,
+but let's talk about their items. For
+items for this character, we're looking
+to double down on the things that we're
+good at. Make the character harder to
+kill because this character can be a
+little bit squishy and likes to play
+aggressively, being up in melee with
+enemies and dancing around in their
+backline. So, making sure that we have
+the defenses to support that play style
+is important. And of course, we want to
+increase our damage output and just our
+overall utility to the party. Firstly,
+of course, we need a finesse weapon
+because swashbuckler rogues abilities
+require that you have a weapon with the
+finesse weapon property. In the early
+game, this can be anything, but it's
+probably going to be usually the
+shortsword of first blood. This is a
+very solid finesse weapon that does a
+bunch of extra damage to enemies who
+have all of their HP, which is really
+nice in the early game. This can let you
+burst down a high health enemy much more
+quickly. Later on, we might swap that
+for something like the Crimson Mischief
+if you want to keep using a shield, but
+I recommend in the late game going for
+the dualist's prerogative. This uh gives
+you additional crit chance and an
+additional reaction, which works
+extremely well with Sentinel. It also
+works with defensive duelist if you took
+that as a feat later on. And it also
+works with Rogu's um uncanny dodge
+ability. So you can reduce incoming
+damage massively by giving you extra
+reactions. Uh it also, you know, just
+has an extra bonus action attack
+naturally. So even against enemies who
+can't uh who don't have weapons, so you
+can't use your disarm against them, you
+can still do a second mainhand attack
+with the duelist prerogative uh because
+of the dueler's enthusiasm action, which
+just lets you make an extra mainand
+attack. So, this is going to be our best
+in slot endame weapon, unless you are a
+character who is playing a race that has
+glaive proficiency, in which case you
+can use the dancing breeze, which gives
+you a reach weapon. You can combine this
+with polarm master and uh sentinel um in
+order to lock enemies down in a much
+larger area, prevent their movement, and
+just give you a huge amount of control
+over the battlefield. In addition to
+these finesse weapons, of course, we
+want some other items. So, one of the
+other items I really like on this
+character is the helmet of grit. Our
+bonus actions are incredibly valuable.
+So, if you're happy playing at 50% HP,
+and remember, this character has a lot
+of tools to protect itself. An extra
+bonus action is incredibly strong, so it
+makes you have just wildly more options
+and a lot more power overall. Um, we're
+going to be using the medium armors with
+uncapped dexterity in the early game as
+well. Things like the yuanti scale mail.
+Obviously, you'll use whatever the
+highest AC light armor you have up to
+this point uh until you get this item,
+but as soon as you hit act two and get
+the yuanti scale mail, this is going to
+be the best one for this character cuz
+the initiative bonus is also really
+useful during act two. In the end game,
+you can swap to a light armor. A
+defensive light armor like the elegant
+studded leather gives you even more
+initiative and decent AC. Or of course
+if you took the story events that get it
+for you, the ballist armor is a
+tremendous power up not only for this
+character but for your entire party. You
+have an archer and a nyoma thrower in
+the party. So doubling the damage output
+of those characters by giving enemies
+vulnerability to piercing damage as well
+as of course this character with the
+duelist prerogative also doing piercing
+is absurdly strong. So, the ballis armor
+is just broken and will be incredibly
+powerful in the end game for this
+character as well. Uh, while you in the
+early game, uh, you will up until you
+get the duelist prerogative, you're
+going to want to use a shield. The
+safeguard shield is a nice one for this
+character. Saving throws and armor class
+are really good. So, just giving
+yourself a few more u a little bit more
+survivability goes a long way for this
+character. And then we're going to stack
+on other survivability items as well.
+Items like the cloak of protection or
+displacement can keep the character
+alive much more easily. The ring of
+protection if you're not using it on
+your Eldrich Knight is good here. Or you
+can go for more aggressive rings like
+the shadowcloaked ring. Um enemies who
+are heavily obscured or enemies who are
+obscured are often what you're going to
+be fighting with this character because
+you're going to be in the backline away
+from your party's lights. Uh, your
+warlock needs enemies lit for the callus
+glow ring, but the shadowcloaked ring uh
+on this character can work against any
+obscured enemy in the backline.
+Crusher's ring is also really nice. We
+really want lots of mobility on this
+character. So, utility items like this
+go a long way. Also important for this
+character and what I recommend keeping
+until the end game is the disintegrating
+night walkers or another set of boots
+that makes you immune to being prone or
+falling over on ice. with our archer uh
+using the snow burst ring combo, there's
+going to be a lot of ice on the
+battlefield and making this character
+who's our main melee character immune to
+it means we can move through that much
+more freely. So, while the misty step
+isn't that useful on the night walkers,
+unless you are resting more frequently,
+the inability to bewangled and snared
+and can't slip on ice is super helpful.
+So, you really want immunity to
+slipping. This character also wants to
+carry a pair of hand crossbows in the
+ranged weapon slot. Just gives you a lot
+of options for ranged damage. You can
+use sneak attack at range and just gives
+you a ton of uh optionality. If you
+can't get into melee, you can continue
+to do consistent damage. And finally,
+for our amulet, I really like the amulet
+of greater health on this character. Um,
+though there's a lot of other options as
+well, but because this character is
+going to be in melee and relatively
+squishy, the extra hit points go a long
+way. Especially if you're using the
+helmet of grit, then that will let your
+half value uh you know, your hit points,
+which are half of your normal total,
+still be a reasonably survivable total
+combined with your other options to stay
+alive. So, this character gives a
+tremendous amount of utility and lets
+you just move around the battlefield
+doing more or less whatever you want.
+All right, my friends. I hope that
+you've enjoyed this look at the no rest
+party, and I hope you enjoy tirelessly
+stomping your way through honor mode,
+never stopping to rest or even slowing
+down. Uh, this party is really fun to
+play and very straightforward because
+every character just does what it does
+extremely well all the time. So you
+never have to worry about juggling your
+resources or being in worse shape for a
+certain fight or taking a fight while
+you are close to resting and maybe that
+fight then goes worse because none of
+those things come up for this party. So
+it can be fun for a challenge mode. It
+can also just be a very powerful tool to
+make sure that you always are at full
+capacity even in a run where you're
+resting all the time. As always, of
+course, if you've enjoyed the video,
+feel free to leave a comment and hit
+like. Helps me out a ton with the
+algorithm. So, I appreciate you taking
+the time to do that. And of course, you
+can subscribe to my channel for more
+Boulders Gate 3 build guides and other
+strategy game analysis. Cheers, my
+friends. I'll catch you next

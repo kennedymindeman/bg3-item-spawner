@@ -2,11 +2,15 @@
 """Download every transcript in a YouTube playlist as clean plain text.
 
 Usage:
-    uv run get_transcripts.py "<playlist or video+list URL>"
+    uv run get_transcripts.py "<playlist or video+list URL>" [output_dir]
+
+    output_dir defaults to transcripts/. Pass a different dir (e.g.
+    build_transcripts) to index a separate playlist with the same
+    <index>-<title>.txt scheme without colliding with the tier-list set.
 
 Steps:
   1. yt-dlp downloads English subtitles (manual, falling back to auto) as VTT.
-  2. Each VTT is parsed into deduplicated plain text and written to transcripts/<index>-<title>.txt
+  2. Each VTT is parsed into deduplicated plain text and written to <out>/<index>-<title>.txt
   3. The intermediate .vtt files are removed.
 """
 
@@ -15,12 +19,9 @@ import sys
 import subprocess
 from pathlib import Path
 
-OUT_DIR = Path("transcripts")
-VTT_DIR = OUT_DIR / "_vtt"
 
-
-def download_subs(playlist_url: str) -> None:
-    VTT_DIR.mkdir(parents=True, exist_ok=True)
+def download_subs(playlist_url: str, vtt_dir: Path) -> None:
+    vtt_dir.mkdir(parents=True, exist_ok=True)
     cmd = [
         "yt-dlp",
         "--skip-download",
@@ -30,7 +31,7 @@ def download_subs(playlist_url: str) -> None:
         "--sub-format", "vtt",
         "--sleep-requests", "1",        # be polite / avoid rate limiting
         "--ignore-errors",              # skip videos with no captions
-        "-o", str(VTT_DIR / "%(playlist_index)03d-%(title)s.%(ext)s"),
+        "-o", str(vtt_dir / "%(playlist_index)03d-%(title)s.%(ext)s"),
         playlist_url,
     ]
     subprocess.run(cmd, check=False)
@@ -61,13 +62,15 @@ def vtt_to_text(vtt_path: Path) -> str:
 
 def main() -> int:
     if len(sys.argv) < 2:
-        print("usage: uv run get_transcripts.py <playlist_url>", file=sys.stderr)
+        print("usage: uv run get_transcripts.py <playlist_url> [output_dir]", file=sys.stderr)
         return 1
     playlist_url = sys.argv[1]
+    out_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("transcripts")
+    vtt_dir = out_dir / "_vtt"
 
-    download_subs(playlist_url)
+    download_subs(playlist_url, vtt_dir)
 
-    vtts = sorted(VTT_DIR.glob("*.vtt"))
+    vtts = sorted(vtt_dir.glob("*.vtt"))
     if not vtts:
         print("No subtitle files were downloaded.", file=sys.stderr)
         return 1
@@ -80,16 +83,16 @@ def main() -> int:
             continue
         seen_base.add(base)
         text = vtt_to_text(vtt)
-        out = OUT_DIR / f"{base}.txt"
+        out = out_dir / f"{base}.txt"
         out.write_text(text + "\n", encoding="utf-8")
         print(f"ok  {out}")
 
     # clean up intermediate vtt files
-    for vtt in VTT_DIR.glob("*.vtt"):
+    for vtt in vtt_dir.glob("*.vtt"):
         vtt.unlink()
-    VTT_DIR.rmdir()
+    vtt_dir.rmdir()
 
-    print(f"\nDone. {len(seen_base)} transcripts in {OUT_DIR}/")
+    print(f"\nDone. {len(seen_base)} transcripts in {out_dir}/")
     return 0
 
 

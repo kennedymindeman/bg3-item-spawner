@@ -1,0 +1,813 @@
+All right, my friends. Let's have Boo go
+for the eyes and we'll see just how sad
+that makes designated hamster chew toy,
+the Oathbreaker Knight. So, I've gone
+ahead and started combat already and
+because Minsc and Boo are sharing
+initiative, we're going to have Boo run
+around to the near side of the
+Oathbreaker Knight. We'll go as far as
+we can without provoking an attack of
+opportunity so that Minsc doesn't have
+to run as far to throw him. Then, Minsc
+is going to enter a frenzied rage and
+run up and use enraged throw in order to
+throw Boo at the Oathbreaker Knight. So,
+we've got enraged throw and we're going
+to go ahead and throw him.
+That also applies the benefits of Falar
+Aluve, which of course stacks additional
+debuffs on the Oathbreaker Knight.
+Oathbreaker Knight gets knocked prone,
+radiating orb stacks happen as well. So,
+let's go ahead and throw Boo again.
+And then we will throw Boo yet another
+time using our actual throw action
+because we've used our two bonus
+actions. So, we're going to go ahead and
+throw Boo at the Oathbreaker Knight yet
+again.
+And then for our final throw, we're
+going to keep hitting him with an
+enraged hamster. So, you can see that
+the Oathbreaker Knight is prone, has
+eight stacks of radiating orb, is dazed,
+blinded, and reverberated, and
+completely unable to fight back as an
+angry hamster chews on his face. All
+right, let's get to the build. Hello, my
+friends and welcome back to another
+Baldur's Gate 3 character building
+guide. Hope you're all doing well.
+Today, I have a really fun one for you.
+We're sending Boo to go for the eyes.
+When you recruit Minsc, he comes with
+his favorite fuzzy friend, Boo, the
+giant miniature space hamster, who has a
+unique mechanic. When you throw Boo at
+an enemy, they have to make a saving
+throw or become blinded as Boo of course
+goes for the eyes as Minsc is so fond of
+yelling. Today, we're going to maximize
+that ability and turn Boo into a deadly
+weapon. Now, this build of course is
+more for fun than pure power, but the
+core of it is a berserker thrower, which
+is one of the most powerful things that
+you can do in Baldur's Gate 3. So, when
+you need to power up to flatten an
+encounter, you can. But, you can also
+send Boo in to do the fighting and the
+thinking for us while Minsc follows up
+with blade and boot.
+Before I begin, I do want to take a
+quick moment to say thank you so much to
+Chris York for the $10 donation, Thomas
+Smith for the 10 lb, YFNA for the $20,
+Katrina Ryan for the $10, and Tarantula
+for the $5. Thank you so much, my
+friends. I really appreciate your
+support. It really means so much to me.
+All right, let's grab Boo and kick
+butts.
+Now, in order to make this build
+function, of course, we need Boo, so we
+need Minsc in the party, which means
+it's going to be a somewhat later game
+build since he doesn't show up until Act
+3. But, we don't actually have to make
+this build with Minsc. If you've been
+running a thrower already, then they can
+pick up and throw Boo as soon as he
+shows up because the blind is a property
+of Boo, not of Minsc himself throwing
+Boo. Of course, it makes most sense and
+from a flavor perspective, who else
+would you want to throw the hamster
+other than Minsc? So, we're going to be
+building it with Minsc today, but it's
+worth mentioning that you don't have to
+make this build with Minsc. You just
+need him in your party in order to have
+Boo available.
+At first level for this build, we're
+going to be starting with a level of
+barbarian. If you're building this
+character from level one as a thrower
+that's going to be with you for your
+entire run for your party, uh you can
+start with a level of rogue for better
+skill access that can smooth out the
+early game and then you'll take the
+barbarian levels afterwards. Um but, for
+this build where we're focusing on
+throwing Boo in the end game, we're
+going to start with barbarian. For our
+ability score selection, we're going to
+take 17 in strength, 16 in dexterity, 14
+in constitution, and 10 in wisdom. This
+is going to maximize our damage output
+cuz our damage is going to come from
+mostly Tavern Brawler applying our
+strength bonus when we throw Boo. And of
+course, we want dexterity so we have
+high initiative. As a primarily
+barbarian build, constitution we can
+keep relatively low cuz our hit points
+will be just fine.
+Uh for our skill selection here, the
+only really important one is athletics.
+You probably will want athletics to make
+it easier to shove enemies around. Uh
+and perception is always nice to have,
+so go ahead and select that.
+I will be as we go through referring to
+my berserker barbarian build guide,
+which I'll link in the description. This
+build is primarily about maximizing Boo,
+so I'll take you through the levels, but
+uh for a more detailed guide to how
+we're constructing the thrower, you can
+follow that link as well.
+At character level two, we're taking our
+second level of barbarian, which gives
+us access to reckless attack. Now, you
+can't recklessly throw Boo, although
+some might say that that's a reckless
+thing to do with your pets regardless,
+but it does use an attack roll. So, if
+you reckless attack before you pick up
+and throw Boo, you will get advantage on
+that throw. So, it can be important to
+keep that in mind. Reckless attack is
+also good for manipulating enemy AI. Um
+if they have advantage on attacks
+against you, they're more likely to
+target you. And that's actually really
+important for this character because
+Boo, although he does have 20 hit points
+and 20 armor class, so he's not
+completely helpless, enemies can blow
+him up pretty quickly. So, making sure
+that enemies are targeting the
+barbarian, who obviously is a lot less
+squishy, and we will do a lot of other
+things to mitigate Boo's uh low hit
+points in terms of itemization and
+support from our party members. Um but,
+the AI manipulation can keep Boo alive
+for longer so that your weapon stays
+active.
+At character level three, we get our
+third level of barbarian and of course
+for our subclass, we're going to take
+berserker. This gives us frenzied rage,
+which allows us to as a bonus action use
+enraged throw. Enraged throw will let us
+pick up Boo as a bonus action and throw
+him at an enemy. And if it hits, it will
+knock that enemy prone with no saving
+throw.
+Um it does also knock Boo prone, but Boo
+always falls prone when you throw him.
+It's part of his natural ability. Uh so,
+he will just end up double proned and it
+won't change anything. But, when you hit
+the enemy, they will get knocked prone
+as well as blinded if they fail the save
+against Boo.
+Uh you will do your rage damage when you
+throw Boo. And one of the things that we
+have to deal with with this character is
+that when you throw Boo at an enemy, he
+is immune to the damage from the throw.
+Normally, if you throw two characters at
+each other, they both take damage. But,
+when you throw Boo, he doesn't take the
+damage from being thrown, but he does
+take additional damage riders. So, when
+you when you're raging and you throw
+Boo, he will take two damage from your
+rage damage that gets added when you
+throw an object. Um so, we're going to
+need to increase his resilience in order
+to make that two damage not add up to
+take out his 20 hit points. Obviously,
+we need to keep Boo alive if we want to
+make the build work. So, our itemization
+and everything is going to be based
+around making sure that he doesn't die
+when we throw him even though he's
+taking little bits of damage here and
+there. Of course, uh enraged throw just
+gives you an extra throw every turn. So,
+obviously, it's super powerful and when
+you're raging, you can knock enemies
+prone with no save, which is great.
+And uh spellcaster concentration and
+disrupt enemies significantly with
+these. And in addition to the damage and
+disruption you're already doing by
+throwing Boo, that can add up to a lot
+of debuffs that you're adding on to the
+enemies.
+At character level four, we're going to
+be taking our first feat. And of course,
+as a throwing build, the feat that we're
+taking is Tavern Brawler. This is going
+to allow us to add our strength bonus to
+damage when we hit an enemy with Boo.
+Though, it is worth noting that just
+like with the rage bonus, this damage
+rider is going to be applied both to the
+enemy that we throw Boo at and to Boo
+himself. So, we're going to need methods
+to heal and protect him, which we'll get
+into a little bit later. This obviously
+is very important for any throwing
+build. It's going to make our throws
+Uh so, enemies are never going to be
+able to dodge our hamster. And then
+also, it's going to enable us to do some
+damage. The main point of throwing Boo
+isn't the damage because he's a low
+damage object thanks to his low weight,
+but this does give us some consistent
+damage uh over time that we can add to
+enemies in addition to all the debuffs
+that we're doing.
+At character level five, we're taking
+our fifth level of barbarian, which
+allows us to make an extra attack. Of
+course, that's yet another throw of Boo,
+so now we can do that three times in a
+turn while raging. And we get fast
+movement as well. Fast movement is
+actually really important for this
+character and additional movement speed
+matters a lot to us because we need to
+throw Boo and then go pick him up to
+throw him again. While Boo can run back
+to us if we share initiatives, and I'll
+talk a little bit more about that on in
+a second, uh we're still going to need
+enough movement to be able to pick up
+and throw Boo over and over again. And
+ideally, we want to do this from not
+within melee range of enemies so we
+aren't taking disadvantage on the attack
+roll. Uh so, we need enough movement
+that we can go get Boo, pick him up,
+throw him, go grab him, pick him up, and
+throw him, especially if we're moving
+from enemy to enemy. So, fast movement
+is a critically important class feature,
+which we're very glad that barbarian
+gives us.
+At character level six, we have extra
+attack from barbarian, so it's time to
+multiclass and get additional attacks by
+taking levels of rogue. At first level
+rogue doesn't do that much for us. Sneak
+attack can't be applied when throwing
+Boo, unfortunately. Um but, it does give
+us expertise in two skills and an
+additional skill that we can select. So,
+that's going to let us get expertise in
+athletics. With uh 18 strength and then
+later 20 strength, and athletics
+expertise. Enemies will not ever be able
+to resist your shoves. So, this gives
+you a lot of control over where enemies
+are on the battlefield by pushing them
+around or kicking them around, which of
+course is very in flavor for Minsc and
+his boots. Um, and then for our second
+skill, there's a bunch of different
+options. You will know, of course, what
+your party needs. This character with
+sleight of hand expertise can easily
+take over as your lock picker or trap
+disarmer. You can also give them
+perception expertise in order to make
+your party better at spotting traps. Or,
+you can even, uh, learn intimidation and
+give them intimidation expertise. You
+have the unique dialogue from barbarian,
+which often have very low DCs in order
+to succeed at those dialogue checks with
+intimidation rolls. So, intimidation
+expertise can make this character a
+surprisingly good party face simply by
+yelling at people. So, obviously, the
+second, uh, skill here is going to
+depend a little on what your party
+needs. One of them should always be
+athletics, though.
+At level seven, we are taking our second
+level of rogue, and that gets us access
+to cunning action, hide, dash, and
+disengage. Now, obviously, this
+character's bonus actions are incredibly
+in demand. We're going to be throwing
+Boo with a bunch of them. We're also
+going to be raging on the first turn of
+combat with at least one of them. But,
+the bonus action dash will let us get to
+Boo to pick him up for another throw
+more easily. And bonus action disengage
+can be useful, although we're going to
+cover this, uh, need using a feat later
+on. Bonus action hide for this character
+is less impactful. Obviously, you can
+build stealth with this character, but
+since you, um,
+will need to be in combat in order to
+rage, you won't usually want to leave
+this character stealth outside of combat
+because you need to rage to enter
+combat. So, this character probably will
+not be making that many stealth checks.
+But, bonus action dash is very useful.
+Then at level eight, we get to take our
+third level of rogue, and of course,
+like other barbarian throwers before us,
+we are taking thief rogue. We're going
+to take thief rogue because that gives
+us fast hands. So, it means on the first
+turn of combat, we can use one bonus
+action to rage, a second to throw, and
+then both of our attacks to throw for
+three throws without any other
+additional boosts. And every turn
+thereafter, we can throw four times.
+When you throw Boo four times, that's a
+lot of blinds that you can pass out, and
+a lot of enemies that you can knock
+prone, as well as okay damage that you
+can deal with tavern brawler and the
+debuffs and rider effects that we're
+going to be adding to these throws as
+well. Um, and of course, an extra bonus
+action is just incredibly versatile
+overall. So, um, thief just gives you
+tremendous amounts of combat options.
+This build is a classic for a reason.
+At character level nine, we get our
+fourth level of rogue in order to pick
+up another feat. Now, normally, you
+would consider taking alert here. Even
+though this character has 16 decks and
+will get plus three more initiative from
+feral instinct from barbarian,
+having plus 11 initiative means that you
+wouldn't need any initiative gear to win
+initiative all the time. However,
+because this is a Boo-throwing build,
+this character actually has some very
+specific initiative requirements. Boo
+himself has a plus five to his
+initiative. And this character is
+significantly stronger if you and Boo
+act on the same initiative, so that you
+can throw Boo, have Boo attack, and then
+run back to you, and then throw him
+again. What that means is that we want
+to keep our initiative pretty close to
+Boo's. I like having this character
+having a plus six total initiative with
+the 16 dexterity and plus three from
+feral instinct because it means we'll
+still go before most enemies, but we
+will usually roll initiative that's very
+close to Boo's and act on the same
+initiative. So, uh, we're actually not
+going to take alert on this character,
+and instead, we're just going to take an
+ability improvement and max out our
+strength to do even more damage, and of
+course, hit even more accurately. Our
+second feat's going to be, or our third
+feat, rather, is going to be a little
+more interesting, and we'll get to that
+in just a moment.
+At character level 10, it's back to
+barbarian because we have everything
+that we want from rogue, and we want to
+get a third feat. And this gets us
+mindless rage, which makes us immune to
+charm or frightened. Uh, this is
+actually very useful in the late game.
+There's lots of enemies that have charm
+or fear effects. It seems like this
+would have been really useful for Minsc
+to know before we recruited him, but now
+that we've got him here, we can teach
+him how to resist charm effects.
+Then at character level 11,
+with our seventh level of barbarian, we
+get one of the stronger class features
+in the game, feral instinct. This is 3/5
+of the alert feat. We can't be
+surprised, and we get plus three to our
+initiative, which gives us a very nice
+plus six initiative, which, as I talked
+about, was the number that we wanted to
+hit in order to reliably act on the same
+initiative as Boo, but also still go
+before most enemies. I think that this
+is better than aiming for a plus five to
+have exactly the same initiative bonus
+as Boo because, uh, there's a lot of
+enemies in the game that have plus three
+or four. So, plus six means that you
+very reliably go before those enemies,
+which is more important than acting on
+Boo's initiative, but this strikes a
+really good balance when we have the
+plus six initiative to make sure that we
+get both of those considerations, uh,
+taking care of.
+At character level 12, we're going to be
+taking our eighth level of barbarian and
+getting our third feat. Now, normally,
+again, for a thrower, you would probably
+take alert here just because having high
+initiative is just that powerful. But,
+for this character, where we have our
+goal of hitting plus six to our
+initiative and have already met that,
+we're going to be taking something else.
+What we take here, we actually have a
+lot of different options for cool feats
+that work really well for this
+character. Here's a few options. We
+could take lucky because rerolling dice,
+of course, is always very powerful. Um,
+and this is going to make our already
+very consistent ability to hit things
+with our tavern brawler throws even more
+consistent. Another option is to take,
+uh, something like tough, which, of
+course, is just going to make us
+tankier, which is very important. We're
+going to be trying to take hits for Boo,
+so being tough will make that, um,
+something that we can do more easily.
+Another cool option is sentinel. This
+character is going to spend a lot of
+time next to enemies with Boo also next
+to those enemies, and so sentinel and
+those enemies will sometimes try to hit
+Boo. Sentinel allows you to protect him
+by whacking them back. This character is
+still going to be a raging barbarian and
+will be carrying a melee weapon, so we
+will be able to make use of the sentinel
+attack to do pretty good damage overall.
+But, the feat that I like the most for
+this character is mobile. Mobile gives
+us plus 10 move speed, and I've already
+talked about how important move speed is
+for this character. But, also, we're
+going to be spending a lot of time
+dancing in and out of melee range of
+enemies to throw Boo at them over and
+over again. And so, having the ability
+to use the evade opportunity attack by
+melee attacking one enemy once and then
+using four or five throws against that
+enemy while moving in and out of melee
+range of them is actually extremely
+powerful. Um, and the one melee attack
+will also inflict a condition. We're
+going to have items that trigger when we
+inflict a condition because how mobile
+works is it inflicts sluggerdly on an
+enemy, which counts as a condition for a
+lot of items that trigger off of those.
+So, this gives us another source of
+conditions and also gives us a a way to
+just completely ignore opportunity
+attacks most of the time.
+The other thing that's kind of cool
+about this is that I have seen this
+effect trigger when throwing Boo, even
+though that's not a melee attack. Uh, it
+seems to happen about a third of the
+time, and I have not been able to
+determine in
+more testing than I really want to think
+about why that happens sometimes and
+doesn't happen other times. So, for
+those of you who are out there at home
+and want to test it, if you can let me
+know why throwing Boo sometimes triggers
+sluggerdly, then I'm very curious to
+find out. But, that's a nice free bonus
+where you can be immune to opportunity
+attack some of the time. I assume that's
+a bug, but it's a bug in our favor.
+All right, my friends. That is the go
+for the eyes build, but of course, we're
+going to talk more about how to actually
+optimize throwing Boo with items and,
+uh, party support and stuff like that.
+And I'm also going to talk about some
+alternative routes that we didn't take
+because I think they're kind of
+interesting for this build.
+For items for this character, we of
+course want to maximize how sad enemies
+get when we throw Boo at them. There's a
+couple ways to do this. So, firstly, of
+course, we want to apply as many debuffs
+as possible when we throw Boo. We're
+going to use the classic ways to do
+that, going with Phalar Aluve as our
+weapon because that, of course, will
+allow us to use shriek in order to deal
+extra damage. And the radiating orb set
+with the luminous armor and the callous
+glow ring in order to provide to apply
+radiating orbs whenever we hit enemies
+with Boo. On top of that, we can also
+use the boots of stormy clamor. Whenever
+we inflict a condition on a hostile
+creature, we get two turns of
+reverberation. This is incredibly
+powerful when we're throwing Boo because
+not only are we getting the radiating
+orbs from the callous glow ring, not
+only are we sometimes getting the, um,
+sluggerdly condition from the mobile
+feat, we're also getting blind whenever
+enemies fail a save against Boo. The
+blind does count as coming from Minsc,
+not from Boo, so it will apply
+reverberation with the boots of stormy
+clamor. On top of that, we can use the
+ring of spiteful thunder because we're
+going to be doing thunder damage to the
+to enemies with Phalar, the ring of
+spiteful thunder will force enemies to
+become dazed unless they fail a con
+save, which is another way that we can
+remove their ability to make opportunity
+attacks against us. So, all of these
+debuffs stack together to make enemies
+extremely vulnerable when we throw Boo
+at them, which of course is exactly what
+you would imagine if an angry hamster
+was tearing at their face.
+Uh on top of that, for our cloak, we can
+use the Thunder Skin Cloak. Enemies will
+sometimes get opportunity attacks
+against us or just be attacking us
+because we're up in their faces. And
+since they will be reverberating a lot
+of the time, the Thunder Skin Skin Cloak
+will be applying dazed, which will then
+apply more reverberation with the Boots
+of Stormy Clamor. So, the whole thing
+loops back on itself, creating a
+feedback loop of debuffing enemies. Now,
+in order to do this, of course, we need
+Boo to be alive and to be thrown as many
+times as possible. So, this character is
+going to want a way to keep Boo alive.
+There's three different ways that we can
+affect Boo's hit points. One is Aid,
+which this character can't cast itself,
+but an ally can cast Aid on Boo. Another
+is Hero's Feast. If you have a cleric
+ally casting Aid and Hero's Feast on
+Boo, then he's going to have 52 hit
+points if you use a Hero's Feast and a
+level five Aid or 57 hit points if you
+use a Camp Caster or a Spell Refresh and
+use Aid at level six. We can combine
+that with the Abyss Beckoners Gloves.
+These give our summons, including Boo,
+uh
+resistance to all damage except for
+psychic damage at the cost of going mad.
+Now, we don't really care if Boo goes
+mad because he's usually going to be
+being thrown next to enemies anyways,
+and then when he goes mad, he'll almost
+certainly just bite the enemy that he's
+next to. Um so, the Abyss Beckoners are
+very powerful for this build because
+they keep Boo alive and we don't care
+about the downside at all. Another
+alternative, especially since this build
+plays well with a cleric ally, is to
+have an ally cast warning bomb on Boo.
+That will give him resistance to all
+damage, so even when we're throwing him,
+he won't be taking significant damage uh
+from enemies. And that will enable us to
+use other gloves. We could use the
+Gloves of Belligerent Skies for even
+more reverberation, obviously a very
+powerful option. Or if we want more
+damage, we can use the Sparkle Hands. Uh
+throwing enemies at each other counts as
+an unarmed strike for the Sparkle Hands,
+so it will create lightning charges and
+discharge those lightning charges. Now,
+again, this is something you have to be
+aware of because the lightning damage
+will apply both to the enemy that you
+hit with Boo and to Boo himself. So, you
+will run out of hit points on him a
+little faster. But, Boo can also drink
+potions, so if you leave potions on the
+ground, you can have him heal himself.
+Uh so, a stockpile of potions is really
+nice for this character as well.
+Rounding out the debuffing suite for
+enemies, we're going to be using the
+Surgeon's Subjugation Amulet. Um
+hitting an enemy with Boo does count if
+you crit does count as a critical hit
+for this amulet, so you can paralyze
+enemies and then get automatic critical
+hits with your future throws. Now,
+critically hitting enemies with Boo
+mostly doesn't matter because the base
+damage of your attack is one, but we're
+adding a bunch of rider effects with
+like Flurry of Blows damage and
+everything else. So, those uh damage
+dice will be multiplied by two on
+critical hits. Uh we should also use
+some defensive gear for ourselves.
+Things like the Safeguard Shield are
+really good because, of course, they
+give us higher armor class and help keep
+us alive. If you're not using the
+Luminous Armor or have it on another
+character, you can use the Armor of
+Agility to get good armor class and
+saving throws on this character. Uh the
+Deadshot makes you critically hit more
+often if you are having it equipped
+passively. And this character can
+actually fire a bow sometimes, too, if
+you don't have Boo within reach and need
+to maintain your rage cuz if you don't
+attack or do damage on a turn, having a
+ranged weapon equipped is pretty
+important to make sure that you can uh
+if you don't attack or do damage on your
+turn, rage ends. So, having a ranged
+weapon equipped to make sure you can
+meet that condition is pretty important
+on barbarians. Finally, of course, to
+throw Boo more times in a turn, we want
+the Helmet of Grit. Then, when we have
+50% or fewer hit points, we get a third
+bonus action, so we can throw Boo a
+third time. Also, one item that is
+conspicuously missing from this build is
+the Ring of Flinging. Uh the 1D4 bonus
+to throw damage doesn't work when
+throwing Boo because he's immune to
+throw damage, and so for whatever
+reason, the Ring of Flinging doesn't
+apply its bonus damage when you throw
+him. So, there's no point in taking this
+ring on this character even though it's
+a thrower. Use the Callous Glow Ring and
+the Ring of Spiteful Thunder instead.
+Also very important for this character
+are some illithid powers. In particular,
+ability drain is another way to apply a
+condition. And so, when you hit an enemy
+with a thrown Boo, it will drain their
+strength because you're making a a main
+uh strength attack strength-based
+attack, so it's going to reduce their
+strength by one, and that will also
+inflict a condition, which again applies
+all of our effects which care about
+inflicting conditions, as well as
+reducing enemy strength. So, an enemy
+that you hit will be radiated orbed,
+have reduced strength, be reverberated,
+be prone, and be blinded, and thus be
+completely unable to fight back because
+you've debuffed them so heavily by
+hitting them with an angry hamster.
+Finally, just for fun, I wanted to take
+a moment and talk about some other ways
+that I considered building this
+character because I actually tried
+several different concepts before
+settling on the berserker thrower in
+order to maximize throwing Boo. Um
+with lots of different ways to build the
+character, some of which I think are
+pretty interesting, but the ways in
+which they worked or didn't work, I
+thought would be fun to talk about. So,
+for those of you who are interested in
+the character building process, maybe
+this will be a neat look behind the
+curtain. So, one thing that I
+considered, of course, was whether we
+should go with a fighter thrower because
+you can use action surge, but obviously
+uh Boo isn't a weapon, so you can't bind
+him as a weapon for Eldritch Knight. So,
+a lot of the appeal of a fighter thrower
+um
+is missing. And you can't use Battle
+Master maneuvers. Critical hits mostly
+don't work because Boo doesn't roll
+damage dice. Um so, Champion thrower is
+out, and obviously Arcane Archer doesn't
+do anything, so fighter didn't really
+end up being an interesting route to go
+for this build. Some more interesting
+ideas were druid. Spore druid uh
+symbiotic entity does apply to thrown
+weapons, the 1D6 necrotic damage.
+However, because Boo isn't a weapon, it
+doesn't work when you throw Boo. So, for
+this version of a thrower, it didn't
+make sense, but it is interesting as a
+potential route to build more optimized
+throwers with. One thing that does work
+is Form Keeper Ranger. Swarm Keeper
+Ranger's ability gives you the once per
+turn uh 1D6 damage that you activate
+when you deal damage to an enemy. So,
+when you throw Boo at an enemy, it will
+allow you to activate that extra D6 of
+damage. That could be a cool way to deal
+lightning damage and stuff like that.
+However, the downside of Swarm Keeper
+Ranger is that it doesn't apply to the
+enemy, it applies to Boo because he's
+considered the main target of the
+attack. So, when you throw Boo at an
+enemy and activate Swarm Keeper Ranger,
+it just hurts Boo more. Uh so, that also
+didn't really pan out.
+One option that does work and that I do
+think is actually really cool is Valor
+Bard. Valor Bards actually make very
+good throwers. I did a build guide uh to
+a Valor Bard thrower previously. And uh
+because while Sword Bard abilities don't
+apply to thrown weapons, Valor Bard
+abilities don't suffer from that
+problem. So, they get extra attack,
+medium armor, shield proficiency they
+get, so they're pretty tanky, and they
+actually make very good throw throwers
+as well as having the spell access that
+all bards get. And Valor Bard for
+throwing Boo in particular is cool
+because you can throw Boo and give him
+the Valor Bard inspiration. That means
+that you can throw Boo at an enemy,
+inspire him, and then if the enemy
+attacks back, he can basically use
+cutting words to defend himself. So,
+it's a more defensive take on throwing
+Boo at enemies. It also, of course,
+gives you the full bard spell casting,
+which is very, very powerful. So, even
+though Valor Bard is the least used of
+the bard subclasses cuz usually Sword
+Bard just does it better, um for a Boo
+throwing build, Valor Bard is actually a
+pretty solid option. In the end, I went
+with berserker barbarian just because
+it's so much more powerful to be able to
+knock enemies prone and inflict all the
+conditions that you get from berserker,
+and the berserker thrower can fall back
+on their amazing damage anyways. But, I
+thought it might be fun to talk about
+the other options that I considered when
+building this character, and maybe if
+you want to play around with one of
+those potential builds, then you can let
+me know how that worked out for you.
+Uh as always, my friends, if you have
+enjoyed the video, feel free to leave a
+comment and hit like. And if you enjoyed
+this little digression on other possible
+ways to build the character at the end,
+let me know about that, too, cuz I'm
+open to doing more behind-the-scenes
+discussion. Uh and of course, you can
+subscribe to my channel for more
+Baldur's Gate 3 build guides and other
+strategy game analysis. Thanks for
+watching, and enjoy throwing Boo.

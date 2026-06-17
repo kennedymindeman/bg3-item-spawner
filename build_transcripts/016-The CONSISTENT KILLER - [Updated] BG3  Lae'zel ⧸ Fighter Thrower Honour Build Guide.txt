@@ -1,0 +1,1218 @@
+All right, my friends. Let me show you
+just how quickly and how accurately this
+character annihilates designated
+punching bag, the oathbreaker knight.
+Notice that we've done no pre-buffing
+except this fire elixir I used just to
+get rid of another elixir. Um, and we're
+not using any damage boosts like far
+aloo or the ballist armor. Though, of
+course, if we were, then our damage
+would be even more spectacular. We're
+going to lead off by hitting him with a
+booming blade in order to trigger war
+magic. This, of course, also does a
+bunch of uh great damage. actually did
+minimum possible damage there. I think
+we rolled double ones on the thunder
+damage. Um, and then he's going to
+hellish rebuke us back. We'll then leave
+melee range, getting at least 20 ft away
+so that we don't blow ourselves up when
+we start throwing Nai at him. Uh, for
+more single target damage, we could also
+be using the dwarven thrower disguised
+as a dwarf. Let's go ahead and throw Nai
+here. And we've got a critical hit,
+which of course does a million damage.
+We're more likely to critical hit thanks
+to our itemization. And then let's throw
+again. That uses our first three attacks
+which we get as a fighter. But we can
+throw one more time because we used
+booming blade and thus activated war
+magic. So this next attack is going to
+use our bonus action. Since we're a
+fighter, we have action surge. So let's
+go ahead and use that. And then we can
+see if we can finish this guy off with
+only three more attacks. There's one.
+We've got yet another
+another critical hit. And let's go again
+and throw one more time. And the
+oathbreaker knight is dead on the first
+turn of combat. Every attack we made was
+a 95% chance to hit except the first
+one. Um, and with advantage, of course,
+that would become even stronger. So,
+this character just ends every fight
+before it starts. Hello, my friends, and
+welcome back to another Boulders Gate 3
+character building guide. Hope you're
+all doing well. Today, we're covering
+one of the most powerful builds in the
+entire game, the Eldrich Night Thrower.
+This is, of course, an update video to
+my previous video on this build. Because
+when I did my list of the very strongest
+builds in the game, the most powerful
+builds in Balders's Gate 3, I rated this
+one at number two overall, the second
+strongest build in the game. And it got
+even more powerful in patch 8. So, you
+do the math. Even more than that,
+though, it got more interesting to build
+and more fun to play, as well as getting
+a lot of cool new toys to play with. So,
+I wanted to update it because not only
+is this build incredibly powerful, it's
+also just really cool and really fun to
+play. This character does uh more damage
+more accurately than pretty much any
+other character in the game. Your
+attacks hit incredibly hard and almost
+never miss. And you do it all while
+being harder to kill than pretty much
+any other character in the entire game.
+So, in terms of sheer consistency, this
+is almost certainly the easiest build in
+the game to win honor mode with. Before
+I begin, I do want to take a quick
+moment to say thank you so much to Haki
+Karim for the 20 lev donation, Alexander
+Stadola for the $5, Howard Can It Be 404
+for the extremely generous $50, and Lipy
+Wrath for becoming a channel member.
+Thank you so much, my friends. I really
+appreciate your support. It really means
+so much to me. All right, let's wipe the
+floor with honor mode. I'm using Lazelle
+as the example character here because of
+course this is a fighter build and she's
+the fighter of the party and also
+because Gith Yankee makes a pretty good
+choice for this character. The once per
+day misty step gives you even more
+mobility and this character will have
+tons of mobility, one of the major
+advantages of playing it. So that lets
+you double down on something you're
+already really good at. If you're
+building this as a custom character,
+what race you pick mostly doesn't
+matter. As a fighter, of course, we get
+all of our weapon and armor
+proficiencies naturally, so we don't
+need those from our race. But there are
+a couple that give you significant
+advantages. Dwar is excellent. Their out
+of combat invisibility lets you start
+fights from anywhere on the battlefield.
+And as a throwing weapon character, we
+do way more damage when fighting from
+high ground. So being able to invisibly
+move there, not only do you get surprise
+rounds, you also will do more damage if
+you can position easily. Um, Halfling is
+also especially excellent for this
+character. really good for any
+character, but for a throwing weapon
+character, we will usually only miss
+attacks 1 in 400 times. Halfling changes
+that 1 in400 chance to a 1 in 8,000
+chance, making you incredibly consistent
+and making it a statistical marvel if
+you miss multiple attacks in a fight.
+Other great options include Gnome
+because the advantage on mental saves is
+incredibly helpful. uh it removes kind
+of the only thing that you're still
+worried about for this character and
+wood elf for halfwood elf for the bonus
+movement speed are always great options
+as well. At first level, we're going to
+be starting with a level of fighter. And
+right away that makes us a very strong
+combatant, which is worth mentioning
+because one of the things that's so
+great about this character is that it
+has no weak points across the entire
+playthrough. From level one through to
+level 12, it's a strong character the
+entire way. So there's no time when
+you're waiting for the build to come
+online or anything like that. And it
+continuously gets stronger every single
+time you level up. So you're always
+going to be ahead of the power curve and
+able to win fights very easily. At first
+level as a fighter with Lzelle's
+starting armor and a shield, you're
+going to have 19 base armor class. And
+we can increase that even further by
+adding the defense fighting style for 20
+base AC at level one before you add any
+other bonuses. a lot of enemies simply
+can't hit that, you know, cuz this is
+after they patched out the romance
+speedruns. Um, and so that just makes
+this character extremely hard to kill
+right from the beginning of the game.
+There are some other fighting styles
+that we could take. Great weapon
+fighting, while it doesn't apply on
+throne weapons, this character will be
+making melee attacks sometimes, and so
+you can get a little bit of extra damage
+on those. and dueling fighting style
+does have some bugs that allow it to
+apply um to thrown weapon attacks, but
+in general they require some
+micromanagement and very specific gear
+setups. So, personally, I don't think
+it's worth it. So, we're going to take
+defense fighting style in order to make
+this character even harder to kill. For
+our ability score selection, there are
+two different ways that we can set up
+this character's ability scores. Either
+you can do an elixir build where you
+take no strength and then drink an
+elixir of hill or cloud giant strength
+every day to replace your strength score
+entirely, or you can actually take
+strength. For this build guide, I'm
+going to show you a build where we
+actually put points into strength.
+Because one of the great things about
+this character is that we don't need to
+use any gimmicks in order to be an
+incredibly strong honor mode character.
+But as a strength-based character in
+Boulders's Gate, you can still get a
+huge benefit from elixirs. So, I'm going
+to show you both possible setups. For
+the elixir version of the build, we're
+going to be taking a very unusual
+looking attribute split. So, firstly, of
+course, we're going to drop our strength
+down to eight cuz we're going to replace
+this by drinking elixirs of hill and
+cloud giant strength every day. And then
+we're going to take 17 in dexterity, 15
+in constitution, 14 in wisdom to max out
+our wisdom save, and 12 in intelligence
+for the same reason. These two odd
+numbers might look uh weird, but we're
+going to be evening those out with feats
+at later levels. Another small thing
+that you can do if you're doing this is
+to take 10 starting intelligence, 16
+constitution, and then respspec to this
+attribute split when you hit level four
+and get tavern brawler. That gets you a
+couple more hit points for the early
+game, so it can very much be worth the
+respect. But this is the attribute
+spread that you're going to end up on.
+However, for the purpose of this guide,
+I'm going to show you the nonattribute
+splits, uh the non- elixir attribute
+split. So, let's hop back to that and
+max out our strength here.
+Finally, for our skill proficiencies,
+the only important thing is that you
+have athletics. Um, because fighters
+have perception available, you might as
+well take proficiency in perception. Um,
+obviously, Lazelle comes with athletics
+by default, but if you're playing
+another character, you might have to put
+the skill here. Being able to shove
+enemies is really important and
+otherwise this character mostly won't be
+making skill checks. So this is the only
+proficiency that really matters. All
+right, that's all the decisions that we
+have to make at level one. Let's move on
+to level two. At character level two,
+we're taking our second level of fighter
+and we get, of course, action surge.
+Action surge is the best class feature
+in the game pretty much. Um, and for
+this character, of course, it's no
+exception. it what it's what gives us
+higher burst damage than pretty much any
+other character in the game cuz it'll
+let us make seven attacks in the opening
+round of combat in the endame. Each of
+which hits more accurately and for more
+damage than the attacks of any other
+character.
+At character level three, we get to
+choose our third fighter level and pick
+our fighter subclass. Of course, we
+already know what we're going to take.
+The throwing focused subclass, Eldrich
+Knight. Eldrich Knight gets us a couple
+things and they're all incredibly
+powerful for this build. Firstly, of
+course, we get the weapon bond. Um, this
+allows us to turn any weapon into a
+returning weapon. So, when you throw the
+weapon, it'll come back if you have
+bonded with that weapon. That gives us a
+couple more options for powerful weapons
+that we can use as our main thrown
+weapon, cuz not every weapon with an
+effect when you throw it naturally
+returns to your hand. But as an Eldrich
+Knight, you can just make that happen.
+We also get some spell casting. And the
+spell casting that you get with Eldrich
+Knight is incredibly powerful for
+defending yourself and making this
+character even harder to kill, as well
+as increasing your damage output. Let's
+start with our cantrips. So, for the
+first cantrip, we're going to be taking
+blade ward. Blade ward is excellent for
+a character like this one who will be in
+heavy armor for most of the game. A lot
+of heavy armor comes with natural damage
+reduction. Um, so like the adamantine
+splint armor for example reduces
+incoming damage by two. If you're taking
+half damage, that half damage is applied
+before the flat damage reduction. So it
+means that this character is taking tiny
+fractions of the normal amount of
+incoming damage whenever you have blade
+ward activated. That means if this
+character needs to tank for whatever
+reason, you have a great option to do
+that. We're also an Eldrich Knight, so
+when we cast a cantrip, we're going to
+have war magic to get an attack in
+addition to that cantrip. So that's a
+great play pattern. If you need to spend
+a turn just defending yourself, you can
+cast blade ward and still make an
+attack. The second cantrip is booming
+blade. And this is what has really
+spiked this character in power level
+before it's already uh above its already
+stratospheric power level that it had
+before because booming blade lets us
+make an attack which counts as casting a
+cantrip. So we can trigger war magic
+with eldrich knight. I'll talk a little
+bit more about this when we get to that
+point, but basically this means we get a
+whole extra attack every single round of
+combat. Every single turn, we get to
+take one more attack than we could
+before the patch. Uh thanks to the
+existence of booming blade. It also, of
+course, is just a very powerful ability
+regardless. Lets us trigger a lot of
+synergy items with the thunder damage.
+It's very strong in the early game where
+you can booming blade and then shove an
+enemy away, then they have to take the
+extra damage to walk back. So, this was
+a huge upgrade to the Eldrich Knight
+because of the existence of this
+cantrip. For our spell selection, uh the
+basic spell selection for the Eldrich
+Knight lets you take any abjuration or
+evocation spell. And the main goal here
+is to avoid ones that have saving throws
+or hit rolls. Um since we have only
+eight intelligence, we're not going to
+hit with those. So, we want uh spells
+that buff us or make us stronger in some
+way or don't require us to have high
+intelligence in order to use. At first
+level, the best ones to take are, of
+course, shield. In combination with our
+very high natural armor class, shield
+will let us block even more attacks
+against us. So, it makes this character
+extremely hard to kill. 20 base AC, plus
+five from the shield, plus any
+additional bonuses that you have from
+items or anything like that, and enemies
+usually will not be able to ever land a
+hit on this character. And then in
+addition to that, we're going to take
+magic missile. Magic missile has no role
+to hit, doesn't require you to have high
+intelligence, and any source of just
+guaranteed damage is very useful um
+pretty much throughout the game. In the
+early game especially, this can be used
+to finish off a couple lowhealth enemies
+and make fights uh much easier in a
+guaranteed way without rolling any dice.
+So, it just makes you even more
+consistent.
+For our expanded spell slot, there's a
+couple more choices. If your party does
+not have enhanced leap or longstrider
+elsewhere um in the party, then you
+definitely need to pick these two
+utility spells, it is very important to
+have access to both of them. So, you're
+definitely going to want to pick those.
+Enhanced sleep especially is really good
+with our very high strength to give us
+effectively a teleportation every single
+turn. If you do have enhanced sleep and
+long strider elsewhere in the party, you
+can take another spell. Something like
+find familiar um can be very very useful
+for the eldrich knight. Disguise self
+we're going to want eventually because
+that'll let us use the dwarven thrower
+um which is a great weapon for us. So
+there's a couple really solid options
+here. But if you don't have characters
+capable of casting these two definitely
+take them. We're going to start with
+enhanced sleep just because it's very
+useful. Uh, Lazelle does get once per
+day enhanced sleep as a githani, but you
+still want to take it because it's a
+ritual spell, so you can cast it all the
+time, not just once per day. At level
+four, we're going to be taking our
+fourth level of fighter and getting
+access to our first feat. The feat that
+we're going to take here is, of course,
+Tavern Brawler. This is a throwing
+weapon character, and Tavern Brawler
+allows you to double your strength bonus
+um both to hit and to damage whenever
+you throw something. So, we're going to
+take our now 18 strength and add twice
+that plus4 bonus to all of our attacks
+and all of our damage. This means we
+will basically never miss our attacks
+and they'll do more damage than most
+other characters. DND fifth edition, uh,
+which is what Boulders Gate is based on,
+has a concept called bounded accuracy,
+which is basically the idea that your
+chance to hit, um, should never be too
+high or too low against uh, onle
+enemies. And Tavern Brawler, the way
+it's implemented in Balders's Gate 3,
+completely breaks that principle and
+means that you get just 100% chance to
+hit in a lot of fights. So, um, it just
+breaks the normal balancing rules of the
+game and overpowers things, which is why
+this character is so incredibly
+powerful. We also get a spell here, but
+since this is from our Eldrich Knight
+spell list, it mostly doesn't matter
+what we take cuz we're going to replace
+it next level anyways. We can grab
+protection from evil and good. It comes
+up in some encounters in the early game.
+Um, and all of these other spells except
+mage armor have a hit roll, so we don't
+have any use for them.
+A character level five, we get extra
+attack, which of course doubles our
+damage output and is a massive power
+spike for any marshall character. Uh,
+and for this character in particular
+means that in the opening round of
+combat, we can do four attacks using
+action surge. Since those attacks all
+hit for ludicrous damage and almost
+never miss, that means that most fights
+you are starting by killing the
+strongest enemy in every fight just by
+throwing stuff at them until they die.
+So, it makes every combat in the game
+significantly easier. We also get to
+replace a spell and we're going to
+replace whatever we took last level
+because when you replace a spell as an
+Eldrich Knight, you can take one a spell
+from the expanded spell list. So, it
+lets you get the other of the two
+utility spells, long strider and
+enhanced leap that you didn't take if
+you don't have another character who can
+use those or take fine familiar or
+disguise self. Um, if you do have
+another character capable of casting
+these ritual spells
+at character level six as a fighter, we
+get a bonus feat. And yet another one of
+the things that's awesome about this
+character is even though we have to take
+tavern roller at level four and a lot of
+honor mode characters want to take alert
+as soon as possible because the feat
+alert just is so good for honor mode
+letting you win initiative against every
+enemy in the game. Removing surprise
+rounds when those come up. Um so you
+will just always be able to start fights
+by killing the most threatening enemy
+before they ever get to take a turn. Uh,
+this character needs to take Tavern
+Brawler, but still doesn't have to delay
+alert too many levels because we get to
+grab that at level six. So, we're going
+to take Alert. And now we will win
+initiative in every combat and open
+those combats with action surge and four
+attacks to kill the most dangerous enemy
+in the combat right away. Meaning that
+we almost never have to face whatever
+the most dangerous enemy in any given
+combat is. At character level seven,
+we're taking yet another level of
+fighter. And this is where the huge
+power spike that this character got from
+patch 8 and the existence of booming
+blade comes into play.
+The at fighter level 7, at Eldrich
+Knight level 7, you get war magic, which
+lets you make an attack as a bonus
+action anytime you cast a cantrip.
+Previously for throwing focused Eldrich
+Knights, this was not a significant
+increase to their damage output and was
+an ability that you would mostly ignore.
+Um, but Booming Blade completely changes
+that because it lets you cast a cantrip
+that's also just an attack. So, you're
+not giving up any damage or giving up
+very little damage when you trigger war
+magic. So, now this character can make a
+bonus action attack every single turn as
+long as we're able to cast booming
+blade. Previously, the way that you
+would build this character is take a
+level of cleric and pick up war domain
+cleric, which three times per day lets
+you make an attack as a bonus action.
+That was a pretty big burst uh damage
+increase, but it meant that when you had
+used those three attacks per day, you
+either had to long rest or give up a lot
+of damage output. And in later rounds of
+combat, you wouldn't have your bonus
+action attacks. Now that booming blade
+exists, we don't need to take that
+cleric level and can instead trigger
+this war magic bonus action attack for
+an extra throw every single turn. So,
+this character has basically gained one
+whole additional attack every single
+turn of combat starting at level seven
+because booming blade now exists in
+addition to all the other advantages
+that that awesome spell gives you. We
+also at Eldrich Knight level 7 get
+access to second level spells. Now,
+these aren't that impactful at this
+level, but will be next level when we
+get the expanded spell list. Um, but for
+our level two spells here, we're going
+to be picking up darkness. Even without
+the ability to see through magical
+darkness, this still has a lot of
+utility in various fights in the game.
+Um, you can still stand in it and be
+immune to ranged attacks and you can
+manipulate the AI with it when you
+understand how to use the spell. You
+also, of course, have the option of
+equipping something like the Eversight
+Ring to gain blind immunity and do all
+the normal darkness abuse tactics. Our
+second spell doesn't really matter.
+We're going to replace it next level
+anyways. So, let's go back and grab
+protection from evil and good so it can
+can continue ping-ponging in and out of
+our spell list. Unfortunately, you can't
+replace a spell here with a level two
+spell uh yet. We won't be able to do
+that till next level.
+At fighter level 8, we of course get
+another feat and also get an expanded
+spell pick and the ability to replace a
+spell. So, a lot of big boosts at
+fighter level 8. Let's start with our
+expanded spell pick. And here we're
+going to take Misty Step. This character
+has tremendous mobility, but Misty Step
+is still a pretty nice pickup. Um,
+anytime that you need to be able to get
+to high ground, this can give you the
+option to do that. Lets you escape
+combats that are going badly really
+easily. Obviously, Misty Step is one of
+the best mobility options in the game,
+so makes sense to have it on every
+character that possibly can. We're also
+going to replace whatever spell we
+picked last level with another level two
+spell pickup. There's a couple options
+for the second one here. Invisibility is
+really solid utility, so that's always a
+good option. Um, you can take that.
+Magic weapon is a pretty nice one as
+well. Since this character is making
+some weapon attacks, magic weapon you
+can cast on your own weapon and use that
+pretty regularly. So, that's what I'm
+going to select here. Though either of
+those two make pretty good options.
+Finally, for our feet, there's a couple
+different choices that we have, but one
+of the great things about not having to
+take the war cleric level is that we
+actually get another feat to play with.
+Of course, we can just take an ability
+score improvement and boost our strength
+up to 20. But we can actually use u all
+three of the attribute boosting feats on
+this character, get to 20 strength, and
+get all of those benefits. And I think
+that that's really cool to be able to
+do. So on this character, we're going to
+take athlete and boost our strength up
+to 19. And then later on, we're going to
+fix that odd number. Now, of course, if
+you want to maximize your damage, you
+can take the ability improvement for
+strength and then respspec to grab
+athlete and heavy armor master at level
+12. Um, but just for the sake of the
+demo, we're going to be just taking
+athlete here and boosting our strength
+up to 19. At level nine,
+ninth level fighter gives us
+indomitable, which is really awesome for
+this character. The only weakness of
+this character basically is that we have
+relatively low mental saving throws. We
+don't have proficiency in intelligence
+or wisdom saves and our attribute scores
+are very low in wisdom. So, enemies can
+hit us with effects like hold person and
+stuff like that pretty easily.
+Indomitable gives us effectively
+advantage or and actually even better
+than advantage because it works with
+advantage on all of those mental saves
+and other saves as well. Um making it
+significantly harder for enemies to lock
+us out of the fight, especially in
+combination with saving throw boosting
+items, which is what this character is
+mostly going to itemize for. So this
+removes one of the only remaining
+weaknesses of the character, making it
+uh almost immortal under most reasonable
+circumstances. enemies just can't do
+anything to you, especially before you
+kill them given how powerful and
+accurate your damage is. You also can
+replace a spell at this level. Now, our
+spell list is pretty good, and there's
+nothing that we really, really want. So,
+you certainly don't have to replace a
+spell. But if you find that you're not
+using magic missile at this point, which
+is very possible cuz your weapon attacks
+are so much better than magic missile
+now. you can replace it with a utility
+spell. Something like find familiar,
+invisibility, or of course, disguise
+self are very useful. So, we're going to
+pick up disguise self here because this
+is about when you probably get the
+dwarven thrower and want to be able to
+disguise as a dwarf in order to use that
+weapon uh when you want to use it.
+At fighter level 10, we get Eldrich
+Strike, which prior to patch 8 was
+mostly not an important ability for
+Eldrich Knight throwers because it
+doesn't apply when you throw a weapon at
+an enemy. But since this build is
+intending to make a melee attack pretty
+much every round of combat, we're going
+to be applying Eldrich Strike very
+regularly. This is a big deal for a
+couple of reasons. The first is that
+Eldrich Strike's tool tip is wrong. It
+says when you hit a creature with a
+weapon attack, it has disadvantage on
+its next save against a spell you cast
+before the end of your next turn. But
+that's actually not true. It's
+disadvantage on any save that you cause
+that creature to make before the end of
+your next turn. So any saving throw that
+the Eldrich Knight inflicts on an enemy,
+they'll have disadvantage on. That
+includes things like weapon actions, uh,
+items, illithid powers. So, the maim
+attack from Nai or the great set of
+weapon actions from the dwarven thrower
+which can knock enemies prone um give
+daz them or I think give them weak grip
+all have saving throws and enemies will
+have disadvantage on those. So, you can
+actually use the cool weapon actions
+from your weapons um very efficiently
+when you have Eldrich Strike. The other
+reason is that this is a condition that
+applies to enemies. So anything that
+triggers when you apply a condition such
+as illithid powers, such as uh
+reverberation stacks and stuff like that
+can be applied with Eldred Strike as
+well. So it is a very powerful tool to
+be able to actually make use of and this
+character gets it more or less for free
+on top of all the other things that
+we're doing. In addition to that, we
+also get a cantrip selection. And of
+course, we're going to take true strike
+to annoy people in the YouTube comments.
+And then for our spell selection here,
+it really doesn't matter what we pick.
+These uh spells from the Elder Tonight
+spell list are just not that important.
+So, we're going to replace whatever we
+get. Uh let's take protection from evil
+and good so it can continue to ping pong
+in and out of our spell list.
+At fighter level 11, we get improved
+extra attack, which of course is again
+an extremely powerful upgrade, giving us
+three attacks every round of combat,
+plus a bonus attack for more magic. So
+four attacks every single round of
+combat without using any resources. And
+then of course, if we use action surge,
+we get three more attacks for seven
+attacks on the opening round of combat
+and then four attacks every round
+thereafter. just more attacks than
+almost any other character is capable
+of. And we can do it turn after turn
+after turn for more damage and more
+accurately. We also get an additional
+spell selection here. Mostly doesn't
+matter what we pick. And then we're
+going to replace whatever spell we took
+at a previous level with one of the
+utility spells that I've already
+mentioned. In this case, uh let's go
+ahead and grab invisibility. Another
+option also is to pick up hold person.
+This character can use Arcane Acuity um
+and Elder Strike in order to land hold
+person pretty effectively. I don't
+recommend it cuz the Arcane Acuity stuff
+is better used on another character, but
+that is an option that you have even
+with only eight intelligence. Uh you can
+boost your save DCs to where enemies
+still can't pass the saving throw. And
+finally, at character level 12, we get
+to take another feat. And the really
+cool thing about this build and the fact
+that we get four feats is that we can
+now take heavy armor master, which also
+increases our strength and gives us even
+more damage reduction. At this point in
+the game, we will have um probably the
+armor of persistence to take half damage
+from most attacks from enemies. And
+combined with heavy armor master, the
+two flat damage from the armor of
+persistence becomes five flat damage uh
+reduction. Meaning that almost any enemy
+attack is going to be reduced by 2/3 or
+so in terms of how much damage that you
+take. When you're only taking a third of
+the damage that any enemy attack is
+doing, and you have really good hit
+point values, really high AC, are
+playing at range, so you're very hard to
+hit, this character becomes nigh
+impossible to kill. So, getting to
+combine all three of these plus one
+strength feats is actually really nice.
+Now, of course, this isn't the only
+option, but it's one that I really like.
+Um, but if you instead of taking the
+bonus mobility from athlete and damage
+reduction from heavy armor master, want
+to just take plus two strength at level
+eight, you do get a couple other options
+for your level 12 feet. You can go with
+dual wielder to benefit from the
+passives of a weapon like the knife of
+the under mountain king. uh holding that
+in your off hand while throwing with
+your main hand um can give you plus one
+to your crit chance. So is a pretty
+strong benefit to your character as
+well. Uh and a feat like lucky can make
+you even more consistent or mobile can
+give you some additional mobility. Tough
+is also a totally reasonable option. So
+there's a couple other options, but the
+way that this character gets to hit 20
+strength while also getting all of these
+great benefits, I think is particularly
+cool. And one of the great things that
+you can do, another option also if you
+take plus two strength is to still take
+the war cleric level. Um there are times
+when it's not practical to get a bonus
+action attack by using a booming blade
+attack cuz you just can't get to melee
+and the bonus action throws from war
+cleric can still be useful in that case.
+Uh, I should also mention that of course
+if you're doing the elixir version of
+the build, then you will have put the
+plus one from athlete into dexterity to
+hit 18 dexterity and the plus one from
+tavern brawler into constitution to hit
+16 constitution. I didn't mention that
+at the time, uh, which maybe I should
+have, but if that's how you're building
+the character, then those are where
+you're going to want to put those stats
+rather than into strength, which of
+course would be wasted. All right, my
+friends, that is the Eldrich Knight
+Thrower. probably the easiest character
+in the game to get an honor mode win
+with. So, I hope that you enjoy running
+around with it and flattening honor
+mode. But, of course, we can make it
+even stronger with appropriate items.
+So, let's talk about those. Four items
+for this character. This character has a
+bunch of different item options, but
+mostly they're geared around increasing
+our damage and increasing our
+survivability. One of the great things
+though is that although this character
+has a lot of items that boost its
+damage, they're mostly not ones that any
+other character wants because they're
+specific to throwing weapon characters.
+So, you really won't compete for items
+with uh the other characters in your
+party as much as you might expect from a
+pure damage focused character. Let's
+start with weapons. So, we want uh a
+weapon that has this property, the
+throne weapon property, because that's
+what allows it to do its full weapon
+damage when you throw it at an enemy.
+There are four main weapons that you
+need to pay attention to uh as you
+progress through the game. The first
+good throwing weapon that you're going
+to get is the returning pike. 1d10
+piercing damage um and it returns to you
+whenever you throw it is with a plus one
+weapon is a really nice early game
+weapon. It's going to be the first
+weapon that this character is going to
+be looking for in act one. Later on,
+you're going to get the lightning
+jabber, which does additional damage.
+And on lower difficulty settings, this
+is especially powerful because the extra
+1d4 lightning damage on difficulties
+other than honor mode counts as a damage
+rider source, which if you don't know
+what that is, don't worry about it. Um,
+but the TLDDR is that it will add your
+damage modifiers more times than it
+should and do way more damage than it's
+supposed to. So, on tactician difficulty
+or below, the Lightning Jabber does a
+lot of damage. Even on honor mode, it's
+still going to be your best in slot uh
+as soon as you get it. Finally, in act
+three, there are two choices for
+throwing weapon. the dwarven thrower,
+which is your best choice for single
+target damage because a dwarf throwing
+this Warhammer does an extra 1d8
+budgeoning damage. That counts um if you
+are disguised as a dwarf. We have
+disguise self, which is a ritual spell
+that lasts all day. So, you can disguise
+yourself as a dwarf and use the dwarven
+thrower in order to do the highest
+single target damage output in the end
+game. And then for AoE damage, any fight
+where you care about hitting multiple
+enemies and just is the best sort of
+default weapon, there's Nyola, which
+does AoE damage exploding whenever you
+hit an enemy with it. Since we're doing
+seven attacks in the opening round of
+combat, that uh 3d4 thunder damage is
+going to add up to a tremendous amount
+of AoE damage, and it's a pretty big AoE
+in a 20ft radius blast. um as well as
+giving you additional movement speed and
+jump distance so you become even more
+mobile and a bunch of other great
+utility options as well. So your endgame
+options are the dwarven thrower combined
+with disguising yourself as a dwarf for
+single target and nya for AoE damage. In
+addition to your weapon, there are two
+main items that are specifically
+dedicated to increasing your throwing
+damage. And of course, we're going to
+want those. The first of these is the
+ring of flinging, an extra D4, a bonus
+to your throne damage. So obviously
+incredible for this character. And the
+second is the gloves of uninhibited
+Cushigo, which is also an extra D4
+damage with thrown attacks. Again, on
+lower difficulty settings, these items
+are bugged and will add your cavern
+brawler damage multiple times. So you're
+going to get even more damage out of
+them. But even on honor mode, an extra
+2d4 damage on every single attack you
+make is excellent and is going to
+increase your damage output enormously.
+In addition to those, we also want other
+items that boost our damage per attack
+because we're making so many attacks.
+And the natural pick here is just the
+costic band. Adding two acid damage on
+your throne um weapon attacks. It does
+work on throwing weapons. It means that
+you're dealing an extra 14 base damage
+when you're doing your burst damage
+turns and then an extra eight damage
+every turn thereafter. So, it increases
+your damage output pretty significantly.
+An alternative to the costic band is the
+callus glow ring. if you want to do
+radiating orb stuff with this character.
+Usually that's going to be better on
+another character. So the costic band is
+going to be better for us, but it is an
+option that you can use. Finally,
+another ring worth mentioning is the
+Eversight ring. We do get access to
+darkness. So you can do darkness
+shenanigans if you're immune to blind
+through this or the hell dust helmet or
+another way to get blind immunity.
+That's an option for this character as
+well. In addition to that, we're going
+to focus on boosting our defenses
+because again, another great thing about
+this character, we don't need that much
+dedicated to offense because our damage
+is already so high. So, we can also make
+the character much more stable by giving
+it amazing defensive items as well.
+We're going to take grab a shield for
+additional armor class. The sentinel
+shield is excellent. If another
+character needs this, don't worry about
+it. this character's plus eight
+initiative is fine, but um plus 11
+initiative means you'll go before almost
+every enemy in the entire game 100%
+guaranteed. So that will make your honor
+mode run even smoother. Another great
+alternative is the adamantine shield to
+become immune to critical hits and
+remove yet another possible threat. Uh
+so those are great options for your
+shield. This character can also just get
+away with any shield that the rest of
+your party doesn't need. Uh you don't
+need a specific one. So, um, the shield
+can be more of an afterthought when
+you're equipping this character. For
+your armor selection, the adamantine
+splint to remove critical hits and
+reduce incoming damage is going to be
+the best in the early game. And then
+later on in the game, you're going to
+continue to upgrade to other good heavy
+armors. The armor of persistence, of
+course, is the best endgame defensive
+armor, and this character can make use
+of it incredibly. So, that's going to be
+your best in slot defensive armor.
+Another option worth noting in the end
+game is the ballist armor. This can be
+worn either by this character or by
+another character in your party. Almost
+all of our weapons that we're using are
+piercing. So the returning pike,
+lightning jabber, and nyola all do
+piercing damage. And most of our damage
+output is going to be piercing. Giving
+enemies vulnerability to piercing damage
+either by positioning an ally near them.
+If you're doing that, uh, you won't want
+to use Nai because, of course, the AoE
+could kill that ally. Or by having this
+character actually wear the ballist
+armor and play within 10 ft of enemies
+means that you're doubling all the
+damage output of this character, which
+obviously is ridiculous and will break
+the game in half completely.
+For our helmet, the marksmanship hat is
+very good in the early game, of course,
+increases our consistency, and bonuses
+to hit are always good. And then in the
+late game, uh the best defensive option
+is the Helm of Baldderin, which makes us
+immune both to critical hits and to
+stuns. Uh obviously, stun immunity is
+incredible for this character, removing
+yet another possible threat, making you
+immune to almost anything that enemies
+can throw at you. Another great
+alternative is the helmet of grit. This
+character has tons of amazing uses for
+its bonus actions. So, this can give you
+a lot of mobility, though, of course,
+you have to manage your health in order
+to stay at half health or below in order
+to get the extra bonus action.
+A couple more defensive options for the
+character. The ring of protection could
+replace one of your more offensive rings
+if you're really worried about your AC
+and saving throws, though, I think in
+general, you're going to be better off
+with the more damage focused rings. And
+the cloak of protection uh increases
+your saving throws, which matter more
+than armor class. So, I like it more
+than the cloak of displacement for this
+character because boosting your
+defensive stats with the cloak of
+protection means that again we get to
+ignore what enemies are doing. Finally,
+a couple defensive options for amulets.
+The amulet of greater health of course
+gives you a huge boost to your HP. You
+can drop your constitution and increase
+your other uh mental stats to gain
+additional saving throws in intelligence
+and wisdom and then also have really
+high health. So, the amulet of
+constitution is a great fit as well. If
+you have a dedicated healer in your
+party, the peropive wound closure is
+also pretty nice on this character.
+We're going to be tanking a decent
+amount or attempting to tank a decent
+amount. So, being able to heal that up
+is really good. There's also a couple
+other items, a couple other weapons that
+are really worth bringing up for this
+character. Valor Louu, of course, with
+the shriek ability, if carried by an
+ally, will allow this character to deal
+an extra D4 of thunder damage on every
+single attack. So, you could have an
+ally with the ballist armor and faraloo
+stand next to the enemies that you want
+to bring down. That will multiply your
+damage to a ludicrous extent. Um, so an
+extremely powerful addition to this
+character if you have an ally who can
+carry it. Uh, and the knife of the under
+mountain king increases your critical
+hit chance if you are uh if you took the
+dual wielder feat, which of course will
+increase your average damage output.
+There's also a couple other weapons that
+are worth stockpiling in your inventory
+for any throwing character. Just having
+a lot of these around is very useful.
+Plus one daggers or even non-magical
+daggers are very useful because when you
+throw most weapons, they travel in a
+pretty high vertical arc. Um, but when
+you throw a dagger, it travels in a
+straighter line, so it's less likely to
+be interrupted in areas with low
+ceilings. So, it can be very useful
+there. And also just gives you stuff to
+throw if for whatever reason you uh need
+to throw something that isn't your main
+weapon, which can definitely come up in
+some encounters cuz there are a couple
+bugs with throwing weapons or it might
+not return to you. And light hammers are
+very similar to daggers. Um, and also
+our bludgeoning damage. So if an enemy
+is resistant or immune to piercing
+damage, especially in the early game,
+then the light hammer makes a great
+alternative. So stockpiling these in
+your inventory is very helpful as well.
+You also, of course, can benefit from
+the passives of various bows that you
+can have equipped. The Hell Rider
+Longbow gives you plus three to your
+initiative roles. So especially if
+you're not using the Sentinel Shield,
+the Hell Rider Longbow can let you
+guarantee going before enemies. And the
+dead shot, similar to the knife of the
+under mountain king, increases your
+critical hit chance. So makes you vastly
+more likely to just kill enemies in a
+single volley of attacks. For our boots,
+it mostly doesn't matter what boots you
+wear, so you can just wear whatever
+another party member doesn't need, but
+the disintegrating night walkers always
+make a great option. They give you extra
+mobility on this already very mobile
+character and a nice pile of immunities
+to various surfaces. It also is very
+synergistic if you're doing a wet and
+cold and ice surface themed party. One
+thing that this character can provide
+because we have so many attacks and
+bonuses to throw is is we can throw
+bottles of water at enemies to set up
+water puddles and get enemies wet for a
+lightning uh ally. Um, and if you're
+doing a lot of ice surface stuff, having
+immunity to falling over on those from
+the night walkers is very relevant. So,
+that's a very strong synergy that this
+character can use. Finally, for our
+elixir, obviously, if you're the elixir,
+the strength elixir version of the
+build, you're going to need hill giant
+strength elixirs and then cloud giant
+strength elixirs. And even for the non-
+elixir version of the build, cloud giant
+strength elixirs are still pretty huge.
+Going from 20 strength to 27 strength is
+a plus six bonus to your attacks and a
+plus six bonus to to your damage cuz
+tavern brawler doubles those bonuses.
+Now, if you're taking all the story
+events that give you additional
+strength, you'll have 24 strength from
+two from the potion and two from the
+mirror. So, the cloud giant elixir will
+be a much less pronounced bonus in that
+case. Um, but this is still a pretty big
+bonus to your damage output even in the
+non- elixir version of the build. And
+obviously for the elixir version, it's
+critical. The non- elixir version of the
+build can also use blood lust for yet
+another attack. We're going to be
+killing lots of enemies cuz we do so
+much damage. So, an additional attack
+from an elixir of blood lust can be very
+powerful. It also gives you a full
+action which you can use to cast a
+spell. So, you can use this blood lust
+action to cast something like
+invisibility if you want to not have
+enemies retaliate against you or just
+blade ward or something like that. Um,
+so the blood lust elixir comes with a
+lot of bonuses in addition to the extra
+damage that it helps you do. Finally,
+I'm going to mention a couple quick tips
+for actually playing the build because
+throwing weapon characters do have some
+particularities that are worth paying
+attention to. Firstly, get used to using
+the throw hotkey. Uh it'll save you a
+lot of clicks if you use the hotkey to
+throw your weapons. So, that'll save you
+a lot of time when you're actually
+playing the the character. Uh secondly,
+carry backup weapons because there's a
+couple fights in the game where your
+throwing weapons can get stuck and not
+come back to you. So having a stockpile
+of backup throwing weapons is very
+helpful to uh avoid that situation. Um
+and don't be afraid to wade into melee
+if you need to. Remember you're still a
+fighter. We've got booming blades. You
+can do a bunch of damage. It's also
+worth trying to have other characters be
+the first to attack in a fight cuz
+there's a glitch sometimes where if you
+attack a neutral creature, uh one that's
+not yet hostile with a throwing weapon,
+the game doesn't think that you're in
+combat and doesn't return your throwing
+weapon to you. So, you can avoid that by
+having another character initiate fights
+instead of this one. Also, keep in mind
+that weapons aren't the only thing that
+you can throw. This character does
+really well throwing healing potions,
+bombs, and grenades, bottles of water,
+any utility items like that. We have
+lots of attacks, and when you throw a
+hostile item like a grenade, you do a
+lot of damage with it also. So, this
+character makes an excellent character
+for excellent carrier for any throwing
+objects that you have in addition to
+dealing tons and tons of damage. All
+right, my friends. I hope that you've
+enjoyed this look at the Eldrich Knight
+thrower. In my opinion, the easiest
+character in the game to win honor mode
+with, and I hope it helps you get that
+honor mode win or just help carry more
+role playing focused builds to victory
+in your honor mode parties. As always,
+of course, if you have enjoyed the
+video, feel free to leave a comment and
+hit like. helps me out with the
+algorithm. So, I really appreciate you
+taking the time to do that. And of
+course, you can subscribe to my channel
+for more Boulders Gate 3 build guides
+and other strategy game analysis.
+Cheers, folks. I'll catch you next

@@ -1,0 +1,1351 @@
+All right, my friends. Just for fun, let
+me show you what it looks like when a
+hex blade warlock attacks. Notice that
+we've done no pre-buffing or anything.
+And we're using a cantrip to start this
+off. So, we can do this as many times in
+a day as we want. Let's use Alson as the
+target here. We'll go ahead and make
+that a critical hit. And he is instantly
+slain. We have a second attack. So, uh,
+let's attack Jihira cuz she happens to
+be standing there. And while we've only
+done a measily 70 damage to her with the
+second attack, though we could have
+improved that even further if we wanted
+to use a banishing smite or something,
+we can now as a bonus action since she
+survived, hit her with a hold person
+with a 96% chance of success. So now she
+can't move and that's just one turn of
+combat. Hello my friends, and welcome
+back to another Boulders Gate 3
+character building guide. Hope you're
+all doing well. Today we're covering my
+pick for the best warlock build in
+Boulders's Gate 3. This is an update
+video to my previous video of the same
+name because with the launch of patch 8,
+the best warlock in the game has
+changed. We're going to be building the
+new Hexblade Warlock, which adds
+incredible amounts of power to the
+warlock class and takes it from being
+already an amazingly powerful character
+and an excellent contributor to your
+party to being one of the very best
+builds available for honor mode. Before
+I begin, I do want to take a quick
+moment to say thank you so much to
+Tarantula for the $5 donation, A Boen
+for the $5, Scott Meyers for the $20,
+and Jacob Hall for the $5. Thank you so
+much, my friends. I really appreciate
+the support. It really means a lot to
+me. All right, let's talk Warlocks. So,
+what makes Warlocks so powerful and what
+makes Hexblade Warlocks particularly
+excellent? Well, I mentioned in my last
+Warlock video that the key word for
+Warlock is consistency. They have the
+best default combat action in the game
+in the form of Eldrich Blast, allowing
+them to, no matter what the
+circumstances or however many resources
+you have left, always output excellent
+damage at range, so you always have
+something good to do in combat. However,
+unlike other characters that have great
+consistent damage, warlocks also have
+access to really highle spells. So, uh
+they can also just one-shot encounters
+by applying the appropriate spell. So
+you get the reliability of a ranger or
+fighter and the spike the power spikes
+of a sorcerer or wizard. Add to that
+that warlocks always have their highest
+level spells available and warlocks are
+uncompromising. You never have to reduce
+the power level of your actions for
+warlocks because they will always have
+the best action available. The downside
+of warlocks before hexlade existed was
+that they sacrificed a little of their
+peak power level in each area in
+exchange for this consistency. But Hex
+Blade Warlock doesn't do that. Because
+of its incredible melee damage and the
+absurd damage spikes that you can do
+with your melee burst combos, as well as
+its excellent defensive capabilities,
+Hexblade Warlock is as good or better at
+melee and marshall combat than the
+Marshall classes, and as good or better
+at spell-casting than the spell-casting
+classes, making it a true jack of all
+trades and an absolute nightmare for
+your enemies in honor mode. On top of
+all that, it gets great defensive
+capabilities. So, it's very very hard uh
+to kill. Gets access to some of the most
+broken mechanics in the game in the form
+of darkness and arcane acuity abuse as
+well as some of the best item support in
+the game as well. Um, and also is a
+charisma based character, so
+multiclasses extremely well and can
+cover all of your conversational and
+party needs. So, every single party is
+always going to be happy to have a
+hexblade warlock in it. I'm using Will
+here as the example character because,
+of course, this is a warlock build and
+he's the warlock of the party. But if
+you're building this as a custom
+character, then the races that I would
+recommend are D or half D. They get
+additional uses of the darkness spell at
+level five, and darkness is one of the
+most powerful things that warlocks have
+going for them. So getting extra casts
+of it just gives you a significant bonus
+throughout the game. Of course, D also
+have a lot of other great features to
+recommend them, but the extra casts of
+darkness are extremely useful for a
+warlock. Other excellent options include
+halfling because their ability to reroll
+ones makes this already incredibly
+consistent class even more consistent.
+And that's just an an absurdly powerful
+ability regardless. And uh wood elf or
+halfwood elf because the additional
+movement speed is very helpful whether
+you're trying to stay at ranged to use
+your spells and eldrich blast or whether
+you're trying to close the distance and
+use your melee attacks. Having extra
+movement speed can enable you to do
+either much more easily. For our ability
+score selection, we are going to take 16
+in charisma and 16 in dexterity. We're
+going to drop intelligence down to eight
+here. Um, and 14 constitution and then
+put the remaining points into wisdom.
+This gives us the 81614 81 1216 split
+that you're going to see a lot of
+charisma characters use. 16 dexterity is
+really important for hexblade warlocks
+because you will benefit very strongly
+from winning initiative. You do so much
+damage that enemies will often die
+before they get a chance to act if you
+go before them. And you have great
+lockdown. So any enemy that might
+survive, you can probably just uh lock
+down with a spell or effect that keeps
+them from acting. So winning initiative
+is incredibly important in honor mode,
+even more so for a controlling and burst
+damage focused character like this one.
+While 14 constitution might seem a
+little low for a frontline melee
+character and it will leave you with
+fewer hit points, this character gets
+great armor proficiencies and the shield
+spell. So, your defensive options are
+excellent. You can get away with
+slightly lower constitution on this
+build than with some than for some other
+uh melee focused characters. And if you
+start getting to low hit points, you can
+always back off and fight at ranged
+because your ranged and spellcasting
+options are so excellent as well. If you
+really are nervous about playing with 14
+constitution, you can swap these two
+numbers. I would definitely recommend
+the higher initiative split with the
+more dexterity. Um, but it won't ruin
+your character to do it the other way
+round. We take 12 wisdom, of course,
+because we want higher wisdom saves in
+combination with the our proficiency in
+wisdom saves. This means that most
+mental effects will not work on the
+Hexblade Warlock, which is great for
+keeping you you alive. You're very
+resilient to physical damage because you
+have the shield spell and shields and
+medium armor. So, your armor class and
+everything will be very good. and you're
+you are very resilient to mental saving
+throw targeting effects with high wisdom
+and wisdom save proficiency. Finally, of
+course, we want 16 charisma cuz
+everything that we do is based around
+charisma. Both our melee weapon attacks,
+ranged attacks, and our spell casting
+all use this stat. So, we want it as
+high as possible. If you are going to
+use Ethel's hair for this build, and
+warlocks benefit a lot from uh Ethel's
+hair, then you can drop your wisdom down
+to 10 and take 17 charisma. So that that
+will bring your charisma up to 18. Um
+because of course the higher your
+charisma, the more effective this
+character. We're adding it multiple
+times over to everything we do. So this
+is one of the best characters in the
+game to use it. But since we get our our
+full set of feats regardless, you can
+put it on another character if there's
+someone else you want to use it with or
+if you don't get it in this honor mode
+run, you certainly don't need it. For
+our background and skills, warlocks
+don't come with persuasion by default.
+And because they're a charisma based
+character, they're an excellent
+character to be your party face. Now,
+Will himself comes with persuasion. But
+if you're building a custom character, I
+highly recommend a background that gives
+you persuasion cuz it's the most
+important of the dialogue skills. Of
+course, you can get away with taking
+intimidation or deception or both, which
+warlocks get by default, and it will
+help you. Those will help you out as
+well, but persuasion is the one that
+comes up the most often. So, a
+background that gives you persuasion
+access is very important. I recommend
+guild artisan because it gives you
+insight and persuasion which are both
+useful in dialogue and that's what you
+want out of your uh skills from this
+character. Your other skill selections
+can just go to uh anything that you
+think would be appropriate for your
+character for flavor reasons or you can
+just take all of the dialogue skills.
+Take your background uh to get
+persuasion and take deception and
+intimidation with your warlock skill
+levels and that will give you all of the
+possible dialogue skills in every
+dialogue. So that's another great option
+as well. But the most important thing is
+just making sure that you get persuasion
+from your background. Of course, at
+first level, we also get to select our
+subclass. And the subclass that we're
+taking we've already discussed, and that
+is going to be Hexblade. While any of
+the Warlock subasses are very powerful,
+and I have many builds up for all of
+them, uh the Hexblade Warlock is head
+and shoulders the best of them now that
+it has been launched and will be the
+most powerful way to build a warlock.
+Hexblade Warlock gives us several things
+at first level, all of which are
+excellent. Uh firstly, we get bind hex
+weapon. So this gives us the ability to
+um as many times as we want per day
+choose the weapon that we're holding and
+bind it to us magically. It's like
+packed of the blade, but at level one
+instead of at level three. This gives it
+two things. Firstly, it uses our
+charisma modifier to attack instead of
+our strength or dexterity. So, we now
+only need to raise our charisma to make
+our ranged attacks with Eldrich Blasts
+good, our spell casting good, and our
+melee weapon attacks as good as possible
+as well. So, this lets us tie everything
+to a single attribute. In addition to
+that, when you hit an enemy with it,
+there's a 20% chance that it'll apply
+Hexlad's curse to that enemy. Hexlad's
+curse is another ability that we get
+that lets us uh that increases the
+chance that we critically hit against an
+enemy who's cursed and lets us add our
+proficiency bonus which at level one is
+two and will go up to plus four um at
+later levels um to every single instance
+of damage that we do to those enemies.
+So this will allow us to if we're
+attacking multiple times per turn a ton
+of additional damage to enemies. This
+will work on every beam of an Eldrich
+blast. It'll work on every attack of an
+extra attack. It'll often work on
+additional damage riders that we add to
+our attacks. So, if you have a way to
+stack extra damage on your attack, it'll
+add hex blades curse both for the attack
+and for the extra damage even on honor
+mode. Um, it's a huge amount of
+additional damage and makes our critical
+hits much more likely. Also, at time of
+recording, there's a bug. It's supposed
+to be a 20% chance to apply, but you get
+a separate 20% chance for every time you
+bind your hexed weapon. So, you can bind
+it over and over again uh like 20 or 30
+times and get a 100% chance or nearly
+100% chance of applying the Hex Blades
+Curse on every attack. I expect that bug
+will be fixed, but I wanted to mention
+it cuz right now you can make this even
+more reliable. Hexblad's curse you can
+also cast once per short rest as a bonus
+action if you just really want to curse
+a specific enemy and you will gain
+additional critical hit chance and
+additional damage with all of your
+attacks against them. Finally, we also
+get medium armor, shield, and marshall
+weapon proficiency. So, this gives us
+all of the best armor and weapon and
+shield proficiencies in the game. Medium
+armor is often better than heavy armor
+because there's a lot of really powerful
+medium armor sets. So, this is the best
+possible proficiencies for a melee
+character and just an excellent set of
+uh abilities overall. With shield
+proficiency and medium armor in the
+early game, you can very easily reach um
+19 armor class just with a 15 AC medium
+armor set and a shield. And a lot of
+enemies in the early game can't reliably
+hit 19 AC. So, you're going to avoid
+getting hit early without any other
+investment into um AC, especially
+because of the spells that we have. So,
+the amount of stuff that we get just at
+level one from hex blade is already
+excellent. For our cantrip selection,
+there are uh two cantrips that we are
+always going to take at first level, and
+those are Eldrich Blast. Of course,
+every Warlock needs access to Eldrich
+Blast because it it's your ranged
+attack. It is going to get to add our
+charisma to the damage next level. Um,
+and it just gives you an excellent thing
+to be doing even if you can't reach an
+enemy in melee or don't have a relevant
+spell to cast. just a warlock's best
+pantrip. And one of the things that
+makes warlocks so good, pretty much
+every other character measures its
+damage against an Eldrich blasting
+warlock. They're kind of the the
+baseline damage for um Dungeons and
+Dragons. So, you want to have access to
+that and it makes you as good as
+possible at doing damage. The second one
+is Booming Blade. Booming Blade lets you
+add its effect to a weapon attack, which
+we're making pretty frequently. And at
+first level, uh, when we first get it,
+it does when that enemy moves, they take
+a d8 of thunder damage, which isn't that
+exciting, but can get better if you can
+force their movement in some way. Um,
+but as you level it up, it will when we
+hit level five, we will uh do a d8 of
+thunder damage when we first attack that
+enemy, and then they'll take 2d8 if if
+they move. And when we hit level 10,
+they'll take 2d8 when we first attack,
+and then 3d8 when they move. 5d8 of
+damage for a cantrip is a ridiculous
+amount of damage and you can do this
+multiple times per turn if you have
+multiple actions. Um, booming blade is
+just an in an absurd amount of burst
+damage that you can add to all of your
+weapon attacks and it's free. So, we
+definitely want that as well. For our
+spell selection, there are again, I
+think two choices that are pretty much
+set in stone for the hexlade warlock.
+We're going to take shield, which is
+unique to hexblade warlocks. It's the
+only warlock that can learn shield and
+is uh one of the best defensive
+abilities in the game. If you're going
+to be hit by an attack that you don't
+want to be hit by, you can spend a spell
+slot on shield. And warlock spell slots
+come back on a short rest. So, at low
+levels, this is not much of an
+investment, especially because it will
+often keep you alive uh against things
+that you otherwise would not be able to
+survive. And the second one is going to
+be Hex. Hex is similar to Hexlad's
+curse, but as a spell takes your
+concentration. It adds uh a d6 of damage
+to all your attacks. Again, when we're
+firing multiple beams with our Eldrich
+Blast, this is going to add an extra d6
+to each of these beams. Um, we can stack
+it with our hex blades curse. If we
+apply curse and hex, it will do damage
+to both of them will do damage to the
+enemy when we hit that enemy. Um, and
+it's just an an increase to all of our
+damage. An enemy who's hexed and being
+hit by Eldrich blasts dies very very
+fast. an enemy who's hexed and being hit
+by our weapon attacks dies even faster.
+So, we definitely want both of these
+spells at level one. That's all the
+decisions that we have to make at level
+one. So, we've now uh completed the
+beginning of our Hexblade Warlock's
+journey. Let's move on to level two. At
+character level two, we get to choose
+new spells and two Eldrich Invocations.
+So, we get two new spells at this level,
+but I should say that this is probably a
+bug. Warlocks are only supposed to get
+one new spell at level two, but in patch
+8, they changed it so that you get to
+learn two spells at second level. I
+don't know whether this was an
+intentional change, but I think probably
+it will be changed back at some point,
+so you only get to learn one at second
+level. Don't be surprised if that
+happens to you. I'll show you both what
+I would take given only one spell as
+it's supposed to be or given only given
+the two additional spells that we're
+currently getting. Um, again, I think
+that the choices here are fairly clear.
+If you only get one spell at level two,
+that spell should be armor of Agthus.
+Armor of Agthus lets you turn a uh short
+rest resource, a warlock spell slot,
+into something that lasts all of your
+long rest. And it also helps make up for
+taking slightly lower constitution
+because it effectively gives us 22 hit
+points instead of 17 by adding five hit
+points to our character. These hit
+points you can help you can protect with
+damage reduction. you can keep them
+alive a little bit longer by shielding
+attacks against yourself, but mostly
+it's just to make your character a
+little tankier, a little more resilient
+to getting a one-shot and also the five
+cold damage that it deals back to melee
+attackers is definitely relevant
+sometimes. If we get a second spell,
+then it's a little more interesting. But
+the spell that I would take in that case
+is Hellish Rebuke. While this won't come
+up that often, hellish rebuke can be
+pretty good burst damage in the early
+game. 2d10 fire damage when an enemy
+hits us um can kill some of these early
+game enemies. So, while I wouldn't
+usually spend a spell slot on this,
+hellish rebuke can be useful in some
+narrow circumstances and more so than
+the other spells that we have available.
+Although, we do get the option to take
+wrathful smite. I wouldn't recommend it.
+You're better off uh if you want to
+spend your warlock spell slots on doing
+damage just using them on hex instead of
+on wrathful smite. Eldrich Invocations.
+Again, we have some pretty clear
+choices. Agonizing blast is the most
+important of these. It lets us add our
+charisma modifier to our Eldrich Blast
+damage. At later levels, Eldrich Blast
+is going to be firing multiple beams,
+and so we'll add our charisma damage
+multiple times over. Um, and this is
+what enables Warlocks to do amazing
+ranged damage turn after turn after
+turn. The second and also extremely
+important uh invocation is devil's
+sight. Devil's sight lets you see
+normally in magical darkness, which
+we're going to start creating a lot of
+at next level when we get access to it.
+Um and magical darkness is one of the
+most powerful things that you can do in
+Boulders's Gate 3. It makes enemies
+completely who can't see through it
+completely unable to target you with
+ranged attacks. So you are invincible to
+enemy ranged attacks. Also, if they
+can't see you, you have advantage on all
+your attacks against them because they
+can't see you. And they'll have
+disadvantage on all their melee attacks
+against you because if they enter the
+darkness to attack you, they'll be
+blinded. So, if you have devil sight and
+can see through the darkness, you
+basically become immune to ranged
+attacks and get advantage on all your
+melee attacks and enemies get
+disadvantage on all their melee attacks.
+And warlocks can make use of this. It's
+one of the most powerful strategies in
+Boulders's Gate 3 and one of the extreme
+draws to being a warlock. So, these are
+the two uh Eldrich Invocations that I
+would highly recommend picking. At
+character level three, Warlock gets to
+take a packed boon. And for Hexblade
+Warlock, there is only one choice of
+packed boon that we can realistically
+make. In order to get extra attack,
+which lets us make two attacks with one
+attack action, we need to take Packact
+of the Blade. How packed of the blade
+works with hex blade is that um where
+normally you would get the blade packed,
+it just combines the effect of the blade
+pack into the hexed weapon ability. So
+you now get extra attack when we hit
+level five with packed of the blade. Um
+pack of the blade normally would let us
+attack with our charisma as well, but as
+a hex blade, we can already do that. So,
+we're pretty much just taking this so
+that we get the extra attack feature at
+level five. But that's such an
+incredibly powerful feature that pack of
+the blade is the only realistic choice
+for a hex blade. Of course, if you don't
+feel like you're making melee weapon
+attacks, you will you can play with pack
+of the tome or pack of the chain as
+well, but you will be giving up a lot of
+power level compared to pack of the
+blade. We also get a second level spell.
+And the spell that we are going to take
+is going to be darkness because, as I've
+mentioned many times, that's one of the
+best things that Warlocks can do. It
+makes you much more powerful in melee
+and invincible at ranged. And we're also
+going to replace one of our level one
+spells. Now, if we have the extra level
+one spell um from the current bug, we're
+going to replace hellish rebuke.
+Otherwise, we're going to replace hex,
+but we'll take it again at later levels.
+Uh because the it's so important to have
+level two spells when you're playing
+with a warlock. With a warlock, your
+spells always use your highest level
+spell slot. You always have your highest
+level spell slot available. So, we want
+as many highlevel spells as possible to
+make sure our spells are as powerful as
+possible. The second spell that we're
+going to take to replace our spells is
+shadowblade. Shadow Blade gives us a the
+ability to summon a weapon. And we can
+bind that as our hexed weapon. We have
+to reummon it every day because it only
+lasts until long rest and then rehex it.
+Uh so don't forget to do this when you
+first wake up after a long rest. But
+shadowblade gives us a weapon that
+attacks for 2d8 psychic damage as a
+one-handed weapon. So it lets us use a
+shield and the shadow blade at the same
+time. This is more damage than any other
+weapon available at this level. And
+shadow blade also gains additional
+damage when you cast it at higher
+levels. Um, and warlock spells level up
+for free, so it's just going to keep
+increasing in damage as we level up.
+There's also ways to increase it even
+further. You also get a advantage on
+your attacks made against enemies in dim
+light or darkness. So, even if the enemy
+can see through the darkness, you'll
+still now get advantage on them inside
+your darkness cloud. And even if you
+don't have a cast of darkness, you can
+still get advantage if the enem is in
+dim light. Of course, you can put out
+lanterns to make that happen as well.
+So, shadow blade just uh gives us so
+much melee damage and lets us again turn
+a short rest resource into a long rest
+benefit cuz it lasts all day and makes
+all of our weapon attacks more powerful.
+And also has even increased knock-on
+effects cuz it lets our party members
+use the most powerful weapons in the
+game cuz we don't even need to equip a
+weapon in order to be strong when making
+weapon attacks. At level four, we get to
+take a feat as well as another cantrip
+and an additional spell. So, the cantrip
+that we're going to take, there are, I
+think, a couple choices here that all
+make some sense. Um, and it's going to
+be based on what else you have in your
+party. Minor illusion is a very powerful
+tool. So, if you don't have this
+elsewhere, you should pick it up. You
+can cast it out of combat. Enemies will
+run towards it, and you can use it to
+set up AoE attacks against them by
+gathering them into one place or split
+them up so you can pick them off one by
+one. Another great option is friends
+because it if this is your party face,
+friends will let you make your dialogue
+checks more easily. Even on honor mode,
+you can just leave the area after
+casting it and it won't have the
+penalty. Um, Blade Ward can help you
+defend yourself because gaining damage
+resistance is very useful for this
+character that is often up in melee and
+front lining. And bone chill is
+excellent in act two, especially cuz
+there's a lot of undead and a lot of
+healing that you need to prevent. The
+best from a combat perspective is going
+to be bone chill. So, we're going to
+take that here. But any of those four
+are pretty reasonable picks. For our
+spell selection, there's really three
+choices that we can take. Oh, I guess I
+forgot to actually confirm replacing uh
+Shadow Blade here. So, let's make sure
+we actually do that. Um, and then for
+our spell selection here, there are
+really three choices that we can take.
+You can take cloud of daggers for AoE
+damage. This is a great concentration
+spell that does AOE damage. So, if your
+party needs that, you can grab it. Misty
+step as a panic button to get out of a
+fight that you want to leave or just
+reposition or hold person because this
+is a great control spell and also will
+make your melee attacks critically hit.
+I'm going to recommend cloud of daggers,
+but if another party member has cloud of
+daggers, you can take either of the
+other two and benefit very strongly from
+that. for our feet. Since this is honor
+mode, we're going to take alert.
+Initiative is so important in honor mode
+that almost every honor mode character
+wants to grab alert as quickly as
+possible so that you win initiative 100%
+of the time. If you go first, enemies
+often don't get to go second. So, this
+uh this feat just wins honor mode for
+you so reliably because it makes your
+characters so much better at ending
+fights before they start. At character
+level five, we get several extremely
+powerful things. We get deepened packed,
+which because we took Pack of the Blade,
+gives us a second melee attack every
+time we attack, doubling our damage
+output when we're melee attacking, which
+obviously is awesome. We also get third
+level spells, which are some of the most
+powerful spells in the game. Thirdle
+spells are where spellcasters typically
+hit their huge power spikes, and extra
+attack is where marshall characters
+typically hit their huge power spikes.
+So level five for hex blade, you get
+double power spikes and become
+incredibly strong all of a sudden and
+you are already very strong, but this is
+where the class really uh takes off into
+the stratosphere. For our spell
+selection at this level, there are two
+spells that we really want. So we're
+going to replace one of our earlier
+spells again. We're going to take
+counter spell um because counter spell
+is the best defensive reaction in the
+game. you always have highlevel spell
+slots to use with a warlock, so you'll
+almost always automatically succeed on
+counter spell. Um, and this just lets
+you trade your reaction for an enemy's
+whole turn, stopping them from doing
+anything and keeping your party safe.
+The second spell that we're going to
+take is again we're going to replace an
+earlier spell and we're going to replace
+cloud of daggers here because we have
+now a better AoE concentration spell to
+concentrate on. And the second spell
+that we're going to take is hunger of
+Hadar. Hunger of Hadar is a huge AoE
+that blinds enemies without a saving
+throw inside it. And they take cold and
+acid damage every turn. It also counts
+as difficult terrain, so it's harder for
+them to get out of it. Combine hunger of
+Hadar with an effect like spike growth
+to slow enemies movement speed and make
+them take damage while they're having to
+walk out of it, and you have built your
+own uh microwave to just instantly win a
+bunch of encounters by stacking these
+spells on top of each other. So, hunger
+of Hadar, just an absolutely
+game-winning spell. And again, one of
+the major draws to Warlock is just how
+good this spell is. We also get another
+Eldrich Invocation. Um, and again, the
+choice is pretty clear for what the best
+Eldrich Invocation is here. We're going
+to take Repelling Blast. Repelling Blast
+lets us push enemies 15 ft when we hit
+them with an Eldrich Blast. And that can
+include back into a hunger of Hadar off
+of a cliff uh into a melee enemy uh into
+a melee allies range or away from our
+warlock if we're trying to stay at
+range. It let gives you a lot more
+control over the battlefield. So
+repelling blast is just a super powerful
+effect and especially because we also
+got a second Eldrich blast beam at level
+five and more damage on booming blade as
+well. Level five is the gift that keeps
+on giving. Um so this just gives you
+even more tactical options.
+At level
+six, we get because we're a hexblade
+warlock, the oursed spectre ability. So,
+when uh an enemy dies who has hexlad's
+curse on them, and this includes if you
+have a second hexlade in your party,
+their hex blade curses as well will let
+you trigger a cursed spectre. Uh you can
+use your reaction to summon a creature
+from it. Free summons that don't take an
+action are amazing. And the strength of
+the creature is based on the si the the
+spectre is based on the size of the
+enemy. So this just adds a ton of things
+to the battlefield that you can use to
+block doorways, do a bunch of extra
+damage. The specters are pretty powerful
+combatants as well and they'll absorb
+hits for your party so they keep your
+party safe. A great feature and you
+don't have to spend a resource on it at
+all. Um it just happens when you're
+fighting. So you will get a lot of
+benefit out of a cursed spectre. for our
+spell selection at this level. Oh,
+again, I I uh failed to actually select
+replace spell there. I need to remember
+to hit the confirm button. So, don't
+forget to do that. Um for our spell
+selection at this level, we're going to
+go back and grab one of the earlier
+spells that we didn't take um before. Uh
+whether that is
+uh hold person to get automatic critical
+hits or we could take another AoE
+control spell like hypnotic pattern or
+fear. Those are both great options also,
+but I'm going to recommend taking hold
+person because getting guaranteed
+critical hits against enemies is great.
+And hold person works really well with
+some items that we're going to want
+later on as well. At level seven, we get
+fourth level spells. And there's
+actually a lot of great options for
+different spells that we can take at
+this level. So, you kind of have a
+choice depending on what you want to
+emphasize. Banishment can win certain
+encounters all on its own because a lot
+of it targets the enemy's charisma save
+and a lot of enemies have terrible
+charisma saves. So banishment can just
+win those encounters outright cuz
+they'll have a very hard time succeeding
+on the saving throw against it. Greater
+invisibility can be used with a stealth
+character to make attacks outside of
+combat and kill enemies before they ever
+know that you're there. Fantasmal killer
+is unique to hex blades. No other
+warlocks get access to this. And so, and
+while this is a pretty weak spell for
+most spellcasters that get it, warlocks
+don't have to expend a highle spell slot
+on it cuz all of your spell slots
+upgrade for free. And the effect of the
+spell is actually not bad. It does
+pretty good psychic damage, and we want
+to improve our psychic damage anyways
+because of our shadow blade. And locking
+an enemy in place for 10 turns and
+giving them disadvantage on uh attack
+roles is really pretty good for our
+concentration. So, this is a great
+option as well. Staggering smite is
+extra burst damage and can prevent
+enemies from attacking, but it also
+takes your concentration. So I I would
+recommend fantasmal killer over that.
+But honestly, the recommendation that I
+would mostly make for our fourth level
+spells is to go back and grab hypnotic
+pattern or misty step from earlier
+levels because these spells are really
+really useful to have and can win
+certain encounters on their own or get
+you out of trouble if uh things are
+looking grim. So, we're going to grab um
+just misty step as a panic button.
+Typically, we're going to spend our
+concentration either on darkness or
+hunger of Hadar. So, having a a spell
+that we can use if things are going
+really badly can give us a panic button
+to make sure things don't snowball out
+of control and cost you your honor mode
+run. Our Eldrich Invocation also gives
+us another great combat option in the
+form of the dreadful word invocation
+which lets us cast confusion, another
+AoE control spell with our warlock spell
+slots. Um, so we can just use that as
+well. Confusion also doesn't hit allies.
+So unlike a lot of other AoE spells, if
+we're up in melee or our allies are
+mixed in in melee, we can confuse all
+the enemies and lock down the encounter
+without hitting our allies. At level
+eight, we get our second feat. And of
+course, the feat that we're going to
+take is an ability improvement to max
+out our charisma. We want to increase
+our charisma as soon as possible, but
+it's more important to get alert in
+honor mode, so we pick that up early.
+Um, but if you're using Ethel's hair,
+you'll already have 18 charisma. And if
+you aren't, there's gear and story
+events that can boost your charisma as
+well. Um, but just increasing our
+charisma increases all of our damage and
+the likelihood of success of all of our
+abilities. for our spell selection at
+this level. At this point, you should
+have a pretty good idea of what spells
+you're using and what you're not and
+what holes you're uh are in your party
+that you need to fill with your spells.
+So, you can take one of the ones that I
+mentioned in order to uh make sure that
+you have the answers to every problem
+that might come up. I'm going to
+recommend Fantasmal Killer just cuz it's
+kind of fun that we get to use this
+spell that most characters will just
+kind of ignore. Um though, it's not
+going to come up that often. It is fun
+that you get to use the spell in a way
+that most characters can't. At level
+9 in Hexblade Warlock, we get fifth
+level spells. And for a lot of
+characters, these are relatively weak,
+but for hex blades, we get some really
+good fifth level spell options. The two
+unique spells that hexlades get that
+other warlocks don't get access to are
+amazing spells. The first of these that
+we're definitely going to take is
+banishing smite. While this does take
+our concentration, so be careful cuz it
+will end your concentration on darkness
+or hunger of Hadar, banishing smite does
+5d10 bonus force damage. And if the
+enemy has 50 or fewer hit points, they
+get banished for two turns as well. Um
+5d10 bonus damage or 10d10 on a critical
+hit is a massive amount of burst damage.
+And while normally spending a fifth
+level spell slot is a big cost, for
+warlocks it's not cuz that's just a
+short rest resource. So this is a huge
+amount of burst damage. the second one
+that we're going to take and we're going
+to replace one of our lower level
+spells. At this point, you should have a
+good idea of what spells you're not
+using that frequently, but we're very
+rarely going to be concentrating on hex.
+So, that's the one I'm going to get rid
+of here. Um, and the second one that
+we're going to take is cone of cold.
+Warlocks can suffer from not having
+great AoE burst damage, but not hexlade
+warlocks cuz this class gets to do
+everything. Uh, cone of cold, another
+spell that often a wizard or sorcerer
+won't want to spend a spell slot on
+because it it's a very expensive spell,
+but not for warlocks. 88 cold damage is
+a huge amount of burst damage. You can
+double this by getting the enemies wet
+with create water or throwing a bottle
+of water at them. Um, so cone of cold
+does a an enormous amount of burst
+damage to an AoE group of enemies and
+can clear out ads or additional enemies
+in a combat encounter very very quickly
+and efficiently. So now we have
+incredible sustain damage, incredible
+melee and range damage, excellent
+control, and AOE burst. So Hexblade with
+the addition of cone of cold gets to do
+the very last thing that we couldn't do
+perfectly perfectly. And that's why it's
+such an incredibly strong character. We
+also get another Eldrich Invocation. And
+this gives us yet another whole
+dimension to our character cuz we can
+take minions of chaos and summon a an
+elemental. Um the elementals from
+minions of chaos last all day. So again,
+we convert a short rest resource to a
+long rest benefit and are very powerful
+summons. The water elemental is probably
+the best of them, but all of them have
+their uses, and I encourage you to
+experiment with this, but summons are
+super powerful, and getting to use your
+short rest resource for a long rest
+benefit remains excellent every time
+that you can do that with a warlock. Of
+course, we have to actually replace our
+spells here. So, let's go ahead and
+select that and then move on to level
+10. And at level 10, hexlade warlocks
+get yet another unique feature. Um, this
+is a a very powerful defensive option.
+When a creature you curse with Hex
+Blades curse attacks you, you get to use
+your reaction to have a 50% chance of
+just negating the attack entirely. How
+the game works, how the game treats this
+is that the attack will be treated as a
+critical miss. So, not only will you
+take no damage, no like additional
+effects or control or knocking you prone
+or anything that might have happened on
+the attack will be applied. The armor of
+hex's is just a 50% chance of negating
+an attack entirely and it's more or less
+free because it takes your reaction, but
+if you don't have another use for your
+reaction, this makes you a lot tankier
+overall. A pretty useful ability. It's
+not going to come up in every combat,
+but when it does, you're very happy to
+have it. We also get an additional
+cantrip. So, of course, we're going to
+take true strike to annoy people in the
+YouTube comments. And um for our spell
+selection here, we're going to take hold
+monster. Hold monster is an enchantment
+spell which is very relevant and can
+paralyze enemies. Um, just like hold
+person, we can actually uh use both
+because hold person will upcast to
+target four characters cuz we're using a
+fifth level spell slot to cast it. Hold
+monster will only target one with a
+fifth level spell slot. Um, but it will
+target things that hold person can't. So
+it gives us the ability to paralyze and
+get automatic critical hits against even
+more enemies. super super powerful
+ability. Of course, at this point again,
+you should have a good idea of which of
+these spells you are not using
+frequently and you can replace them for
+something else. There's definitely a
+bunch of other good options. Um, but by
+the time you're level 9, you are level
+10, you will know what your party needs
+better than I do and can take one of the
+spells that I've mentioned previously.
+Um, in order to round out whatever you
+might happen to need. At level 11,
+warlocks get access to the mystic
+arcana. You get to choose one of these
+and the mystic arcum is basically a
+sixle spell slot that you can cast once
+per day. Um, and you get to choose from
+five different options. Of these, only
+two I think are really worth
+considering. The create undead spell
+gives you a very powerful summon, the
+heinous mummy. Um, and summons again are
+very, very good. Uh, it also does extra
+damage to enemies that are frightened
+and can crowdcontrol them. So, a pretty
+powerful summon. And I bite. Ibite can
+be used to just win one encounter per
+day, more or less on its own because it
+gives you the ability to cast every turn
+I bite. Um, which will let you choose
+between paralyzing or putting creatures
+to sleep or making them afraid. Um, just
+a very powerful crowd control effect.
+Also, I like that it's got a recursive
+tool tip, so we can keep generating more
+and more uh more and more ibite tool
+tips if we really want to. Um, of these
+two, I recommend taking Create Undead.
+Just the ability to buff your whole
+party for the entire day is so powerful,
+and we already have encounter spells.
+So, while IBite is super fun and very
+strong, you will not go wrong taking it.
+I think that overall you're going to be
+better just making your party stronger
+all day, better off making your party
+stronger all day. The other thing that
+you get is the ability to cast a third
+spell every uh short rest. So, your
+longevity and power level in an
+encounter have gone up massively at
+level 11. For our spell selection at
+this level, again, we're going to go
+back and grab a utility spell from an
+earlier level. Um, but I do recommend
+picking up hypnotic pattern cuz it goes
+very well with some of the items that
+you can potentially use because uh as an
+illusion spell, it works with the band
+of the mystic scoundrel excellently to
+break the game entirely. And finally, at
+level 12, we get access to another feat.
+And the feat that we're going to take is
+just absolutely certainly going to be
+ability improvement and max out our
+charisma. We want our charisma to be as
+high as possible because it's what our
+character uses to do everything. So no
+other feat here would make sense. And
+our Eldrich Invocation is also quite set
+because we're always going to take
+lifrinker. Available only to level 12
+warlocks. This lets you add your
+charisma damage to your weapon attacks
+again. So it will our weapon attacks
+will now be doing our charisma damage
+twice over with 20 or more charisma.
+This is a huge amount of additional
+damage every single turn. Lifinkrinker
+just a very very powerful ability for
+our spell selection. At this point again
+you should know what you need better
+than I do. Um but you can go back and
+grab some other spells from earlier
+levels that you might be missing at this
+point. Uh something like banishment for
+specific encounters can be very helpful
+as well. All right my friends that is
+the Hexblade Warlock. a true jack of all
+trades, capable of tanking, doing melee
+damage, doing range damage, casting
+encounter spells, uh doing uh supporting
+your allies, performing excellently in
+dialogue. This character truly does
+everything. But of course, we also have
+access to a bunch of broken combos and
+powerful options with items and alithid
+powers. So, let's talk about those. One
+of the many amazing things about this
+character is how many of the game's best
+item combinations we get access to, but
+also how item independent we actually
+are. We don't even need a weapon cuz we
+produce our own weapon. So, this
+character can fit into pretty much any
+party without causing gear conflicts,
+but also gives you access to some of the
+most powerful gear combinations in the
+entire game. Firstly, for our weapon,
+we're almost always going to be using a
+shadow blade. So, shadow blade, of
+course, we summon it. And now we have
+the shadowblade weapon that will do
+additional damage. Then of course make
+sure that you bind it as your hex
+weapon. Otherwise, it's not going to do
+the extra damage that you need it to do.
+Um, some other great weapon options that
+we have include the infernal rapier,
+which is available from Will's personal
+quest and gives you extra spell DC. Uh
+it's redundant with the charisma damage
+uh charisma to hit chance that hex blade
+warlock already gets, but is still a
+very powerful weapon with a great summon
+attached to it. Char's spear of evening
+is also an awesome weapon for any
+character that cares about darkness and
+is making weapon attacks. Um it's
+probably the single best weapon in the
+game to actually attack enemies with. So
+makes an incredible weapon for this
+character. Um, but of course another
+character can use it and then they can
+see through darkness using its passive.
+Marahesh gear of course always amazing
+for any caster. So also very very useful
+for this character as well. Uh, also
+don't forget that your bow can give you
+a passive. So an item like the deadshot
+even when we don't have it equipped or
+don't have it out and are using melee
+attacks will still increase our chance
+of critically hitting. Combine that with
+the advantage we have on all our attacks
+and the increased chance of critically
+hitting with uh Hexblad's curse and we
+get a lot of critical hits. Other super
+important things from our our items are
+we just want to increase our spell save
+DC as much as possible. A shield like
+Keix shield increases our armor class
+and gives us extra spell safe DC. So
+this is the one I would recommend over
+pretty much every other shield in the
+game for this character. And items like
+the fistbreaker helm that give you
+bonuses to initiative and spell save DC
+are at a premium for this character as
+well. Increases to your spell safe DC
+mean that enemies won't be able to
+resist your spells and that's obviously
+awesome. For our armor, we have a choice
+between a more offensive setup and a
+more defensive setup. If we prefer a
+more offensive setup, the potent robe is
+the best possible armor for this
+character. It increases our cantrip
+damage by our charisma modifier. So now
+we're adding double our charisma to
+Eldrich blasts, which is better for
+ranged attacks. But even more
+importantly, booming blade is also a
+cantrip and works with the potent robe.
+So we're adding our charisma modifier to
+damage on that as well. Um, in addition
+to the double our charisma modifier
+damage we're already doing on our weapon
+attack. So we're stacking our charisma
+over and over again. For a more
+defensively uh focused setup, the armor
+of agility can give us much higher um
+armor class and better saving throws. Or
+the flame enameled armor can give us
+resistances and bonuses to our
+initiative to make us even better at
+going before enemies do. Speaking of our
+charisma, the birthright hat or other
+increases to our charisma from story
+events are awesome. Anything that
+increases our charisma for this
+character is at a premium because we add
+it so many times to our attacks. Um, and
+also uh in the form of hats or rings.
+And speaking of charisma, the ring or
+diadem of arcane synergy let us use
+arcane synergy to add to our weapon
+attacks, you guessed it, our charisma
+damage all over again. So, we can stack
+up to six times our charisma in damage
+on our weapon attacks if we have arcane
+synergy with liferinker with um the
+potent robe and booming blade and so on.
+The ring is probably better than the
+diadem because the helmet slot is so
+contested for this character, but either
+are good and arcane synergy is
+incredibly powerful for this character.
+Another amazing combo that we have
+access to for this character is the
+helmet of arcane acuity or other sources
+of arcane acuity and the band of the
+mystic scoundrel. We're making weapon
+attacks constantly, so we'll stack
+Arcane Acuity really quickly. And this
+is probably the single most powerful
+mechanic in Boulder's Gate 3 because
+every time we stack it up to a maximum
+of seven, we get a bonus to our uh spell
+save DC for our spells. This can be used
+in combination with the band of the
+mystic scoundrel, which lets us then
+cast an illusion or enchantment spell.
+Notice how many of our control spells
+like hypnotic pattern or hold monster
+are illusion or enchantment as a bonus
+action. So we can attack twice with our
+main action. uh stack up arcane acuity
+and then cast an almost unresistable
+fold monster or hypnotic pattern,
+locking enemies out of the fight
+completely. It's an incredibly powerful
+combo, these two items, and this
+character is one of the best in the game
+at using them, which is yet another
+thing that it does extremely well.
+Because of this, we're also really good
+at using scrolls. So, this character is
+great at using any powerful scrolls. And
+scrolls, of course, are a very powerful
+tool in Balders's Gate, giving us spells
+that we wouldn't have access to
+otherwise. So, make sure that you uh
+hang on to powerful scrolls for this
+character. But the real best item for
+this character in the game is one that
+you actually don't equip, but uh just
+carry in your inventory, and that is the
+resin stone. The resonant stone gives
+all nearby creatures, including you and
+your allies, the steeped in bliss
+passive, which gives them uh
+disadvantage on mental saving throws, so
+anything targeting wisdom, which a lot
+of our saves target, and vulnerability
+to psychic damage. What's the damage
+type that our shadow blade does? That's
+psychic damage. So, it doubles all the
+damage that our weapons do just for
+carrying this in our inventory at all.
+So, the resonant stone is incredible for
+this character and massively improves
+our damage output.
+Um, other options include items that
+increase our critical hit chance and
+items that increase our spell save DC.
+Things like the hell dust gloves that
+give us extra damage uh on our weapon
+attacks are also very good. But the main
+thing here is that we want to abuse the
+broken item combos like the helmet and
+the band and get high spell DC and
+decent defenses to make our character as
+strong as possible. I've given a lot of
+options here, but what I would
+personally go for as the strongest
+possible setup is the helmet of arcane
+acuity, the band of the mystic
+scoundrel, the ring of arcane synergy,
+um the potent robe, the resonant stone,
+and the hell dust gloves. And then of
+course we're going to be using the
+shadow blade and ketherix shield. Your
+cloak and amulet are up to you and boots
+are all up to you. I like to grab a
+utility boot like the disintegrating
+night walkers just to give us a little
+bit more in the way of safety. Um but
+anything that you feel like your part
+your character needs a little bit more
+of you can grab from those item slots as
+well. This will give you the most
+damaging character though not the most
+defensive character. So you can also
+swap this out for a more defensive setup
+if you find that you're taking a lot of
+damage. Also, keep in mind that this
+character is one of the best in the game
+at using blood lust elixirs because the
+extra actions that you get are so
+valuable because they let you cast
+booming blade again. You can only use
+this once per action, but if you get
+multiple actions in a turn and you'll be
+killing enemies constantly cuz we do so
+much damage. So, blood lust elixir are
+amazing for this character. Also,
+finally, although I've been focusing on
+a monoclass character for this video, I
+should mention that Hexblade Warlock
+multiclasses incredibly effectively as
+well. The most exciting option is
+probably two levels of paladin, letting
+you add smites, and you can use your
+warlock spell slots to smite um for even
+more burst damage. A paladin smite plus
+a banishing smite from our warlock spell
+list is 5d10 force damage plus 5d8
+radiant damage. You can double all that
+with a critical hit plus 48 psychic
+damage. So, this does a massive amount
+of burst damage if you take levels in
+paladin. Levels in sorcerer um can give
+you the ability to restore your sorcery
+points with your warlock spell slots.
+And levels in bard or rogue can give you
+extra skill access to make you even
+better at succeeding on dialogue checks.
+Uh one level of either of those can get
+you a ton more additional skills. One
+level of rogue also gets you expertise
+in a couple skills as well. Um so that
+will let you take expertise and
+persuasion and succeed on dialogue
+checks even more easily. So, those are
+the multiclass options that I would look
+at primarily, though there are tons of
+multiclass options, and you can refer to
+full build guides for those characters
+if you're looking for more of those. All
+right, my friends. I hope that you've
+enjoyed this look at the Hexblade
+Warlock, my pick for the most powerful
+new class added in patch 8. And of
+course, if you have, feel free to leave
+a comment and hit like. And I hope it
+helps you out with your Honor Mode runs.
+And of course, you can subscribe to my
+channel for more patch 8 build guides
+and other strategy game analysis. Thank
+you so much for watching. I'll catch you
+next time.

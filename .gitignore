@@ -11,3 +11,6 @@ wheels/
 
 # graphify knowledge-graph tooling output
 graphify-out/
+
+# yt-dlp intermediate subtitle files (get_transcripts.py cleans these up)
+**/_vtt/

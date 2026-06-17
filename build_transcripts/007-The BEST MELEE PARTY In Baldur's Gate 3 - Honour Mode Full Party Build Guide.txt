@@ -1,0 +1,1791 @@
+hello my friends and welcome back to
+another balers Gate 3 full party
+building guide for Honor mode hope
+you're all doing well today we're
+covering a full melee party this is for
+the players who like to get up in the
+opponent's face to really perfectly
+demonstrate the might of your characters
+and your own tactical prowess now you
+will often hear that ranged characters
+are much easier for Honor mode than
+melee characters in fact in my very
+first video that I did for uh full party
+builds for Honor mode on this channel I
+recommended four ranged characters as
+the easiest way to beat honor mode so in
+some ways this is a little bit of a
+challenge run for players who really
+want to focus on melee but you also get
+some pretty solid advantages for having
+four melee characters which we're going
+to make full use of so it works out to
+being a much stronger party than you
+might think at first glance there's a
+lot of very powerful abilities in this
+game from the very basic you don't care
+about enemy melee characters getting to
+your range your squishy ranged backline
+because you don't have a squishy ranged
+backline to the many abilities in the
+game that care about your party members
+being close together most parties will
+struggle to make use of those abilities
+but we get to abuse all of them making
+this party a Synergy machine like all of
+my full party building guides the goal
+here is to take four characters that are
+very powerful on their own but when
+added together make an even more
+powerful and synergistic ho and for this
+build we're really leaning into the
+Synergy this party works together so
+well that the whole is very much more
+than the sum of its parts and the parts
+by themselves are already really
+excellent as always of course with these
+full party building guides this will
+also require no specific story choices
+for you to make and will not share any
+items between the characters because
+these builds are all designed to work
+together so this should be an excellent
+build for actually playing through honor
+mode the idea here here is to make a
+practical and functional part for those
+of you who want to hit things in the
+face all right let's get to the builds I
+should also mention that I will be going
+over each of these builds levels 1 to 12
+and showing you how to build them and
+what items to take but I've done more
+detailed build guides for each of these
+four builds which I'll link in the
+description below so if you want more
+detail about any of these characters
+definitely go check those videos out for
+more
+information let's start with the
+character that makes the whole thing
+tick because our party is entirely melee
+we get to make optimal use of an
+extremely powerful class feature that's
+very rarely seen in Boulders Gate 3
+character optimization because so few
+parties can take full advantage of it
+the way we can I'm talking about wolf
+totem Barbarian which gives advantage on
+melee attacks to characters within its
+radius our entire party will be making
+melee attacks and can safely group up
+thanks to the defensive abilities that
+other characters will be applying so
+we're going to have permanent advantage
+on every single attack that we make with
+this party obviously that's huge but
+even more importantly it doesn't cost us
+resources to do that as long as our
+Barbarian is Raging which they will be
+in most fights of course we will have
+advantage on every melee attack that we
+make permanently for free there's a lot
+of ways to take advantage no pun
+intended of that um by using characters
+that care a lot about Critical Hits
+which of course many of our characters
+will to get massive damage bonuses from
+more frequent more frequent Critical
+Hits and of course just hit all of our
+attacks to start let's build the
+character so we're going to take a
+pretty normal Barbarian attribute spread
+one uh thing for this party as well is I
+want there to be no overlap in items and
+I'm going to only have one character use
+strength Elixir because I personally
+find it annoying if multiple characters
+are are drinking strength Elixir um
+because you just have to stockpile so
+many of them to make that viable you
+could build this character with strength
+elixir in which case you would take
+eight strength instead of 16 and boost
+your other stats uh but this character
+will not be our strength Elixir user by
+default so we're going to take the very
+normal attribute spread of 16 strength
+14 dexterity 16 Constitution and 12
+wisdom make sure that you have Athletics
+and perception because that's just very
+important for your party to have access
+to and then no other decisions that we
+have to make make it level one because
+we're a Barbarian so things are
+simple at character level two we get
+Reckless attack and this is going to be
+a very important ability for one thing
+it lets us actually hit all of our
+attacks with this character our other
+party members will hit every attack or
+more or less every attack CU they're
+going to have advantage on every single
+thing that every single attack they make
+thanks to this character but this
+character also gets advantage on every
+attack so our whole party is going to be
+making advantaged attacks even more
+importantly re Reckless attack gives
+enemies advantage against this character
+which is actually quite important for
+how this party is going to be built
+because we want this character to be
+taking the majority of attacks that
+enemies make you're a Barbarian so you
+have lots of health and damage reduction
+against non-magical physical damage so
+you can uh resistance against
+non-magical physical damage so you can
+benefit very strongly from uh tanking
+and resisting all of the incoming damage
+but also we're going to be making heavy
+use of the Sentinel feet which is going
+to give our other characters a lot of
+free attacks whenever this character
+tanks a hit so we want this character to
+be the center of attention Reckless
+attack can give enemies advantage and
+the AI in Boulder's Gate prioritizes who
+it attacks based on how easy it is for
+them to land a hit so there will be many
+times where we want to use Reckless
+attack even if we don't need it to hit
+our attack just to give the enemies
+advantage on purpose so that they target
+this character with their attacks that
+also means that we can still have decent
+AC the rest of our party will still have
+pretty good AC but the AI will heavily
+prioritize making attacks with Advantage
+so we don't have to tank our AC we can
+still have enemies Miss some of their
+attacks sometimes uh because we have
+Reckless attack to guide the enemy AI in
+a way that is advantageous to us
+at character level three we're of course
+taking Wild Heart Barbarian and the
+beastial heart that we're going to take
+is going to be wolf heart this gives
+allies advantage on melee attack roles
+against enemies within 7et of us and
+importantly our allies don't have to be
+within s ft so an ally on the other side
+of that enemy um will still have
+Advantage the wolf heart uh Aura applies
+to the enemy not to the Ally so it you
+still have a decent amount of freedom of
+positioning as long as this character is
+near an enemy our other melee attackers
+will have advantage against
+them at Barbarian Level four we're going
+to take a feat and the feat that we're
+going to take is going to be great
+weapon Master this character will end up
+with pretty solid initiative um so we
+don't need alert at this point it is
+good if this character goes first but
+great weapon Master just lets us do so
+much more damage and we have Reckless
+attacks so we want to be landing our
+Reckless attacks if you are finding that
+you are consistently losing initiative
+with this character because you haven't
+found initiative gear or vigilance
+Elixir to give them at at this stage in
+the game you could swap out for alert
+and then Sub in for great weapon Master
+later I'm never going to say it's wrong
+to take Alert in at level four in honor
+mode but great weapon Master increases
+our damage output significantly so it's
+something that we want this party of
+course is going to want to kill enemies
+very quickly because we're all in melee
+so we we don't want to give enemies a
+chance to fight back against us because
+if they land an AOE on our whole party
+that can be dangerous though of course
+we're going to have ways to mitigate
+that as we level up at level
+five we get both fast movement and extra
+attack and of course this character will
+be never wearing heavy armor so we'll
+always have the fast movement this lets
+us position ourselves next to Priority
+targets more easily the whole purpose of
+this party's functioning is that this
+character gives you Advantage when it's
+next to important enemies so the ability
+to reposition yourself next to the most
+important enemies in a fight is very
+important fast movement helps with that
+a ton extra Attack Just doubles our
+damage output and while our other party
+members are uh contributing a lot of our
+damage this character is no slouch in
+the damage Department itself of course
+being a reckless attack and great weapon
+Master character so doubling our damage
+output is extremely powerful for for
+this character as
+well at Barbarian Level six we get an
+animal aspect and the animal aspect that
+I'm going to suggest is that you take
+aspect of the Beast elk just like Fast
+movement this increases our movement
+speed but it increases our entire
+party's movement speed just passive
+permanent plus five movement speed to
+our entire party as long as they remain
+within the aura and since your part is
+going to be grouped closely together you
+are going to remain within the aura at
+all times so you will be able to always
+boost your whole party's movement speed
+again the major challenge of a melee
+party is just getting next to the enemy
+because once we're next to the important
+Targets in an encounter that encounter
+is as good as one nothing can survive
+being in melee with this party so just
+getting there is the main challenge uh
+so aspect of the Beast elk helps a ton
+with that 5et of movement speed across
+our whole party adds up a lot I mean
+you've heard me talk many many times
+about how good movement speed is but the
+fact that we just get this passively is
+excellent one alternative that I do want
+to mention is that you could also build
+this character and this party into a
+more bleed focused build with aspect of
+the Beast tiger or Wolverine um if you
+use certain weapons that have the
+lacerate short rest weapon action or
+items that apply bleeding when you
+attack combined with bal's benediction
+and things like that you can add a lot
+of bleed Synergy into this party it's
+not something that I'm emphasizing for
+this version of the build but it is an
+alternative that I do want to mention
+because it's it's a powerful alternative
+build that you can do and aspect of the
+beast's tiger for hitting your attacks
+even more accurately or Wolverine for
+locking down enemies are a very
+important component of that alternative
+but for this version we're going to go
+with elk so that we can get next to
+enemies and hit them really hard
+next up we're going to Barbarian Level
+Seven because feral instinct is an
+incredible class feature and this
+character does want to win initiative
+you want to be the first party member to
+act that doesn't mean that we uh in in
+most encounters you want this character
+to be the first party member to act so
+that you can rage and move next to
+enemies to Grant advantage to the rest
+of your party that doesn't mean that you
+have to have higher initiative than your
+party members it just means that your
+whole party needs to have higher
+initiative than the enemies cuz then you
+can mix and match actions with the
+shared initiative system so feral
+Instinct giving us three fifths of the
+alert feet by itself combined with any
+initiative gear means that we should win
+initiative in just about every encounter
+in the entire game let this uh character
+ACT first so that she can get next to
+enemies giving advantage to the rest of
+our party members so we can beat them
+down easily of course making yourself
+immune to surprised is excellent as well
+and feral Instinct as always is one of
+the most powerful class features in the
+game so very much something that we're
+interested in picking
+up then we're going to Barbarian level
+eight because we want to get our second
+feat and the feat that we're going to
+take is just an ability Improvement to
+our strength now if you are playing with
+uh elixir on this character as well as
+on the other characters there's a couple
+other options that you could go with for
+this character um in since you won't
+need to take uh strength Improvement and
+those include things like Mage Slayer
+which actually is pretty nice to give
+yourselves um give yourself advantage on
+saving throws against spells and also
+this character is one of the few that
+one of the is the only character in our
+party that doesn't have a great use for
+its reaction by default so having the
+ability to make a reaction attack
+against enemies who cast spells will let
+us use our reactions even more
+effectively than other characters
+another option that you could take is uh
+just taking tough this character is
+going to take a lot of hits so
+increasing your hit points is actually
+not irrelevant um the whole purpose of
+this character in this party is to
+trigger Enemy aggro by using Reckless
+attack and making sure that you have the
+hit points to survive that is not a
+terrible choice either or mobile just
+because getting into range uh is always
+the struggle with this party so mobile
+is very good for that you can also use
+athlete and another build that we could
+use is taking an odd point in strength
+and using athlete instead of taking uh
+plus two strength um in order to
+increase our jump distance however I
+don't typically value uh increased jump
+distance that heavily on um on
+barbarians
+because the Barbarian will have to use
+its bonus action to rage in the first
+round of combat so you won't be able to
+reposition with a jump very easily in
+the first round of combat that being
+said it's still excellent to be able to
+do this so an alternative stat build is
+to take 10 wisdom and 17 starting
+strength use athlete to hit 18 strength
+uh and especially if you have found ways
+to become immune to fear and uh wisdom
+save targeting effects at this point you
+can safely drop your wisdom save so all
+of those are are decent options uh but
+for this version of the build we're just
+going with an ability Improvement
+here then at uh level 9 we don't need to
+take any more levels in Barbarian we've
+got all of the great things that we went
+into Barbarian for so let's just go
+ahead and make this character even
+better at actually fighting by taking a
+couple fighter levels we get a fighting
+style to give ourselves great weapon
+fighting style so we do even more damage
+um just increasing the the damage dice
+that we roll and and we also get the
+bonus action Second Wind which is pretty
+useful since this character will be
+taking a lot of hits so both of those
+are very good but of course the real
+reason that we're in
+fighter is to pick up action surge at
+this next level this will let this
+character just burst down an important
+Target uh in a single blow and if you
+have this character kill one enemy you
+can still move next to a second enemy
+and benefit from the wolf Barbarian rage
+for the rest of your party after killing
+them so don't be afraid to have this
+character make its attacks bring down an
+enemy and then move even if you leave an
+enemy at low Health you can often move
+another character have it attack then
+have this character move then move the
+rest of your party to The Last Enemy and
+take them out so increasing our damage
+output here is obviously awesome action
+surge is an incredibly powerful ability
+so most barbarian builds are going to
+take four levels of fighter to get
+access to it and this one is no
+exception
+at fighter level three we're going to
+take battl Master Fighter for the
+maneuvers you could take Champion
+fighter and try to be more critical hit
+focused but this build is not going to
+focus too heavily on critical hits so
+Battle Master fighter will just give us
+more damage overall as well as giving us
+options for a bunch of tactical uh
+decision-making in combat I already
+mentioned that this character doesn't
+normally have an amazing use for its re
+action so we're going to grab repost
+which gives us an excellent reaction
+that does a ton of damage um and uses
+what a a action type that this character
+isn't normally using enemies will often
+miss their attacks against this
+character because even though you're
+granting advantage and your AC is not
+spectacular you're still going to have
+decent AC and we will be using effects
+from our other party members that can
+cause attacks against this party member
+to miss so they will often think they
+have a better chance of hitting than
+they actually do and you can get extra
+damage out of repost for our second two
+we're going to go we we normally I would
+suggest taking trip attack to easily
+trigger advantage against enemies but
+you don't need trip attack for this
+party member uh you don't need trip
+attack for this party because we're
+going to have advantage on all of our
+attacks anyways so you don't
+particularly need to take uh trip attack
+I'm going to recommend taking Precision
+attack cuz it's still useful even at
+this stage of the game just a guarantee
+that you land hits and then for our
+final attack we'll take disarming attack
+there are some late game enemies that
+this is quite good against and so even
+though we don't get this until late and
+normally it's a more early game focused
+ability it can still be very useful in
+the late game an alternative is to take
+goding attack um because you could
+attempt to force enemies to attack you
+now they usually will attack you anyways
+but One op but goting attack gives them
+even even more incentive to do so so
+this is a pretty good option that's on
+theme for the character not a Battle
+Master maneuver that I think is
+particularly strong in and of itself but
+it has great Synergy with what this
+party is trying to do so I if you think
+that you might get good use of it
+definitely try that
+out and finally at fighter level four
+we're just going to grab our last feat
+and take an ability Improvement to bring
+our strength up to 20 again as I
+mentioned there are a lot of other
+options we already talked about the the
+most powerful ones for this party so if
+you're using strength Elixir then go
+ahead and take one of those at this
+level you can have like mobile and Mage
+Slayer if you're using strength Elixir
+that's obviously stronger but requires
+more micromanagement of your resources
+so it's up to you whether you care about
+that this party definitely does not need
+to have two characters chugging strength
+Elixir so personally I recommend not
+doing it I think you'll have more fun if
+you don't have to stockpile two per day
+but uh it's really up to you and what
+you think your your tolerance for that
+kind of thing is items for this
+character are very easy this character
+is designed to fit in perfectly with
+this party so has very few specific item
+requirements and is one of the
+characters in this party that needs
+basically no specific items to function
+so you will be able to fill it out with
+whatever you haven't used on the rest of
+your party you need of course a good
+medium armor set and a good two-handed
+weapon and there are two that I
+recommend uh keeping an eye out for in
+terms of two-handed weapons the soul
+breaker great sword for the early in mid
+game because that increases your
+initiative which is what this character
+needs the most up until level seven even
+if you aren't building this as a gith
+Yankee although of course you can use
+lasel or build it as a gith Yankee the
+soulbreaker great sword is excellent and
+uh as another character you can also
+disguise as a gith Yankee in order to
+gain the uh additional psychic damage
+from the soulbreaker great sword then in
+the late game you you will probably want
+to swap to the sword of chaos because
+this character will be tanking damage in
+order to trigger Sentinel attacks from
+your party members so the ability to
+heal up but uh whenever we attack is
+pretty nice um while we don't have a lot
+of multipliers to our hit points we've
+just got a lot of hit points so
+constantly healing is not terrible um it
+is Ely something that we're happy to do
+for our medium armor set the armors that
+provide damage reduction are pretty good
+like the adamantine scale mail uh these
+and of course this uh character is going
+to get hit so The Reeling effect is also
+pretty good it just makes enemy it will
+slowly shut down enemies as they are
+attacking so we're going to gain a lot
+of advantages from the adamantine scale
+male in again the early and mid game and
+then you probably want other healing
+items like the Ring of V generation this
+character can also benefit very heavily
+from some way to Misty step whether that
+be through Scrolls or an amulet or the
+or the amulet or the disintegrating
+night Walkers although another amulet
+that I like a lot for this character is
+the Amulet of the Harpers which gives
+you advantage on wisdom saving throws
+despite the tool tip saying wisdom
+saving throws checks which those are two
+different things um it gives advantage
+on wisdom saving throws and gives you
+the shield spell which can cause enemies
+who thought they were easily going to
+hit you thanks to the advantage to miss
+their attacks other than that you're
+really just looking to fill out your
+damage and uh add some initiative
+bonuses to this character especially in
+the early game but you're very item
+independent so there's not much
+specifically that you're looking for and
+you won't conflict with your other party
+members at
+all for our second character we need to
+ensure that our party can stay alive
+when they are grouped up now obviously
+you won't always be grouped tightly
+together but when you're playing an all
+melee party there will be times when the
+four party members are all surrounding a
+single enemy or all grouped up so you
+can take full advantage of protection
+fighting style and the Sentinel feet in
+order to maximize your damage output so
+we need to ensure that our party doesn't
+all get obliterated by a fireball
+there's one way in the game to do that
+perfectly and that is the oath of the
+Ancients Paladin this character is going
+to provide the aura of protection
+increasing our saving throws equal to
+our Charisma for the entire party so
+it's going to mean that we will always
+have excellent saving throws and the
+oath of the ancient spell damage
+reduction Ora having damage from
+incoming spells meaning that we will
+take almost no damage uh when enemies
+cast spells against us this is a very
+high dexterity party so we're usually
+going to pass Our Deck saves against
+spells that Target dexterity which are
+most AOE damage spells and then take
+half damage after that so we'll be
+taking one quarter damage before any
+resistances or anything else get applied
+meaning that we can effectively ignore
+most enemy spellcasters once we have the
+oath of the Ancients Aura online this
+character also of course gets Smite
+attacks provides excellent damage output
+as a result and gets to be our party
+face which is something that this party
+needs just like every party so we get to
+fulfill our dialogue skill needs with
+this character as well we're going to
+start with a level of Paladin and of
+course we're taking oath of the ancients
+palad
+and we get healing Radiance which lets
+us use the buff on heal items on this
+character also for another broken
+mechanic that this party has access to
+this will be a dexterity based Paladin
+so for our ability scores we're going to
+drop strength all the way down to eight
+and take 17 in uh take 16 in dexterity
+16 in Charisma and 14 in Constitution
+this is a little bit low in Constitution
+for a Melee character of course a little
+lower than I often prefer but um
+this character will have very high Armor
+class so should rarely get hit uh since
+the rest of your party will be much more
+tempting to the enemy Ai and you have a
+lot of damage reduction so you don't
+need the hit points as badly if you're
+worried about that you can drop your
+charisma down to 14 and take 16
+Constitution either will be fine and
+then we're going to take 12 wisdom once
+we have our Aura at level seven uh or at
+level six that adds our Charisma to our
+saving throw we no longer need any
+points in wisdom thanks to Paladin's
+proficiency and the Charisma save Aura
+and so we can then Respec to drop our
+wisdom down to eight take 17 dexterity
+and 15 Constitution combined with an
+ability score Improvement this will let
+us get 18 and 16 to ensure that our
+stats are as high as possible so uh I
+will recommend taking the previous stat
+split at level one and then at level six
+you're going to Respec to the currently
+to the current stat SP
+make sure that you have persuasion of
+course since this is going to be the
+party face and then you can take a
+background that gives you um insight and
+persuasion this character is the guild
+Artisan background so that will be
+pretty nice for your skill roles in
+general um or you can take any other
+background something like charlatan for
+performance and deception can give you
+more of the dialogue skills um but
+persuasion is the important one to have
+on this character we don't need to grab
+slight of hand from our background which
+is something you can sometimes do on
+Deck paladins because our third
+character is going to pick up slight of
+hand for us so we don't need that on
+this one that's it for level one let's
+move on to level
+two and at level two we get Smite
+attacks a fighting style and the
+fighting style that we're going to
+select here is protection fighting style
+protection fighting style is really good
+when your whole party is right next to
+each other uh the ability to impose
+disadvantage on an attack as a reaction
+is a pretty powerful defensive option
+this character is going to be using a
+sword and shield so protection fighting
+style can really help improve the
+longevity of your party especially
+because we are going to build our party
+so that we have multiple instances of
+protection multiple instances of
+Sentinel so we're constantly making
+attacks and defending against attacks
+with our reactions for our spell
+preparation here these are mostly of
+course going to be used for smites but
+you can
+pick up bless obviously great for your
+party to have access to bless um and you
+always want thunderous Smite very
+important to to have this so you can
+stack this and another Smite attack and
+I suggest taking command it's very good
+for the early game the others are less
+important so just pick up whatever you
+think you might occasionally
+cast Paladin level three uh we get no
+particular increases but we do get uh
+disease prevention
+and at Paladin level four we get our
+first feat and the feat that we're going
+to take is actually going to be Sentinel
+you could take an ability score an ASI
+to improve to even out your stats at
+this point but I like getting Sentinel
+early in this party because this gives
+us our reaction attacks right away and
+it's such a core component of how this
+party plays out that we have these
+Sentinel attacks we're going to end up
+with two characters that have Sentinel
+and Sentinel doesn't trigger off of
+enemies attacking another character with
+Sentinel but the two characters with
+Sentinel will be our highest armor class
+characters and you are going to position
+them on opposite sides of your party
+with the other characters in between
+them so that you when your central
+character the wolf Barbarian gets
+attacked the two Sentinel characters can
+immediately retaliate with a ton of
+damage you can uh Smite on the reaction
+attacks with Sentinel you'll have
+advantage in all your attacks so you're
+likely to critically hit you can do a
+ton of retaliatory d damage with
+Sentinel so very useful to have this if
+you aren't a fan of protection fighting
+style you could also use this with the
+dancing Breeze glaive to do this at
+longer range but I really like
+protection fighting style for this
+character so we're going to pick up
+Sentinal and protection to make sure
+that we always have the perfect reaction
+for the
+situation level five we get extra attack
+as well as level two spells which
+include Misty step and also aid aid is
+pretty useful for casting on our whole
+party so if we're using items that let
+us refresh our spell slots which this
+character is going to be the one that
+uses all of those this is our only
+character that actually uses long rest
+resources at all so any potions of
+angelic reprieve or spell slot
+refreshing items that you have will go
+to this character you can cast Aid at
+level two or level three on your whole
+party for a small boost to your hit
+points if you're not using a camp Caster
+um I don't like to build these as though
+you're using a camp Caster cuz I think
+that most players don't but uh Aid is
+still a useful spell to have to increase
+your party's
+longevity then at Paladin level six we
+get our Aura of protection the tool tip
+here is bugged and says we get a plus
+zero bonus to saving throws but it's
+based on our Charisma so it's a plus
+three bonus to every saving throw that
+our entire party is making making us
+immune more or less to debilitating
+Mental effects things that Target wisdom
+saves because of our very high saving
+throws and very hard to hurt with AOE
+damaging spells which of course are the
+dangerous thing for a party that's going
+to be grouped up and why this character
+is such a uh key point of this party's
+functionality then of course at level
+seven it gets even better when we get
+Aura of warding causing us to only take
+half damage from all spells which is an
+amazing ability that stops US from
+getting hurt uh at all since I mentioned
+as I mentioned most AOE spells Target
+dexterity so if you pass the saving
+throw you take only take half damage
+that then gets quartered with aura of
+warding which will usually be something
+like 8 to 10 damage which you can heal
+back up in a single cast of your healing
+Aura as an oath of the ancient Paladin
+or just have your party drink potions or
+just their natural healing through the
+Ring of regeneration and sword of chaos
+on your Barbarian and other sources of
+healing that we will have as well Aura
+of Waring is what allows this party to
+stand close together and benefit from
+all of the abilities that we get when
+we're close together so it makes this
+party uh vastly Stronger when you get it
+now in you can still stand uh close
+together in fights where there aren't
+AOE effects prior to getting Aura of
+warding and even after getting Aura of
+warding there are times when you want to
+spread out because you care more about
+targeting down different enemies or
+avoiding some some forms of AOE effect
+especially ones that aren't spells um
+but this just gives you so much more
+tactical flexibility power and
+resiliency that it's incredibly good for
+the
+[Music]
+party at character level eight we're
+going to take a feat and that feat is
+going to be an ability Improvement to
+boost our dexterity up to 18 and our
+constitution up to 16 making sure that
+we are have the hit points to survive
+any damage that might come our way way
+now again this character is going to
+have very high Armor class so is
+unlikely to be targeted by enemies too
+frequently but um when you are you do
+want the hit points to survive and of
+course our higher dexterity Let's us hit
+our attacks more often this party cares
+less about hitting attacks about
+increasing our to hit chance than most
+parties because every attack we make is
+with Advantage so we really don't
+struggle to hit our attacks but more hit
+chance is always better so increasing
+dexterity for hit chance and damage is
+very good for this character of
+course then at level 9 we get third
+level spells and the only really
+important third level spell on this list
+is plant growth because this can be used
+to slow enemy movement speed Um this can
+trap enemy ranged characters in with our
+melee characters by quartering their
+movement speed or just be used to split
+up an encounter dividing enemies so they
+can't move move towards you Warden of
+Vitality is also fine this character
+will be wearing the buff on heel items
+so this gives you a bonus action to
+reapply those Buffs and this is one to
+keep in mind it's definitely one we'll
+want prepared and since we will be
+refreshing our spell slots frequently
+you can also benefit from Elemental
+weapon casting this gives a plus one uh
+bonus to attack rules and an additional
+1 D4 damage to the weapon that it's cast
+on which is a pretty powerful buff to
+last all day we should be able to to
+maintain concentration very easily with
+16 con and the plus three from our
+Charisma based save Aura so we shouldn't
+have trouble keeping um concentration on
+Elemental weapon but the most usual use
+for a level three spell slot other than
+smiting which of course is what they're
+mostly used for is going to be plant
+growth um for spells prepared at this
+level I'm going to recommend that you
+have the ones that are sort of panic
+buttons like lesser restoration have Aid
+that you can cast on your whole party
+and pick up a warden of Vitality and
+Elemental
+weapon so that you are able to use those
+throughout the day as
+needed Paladin level 10 we get Aura of
+Courage which gives our whole party
+immunity to fear an incredible ability
+of course um normally you would want to
+pick up Heroes feast or other ways to uh
+give your party immunity to fear there
+are some very dangerous fear effects in
+the late game but this party just gets
+to fully ignore them which is one of the
+benefits of playing a party that's
+grouped up to take advantage of the very
+powerful Paladin auras and something
+that most parties don't get to
+do then at Paladin level 11 we're going
+to take improved Divine Smite of course
+which means that basically all of our
+attacks make a level zero Smite and it
+improves the level of our smites at
+every other level level by plus one
+effectively uh doing a ton of additional
+damage on every one of our attacks this
+character will usually be attacking
+three times per round two attacks in on
+your round and then an additional attack
+as a sentinel attack on on the enemy
+turn so you're going to apply this
+improved Divine Smite damage pretty
+frequently and you're going to be able
+to critically hit with at least one
+Smite per turn if that's something that
+you want to do doubling the Smite damage
+that you are doing does massive burst
+damage so this character contributes
+very strongly to the damage output of
+your party as well as providing all of
+the incredible defensive
+abilities finally at Paladin level 12 we
+have 112 hit points so we're very hard
+to kill and have excellent Armor class
+but let's make it even better and
+improve our dexterity up to 20 now we've
+got plus five initiative and plus five
+to our Armor class so this character
+should be going first in most combats
+and be very hard to hit thanks to having
+uh medium armor plus five dexterity and
+a shield so we're going to have
+incredibly High armor class let's talk
+really quick about the items for this
+character cuz there are some specific
+items that I highly recommend that this
+character gets for items for this
+character there are three specific sets
+of items that I do recommend firstly
+this character is going to want to make
+use of the buff on heal items the Hell
+Riders pride and the whispering promise
+and then the upgrades that you get get
+later on because these provide bless and
+blade Ward to your entire party when you
+heal you have the healing Aura available
+to the oath of the ancient Paladin so
+you you are easily able to heal your
+entire party with a bonus action to
+apply bless and blade Ward to your whole
+party all at once for our weapon we need
+a finesse weapon of course because we're
+a dexterity based build so the weapon
+that we're going to use again to apply
+powerful buff to our whole party is f
+Lou F Lou can be activated to provide
+the shriek damage to uh enemies that are
+near it or the sing Dam sing uh hit
+bonus for allies within range and of
+course we will always be in range of
+whatever enemy we're targeting down and
+our allies will always be in range of
+the buff so F Lou can increase the
+damage output of our party
+significantly next this character wants
+one of the medium armors with an
+uncapped Dex bonus to AC most notably
+the armor of agility for this character
+uh because we want this this one to have
+the highest AC possible so it doesn't
+get attacked so that we can always use
+protection or Sentinel since if this
+character gets attacked we don't get to
+use those abilities we'd rather have our
+allies get attacked so those abilities
+get used this character will be trying
+to boost its AC as high as possible and
+then any other items that boost your AC
+as well are pretty useful just anything
+that increases your armor class can give
+you uh even
+more can off-put enemies even more from
+attacking you remember also that at
+points in the game there will be times
+when heavy armor is better than the best
+medium armor that you have and you have
+heavy armor proficiency so you can use
+heavy armor um just use whatever gives
+you the highest AC because the whole
+purpose of this build is to have the
+highest AC possible for our Shield I'm
+going to recommend the Sentinel Shield
+plus three to initiative combined with
+our 20 dexterity means we will always
+win initiative with a plus eight against
+all but the very fast enemies in the
+game and uh bonuses to Charisma from the
+mirror or from the birthright hat should
+also go on this character to increase
+your saving throws even more and make
+you better at dialogue checks increases
+to our ability to make dialogue checks
+from anything that gives us advantage on
+rolles or makes us better at rolling
+dialogue checks are very useful for this
+character uh since of course we want to
+be able to succeed on any persuasion
+checks we might have to make so
+increases to our Charisma fill double
+duty all right that's build number two
+let's go on to build three for our third
+character we're going to go with a
+somewhat unorthodox dagger build the
+idea here is to make as many attacks as
+possible both on and off of our turn so
+that we can output maximum possible
+damage at every point in the turn cycle
+while also providing a ton of utility to
+our party that we're otherwise missing
+we're going to start with a level of
+Rogue and for our ability score we're
+going to go with the classic greedy
+Rogue ability split of 17 dexterity 16
+Constitution and 15 wisdom which we will
+then even out later I should mention
+also that every time I uh do these
+ability scores someone gets mad because
+of the odd numbers you can if you want
+start with 12 points in strength and do
+a 16 16 14 and then resp to this later I
+just shortcut that because it's sort of
+a waste of time to show both for our
+skill selection here we're going to make
+sure we have expertise in stealth and
+slight of hand because those are the
+skills that our party is otherwise
+missing and then pick up any other uh
+any other outof combat skills that we
+don't currently have you get perception
+proficiency if you're using aaran for
+this which is what I recommend because
+the sheer number of attacks that this
+character outputs makes the best
+possible use of his unique story
+abilities though of course this can be a
+custom character if you prefer no other
+decisions to make at level one so let's
+move on to level
+two and at level two we're going to
+immediately deviate and take a level of
+Ranger this gets us uh medium armor
+proficiency which is pretty nice to add
+into this character because we can use
+one of the uncapped medium armors for
+even higher Armor class this is one of
+our two Sentinel characters so we don't
+want this character getting attacked we
+want attacks directed to the Barbarian
+uh so we want this character's armor
+class as high as possible for our
+favored enemy we don't particularly need
+any of these so uh we can take whatever
+skill proficiency we think we might want
+for our party Arana is probably the one
+that comes up the most often that we
+don't currently have available but you
+won't be making those intelligent skill
+roles that frequently so you don't
+usually need them so we're just going to
+take Mage breaker here because that how
+else would we fit true strike into the
+build for our natural Explorer we're
+going to take fire resistance because
+fire resistance is the most common
+damage type and this does make this
+character actually quite survivable with
+our high armor class and high hit point
+total uh combined with our resistances
+we're going to be pretty good at Living
+Through incoming damage even if we
+happen to take any which we mostly won't
+for our skill uh selection here there is
+nothing here that we're easily able to
+take from Ranger that is relevant that
+you can pick up nature just to have a
+few more of the intelligence skills
+covered um but then let's move on to
+level
+three and at level three we get to take
+a fighting style which gives us two
+weapon fighting um two weapon fighting
+means that we are now dealing our full
+dexterity of damage with our off-hand
+attacks so it's going to make all of our
+attacks quite powerful when we are
+dealing off-hand attack damage and for
+our spell selection we're going to pick
+up enhanced leap and long Strider two
+ritual spells so these can be freely
+cast without spending spell slots
+outside of combat and they will increase
+our party's Mobility drastically every
+party should have access to these spells
+long Strider you want up on your whole
+party all the time but especially in all
+melee party whose whole challenge is
+getting next to enemies these two spells
+help significantly with that so being
+able to pick them up on this character
+improves our party
+[Music]
+dramatically next we're taking another
+level of Ranger and the ranger class
+that we're going to take is gloomstalker
+the whole idea here is to make as many
+attacks as possible uh and the
+gloomstalker additional attack is
+incredible the bonus movement speed of
+course can help us close distance to
+important enemies and the plus three
+initiative means that combined with our
+20 dexterity which we'll have by the end
+of the game this character will also
+have plus eight initiative so our whole
+party should be winning initiative
+basically all of the time the for our
+spell selection here we're going to grab
+fog Cloud fog Cloud can be useful for
+hiding in this character will be able to
+hide as a bonus action so you can use it
+to provide obscurement and then a bonus
+action hide if you somehow get into a
+bad situation but also it can be useful
+for blinding enemies if since our entire
+party is melee enemies will often have
+very restricted movement because they're
+going to be faced by a wall of Steel at
+all times and unable to move through it
+to get out of hazardous effects so a no
+save blind can just give enemies
+permanent disadvantage on all of their
+attacks the advantage isn't as useful if
+you place it you know so that your
+characters are standing just outside the
+edge of it and the enemies are inside
+the edge of the fog Cloud uh the
+advantage isn't as useful because we
+already have advantage on every attack
+but it's still a pretty powerful ability
+to have access to and can help you win
+certain fights and also help move ranged
+enemies out of awkward positions to come
+force them to come closer to your melee
+characters at Ranger level four we're
+going to pick up a feat and just like
+our Paladin the feat that we're going to
+take here is Sentinel Sentinel is
+especially good with offhand attacks um
+because the way that dual wielding Works
+in Boulders Gate 3 it says you make a
+weapon attack but if you have dual
+wielding turned on the little two swords
+icon you make both a mainhand and
+offhand attack with your reaction
+attacks so we get to double up on our
+Sentinel attacks when we're dual
+wielding as well as our other
+opportunity attacks so this character
+does a ton of damage on uh Sentinel
+attacks off turn we also have sneak
+attack which interacts somewhat weirdly
+with Sentinel in Boulders Gate 3 because
+you can only sneak attack once per round
+in in Boulder's Gate um which is a
+little bit different from how it works
+in tabletop but when you sneak attack
+off your turn it uses your sneak attack
+from the next turn that you were going
+to take not the previous turn so there
+are some times where you will be able to
+double up on sneak attack in a single
+round at the cost of your sneak attack
+next round but damage now is always
+better than damage later so you're going
+to be very happy to get these additional
+sneak attacks early to kill enemies
+faster so there you can create
+situations where you can sneak attack
+twice in a round when you have Sentinel
+it won't work 100% of the time but it
+does work enough of the time that it's a
+real
+Advantage then we're grabbing Ranger
+level five for extra attack and because
+we're a gloomstalker ranger we also get
+Misty step which of course is excellent
+to pick up as well um at this level
+being able to have additional Mobility
+this character will get bonus action
+dashes and multiple of them as we
+continue to level up but every character
+should have access to misy step so this
+character getting it gives us even more
+mobility and utility across our entire
+party for our spell selection here we're
+going to take Spike growth although
+another one to consider is Sil this is a
+very good spell to have available for
+shutting down uh Mages this part is
+already pretty good at shutting down
+Mages but sometimes you might not be
+able to get up onto them to be able to
+just beat them down so silence is
+another one if you find you aren't using
+fog Cloud you can replace it with
+silence I wouldn't replace either of
+these other two
+Spells at level seven we're going back
+into Rogue now that we've picked up
+extra attack which gives us additional
+cunning action dashes so that we can
+move around the battlefield even more
+easily uh obviously we prefer to use our
+bonus action for offhand attacks but the
+cunning action Dash can help us get into
+position to make sure that we're on the
+appropriate
+targets then at Rogue level four or
+Rogue level three excuse me we're going
+to take Thief Rogue so that we can make
+even more offhand attacks this means in
+the first round of combat we're making
+uh five attacks right two from our main
+hand one from gloomstalker Ranger and
+then two with our off hand and then
+probably a sixth attack with our
+Sentinel attack as a reaction so we're
+going to be getting a ton of attacks um
+a sixth and seventh attack as a sentinel
+action as a sentinel reaction so we're
+going to be getting a ton of attacks and
+that's before we have any effects like
+haste or whatever if we are using blood
+lust potions or um potions of haste will
+get even more attacks of course uh so
+this character is going to be outputting
+tremendous damage each of these
+individual attacks won't be doing tons
+of damage on its own but we're going to
+apply our full dexterity to our damage
+and uh when you start doing that many
+many times per turn it really starts
+adding up so this character just making
+all of these attacks is going to be able
+to Output considerable damage and of
+course provides all the utility that the
+party
+needs then at character level nine we're
+taking our fourth level of Rogue so that
+we can pick up another feet and of
+course we're going to take an ability
+Improvement to bring our dexterity up to
+18 and our wisdom up to 16 you could
+also do a 12 186 uh 814 88 split that
+would be fine for this character if you
+want the additional jump distance this
+character will have bonus action dashes
+though so I highly recommend the greedy
+attribute split to maximize your
+dexterity and thus your damage as much
+as possible
+then at this next level we have a couple
+options you could continue leveling in
+Rogue to increase your snake attack more
+or you could continue leveling in Ranger
+just to get a few more hit points and
+better utility spells I'm going to
+recommend that you put your remaining
+levels into Ranger I think that that
+will just give you uh slightly more
+powerful class features overall um
+another option two is we could put a
+couple more levels into fighter and
+Battlemaster fighter is a normal way to
+finish off this character but we do want
+three Feats so we can still hit 20
+dexterity so we're pretty incentivized
+to take an 84 split in that case we're
+just going to take Ranger we get another
+favored enemy doesn't really matter what
+you take you can take a skill selection
+here just whatever you want for flavor
+and then for our natural Explorer we're
+going to take cold resistance to give
+ourselves the most possible damage
+resistance to the most common damage
+types Ranger level seven we get iron
+mind which gives us Proficiency in
+wisdom and intelligence saving throws so
+we are uh incredible at passing saving
+throws the wisdom proficiency means that
+we are now going to have plus n to our
+wisdom saves three from or plus 10
+excuse me three from our wisdom four
+from our proficiency and three minimum
+from our Paladin Ally so we are never
+going to fail wisdom saves thanks to the
+iron mined class feature and we get to
+add in more spells like silence to make
+sure that we can shut down the most
+dangerous enemies in the game before
+combats actually
+start finally at Ranger level eight we
+get land stride difficult terrain which
+is pretty nice cuz we do have Spike
+growth and of course this party will
+sometimes run into trouble if enemies
+are on the opposite side of difficult
+terrain from you because anything that
+restricts your Mobility is dangerous
+when you're all melee so removing one of
+the potential
+ways that that can happen is very strong
+and for our feat selection we're going
+to max out our dexterity giving us the
+highest possible initiative armor class
+and
+damage itemization for this character is
+extremely simple and as a result has no
+danger of running into conflict with the
+rest of our party we want a powerful
+light armor you can use the Yanti scale
+mail as well if you need the um if it's
+the best armor class that you have
+available but there will be light armors
+that give you higher Armor class at
+various stages in the game so you're
+basically again just looking for
+whatever the highest possible Armor
+class is uh highest Armor class light
+armor is since you want enemies to
+Target your Barbarian you will also want
+to have items that increase your
+critical hit chance anything that
+increases your crit chance like the
+knife of the under mount King is
+excellent and that works out well
+because you need two light finesse
+weapons in order to Max your damage
+output since we're attacking so many
+times per round we also want anything
+that adds damage dice to our attacks in
+particular things like the dark Justice
+Seer gauntlets that add 1 D4 that if
+they add damage dice to your attacks
+those will be multiplied when you
+critically hit which will be very
+frequently since you're making tons of
+attacks with advantage and have improved
+critical hit chance so anything that
+adds damage dice to your attacks is
+super high value so you're looking for
+crit chance improvements damage Dice and
+just the highest Armor class light armor
+that you can find and that's all that
+this character needs in order to
+function optimally all right let's move
+on to character number four for the
+fourth character there's a lot of
+different directions we could take this
+character but what I'm using it for is
+basically to problem solve this is still
+honor mode so there's still a lot of
+things that can go wrong and we want a
+character whose job it is to stop those
+things from happening by shutting down
+the most dangerous enemies and being
+able to operate outside of the group
+while still having a lot to contribute
+when grouped up with the rest of your
+party you could use a uh a
+paladin variant like a locked in or a
+sorcadin or a 210 Paladin swords b or
+something like that just to do sort of
+Maximum damage and use band of the
+Mystic scoundrel Shenanigans to shut
+down enemies but to stay on the melee
+theme while bringing as much power as
+possible we're just going to use the
+good oldfashioned Tavern brawler monk
+this way we can stunning strike
+important enemies and shut them down but
+again I want to emphasize that there's a
+lot of different characters that would
+fit fine into this party this one does
+have some pretty cool synergies with
+what the party is doing though uh which
+we will talk about as we continue to to
+build for this character of course we
+are going to start with Monk and for our
+attribute spread we're going to take the
+uh strength Elixir spread of 16
+dexterity 15
+Constitution and 16 wisdom to maximize
+our important stats this character will
+be drinking an elixir of Hill giant
+strength every day up until you get
+Cloud giant strength and then they'll be
+drinking an elixir of cloud giant
+strength every day to set their strength
+to 20 uh that's the only hard item
+requirement in this entire party build
+is just to drink an Elixir once a day um
+if you really hate that then just
+replace this this with a lock it in or
+swords SP and you will do just fine as
+well you can also build this monk
+without the Elixir stats it will just
+make them a little bit squishier which
+we do want to avoid for this particular
+party build because we want the monk to
+be able to tank attacks if necessary
+make sure you have Athletics that's the
+only important skill for this character
+and uh with our last two attribute
+points you can either put those in
+Charisma or intelligence uh intelligence
+is the best for saving throws cuz there
+are some enemies that Target intelligent
+saves or put these into dexterity use
+eel's hair to hit 18 dexterity on this
+character and then you get an extra feat
+out of the deal I'll be demonstrating as
+though we didn't do that but that is
+probably the most powerful way to build
+this
+character at level two we get our second
+level of Monk giving us increased
+movement speed while not armored and
+again movement speed is so critical to
+this party and all of our characters are
+getting tons of additional movement
+speed we have many ways to improve our
+movement speed so that's one of the
+strengths of this party and one of the
+reasons that this character synergizes
+so well with it and then of course we
+also get the bonus action dashes they
+cost key points unlike the Rogue
+variants but we can really get into
+position to wherever we need to
+be monk level three to no one's
+particular surprise we're going to take
+the way of the Open Hand monk getting
+the top
+uh Flurry of Blows so this is another
+way to knock enemies over or push
+enemies over um staggering enemies to
+make them unable to take reactions is
+also quite relevant to this party
+sometimes you'll want to maneuver around
+an a melee enemy if you can prevent
+their opportunity attacks it gives you a
+lot more freedom of movement when you're
+moving around uh and pushing an enemy is
+also very relevant to knock them off of
+cliffs and down into the rest of your
+party this character will be probably
+the best thanks to mon in inre jump uh
+and ability to jump as a free action
+with key points um this character will
+be the best character you have at
+reaching High Ground without spending
+any spell slots on it like a misty step
+or something so being able to push the
+enemy down to the waiting arms of your
+party members below is also very
+relevant topple is actually less
+powerful for this party than it usually
+is but still very good uh because you
+have advantage on all your attacks I
+will mention also that way of the Shadow
+monk is actually pretty good for this
+party as well because you can use it to
+assassinate targets that are otherwise
+hard to reach with the bonus action
+teleport um but open-hand monk is just
+so powerful that it's hard to pass up of
+course then at monk level four we're
+going to take a feat and the feat that
+we're going to take is Tavern brawler to
+no one's surprise this is the unarmed
+attacking feet it doubles our strength
+bonus to hit our strength bonus and uh
+it doubles our strength bonus to hit and
+damage and our strength bonus is 20
+thanks to the Elixir Tavern brawler is
+an absurdly broken feat so uh this party
+is going to abuse it now I don't feel
+quite as bad abusing broken mechanics on
+an all melee party as on a more
+traditionally powerful party CU we do
+have to overcome the restrictions Tavern
+brawler is still a busted feat but
+that's great cuz we just get incredibly
+strong uh and can solve any problem that
+might be giving the rest of our party
+trouble
+next up we're taking monk level five to
+get the extra attack and of course we
+also get stunning strike stunning strike
+is uh an incredibly powerful feature
+that is going to shut down the most
+dangerous enemies on the field and it's
+basically free it just costs a key point
+to use so you can always use it um so
+this character becomes even better at
+locking down specific enemies you will
+never miss your attacks especially
+because if necessary you have a Vantage
+on all of your attacks for free so
+you're going to guaranteed land a hit
+and then you're very likely to land
+stunning strike the save DC on stunning
+strike is based on either your strength
+or your dexterity whichever is higher
+and we have tons of free strength points
+from the uh strength Elixir so we're
+going to stun enemies very very
+reliably next we're going to go to monk
+level six to take uh way of the Open
+Hand ability to add the manifestations
+these add our wisdom plus a D4 to our
+damage and give us uh Elemental damage
+types the most relevant here is radiant
+if we want to use radiating orb effects
+but honestly it that's sort of Overkill
+any character that this any enemy that
+this character is attacking is going to
+be dead or incapacitated so you don't
+really need to use radiant orbs with the
+manifestations of Soul manifestation of
+Soul it does give you the option to do
+so but that's uh probably Overkill in
+General and there are usually more
+powerful items that you can use you also
+of course get the incredibly broken
+wholeness of body feature which gives
+you an extra bonus action so you can
+make additional flurries of blows but as
+always with monk builds we want to be
+even better at making additional Flurry
+of Blows so we're going to take a quick
+jaunt out of Monk starting at level six
+and pick up our levels in
+Rogue level one Rogue gets a sneak
+attack which isn't particularly powerful
+for this character but uh since we're
+only making unarmed attacks which don't
+trigger snake attack but we do also get
+an additional skill uh and expertise
+which lets us get Athletics expertise
+making us basically incapable of failing
+to push an enemy so we will always be
+able to push enemies to exactly where we
+want them another very powerful tool in
+our
+Arsenal then at Rogue level two we also
+get bonus action hide Dash and disengage
+and no longer have to spend key points
+on this if it's something that we need
+to do so the positioning requirements
+for our entire party just eased up even
+more between the incredibly far movement
+distance and the incredible amount of
+additional movement actions that this
+party gets you'll always be able to
+position exactly where you want to be so
+uh even as an all melee party you should
+not ever have trouble reaching specific
+enemies cuz we've invested so heavily
+into our Mobility
+of course what we're really here for is
+Rogue level three where we get to take
+fast uh Thief Rogue and make yet another
+additional offhand attack so we can make
+another Flurry of Blows attack that lets
+us make six attacks in our basic rounds
+of combat two with our main hand and
+four with our offhand thanks to Flurry
+of Blows uh all of which are applying
+double our strength modifier and hitting
+100% of the time or 99% of the time
+because we're way over
+our expected hit chance values and also
+have advantage on all of our attacks as
+needed uh so the amount of damage that
+this character is doing is ridiculous
+and of course when added to the three
+other very high damage characters that
+we have very few enemies will be able to
+survive multiple rounds and if they do
+then we get to hit them on the off
+turns next
+up we're going back into monk uh which
+gets us evasion which means that we are
+taking half damage uh or no damage when
+we succeed on saves so this character is
+even harder to kill with dexterity
+targeting spells than our entire party
+would be so even if we somehow fail a
+deck save we take half damage then we
+take half damage again from the uh
+ancient Paladin Aura so we are taking
+almost no damage and literally no damage
+uh if we ever succeed a Save which of
+course we will almost all the time
+because we're proficient in deck saves
+have high dexterity
+and have the Paladin Aura so we're going
+to have incredibly High dexterity saving
+throws and be able to evade the damage
+from most
+spells we'll never be frightened so
+Stillness of mind won't come up which is
+actually a good thing cuz in Boulders
+Gate 3 it casts automatically and uh
+stuns you effectively stuns you for the
+turn because it costs your action to use
+it um so the fact that we're able to
+prevent receiving fear because we have
+the Paladin Aura to make us immune to
+fear means that the what's normally a
+downside of a class feature Stillness of
+mind doesn't come up for this character
+build um and so we get some Synergy
+there as well for our feet here we're
+going to take alert because the only
+thing that we need for this character to
+be effective is to win initiative so
+this gives us plus eight initiative on
+this character now we have a minimum of
+plus eight on our entire party so we're
+going to win initiative uh over just
+about every enemy in the game if we are
+going into a fight with a particularly
+fast enemy there's a couple with
+initiative bonuses that high or higher
+but not that many then we can use
+vigilance Elixir or whatever to increase
+our our um initiative even further or
+equip more initiative gear but plus
+eight on our whole party should be
+plenty to get you through honor
+mode then we're going to take monk level
+9 to get the resonating punches just to
+deal even more damage and have the area
+of effect damage available this can help
+clear out trash mobs in the late game um
+and gives us even more um jump distance
+which is incredibly powerful because we
+can jump as a free action thanks to our
+step of the wind Dash so this character
+is even more mobile than it was before
+all right that is character number four
+but of of course we can power it up even
+further with items so let's do that and
+for items for this character there's
+really only three key items really only
+one key item uh that you absolutely have
+to have and that is of course the
+strength Elixir when you drink one of
+these it's going to set our strength to
+21 giving us the maximum possible damage
+bonus with Tavern brawler uh and then
+when we get Cloud giant Elixir we're
+going to upgrade that even further
+meaning that we hit all our attacks and
+do ridiculous amount of damage Dage this
+character can also benefit from anything
+that adds damage to our unarmed attacks
+like the flawed husk gloves uh which
+boosts unarmed attacks in addition to
+weapon damage so they're very good for
+this character or you can use the gloves
+of dexterity to put our remaining points
+into wisdom take Ethel's hair to go to
+18 wisdom and give this character even
+better initiative and armor class that
+would uh boost us up to 20 Armor class
+base before we add any additional
+bonuses you do want a little more Armor
+class on this character if you can get
+up to
+2122 um through effects enchantments or
+other items that boost your armor class
+uh like the cloak of protection then
+that will be helpful as well but those
+are
+the but that uh the only real item that
+you care about is the Elixir best in
+slot for your boots of course is the
+boots of uninhibited kigo which add your
+wisdom modifier to your unarmed strike
+damage um so we're doing even more
+damage with every attack and for your
+chest slot the vest of Soul Rejuvenation
+is very good for this character whenever
+you succeed on a saving throw you heal
+which again not a huge bonus but
+relevant because you are going to
+succeed on all of your saving throws
+against spells throughout this entire
+game uh but of course also you increase
+your armor class and can use your
+reaction to make an attack an unarmed
+strike against any attacker that misses
+your unarm unarmed strikes do a ton of
+damage
+and this character is going to be one of
+the ones that gets targeted sometimes
+cuz it will have lower armor class than
+um the two Sentinel characters and when
+you are targeted you can use protection
+to force the attack to miss and then get
+your reaction attack here or just
+trigger Sentinel attacks from your other
+two character uh get your reaction
+attack from the vest or just trigger
+Sentinel attacks from the other two
+characters or both so this gives you
+even more ways to do off turn damage and
+synergizes even more with the party as a
+whole all right that is the four builds
+for this party
+um a quick word on strategy and
+positioning as well just so that you
+have some idea of how to move your
+characters around let me go ahead and
+just leave the camp here you find well
+but
+you're to where I can actually position
+my characters
+um what you're going to want to do with
+your party in general is position
+your position your characters such that
+the two Sentinal characters are on
+either side of the party so you're going
+to want your monk sort of in the back
+you're going to want your Barbarian in
+front and in the center you're going to
+want your Paladin sort of in front and
+to the side here where you can cover the
+both the Barbarian and monk with
+Sentinel and your Rogue on the other
+side where you can cover both characters
+with Sentinel and where the two Sentinel
+characters aren't overlapping now
+obviously you're going to move around a
+lot in combat but this is just going to
+be your sort of basic formation and then
+if you want to trigger the reaction
+attack from your monk you can move them
+up to the front line and and drop the
+Barbarian back uh in order to give you
+yourself a little bit more opportunity
+for enemies to attack the Monk and
+Trigger the uninhibit it triggered the
+vest of Soul Rejuvenation retaliation
+attack so that gives you some options
+the monk of of course can also be
+roaming outside of the Pod uh and give
+your to attack enemies that the rest of
+your party can't reach while the rest of
+your party engages the main Threat all
+right my friends I hope that you've
+enjoyed this video of an all melee party
+for balers Gate 3 honor mode if you have
+of course feel free to leave a comment
+and like the video helps me out a ton
+with the algorithm so I appreciate you
+taking the time to do that and of course
+you can subscribe to my channel for more
+Boulders Gate 3 full party builds build
+guides for individual characters and
+other strategy game content and if
+you've really enjoyed the video of
+course feel free to leave uh a thank you
+with the join button or super thanks
+buttons below of course everyone who
+does that I do appreciate your
+generosity and I will catch you next
+time cheers folks GG

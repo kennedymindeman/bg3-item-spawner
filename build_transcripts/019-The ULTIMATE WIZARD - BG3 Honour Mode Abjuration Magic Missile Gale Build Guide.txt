@@ -1,0 +1,1083 @@
+All right, my friends. Let me show you
+how this character one-shots enemies
+with no chance of missing or failing
+while also being completely invincible
+to almost all enemy damage. We're going
+to start by casting Hex Blades Curse on
+the Oathbreaker Knight, our designated
+punching bag for this scenario, and then
+walk up to him. I quick saved and cut
+there because I've been trying to record
+this and the Oathbreaker Knight has
+rolled seven twos in a row. I'm not
+making that up. So, let's see if he hits
+this attack when we deliberately provoke
+an attack of opportunity. Okay, one more
+try.
+[Laughter]
+Okay, this time for sure. So, we provoke
+an attack and the Oathreaker Knight
+finally lands a hit. Uh, we take a grand
+total of two damage on our temporary hit
+points. And the oathbreaker knight from
+the Oathbreaker Knight's Divine Smite,
+and the Oathbreaker Knight takes in
+return uh 80 damage back. This is
+doubled. The cold damage is doubled
+because of the wet condition. That's not
+necessary at all, but we're showing off,
+so might as well do that. And then,
+since we want the Oathbreaker Knight
+dead, we're going to go ahead and cast a
+sixle magic missile. select him with all
+nine of the missiles and just watch the
+combat log have a heart attack. The
+oathbreaker knight of course lies dead
+and is uh overkilled by about I would
+say about 250 damage in that spot. Um
+probably a little more even. Uh so as
+you can see take no damage, kill enemies
+in one click. Let's get to the build.
+Hello my friends and welcome back to
+another Balders Gate 3 character
+building guide. Hope you're all doing
+well. So let me ask you this. What's
+better than deleting enemies in a single
+click without any chance of failure? And
+what's better than being completely
+invincible to enemy damage? Obviously,
+the answer to that is both of those
+things at once. Today, we're going to be
+combining two of the most powerful
+builds in the entire game into a single
+even more powerful build, capable of
+deleting enemies simply by willing them
+out of existence. You just click on them
+and they're gone without ever having to
+roll a dieice. And if something does go
+wrong, then you can take literally
+thousands of damage before ever being at
+risk of death. We're going to be
+building the magic missile abjuration
+wizard. This build is one of the most
+powerful available in the current game,
+and I will say that it is so strong that
+it will unbalance the game. Though, if
+you're looking for the most balanced
+experience, I don't recommend this
+character. But if you simply want the
+power fantasy of playing an invincible
+wizard who vanishes enemies with a
+thought, this is the character for you.
+Before I begin, I do want to take a
+quick moment to say thank you so much to
+Zachary Henkins for the $10 donation,
+Tarantula for the $10, Thomas Beam for
+the $20, Sevir for the $20, and Pat 1
+for becoming a channel member. Thank you
+so much, my friends. I really appreciate
+the support. It really means a lot to
+me. All right, let's break Balders's
+Gate. We're using Gail here as the
+example character because of course this
+is a wizard build and he's the wizard of
+the party. Some might even say this is
+the most wizardly of wizard builds. And
+I really like it for Gail because it
+gives him the skills to back up his ego.
+If you're building this as a custom
+character, then what race you pick
+almost entirely doesn't matter. The
+character is so powerful that the racial
+bonuses are a very small percentage of
+the overall power budget of the
+character. So you can build it on pretty
+much any race and it will be excellent.
+and we get all the weapon and armor
+proficiencies that we need from our
+class levels. Anyways, if you really
+want to squeeze out that extra bit of
+optimization, then the best pick is
+going to be Gnome. We're going to be
+almost completely invincible to damage
+based attacks from enemies. So, Gnome,
+giving you advantage on mental saving
+throws, can stop one of the very, very
+few ways that you can still lose combats
+on this character by making it harder
+for enemies to land debilitating mental
+effects on you. Other great picks
+include the normal standouts, of course.
+Halfling for even more safety by
+r-rolling ones, Dwgar for out of combat
+invisibility, so you can kill enemies
+before they even know that you're there.
+Wood elf for half wood elf for bonus
+movement speed. And if you lean into the
+darkness aspects of this character,
+because we do get good access to the
+ability to abuse darkness if we want to,
+then D halfd or modius teling can get an
+extra cast of darkness making that an
+even more powerful strategy. Now, you
+might be wondering why we didn't do this
+build earlier. It seems like a natural
+pairing. But the answer is that until
+patch 8, it wasn't really possible.
+Because with the launch of patch 8, both
+of these builds got a tremendous
+additional tool in the form of, as with
+so many other builds, Hexlade Warlock.
+This lets us hit the break points for
+killing enemies in one shot with magic
+missile thanks to Hexlad's curse, while
+also giving us armor of Agthus. So, it
+gives us all of the tools that we need
+to make the abjgeration wizard work and
+all of the tools that we need to make
+the magic missile wizard work in a
+single class level. So, we're going to
+start with a level of hexlade warlock.
+Since we're going to be primarily a
+wizard, we're not going to take any
+offensive spells from Hexlade Warlock.
+We're going to use it for defensive and
+utility spells. But the most important
+things that it gives us are Hexlad's
+curse, which let us add our proficiency
+bonus to damage every time we damage an
+enemy. Since we're using magic missiles,
+we're going to be doing tons and tons of
+damage instances to enemies. You can see
+that in my magic missile build guide.
+And so this hex blades curse damage is
+going to apply over and over and over
+again in every uh single cast of magic
+missile. The critical hit bonus doesn't
+matter because magic missile can't crit,
+but it will still massively improve our
+burst damage. And thanks to being a
+warlock, this gets us armor of agthus
+without needing to invest in a sorcerer
+level, which abduration wizard used to
+need to do. So now we can get both of
+these things at once. So for our canrip
+selection, we're going to go ahead and
+take blade ward. This is an incredible
+tool for an abduration wizard. When you
+have flat damage reduction,
+multiplicative damage reduction like
+blade ward is incredibly powerful
+because it effectively doubles the
+efficiency of that flat damage
+reduction. So, it's going to make you
+survive many many more times than twice
+as long because you're multiplying all
+of your damage reduction in addition to
+multiplying your health whenever you
+have damage resistance from blade ward.
+We're also going to go ahead and take
+booming blade. Um, I know I said I
+wasn't going to take offensive uh,
+cantrips, but this doesn't use our
+actual stats. And booming blade is a lot
+of damage. This character is going to be
+in melee a lot of the time because we're
+an objuration wizard, so we're going to
+run up to enemies and get close to them.
+Being able to hit them with a weapon
+with booming blade and later we'll get
+shadow blade makes us actually an
+extremely credible melee threat in
+addition to all of the casting and
+blowing up of enemies that we're capable
+of doing. So this character can attack
+on many many different angles thanks to
+all of these abilities. We're also of
+course going to take Armor of Agthus.
+This is an abjgeration spell. So it lets
+us build arcane ward. I'll talk about
+that a bit more in a second. And with
+all of our damage reduction, we're going
+to multiply the time that this lasts by
+many times over. And if you cast this
+with a highle spell slot, you're going
+to be able to do thousands of return
+damage to enemies cuz they'll never be
+able to break it. Every time they hit
+you, they're going to take 30 cold
+damage, and that adds up really, really
+fast. Or 60, of course, if they're wet.
+Uh, in addition to that, we're going to
+go ahead and take hex. It's only
+available to warlocks. Wizards can't get
+it and they can get shield, which is the
+other spell we're interested in. While
+most of our um while magic missile
+doesn't use attack rules, so doesn't
+benefit from hex, we have a lot of other
+abilities that do use attack rules,
+other cantrips and just hitting with our
+weapons. So, hex is a pretty big damage
+source and something that we can use in
+some combats. For our ability score
+selection, although we are a warlock,
+we're not going to take charisma because
+all of our offensive capability is going
+to come from our wizard levels. So,
+we're going to use intelligence for that
+instead. So, we're going to take 16 in
+dexterity to max out our uh initiative
+and armor class in the early game. And
+then 16 in intelligence to max out our
+wizard spell casting, as well as 12 in
+wisdom and 14 in constitution. This
+character is also powerful enough that
+if you want it to be your party face,
+you can uh take some points away from
+these other stats, especially if you
+plan to use stat items or events to
+increase your attributes later on and
+put them in charisma and then take some
+dialogue skills. Um, and you can
+definitely have this character act as
+your party face. Uh, for this um demo,
+I'm going I'm not going to do that and
+instead I'm going to focus on maximizing
+our combat power. But I did want to
+mention that that's an option if you
+prefer to have this character with high
+charisma. Uh we're just going to go
+ahead and take let's say investigation
+and nature because our skills really
+don't matter. This character is not
+intended to be in dialogue very
+frequently. Um and we just want our
+stats to give us the highest possible uh
+power level in terms of our combat
+capabilities. All right, that's it for
+level one. Let's go on to level two. At
+character level two, we're going to be
+immediately leaving Warlock and taking
+levels of wizard. For our cantrip
+selection, we're going to go ahead and
+take ray of frost. This is the best
+damage cantrip and gives us something
+excellent to do every turn. Enemies are
+going to be wet a lot because we do a
+lot of cold and lightning damage for
+this character. So, we want to be
+throwing water bottles or getting
+enemies wet really frequently. So, ray
+of frost will often be doing double
+damage. And it's just the best combat
+handtrip available for wizards. also
+works well with hex, which increases the
+damage dealt when you hex an enemy and
+then hit them with ray of frost. We're
+also going to take minor illusion to
+group enemies up. This also lets us uh
+collect them together so our far carrier
+can hit more of them at once with the
+aura, letting our magic missiles pop
+enemies more easily. And finally, mage
+hand. Since we want to get enemies wet
+because this build does tons of cold and
+lightning damage, dropping a bottle of
+water on the ground and then having the
+mage hand throw it at an enemy is a way
+to do that without actually spending a
+turn. If you don't like microing mage
+hand, um then you can just take firebolt
+cuz being able to light fires is also
+pretty useful in some scenarios, but
+this is the most mechanically optimal
+set of cantrips. For our spell
+selection, there's a few that obviously
+we need to make certain that we get.
+Magic missile is of course the most
+important one. This is a magic missile
+build, so we need to have magic missile
+so that we can cast it. We also need
+shield. Uh shield is the best defensive
+spell in the game. In the early game
+before we're invincible to enemy damage
+with abjuration stacks, shield is going
+to be invaluable for keeping us alive.
+Although this is an abjuration spell, it
+unfortunately at time of recording
+doesn't stack arcane ward um because
+it's a it works as a reaction and is
+coded sort of weirdly. Um, but other
+than that, it's still an amazing spell,
+so we definitely want it. Chromatic Orb
+is another great combat spell. And then
+after that, we can take utility spells
+like enhanced leap and longstrider and
+something like fogcloud, which can blind
+enemies with no saving throw.
+At level three, we're taking our second
+wizard level, which of course lets us
+pick our wizard subclass, which is going
+to be abjuration. Abjuration wizard
+gives you arcane ward. Now, the tool tip
+here doesn't tell you what this actually
+does, uh, cuz this is Balders's Gate, so
+why would it? But how this ability works
+is whenever you cast an Abjuration
+spell, you gain a number of Arcane Ward
+stacks equal to the level of the spell.
+So, if you cast, say, Armor of Agthus,
+you get one Arcane Ward stack. This can
+go up to double your wizard level. And
+when an enemy hits you, it reduces the
+incoming damage by that amount, and then
+you lose one stack. you don't lose that
+amount of stacks, you just lose one.
+What this means is that as soon as you
+get a few uh levels and get these stacks
+to a reasonable number, enemy damage is
+going to be reduced to zero, and you're
+only going to lose one stack at a time,
+which you can quickly replace by casting
+more abduration spells in combat.
+Assuming that en enemies survive your
+missile barges from your magic missiles.
+for our spell selection here. Of course,
+we're a wizard, so we're going to be
+able to learn all of the scrolls that we
+find. Um, so what you decide to pick as
+you level up is going to depend a lot on
+what scrolls you've managed to find
+access to. Um, but important spells to
+have include grease, which is just a
+really nice control spell, and find
+familiar, which gives you a lot of out
+of combat options. At character level
+four, we're taking our third wizard
+level, which it's taken me four takes to
+say because I kept saying liver level.
+Uh, so, you know, treasure that image.
+Uh, which of course gets us second level
+spells. There aren't that many second
+level spells that are extremely
+important to this character. We can
+stack Arcane Ward using upcasted level
+one spells. So, you can just cast a
+level two armor of Agthus in order to
+stack your Arcane Ward, but there's
+definitely some spells that are
+extremely worth mentioning. Obviously,
+Cloud of Daggers is an incredible uh
+spell just in general. um just the best
+combat spell at this level and still
+extremely useful in the early game.
+Darkness is also very powerful for this
+character if we take a second level of
+warlock, which I'll talk about a little
+bit more in a second. Um because this
+character can abuse darkness if you take
+two warlock levels. Another spell that's
+really worth mentioning for this
+character is shadowblade. Although we do
+have two weapons that we want to make
+extensive use of, shadowblade
+nevertheless increases our damage output
+significantly if we're actually making
+weapon attacks. And this character can
+of course do that. You can spend a
+highle spell slot, a fifth level spell
+slot on shadow blade and just wade into
+melee, dishing out incredible damage
+using the shadow blade resonant stone
+combo uh and also being invincible to
+enemy attacks. So, if you want to take
+fights where you're not spending spell
+slots, having a shadow blade as an
+option is a great choice for this
+character. So, not only do we get to do
+the magic missile stuff with shadow
+blade and booming blade, our melee
+damage output is actually incredible as
+well. Obviously, what spells we take
+here are mostly going to depend on what
+scrolls we find, but these two are
+particularly worth mentioning. At
+character level four, we get to take our
+first feat, and our feat is going to be
+dual wielder. There are two uh weapons
+at most stages in the game that are
+incredibly powerful for this character.
+In act one, you get the spell sparkler,
+which charges up your magic missiles
+with lightning charges, allowing them to
+do significantly more damage every
+single shot, and also stacks with your
+additional damage that you're getting
+from Hexlade's curse and other damage
+riders that we're going to be stacking.
+In addition to that, you want to use
+Falora Louve. Either you can carry this
+and in the early game that's often going
+to be what you're doing and then you can
+have extra damage from that or you can
+have an ally carry it and you can use a
+shadow blade or a shield or another
+off-hand weapon. So dual wielder gives
+you a lot of different options.
+Typically you're going to be using a
+shadow blade and a spell sparkler with
+an ally carrying far in the early game.
+And then in the late game, we get
+Marahesh gear and we're going to
+transition to spell sparkler plus
+Marahesh gear for the maximum amount of
+damage. For our cantrip selection here,
+we're going to take any utility cantrip
+that you might want. Uh firebolt is
+still very useful, as is bone chill for
+act two. Uh being able to turn off enemy
+healing is very helpful for this
+character. Um or you can take something
+like light, which is often very useful.
+friends if you are a party face. There's
+a lot of different options here. And of
+course, some of these you could find as
+scrolls, so that may affect your
+decision. I'm going to take bone chill
+because it's always useful to have,
+especially as we get into act two. For
+our spell selection at this level, I
+already talked about a few of the spells
+that we might want, but obviously your
+decisions are going to be governed
+mostly by what scrolls you have. And for
+your prepared spells, uh just ignore
+these higher level prepared spells.
+They're ones that Gail has learned uh in
+this playthrough, but not ones that
+we've learned in this for this character
+yet. For your prepared spells, you're
+mostly looking at something like magic
+missile plus shield, uh, as well as
+chromatic orb as your level one spells.
+And then at level two, you're going to
+take shadow blade, misty step, and cloud
+of daggers. And then you can grab
+another utility or combat spell,
+whatever your party might prefer.
+Something like enhanced leap is
+obviously incredibly useful and as a
+ritual spell. Old person combines
+extremely well with shadow blade because
+those automatic critical hits can be a
+tremendous amount of damage with this
+very high damage weapon in the early
+game. So, a lot of different options for
+how you prepare your spell list. But
+these six spells are going to be your
+go-to combat options.
+At character level six, we get wizard
+level five and get third level spells,
+which gives us access to two more
+extremely important spells, plus a bunch
+of other powerful spells that we can
+find from scrolls. But the two most
+important spells for this character are
+counter spell. Not only is this the best
+defensive reaction in the game and just
+an incredible spell that every party
+wants access to, it's also a level three
+abjgeration spell. So whenever you
+counter a spell, you're going to refresh
+your arcane ward by three points, which
+given that often you'll have taken a
+little bit of chip damage in these
+fights to your ward, if not necessarily
+to your hit points, this is a great way
+to replenish it. Another incredible way
+to replenish it is another awesome
+combat spell, glyph of warding. This
+gives you five possible or uh six
+possible choices for the glyph, each of
+which is incredibly powerful in combat.
+And the cold damage glyph, given that
+we're doing a lot of wet and cold
+effects anyways, is also going to be
+extremely high damage. But also, it's
+another non-conentration abjuration
+spell that you can cast in combat to
+refresh your arcane ward. So, these two
+spells are going to be your typical way
+of refreshing Arcane Ward in combat and
+making sure that you retain your
+invincibility.
+A character level seven, we actually
+have a pretty interesting decision to
+make for this character. With five
+abjuration wizard abilities, we've
+reached a pretty good break point
+because we have 10 stacks of arcane
+ward, which is at the point at which it
+becomes really difficult for enemies to
+kill you. Imagine an enemy with three 20
+damage attacks, which is a pretty strong
+enemy for this point in the game. If we
+cast blade ward and walk up to that
+enemy, their first attack does zero
+damage. Their second attack is going to
+do um 20 haved down to 10 and then we'll
+subtract nine for one damage. And then
+their third attack will do two damage.
+So they'll have hit us for 60 damage,
+we'll have taken three, and then we'll
+have returned 45 damage with our um
+armor of Agthus. or if they're wet,
+we'll have returned 60 damage in return.
+So, of the 60 damage that they tried to
+do, they'll take all of it and we will
+take three of it. Uh, so this is a
+pretty powerful break point for the
+character. So, we could at this point
+take a second level of warlock. This
+gets us a couple pretty powerful things.
+The first of these is obviously as a
+warlock with Devil's Sight, you get
+darkness, and that is an incredibly
+strong ability. Um, and if you're doing
+a darkness themed character, it's uh
+ludicrously powerful. Um, if you're
+building your party to center around
+darkness. And the second is that it gets
+you a trick to infinitely stack your
+Arcane Ward outside of combat using the
+Armor of Shadows evocation. Armor of
+Shadows lets you cast mage armor without
+spending a spell slot. And while
+normally you can't cast mage armor if
+you already have it. So this lets you
+cast a spell for free. Um but then you
+can only do it once. Mage armor also
+cancels if you put on any piece of
+armor. So you can cast this invocation,
+put on a piece of armor, take that armor
+off, and recast it to stack your Arcane
+Ward up to maximum for free without
+spending spell slots. This is pretty
+powerful, if maybe a little bit cheesy.
+Uh, but obviously the quality of life
+from being able to stack this and not
+having to spend spell slots on other
+stuff is immense. Whether you take the
+second warlock level is going to depend
+a little bit on how much um you long
+rest in your games. If you long rest a
+little more frequently so you can
+recover these spell slots more, you
+don't need the second warlock level at
+all. If you long rest very infrequently,
+you might want it. Overall, I think it's
+a little more powerful to keep leveling
+in wizard. So, for this demo, I'm going
+to keep doing that. Uh, but the second
+level of warlock is extremely strong for
+the infinite arcane ward stacking, and
+I'm mentioning it here because this is
+the most likely break point to take it.
+With our sixth wizard level, we're of
+course going to get two more spells. Um,
+what spells you pick here is going to
+depend pretty heavily on what scrolls
+you found up to this point in the game.
+Uh, but sletorm's a great control spell.
+This character will never lose
+concentration on haste because you're
+never going to take real damage. So, it
+can be very helpful to have that as well
+to enable your party members. So, those
+are some options. Your prepared spell
+list at this level is going to look very
+similar to what it was before. Uh, but
+is now going to involve these third
+level spells, counter spell and glyph of
+warding, as well as it it redid all my
+prepared spells, of course, cuz it often
+does that. uh as well as these lower
+level spells in terms of magic missile
+and shield and chromatic orb. And then
+you can mix in other control spells or
+like sletorm or burst damage spells like
+lightning bolt if you want those.
+At level eight, we get fourth level
+wizard spells as well as 14 stacks of
+arcane ward. Uh and the fourth level
+spells, there's a few pretty powerful
+tools that we get here, but one that's
+worth mentioning specifically for this
+character is fire shield. It's an
+evocation spell. So, it doesn't stack
+your ward, but what it does do, which is
+a little weird cuz it seems like it
+should be abjgeration, but what it does
+do is give you resistance to two more
+very common damage types. And resistance
+is incredible for this character cuz
+damage multipliers work so well with
+flat damage reduction. Uh, and even more
+retaliation damage when enemies hit you.
+So, the armor of agthus damage and the
+fire shield damage can stack for even
+more damage output. Ice storm is also a
+really nice non-conentration spell that
+deals cold damage. So, that's pretty
+useful. and wall of fire can solve
+entire encounters on its own. So, those
+are the most important levels four
+spells to take a look at. At a character
+level 9, we get to take our eighth
+wizard level and get our second feat.
+But the funny thing for this character
+is that in some ways, we don't really
+need it. Most characters are desperate
+for feats uh and can never get enough.
+But this character in a lot of ways
+doesn't really need any of the benefits
+of feats cuz we're already just so
+strong. Alert is always an amazing
+option. Um, but this character doesn't
+need to go first as badly as other
+characters cuz enemies can't kill you.
+So, you can just go second. And an ASI
+to increase our intelligence does make
+us much better at landing our wizard
+control spells. Increases the damage and
+accuracy of our cantrips and stuff, but
+a lot of our damaging effects don't use
+our intelligence either. Magic missile
+never cares about our intelligence.
+Armor of Agthus never cares about our
+intelligence. any attacks we make with
+shadow blade will use dexterity rather
+than intelligence. So, we don't need
+this as much as other wizards. It's
+still probably the best choice to just
+take two points in an ASI. Um, but
+there's actually a lot of more fun feat
+options that this character can get away
+with. So, uh, I want to talk about those
+a little as well. Two points in
+dexterity is also a great option, uh,
+especially if you're using a lot of
+shadow blade attacks at this point in
+the game. Some other really fun options
+that this character gets include heavily
+armored. Heavy armor proficiency is
+actually kind of useful. There's some
+heavy armor sets that we definitely
+wouldn't mind wearing cuz some of them
+come with a lot of damage reduction and
+the armor of persistence gives us
+permanent blade ward makes us even
+harder to kill of course. Um stuff like
+mobile can be very useful just to move
+around and get next to enemies more
+often. And another really fun one is
+sentinel character enemies will often
+try to ignore this character completely
+because they know they can't damage you.
+So they will try to go after your allies
+and just not attack this character. If
+you're playing solo, they will often
+just pass turns entirely. Sentinel keeps
+them stuck in melee with you, so
+prevents them from running off after
+your allies if you're making weapon
+attacks. So, there's a few different
+options that work really well for more
+fun feats. Though, the best overall is
+probably just to boost our intelligence.
+We're still a wizard, so we still want
+to land those control spells. For our
+spell selection at this level, again,
+you can just pick up uh any utility
+spells or spells that you think you
+might need. Another one worth
+mentioning, by the way, protection from
+energy gives you damage resistances,
+which again are very, very good. But
+here, of course, you're just playing
+Pokémon and catching up on any spells
+you haven't found yet.
+At character level 10, we're taking our
+ninth wizard level, going to 18 stacks
+of arcane ward, and getting fifth level
+spells. For fifth level spells, uh, I'm
+going to suggest Condra Elemental. This
+character won't usually want to use
+highle spell slots on summons, but it's
+still a really nice boost to have,
+especially if you get a lot of spell
+slot resets or you're using effects that
+can reset your uh, spell slots um, in
+kind of a cheesy way as well. You can
+get an extra summon. and the summons are
+still very very powerful. The water
+Merrmadon is less powerful for this
+character than it used to be because it
+no longer makes everything wet, but
+still a great option. Cone of Cold is
+also excellent and hold monster is still
+a great spell as well. Cone of Cold is
+good for this character cuz we're again
+doing a lot of cold and lightning
+damage. So, wet effects, this can give
+us an AoE damage effect to complement
+our single target damage.
+At character level 10, we get improved
+abduration, which stacks our arcane ward
+to our wizard level every time we short
+rest. So, saves us a lot of spell slots
+over the course of a day. This is part
+of why I think you don't usually need
+the infinite uh stacking from Warlock,
+although again, that's a very powerful
+option for players who long rest very
+infrequently. And of course, we get to
+take a cantrip. So, we're going to take
+true strike to annoy people in the
+YouTube comments and some more spells
+based on whatever you haven't found up
+to this point.
+And finally, at wizard level 11, you get
+six level spells. And the fact that
+Warlock doesn't give you six level spell
+slots, uh, unless you take 11 wizard
+levels, is again part of why I tend to
+prefer the 111 split, even despite the
+bug with the infinite Arcane Ward
+stacking. Um, you can also respspec to
+this uh once you're level 11 and get the
+short rest stacking if you find it
+annoying to spend spell slots to stack
+Arcane Ward. Um, so you can do the the
+split with two levels of warlock and
+then finalize on this level uh at level
+10 or or at level 11 or 12 as well. We
+get some amazing spells from sixth
+level. Now, most of the time our six
+level spell slots are going to go to
+casting magic missiles or casting armor
+of Agthus, but we still can benefit
+tremendously from globe of
+invulnerability, which lets us be
+invincible. If any fight threatens to
+overcome our massive damage reduction,
+then we can just uh overcome that here.
+And another incredible AoE damage spell,
+Wall of Ice, which you can cast and then
+immediately cancel to get the initial
+damage and the damage over time, both at
+once. So, effectively quadrupling the
+damage of this spell with wet and
+blowing up entire encounters
+immediately. All right, my friends,
+that's the Abjuration Magic Missile
+Wizard. But of course, the way to make
+this character, as powerful as it is,
+involves items. So, let's talk about
+those. For items for this character, we
+have two main goals. We want to increase
+the damage of our magic missiles. Uh,
+and we want to become tankier, so we
+want to blow up enemies in one shot, and
+we want to survive infinite amounts of
+damage coming towards us. So, our items
+are all going to go towards those goals.
+This character has a few specific item
+requirements. And I will say in general,
+if this character is in conflict with
+another build for a specific item, you
+should prioritize this character's
+access to that item over almost any
+other build. We need a lot of these
+items, and we make better use of them
+than most other characters. We don't
+need them all, and you can certainly
+build this with fewer of these items. It
+will be just fine. and an abduration
+wizard is still incredibly powerful and
+a magic missile wizard still incredibly
+powerful. But these items do go a really
+long way on this character. For the
+first kind of item, there are three
+specific weapons that we need to keep an
+eye out for. The spell sparkler
+available in act one and floral
+available in act one and marahesh gear
+from act three. The spell sparkler gives
+us lightning charges whenever we deal
+spell damage to an enemy. Uh, and magic
+missile deals multiple instances of
+damage with every cast. So, we get two
+lightning charges for each missile that
+we fire. Um, and on especially on lower
+difficulties than honor mode, we will
+often get even more than just one than
+just two per missile because other
+damage instances will often trigger
+these lightning charges as well. Faroo
+using its shriek ability. So faraloo
+melody shriek allows uh every enemy in
+the area or forces every enemy in the
+area to take an extra D4 of thunder
+damage every damage instance that they
+take. Since we're dealing lightning
+damage and magic missile damage and hex
+blades curse damage, these will all
+independently trigger this extra thunder
+damage. So the damage instances stack um
+over and over and over again with Far
+Lou for massive damage output. You can
+either have this character wield it. We
+do have dual wielder. Or you can have an
+ally carry it. In act three, we get
+Mara, which when set with Caresa's favor
+to the lightning version of uh
+Maraheshar, has a very similar effect
+with the spell sparkler, where it will
+give us extra lightning charges, going
+up to four per missile. So, we're going
+to be stacking tons of lightning
+charges, triggering the extra d8 of
+damage, um, four out of five missiles,
+and actually in practice even more than
+that, and getting an extra damage on
+every attack. This is way more damage,
+by the way, than I see Rap City
+mentioned a few times cuz that's plus
+three damage per missile. Um, but the
+extra lightning charges from Marahesh
+gear add up to way more cuz they also
+trigger other damage riders. So, the
+best endgame setup is a spell sparkler
+and marahesh gear. In addition to that,
+we want the psychic spark. This gives us
+an extra magic missile whenever we cast
+magic missile. So, with a sixth level
+magic missile, we're going to cast nine
+missiles with the psychic spark. And of
+course, it doubles the effectiveness of
+level one or sorry, increases the
+effectiveness of level one missiles by
+33%. Um, which is a huge bonus and then
+just gives you an extra spell level on
+every missile thereafter. Um, and Hat of
+the Sharp Caster, which uh gives lets
+you re-roll a one or a two on damage
+dice. This isn't a huge damage increase,
+but magic missiles do roll a D4 of
+damage every time. R-rolling a one or a
+two increases our average damage
+significantly. Technically, this is a
+bug because it's supposed to only work
+on spell attacks, which are spells that
+roll to hit. That's what an attack is,
+and magic missile doesn't do that. Um,
+but it's such a minor bug that I think
+Hatter the Sharp Caster is totally fair
+game for this character and increases
+your damage output immensely. We also
+want even more damage riders and one of
+the best ways to do that is the callous
+glow ring which adds two extra radiant
+damage to basically every type of damage
+we do, including all this lightning
+damage and thunder damage that we're
+doing. Anyways, since we're doing
+radiant and thunder damage, we can add
+in the coruscation ring and the luminous
+armor to add a bunch of radiating orbs
+um off of that radiant damage and off of
+our spell damage, which will then allow
+us to to to apply conditions to enemies
+to trigger the boots of stormy clamor
+and the gloves of belligerent skies to
+stack reverberation. When we get five
+stacks of reverberation, that's another
+D4 of thunder damage for yet another
+damage instant. So, all of these items
+stack together to massively increase
+your damage output per missile by
+stacking even more damage instances on
+top of those.
+In addition to those options, we have a
+bunch of other powerful items or
+alternatives if we want to be tankier.
+Firstly, increases to initiative are
+always good. So, things like the hell
+rider long bow or elixir of vigilance
+are incredibly powerful for this
+character. We don't really need our bow,
+so this just gives us plus three to
+initiative for free. We also can benefit
+from swapping out our boots for the
+boots of striding if we want to be
+tankier for specific combats. We're
+often going to be concentrating on
+spells, and prone is one of the only
+ways we can lose concentration. Um, so
+immunity to prone is very good. This
+character has medium armor proficiency,
+so we can use these. Another way to
+increase our damage output also is the
+boots of arcane bolstering plus using
+effects like haste or speed potions. If
+we spend one action on dashing, that
+gives us arcane charge, um, which gives
+us a plus two to our damage with spells
+against threatened enemies. The tool tip
+here is wrong. It says when we're
+threatened, but it's actually when the
+enemy is threatened. So, if you move
+into melee range with that enemy, which
+you will, or if an ally is in melee
+range with that enemy, you get plus two
+bonus damage. So, that's another way to
+increase our damage. Uh, especially if
+you have another character that's using
+the boots of Stormy Clamor for whatever
+reason. There's also a ton of other
+armor options. The luminous armor isn't
+necessary and it does require you to be
+very close to the enemy to trigger these
+radiating shock waves. Um, so there's a
+bunch of other options that are very
+powerful as well. The bone spike garb or
+the adamantine scale mail both come with
+flat damage reduction which basically
+gives you extra levels in arcane ward
+for free. Having the bone spike garb on
+basically gives you one extra wizard
+level in terms of how much damage
+reduction you have. So, it makes it
+significantly harder for enemies to kill
+you. The retaliation damage is also uh
+very good. Two extra damage reduction
+doesn't sound like much, but when it
+stacks with itself, each point becomes
+better than the previous point. So, even
+small amounts of increasing damage
+reduction are hugely impactful on your
+survivability. The adamantine scale mail
+is also very good uh for a similar
+reason and prevents critical hits which
+are one of the few ways that enemies can
+breach your defenses is if they get to
+double their damage by critically
+hitting. And in the end game, the flame
+enameled armor can give you damage
+resistance to fire and to cold using the
+fire shield bonus. And bonuses to saving
+throws uh shore up the only defense that
+we're weak in and bonuses to initiative
+are always welcome. Of course, the
+Heldusk armor is also three flat damage
+reduction, so it's even more damage
+reduction and despite being heavy armor,
+does not require you to have heavy armor
+proficiency. So, it gives you a
+tremendous amount of damage reduction
+and is incredible for this character as
+well. There's also a couple really solid
+armors that you can take if you took
+heavy armor proficiency, which I talked
+about in the feats section. Uh the first
+of these is of course the armor of
+persistence which basically has almost
+all incoming damage by giving you blade
+ward and then reduces it further by two
+as well as giving you resistance to
+increase your saving throws. So again an
+incredibly powerful defensive tool. Uh
+but another armor that doesn't come up
+that often but is incredible for this
+character is the rippling force male
+which whenever you take slashing,
+piercing or bludgeoning damage, now this
+damage does have to actually hit your
+health so it needs to go through your
+arcane ward. Um, to trigger this effect,
+you gain two turns of force conduit.
+Force conduit is uh a buff that stacks
+over turns very similar to reverberation
+or radiating orb, but good instead of
+bad. Um, and gives you one damage
+reduction against physical damage per
+turn remaining up to a maximum of seven.
+If an enemy hits you while you have five
+or more turns remaining, it goes away
+and explodes. But that's even more
+retaliation damage. Um, in addition to
+your armor of agthus and possibly your
+fire shields, you also get the force
+conduit damage. Uh, which means that
+this is both defensive and offensive cuz
+it lets you retaliate as well as absorb
+even more damage. So, a cool item that
+you don't see used that often that's
+incredible for this character. Um, the
+flesh melter cloak is also worth
+mentioning. You can also just use a
+cloak like the cloak of protection to
+boost your saving throws. Saving throws
+are always good for this character, but
+uh we are going to be taking hits a lot
+and deliberately provoking attacks of
+opportunity from enemies a lot. So the
+flesh melter cloak does a bunch of
+retaliation damage. And since we have so
+many effects that trigger whenever we do
+damage to enemies, a lot of those will
+trigger off of this 1d4 acid damage. So
+it ends up being worth a lot more than
+it looks like. Finally, bottles of water
+are incredible for us. Uh, we do a ton
+of lightning damage with all the
+lightning charges with our magic
+missiles and a ton of cold damage thanks
+to Armor of Agthus doing cold
+retaliation damage. All of which gets
+doubled when an enemy is wet. So, if you
+throw a bottle of water at someone or
+have a familiar do it or a mage hand do
+it, then you can double a lot of our
+damage output. Also, the resonant stone
+is great for this character because we
+do have access to shadow blade and we're
+going to be in melee a lot, especially
+in the early game or like before you get
+Marahesh gear. There's not that much
+time in the game where you have the
+resonance stone and don't have Mara yet.
+But if you just want to do more melee
+damage for an encounter, the resonance
+stone increases your damage output a lot
+and you can use shadow blade to do tons
+and tons of melee damage with this
+character.
+All right, my friends. I hope you've
+enjoyed this look at one of the most
+powerful characters in Balders's Gate 3,
+the ultimate wizard with both offense
+and defense higher than almost any other
+character in the game. And of course, I
+hope that it helps you in your honor
+mode runs. If you have enjoyed the
+video, feel free to leave a comment and
+hit like. Helps me out with the
+algorithm, though. I really appreciate
+people taking the time to do that. And
+of course, you can subscribe to my
+channel for more Balders's Gate 3 build
+guides and other strategy game analysis.
+Cheers, folks.

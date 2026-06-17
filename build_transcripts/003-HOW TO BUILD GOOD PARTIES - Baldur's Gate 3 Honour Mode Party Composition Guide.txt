@@ -1,0 +1,1462 @@
+hello my friends and welcome back to
+another balers Gate 3 build guide hope
+you're all doing well today we're
+covering one of the most requested and
+anticipated topics for my channel how to
+build strong parties so how to build
+parties that synergize with one another
+work well together and will get you
+through honor mode or just be a breeze
+to play the normal game with this is
+intended to be a guide to how to think
+about putting together characters that
+synergize with one another which is
+obviously an incredibly broad topic and
+so we will be doing sort of an overview
+today about the most important
+considerations and then I might do
+deeper Dives in the future on specifics
+that you might want in uh party building
+we'll be talking about sort of the
+principles of party building what
+classes work well together how to uh
+make sure that you're not having
+conflict with item requirements or skill
+requirements which spells are important
+to have access to in a given party and I
+will also be giving some example parties
+that fill the roles of everything that
+you need so when we get through this you
+should have a good grounding in sort of
+how to think about constructing parties
+when you're planning what four
+characters you're going to bring on your
+balers Gate 3 Adventure all right let's
+get into it and start talking about how
+to build good
+parties now I know you've all been
+waiting for this and the important thing
+about jokes is that they are funnier the
+second time you make them so the Genesis
+of this video is that people have been
+really enjoying the full party build
+guides that I've been putting together
+go check those out if you haven't
+they're really uh helpful if you're
+trying to build a party for Honor mode
+and I figured that if I can teach people
+how to build synergistic and Powerful
+parties themselves
+then oh no I messed up oh no well too
+late now I guess we just have to forge
+ahead in general I think there are four
+main considerations when you're building
+a party although there's one overriding
+consideration ahead of those which is I
+think important enough that I've put it
+in its own slide and that's that DND
+dungeons of dragons is an extremely
+flexible system with plenty of room to
+bend and break the rules that I'm going
+to lay out here um this is a game that
+is designed for you to play the way that
+you want to play it and so uh while you
+can certainly optimize your party
+composition the most important thing is
+that you bring the characters that
+you're interested in bringing and I do
+want to emphasize that while there are
+definitely synergies that you can look
+for and things that you can uh
+cover this is not the type of game where
+you have to have every role filled in a
+party or you won't be able to succeed or
+where you have to have every single
+spell uh important spell available or
+every single skill available you can
+absolutely leave gaps in your party if
+it fits your concept or you just like
+specific characters or there's something
+that you want to accomplish in
+particular or have uh very very heavily
+themed parties and those will still be
+fine in fact even from an optimization
+standpoint dungeons and Dragons Falls
+much more heavily on the power end of
+the scale than on the Synergy end of the
+scale most game systems will either
+emphasize individual power of the things
+that you're doing or Synergy between
+different things that you're doing um if
+you imagine a game where you have like
+two elements Each of which you can if
+you have I don't know two cards that you
+have in hand uh a game where one of
+those cards does 10 damage or another
+game where where each of them does one
+damage but if cast together they do 15
+damage those are examples of games that
+have different emphasises so in the
+first one you have very heavy emphasis
+on individual power level and in the
+second you have emphasis on interlocking
+Parts Dungeons and Dragons definitely
+Falls more heavily towards the end of
+the scale that emphasizes individual
+power level so it's more important
+overall to have individually powerful
+builds than it is to have a party that
+is extremely synergistic with one
+another
+but of course if you're aiming for the
+best possible uh outcome then you want
+to have both I just wanted to emphasize
+though that it's very useful to or that
+it's very possible to build parties that
+break a lot of the rules that I'm going
+to lay out here and it will not make it
+impossible for you to win or even
+significantly more difficult this is
+more if you want parties that do work
+together in the sense of uh being able
+to allow you to perform how you want in
+combat but also in the sense of being
+able to allow you to access all sorts of
+different content if you want to
+experience more of the game then you're
+going to want to have more roles and
+skills and everything covered and that I
+think is also very important and in the
+sense of it's fun when an adventuring
+group has really cool synergies that
+they can use to work together not to
+mention that you will have a more
+powerful party if you have it be more
+synergistic to do that I think there are
+four things that we should consider the
+first is roll balance and something that
+I should mention here right off the top
+is that Dungeons and drag is actually
+quite different in how it handles roles
+than most other game systems you may be
+familiar with MMOs or other RPGs other
+party based RPGs that have pretty strict
+roles like tank healer DPS and and nuker
+that kind of thing that's sort of the
+standard MMO role set if you've played
+World of Warcraft or whatever D and does
+not work like that the roles in Dungeons
+and Dragons are actually significantly
+different so even though at sort of
+first glance it's the same it looks like
+it's going to be the same as many other
+game systems the roles that you are
+looking at in Dungeons and Dragons are
+significantly different and I'll talk
+about what those actually are as we go
+through how to balance them but one
+thing that you should consider when
+you're building a party is how to
+balance the different roles and make
+sure that you have every role covered in
+your party another is utility coverage
+which is basically a catchall for spells
+and skills there's some spells that
+every party should have access to and
+some skills that every party should have
+access to and you want to make sure that
+your class breakdown and build breakdown
+allows you to access all of those spells
+and skills to make sure that you have
+them all covered somewhere in your party
+next is item access and there's actually
+two sides to item access which is uh
+both you want your characters not to
+compete for the same items you want to
+make sure that your characters uh are
+not overlapping too much in their gear
+requirements don't need specific items
+in common because then you are obviously
+going to have only one copy of those
+items and won't be able to give them to
+both characters that need them but also
+you want a variety of items represented
+because there are very powerful items
+that you can find in the game and some
+of them are really worth building your
+party around having access to I'll talk
+about some of the specific ones again
+when we get to that section but it's
+worth keeping in mind that item access
+is both a positive and a negative
+requirement you're trying to avoid
+conflict but you're also trying to
+positively access as many powerful
+different uh op options as possible by
+making sure that your characters can use
+just physically can use as in have
+proficiency with or are able to access
+powerful item sets but also that they uh
+want to use them as part of their build
+and so you want to structure your builds
+such that those
+items fit into each character's um
+Arsenal finally you want combat Synergy
+between your characters so you want to
+make sure that there that your
+characters actually work well together
+an example of this is one character
+knocks an enemy prone and the other
+character attacks them if you have that
+that kind of internal Synergy in your
+party then it's something that extremely
+powerfully amps up what your party is
+capable of doing the shared initiative
+system in Boulder's Gate makes this even
+more prevalent than in tabletop so even
+though I said that that D and as a
+system does privilege uh raw power over
+Synergy Boulder's Gate makes the Synergy
+end of the scale a little more prevalent
+because of the shared initiative system
+if your characters roll the same
+initiative you can mix and match actions
+between them so if your party is
+reasonably well uh set up to roll
+initiative uh together which is
+something that you should definitely
+consider then you can have party members
+who have synergistic actions mix and
+match those actions in combat so you get
+significant advantages by having your
+characters have access to actions that
+synergize with one another like prone
+followed by another melee attack or like
+getting an enemy covered in water
+followed by a lightning attack all of
+those can work really well together and
+you can often make entire party builds
+around synergizing your character's
+actions together to make sure that each
+of them is doing something that
+complement what the others want to do so
+let's kick things off by talking about
+rooll balance and how you're going to
+balance having access to different roles
+so your characters can fulfill different
+objectives during your play through I've
+already talked about how D andd roles do
+not work the same way as many other
+video games but how do they work I think
+that characters roles in a party can
+basically be measured on two axes and
+importantly it doesn't actually matter
+uh what class is filling these rules
+it's much more about how you build the
+class what items and Feats and so on you
+select uh as to how they fill these
+rules out those two axes are power
+versus versatility and damage versus
+control
+essentially every character in Dungeons
+and Dragons is going to be doing uh some
+number of these two things and you are
+going to basically need to structure
+your party so that you have access to
+both sides of each of these coins at
+various different times you can do that
+with multiples of the same class you can
+have different classes fill different
+sides of these two coins um in various
+combinations but in general you're going
+to want to have access to Raw power as
+in high damage numbers High Armor class
+um High save DCS powerful control spells
+that lock down groups of enemies all
+fall into power the power side of the
+spectrum versus versatility so the
+question is do you have the right answer
+for the situation or do you have an
+answer that's so strong that you can use
+it in any situation a good example of a
+very powerful character is a character
+that just does uh like 100 fire damage
+to every anime
+that character would win almost every
+encounter on its own because it would
+just do 100 fire damage and that's good
+enough to kill most enemies but enemies
+uh encounters where enemies are immune
+to fire or where damage isn't the
+solution to the problem that character
+is
+useless a more versatile character might
+have lots of different options but
+because it's not specialized in
+increasing the power of each of those
+options they it's not going to reach the
+same raw numerical values that are more
+power specialized character will have as
+a very general rule and I'm going to say
+this a lot but I do want to specify
+again that this is an extreme a very
+broad generalization as a very general
+rule how you should think about parties
+is that Marshall characters bring raw
+power and spellcasters bring versatility
+the reason for this is just that
+spellcasters have way more buttons when
+you've got 20 different spells then you
+are going to have 20 options to answer
+any problem whereas Marshall characters
+tend to have one answer to the problem
+and that problem that answer is hit it
+and then hit it again really really hard
+obviously there are lots of ways to
+build characters and spellcasters can be
+skewed more towards power Marshall
+characters can be skewed more towards
+versatility but that is just sort of a
+general way of thinking about how uh to
+bring each of these two axes or each
+side of this axis to the uh party as
+you're building that secondly characters
+are either going to be specialized into
+damage or specialized into control and
+control can include defensive options
+because uh in general when you are
+building a Dungeons and Dragons or when
+you're structuring your combat plan for
+DND you should think of it as an
+exercise in reducing the number of
+actions that your enemies take as much
+as possible uh relevant actions in
+particular there are lots of ways to do
+that one is just through raw damage just
+killing them outright one is through
+control spells stopping them from acting
+another is from making their act actions
+useless so an enemy who attacks you and
+misses is has done just as little on
+their turn as an enemy who is stunned or
+an enemy who is dead so all of those are
+options for controlling enemy
+actions typically your characters are
+going to specialize either in doing so
+much damage that enemies are dead before
+they can act meaning that you reduced
+the number of turns they are taking that
+way or in controlling their actions in
+some way either proactively by locking
+them down or reactively by preventing
+their actions from Landing through
+cutting words or Shield spells stuff
+like that you can of course combine
+these two effects into single into a
+single character but again in general uh
+you are going to get damage from
+Marshall characters and control from
+spellcasters though of course these can
+be swapped for certain characters I'll
+go over sort of which classes typically
+fill each of these sides of each of
+these coins uh more in a second but
+overall your party should be able to
+bring both power and versatility both
+damage and control to uh a variety of
+situations because you will sometimes
+need to vary what your answers are doing
+and so in that sense I guess you can
+also skew your parties along these axes
+by taking different uh party balances of
+characters but you should typically
+strive to have access to all of these
+answers whether uh the ability to just
+do raw damage to solve a problem that's
+best best solved through raw damage or
+whether to apply control or specifically
+clever spells or whatever to solve
+specific problems having outof combat
+solutions to problems also makes your
+characters more versatile and so is
+something that you should definitely
+emphasize as a uh and before I go to
+this next slide I again want to say this
+is a very very broad Rule and don't
+overthink this I'm just giving you sort
+of a a visual reference here for what
+classes are typically going to fall with
+sort of more standard builds along each
+of these axes this is the sort of thing
+people tend to get really hung up on so
+I do want to say like this is just a
+intended as a baseline don't overthink
+it um but overall Your Role balance tier
+is going to be damage versus control
+Power versus versatility and I've
+plotted each of the characters each of
+the classes as to where they fall on
+that list over in the extreme control
+and versatility side you have wizards
+who have the largest spell list in the
+game the most controlling spells in the
+game the classic thing that Wizards are
+supposed to do is have the right answer
+to a problem at the right time and so
+they are as versatile as a character
+gets and as control oriented as a
+character gets this isn't to say that
+Wizards can't do damage and in fact all
+of the classes can uh fall on the other
+side of the axis like I said depending
+on how you build them but in as a
+general rule for wizards you are looking
+to pick up control and versatility from
+them so that your wizard can have the
+right answer to a problem at the right
+time you should think of a wizard as
+Batman with a utility belt is the sort
+of common analogy and something like a
+paladin as Superman whose answer to the
+problem is just to hit it really really
+hard he just has one or two tools but
+those tools are really really good
+whereas a wizard is more has many many
+tools but individually those tools are
+weaker so that gives you a good uh sort
+of grounding in how to think about the
+characters Wizards fall extremely far in
+control and versatility clerics are also
+very much on the control end but
+slightly less versatile by default than
+Wizards because um they they just have a
+smaller spell list Druids are versatile
+in the sense that they are extremely
+versatile because they can swap between
+being Mele M characters and being
+spellcasters so they have all the
+versatility of a spellcaster but also
+the option to become a Melee character
+BS are less versatile overall but still
+very control oriented although I will
+say special exception for swords BS who
+just get to be off the charts on all
+four of these scales um and then you
+have Rogues as a versatile damage
+dealing class because Rogues are
+primarily damage not control but they
+are more intended to be versatile
+filling skill access and Mobility issues
+rather than sort of raw power in your uh
+in your
+party warlocks fall in between the
+damage and control axis they do both um
+and they do both reasonably well
+although not quite as well in typically
+as a character that's more specialized
+so a warlock's damage will be a little
+lower than a character that's fully
+specialized into damage a warlock's
+control will be almost as good but will
+they will not always have exactly the
+right answer uh and control does tend
+towards versatility and you can see here
+what I talked about right like um
+Marshall characters tend towards damage
+and power spellcasting characters tend
+towards control and versatility and War
+and one reason for that is that DND
+control spells need to be specialized to
+the enemy that you're casting them
+against warlocks with few spells known
+won't always have exactly the right
+answer to a specific enemy and so that
+means that they are they tend to be um
+less easily eily able to pull out
+exactly the right spell to control an
+enemy at a given time so the the
+warlocks sort of lower versatility here
+also pulls back on its control elements
+a little bit Sorcerers are less
+versatile they know uh very few spells
+but very heavily scaled towards uh Power
+um but not entirely towards control
+because Sorcerers can like double spell
+so they can be more skewed towards
+damage um and then you've got the the
+four sort of uh classic Marshall classes
+Rangers Fighters barbarians and paladins
+up in the power and damage section
+Fighters typically are more versatile
+and less um Power scaled than the others
+because Fighters have just more options
+for how you can build them they can wear
+heavy armor they can use any kind of
+weapon and they also tend to have some
+control elements with Battlemaster
+fighter or with eldrich Knight um not
+the eldrich Knight spells being
+aggressive but remember that I said that
+things like Shield and being able to
+waste enemy turns is a control element
+so that's something that Fighters have
+uh that some of the other Marshall
+characters don't get access to
+barbarians are very heavily scaled
+towards damage but a little less scaled
+towards raw power because barbarians
+basically um rage allows you to take
+damage so similarly to Fighters
+barbarians can spend their turn tanking
+which is a control tanking is control um
+and so that gives them an additional
+Dimension to their character and Rangers
+have a little bit of control available
+with entangling shots and whatever and
+more if you're a beast Master Ranger but
+in general are just going to be very
+heavily scaled towards damage and power
+and then finally paladins use smites and
+paladins uh are just entirely scaled
+towards power and damage paladins are
+not um are very rest dependent and so
+that also makes them slightly less
+versatile they're going to do the same
+thing basically every turn of every
+combat but the thing that they're doing
+is so incredibly good that it is
+obviously worth doing anyways monks are
+an interesting one because they're sort
+of a more middle oriented class they are
+uh halfway between damage and control a
+little more heavily tilted towards
+damage in Boulders Gate 3 thanks to
+Tavern brawler because Tavern brawler
+vastly increases monk damage compared to
+their tabletop counterparts who don't
+get access to Tavern brawler in the same
+form um and also thanks to strength
+elixir giving them the ability to have
+massive damage output as well and they
+are much more tilted towards the power
+end of the scale but because of monks
+extreme mobility and uh lock down and
+sort of like uh open hand monk can trip
+or three elements monk can put blocks up
+in play to block enemies Shadow monk can
+blind enemies they do have a variety of
+answers to different situations so monks
+are slightly more skewed towards
+versatility than some of the other
+damage dealing characters and the fact
+that they fall sort of right in the
+middle here just gives them a really
+nice control element you'll notice that
+monks even though they will typically be
+taking the same turn over and over again
+are still a more versatile character
+just because of their mobility and the
+fact that they have the the option to do
+other things um so I think that that is
+this is as a general rule how you should
+think about the characters and what they
+bring you can look at this for sort of
+synergistic setups as well for example a
+paladin and a wizard make really good
+buddies because a Wizard's going to have
+the right answer to the problem and a
+paladin will have the Smite answer to
+the problem I just thought of that just
+now and I'm very proud of it um and
+having those two together are going to
+really give you a ton of different
+aspects to your party whether you just
+need raw damage from your Paladin as
+well as the ability to tank another sort
+of um the the ability to sort of lock
+down enemies by having
+just decent AC but mostly just raw
+damage is what paladins give you and
+multiple attacks the auras that protect
+your allies and so on are also extremely
+powerful um and The Wizard is going to
+have the the correct answer to various
+problems that you might face because of
+their vast array of Spell access again I
+do want to emphasize it's more about how
+you build these classes than about the
+specific classes but as a general rule
+this will give you a good Baseline to
+think about how to build characters and
+to think about synergies between
+different characters when you're
+constructing your party so what does
+that mean when you're actually going to
+build a party how should you think about
+these roles and how they fit into a
+party people I think are just going to
+want like categories and I think there
+are categories that we can really slot
+each character in and how they sort of
+fit a role and the different roles that
+you want to have access to in a party
+there are basically I think three roles
+that are filled in a in a D and D party
+controller Striker and Bruiser and then
+of course some characters are Flex
+characters that are intended to swap
+between those two roles like warlocks I
+mentioned can be both controllers and
+damage dealers similarly with monks in a
+typical MMO you would have healer tank
+DPS and nuker or controller something
+along those lines um but tanks and
+healers don't really exist in DND
+because dedicated tanks and healers
+because the numbers just don't work out
+the those systems that have those types
+of classes tend to be balanced very
+heavily around promoting that style of
+gameplay by balancing incoming damage
+versus healing and having resource free
+healing options that your healers can
+use regularly to uh keep up with enemy
+incoming damage There is almost no
+resource free healing in dungeons of
+dragons and the healing numbers are just
+not high enough to keep up with incoming
+damage so dedicated healers is not while
+healing can be a valuable part of your
+strategy a dedicated heal dealer is not
+a role that you need to have covered in
+your party similarly a dedicated tank
+without Agro mechanics to pull enemies
+to attacking specific characters except
+for some like AI manipulation in
+Boulder's Gate and a couple very Niche
+abilities you just don't have access to
+uh a dedicated tank in the same way that
+you would in an MMO so I think that the
+way to think about these uh characters
+is you should have a controller a
+character whose job it is to stop
+enemies from doing stuff a striker a
+character whose job it is to do damage
+and a Bruiser a character whose job it
+is to uh fill the gaps in the line in
+your formation bruisers are really a
+positioning based character so something
+like a fighter that um operates to stop
+enemies from going where they want to by
+putting themselves in the way bruisers
+are also damage dealers so Fighters
+barbarians and so on are also damage
+dealers and that's why I think that it
+is worth keeping in mind that those
+while they aren't specifically Strikers
+whose job is just to Output damage they
+have a different strategic consideration
+that's their main consideration um
+bruisers are also typically more damaged
+focused in Dungeons and Dragons finally
+you have characters that are built to do
+both or fill multiple roles at different
+times a typical example of this is a
+monk or a warlock whose job is to drop
+down one spell and then swap to being a
+striker by firing off eldrich blasts or
+a monk who's job is to be both a striker
+and a controller at the same time by
+doing a bunch of damage and Landing
+stunning
+strikes in general um you're going to
+want one of each of these three roles
+and a flex character in a party I think
+that that is just a very solid way to
+think about building a party and that
+will give you the option to emphasize
+one of these three roles more based on
+what you have your Flex character doing
+in the party while having three
+characters who are specialized into
+these three roles um in order to fill
+the all the Strategic considerations
+that you need filled at any given time
+obviously there are lots of parties you
+can build that don't fill all of these
+roles or have uh different setups but
+that is a good rule for a default party
+build and I think is how you should
+think about your characters as you're
+building them is this going to be a
+controller character is this going to be
+a striker and then that gives you a
+sense of what you should be emphasizing
+when you're looking for items
+controllers need save DC items um and
+they need to have like initiative so
+they can go before enemies and stop them
+from acting Strikers obviously just need
+raw damage and bruisers need health and
+damage to both draw threat and also
+survive enemy attacks um and also when
+you're actually building the character
+what spells should you take what Feats
+should you take what um items should you
+take what sort of uh weapons should you
+build your character around so if you
+sort of have this idea in mind when you
+go to construct a build of what role
+it's going going to fill in the party
+you're going to have a much easier time
+constructing powerful builds that are
+also synergistic with one
+another all right that basically covers
+rooll balance now let's talk about what
+utilities your party needs to have
+covered we're going to talk about
+specific spells that I think basically
+every party should have and specific
+skills that your party is going to need
+to cover um I will mention at this point
+that if you're enjoying the video it's
+super helpful if you leave a comment so
+in keeping with the theme of the video
+just tell me I don't know your favorite
+B joke in the comments I'd appreciate
+that very much all right let's talk
+about utility coverage because not
+everything is about combat power your
+party also needs to be able to succeed
+out of combat and bring powerful utility
+spells that help in combat as well I
+think there are basically three things
+that you need to cover in terms of
+utilities for your party conversation
+skills non-c conversation skills and a
+list of utility spells in a Dungeons and
+Dragons part if you were playing
+tabletop you would want to have every
+skill covered um as much as possible
+obviously you won't be able to cover all
+of them in most parties but as much as
+possible you'd like to have at least one
+character who can make every skill check
+that's less true in Boulders Gate 3
+because certain skills are redundant or
+not uh used very frequently and you also
+have to care more about which character
+has witch skill than you would in a typ
+typical tabletop game because of the
+rules of Boulders Gate 3 this comes up
+most when you're trying to cover
+conversation skills and I think skills
+more or less come in two kinds
+conversation skills and non-conversation
+skills because of Boulders gate 3's rule
+where only one character can participate
+in a conversation at a time so only one
+character can be making skill checks
+it's heavily incentivized for you to
+have one character cover all of your
+conversation skills your non-con
+conversation skills don't have to all be
+on the same character but when you're
+planning your party you should typically
+plan to have one character that's going
+to be your party face the character that
+does all of your talking and covers as
+many of the conversation skills as is
+feasible the conversation skills are all
+of the Charisma based skills as you'd
+expect but also all of the
+intelligence-based skills which are
+almost always used during conversations
+and insight um as a wisdom based skill
+medicine is also almost always used in
+conversation so if you can get that on
+your um conversation character on your
+party face then that helps as well well
+usually you're going to want in any
+given balers gate party to have one at
+least one of probably two of the
+Charisma skills covered uh persuasion is
+the best you can refer to my skills to
+your list for more on that but overall I
+think it is just most important that you
+stack as many conversation skills as
+possible onto one character so that that
+character can cover them it's not
+important that you have them covered
+across multiple characters and so you
+can ignore conversation skills on all
+three of your other characters uh
+completely because only one character
+can participate in combat at com in
+combat in conversation at a time so only
+one character is going to ever be
+rolling these checks if they're the one
+you start conversations with you for
+your non-con conversation skills you can
+have them on anybody it doesn't matter
+if these are all on the same character
+and it doesn't matter if they're all on
+the conversation character as well you
+can just have one character do all of
+your skills if they're a Bard is usually
+when that happens but it's possible with
+Rogues and stuff as well um
+and that's a totally reasonable way to
+build it or you can have your
+non-conversation skills spread out
+across the rest of your party the really
+important ones here are slight of hand
+which is used to steal things open locks
+disarm traps every party needs access to
+slight of hand I think that's basically
+mandatory for balers gate the game gets
+a lot harder if you don't have slight of
+hand somewhere in your party and
+perception perception's used for finding
+um traps and so is incredibly valuable
+to have as well if you can have these on
+the same character it's a small
+Advantage cuz then your character that
+sees the Trap can also disarm it but
+it's not required and so mostly what
+you're trying to do is stack all your
+conversation skills on one character and
+then get slight of hand and perception
+anywhere in your party and you'll be
+covered for skills for utility spells
+I've there's a bunch of utility spells
+that I think every party should have
+access to and so I've listed those out
+here uh this is not a comprehensive list
+and it is in rough order of importance
+but I think that there are um
+essentially seven spells that you're
+really going to want to have access to
+in a party a lot of these you can
+duplicate through Scrolls or items so
+you don't necessarily need to have all
+of them known as spells but it is
+helpful if you have characters that can
+learn these long Strider is great
+because it just improves your entire
+party's movement speed by 10 which is an
+incredibly powerful utility effect and
+it's resource free to use it so that is
+awesome you usually want two copy of
+guidance in your party because sometimes
+the character that has guidance will
+want to be using another reaction to
+that role um so it's helpful to have an
+ally who also has guidance one of these
+can be from an item but usually you
+should try to have guidance known on it
+we on at least one character and having
+two copies of it is very helpful so that
+you can always roll that you can always
+cast guidance and enhance ability if you
+or and Bic inspiration or whatever if
+you really want to pass a skill check
+minor illusion is one of the best spills
+in the in the game and lets you
+reposition enemies stealth steal things
+just incredible resistance is super
+useful for a couple encounters and a
+couple dialogue encounters like story
+events so resistance gives you bonus to
+saving throws on those and is very
+valuable somewhere in your party you
+need a magical light source it doesn't
+have to be magical but it's very helpful
+if it is so light or Dancing Lights um
+or daylight I guess but ideally you want
+one that's resource free every party can
+use invisibility so you should try to
+have access to that somehow though again
+you can do that through Scrolls or
+potions and finally create water is just
+an incredible utility spell that every
+party should try to have access to
+somewhere in the party as well none of
+these are mandatory although I think
+you're giving up a lot of power if you
+don't have long Strider in guidance but
+um I think that this will be a good list
+of spells that you should really try to
+work into every party build because it
+will just make your game play much much
+smoother other than that the spell
+coverage and skill coverage bridge I
+think you can really get away with a lot
+of different setups and these are kind
+of the baselines from which most parties
+want to be working off of but um these
+rules are somewhat
+flexible next up items I think this is
+where a lot of people get kind of in
+their heads because you will often see
+people uh giving strident advice about
+not having your items overlap or
+anything like that and there's a lot of
+YouTube videos like you need to make
+absolutely certain that your characters
+don't the same item and I think that can
+be a little intimidating but it's
+actually pretty easy to stop your
+characters from competing for items if
+you follow a couple very very simple
+rules you definitely do not need to plan
+all your characters items in advance you
+do not need to memorize every item
+that's available in the game there are a
+couple specific items that are worth
+considering especially for Honor mode
+when you're putting together a party but
+for the most part you can just plan
+around general rules and you will have a
+very easy time keeping your character
+from conflicting with items so let's
+talk about what actually matters when it
+comes to trying to keep your characters
+from having uh too many of the same item
+requirements the first is armor types in
+balers gate there well in Dungeons and
+Dragons there are four types of armor
+heavy armor medium armor light armor and
+no armor or unarmored characters and you
+do usually want to avoid having more
+than two characters that want the same
+armor type this will help you avoid
+having to use like your third best suit
+of armor of that type because overall
+you are going to collect a lot of armor
+over the course of your playthrough you
+will almost always have a great second
+set of armor that you can use if two
+characters use the same set of armor but
+sometimes your third set of armor will
+be a little out of date or will take a
+lot of money that you don't have in
+order to get from a merchant or
+something like that and so it's
+generally speaking best to try to avoid
+having more than two characters that use
+the same type of armor uh the kind of
+Ideal would be that your party actually
+wanted one character who wants each
+armor type you would have a heavy armor
+user a medium armor user a light armor
+user and an unarmored user um but
+Boulders gate is definitely generous
+enough with armors that you do not need
+to fill that uh exact setup in order to
+have great armor on your characters
+something that else it's worth
+mentioning is that there are tons of
+shields so you do not need to worry
+about having multiple Shield users there
+are plenty of of great Shields that will
+stay good on all the way into the end
+game and even a non-magical shield is
+just plus two AC so even if you get
+stuck without a good without a magical
+Shield or a shield with a really
+powerful effect a non-magical shield is
+just a great item so you don't really
+have to worry too much you can have four
+characters who want to be using Shields
+and that will not cause a conflict in
+your party something to keep in mind
+when you're doing armor talking about
+armor or just defenses in general when
+and when you're thinking about a party
+is that it's good just to have really
+strong defenses on every character
+because your Pary uh AC and their
+defenses are only as strong as the
+weakest link having three characters
+with 30 AC and one character with 15
+those three characters with 30 AC might
+as well be naked because the all the
+enemy attacks will go against the
+character with 15 AC so it's less
+important that uh one character has
+super high AC and more important that
+you have decent Armor class across the
+board decent saving throws across the
+board or IMM ities or whatever just a
+general rule when you're thinking about
+party defenses is that you're only as
+strong as the weakest link when it comes
+to defenses weapon types are a little
+stricter and I think you should try to
+avoid having two characters that want
+exactly the same weapon type um like
+two-handers one hand two-handers are uh
+there's enough of them that you can have
+multiple two-handed users um but in in
+general if you have characters that want
+like light finesse uh one-handed weapons
+you are going to want to only have one
+character that does that cuz maybe
+they'll want two of those weapons and so
+equipping uh two characters with four of
+those weapons can actually stretch your
+resources obviously if you're a more
+advanced player you've memorized your
+route you know exactly what weapons your
+characters are going to be equipped with
+then you don't have to you you won't
+need to worry about that but for a
+general rule for most players you're
+going to want to avoid having multiple
+characters that use exactly the same
+type of weapon this I think is
+especially prevalent for bow because
+Boulders gate is actually surprisingly
+stingy with good bows um in fact there's
+only a couple that are like late game
+viable and so having multiple archers
+can actually really stretch your uh your
+access to bows hand crossbows are even
+worse cuz your character needs two of
+them and there aren't really that many
+good ones in the first place so having
+multiple hand crossbow users would
+really stress your resources again this
+isn't uh nonviable or impossible to
+build around or anything like that but
+just as a general rule you'll find it
+easier if your characters aren't
+competing for specific weapon
+types next attribute items there's a few
+items that increase your attributes and
+you do want and and uh they're all
+unique they're all items that will have
+or almost all of them are unique so
+they're items that you'll only have one
+copy of and these are often items that
+you're going to build entire builds
+around so you should account for who's
+going to be wearing them if anyone in
+your party from the beginning so that
+you don't get partway in and find that
+you have two builds that need a specific
+attribute item and finally specific
+items that you have in mind obviously if
+you have one character who's planning to
+use a specific item then the other
+characters won't want to use that but
+it's also good to have a character who
+can use certain specific items cuz those
+items are so powerful that it's worth
+building a character who's intended to
+use that like I said right at the
+beginning item access is both positive
+and negative you want to avoid conflict
+but you also want to build characters
+who are capable of using specific
+powerful items so that you can bring
+that level of power into your party
+let's talk a little bit more about the
+attribute items and the specific items
+because those are items that are
+actually named in the game and so it's
+worth just mentioning which of those you
+should be planning around for attribute
+items there are four I think that really
+matter and that you should try to avoid
+having conflict on there's more but
+those come very late in the game and so
+you won't usually be making builds
+around them or if you are you'll already
+have them and sort of be uh building in
+the very late game those are Ethel's
+hair which is available through a story
+event and gives you one in any attribute
+a lot of builds get way better if you
+have uh that to even out odd numbers to
+give you access to 20 and a stat without
+having to spend two Asis on it and so on
+and so only one character can use it um
+but and if you're you're building a
+character that has an odd number and
+wants it you should definitely try to
+avoid having that on other characters
+the circlet of intelligence which gives
+you 17 intelligence this is there's not
+a lot of characters that really want the
+circlet of intelligence but obviously
+you only get one copy so if you're
+building around it you need to uh make
+sure that you aren't building two builds
+that need it the gloves of dexterity
+which set your dexterity to 18 and are
+core to a ton of builds cuz they enable
+so many different builds since they let
+you um basically max out your dexterity
+without having to spend any Asis on it
+so you can have super high dexterity on
+a character that would normally dump
+dexterity or have super high dexterity
+on a dexterity based character and have
+them take a bunch of Feats instead of
+Asis the gloves of Dexter are the ones
+that are going to be most in demand
+across most parties and will cause the
+most conflict and I think those are the
+ones that you really should plan around
+from the beginning who if anyone is
+going to wear the gloves finally there
+are strength Elixir that set your
+strength to 20 or technically 21 but
+it's the same um and these are infinite
+you can have as many of them as you're
+willing to uh long rest for and then go
+Reby from the merchants um as long as
+you continue to have like food and stuff
+but you can scum that too if you just
+really want to have infinite elixir of
+strength my recommendation just for fun
+purposes is don't have more than one
+character who's reliant on the strength
+Elixir just cuz it can get pretty
+annoying having to um make sure that you
+are acquiring those every day to keep
+your characters in their drugs uh but
+obviously there are infinite of these in
+the game so you can build more than one
+character that's that requires them it's
+just important to know in advance that
+you're going to need them so you can
+stockpile them from the merchants who
+have
+them next up are specific item sets that
+are worth thinking about for every honor
+mode party and I'm mostly specifically
+thinking of Honor mode parties here but
+uh these are all valuable for any party
+first up there's the buff on heel set of
+items this is a powerful set of items
+that give you blade Ward and bless on
+heal you can check basically any of my
+cleric guides for more information on
+these guys um and this is such a
+powerful effect and such a powerful item
+set that you really should think about
+who is going to have it in your party uh
+if anybody and you don't want multiple
+characters who want it but you should
+have a character who's built to take
+advantage of it cuz it's so incredibly
+strong Arcane Acuity and radiant orbs I
+have marked with asterisks these are
+pretty important if you're just trying
+to win honor mode these are some of the
+most powerful effects in the game and
+you should know which character is going
+to be triggering those um but then as
+more general rules you don't want too
+many characters that want save DC
+increasing items so spellcasters who are
+casting spells that enemies will be
+making saving throws against because
+there's a limited number of these in the
+game there's a lot but a limited number
+um and so if you have too many
+controlling characters who rely on
+safety C items to get their safety C's
+high or just want them then it's going
+to create some tension in your party
+initiative items are super important for
+some builds that otherwise can't get
+adequate initiatives and initiative
+winning initiative is incredibly
+important so you want High initiative on
+every character in your party as much as
+possible some of that you can get
+through items but if you build a lot of
+low initiative characters then those
+items will be too in demand and you
+won't be able to get at quate initiative
+on your party as a whole Throne weapons
+weapons with the throne and returning
+property um are pretty in demand so if
+you have multiple characters who care
+about throwing weapons there's only one
+that you can throw and return for most
+of the game uh the returning Pike so you
+shouldn't build multiple characters that
+need that weapon and critical hit items
+there's a lots of builds that benefit
+very strongly from improved critical hit
+chance like paladins like Rogues uh like
+warlocks who are centered around fear
+builds things like that all of those
+will want a lot of critical hit items
+and so you should try to avoid having
+too many builds that have those items in
+demand I think if you think of these
+seven types of items when you're
+structuring your party and think who's
+going to get this who's going to get
+this and again I want to emphasize this
+is only for Honor mode if you are not
+playing on honor mode you really do not
+need to put in even this much thought
+into it uh just think about the armor
+class and you'll be good to go um but
+these specific items are worth thinking
+about to to push your honor mode
+playthrough into a higher power State
+because you're going to be able to uh
+have your characters either not need or
+get to use some of the most powerful
+items in the
+game so just to sum up the item access
+rules I think that what you really need
+to focus on with items when you are
+trying to build your party is try not to
+have more than two characters that need
+the same type of armor and try not to
+have more than one character that needs
+exactly the same kind of weapon other
+than that I think you are very free to
+do whatever because the game is very
+generous with loot you get enough loot
+to equip multiple parties like many
+times over with excellent gear and so
+you really are not going to get yourself
+into a situation where you are too
+choked on gear um if you just avoid
+having too many characters that need
+exactly the same specific types of armor
+and weapons and if you really want to
+step things up and optimize your builds
+a little further then you can think
+about these specific items or item sets
+in order to optimize which character is
+going to get access to those next up I'm
+going to talk about some example parties
+um because obviously we want in this
+build to have some example parties where
+we put everything together at the end I
+will also say I mentioned as a fourth
+consideration for your party combat
+synergies how you should build around
+specific combat synergies for your party
+but I'm going to cop out a little on
+talking about those and say that they
+are uh just too deep a topic and there's
+too many of them and so to get more
+information about combat synergies go
+watch the videos where I build parties
+around specific combat synergies because
+those are going to talk about specific
+combat synergies and how you can exploit
+them I've already posted one where we
+build around the wet condition which
+doubles cold and lightning damage and so
+applying that and exploiting it is the
+whole theme of the party you can find
+that under the best Blaster party in
+Boulders Gate 3 and more will definitely
+be upcoming to talk about specific um
+combat synergies that you can have in
+your party uh I think that if I tried to
+cover it in this video this video would
+just be 6 hours long so we're going to
+do that in future installments all right
+let's get some example parties going so
+I've put together three example parties
+just different combinations of classes
+and we'll talk about how you could fill
+the roles and requirements that I've
+talked about as I go through each of
+them we'll start with the classic party
+which you'll notice is exactly the same
+composition as in my video the best
+party in Boulders Gate 3 which I think
+is a great default party for playing
+through honor mode we've got a fighter a
+Bard a cleric and a wizard here um which
+fills sort of the the pretty standard
+composition that you would expect from a
+Dungeons and Dragons game you might
+expect a rogue instead of a Bard in sort
+of the very typical classic party but I
+think that Bard fits better because in
+Boulder's Gate you really need one
+character to have all your conversation
+skills and of course that's going to be
+the Bard in this party we have the the
+fighter as a a Bruiser The Bard as a
+striker and controller Flex character
+the cleric as a Bruiser and controller
+Flex character and The Wizard as a pure
+controller is sort of the standard way
+to set that up although in the video
+that I actually put together with this
+party we do something completely
+different which is uh one of the things
+that's really interesting about this
+type of party build is that you can have
+different classes fulfill completely
+different roles in fact in that video we
+have the fighter as the striker just a
+pure Striker The Bard as a striker
+controller Flex the cleric as a Bruiser
+controller flex and The Wizard also as a
+Bruiser controller Flex because of how
+we have chosen our classes and how we
+set up those characters obviously you
+can watch that video for a more in-depth
+breakdown this combination gives us
+great skill access because we have The
+Bard who just gets every skill um and
+great utility access because on our
+between our Wizard and our cleric we
+have access to all of the uh powerful
+spells that we need
+um getting access to every one of the
+utility spells that I mentioned we also
+use all of our items extremely well The
+Bard can use Arcane Acuity the wizard
+and cleric can use Save DC items they
+can all use um initiative and we also
+don't Conflict at all for our armor in
+the the default way that you would set
+up this party you would have the fighter
+and heavy armor The Bard and light armor
+the cleric in medium armor and The
+Wizard in no armor although you can have
+depending on your subass selection
+multiple medium armors or multiple heavy
+armors if you want to change up what
+your characters are wearing but the way
+that this party is set up gives you a
+significant amount of flexibility to
+avoid conflict with armor covers every
+skill covers every role gives you access
+to both versatility and power both
+damage and control all in a single
+package then I've done a Twist on that
+where we just take a a party that has a
+very similar concept but using different
+classes because I want to emphasize that
+you can fill these roles with different
+classes depending on how you structure
+it also it's kind of fun that this is
+the same party composition as the second
+video I posted the best Blaster party in
+Boulders Gate 3 although in that video
+the Rogue and the Barbarian are combined
+into a single character and we also
+added in a cleric but in this party we
+have damage and power from our Barbarian
+we have versatility from our Druid we
+have versatility and damage from our
+Rogue and we have power and control from
+our sorcerer so we're hitting all all of
+the the axes very well we have a striker
+in our Rogue we have a Bruiser in our
+Barbarian we have a controller in our
+Sorcerer And we have a character that
+can Flex between all three in our Druid
+so we've got all the roles covered again
+we have no armor uh light armor and then
+in this case we have two medium armors
+but that's not an issue and we aren't
+using any weapons that are in common cuz
+the Rogue wants finesse weapons the
+Barbarian probably wants heavy weapons
+or maybe thrown weapons the Druid wants
+no weapons and the Sorcerer wants staves
+uh staves so that is a thing so that
+party will also have no conflicts uses
+all the items extremely well and covers
+every skill the sorcerer is going to
+cover your conversation skills and the
+Rogue is going to cover your non-con
+conversation skills although the Rogue
+could also be your party face if that's
+something that you wanted finally I
+wanted to show off just like one more
+party that's sort of more themed around
+a specific play style and party is
+themed around overwhelming initial
+damage but still fills all of the roles
+because this uh party is sort of more
+geared towards power than it is towards
+versatility but we have some fairly
+flexible characters and this party is
+going to be sort of trending more
+towards the power end of the spectrum
+and more towards the damage end of the
+spectrum but we still have control from
+the monk we have control from the
+Warlock we get a little bit of control
+from the Ranger and then we have uh two
+Strikers in the Paladin and Ranger and
+two controllers in the Monk and Warlock
+the Paladin also fills the Bruiser end
+of the spectrum uh and the monk can sort
+of flex as a Bruiser if you need to as
+well so all of these parties do all of
+the the roles that we need in this case
+it's going to be the Warlock filling
+conversation skills and the ranger
+filling out of conversation skills just
+to sort of tie off the skill access uh
+monk needs no armor warlock needs Light
+Ranger needs medium Paladin needs heavy
+so you can see that the parties
+naturally fall into scenarios where you
+aren't going to come into Conflict for
+items um even if you build a more
+heavily themed party around a specific
+goal so you can you have a lot of room
+to tilt your party in One Direction or
+another depending on what you're trying
+to do um based on the uh the goals that
+you have for that playthrough without
+running into conflict with your party
+all right my friends I hope that this
+has been helpful and you've enjoyed this
+look at how to make powerful and
+synergistic parties and that these
+example parties maybe give you some
+inspiration for how you want to do your
+next playthrough um as always if there
+are things that you think I missed or
+things that I should change definitely
+let me know in the comments and of
+course if you've enjoyed the video then
+it helps me out a ton if you hit like
+and leave a comment uh YouTube does care
+a lot about those things for the
+algorithm and again um I've mentioned
+this before but whenever I try sort of
+new and different content like this
+that's one of the things that will tend
+to show up for new VI viers so it's one
+of the things that's most likely to just
+like get new people to stumble on the
+channel so if you do an engagement push
+on this video I would really appreciate
+it because it helps out a lot when new
+people see this kind of thing and decide
+they like our our stuff and want to hang
+out with all of us um and of course you
+can subscribe to my channel for more of
+this and other strategy game content and
+if you've really enjoyed the video you
+can feel free to support me with the
+buttons below though of course no
+obligation all right cheers my friends
+and thank you so much for watching I'll
+catch you next time

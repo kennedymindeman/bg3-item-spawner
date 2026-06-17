@@ -1,0 +1,898 @@
+hello my friends and welcome back to
+another balers Gate 3 character building
+guide hope you're all doing well today
+we're covering my pick for the best
+Archer build in balers Gate 3 archery is
+one of the most powerful strategies
+available in balers Gate 3 from a purely
+strategic perspective this is just one
+of the very best things that you can be
+doing because it's not dependent on your
+positioning you can shoot anyone pretty
+much anywhere on the battlefield and you
+can act from perfect safety because
+you're far away from the enemies in
+addition the items and abilities that
+Boulders gate provides for Archers are
+some of the highest quality that any
+classes get access to so it's an
+extremely well supported and
+conceptually extremely powerful strategy
+making it one of the very best
+characters to play through honor mode
+with this build is one of my absolute
+top picks for Honor mode it was included
+in my list of the very best builds for
+Honor mode and because of its incredible
+damage the extreme ease with which it
+plays and the extreme safety with which
+you can output that incredible damage I
+think it makes an absolutely devastating
+addition to the Arsenal of any party and
+is also in my opinion one of the very
+best builds for solo play and one of the
+easiest ways to get a solo honor mode
+win if that's something that you want to
+do this is an update video to my
+previous video of the same name because
+I wanted to bring this build into the
+modern era of Boulders Gate 3 and
+incorporate all the lessons that we've
+learned over a year of character
+optimization and because my previous
+video did contain one error which I
+wanted to correct I do have to include
+one disclaimer that this video is being
+recorded shortly before the launch of
+patch 7 um so it is possible that some
+things will change in patch 7 but I
+think it is highly unlikely that any of
+the core mechanics of this character
+change and so you should be able to
+build it exactly as presented here even
+after the Patch all right let's get to
+the build we're using aaran as the
+example character here because he is the
+Rogue of the party and this is in part a
+rogue build but if you're building this
+as a custom character then I suggest
+wood elf for the bonus movement speed
+Mobility is of course incredibly
+important for Archers especially in the
+early game to be able to stay out of
+range of melee enemies halfling for the
+ability to reroll ones one of the best
+things about this character is that it
+is so resistant to bad luck and poor die
+rolls halflings ability to roll ones can
+make that even better and make this
+character extremely safe to play or
+gnome for the advantage on mental saving
+throws because this character is very
+very difficult to kill through physical
+damage thanks to its distance spacing
+and high Armor class and good defenses
+uh so the only thing that can usually
+lose you most fights is if you get hit
+by a debilitating mental effect like a
+hold person for example gnome is
+resistant to those so it gives you a lot
+more safety dgar for out of combat
+invisibility is of course also excellent
+this character does very well when it's
+invisible and can position itself before
+combat so that enemies can't reach it uh
+so all of those make excellent options
+right from the beginning of the game we
+have a very important choice to make
+whether to begin as a rogue with our
+first level or begin as a ranger we're
+going to be taking levels in both and we
+really want to hit third level in Rogue
+for the subclass abilities of the Rogue
+levels we'll be taking and fifth level
+in Ranger for the subclass abilities and
+also the extra attack feat and we want
+both of those levels as soon as possible
+from a pure combat uh Power standpoint I
+think that slightly Superior is to take
+five levels of Ranger all in a row as
+your first five levels um if you don't
+care about any out-of combat utility but
+for actual play in practice I recommend
+starting with one Rogue level and then
+we're going to take our Ranger levels uh
+because that just gets us expertise in
+slight of hand it gets you expertise in
+stealth and a lot of other awesome
+things that Rogues get to start with it
+just makes your whole playthrough so
+much smoother if you have have the
+incredible skill access that Rogues have
+available um because you can open locks
+you can disarm traps and do all the
+things that Rogues are great at doing
+and since this character is going to be
+doing that for your party you might as
+well be as good at it as possible so I'm
+going to recommend starting with a rogue
+level and for our ability scores one of
+the great things about this character is
+we can get away with being as greedy as
+uh possible uh taking as our ability
+scores 17 in dexterity 16 in
+Constitution and 15 in wisdom this gives
+us the maximum possible three scores
+that we can take at level one you can't
+get three scores any higher than this um
+and will allow us to very quickly reach
+the uh highest level of ability scores
+that any character can get this
+character is what's called single
+attribute dependent or sad the only
+thing you care about is your dexterity
+so we basically just get to invest
+everything in increasing that as much as
+possible if the odd numbers offend you
+you can drop dexterity to 16 wisdom to
+14 and take 12 points in strength for a
+little early game jump distance uh
+generally speaking I don't think it
+particularly matters to do that so you
+can start with the odd numbers or you
+can resp later to this attribute spread
+whatever makes you
+happier for your skill proficiencies
+here you definitely want expertise in
+slight of hand that's one of the reasons
+we took Rogue uh because that is just a
+very powerful tool in Boulder's Gate
+makes sure you get good loot and
+expertise in stealth this character will
+be able to make stealth checks later on
+and they will be an important tool in
+Your Arsenal so having expertise and
+stealth just makes you so much better at
+it this character also if you're playing
+as a staran you do start with perception
+proficiency if you know you're not
+planning to do any stealth then you
+could take expertise in perception or
+you could even take expertise in
+Persuasion and use this character as a
+party face um in order to be better at
+dialogue checks even with with eight
+Charisma if you have expertise in
+Persuasion you'll still pass most
+persuasion checks pretty easily so those
+are some options for customizing the
+character but this is the attribute
+spread that I would recommend uh
+primarily that's all the decisions that
+we have to make at level one let's move
+on to level
+two at character level two we're going
+to immediately multiclass and start
+taking levels in Ranger this gets us to
+our extra attack feature as soon as we
+possibly can and that's what's going to
+give us the most consistent and Powerful
+damage output it also gets us to our uh
+feet pretty early so I like taking five
+levels of Ranger after one level of
+Rogue Some people prefer going three and
+three first but since that delays your
+feet and your extra attack um I tend to
+think that you will prefer to take the
+five Ranger levels it just makes your
+character play and uh play through the
+game much more smoothly because you get
+access to your power spikes on a
+smoother curve rather than all at once
+near level
+eight so we're taking a level of Ranger
+as our second level and for our favored
+enemy selection here we're going to take
+Bounty Hunter um it's basically a Cho
+neither none of these favorite enemy
+selections matter that much so it's
+basically a choice between Bounty Hunter
+and Ranger knight uh Ranger Knight gives
+us access to Heavy Armor proficiency it
+can let you use the heavy armor helmet
+and there are some sets of heavy armor
+that are reasonably useful for this
+character but for the most part you will
+prefer medium or light armor you're a
+high dexterity already build so it'll
+actually give you more Armor class if
+you're in one of the uncapped medium
+armor sets than heavy armor will uh but
+Ranger Knight can give you more gear
+options and Bounty Hunter has a little
+bit of utility in the early game because
+ins snaring strike is a pretty good
+spell in the early game even uh with
+relatively low wisdom enemies who have
+disadvantage against the save will fail
+it a lot I think that Bounty Hunter
+plays out a little smoother but either
+of those selections are fine for our
+natural Explorer selection we're going
+to take Wasteland wander fire because
+fire resistance resistance to fire
+damage is really valuable there's tons
+of fire damage in the game is the most
+common Elemental damage type and so
+adding in resistance to fire damage just
+makes us so much more resilient we're
+already really hard to kill just because
+of our high Armor class and positioning
+um with physical damage so resisting
+Elemental damage makes the character
+much safer we get to take uh an
+additional skill selection here um and
+it doesn't really matter what you pick
+at this point
+unless this character is your party face
+in which case you probably want to pick
+up Insight uh but uh none of these other
+skills matter you can take survival just
+cuz it saves you from having to dig
+around for the chests uh even though you
+don't need survival to find them you can
+just use the shovel where you where they
+are even if your character fails a
+survival check this does save you clicks
+so I tend to like to pick it up just cuz
+I'm very
+lazy at level
+three we're going to continue to take
+levels in Ranger and we get our fighting
+style we're going to take of course cuz
+we're an Archer build the archery
+fighting style and not only is this
+great cuz it's a plus two bonus to range
+weapon attacks and makes your attacks
+much more consistent it's worth
+mentioning that this is one of the
+things that makes archers so good in
+balers gate no other way of fighting
+gets a such a huge bonus to their hit
+chance and archery Fighters just uh
+characters who are using bow attacks can
+get the archery fighting style get a
+plus two bonus and just hit all their
+attacks much more consistently this also
+combines extremely well with the
+Sharpshooter feet to make it more
+accurate and do more damage offsetting
+the penalty of Sharpshooter uh but the
+archery fighting style is just one of
+the most powerful class features in the
+game quietly because uh plus two to all
+of your attacks is an incredible bonus
+to your average damage and one of the
+reasons that it's so good to gain levels
+of Ranger as early as possible for our
+spell selection here we're going to take
+Hunter Mark we can use our bonus to
+boost up our damage which is extremely
+powerful and we'll take in snaring
+strike because we took Bounty Hunter we
+can use this um against enemies that we
+want to lock down and snare immobilizes
+them so it can be pretty useful in the
+early game later on we will swap out
+this spell for other spells but uh
+Hunter Mark increases our damage output
+and in snaring strike is good for crowd
+control so having access to both of
+those gives us options depending on
+which type of spell we need for for a
+given
+encounter at level four we're going to
+take our third level of Ranger and for
+our subass we're going to take the
+gloomstalker gloomstalker ranger gets us
+is one of the most front-loaded sub
+classes in the game it gets a ton of
+incredibly powerful abilities all at
+once as soon as you enter a gloomstalker
+ranger first up you get dread ambusher
+which gives you a plus three bonus to
+initiative combined with being a
+dexterity based character and having
+high initiative and uh even if you don't
+buy any initiative gear you're still
+going to go before just about every
+enemy in the entire game this feature
+lets us skip on taking alert and still
+go first in just about every encounter
+in honor mode it lets us pass off the
+initiative boosting gear to our allies
+in order to make them more effective and
+plus three bonus to initiative is
+incredibly powerful for a character that
+does tons of burst damage as this
+character does you also get faster on
+the first turn of combat allowing you to
+position yourself better and um this
+tool tip is very poorly written but you
+can make an attack that deals an
+additional 1d8 damage what it doesn't
+say is that this is a whole extra attack
+this is an additional attack that
+doesn't take any kind of action to use
+so basically we get to do uh an a whole
+additional attack with bonus damage on
+the first round of combat we always go
+first and so we're going to be able to
+quickly blow up the most dangerous
+enemies in any given combat because of
+the amount of front-loaded damage that
+we get from being a gloomstalker ranger
+we also can see in the dark up to 80 ft
+which is pretty good this character
+wants to be in the dark a lot so if
+you're a race that doesn't naturally
+have dark vision the superior dark
+vision is actually pretty good means
+that you can hide in uh shadows and be
+obscured and uh fight enemies without
+having to use any light source so that's
+excellent um you can also hide a a bonus
+action which will allow you to shoot an
+enemy and then go and hide preventing
+them from uh preventing them from
+retaliating in any way or hide before
+firing your arrow to gain advantage on
+the attack so that gives you a ton of
+power as well um and you can become
+invisible as an action as long as you're
+obscured uh this is once per long rest
+but this will let you start encounters
+from the most advantageous location by
+invisibly sneaking to High ground or
+near uh dangerous enemies or on the
+opposite side of the enemies from the
+rest of your party so that the enemies
+have to split their focus or decide
+which way to run and you can pick them
+off at your leisure all of these
+abilities synergize incredibly well and
+the insane burst damage that you get
+from dread ambusher just lets you
+flatten enemies before they go for our
+spell selection here if your party
+doesn't have long Strider you definitely
+need to take long Strider somewhere in
+your party it just makes your whole
+party 10 ft faster it's a ritual spell
+so it doesn't take a spell slot uh and
+is critically important for every party
+to have enhan leap also could improve
+your mobility and if you have access to
+both of those on other characters then
+fog cloud is very good this is another
+concentration spell but lets you just
+blind enemies to gain advantage on
+attacks against them any enemy who's
+locked in place can be absolutely uh
+crushed if you land a fog Cloud on them
+at character level
+five we're going to take our fourth
+level of Ranger although I will note
+that you could if you wanted to uh
+deviate and take three levels of Rogue
+at this point I just prefer the ranger
+levels and we're going to take a feat
+for our first feat where I already have
+mentioned it in this build video we're
+going to take Sharpshooter uh
+Sharpshooter is core to every archery
+build it's what allows you to do so much
+damage the minus5 penalty to your
+attacks sounds bad but we're offsetting
+two points of that with the archery
+fighting style and so many of our
+attacks are made with Advantage cuz we
+have bonus action hide so we can hide
+and make our attacks you can attack from
+High Ground very easily because you can
+sneak to a good position and gain uh
+advantage that way so you should be able
+to offset these penalties quite easily
+still land your attacks and deal an
+additional 10 damage since we have uh
+our extra gloomstalker attack we're
+getting 20 damage out of this in the
+first turn of combat um and this just
+continues to provide incredible damage
+value throughout the entire game
+I highly recommend taking it early you
+will sometimes see the advice not to
+take Sharpshooter as your first feat but
+the amount of damage that it does as a
+percentage of enemy Health at this point
+in the game is massive because enemies
+have relatively low health so even if
+you miss a couple more attacks you're
+going to kill enemies much faster on
+average with early Sharpshooter as a
+rule of thumb you should turn off this
+you should toggle off Sharpshooter if
+your hit chance is 25% or lower uh or if
+enemies are at low health and you don't
+need the extra damage otherwise just
+leave it on all the
+time then at our fifth level of Ranger
+we get the extra attack uh feature
+letting us make two attacks for every
+attack action or three attacks in the
+opening round of combat uh which
+increases our damage output immensely
+obviously it effectively doubles it uh
+extra attack is so good for the obvious
+reasons it also lets us Supply
+Sharpshooter more often and any damage
+Riders we have you get the idea about
+how good this uh ability is and that's
+why we rushed for it we also get Misty
+step from being a fifth level
+gloomstalker Ranger which is a pretty
+nice spell to have as a bonus action
+this is very useful for positioning
+helps us get out of the way and we don't
+have to spend any build resources on
+selecting it for our level two spell
+selection we're going to take Spike
+growth because this is still just a very
+useful spell to have even later on in
+the game you can lock down enemies in
+areas with ity pretty easily if you
+already have another character like a
+druid or nature cleric who has
+growth um then you can pick up silence
+because as a ritual spell this can be
+used outside of combat without spending
+a spell slot on it and then uh lock down
+an enemy spellcaster preventing them
+from acting pass without Trace is also
+worth uh mentioning if you intend to do
+greater invisibility Shenanigans with
+this character have another party member
+with greater invisibility then this
+character can have pass without trace on
+themselves to make them even better at
+the steal at the stealth checks the way
+that greater invisibility Works in
+Boulders gate is you have to make
+escalating stealth checks every time you
+attack before enemies notice you so pass
+without Trace is a bonus to your stealth
+checks lets you abuse the enemy AI uh
+killing them before you ever enter
+combat before they ever notice you and
+then you don't even have to play the
+game you just kill any enemies before
+they ever see you
+then at character level seven we're
+going to go back into Rogue uh this
+gives us cunning action Dash and
+disengage which makes us significantly
+more mobile around the battlefield
+cunning action dash of course is
+incredible for Archers cuz lets you
+spend your bonus action to double your
+movement speed which means that you can
+kite enemies backwards away from the
+battle if things are going badly you can
+just use your movement speed you can use
+triple your movement speed to just run
+run away and disengage from combat don't
+underestimate the strategy of just run
+away from combats that are going badly
+that will save your honor mode runs more
+than once if you remember to do it and
+have characters who are appropriately
+mobile to take advantage of
+that then at character level eight we
+take our third level of Rogue and we get
+to pick our Rogue subass which is of
+course the Assassin Rogue uh assassin
+Rogues get advantage against creatur
+that haven't taken a turn yet this is
+going to let us trigger our sneak attack
+against those creatures and also just
+always attack with Advantage so we're
+going to hit even more reliably Landing
+our Sharpshooter attacks and and so on U
+and we'll always win initiative because
+we're a dexterity character that has the
+incredibly powerful tools given to us by
+the um gloomstalker Ranger as well so
+we're we have amazing initiative we're
+always going to win initiative go before
+the enemies and have advantage on all
+our attacks
+and uh if we surprised them by entering
+combat by dealing damage to them from
+stealth then all of our attacks are
+going to be critical hits so we're going
+to be making three attacks Baseline more
+if we have haste or bloodlust elixir in
+the opening round of combat all of which
+are going to be automatic Critical Hits
+which is enough to just drop any enemy
+in the game from FTA Euro basically or
+at least put them into a pretty bad
+position where the rest of your party
+can play cleanup or where this character
+in a subsequent turn can just take them
+out after hiding and preventing the
+enemies from retaliating it makes this
+play style incredibly easy because you
+just never have to face the most
+powerful enemies in any given encounter
+they're just dead before the encounter
+starts because automatic criticals with
+Sharpshooter damage and all your
+additional attacks and damage are
+incredibly strong and will just one-hot
+anything that would uh potentially pose
+a threat to you before you have to fight
+them um you also restore your action and
+bonus action at the start of combat so
+you can fire an attack before combat
+starts and then fire another attack so
+you basically get a whole extra extra
+attack uh at the beginning of combat and
+effectively make five attacks in the
+first round of combat which is going to
+just obliterate even the toughest
+enemies in the
+game uh character level N9 we are going
+to take our fourth level of Rogue
+because of course we need to get an
+extra feat we've been playing with
+relatively low dexterity up to this
+point and relying on our advantage
+bonuses from bless and uh potential uh
+Buffs from allies and the archery
+fighting style in order to hit our shots
+so we're very happy to get another feat
+and uh improve our ability scores up to
+18 and 16 that just gives us the maximum
+possible numbers for our ability scores
+um evening out the odd numbers and
+making this character much more
+efficient
+then at this next level rather than take
+another level in Rogue or Ranger we are
+going to deviate yet another time and
+take levels in yet a third class that
+class of course is going to be fighter
+fighter gets us another fighting style
+pick which is going to be the defense
+fighting style increasing our Armor
+class even further our Armor class is
+really uh key to this character and we
+can increase it quite high so adding the
+defense fighting style can give us armor
+in the mid 20s or even low 30s depending
+on our equipment which means that
+enemies will never Target you and even
+if they do they will miss um but mostly
+we're taking Fighter for the level two
+fighter feature action surge action
+surge lets us make an whole additional
+round of attacks in the opening round of
+combat so now we can make two attacks
+before combat starts with extra attack
+we can make then an additional three
+attacks in the opening round of combat
+uh and then use action surge for two
+more attacks so we have up to seven
+attacks five of which are automatic
+criticals and that's before we get haste
+or bloodlust attacks from an ally or
+anything along those lines um so the in
+incredible amount of burst damage that
+this character can deliver is second to
+basically none other in the game uh
+because Critical Hits are so powerful
+and we just get them
+automatically finally at uh fighter
+level three we are going to go into
+battl Master Fighter um you could take
+Champion fighter because critical hit
+chance is good for this character
+increasing your chance to critical hit
+and we will be picking up gear for
+critical hit chance improvements in
+general I prefer Battlemaster fighter
+though it both gives you more options
+for how you're going to take combats you
+can lock down enemies with menacing
+attack make sure that you're Landing
+your most important shots with Precision
+attack and uh potentially keep knock
+enemies over Cliffs with pushing attack
+or keep them prone on the ground with
+trip attack uh you're going to want to
+take either of those disarming attack is
+also pretty good in the late game
+menacing and precision I would highly
+recommend taking both of and then you're
+going to choose between
+disarming trip and push depending on
+whether you have those effects elsewhere
+in your party as a generically powerful
+choice I think disarming is best in the
+late game because it really shuts down
+some late game enemies
+um but Precision attack means that you
+don't miss your important attack and
+this gives you a bunch of additional
+damage because you can add a d8 to your
+important shots and that d8 then gets
+doubled because of your automatic
+critical hits in the opening rounds of
+combat and you can lock down enemies it
+ends up being uh less average damage
+than the champion fighter critical hit
+chance over really long combats but
+combats don't go long with this
+character because you have all of your
+crits in the opening round of combat so
+you just just obliterate them and the
+crit chance is somewhat redundant with
+the automatic criticals you get from
+assassin so Battle Master gives you more
+options and overall more burst damage
+which is the most important part for
+this character at this level it's also
+worth noting that now that we're level
+12 you may want to Respec to take one
+level of Rogue and put that into fighter
+uh basically that just gives you an
+extra hit point um for no downside the
+reason for that is is that uh you get a
+feat at either level and so you can just
+swap your Rogue level which gives you
+fewer hit points into your fighter level
+neither class gets anything else at
+level four so you just get one extra hit
+point by uh by doing that Respec if
+you care that care enough about the one
+hit point then that is an optimization
+that you can do or you can just leave it
+this way it mostly won't
+matter all right my friends that is the
+classic gloomstalker Ranger Assassin
+Rogue Archer this build is a classic for
+a reason it does incredible amounts of
+damage it's very easy to play you never
+have to rest basically cuz only the
+fighter levels use any kind of resources
+so even if your party never takes short
+or long rests um then this character
+will still be operating at almost 100%
+efficiency and overall the sheer amount
+of damage that it brings to any party is
+uh just so powerful for getting your way
+through honor mode especially on a
+character that operates so safely of
+course we can power it up even further
+by selecting good equipment so let's
+talk about that for items for this
+character there's one item that sort of
+stands uh Head and Shoulders above the
+others as the most important it's not
+mandatory for the character but it does
+make a lot of the game play out much
+smoother and that item is the graceful
+cloth the graceful cloth increases your
+dexterity by two to a Max of 20 you'll
+notice that this character finishes the
+game with 18 dexterity unless you're
+using story events to boost it higher uh
+and so the graceful cloth lets you hit
+20 dexterity while still getting the
+Sharpshooter feet and having this
+multiclass um combination so it really
+helps your character output the maximum
+amount of damage at very little cost you
+can use this in combination with Mage
+Armor which will set your base AC to 13
+to have 18 base Armor class um and you
+can use that alongside a shield because
+Mage Armor still works when you have a
+shield equipped and you you can still
+have a shield equipped when you have a
+bow in your main hand um in order to get
+your armor class up to 20 which is a
+pretty respectable amount of armor class
+in the late game if you've used story
+events to raise your dexterity up to 20
+already like the mirror or eel's hair uh
+then you can swap over to one of the
+medium armors that has no cap to your
+armor class bonus from it uh like the
+armor of agility which gets your armor
+class up into the mid 20s all by itself
+and then you can increase that even
+further with other items items that
+increase your armor class and saving
+throws are pretty helpful for this
+character because you just don't want
+them targeted by enemies and you want
+them enemies to miss when they do Target
+you so things like the cloak of
+protection can be pretty good um and
+items that increase our damage are of
+course the most important tools for this
+character for our weapon there's really
+two choices the Deadshot which is more
+accurate and has better critical hit
+chance
+um as well as a higher like base damage
+because of its weapon enchantment or the
+Titan string bow in combination within
+elixir of strength the Titan string bow
+will deal more damage per attack but the
+Deadshot will hit more often I prefer
+the Deadshot but you can use the Titan
+string bow plus the strength plus the
+strength elixir in the early game for a
+pretty significant boost to your damage
+because this adds damage equal to your
+strength modifier you will want to not
+have to use strength El in the late game
+because you would much prefer blood lust
+elixir on this character or the
+viciousness Elixir that increases your
+critical hit chance um since those both
+just enhance the core thing that your
+character is trying to do but until you
+get access to the Deadshot this is the
+ideal weapon combination for
+you other uh items that are great are
+anything that adds damage dice to your
+attacks so items like the hell dust
+gloves that add an additional 1d6 damage
+to your attacks anything that adds
+variable amounts of damage to your
+weapon attacks gets doubled when you
+critically hit so items like the um the
+hell dust gloves that make your weapon
+attacks have an extra D6 of damage that
+will get doubled when you critically hit
+you'll be making seven guaranteed
+criticals in the opening round of combat
+so that's just an extra 14 D6 of damage
+right there that's basically a sixth
+level spell uh added to your opening
+round Nova just from having a single
+item equipped so you can see how all of
+these this character's abilities work
+super well together to Just One Tap any
+enemies in the early game the gloves of
+archery are quite good they just give
+you an additional two damage so you may
+wear those until you get one of the
+items that adds uh damage dice to your
+to your weapon attacks and of course uh
+you can also replace dexterity with the
+gloves of dexterity I prefer the setup
+with the graceful cloth rather than the
+gloves of dexterity um but this is an
+alternative alternative way to get 18
+dexterity and then you can distribute
+those attribute points elsewhere like
+for example if you want this character
+to be your party face you can put those
+points in Charisma and use the gloves of
+dexterity to gain uh decks
+instead finally another set of gloves
+worth mentioning though typically the
+damage gloves are going to be better the
+Marshall exertion gloves let you just
+make an additional attack and extra
+attacks are one of the best things that
+you can do you don't take you don't care
+about taking the damage cuz this
+character is just not at risk of dying
+usually um and that extra attack can be
+a critical attack in the opening round
+of combat so for maximum burst damage
+the Marshall exertion gloves can
+sometimes outperform the hellus gloves
+or similar uh like the flawed hust
+gloves um but it'll depend on exactly
+what point in the game you're at
+anything that increases your hit chance
+like the Marksmanship hat is good
+because that will maximize your
+Sharpshooter damage and then a couple
+other fun uh item combos that are wor
+mentioning oh and actually the strange
+conduit ring is also amazing because it
+does an additional D4 of psychic damage
+if you're concentrating on a spell very
+easy to be concentrating on a spell
+always because you have Hunter's Mark
+and also as a gloomstalker ranger you
+just get disguise self which is a spell
+you can concentrate on or uh no sorry
+you you use uh detect thoughts to cast
+as a ritual spell concentrate it on on
+it all day um and you can get that from
+a scroll um and if you're concentrating
+it on detect thoughts all day then you
+can add a D4 of psychic damage to all
+your attacks which again gets doubled a
+couple other fun weapon combinations the
+Drake throat glaive can be used to imbue
+your bow with cold damage uh which can
+then be doubled with the wet condition
+and also uh you can wear the snowb burst
+ring to put in a circle of ice under
+every enemy you shoot now not only are
+they taking up incredible damage they're
+also getting knocked over and then
+you'll have advantage on subsequent
+attacks because they're prone
+other than that uh things that increase
+your critical hit chance are good and
+anything that adds damage dice to your
+attacks anything that gives you
+additional Mobility is of course also
+very valuable and don't forget that
+weapons like the knife of the
+undermountain king that have passive
+benefits work on your ranged attacks so
+the knife of the under Mountain King
+reduces the number you need to crit on
+your ranged attacks as well as your
+melee attacks so you can wear uh a
+weapon like this to boost up your range
+to attacks and you can also benefit from
+a shield Shields increase your armor
+class and the Sentinel Shield with the
+plus 32 initiative um means that you're
+basically guaranteed to go before every
+enemy in the entire game uh with the
+plus three from Gloom stalker plus five
+from dexterity with the graceful cloth
+and plus three from The Sentinel Shield
+you have plus 11 and the highest enemy
+initiative bonus in the game is plus 10
+so you're going to go before just about
+every enemy in the game almost 100 % of
+the
+time all right my friends that is uh one
+of the most solid simplest and most
+powerful builds in Boulders Gate 3 the
+stealth Archer uh I hope that you have
+enjoyed this look at this character and
+if you are looking for a character to
+help carry your honor mode runs I can't
+recommend this one enough just really
+very simple and solid to play very safe
+um and will just burst down enemies
+immediately enter stealth shoot an enemy
+they'll be surprised keep shooting them
+you'll critical hit them and they will
+die that's all the play pattern that you
+need and it will work against almost
+every enemy in the game as always of
+course if you've enjoyed this video feel
+free to leave a comment and hit like
+helps me out with the algorithm so I
+appreciate you taking the time to do
+that and of course you can subscribe to
+my channel for more balers Gate 3 builds
+and other strategy game content cheers
+my friends I'll catch you next time

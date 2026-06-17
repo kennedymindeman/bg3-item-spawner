@@ -1,0 +1,1064 @@
+hello my friends and welcome back to
+another Boulders Gate 3 character
+building guide hope you're all doing
+well today we're covering my pick for
+the best monk build in Boulders Gate 3
+this is an update video to my previous
+video of the same name and is the last
+of the update videos in my simple class
+builds Series so once we're done this
+all 12 of the classes will have been
+updated into the modern era of Boulders
+Gate 3 I think it's important to update
+those videos cuz they were some of the
+first ones that I did way earlier in
+Boulders gate 3's development and so I
+wanted to update them to be compatible
+with honor mode and with the lessons
+that we've learned over the last uh
+nearly a year of character
+optimization like all of my simple build
+Series this video will focus primarily
+on a monocl class monk but because Monk
+Is So heavily incentivized to multiclass
+I will have a more extensive
+multiclassing section than normal for
+these videos to go over some of the more
+common ways to build multiclass monks as
+well all right let's get right into it
+so what do monks bring to the table well
+in a word power monks have some of the
+highest raw power level amongst their
+class and abilities of any character in
+Boulders Gate 3 if a wizard is Batman
+whose job is to have a tool belt with an
+answer to every possible problem that
+might come up a monk is Superman who
+only has one answer to every possible
+problem that might come up but that
+answer is punching through solid steel
+so it's sort of a one- siiz fits all
+solutions
+monks can solve every problem with
+violence they move very very quickly and
+they hit really really hard so they will
+always be able to get to the most
+important Target in an encounter and
+they'll always be able to kill them they
+rarely miss their attacks and any enemy
+that is going to survive their
+incredibly high damage output they can
+simply stun removing them from the fight
+for a turn and giving you a whole extra
+round of attacks to take that enemy out
+in following turns so monks are kind of
+Assassins they're in many ways even more
+assassin than the Assassin Rogue because
+they move incredibly fast they play a
+sort of hit andun play style and they
+obliterate any Target that they turn
+their attention to monks also have some
+of the mo the easiest and most powerful
+access to Broken mechanics in Boulders
+Gate 3 the way that the class is
+balanced and some of the balance changes
+that were made from the tabletop version
+of dungeons of dragons to Boulders Gates
+video game version have given monks some
+of the most powerful and some of the
+least balanced tools available in the
+game so if you want to power up your
+characters and your party to the maximum
+possible extent monks give you the
+option to do that in incredibly powerful
+ways they do pay for this power in some
+uh in some senses though monks are a
+little squishier than other melee
+classes they will tend to have lower
+Armor class and lower hit points than
+other melee classes and so you do have
+to be a little bit cier and more careful
+with your positioning on a monk than you
+do with say a fighter or a paladin they
+also uh have not that much gear
+available in the game there's good gear
+for monks and the great thing about it
+is that it doesn't conflict with other
+characters important items so you'll
+your monk will Almost Never require an
+item that another character needs more
+because they their gearing is sort of
+orthogonal to the normal gear
+of Dungeons and Dragons characters they
+just need completely different things
+but their late game items are less
+absurdly powerful than some of the late
+game items available to other classes
+that said the inherent strength of the
+class means that they mostly don't need
+them so those are two of the sort of
+downsides of Monk but their Mobility
+power incredible damage and uh ability
+to just brute force their way through
+any problem makes them one of the most
+powerful possible options for an honor
+mode run if you like to just punch
+things until they are dead monk is
+definitely the class for you I'm using
+lelle as the example character here
+because while there's no monk by default
+in the party playing as a monk fits her
+particularly well for some story reasons
+related to her progression as a
+character but from a mechanical
+standpoint aarian is almost certainly
+the most powerful monk his unique story
+abilities will increase your accuracy
+and your damage per attack dramatically
+and so he can make the most powerful
+endgame monk carlac is also very good
+because her soulcoin mechanic which can
+increase her damage output can work with
+monks multi-hits when she's at low
+Health to do a significant amount of
+additional damage Lazelle though gets as
+a gith Yankee light and medium armor
+proficiency monks who you might think
+normally want to be unarmored because
+they have a lot of abilities that key
+off of being unarmored but in the early
+game they haven't yet received those
+abilities and so often in the very early
+game you're better off wearing light or
+medium armor then you are remaining
+unarmored if you look at monks starting
+abilities martial arts death strikes and
+dextrous attacks don't care whether
+you're in armor or not only unarmored
+defense does and obviously unarmored
+defense just gives you some Armor class
+which is replaced by your armor if you
+get armor that's better than unarmored
+defense it's better to wear that so can
+benefit pretty strongly from picking a
+race with armor proficiencies to allow
+them to use armor in the early game like
+GTH yanki for medium armor or especially
+wood half elf if you're building this as
+a custom character who gets light armor
+and Shields and additional movement
+speed dgar also make excellent monks for
+enlarge and the ability to turn
+invisible at any time outside of combat
+so they can start combat right next to
+the most important Target uh in any
+given encounter and take them out right
+away
+for Ability score selection for a monk
+monks are one of the hardest characters
+to put together a strong ability point
+spread for in all of balers Gate 3
+because monks are incredibly
+multi-attribute dependent or mad they
+need four of the six attributes which
+isn't that unusual for characters but
+unlike other characters they usually
+need one stat as high as possible and
+then have moderate need for the other
+three stats monks need three of those
+four stats to be as high as they can
+possibly get them that puts a lot of
+pressure on our ability score points and
+makes it a little bit more difficult for
+us to build a strong attribute spread so
+I'm going to talk about different ways
+that we can manage that restriction when
+we're building our monk the first is to
+build a dexterity based monk which lets
+us focus on only three attribute points
+and while that gives up one of the
+strongest things that monk has access to
+in Boulders Gate 3 which requires
+strength it does make the character much
+easier to build if you're interested in
+a build guide for that version check out
+my guide the classic monk where I talk
+about a DEX based monk the second way is
+to use items to replace having to
+actually take attribute points in our
+level up screen in Boulders Gate 3
+you'll act you'll encounter elixir of
+Hill giant strength very early in the
+game and these are purchasable from
+Merchants so you can stockpile enough of
+them that you can drink one every day
+and when drunk it sets your strength to
+21 for the entire day no matter your
+starting strength using that strategy
+you can completely replace strength set
+it to eight and just have 20 strength
+permanently as long as you constantly
+drink Elixir there's also the gloves of
+dexterity which you encounter a little
+bit later which can do sort of a similar
+thing for dexterity the final option is
+to just muscle through it and build our
+character as best as possible without
+relying on items that's what I'm going
+to be demonstrating for you today
+because for these simple build guides I
+don't want them to be item Reliant but I
+will mention that the Elixir version of
+Monk Is much more powerful because you
+get so many free attribute points and I
+will talk about how to build that
+version as well as we're going through
+building the character whether you're
+using items or not in order to get your
+attribute points it can also be very
+helpful to start monks with this
+attribute spread 12 strength 16
+dexterity 16 Constitution and 14 wisdom
+uh and then at level four when you have
+the need for strength that comes from
+the tavern brawler feet spec your
+character into the final attribute
+selection for this character that final
+attribute selection is going to be 17
+points in strength we need the odd
+number because Tavern brawler is going
+to give us an extra point 14 in
+dexterity 14 in Constitution and 12 in
+wisdom with the remaining two points
+stuck into intelligence because it's the
+most useful of these abilities uh some
+enemies have abilities that Target an
+intelligent saving throw so we just put
+our odd points there this gives us a
+fairly squishy character but gives us
+the 17 strength that we need to maximize
+Tavern brawler which is super important
+for our damage finally for skill
+selection just make certain that you
+have Athletics because monks are not
+going to be doing that many skill checks
+in general uh they are not likely to be
+your conversation character and they
+won't be doing too much lockpicking
+typically uh most parties will have
+someone else do that so the only skill
+check that you need your monk to make is
+to occasionally kick an enemy off a
+cliff so make certain that you've
+selected Athletics other than that
+nothing else to do at level one but
+let's just quickly go over Monk's uh
+starting abilities as well the most
+important of these is Flurry of Blows
+which costs you a key point but lets you
+make two unarmed strikes as a bonus
+action all of our attacks are going to
+be unarmed strikes so this effectively
+gives us three attacks per turn right
+from the beginning of the game um
+Fighters need to be level 11 before they
+get three attacks per turn so we get to
+do that right from the start and even on
+terms where we don't have key points to
+spend on Flurry of Blows we still have
+uh the martial arts bonus unarmed strike
+where when we make a mainhand attack we
+still get to make one additional attack
+so we can either make three attacks by
+spending a resource or just make two
+attacks every turn of combat so we're
+attacking much more frequently than
+other characters that will be a theme
+that you're going to see repeated as we
+continue to level up monks you also get
+unarmored defense so our base AC with
+this attribute spread is going to be 13
+which is why I recommend taking a race
+that can wear armor that'll let you
+improve that just a little bit more in
+the early game um and uh your attacks
+will scale with your dexterity instead
+of your strength if your deck is higher
+but our strength is going to be higher
+so that won't matter unless you started
+with the deck based attribute spread and
+intend to Respec at level four all right
+that's it for level one let's move on to
+level two
+character level two for monk there's no
+decisions to make but you do get a ton
+of awesome abilities firstly you get an
+extra key point you get one more every
+level and these Refresh on a short rest
+so you're very quickly going to reach a
+point where you don't have to worry
+about spending key points you'll just
+have enough to fuel your abilities as
+long as you're not using like three per
+turn you will have plenty and your monk
+will not run out of resources before the
+rest of your party has run out you also
+get unarmored movement where you get to
+move move 10 ft faster when you're not
+wearing armor at this stage it might
+still be better to be in armor but
+fairly soon your damage output will be
+high enough that it's more important to
+be able to get to the appropriate Target
+monks are going to play often as a
+striker a sort of Hit and Run style
+character where you run up to the most
+important Target on a field delete them
+and then run away before their allies
+can retaliate so the ability to move
+very quickly is very important to Aid
+with that you also get step of the wind
+Dash which gives you uh Dash as a bonus
+action similar to the Rogue level two
+class feature though this one requires a
+key point but you also get to jump
+without spending any actions so that can
+increase your movement distance and
+Mobility even more since we're a
+strength-based field our jump distance
+will be pretty incredible so step of the
+wind Dash gives us tremendous Mobility
+when we need it you can also use step of
+the wind disengage to get away from
+enemies without provoking an opportunity
+attack um this will come up sometimes
+but most of the time you'd rather just
+kill whatever enemy you're in contact
+with so you won't end up using this that
+frequently and patient defense which
+gives disadvantage to attack roles uh
+against you this can be useful if you
+get stuck in a really bad situation but
+the goal on monk as always is to have
+enemies not able to attack you because
+they're either dead stunned or out of
+range of you so patient defense is sort
+of a last um a a last ditch effort
+a last resort is the word that I was
+looking for there rather than a primary
+defensive strategy your primary
+defensive strategy is running
+away no decisions to make it level two
+though so let's move on to level
+three character level
+three we get to take our subass this is
+the most important decision that we're
+going to make but one of the Monk
+subclasses Is significantly unbalanced
+compared to the others and is just way
+more powerful while all of three of the
+monke sub classes are viable the best by
+far is way of the Open Hand way of the
+Open Hand gives you way more damage than
+the other two subclasses so while the
+utility from four elements or way of the
+Shadow can be very fun characters open
+hand monk just eclipses them in terms of
+the amount of the sheer amount of damage
+output that it has and so is almost
+always going to be the strongest
+selection you also when you take way of
+the Open Hand get these special Flurry
+of Blows which have the same cost as uh
+your existing Flurry of Blows and do the
+same amount of damage but are just
+better because they add an additional
+Rider effect Flurry of Blows topple can
+knock an enemy prone which is incredibly
+powerful because that gives you
+advantage on all your subsequent attacks
+against them uh since we're going to be
+making tons of attacks per turn having
+advantage on our later attacks means
+we're even more likely to hit and so are
+going to be taking out enemies even more
+reliably
+stagger can cause an enemy to be unable
+to take reactions which is just a better
+version of the disengage of step of the
+wind
+disengage enemies who can't react can't
+make opportunity attacks so you can get
+away from them safely can also prevent
+some of the D very dangerous reactions
+on honor mode that some bosses have as
+legendary actions and Flurry of Blows
+push uh knocks the enemy backwards which
+can send them into hazardous
+environments that your party has set up
+or careening off of cliffs which is an
+incredibly powerful ability
+repositioning enemies is always good
+doing so as a bonus action while doing
+amazing amount of damage means that your
+character is always going to be able to
+do cool stuff and Powerful stuff with
+these abilities one other important
+thing with Flurry of Blows topple is
+that enemies who fall prone lose
+concentration on whatever they're
+concentrating on so an enemy spellcaster
+can be made to drop concentration on an
+important spell if you hit them with
+topple
+and um they don't get a saving throw to
+maintain concentration if they fall over
+they just lose it immediately so very
+helpful if an opponent has a powerful
+spell that you want to get rid
+of at character level four we get to
+take our very first feat and this is the
+first of the incredibly broken mechanics
+that monks get to take advantage of the
+feet that we're going to take is going
+to be Tavern roller and this is why we
+took strength why we warped our
+character build in order to be able to
+take strength because Tavern brawler is
+such an incredibly powerful feat in
+balers Gate 3 this is a feed that was
+changed significantly from the tabletop
+version and in Boulder's Gate uh where
+it doesn't do anything like this but in
+Boulder's Gate whenever you use an
+unarmed attack you get to add your
+strength modifier twice to both the
+attack rle the to hit roll and the
+Damage Dungeons and Dragons runs on a
+concept called bounded accuracy which is
+essentially the idea that your hit
+chance will never exceed certain
+percentages it won't fall too far
+outside of uh the bounds in order to
+make combat unbalanced Tavern brawler
+completely breaks this Core Design
+concept for Dungeons and Dragons and
+monks are the character that gets to
+take fullest advantage of this when you
+have a Tavern brawler monk with high
+strength you will almost never miss your
+attacks and all of your attacks are
+doing way more damage than they should
+because you're adding twice your
+strength modifier to damage uh so the
+fact that you and you're able to do this
+many many times per round because you're
+a so you're making constant attacks at
+this point in the game we're making
+three attacks per turn and each of those
+three attacks is going to be adding our
+strength modifier twice over and hitting
+basically 100% of the time because we're
+adding our strength modifier twice over
+to our hit chance as well so Tavern
+brawler as a feat completely breaks the
+the game balance allowing your character
+to uh exceed the normal values for stats
+for a character and overwhelm enemies
+with tremendous amounts of accuracy and
+damage when you take Tavern brawler you
+also get a single point in an attribute
+so that's why we took the odd point in
+strength and can go up to 18 strength
+meaning that we're doing plus eight to
+hit and plus eight to damage from our
+strength alone at this point in the game
+if you are using the strength Elixir you
+will have plus 10 to both of those
+because you'll have 21 strength for a
+plus five bonus and you'll have selected
+uh 15 starting Constitution your
+starting stats would be 16 15 uh 16 in
+wisdom and so you just put the odd Point
+into Constitution so that you have 16 in
+all three of dexcon and wisdom plus your
+20 strength from your Elixir Tavern
+brawler is incredibly broken and monks
+get to use it so this is one of the ways
+where we get one of the most broken
+mechanics in the game to work uh as
+powerfully as it can for us but it just
+gets better from here as you'll see when
+we get to level five at level
+five we get extra attack like most
+Marshall classes so now we are making
+two attacks with our main action and two
+attacks with our bonus action for a
+total of four attacks per round again
+other Marshall classes are only making
+two at this point so we're still make
+we're making twice as many as those uh
+classes and our attacks hit harder and
+are more accurate but we also get
+stunning strike stunning strike lets us
+make as an action and this is says it
+uses an action but it just uses an
+attack so it'll use just one of your two
+attacks per turn um to attempt to stun
+the Target that we hit stun for a turn
+stops the enemy from doing anything stun
+just completely disables them from
+moving taking actions bonus actions
+reactions they can't do anything while
+they're stunned and against a boss
+obviously stunning them for an entire
+turn just wins the encounter on its own
+stunning an important enemy for a turn
+just completely takes them out another
+change that was made from tabletop D and
+D to balers Gate 3 is that in tabletop
+the save DC for stunning strike is based
+on your wisdom so we would have a
+relatively low chance of actually
+Landing the stun and tabletop dndd but
+in Boulder's Gate it's based on either
+your strength or your dexterity
+whichever is higher so not only do we
+get to hit really hard and do tons of
+damage by taking a high strength we also
+get to land our stuns extremely reliably
+because they rely on our strength in
+order to hit so we can stun just about
+any enemy there's actually not that many
+enemies in the game that are immune to
+stun as well so even the most dangerous
+Encounters in the game you probably just
+never learn what their mechanics are
+because they're either dead from your
+incredible damage or stunned before they
+get to act you just don't have to deal
+with what they're doing that's why we
+can get away with being relatively squid
+with only 14 Constitution because we're
+so fast and we do so much damage and we
+can stun enemies we will just never have
+to face what enemies are actually
+bringing to the table because the most
+dangerous ones our monk is going to get
+off the table before they actually do
+anything at level
+six way of the Open Hand monk gets the
+subclass feature manifestation of body
+mind or Soul which allows you to deal
+additional damage uh on every single
+attack that you make and remember you're
+making four attacks per round minimum at
+this point um and that damage is equal
+to your wisdom modifier which currently
+is only one so we will like to increase
+our wisdom if possible to make this more
+powerful plus a D4 that that D4 also
+gets doubled if you critically hit so
+and since you're attacking so often
+you'll critically hit pretty frequently
+so you'll see double damage from this
+ability pretty often we also get access
+to wholeness of body which heals you uh
+but for an extra three turns gives you
+an additional bonus action you might
+recall bonus actions from the Flurry of
+Blows attack which is two attacks for a
+bonus action so when you activate
+wholeness of body uh for the next three
+turns you can make up to six attacks per
+round before any additional effects from
+an from a haste potion or a bloodlust
+Elixir or anything like that or
+something haste cast from an ally which
+will let you make even more attacks by
+default you can make six attacks per
+round all of them do way more damage
+than any other character's attacks all
+of them hit more reliably than any other
+character's attacks so your damage
+output is just tremendous at this level
+having gotten level six this is where if
+we were multiclassing and I'll talk
+about this more in the multiclassing
+section we would deviate to the next
+class that we're taking because this is
+our most powerful ability but for monoc
+class monk we are of course just going
+to continue and we're going to go to
+level seven
+where at level seven we don't make any
+particular decisions but we do get
+evasion so if we make a successful
+dexterity save against a damaging spell
+effect and damaging spells are one of
+the few things that we're sort of in
+danger from because they often are
+pretty long range so they can reach us
+even with our high Retreat range um we
+take half damage from them even if we
+fail and no damage if we succeed so
+we're suddenly much better at surviving
+against enemy spellcasters assuming they
+live long enough to get their spell off
+we also get Stillness of mind which if
+you're Charmed or frightened uh you use
+your turn to get out of this ability
+this is actually secretly sort of a
+downside in Boulders Gate 3 because it
+eats your turn to cast Stillness of mind
+and you don't get to choose whether to
+use it or not so ideally you want to
+either not get targeted by these effects
+or have immunity to to this kind of um
+wisdom targeting effect fear immunity is
+something you can definitely acquire as
+you go through the game so monks should
+be on the lookout for that
+uh from items or abilities or Allied
+abilities to avoid proing Stillness of
+mind it can still be helpful if you're
+Charmed or frightened for multiple turns
+it will get you out of that but often it
+will be a little bit dangerous because
+it'll stop you from moving you're just
+going to use your turn to get out of
+that
+effect at monk level eight we get our
+second feat and um for those of you who
+have played honor mode before it will be
+no surpr surprise what our second feat
+is it we're going to take alert alert
+gives you plus five to your initiative
+which currently initiative is one of the
+weak points of this build since we had
+to sacrifice dexterity in order to get
+our strength as high as we needed it our
+initiative has only been plus two so
+we've been reliant on gear in order to
+have high initiative up to this point
+but alert gives us plus five meaning
+that we're going to win initiative
+against just about every enemy in the
+game um with our plus seven initiative
+and remove surprise
+as long as your monk gets to act the any
+dangerous enemy in the fight will be
+dead or stunned by the time it rolls
+around to their turn so the most
+important thing that we can do is ensure
+that we go First Alert lets us do
+that at monk level 9 we get additional
+uh unarmored Movement we went up to plus
+15 ft at uh level six and at level 9
+difficult terrain no longer slows you
+down and you can jump an extra 20 ft
+remember that we have step of thee wind
+Dash which allows us to uh use Dash to
+double our movement speed and jump
+without spending a second bonus action
+so we can now move double our movement
+speed and jump in additional with uh an
+incredibly long jump distance since we
+have high strength and jump in
+additional 20 ft so we can Traverse any
+arena in the game in a single turn if
+necessary we also get these resonance
+punches which allow you to set up
+explosions by punching an enemy and then
+triggering the um resonation blast these
+can chain in between enemies as well uh
+if you resonate a couple of them and the
+overlapping damage can clear small
+enemies very very quickly it also just
+adds to your damage it's 3d6 Force
+damage is a lot of additional damage on
+top of your um your normal punching
+damage so you just get tons of extra AOE
+damage from having access to these
+resonating punches which monks are
+already incredible at single Target
+damage having AOE damage removes one of
+the only weaknesses remaining for the
+class in terms of being able to take out
+certain kinds of
+enemies at mon level 10 our unarmored
+movement gets even faster so our
+Mobility already ridiculous becomes even
+more ridiculous and you become immune to
+poison uh and you can't be uh affected
+by The Poisoned condition or affected by
+disease immune to poison damage is
+actually pretty helpful there's some
+fights in the game where Cloud kills
+happen there's a lot of late game fights
+where you're in arenas that have clouds
+of poison in them or you can need to
+like walk through poison and also you
+can use this to set up your monk inside
+a cloud Kill cast by an ally where they
+will be immune to the poison damage and
+that can be a pretty devastating combo
+your monk can keep enemies stunned and
+locked in the cloud kill taking constant
+damage so in a fight where you need
+extra damage which admittedly are rare
+because you're playing a monk uh you
+have access to that if you have an ally
+with poison damage that you can use your
+monk to lock enemies inside this is a a
+surprisingly useful ability that you
+won't notice that often um because it's
+a passive and it just prevents bad
+things from happening but it will
+actually come up pretty frequently
+throughout the late
+game then at monk level 11 uh you get
+Sanctuary after your long rest which is
+kind of fun it can let you start um
+fights by just walking into the middle
+of enemies and they won't be able to
+attack you until you start a fight so
+even if we lose initiative things can't
+go too terribly wrong in the first fight
+of the day it's not a powerful ability
+not a very powerful ability but it's
+flavorful and leads to some very funny
+moments and finally at monk level
+12 we get to take our very last feat and
+of course at each of these levels we've
+gained additional key points as well
+which is very important it fuels your
+abilities when you hit monk level 12 you
+will have way more key points than you
+know what to do with so you can flurry
+multiple times per turn you can Dash uh
+every turn and you still won't be able
+to burn through all of your key points
+before your short rest um or before your
+allies have used their resources for our
+feat selection we're just going to take
+an ability Improvement to max out our
+strength because of course we double the
+value of our strength so more strength
+is always better for this character if
+you are using strength Elixir for this
+character you do get a third feet and
+there's a lot of very cool options that
+you can take at this point um some
+options include mobile to be even faster
+if you want to want uh to be able to
+just go at Absolute light speed lucky
+because one of the few things that can
+go wrong for this character is getting
+hit by a debilitating saving throw
+effect like a paralysis or something
+lucky can give you rerolls to evade
+those uh Mage Slayer which can help you
+shut down enemy casters even more um all
+are great options and one that is
+surprisingly solid for this character as
+well is tough because just two extra hit
+points per level can stop you from just
+getting one shot monks are a little bit
+squishier than other melee classes so if
+you find that your monk is taking a lot
+of damage you can pick up tough to try
+to survive so there's a lot of different
+options the one that I would recommend
+if you are obviously the one I'm
+recommending for this build is to take
+plus two strength the one I would
+recommend if you are doing The Elixir
+build at this point is to take lucky
+just gives you a couple extra options in
+case things go horribly wrong but
+honestly you have a lot of room to play
+there because monk is such a powerful
+class especially if you're using the
+Elixir build all right my friends that
+is our 12 levels of Monk but of course
+we can power up this character even more
+with proper itemization and through
+multiclassing so let's talk about those
+next for items for this character monk
+has slightly heavier item requirements
+than most other characters but the good
+news is that the items that they want
+mostly no other characters are going to
+want so you can uh gain quite a lot of
+edge for your party by using the best in
+slot monk items which are not going to
+be best in slot for other classes some
+important items to consider include a
+very good set of clothing or a robe any
+un any non uh armor set of chest armor
+the best especially in the early game is
+the graceful cloth which increases your
+dexterity which also therefore increases
+your armor class and um your initiative
+which is extremely important and then in
+the late game you're going to want the
+vest of Soul Rejuvenation uh because
+we'll have alert so we'll be winning
+initiative anyways and the best of Soul
+Rejuvenation gives us higher Armor class
+and the ability to attack as a reaction
+you also are going to want a good pair
+of gauntlets in the early game the
+bracers of defense will allow your armor
+class to be competitive with other
+characters uh but mostly what we're
+looking for here is increases to our
+damage things like the flawed hell dusk
+gloves that allow your unarmed attacks
+to do additional damage can be
+incredibly powerful or if you are happy
+to use stat items the gloves of
+dexterity are the best for this
+character uh because you can and then
+drop your dexterity down to eight put
+all those extra points into wisdom and
+equip the gloves for 18
+dexterity this gives us plus 9 to
+initiative so we're almost always going
+to win initiative and combined with 16
+wisdom will give us a base AC of 19 um
+once I don't have the cloak of
+protection on which is not amazing but
+at least is respectable items that
+increase our Armor class and saving
+throws like the cloak of protection are
+pretty good for this character and items
+that increase our damage per attack are
+incredibly important items like the
+flawed hell dust gloves are good for
+that items like the callus glow ring
+which does an extra two damage on every
+attack that you do um against enemies
+that are in light you can easily make
+this happen by casting light on your
+monk so every enemy is lit and this two
+damage is actually radiant damage even
+though it's not listed what kind of
+damage it is in the tool tip so between
+that and the radiant damage from your
+passive because uh manifestation of soul
+lets you do radiant damage you could
+actually use the Luminous gloves to
+inflict a lot of radiating orb effects
+radiating orb is incredibly powerful and
+will shut down bosses but monks are
+already really good at that so it's not
+a sort of primary strategy for monks but
+it's one that they have really easy and
+Powerful access to and it's an
+incredibly strong strategy so it's
+definitely one to keep in mind
+especially for harder boss fights for
+your boots you're going to want the
+boots of uninhibited kuso which just
+adds your wisdom modifier to your
+unarmed attacks again if this is
+especially good if you're using the
+gloves of dexterity or Elixir and have
+higher wisdom than is listed here but
+even one extra damage per attack when
+you're doing tons of additional attacks
+is very strong and in the later game you
+will be able to resp some of your
+dexterity into wisdom to empower this
+and your empower the boots and your
+passive as much as possible um because
+you'll either be able to replace these
+stat points with Elixir or the gloves or
+or just sacrifice some dexterity because
+we have alert and other sources of bonus
+initiative so we don't need dexterity as
+badly and we want wisdom more of course
+the Elixir themselves are very very
+powerful if you're going that route and
+even if you aren't the elixir of cloud
+giant strength can massively boost your
+power level for a certain for a specific
+encounter or a specific adventuring day
+remember you get double value out of
+increases to your strength compared to
+every other character who gets plus one
+to hit and damage but you get plus two
+to hidden damage so every point of
+strength for you is twice as good as it
+is for every other character finally
+something important to know is that you
+can benefit from the passives of bows
+even when attacking with your unarmed
+attacks so uh you can equip something
+like the bow of awareness which is
+available very early in the game and
+gives you plus one to your initiative
+this can help patch your early game
+weakness in terms of initiative make
+sure you go before the enemies and kill
+them before they act and later on can
+use the Deadshot if you don't have a
+party member that's using it to increase
+your chance of critically hitting the
+improved critical passive
+here will work just fine on your unarmed
+attacks and so you're going to crit
+twice as often when you're making a ton
+of attacks and they all do a lot of
+additional damage dice that can be a
+very powerful addition to your character
+so to sum up you are looking for things
+that do additional damage thing like the
+hell dust gloves and the callus glow
+ring things that increase your
+initiative or defenses and the specific
+best and Slot items like best of Soul
+rejuvenation and Boots of uninhibited
+kigo which nobody else wants but monks
+can use incredibly effectively in the
+early game you may also occasionally
+want to wear uh medium armor rather than
+be unarmored you can sometimes increase
+your defenses for fights where you need
+more defenses so do keep that in mind as
+an option if you're playing a character
+that has access to medium or light armor
+all right that's it for items let's talk
+about uh the multiclassing build for
+monks and power this character up even
+further monks have one multic class
+option that stands ahead and shoulders
+above all of the others there are lots
+of viable multiclass builds you can make
+with monk but if you're planning to
+multiclass a monk build you have to have
+a very very good reason not to
+multiclass with rogue rogue uh will
+power up monk by giving you even more
+mobility and increasing the amount of
+damage that you do per turn by
+approximately 50% by just giving you an
+extra uh Flurry of Blows every single
+turn of combat and that obvious viously
+makes your character even more powerful
+when it comes to just dealing tremendous
+amounts of damage so I'm just going to
+quickly show you the standard monk rogue
+build so that you know how to power up
+your character to the maximum possible
+extent we're going to make all of the
+same decisions that we made up to level
+six so you can just follow this guide
+exactly up until level six to W the open
+hand at level
+three monk level four we're still taking
+Tavern brawler
+and still putting that extra point into
+strength or Constitution if we're using
+strength Elixir monk level five is
+unchanged and monk level six is
+unchanged because we still want access
+to this super powerful manifestation
+feature and the wholeness of body
+feature however at monk level six we're
+going to deviate and we're going to take
+a rogue level uh because we want to
+reach the very powerful Rogue options as
+quickly as we can Rogue level one does
+very little for us although it does give
+you some addition skills this version of
+the character can be your lock
+lockpicking character because you can
+get slight of hand expertise and just be
+very good at slight of hand Rogue level
+two gives you cunning action for hide
+and dash and disengage so now you can do
+these things without spending key points
+makes your character more efficient and
+makes up for the key points that you
+don't get because we're taking Rogue
+levels instead of Monk levels but the
+real key here is to hit Rogue level
+three where we get access to Thief Rogue
+which gives us an additional bonus
+action an extra bonus action is an extra
+Flurry of Blows every turn so now our
+base our normal turns are six attacks
+per round and when we have uh wholeness
+of body active we get eight attacks per
+round and that's before any haste or
+blood lust actions available from our
+allies many of these attacks can be
+knockdowns or push backs or stuns so we
+have incredible amounts of damage uh and
+incredible amounts of sustainability
+because we can always we get to replace
+the actions that cost key points on monk
+with the Rogues version of those actions
+that don't so this version of the
+character is wildly more powerful and is
+just one of the best possible characters
+in uh Boulders Gate 3 I rated it third
+on my top 11 builds tier list out of all
+possible builds the Open Hand monk uh
+rogue build so that gives you some idea
+of how powerful this build is overall to
+finish off this character you have a
+choice to E either go to monk level 9 in
+order to get the resonating strikes AOE
+damage or to Rogue level four and monk
+level eight in order to get a third feet
+um if you are building this character
+without using strength Elixir you're
+going to want to take the 84 split to
+make sure you can still get 20 strength
+and alert um and if you are building
+this character with Elixir you're
+probably better off going the 39 split
+in order to get access to resonating
+strikes because you already have 20
+strength and Tavern brawler and alert
+thanks to the Elixir giving you all of
+those stats for free some other
+additional options for monk
+multiclassing include Fighter for Action
+surge two levels of fighter can get you
+action surge um and you can even build
+an armored weapon using monk uh
+alongside a fighter uh a single monk
+level can be applied to Paladin to give
+them dexterity based attacks which could
+be pretty useful but mostly if you're
+multiclassing and Barbarian can give you
+uh rage to make your yourself um
+significantly harder to kill with
+Barbarian rage and also to activate
+carlac Soul coin mechanic if you're
+doing a carlac multiclass for Monk and
+Barbarian but mostly if you're
+multiclassing Runk monk it's Runk uh
+it's it's you know it's it's Runk
+because it is Rogue monk mostly if
+you're multiclassing monk then you are
+going to be doing a 93 or 84 split with
+between Monk and Rogue with very few
+exceptions all right my friends I hope
+that you've enjoyed this look at the
+monk one of the most broken characters
+in all of Boulders Gate 3 and of course
+if you have feel free to leave a comment
+and hit like on the video um doing that
+helps me out a ton with the algorithm so
+I do appreciate you taking the time to
+do so and of course if you've enjoyed
+this video you can subscribe to my
+channel for more Boulders Gate 3 guides
+and other strategy game content cheers
+my friends I'll catch you next time

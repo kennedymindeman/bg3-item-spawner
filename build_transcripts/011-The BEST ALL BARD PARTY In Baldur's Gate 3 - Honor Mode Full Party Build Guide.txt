@@ -1,0 +1,2181 @@
+Before I begin, I do want to take a
+quick moment to say thank you so much to
+Tarantula for the $5 donation, Portia
+Bill for the $10, JD Long Drive for the
+$10, and Ian Reed and Lifeblood for
+becoming channel members. Thank you so
+much, my friends. I really appreciate
+the support. It really means a lot to
+me. All right, let's rock and roll.
+Hello, my friends, and welcome back to
+another Boulders Gate 3 full party
+building guide for Honor Mode. Hope
+you're all doing well. Today, we're
+getting the band back together with the
+ultimate allbard party to rock and roll
+our way through honor mode. Uh, this is
+one of the most frequent full party
+builds that I get asked to do. And not
+only is it really fun and flavorful,
+it's also extremely powerful with great
+damage, great survivability, unsurpassed
+control thanks to having four control
+casters, and of course, basically
+perfect out of combat skills. We all
+know that bards can be built to do
+anything, but with this party, they can
+do everything.
+As always, for my full party builds,
+we'll be using four builds that are both
+powerful in their own right and also
+extremely synergistic, becoming an even
+more powerful hole when they're put
+together. This is intended to be used in
+actual play. So, of course, we cover all
+the skills that you need, easy with all
+bards, fill all the roles that you need,
+both in and out of combat, and have no
+item conflicts between the builds, and
+work right from level one all the way
+through to level 12. We also don't need
+to take any specific story choices to
+use this party. And you can use it with
+any companion. So, no matter how you
+want to play your run, you can use this
+party to do it. Though, of course, to
+fully maximize an allbarb party, we're
+going to have one character be each of
+the four bard subasses. My rule when I
+was starting to put together this party
+was I wanted each character to have at
+least six levels in the bard subclass of
+their choice. But actually, as I built
+the characters, we ended up with at
+least 10 levels for each character in
+the bard subclass of their choice. So,
+this is an extremely bic party. We're
+going to start with our main damage
+dealer and kind of the obvious
+inclusion, the swordsbard archer. Not
+only is this one of the most powerful
+characters in the game, it also plays
+extremely well with this party because
+it outputs a ton of damage, which is
+something that an allbarbred party can
+otherwise struggle with, and it does so
+at any range, and can provide a ton of
+additional control to support the extra
+control that you're getting from having
+a bunch of uh extremely powerful
+spellcasters in the party. So, we're
+leading off with an extremely strong
+build, the Swordbard Archer. For this
+character, we're going to start, of
+course, by taking a level of bard. We
+want to get to extra attack and our
+swordbard abilities as quickly as
+possible. So, we're going to start with
+bard right away for the swordbard archer
+build. For our cantrip selection, we're
+going to take vicious mockery. Now, I'm
+actually going to take vicious mockery
+on every character cuz of course, if
+you're playing a fourbard party, you
+really want to be able to mock enemies
+to death. I mean, what are you doing if
+you can't have four characters just mock
+an enemy until they fall over dead from
+embarrassment? But this character
+actually specifically wants vicious
+mockery because later on we'll be able
+to cast enchantment spells as a bonus
+action. And vicious mockery can add some
+extra damage to our already high damage
+turns. The second spell for this
+character, we're just going to take mage
+hand. Um, this is a good character to
+cast mage hand with because you don't
+need a specific utility cantrip for the
+swordbard archer. Uh, a different
+specific utility cantrip for the
+swordbard archer. So, this can be your
+mage hand user. Splitting up our spells
+across the four builds is going to be
+one of the really interesting things
+about building this uh setup. For our
+spell selection for this character,
+we're going to take healing word and
+dissonant whispers. And these spells are
+universally useful enough that we're
+going to want them on all four of our
+characters. Having four copies of
+dissonant whispers means that our early
+game is extremely easy cuz a lot of the
+most dangerous enemies in the early game
+are melee. Dissonant whispers just wipes
+those enemies out, especially when you
+can cast it in multiples. So that's part
+of what makes this build so strong in
+the early game. Uh in addition, of
+course, we want healing word cuz we can
+pop our allies back to full health. And
+then this character in particular is
+going to take Tasha's hideous laughter,
+another enchantment spell and also a
+very strong control spell. And then
+we're going to take Thunderwave. As an
+archery build with relatively low hit
+points, we will often want to be far
+away from enemies. So, this character
+wants Thunderwave in order to protect
+itself. For our ability score selection,
+oh, I've already actually done it here.
+We're going to take uh 16 dexterity, 14
+constitution, 12 wisdom, and 16
+charisma. This character may later on
+want to use the gloves of dexterity.
+I'll talk about a couple different
+options for how you build the attribute
+split for this character later on. Um,
+but the gloves of dexterity are going to
+be one potential option, but you always,
+of course, want to start with 16
+dexterity and 16 charisma so that your
+ranged attacks and your uh spells both
+have the maximum chance of success. For
+skill selection for this party, we
+actually have a lot of interesting
+decisions to make. Of course, as bards,
+we can distribute our skills literally
+to anything. So deciding which character
+handles what skill is actually a pretty
+interesting uh set part of this party's
+setup. For this character, it's going to
+be our highest dexterity character. As
+an archer, we're going to be raising our
+dexterity. So, this will be our slight
+of hand and stealth character. So, we're
+always going to take those. I also like
+to have athletics on this character.
+It's very likely that we're going to be
+using a strength item, either a strength
+elixir or the club of hill giant
+strength for at least most of the early
+game and possibly all game. Again, more
+on this in the item section. Um, so when
+you need to roll an athletics check,
+this character will be the one to do it.
+Uh, for our last skill selection here,
+perception is pretty useful for this
+character with stealth and slight of
+hand as well because you can be the the
+trapfinder. So, being able to see those
+yourself can be pretty nice. Or you can
+put it into performance in order to um
+for flavor reasons. Either way is
+totally fine.
+Also, of course, we have to pick an
+instrument for this character cuz you
+can't be a band if you don't play the
+right instruments. I'm going to say that
+this is going to be our liar player
+because this is a nice quiet instrument.
+It's always the quiet ones you have to
+watch out for. They'll get you
+at level two. This character is taking
+it second level of bard. And like all
+level two bards, it gets song of rest.
+One of the great things about this party
+is that we get seven uses every day of
+our short rest abilities, including all
+of our inspiration features when we get
+um font of inspiration at bard level 5.
+So, we can keep going for almost an
+indefinite length of time continuously
+using all of our powerful abilities
+thanks to every character having song of
+rest. We also get another spell and the
+spell that we're going to take is a
+slightly odd one for this character.
+We're going to pick up charm person.
+Now, normally this is a very weak spell
+overall, but there are some weird corner
+cases for this party because we have a
+glamourbard with Mantle of Majesty, and
+enemies who are charmed automatically
+fail the saving throw against Mantle of
+Majesty. Being able to charm with this
+character to make that character's
+control uh have no save can come up in
+some weird corner cases. It won't be
+that frequent, but it um is a more
+useful uh spell for this character than
+it is for just about anyone else. And
+this character will mostly be using
+archery attacks rather than casting
+spells. So, term person actually comes
+up here, which is kind of neat.
+At character level three, we get to
+choose our bard subass, which of course
+for this character is the college of
+swords bard. Uh, swordsbard effectively
+does double damage, especially in this
+party build because we can use slashing
+flourish with our bows in order to fire
+two attacks for the price of one as long
+as we have an inspiration die. This uh
+character will always have inspiration
+dice, at least once we hit level five
+because we have Song of Rest on every
+party member. So, as soon as we can
+refresh our inspiration dice on a short
+rest, we can use this on every single
+attack and effectively double our damage
+output without spending any resources.
+So, this character will just be
+obliterating encounters. Even before we
+hit level five, it still is a huge boost
+to our damage output. We also get a
+level two spell and that's going to be
+hold person. This character is going to
+be our band of the mystic scoundrel user
+if we are using that item. And so taking
+enchantment spells and control-based
+enchantment spells is very important.
+And then also hold the person is
+especially good for this character
+because we're making weapon attacks and
+you get automatic critical hits. So it
+can let you lock down an enemy and then
+obliterate them with double automatic
+critical hits as long as you fire your
+bow from within 10 ft. We also get a
+fighting style here and we're going to
+take two weapon fighting. Two weapon
+fighting is good because there are parts
+of the game where you're going to be
+using a pair of hand crossbows early on
+before you get um the Titan string bow
+and the uh or the Deadshot later. And
+there may be points in the game where
+you prefer a pair of hand crossbows for
+specific encounters and dueling doesn't
+do anything for us. So two weapon
+fighting is effectively free. Uh, we
+also get expertise in two skills, which
+for this character are going to be
+slight of hand and stealth, making us um
+an ideal lockpicking character and able
+to stay in stealth and kill enemies
+without them even noticing that we're
+there, especially once we get access to
+greater invisibility later on. Finally,
+we can uh replace a spell. And although
+we've talked about how charm person will
+be useful for this character just to
+keep our character as strong as possible
+at low levels, we are going to swap it
+out for cloud of daggers. Though we'll
+pick up charm person later on, but cloud
+of daggers is too good, especially
+because we can have four characters with
+it and can stack lots of cloud of
+daggers and just wipe out whole
+encounters just by casting that with no
+die rolls required.
+Character level four, we get to pick up
+another cantrip. And the cantrip that
+we're going to pick here for this
+character is light. It's just another
+useful utility cantrip. We're always
+going to want some party member to have
+that. And then for our spell selection,
+we're going to go back and grab charm
+person. Uh what spell we pick here
+mostly doesn't matter because our other
+spells are going to be more important.
+So let's pick this up for the very minor
+use cases that it has. And then we're
+going to also pick up another feat. And
+the feat that we're going to take is
+going to be sharpshooter. Of course,
+this is an archery build. Sharpshooter
+increases our damage massively. And so
+even though this will make our chance to
+hit a little low in the a little bit
+lower, um we will have lots and lots of
+ways to offset that because we have
+inspiration from our allies. Um and
+we're [clears throat] going to have
+bless and everything available. So this
+character will still be hitting its
+attacks and this will increase our
+damage enormously.
+At bard level five, we get third level
+spells and we also of course get font of
+inspiration, which makes our bic
+inspiration come back on a short rest.
+So now we can use our swordbard
+abilities all the time. Uh for our spell
+at this level, we're going to take
+hypnotic pattern. This character will
+usually want control spells. We don't
+need spammable combat spells like glyph
+of warding, but we can often start a
+fight by casting something like hypnotic
+pattern and then making our ranged
+attacks. And then also later on, this is
+of course an illusion spell for the band
+of the mystic scoundrel.
+Level six, we get extra attack because
+we are a swords bard. So again, doubling
+or rather quadrupling our damage output
+from a single attack because each of
+those attacks can also be a slashing
+flourish. Uh and we get an additional
+thirdle spell. In this case, we're going
+to take fear, another bonus action
+castable spell for the band of the
+mystic scoundrel.
+At character level seven, we want to
+increase our damage even further. And we
+have extra attack from bard. So now it's
+time to multiclass. We're going to take
+a level of fighter here, which gets us a
+fighting style. And that of course gives
+us archery fighting style. This will
+help offset the attack penalty from
+sharpshooter while also um giving us
+longbowow proficiency, which lets us
+swap off the gloves of archery if we've
+been using those for longbowow
+proficiency up to this point. uh and
+increasing our damage output
+commenurately. At level eight, we're
+going to take a second level of fighter
+and that gives us action surge. So now
+this character can make eight attacks in
+the opening round of combat essentially
+because we get two turns with extra
+attack and each of those can be uh a
+slashing flourish, which means that we
+can fire an absurd amount of attacks
+downing enemies before they ever get to
+act.
+Having gotten action surge, we're going
+back to bard. We want more inspiration
+dice and of course we want to get higher
+level spells and eventually magical
+secrets. Um, so we're going to go ahead
+and take a spell selection here. And for
+our level four spell, we're going to
+pick up confusion. This is another spell
+that's usable with the band of the
+mystic scoundrel and is very useful for
+this character to have. We'll have a
+different character cast greater
+invisibility. If we want this character
+to be invisible, you would rather have
+somebody else concentrating on that. So,
+no need to take it for the sword bard
+themselves.
+Character level 10, we're taking our
+eighth level of bard, and we get an
+additional spell. Here, we're going to
+go back for invisibility. This is both a
+useful utility spell, although we do
+have it elsewhere in the party already,
+but if uh once again, you're using the
+band of the mystic scoundrel, the
+ability to cast this as a bonus action
+can be invaluable as a defensive tool.
+We also get an additional feat. And here
+is where you have to actually make a
+decision. If you are using the gloves of
+dexterity, then you can go ahead and
+pick up alert. Um, the gloves of
+dexterity will let you replace your
+dexterity it with uh the ability to have
+alert. If you would prefer not to use
+the gloves of dexterity on this
+character and instead invest initiative
+gear for this character, you can take an
+ability improvement and boost your
+dexterity. I think that the best way to
+build this character usually is going to
+be to respspec around this point. use
+the gloves of dexterity to replace
+having natural dexterity. Um, and that
+will also allow you to raise your
+constitution higher and your wisdom
+higher. And then pick up alert so that
+you're still always going first.
+At character level 11, we get our ninth
+level of bard, which lets us, of course,
+pick an extra spell. And the spell that
+we're going to pick here is hold
+monster. It's big hold person, which is
+extremely useful for this character.
+Again, you're one of the best characters
+at casting these hold spells in the
+entire game. So, the ability to cast
+both of them is very important.
+And then finally, at bard level 12 or
+character level 12, bard level 10, we
+get to add a bunch more things to our
+character, including magical secrets.
+So, firstly, we get to add uh two
+expertise into skills. We're just going
+to put it into athletics and perception
+or whatever skills you've decided to
+boost for this character. We already
+have the really important one, slight of
+hand and stealth already with expertise.
+We also get an additional cantrip. So,
+we're going to take true strike to annoy
+people in the YouTube comments. Then, we
+get an extra spell selection here. Um,
+at this point, you should have a pretty
+good sense of the gaps in your party,
+but you can go back and grab any
+illusion or enchantment spell. Even
+greater invisibility can be pretty
+useful for this character. Uh, or you
+can just pick up something that you feel
+like you might want as a utility spell
+available. Something like silence can be
+useful to have on multiple characters in
+the late game. More importantly though,
+we get two magical secrets. And this is
+where we get a ton of our additional
+power level. Um because this character
+can take command, another enchantment
+spell that we can bonus action cast. If
+you aren't using the band of the mystic
+scoundrel on this character, then you
+don't need to take command. But if you
+are using that combo, then this is by
+far the best spell that you can pick up
+cuz it will let you bonus action lock
+down entire encounters. And then for our
+second spell, we're going to take
+banishing smite. Banishing smite just
+gives us the option to deal a bunch of
+additional damage when we really need
+to. Um, and so this character can have
+even more burst damage available with
+its weapon attacks using this spell. For
+items for this character, let's start
+with our weapon. Of course, this is an
+archer build, so we're going to start
+the early game with the Titan string
+bow, plus either using an elixir of hill
+giant strength every day or carrying the
+club of hill giant strength as our melee
+weapon. If you use an elixir of hill
+giant strength, then you can't use a
+blood lust elixir if you're using the
+club of hill giant strength. You can use
+a blood lust elixir, though your damage
+bonus is very slightly lower. If you're
+finding that you're having trouble
+hitting your attacks in the late game,
+you can also swap to the deadshot, which
+gives you extra critical hits and more
+accuracy. I tend to prefer this in the
+late game because uh hitting your
+attacks is really important and you do
+plenty of damage, but both of these
+setups will be really strong on into the
+end game. If you're playing a character
+that doesn't have longbowow proficiency,
+you can use the gloves of archery in
+order to get longbowow proficiency. And
+then when you multiclass into fighter,
+that'll give you long bow proficiency.
+And then you can swap to the gloves of
+dexterity. At that point, you'll want to
+respspec your character to remove all
+these points from dexterity to increase
+your constitution and wisdom. Um you'll
+just go up to 16 con and 14 wisdom. The
+uh an alternative setup to that is to
+raise your dexterity. That means
+skipping out on alert and then you can
+take the hell dust gloves instead as
+your uh glove setup. But the gloves of
+dexterity setup is typically going to be
+stronger because it lets you have higher
+initiative and higher hit bonus and
+everything alongside that. For our armor
+for this character, the early game is
+going to be the graceful cloth. We want
+high dexterity to hit our attacks,
+especially once we first get
+sharpshooter. And then once we have
+respect to use the gloves of dexterity,
+we're going to swap to um any light
+armor up until the point where we get
+the medium armors that have uh full AC
+bonus. So the armor of agility or this
+character will also wear the ballist
+armor. You could put it on a melee
+character for this party, but there are
+better armors for those characters. So
+just moving this character to 7 ft away
+from the enemies if you are using the
+ballist armor in this run which is not
+necessary but it will increase your
+damage massively if you do that early
+game for your helmet. The marksmanship
+hat gives you extra bonuses to hit. Very
+important of course. And then late game
+it is almost impossible to beat the
+power level of the helmet of arcane
+acuity. This character makes tons of
+weapon attacks and each slashing
+flourish double counts for the helmet of
+arcane acuity. So, you'll stack up save
+DCs extremely high and can then use your
+bonus action to cast your illusion or
+enchantment spells. And all of those are
+control spells. That's why we skewed our
+um skewed our spell list so heavily
+towards those spells. As a bonus action,
+this is an extremely well-known and one
+of the most powerful combos in the
+entire game. For our melee weapons for
+this character, the knife of the under
+mountain king gives us additional
+critical hit chance. And rap city in the
+late game just increases our chance to
+hit and our spell save DCs even further.
+So enemies simply will not be able to
+avoid failing saves against our spells
+as well as also increasing our damage.
+Another combination that we can use on
+this character is the snow burst ring
+combined with the drakethroat glaive to
+use draconic elemental weapon to make
+our bow fire frost arrows. That way,
+every time we hit with a a weapon
+attack, it will also leave an ice
+surface on the ground. And so that will
+add even more crowd control to this
+character. Alternatives to that second
+ring are the strange conduit ring just
+for more damage or the risky ring again
+if you're having trouble landing your
+attacks. The surgeon subjugation amulet
+rounds things out by giving you yet
+another way to paralyze an enemy. Um and
+then any defensive cloak, but I like the
+cloak of displacement for this
+character. You really don't want this
+character to get attacked because they
+are relatively squishy. Um, so having
+high AC in the cloak of displacement can
+prevent that from happening by giving
+enemies disadvantage on attack rules
+against you. Altogether, this
+character's item set is just designed to
+increase your chance to hit with your
+bow attacks and increase your damage
+when you do. Um, so it's a very simple
+build setup. You just build normal
+archery items in order to deal the most
+damage possible. So now we have our main
+ranged damage. Let's pick up some melee
+damage and frontlining capabilities.
+Also, just to remind you, I will be
+linking the full build guides to each of
+these builds in the description below.
+So, if you want more detail on any of
+the builds, definitely go check those
+out. For this character, we're going to
+be building our valor bard. And we
+actually won't be starting with bard for
+this character, but instead we'll be
+starting with a level of warlock. This
+is because we want to tie our weapon
+attacks to our charisma, and hexlade
+warlock will allow us to do that. With
+our warlock level, we can go ahead and
+pick up Eldrich Blast, still an
+extremely useful ranged attack to have
+access to, and Booming Blade. Booming
+Blade massively increases our melee
+damage essentially for free. So getting
+that right from the beginning of the
+game can be extremely helpful. We're
+then going to pick up Hexlade Warlock,
+which lets us use Hexlad's curse for
+additional damage and bind hex weapon to
+allow our weapon attacks to use our
+charisma instead of our strength or
+dexterity. So, we only have to care
+about maxing out one stat for our hex
+blade spells. And remember, uh although
+we only are going to have one warlock
+spell slot cuz we're going to stay as a
+level one warlock for a really long
+time. Um remember that this character is
+part of a bard party. So, we can refresh
+these spells an enormous number of times
+per day with all of our Song of Rests.
+So, we can be pretty spenthrifty with
+these spells. For our hex blade spells,
+we're going to pick up shield, which
+gives us a lot more defensive
+capability. This character will have
+relatively low AC for a and HP for a
+frontlining melee character because, of
+course, we're still a bard. But having
+the shield spell available to a bard, as
+well as Hexlad's medium armor
+proficiency and all of our ways to
+reduce or mitigate incoming damage makes
+this character surprisingly tanky. And
+then we also are increasing its hit
+points with our glamourbard. So, uh,
+having shields gives us a lot of extra
+resilience. We'll also add hex to allow
+us to do extra damage. For our ability
+score selection for this character, this
+is where we'll spend Ethel's hair if you
+are doing that in this playthrough. So,
+there are actually two different
+possible attribute splits that you can
+start with for this character. Uh either
+you can start with 16 starting
+dexterity, 14 constitution, 17 charisma,
+and 10 wisdom if you intend to use
+Ethel's hair on this character, or you
+can start with 16 charisma and 12 wisdom
+in order to have a more uh a higher
+wisdom save if you don't intend to use
+Ethel's hair for this character. The
+difference is that you get alert. This
+character is going to be the recipient
+of our initiative gear or most of it
+anyways. Uh, so it's not mandatory for
+this character, but it does make the
+gear requirements a little bit smoother.
+So using Ethel's hair can boost this
+character's damage output accordingly
+while not giving up anything else. We
+also are going to pick up our skills.
+And because this is going to be our
+highest charisma character, it's likely
+to be your party face. Now, obviously,
+as an allbard party, any character can
+be the party face. Um, but having this
+character do it means that you will have
+uh the highest possible skill bonus in
+the end game. In the early game, it can
+be anyone cuz you won't have increased
+your charisma yet um over 16. So either
+way works just fine. If this is going to
+be your party face, take deception and
+intimidation and then you can pick up
+persuasion when we multiclass into bard
+or get that from your racer background.
+Then at level two, we are immediately
+multiclassing into bard. we now get for
+our cantrip selection vicious mockery
+because of course we're taking that on
+everyone and blade as our main
+frontlining character. We want blade
+ward available on this character for
+when we need to delay enemies for a turn
+causing them to hit a character with
+resistance. It also synergizes very well
+with the extra temp HP that our
+glamourbard will be passing out. For our
+spell selection for this character,
+we're going to be taking healing word
+and dissonant whispers. Again, I think
+having these stacked on everyone is very
+powerful and very synergistic cuz it
+means that anybody can use these. And
+then this character is going to be our
+main party face. So, we'll pick up
+disguise self and speak with animals.
+Obviously, you don't need speak with
+animals if you just want to use potions.
+So, you can swap this out for something
+else like Bane or or um barrier, one of
+those situational debuffs, but just
+having these available on a character
+already is pretty helpful. And our for
+our uh turns in combat, we're mostly
+going to be using dissonant whispers,
+eldrich blast, or attacking with a melee
+weapon. So, we don't need combat spells
+from our first level spells. For our uh
+skill selection here, you can pick up
+persuasion if you didn't have that
+already. And if not, then I recommend
+grabbing insight. Again, as our main
+party face, we want to pick up insight
+so that this character can roll those
+checks well in dialogue. Finally, of
+course, as a bard, we need to pick our
+instrument for this character. And this
+character sets the rhythm of the fight.
+So, I think it's going to be our
+drummer.
+Bard level three gives us song or
+character level three. Bard level two
+gives us song of rest. We also get jack
+of all trades, which makes us okay at
+the intelligent skills, even though we
+didn't put proficiencies into those. Uh,
+and then for our spell selection here,
+again, you can pick up kind of whatever,
+but let's have this character grab the
+utility spells that we think we might
+want. We'll grab Featherfall. We already
+have Longstrider on another character,
+so don't worry about not having it for
+this one yet.
+Level four, we get to choose our
+subclass. And this, we already know, is
+going to be our College of Valorbard.
+So, Valorbard is very useful. You want
+to pass out these BIC inspirations to
+your allies, especially your archer
+who's going to be making um who who can
+use the extra armor class to avoid
+taking hits. But the ability to use
+combat inspiration to increase the
+damage of your archer or basically give
+the shield spell to your allies is
+incredibly powerful and makes this uh
+this party again significantly more
+resilient than you would otherwise
+think. between cutting words and combat
+inspiration. Enemies will be making
+attacks at much lower numbers than they
+would be on paper, so they will miss you
+very, very frequently. We also get level
+two spells here, and we're going to pick
+up cloud of daggers. That is the ability
+to to concentrate on this while also
+making weapon attacks is again one of
+the things that makes this character
+extremely powerful and this party
+extremely powerful. And then we also get
+expertise into dialogue skills uh or
+into skills which we're going to pick up
+deception and persuasion so that we can
+be as good at as possible at dialogue.
+Level five, we're taking our fourth
+level of bard and we get an additional
+cantrip. So here we are going to pick up
+friends. Uh this character is going to
+be our main party face. We haven't
+needed friends up to this point. I think
+having blade ward is a little more
+important early on. You can also swap
+friends and blade ward if you feel like
+you really need it in the early game.
+Um, and then we also get another second
+level spell. Uh, just taking
+enhancability on this character cuz
+again this is going to carry most of our
+utility spells for out of combat since
+our spell slots are rarely going to be
+used in combat. for our feet selection
+for this character at level uh at this
+level. If you're using Ethel's hair and
+have the additional charisma um that
+that will give you, then you're going to
+take alert. If you're not using Ethel's
+hair, then you're going to pick up an
+ability improvement here and boost your
+charisma. Just to keep things smooth,
+I'm going to be showing the nonhair
+version of the build, but um the version
+of the build that's using Ethel's hair
+to gain an additional point of charisma
+will have alert here and thus have
+significantly higher initiative at this
+point in the game. Either way, you can
+build this character and still have it
+be extremely effective.
+At bard level five, we get font of
+inspiration. So again, our valorbard
+inspirations are much much more
+frequently available now. And we also
+get third level bard spells. Uh for this
+character, we're still going to pick up
+hypnotic pattern because concentrating
+on a powerful control spell um can still
+be really good for this character. Uh
+and you will concentrate on a powerful
+control spell like hypnotic pattern and
+fear, which we'll grab next level and
+then just make melee weapon attacks with
+the rest of your turns in combat.
+Speaking of level six, we also get extra
+attack as a valor bard. And so now we
+can fire off two attacks. They will be
+hitting very uh frequently because we're
+using our charisma for that and doing
+tons of additional damage because we
+have booming blade and also a lot of
+additional combat steroids from our
+items, which will make our weapon
+attacks do a significant amount of uh
+melee damage while also having the
+support and control spell casting
+available to this character. Speaking of
+control spell casting, fear is a nice
+control spell for this character because
+the main downside of this is that it
+only has a 30-foot range. Since this is
+a melee character, we're going to be
+within that range pretty frequently. So,
+fear can be very useful for us as well.
+Bard level seven, we get fourth level
+spells. And for this character, I like
+having freedom of movement. This is
+often going to be your character who is
+least targeted by enemies because they
+have the uh heaviest armor and highest
+armor class typically. Um so having
+freedom of movement to lock to take
+enemies out of stun or take allies out
+of stuns if they happen to get uh
+trapped in a stun can be very helpful
+for this character. So you can snap your
+allies out of stuns. And again, we just
+want utility spells since our spell
+slots are less um valuable than those of
+our party members.
+Level eight, we get our second feat. And
+whether or not we are using the um
+Ethel's hair version of the build, we're
+just going to max out our charisma. We
+always want to get this as high as
+possible. And we are also going to pick
+up another spell. You can go back for a
+a utility spell from earlier levels if
+you feel like there's one that you're
+missing. Uh but what I like to grab on
+this character at this point is just
+plant growth. Plant growth is a
+non-conentration control spell that's
+useful in some circumstances. It
+combines well with hunger of Hadar,
+which we have on a different character
+as well. So, this character can make uh
+tremendous use of that.
+Character level 10, we're taking our
+ninth level of bard. And here, we're
+still going to grab hold monster. There
+just aren't other bard spells that you
+really need at uh from fifth level
+spells. And a second copy of hold
+monster can be really useful in some
+encounters. Sometimes you miss with your
+arcane acuity hold monster or you need
+to hit multiple enemies in the same
+turn. So having another character
+capable of casting that can be really
+strong.
+And then of course at bard level 10 we
+get a ton of stuff cuz bard level 10 is
+one of the most uh heavily stacked
+character levels in the game. So
+firstly, of course, we're getting our
+cantrip and once again true strike just
+to keep irritating people in the
+comments. We also get expertise into
+more skills. So we can fill out our
+dialogue skills. We can take expertise
+in, let's say, intimidation and insight.
+Now we just have expertise in every
+important dialogue skill. Um, we also
+get another fifth level spell. And for
+this character, you can go back and take
+earlier levels of spells. So you can
+grab another uh copy of hold person if
+you're finding that you need more casts
+of that. It is still very good on this
+character even though we can't bonus
+action cast it because again the
+automatic critical hits work for this
+character just as well. So you can pick
+up something like that. For our magical
+secrets, this character is likely to be
+uh using its reaction for other things.
+So we're going to put counter spell on
+somebody else. Um, but you can still
+take another copy of counter spell if
+you feel like you really need a third
+copy. But what I like for magical
+secrets on this character in this party
+build is to take Conjra Elemental. This
+is one of our characters that gets sixth
+level spell slots. So having the Conjra
+Mermadon is incredibly strong for us.
+And then also Spirit Guardians. Spirit
+guardians for a melee character gives us
+a whole extra dimension to our
+character. We can concentrate on this in
+every encounter for massive damage and
+stack up radiating orb. So, this
+character is always going to want spirit
+guardians. If you really want another
+counter spell, you can replace conjur
+elemental, but I prefer to have this
+setup for this character. It's the
+strongest in the end game.
+And finally, a character level 12, we
+get our sixth level spells. And the one
+that we're taking from Bard is, of
+course, Otto's Irresistible Dance. Um,
+this character won't have the highest
+save DCs in the game, but the ability to
+cause an enemy to lose a turn with no
+save at all is incredibly strong for us.
+We will also uh this character is very
+likely to be hasted either by a party
+member or by drinking a potion of speed.
+So, you can cast autos and then still
+make weapon attacks as well. Um, and you
+can refresh your sixth level spell slot
+after summoning a Merurmodon using one
+of the the spells or abilities that lets
+you refresh your spell slots and then
+still use autos in later fights. So, uh,
+incredibly powerful tool for this
+character. Items for the Valor bard are
+actually very simple. We pretty much
+just want defensive items because this
+character is going to be receiving the
+brunt of enemy attacks and so we need to
+stay alive through that. And of course,
+we also want to debuff enemies and use
+synergy items with the fact that we're
+doing tons of thunder and radiant damage
+in melee range. So, we can use those to
+lock down enemies and make them even
+more incapable of hurting our party.
+This is where this party gets so
+ridiculous is enemies will be taking
+huge penalties to every one of their
+attack roles. And if they ever do manage
+to land an attack that's going to hit,
+we have uh combat inspiration from the
+Valorbard, cutting words from the
+Lorebard, shield on the Valorbard, and
+various other reactions that just stop
+enemies from ever doing anything. So the
+fact that enemies will be making all
+these attacks with penalties, with
+disadvantage, they'll be knock a lot of
+the time means that they just won't be
+able to affect your party at all. Uh
+looking at our items here. So firstly,
+of course, we are going to be the
+Furaloo carrier. If you want to use this
+weapon, this is the best weapon in the
+game, and it's a bard themed weapon, so
+makes sense to have it on the melee
+bard. And this is a great carrier for
+it. You're always going to be up in the
+mix. So you can uh use shriek on your
+enemies very effectively. And um you are
+going to hit with your attacks pretty
+reliably regardless of only having a
+plus one weapon. Uh, so it's very strong
+on this character. This is also a good
+character to use Saloon's spear of
+night. Uh, having a plus three weapon of
+course has its advantages and the
+moonote action is very good for this
+party as well. Difficult to rain on on
+all of the enemies. Um, is going to
+combine extremely well with your control
+spells. So, it works very well to have a
+have a character using Salun Spear of
+Night if you took the story option that
+gives it to you. In addition to that,
+this character is going to have the
+Sentinel shield if you don't have Alert.
+If you do have Alert, you can use a
+different shield like Viconia's walking
+fortress or something like that. Just
+anything that gives you the maximum
+possibility, the the maximum defensive
+capability. But the Sentinel shield, if
+you are the non-alert build, is going to
+be what lets you compete on initiative.
+So, if you're not using Ethe's hair,
+this is kind of mandatory. For our armor
+selection, we want uh the potent robe if
+we want to focus on damage because this
+does boost the damage both of our
+Eldrich Blasts and also our booming
+blade attacks. So, the potent robe is
+going to do a bunch of damage. For more
+defensive options, you can use something
+like the flame enameled armor for even
+more initiative. Very solid medium
+armor. This character is also a good
+candidate for the Heldusk armor in the
+end game um because you still have
+proficiency with it and it just gives
+you really high armor class and
+everything. In the late late game though
+once you get access to spirit guardians,
+you'll probably want to swap back to the
+luminous armor because radiating orb is
+just that powerful and the luminous
+armor allows you to apply it much more
+readily. So, the luminous armor's
+radiant shock waves, which inflict
+radiating orb, will work with your
+spirit guardians that you got from
+magical secrets. You're then going to
+combine those with the callus glow ring
+in order to do radiant damage on every
+single attack and the coruscation ring
+to go with your spell damage on your
+Eldrich Blasts and everything for even
+more radiating orbs. Combine that as
+well with the boots of stormy clamor and
+the gloves of belligerent skies, which
+you're going to use all game. These are
+more the radiating orb stuff is only
+once you get spirit guardians. But these
+reverberation items are best in slot all
+game. Uh because booming blade does
+thunder damage as does far lou. So you
+can stack huge amounts of reverberation
+on enemies with every melee attack and
+you'll be leaving enemies kneeling at
+your feet no problem. The ring of
+spiteful thunder makes a good uh
+accompaniment to those until you want to
+switch to the radiating orb items in the
+later game. This character wants really
+high charisma, so you'll probably use
+the birthright hat just to boost your
+charisma. And you can also use the
+amulet of greater health. That will give
+you a reasonable health pool, which is
+something that this party of course is
+missing. Since we're all bards, we have
+relatively low health characters. Having
+the amulet of greater health on your
+main melee character gives you a
+tremendous amount of additional
+survivability. An alternative is is the
+spine shutter amulet for even more
+control with your Eldrich Blasts at
+ranged. And you also, of course, are
+going to want defensive items like the
+ring of protection and the cloak of
+protection to keep this character alive
+while they're up in melee. For our third
+character, we already have our main
+melee damage dealer and our main ranged
+damage dealer. So, let's build our main
+offensive spellcaster. This character
+will provide a lot of our control
+effects as well as reactivity to what
+enemies are doing and of course is going
+to be our loreb. For this character, we
+are starting with a level of bard,
+although we'll be multiclassing somewhat
+heavily. Um, but for our first level,
+it's bard all the way. And for our
+cantrip selection, we're going to be
+taking vicious mockery and minor
+illusion. This character will have
+vicious mockery, of course, cuz we're
+doing that on everyone. And minor
+illusion to group enemies so that we can
+drop them with AoE spells, which this
+character will also be very capable of
+casting. For our uh level one spell
+selection, we're again taking dissonant
+whispers and healing word like we are on
+everybody. This character will also use
+healing word even better because of our
+cleric level that we're going to be
+taking. And then for our additional
+spells, we're going to take Thunderwave
+as a uh spellcaster. This character does
+not want to be in melee range with
+enemies that frequently. So Thunderwave
+can push you push them away if you end
+up in a really bad situation. And then
+we'll also take sleep for the early
+game. Sleep is a really nice tool to
+have in the very early game and
+especially if you start with this as
+your main character on the Nautiloid.
+Um, having sleep can be extremely
+helpful. Later on, we'll respspec this
+once it falls off at later levels. For
+our ability score selection for this
+character, we're going to do a pretty
+standard attribute split of 16
+dexterity, 14 starting constitution, and
+12 starting wisdom.
+um as well as of course 16 charisma for
+our spell selection. But importantly,
+this character will also be using
+intelligence for spell casting. And
+we'll use the warped headband of
+intellect for this. So as soon as we get
+that item, we'll be boosting our
+intelligence up to 17 or for an
+effective plus three bonus on our
+intelligence without having to spend any
+attributes on it. We also get extra
+skills since this is going to be a high
+intelligence character. I like having
+persuasion anyways because then if there
+is a dialogue where you need the
+intelligent skills, which is mostly what
+we're going to be taking with our skill
+selection here. So you can take like
+Arcana history and investigation for
+example on this character. You can still
+use persuasion. Um if you want this
+character to take point on dialogue as
+opposed to our other characters, we'll
+have slightly lower charisma than the
+hexblade valorbard. Um, so usually
+you'll want that character to make the
+dialogue checks, but for dialogues where
+there are knowledge checks, this
+character can substitute, which I think
+is kind of fun for both a the theming of
+being a band, they actually help out and
+support one another. And also for an
+adventuring party where different
+characters have different
+specializations as opposed to having one
+character take every single
+conversation, which is the normal way to
+do it. Uh, finally, of course, we get
+our starting instrument. And I think
+we're going to have this character play
+be our loot player or luteier I think is
+the the word. Um because this character
+is really going to be the main driving
+melody for the band here. Uh since you
+are going to lock down enemies and leave
+the rest of your party to clean up.
+At character level two, we're
+immediately going to multiclass and
+we're going to take a level of cleric.
+There's a few very important cleric
+spells that we want available on this
+character. Um, and it makes sense for
+our main spellcaster to grab them. Also,
+our levels are less uh constrained than
+our other party members. So, we can fit
+the level of cleric in for this
+character. For our subclass, for our
+cleric, we're going to take life domain.
+Mostly, we're in cleric because it gives
+us uh the powerful utility spells that
+cleric gets, but it also gets us heavy
+armor and shield proficiency on a
+lorebard who otherwise wouldn't have
+great defensive options. And there's
+some really nice heavy armors that this
+party can use. So, a level of life
+cleric gives us access to those as well.
+It also gives us bless as an always
+prepared spell which effectively gets us
+one more spell preparation. Um, this
+there's several cleric spells that we
+want access to on this character and
+bless is definitely one of them. So,
+having it as an autoprepared spell can
+be very useful. Disciple of life is also
+pretty nice with our healing word
+ability as well. For our cantrip
+selection, we're going to be taking
+guidance. One of the really important
+things that we want from a cleric level
+is the ability to take guidance.
+Resistance as well is really useful in
+some story events and dialogue checks.
+And then for our last uh one, we can
+take a number of different options here,
+but can be useful for the times where
+you want this character to sub in and be
+your party face. Um, for our cleric
+abilities, these are kind of bugged, so
+you shouldn't get these, but in the
+current version of the game, when you
+multiclass into cleric, you get two more
+skill proficiencies. Uh, and so that'll
+let you pick up religion and medicine.
+So, you get even more of the
+intelligence skills covered now. Um,
+which is obviously awesome for the party
+member that's going to do that. And then
+for our prepared cleric spells, we're
+going to go ahead and pick up sanctuary.
+and we'll grab create or destroy water.
+These are two extremely powerful utility
+spells and uh defensive spells. And so
+very nice to have them available for one
+of our party members. Um so this
+character can be that party member in
+addition to bless which we already get
+because we're a life cleric.
+At level three, we're multiclassing yet
+again and we're going to take a level of
+wizard. This gives us a lot more
+offensive capabilities and also gives us
+a bunch of the utility spells that this
+party is otherwise missing. It also,
+since we've taken three class, three
+caster levels, allows us to learn level
+two wizard spells from scrolls. So, we
+haven't really given up a lot of combat
+capabilities. Um, even though we've
+multiclassed really heavily in the early
+game. Now, of course, you'll want the
+warped headband of intellect in order to
+cast wizard spells, but you can prepare
+and cast at least one wizard spell at
+this point, probably cloud of daggers,
+depending on what scrolls you've found.
+So, you can multiclass into wizard. You
+can also delay taking this wizard level
+until you have the warped headband if
+you prefer to do that and take more
+levels of bard instead, but this is the
+most natural uh level progression for
+the character. For our wizard cantrips,
+we're going to take uh firebolt and ray
+of frost and bone chill. That gives us a
+ton of access to the most important
+cantrips in the game. Uh, of course, ray
+of frost is really helpful for freezing
+puddles, firebolt for setting fires, and
+bone chill for preventing enemies from
+healing and giving undead a disadvantage
+on their attacks. for our spell
+selection at this level. Of course,
+again, this will depend on what you've
+learned from uh scrolls up until this
+point, but the really important ones to
+pick are shield, which there is no
+scroll for, so you need to make sure you
+have this. And find familiar, there's
+also no scroll, and it's a pretty nice
+boost to your party. Uh, in addition to
+that, getting enhanced leap and mage
+armor is really important. Magic missile
+is a really important spell to have, and
+chromatic orb is a really important
+spell to have. Obviously, these other
+ones will depend a little bit on what
+scrolls you have found up until this
+point, but these are the most important
+spells to keep an eye out for. And then
+at level two, you're going to want
+spells like cloud of daggers and flaming
+sphere. Just good combat spells that
+don't require you to have super high
+intelligence in the early game.
+At level four, we're going back to bard.
+And this, of course, gets a song of
+rest, so we can again be even better at
+helping out our allies. And we get an
+additional spell selection here. You can
+take kind of whatever. Another copy of
+Longstrider just to save you some clicks
+can be pretty useful. Um, at this point,
+these are just for utility spells since
+our main offensive spell casting is our
+wizard spell casting.
+Then at level five, we get to take our
+bard subclass. And of course, our
+subclass here is the College of Lore.
+This makes us better at landing these
+spells because we can reduce enemy
+saving throws and we can also reduce
+enemy attack roles which will let us
+protect our allies even more. We also
+get expertise into additional uh skills.
+So again, this character could be your
+party face if you want to pick up more
+skill selections in dialogue skills and
+grab expertise in those. You can also
+take expertise in things like arcana and
+history. Um really this is kind of
+seasoned to taste. I also recommend
+picking up acrobatics for this character
+as well, just to make you a little bit
+harder for enemies to shove around. We
+also get level two bard spells. At this
+point, you can pick up uh any spell
+that's not available to a wizard.
+Typically, utility spells that you
+haven't picked up. Um, silence is nice
+cuz there's no scrolls of this and you
+always want to have silence available to
+a party.
+Bard level four, we're going to pick up
+another cantrip here. And for this
+character, this mostly doesn't matter at
+this point if you're having this
+character lead into being your party
+face more. You can pick up friends or
+you can take blade ward just as an
+emergency panic button if this character
+gets surrounded by enemies. For our
+spell selection, we're going to take
+cloud of daggers just to take some
+strain off our wizard spell prepared
+slots. At this point, we should have
+four of those, but there's probably more
+than four wizard spells that you want
+since you now have access to third level
+wizard spells as well. For our feet,
+we're going to take alert so that this
+character can always go first.
+Bard level five, we get third level bard
+spells. And for this character, we're
+going to pick up hypnotic pattern.
+Again, a really powerful control spell
+to concentrate on. Something that you
+might be wondering about too is how this
+character can function with um
+relatively low charisma and
+intelligence. We're only going to have
+plus three bonuses. This character is
+going to stack all of our save DC gear.
+So, these spells are still going to land
+incredibly reliably. We'll also replace
+one of our weaker spells from lower
+levels uh that we no longer need. In
+this case, probably sleep. And we're
+going to pick up glyph of warding. This
+is going to be our main non-conentration
+combat spell because uh it does great
+AoE damage and also AoE control.
+Then at bard level six, we not only get
+another spell that we another uh third
+level bard spell that we can pick up and
+you can go back for other control
+spells, things like heat metal at this
+point. Um this again is going to depend
+quite a bit on what wizard scrolls
+you've found and which you are using
+most often. The things that this
+character is going to concentrate on
+most often are going to be haste,
+hypnotic pattern, uh or fear. And the
+things you're going to be casting most
+often with your spell slots are going to
+be chromatic orb, magic missile,
+lightning bolt as your main damage
+spell, and glyph of warding as your
+other main damage spell. So, you can mix
+in other control spells kind of to taste
+depending on exactly what you feel like
+your party needs. Heat metal can be
+useful in some encounters. The main
+other thing that you get, of course, at
+this level is magical secrets, which
+gives us incredible control options. And
+this character, of course, is going to
+pick up counter spell. This is going to
+be our main counter spell user for the
+end of act two and the beginning of act
+three when it becomes really important
+to have a copy of counter spell. It is
+true that this party delays counter
+spell by a a few levels compared to
+normal. So you will have shields down
+for a little bit there. Um but that's a
+small price to pay for the power that we
+otherwise get. In addition to that,
+you're going to pick up hunger of Hadar.
+This is yet another one of the very best
+spells in the game. Not available to
+wizards or bards normally. And so this
+character can pick it up from magical
+secrets and have a game-winning uh spell
+to concentrate on in most encounters
+where it's good.
+Character level nine, we're taking our
+seventh level of lore bard and we now
+get fourth level bard spells. Um this
+character is going to pick up confusion.
+Again, this is going to be our main
+offensive spellcaster. So we still want
+uh control and lockdown spells available
+to us. And then at bard level eight, we
+are going to get yet another lockown
+spell. We can go back for fear. This is
+available as a wizard spell, but having
+them as bard spells again uh frees up
+your wizard spell preparation slot, so
+it can still be useful to take spells
+that you can learn as a wizard
+regardless. For our feat selection here,
+uh we actually have a couple options.
+You can take an ability improvement to
+boost your charisma. That'll let your
+bard spells land more frequently. Also,
+if this character is doing dialogue,
+then that'll make it be make them better
+at it. Another option, of course, is to
+take warcaster. We're going to be
+concentrating on a spell all the time,
+so advantage on concentration saves can
+be really useful. If you find that
+you're dropping your concentration
+frequently, take Warcaster. Otherwise,
+just boost your charisma. Most of the
+time, the number of defensive abilities
+that your party has should be enough
+that this character doesn't get hit. So,
+you shouldn't need Warcaster. But, it's
+definitely an option if you find that
+you're using it frequently. You could
+also take Heavy Armor Master to reduce
+incoming damage. This is a more niche
+pick, but could let this character sub
+in uh to tank a little bit if you find
+that your party is needing more of that.
+Again, this is going to come down to
+personal play style and exactly what
+order you do the encounters in. But I
+think overall the the most natural and
+best option is just an ASI to boost your
+charisma.
+Then bard level 9, we get fifth level
+bard spells. And here again, the only
+really important one is hold monster. So
+you can pick that up or again you can go
+back for utility spells that you feel
+like you're missing at this point in the
+game. Um this character usually won't
+want to concentrate on hold monster cuz
+your other party members will take care
+of casting that. Being able to paralyze
+three dangerous enemies with three
+different characters is still really
+good. So, uh, can be a nice option to
+have. And finally, a character level 12,
+we get our 10th level of lorebard. And
+again, this is one of the most stacked
+levels in the game. We just get so many
+different things. Expertise in some
+additional skills. So, let's take
+acrobatics expertise, so nothing can
+ever shove us. Um, or of course you can
+take expertise in dialogue skills if you
+are having this character do more of the
+dialogue checks for your party. For arc
+canrip selection, once again it's true
+strike just to uh keep the comment train
+rolling. Spell selection here. You can
+pick up a greater invisibility for your
+archer or if you want to have two copies
+of this. We'll already have this on the
+glamourbard available, but a second
+greater invisibility can let two of your
+characters start combats without enemy
+retaliation. But of course, what we're
+really here for is the magical secrets.
+For these, we have two options. We can
+either focus on spells that are not
+available to wizards in order to expand
+our spell list, or we can focus on
+wizard spells to again ease up our spell
+preparation requirements cuz we still
+only have four prepared spell slots as a
+wizard. Uh I tend to prefer the latter.
+It just makes this uh this character
+play out much smoother. But some good
+options include spike growth, not a
+wizard spell, but still really good even
+in the very very late game. Sletorm
+you're going to be using all the time.
+Haste you may be casting pretty
+frequently. Conjur elemental you'll be
+using every day. Um wall of fire you'll
+be using often. Lightning bolt. So
+overall my favorite ones to pick here
+are lightning bolt and condra elemental
+just to save the spell preparation
+slots. But you can uh or uh misty step
+as well is another great option. Um, but
+you can pick what you're using based on
+how frequently you're using the spells
+to stop yourself from having to prepare
+specific things. Items for this
+character are extremely simple. We only
+care about two things. Defensive
+abilities, so just anything that makes
+our character tankier and spell save DC.
+This character is going to be an
+offensive spellcaster and basically a
+pure uh spellcaster. So, we just want
+every item that boosts our save DC.
+Taking a look at those items, uh, of
+course, the first and most important one
+is the warp headband of intellect. This
+will allow us to have higher
+intelligence, and so this character can
+now actually use and prepare wizard
+spells. This will also be our
+spell-casting ability for items. So, the
+spells that we're casting for Marahesh
+are going to use intelligence. So, we
+need the warped headband in order to
+keep that going. We also in the early
+game, this character is going to use the
+wondrous gloves. Extra cutting words are
+really good. An extra armor class is
+great. Then in the late game, the hell
+dust gloves, cuz those again give you an
+additional bonus to your spell save DC,
+which is all that this character cares
+about. For our armor, we're going to use
+uh any powerful defensive heavy armor.
+So, the adamantian splint armor in the
+early game, we'll swap that to the
+dwarven splint mail and then eventually
+the armor of persistence. Also, for a
+more offensive take on the build, you
+can go with the robe of the weave in the
+endgame again to increase your spell
+safety. You do give up some armor class,
+but not as much as you would think cuz
+this still has pretty decent armor class
+when combined with mage armor. Um, for
+our shield, we're going to use Ke's
+shield, spell save DC boost, and then
+for our weapon, Marahesh gear in the
+endame as the best endgame uh
+spellcaster weapon with again a spell DC
+boost. and also the ability to cast
+chain lightning once per short rest,
+which remember for this party is seven
+times per day. So that's an enormous
+number of extra chain lightnings. So
+this character's burst damage becomes
+incredible in every single encounter. Up
+until that point, we're going to use any
+staff with a save DC boost. So Mel's
+first staff is the first one of those
+that you get. Probably going to be your
+staff for most of the game. The boots of
+striding prevent us from being knocked
+prone. We have medium armor proficiency
+and this character is going to be
+concentrating on a spell pretty much all
+the time. Uh so the boots of striding
+are great for this character. And then
+uh the amulet of the devout increases
+our spell save DC as do elixirs of
+battle mage's power. If we're using an
+elixir on this character, that's going
+to be the one. And you can see that when
+you add all these save DC boosts up, the
+fact that we have slightly lower
+charisma or slightly lower intelligence
+mostly doesn't matter cuz our save DCs
+are going to be really, really high once
+we stack all of this gear. Anyways,
+finally, the ring of Fay Wild sparks is
+really important as well. It's not
+listed in the tool tip, but this also
+gives you plus one to your spell save
+DCs. It's a pretty bad tool tip error,
+but this uh ring is great for any
+spellcaster, not just wild magic
+sorcerers, cuz it boosts your save DCs
+as well. An alternative option is to use
+a stat item. So, if you're not using the
+gloves of dexterity on your archer or
+you're not using the um the amulet of
+health on your valor bard, then you can
+take higher intelligence and reduce your
+dexterity or constitution appropriately.
+Uh, and then swap the warped headband of
+intellect for the fistbreaker helm for
+initiative and save DC or the hood of
+the weave for the endgame for even more
+save DC. Again, you should be noticing a
+theme here. Finally, important for this
+character to select a bunch of um,
+wizard scrolls. And some important ones
+to look out for are cloud of daggers be
+your most important combat spell in the
+early game. Haste is great for this
+character to concentrate on for uh,
+fights where you don't want to be as
+aggressive. Having haste on your archer
+can easily win you fights. And if you
+have this character hasting them and
+your glamour bard giving them greater
+invisibility, then the archer can just
+solo encounters without enemies ever
+getting a turn. Other important ones are
+things like wall of fire, conjure
+elemental, globe of invulnerability, a
+key spell for the late game, and you
+also get the uh the unique wizard
+spells. So, artistry of war is available
+to this character as well. Finally, for
+our fourth character, we already have
+offensive capability in the form of
+melee damage, ranged damage, and
+offensive spell casting. So, let's add
+some healing and support. This, of
+course, is normally what bards are known
+for is supporting spells, but we've
+actually steered clear of those with a
+lot of our other builds. This character
+is going to take care of them. You may
+recognize this build cuz I've used it, I
+think, in one other full party build. I
+think this is one of the most fun builds
+in the game to play and I really enjoy
+using it and it fits very well into this
+party as well. We're going to start with
+a level of bard for our glamour bard
+here. And for our cantrip selection,
+we're going to take vicious mockery. And
+then for our second cantrip, it mostly
+doesn't matter. You can take dancing
+lights to block poison vents. You can
+take a second copy of light or minor
+illusion or mage hand. Um any of those
+spells are totally reasonable for your
+utility casting for this character. For
+our spell selection, of course, we're
+taking healing word. This is also our
+main healer, so healing word is going to
+be even more important. And dissonant
+whispers for early game lockdown. And
+then we're also going to take cure
+wounds on this character. Cure wounds is
+um normally a very weak spell, but for
+this character actually pretty useful
+because we are taking Druid of the
+Stars. We can trigger our chalice
+healing now either with a bonus action
+by casting healing word or with a full
+action by casting cure wounds. So having
+the versatility to use either action
+type to trigger chalice healing can be
+pretty useful. That's why I like having
+both of those on this character. Even
+though normally cure wounds is a fairly
+weak spell. We can also pick up uh any
+supporting or utility spell for this uh
+character. Featherfall can be
+reasonable. Fairy fire can be
+reasonable. Whatever you didn't take on
+your other characters, this character
+can take care of. For our ability score
+selection, we're again going to take a
+very standard attribute split for this
+character with 16 in dexterity, 14 in
+constitution, 16 in charism, charisma,
+and 12 in wisdom. And for our skill
+selection, this character really doesn't
+need specific skills because we already
+kind of have all of our skills covered,
+but picking up perception and survival
+can be useful. You don't have those uh
+skills available on other party members.
+While survival isn't necessary because
+you can just dig even if you failed the
+survival check. It can save you a bunch
+of clicks and that's really what we're
+focusing on at this point. Then
+acrobatics to avoid being shoved around
+is always nice or you can take
+performance for flavor reasons. Finally,
+for our instrument, of course, I think
+this is going to be our floutist for the
+band. Um, really the supporting
+character, but also secretly the one who
+drives all of the important things.
+At character level two, we're going to
+be taking another level of bard. Now, if
+you've seen me build this character
+before, you'll notice that this is a
+departure from the normal leveling order
+for this build. Um, because usually I
+would get the druid level earlier in
+order to have those utility spells.
+Since our party has a cleric in it
+already with a level of cleric on our
+caster on our lore bard, we don't need
+the druid utility spells as early, so we
+can delay those a little bit to get our
+glamourbard abilities online a little
+sooner. So that's why we're leveling in
+this order as opposed to the other one.
+For our spell selection at this level,
+we're going to pick up Thunderwave.
+Again, this character mostly doesn't
+want to be surrounded by enemies, so the
+ability to push them away can be pretty
+useful.
+Level three, we're choosing our subass,
+which of course is the College of
+Glamour. This gives us Mantle of
+Inspiration, so we can give two allies
+five temp HP. And remember, we can
+repeat this as often as we have
+inspiration dice since we're we have um
+song of rest on every single party
+member. That's going to be massive
+amounts of additional temp HP over the
+course of an adventuring day. This also
+allows us to have enemies uh be charmed
+with no saving throw, which will then
+let us lock them down with Mantle of
+Majesty, also with no saving throw. So,
+this character can do incredibly potent
+lockdown in encounters where enemies are
+not immune to charm and also of course
+can still lock down enemies with Mantle
+of Majesty if they fail their saves,
+which they still have a very decent
+chance of doing. This uh mitigates the
+fact that our party is somewhat squishy
+by giving us a a truly tremendous amount
+of temporary hit points um through
+Mantle of Inspiration. So, this uh party
+is surprisingly resilient between the
+valorbard uh combat inspiration, the
+lorebard cutting words, and the
+glamourbard mantle of inspiration.
+Enemies are just not able to do
+meaningful damage to you, even though
+we're all bards. For our spell selection
+here, again, we're picking a combat
+spell with cloud of daggers. Layering
+multiple cloud of daggers ends fights
+really, really fast. So having multiples
+of these available to cover the whole
+battlefield in them is extremely
+helpful. And then we're going to pick up
+our uh our expertise in multiple skills
+as well. And again, you can pick up uh
+perception expertise. Someone in the
+party should have this. So I like
+grabbing that just to make sure that
+we're passing our perception checks and
+seeing traps pretty easily. Then at
+level four, it's time to multiclass. So
+we're going to go ahead and add our uh
+druid levels here. And this gives us
+shield proficiency and medium armor
+proficiency. So it makes this character
+much much harder to kill. We also get
+druid cantrips. Now we're going to get
+guidance next level from taking star
+druid. So you could pick it up now if
+you want your second copy of guidance
+and then respspec later. But just to
+keep things simple, we're going to take
+thorn whip and we'll take a second copy
+of resistance. Um this gives us just a
+little bit more utility. And if we need
+to react with resistance to one thing
+thing while also casting enhance ability
+or something with a different character
+or not break concentration, then we have
+that option. For our druid spells here,
+we get enhanced leap and longstrider.
+Now, these are already available in part
+to our wizard, but if you haven't found
+scrolls for enhanced leap, then you can
+grab this on this character. And this
+character can also just be the one that
+ritually casts these spells. very
+helpful to have those available.
+Fogcloud is also an option if you're
+using one of uh these prepared spells on
+a different character.
+Then our second druid level and here we
+get circle of the stars. So circle of
+the stars gives us guidance as a cantrip
+of course which is great to have a
+second copy of guidance. Just means we
+can always use guidance even if we want
+to use a different reaction like for
+example an inspiration with another
+party member. Um and we have the starry
+forms. There are three different starry
+forms. So we can take archer for more uh
+ranged radiant damage. Very very
+powerful to have this option available.
+Though usually you are going to use
+dragon over archer um because the damage
+is higher and it's AOE. But either of
+these are great options. You can also
+use radiating orb gear on this character
+in the early game before you put it on
+your valor bard in the end game when
+that character gets access to spirit
+guardians. Most of the time though, this
+character is going to be in chalice form
+because it's going to be your main
+healer and so the free extra chalice
+healing is another great way to keep
+your party members alive. Also, don't
+underestimate uh the the free guiding
+bolts from star maps. Although this
+character only has 12 wisdom, so the
+guiding bolts are going to have a really
+low hit chance normally. There are lots
+of times where enemies are hold personed
+by this party. And uh guiding bolt is an
+attack role, so it will automatically
+hit and automatically crit against an
+enemy who is paralyzed. Since this party
+applies tons and tons of paralyze, these
+guiding bolt critical hits can be huge
+amounts of damage for this character. So
+it can let an otherwise purely
+supporting character do massive critical
+hit damage.
+Then at character level six, it's back
+to bard. This way we can start leveling
+up our glamour bard abilities and of
+course get access to higher level bard
+spells for our cantrip selection here.
+It again mostly doesn't matter. Though
+having blade ward on this character can
+be pretty useful um because again we
+don't want to have this character taking
+a lot of damage. So, if enemies surround
+you, this can be a good panic button.
+And combined with your temp HP from
+Mantle of Inspiration and all of the
+mitigation that other party members are
+providing, this can be extremely
+helpful. For our spell selection here,
+we're going to go ahead and take
+enhancability. This character can take
+more offensive spells, but it's nice to
+have a character that's dedicated to
+picking up the support spells. So, we're
+going to do that for this character.
+Then, we're going to grab alert as our
+feat. you don't actually need massively
+high charisma because we're mostly
+taking supporting spells for this
+character rather than um offensive
+spells that care about having high save
+DC. So picking up alert can be really
+really helpful. Um of so obviously we
+want alert for pretty much every
+character in honor mode, but it is even
+easier to fit it in for this build since
+you don't need super high charisma.
+Bard level five gets us font of
+inspiration. So again, we can now use
+our glamourbard abilities even more
+frequently and also higher level spells.
+Um, this character can use glyph of
+warding because we're probably
+concentrating on other buff spells in
+combat. You can also use plant growth.
+It's kind of on theme for the character
+and plant growth is a nice one to have
+available as well. Utility spells like
+invisibility. We can also replace some
+of our lower level spells if there's one
+if there are ones that you are finding
+you're not using frequently. You can
+start picking those up as well at this
+point.
+Then at bard level six, we get Mantle of
+Majesty. This lets us use command as a
+bonus action once per day. And there's
+no saving throw against this effect. Uh
+for 10 turns straight, we can use
+command as a bonus action. Um and
+there's no saving throw against this
+effect if an enemy is charmed. That's
+why we grabbed charm person on our
+swordsbard and also why mantle of
+inspiration is so good. Enemies who hit
+one of our allies will be charmed with
+no save and then we can hit them with
+mantle of command of majesty with no
+save. Uh this spell also or this ability
+also doesn't have the normal targeting
+restrictions that command has. So we can
+use it on undead. In particular, it's
+nice to get it at level eight because
+then we'll have it for the Keerick fight
+where it's incredibly powerful.
+For our spell selection at this level,
+um we're just going to pick up plant
+growth. Again, this character wants to
+focus on buffing and supporting its
+allies and is mostly going to be
+concentrating on Mantle of Majesty. So,
+you mostly want non-conentration combat
+spells.
+Bard level seven, we get fourth level
+spells. And then here, we're going to
+pick up greater invisibility. Now,
+obviously, this is a really overpowered
+strategy using greater invisibility with
+stealth expertise for your party
+members. Um, but we don't have pass
+without trace, so it's not as abusive as
+this strategy usually is, and it can
+still let you get in a few free hits
+before combat starts. So, it's an
+extremely potent tool for this party,
+especially given how much damage our
+swordbard archer does.
+Level eight, we get another spell, and
+we're going to take freedom of movement.
+Again, we want the ability to snap our
+allies out of stuns if they happen to
+get a stun landed on them. And so having
+freedom of movement to remove stuns can
+be really really helpful. Especially if
+our uh lorebard was concentrating on
+haste, you can use freedom of movement
+to snap them out of to snap the haste
+target out of lethargic if you
+accidentally break concentration on
+haste by casting another concentration
+spell. Or of course if an enemy manages
+to damage you, though admittedly that's
+pretty unlikely. For our feet here,
+we're going to just take an ability
+improvement and boost our charisma. Save
+DCs do still matter for this character.
+Although again, since this character
+doesn't need incredibly high charisma,
+you could also pick up Warcaster on this
+one because um maintaining concentration
+on Mantle of Majesty, maintaining
+concentration on Greater Invisibility or
+other uh concentration spells is still
+really important for this character. So,
+if you find that you're dropping
+concentration frequently, Warcaster is a
+great option. Usually, I think for most
+characters, you're going to want the
+charisma boost, but both of these feats
+are worth mentioning.
+Bard level 9, we get um an additional
+spell selection here. And again, we're
+going to take hold monster. Still just
+super useful to be able to paralyze with
+every single party member. And so, even
+though the safe DCs will be a little
+lower on this character, can still be
+incredibly strong. And then finally at
+um at bard level 10, we get our magical
+secrets as well as a bunch of other
+stuff. So also at bard level 10, mantle
+of inspiration goes up to targeting four
+allies and gives them 11 temp HP each.
+So each inspiration die we spend on it
+is 44 temp HP for our party. Um, and if
+you count the fact that we have seven uh
+uses of our short rest abilities every
+day, all our inspiration dice come back
+on a short rest. Um, I'm not going to
+bother doing the math, but it's a truly
+ridiculous number of temp HP over the
+course of a day. Feel free to do the
+math in the comments. Um, here we also
+get to grab expertise in a couple more
+of our skills. uh which this character
+is not going to be our main skill user,
+so it mostly doesn't matter, but uh
+that's still nice to have. Of course, we
+get to take true strike to continue
+irritating people in the comments below.
+And then we get to go back and grab
+another utility spell from earlier
+levels. Anything that you feel like your
+party is missing, or of course, you can
+get a uh concentration spell like hold
+person, hypnotic pattern, or fear in
+order to have even more access to those
+effects. The really important part
+though is that this character now gets
+magical secrets and there's a lot of
+great options for this character um
+because we are a healer and so there are
+several spells that we can use very
+effectively. Mass healing word is really
+nice to have. This gives us a bonus
+action way to apply all the buff on heal
+items in a single spell cast. And
+similarly, warden of vitality is a
+non-conentration way to give us a bonus
+action heal. Now, I usually am happy to
+just spend a spell slot or healing word
+on this character if I want a bonus
+action heal. So, I'm not usually going
+to take warden of vitality, but it's
+worth mentioning for a healing build
+like this one. In addition to mass
+healing word, I think that the most
+natural second picks are, of course,
+counter spell. This character doesn't
+have great uses for its reaction, so
+usually this is going to be an excellent
+character to use counter spell on. We
+also have six level spell slots, so we
+can counter anything in the game. Um, or
+you could take Condra Elemental for a
+third Mermadon if you really want a
+summon focused build. This is also a
+really strong strategy with Mantle of
+Inspiration because you can put those on
+the Mermadons and you don't care if they
+get hit. So, it's great a great way to
+add extra HP to your slightly squishy
+party as well as charm a bunch of
+enemies. So, either of those make
+amazing picks as well. Items for this
+character are really very simple.
+There's only a few things that we care
+about at all. We want the buff on heal
+items. So, the Hell Rider's Pride, which
+gives Blade Ward when we heal an ally,
+and the Whispering Promise, which gives
+bless when we heal an ally. And then
+later on, we'll swap the Hell Rider's
+Pride for the Reviving Hands in the late
+game because they're just an upgraded
+version of the same item. In addition to
+this, the Ring of Salving will give us
+uh extra hit points while we heal our
+allies. And the boots of aid and comfort
+will give additional temporary hit
+points. Now, these will usually be eaten
+by our mantle of inspiration healing.
+Um, but it's still useful to be able to
+reset our uh temp HP for uh allies who
+don't have mantle of inspiration before
+we have the ability to cast it on all of
+our party members. So, you can make sure
+that you're passing out temp HP all the
+time. Um, but mantle of inspiration will
+usually override this. This is still
+just a useful bonus. In addition to
+that, you want any save DC item that
+isn't currently being used by your
+wizard. So, you can swap your save DC
+item over to this character. This
+character is going to be using fewer
+offensive spells, but still some. So,
+items like the fistbreaker helm or the
+hood of the weave if you're not using
+them on your loreb and wizard character
+uh will be useful for this character.
+And then defensive items, the best uh
+medium armor that you can find in terms
+of defense in act one. That's going to
+be the adamantine scale male. And then
+later on, you can swap to the flame
+enameled armor or the armor of agility,
+whichever one is not currently in use by
+another party member, depending on
+exactly how you have geared uh with the
+options that I've already mentioned.
+Your shield is going to be the
+adamantine shield or the safeguard
+shield. Usually the safeguard shield and
+then swapping to the adamantine shield
+later on. Though, if you're using the
+adamantine scale mail, you may wish to
+stay with the safeguard shield because
+the critical hit immunity is redundant.
+You don't so you don't need both of
+these items at the same time. A good
+weapon for this character is the
+devotees mace, the healing incense aura.
+You can get this by having a character
+spec into cleric level 10. Um, and then
+uh use their miracle on summoning the
+mace and then uh you can just respspec
+them. So you can either use this with a
+main character or have a cleric camp cer
+who does this. Having a cleric camp
+caster is useful to this party as well
+because that will get you aid and heroes
+feast which are spells that this party
+is is missing. So if you are using camp
+casting that's a very powerful tool
+available to this party. Finally uh
+potions of healing are also really nice
+to carry around for this character. You
+get benefits when you heal allies. So,
+the ability to throw a potion at an ally
+and hit them with blade ward and bless
+in addition to that, very helpful as
+well. So, make sure that this character
+has potions. But mostly, you're just
+going to use this character for utility
+items. Just anything that you've always
+wanted to try out. Uh you can equip in
+this character's item slots and of
+course the healing items. All right, my
+friends. I hope that you have enjoyed
+this look at an allbard party for honor
+mode and I hope that it has inspired you
+for your upcoming honor mode
+playthroughs. Uh, honestly, I found this
+party, I mean, I love bards, so I'm a
+little biased here, but I found this
+party to be ridiculously fun to play.
+Um, it just gives you so many options
+all the time. The layering of
+inspiration is really funny and the way
+that it works with reacting to various
+enemy actions. the fact that you can
+have um so many tricky options at all
+times and of course you have a
+tremendous amount of damage and
+survivability to back up all the tricky
+things that you're doing. So even if
+you're not mocking enemies to death, uh
+you can also just overwhelm them with
+massive force. As always, of course, if
+you have enjoyed the video, feel free to
+leave a comment and hit like. Helps me
+out with the algorithm. If you need any
+more detail about any of these builds,
+go check out the links in the
+description below where I'll link to the
+uh full build guides for each of these
+four characters, though obviously
+they've been slightly adjusted to fit
+into this party. And of course, uh you
+can subscribe to my channel for more
+Balders's Gate 3 build guides and other
+strategy game analysis. Cheers my
+friends and uh rock
