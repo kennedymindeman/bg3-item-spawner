@@ -523,6 +523,22 @@
   .lvl-spell img { width: 24px; height: 24px; border-radius: 3px; display: block; background: var(--bg-deep); }
   .lvl-spell .rune-fallback { width: 24px; height: 24px; border-radius: 3px; display: flex; align-items: center; justify-content: center; background: var(--bg-deep); font-family: 'Cinzel', serif; font-size: 0.8rem; color: var(--ink-faint); }
   .lvl-spells-label { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); margin-top: 11px; }
+  /* Build list -> full-screen detail */
+  .build-list { display: flex; flex-direction: column; gap: 10px; }
+  .build-list-item { width: 100%; text-align: left; cursor: pointer; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; padding: 14px 18px; display: flex; flex-direction: column; gap: 5px; transition: border-color .12s, background .12s; font: inherit; color: inherit; }
+  .build-list-item:hover { border-color: var(--gold); background: var(--bg-panel-2); }
+  .build-list-item.hidden { display: none; }
+  .build-li-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+  .build-li-rank { font-family: 'Cinzel', serif; color: var(--ink-faint); font-size: 0.9rem; }
+  .build-li-name { font-family: 'Cinzel', serif; font-weight: 600; font-size: 1.05rem; color: var(--gold-bright); letter-spacing: 0.02em; }
+  .build-li-arrow { margin-left: auto; color: var(--ink-faint); font-size: 1.1rem; }
+  .build-li-role { color: var(--gold); font-size: 0.84rem; }
+  .build-li-comp { color: var(--ink-dim); font-size: 0.8rem; }
+  .build-detail-overlay { position: fixed; inset: 0; background: rgba(8,5,3,0.72); z-index: 60; overflow-y: auto; }
+  .build-detail-overlay[hidden] { display: none; }
+  .build-detail-panel { max-width: 860px; margin: 0 auto; min-height: 100%; background: var(--bg-deep); border-left: 1px solid var(--border); border-right: 1px solid var(--border); padding: 16px 26px 64px; }
+  .build-detail-close { position: sticky; top: 12px; z-index: 1; margin-bottom: 14px; background: var(--bg-panel); border: 1px solid var(--border-bright); color: var(--ink); border-radius: 6px; padding: 8px 14px; cursor: pointer; font-size: 0.82rem; }
+  .build-detail-close:hover { border-color: var(--gold); color: var(--gold); }
   /* Breakpoint planner */
   .bp-planner { background: var(--bg-panel); border: 1px solid var(--border-bright); border-radius: 8px; padding: 20px 22px; margin-bottom: 28px; }
   .bp-title { font-family: 'Cinzel', serif; font-weight: 600; font-size: 1.1rem; color: var(--gold-bright); letter-spacing: 0.03em; }
@@ -760,8 +776,14 @@
     <div class="attribution">Builds from Cephalopocalypse's <a href="https://www.youtube.com/playlist?list=PLgTVc5Jd2rrK8-luUV3-rvMfiYz46BjQ2" target="_blank" rel="noopener">Full Party Builds</a> playlist. Pick what you want to do, then follow the level-by-level progression.</div>
     <div id="build-tags" class="build-tags"></div>
     <input type="text" id="build-search" class="search-input" placeholder="Search builds..." autocomplete="off" style="margin-bottom: 24px;">
-    <div id="builds-content"></div>
+    <div id="builds-content" class="build-list"></div>
     <div class="empty-state hidden" id="build-empty">Nothing matches that search.</div>
+    <div class="build-detail-overlay" id="build-detail" hidden>
+      <div class="build-detail-panel">
+        <button class="build-detail-close" id="build-detail-close" type="button">✕ Back to builds</button>
+        <div id="build-detail-content"></div>
+      </div>
+    </div>
   </section>
 
   <section class="panel" id="panel-breakpoints">
@@ -1621,11 +1643,15 @@ const buildSearch = document.getElementById('build-search');
 const buildEmpty = document.getElementById('build-empty');
 
 // A spell pick rendered as its in-game icon "rune" (name on hover), matching
-// how the level-up GUI shows spells. Falls back to a lettered tile if no icon.
+// how the level-up GUI shows spells. The chip links to the spell's bg3.wiki
+// page; falls back to a lettered tile if the icon can't load.
 function spellRune(name) {
-  const chip = document.createElement('span');
+  const chip = document.createElement('a');
   chip.className = 'lvl-spell';
-  chip.title = name;
+  chip.title = name + ' — open on bg3.wiki';
+  chip.href = 'https://bg3.wiki/wiki/' + encodeURIComponent(name.replace(/ /g, '_'));
+  chip.target = '_blank';
+  chip.rel = 'noopener';
   const url = SPELL_ICONS && SPELL_ICONS[name];
   function fallback() {
     const fb = document.createElement('span');
@@ -1647,12 +1673,9 @@ function spellRune(name) {
   return chip;
 }
 
-function renderBuild(b) {
+// Full detail view for one build, shown in the full-screen overlay.
+function buildDetailContent(b) {
   const card = document.createElement('div');
-  card.className = 'build-card';
-  card.dataset.search = [b.name, b.role, b.composition, b.summary,
-    (b.keyFeats || []).join(' '), (b.keyItems || []).join(' ')].join(' ').toLowerCase();
-  card.dataset.tags = (b.tags || []).join(' ');
 
   const head = document.createElement('div');
   head.className = 'build-head';
@@ -1768,8 +1791,69 @@ function renderBuild(b) {
   return card;
 }
 
+// Compact, clickable row in the build list. Click -> full-screen detail.
+function renderBuildListItem(b) {
+  const item = document.createElement('button');
+  item.type = 'button';
+  item.className = 'build-list-item';
+  item.dataset.search = [b.name, b.role, b.composition, b.summary,
+    (b.keyFeats || []).join(' '), (b.keyItems || []).join(' ')].join(' ').toLowerCase();
+  item.dataset.tags = (b.tags || []).join(' ');
+
+  const head = document.createElement('div');
+  head.className = 'build-li-head';
+  if (b.rank) {
+    const rk = document.createElement('span');
+    rk.className = 'build-li-rank';
+    rk.textContent = '#' + b.rank;
+    head.appendChild(rk);
+  }
+  const nm = document.createElement('span');
+  nm.className = 'build-li-name';
+  nm.textContent = b.name || 'Untitled build';
+  head.appendChild(nm);
+  const arrow = document.createElement('span');
+  arrow.className = 'build-li-arrow';
+  arrow.textContent = '›';
+  head.appendChild(arrow);
+  item.appendChild(head);
+
+  if (b.role) {
+    const r = document.createElement('div');
+    r.className = 'build-li-role';
+    r.textContent = b.role;
+    item.appendChild(r);
+  }
+  if (b.composition) {
+    const c = document.createElement('div');
+    c.className = 'build-li-comp';
+    c.textContent = b.composition;
+    item.appendChild(c);
+  }
+  item.addEventListener('click', () => openBuildDetail(b));
+  return item;
+}
+
 BUILDS.slice().sort((a, b) => (a.rank || 99) - (b.rank || 99))
-  .forEach(b => buildsContent.appendChild(renderBuild(b)));
+  .forEach(b => buildsContent.appendChild(renderBuildListItem(b)));
+
+// Full-screen detail overlay
+const buildOverlay = document.getElementById('build-detail');
+const buildDetailInner = document.getElementById('build-detail-content');
+function openBuildDetail(b) {
+  buildDetailInner.innerHTML = '';
+  buildDetailInner.appendChild(buildDetailContent(b));
+  buildOverlay.hidden = false;
+  buildOverlay.scrollTop = 0;
+  document.body.style.overflow = 'hidden';
+}
+function closeBuildDetail() {
+  buildOverlay.hidden = true;
+  document.body.style.overflow = '';
+}
+document.getElementById('build-detail-close').addEventListener('click', closeBuildDetail);
+buildOverlay.addEventListener('click', e => { if (e.target === buildOverlay) closeBuildDetail(); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && !buildOverlay.hidden) closeBuildDetail(); });
 
 const buildTagsEl = document.getElementById('build-tags');
 let activeBuildTag = null;
@@ -1777,7 +1861,7 @@ let activeBuildTag = null;
 function applyBuildFilter() {
   const q = buildSearch.value.trim().toLowerCase();
   let vis = 0;
-  buildsContent.querySelectorAll('.build-card').forEach(c => {
+  buildsContent.querySelectorAll('.build-list-item').forEach(c => {
     const matchSearch = !q || c.dataset.search.includes(q);
     const matchTag = !activeBuildTag || (' ' + c.dataset.tags + ' ').includes(' ' + activeBuildTag + ' ');
     const m = matchSearch && matchTag;
