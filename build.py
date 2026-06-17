@@ -30,6 +30,7 @@ DATA = {
     "tierlists": SRC / "data" / "tierlists.json",
     "builds": SRC / "data" / "builds.json",
     "breakpoints": SRC / "data" / "breakpoints.json",
+    "spellicons": SRC / "data" / "spell_icons.json",
 }
 
 
