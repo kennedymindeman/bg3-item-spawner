@@ -50,6 +50,19 @@ def main() -> int:
     # Also emit index.html so the root URL works on any static host (GitHub Pages, etc.)
     Path("index.html").write_text(html, encoding="utf-8")
     print(f"\nwrote {OUT} and index.html ({OUT.stat().st_size:,} bytes)")
+
+    # Spell-rune icons are vendored into icons/ (sidecar, lazy-loaded) so the app
+    # doesn't hit bg3.wiki at runtime (it rate-limits -> blank glyphs). Warn if any
+    # referenced icon is missing; run `uv run fetch_icons.py` to fetch them.
+    icons = json.loads((SRC / "data" / "spell_icons.json").read_text(encoding="utf-8"))
+    wanted = {url.rstrip("/").split("/")[-1] for url in icons.values()}
+    have = {p.name for p in Path("icons").glob("*")} if Path("icons").is_dir() else set()
+    missing = wanted - have
+    if missing:
+        print(f"WARNING: {len(missing)}/{len(wanted)} spell icons missing from icons/ "
+              f"(runes fall back to letters). Run: uv run fetch_icons.py")
+    else:
+        print(f"icons: all {len(wanted)} spell-rune icons present in icons/")
     return 0
 
 

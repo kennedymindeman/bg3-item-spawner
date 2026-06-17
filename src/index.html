@@ -539,6 +539,57 @@
   .build-detail-panel { max-width: 860px; margin: 0 auto; min-height: 100%; background: var(--bg-deep); border-left: 1px solid var(--border); border-right: 1px solid var(--border); padding: 16px 26px 64px; }
   .build-detail-close { position: sticky; top: 12px; z-index: 1; margin-bottom: 14px; background: var(--bg-panel); border: 1px solid var(--border-bright); color: var(--ink); border-radius: 6px; padding: 8px 14px; cursor: pointer; font-size: 0.82rem; }
   .build-detail-close:hover { border-color: var(--gold); color: var(--gold); }
+  .build-detail-panel { max-width: 1100px; }
+  /* Redesigned build detail: header + respec bar + sticky items + timeline */
+  .bd-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+  .bd-name { font-family: 'Cinzel', serif; font-weight: 600; font-size: 1.3rem; color: var(--gold-bright); letter-spacing: 0.03em; }
+  .bd-kind { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); border: 1px solid var(--border-bright); border-radius: 4px; padding: 2px 8px; }
+  .bd-role { color: var(--gold); font-size: 0.9rem; margin-top: 7px; }
+  .bd-summary { color: var(--ink); font-size: 0.9rem; margin-top: 8px; line-height: 1.55; }
+  .bd-meta { font-size: 0.82rem; color: var(--ink-dim); margin-top: 6px; }
+  .bd-meta strong { color: var(--ink-faint); font-weight: 600; }
+  .respec-bar { margin: 18px 0 6px; padding: 13px 15px; background: var(--bg-panel); border: 1px solid var(--border-bright); border-radius: 8px; }
+  .respec-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); margin-bottom: 9px; }
+  .respec-btns { display: flex; flex-wrap: wrap; gap: 5px; }
+  .respec-btn { min-width: 30px; height: 30px; padding: 0 8px; border: 1px solid var(--border); background: var(--bg-deep); color: var(--ink); border-radius: 5px; cursor: pointer; font-size: 0.84rem; font: inherit; line-height: 28px; }
+  .respec-btn:hover { border-color: var(--border-bright); }
+  .respec-btn.active { background: var(--gold); color: var(--bg-deep); border-color: var(--gold); font-weight: 600; }
+  .respec-note { margin-top: 11px; color: var(--ink-dim); font-size: 0.84rem; line-height: 1.5; border-left: 2px solid var(--gold); padding-left: 11px; }
+  .bd-body { display: grid; grid-template-columns: 270px 1fr; gap: 22px; align-items: start; margin-top: 16px; }
+  .keyitems { position: sticky; top: 64px; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; padding: 14px 15px; }
+  .keyitems-title { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--gold); margin-bottom: 10px; }
+  .keyitem { display: flex; align-items: baseline; gap: 7px; flex-wrap: wrap; color: var(--ink); font-size: 0.85rem; text-decoration: none; padding: 5px 0; border-bottom: 1px solid var(--border); line-height: 1.4; }
+  .keyitem:last-child { border-bottom: none; }
+  .keyitem::before { content: "\2756"; color: var(--gold); font-size: 0.7rem; }
+  .keyitem:hover { color: var(--gold-bright); }
+  .keyitem-act { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-faint); border: 1px solid var(--border); border-radius: 3px; padding: 0 5px; }
+  .timeline { min-width: 0; }
+  .tl-section { font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.07em; margin: 4px 0 10px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }
+  .tl-section.now { color: var(--gold-bright); border-color: var(--border-bright); }
+  .tl-section.later { color: var(--ink-faint); margin-top: 22px; }
+  .tl-section.plain { color: var(--ink-faint); }
+  .tl-row { display: grid; grid-template-columns: 40px 1fr; gap: 12px; padding: 9px 0; border-bottom: 1px solid var(--border); }
+  .tl-row:last-child { border-bottom: none; }
+  .tl-badge { font-family: 'Cinzel', serif; font-weight: 600; font-size: 0.8rem; color: var(--bg-deep); background: var(--gold); border-radius: 5px; height: 26px; display: flex; align-items: center; justify-content: center; }
+  .tl-body { min-width: 0; }
+  .tl-top { display: flex; align-items: baseline; gap: 9px; flex-wrap: wrap; }
+  .tl-class { color: var(--gold-bright); font-weight: 600; font-size: 0.95rem; }
+  .tl-dip { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-faint); border: 1px solid var(--border-bright); border-radius: 3px; padding: 0 5px; cursor: help; }
+  .tl-feat { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--gold-bright); border: 1px solid var(--border-bright); border-radius: 4px; padding: 1px 7px; }
+  .tl-spike { display: flex; align-items: baseline; gap: 8px; font-size: 0.85rem; line-height: 1.45; color: var(--ink); margin-top: 6px; padding: 5px 9px; border-radius: 5px; background: var(--bg-panel); border-left: 2px solid var(--ink-faint); }
+  .tl-spike.combat { border-left-color: #d4734a; }
+  .tl-spike.utility { border-left-color: #4a90d4; }
+  .tl-spike.defensive { border-left-color: #6bbf6b; }
+  .tl-spike-tag { font-size: 0.6rem; text-transform: uppercase; letter-spacing: 0.06em; font-weight: 600; flex-shrink: 0; }
+  .tl-spike.combat .tl-spike-tag { color: #e08a5f; }
+  .tl-spike.utility .tl-spike-tag { color: #6aa6e0; }
+  .tl-spike.defensive .tl-spike-tag { color: #84cf84; }
+  .tl-picks { color: var(--ink-dim); font-size: 0.86rem; line-height: 1.5; margin-top: 6px; }
+  .build-li-tag { font-size: 0.78rem; color: var(--ink-dim); }
+  @media (max-width: 720px) {
+    .bd-body { grid-template-columns: 1fr; }
+    .keyitems { position: static; }
+  }
   /* Breakpoint planner */
   .bp-planner { background: var(--bg-panel); border: 1px solid var(--border-bright); border-radius: 8px; padding: 20px 22px; margin-bottom: 28px; }
   .bp-title { font-family: 'Cinzel', serif; font-weight: 600; font-size: 1.1rem; color: var(--gold-bright); letter-spacing: 0.03em; }
@@ -1660,11 +1711,15 @@ function spellRune(name) {
     return fb;
   }
   if (url) {
+    // Icons are vendored into icons/ (see fetch_icons.py) so they load locally
+    // instead of hitting bg3.wiki, which rate-limits (HTTP 429 -> blank glyphs).
+    // Derive the local path from the source URL's basename.
+    const file = url.split('/').pop();
     const img = document.createElement('img');
-    img.src = url;
+    img.src = 'icons/' + file;
     img.alt = name;
     img.loading = 'lazy';
-    img.onerror = () => { img.replaceWith(fallback()); };  // 404 / offline -> lettered tile
+    img.onerror = () => { img.replaceWith(fallback()); };  // missing file -> lettered tile
     chip.appendChild(img);
   } else {
     chip.appendChild(fallback());
@@ -1673,19 +1728,116 @@ function spellRune(name) {
   return chip;
 }
 
+// ---- Respec level: global, persisted, shared as you hop between builds ----
+// null = "leveling fresh" (show the whole 1->12 path); 1..12 = "I'm respeccing
+// at this level" (show the exact pick order to assign now, then what's next).
+const RESPEC_KEY = 'bg3-respec-level';
+let respecLevel = (function () {
+  const v = parseInt(localStorage.getItem(RESPEC_KEY), 10);
+  return (v >= 1 && v <= 12) ? v : null;
+})();
+function setRespecLevel(n) {
+  respecLevel = n;
+  try {
+    if (n == null) localStorage.removeItem(RESPEC_KEY);
+    else localStorage.setItem(RESPEC_KEY, String(n));
+  } catch (e) { /* private mode */ }
+  if (currentDetailBuild) renderBuildDetail();
+}
+
+// A flagged dip (has dipMin) can't be assigned before that total level; absent
+// = always eligible. Build the respec pick order by placing each level at the
+// earliest position its dipMin allows, otherwise preserving natural order. So
+// at low respec levels a late/optional dip drops out and the lead class changes.
+function dipMinOf(st) { return ('dipMin' in st) ? st.dipMin : 0; }
+function respecSequence(leveling) {
+  const remaining = leveling.slice().sort((a, b) => a.level - b.level);
+  const seq = [];
+  for (let pos = 1; remaining.length; pos++) {
+    let i = remaining.findIndex(st => dipMinOf(st) <= pos);
+    if (i < 0) i = 0; // safety: nothing eligible yet -> take next anyway
+    seq.push(remaining.splice(i, 1)[0]);
+  }
+  return seq;
+}
+
+// One row of the level timeline. `pos` is the character level you take it at in
+// the current (respec or natural) order.
+function timelineRow(st, pos) {
+  const row = document.createElement('div');
+  row.className = 'tl-row';
+
+  const badge = document.createElement('span');
+  badge.className = 'tl-badge';
+  badge.textContent = 'L' + pos;
+  row.appendChild(badge);
+
+  const body = document.createElement('div');
+  body.className = 'tl-body';
+
+  const top = document.createElement('div');
+  top.className = 'tl-top';
+  const cl = document.createElement('span');
+  cl.className = 'tl-class';
+  cl.textContent = st.class || '';
+  top.appendChild(cl);
+  if ('dipMin' in st) {
+    const dip = document.createElement('span');
+    dip.className = 'tl-dip';
+    dip.textContent = 'dip';
+    dip.title = 'Optional/flexible multiclass dip — skipped when you respec below level ' + st.dipMin;
+    top.appendChild(dip);
+  }
+  if (st.feat) {
+    const ft = document.createElement('span');
+    ft.className = 'tl-feat';
+    ft.textContent = 'Feat: ' + st.feat;
+    top.appendChild(ft);
+  }
+  body.appendChild(top);
+
+  if (st.spike) {
+    const sk = document.createElement('div');
+    sk.className = 'tl-spike ' + (st.spike.type || 'combat');
+    const tag = document.createElement('span');
+    tag.className = 'tl-spike-tag';
+    tag.textContent = st.spike.type || 'spike';
+    sk.appendChild(tag);
+    sk.appendChild(document.createTextNode(st.spike.note || ''));
+    body.appendChild(sk);
+  }
+
+  if (st.picks || st.notes) {
+    const pk = document.createElement('div');
+    pk.className = 'tl-picks';
+    pk.textContent = st.picks || st.notes;
+    body.appendChild(pk);
+  }
+
+  if (st.spells && st.spells.length) {
+    const sp = document.createElement('div');
+    sp.className = 'lvl-spells';
+    st.spells.forEach(name => sp.appendChild(spellRune(name)));
+    body.appendChild(sp);
+  }
+
+  row.appendChild(body);
+  return row;
+}
+
 // Full detail view for one build, shown in the full-screen overlay.
 function buildDetailContent(b) {
   const card = document.createElement('div');
 
   const head = document.createElement('div');
-  head.className = 'build-head';
+  head.className = 'bd-head';
   const nm = document.createElement('span');
-  nm.className = 'build-name';
+  nm.className = 'bd-name';
   nm.textContent = (b.rank ? '#' + b.rank + '  ' : '') + (b.name || 'Untitled build');
   head.appendChild(nm);
   if (b.composition) {
     const c = document.createElement('span');
-    c.className = 'build-kind';
+    c.className = 'bd-kind';
     c.textContent = b.composition;
     head.appendChild(c);
   }
@@ -1693,21 +1845,20 @@ function buildDetailContent(b) {
 
   if (b.role) {
     const r = document.createElement('div');
-    r.className = 'build-role';
+    r.className = 'bd-role';
     r.textContent = b.role;
     card.appendChild(r);
   }
   if (b.summary) {
     const s = document.createElement('div');
-    s.className = 'build-summary';
+    s.className = 'bd-summary';
     s.textContent = b.summary;
     card.appendChild(s);
   }
-
   function metaLine(label, val) {
     if (!val) return;
     const m = document.createElement('div');
-    m.className = 'build-meta';
+    m.className = 'bd-meta';
     const l = document.createElement('strong');
     l.textContent = label + ': ';
     m.appendChild(l);
@@ -1716,68 +1867,101 @@ function buildDetailContent(b) {
   }
   metaLine('Abilities', b.abilities);
   metaLine('Key feats', (b.keyFeats || []).join(', '));
-  metaLine('Key items', (b.keyItems || []).join(', '));
 
-  // Level selector: pick a level, see what to do (for a full respec).
+  // ---- Respec level control (global) ----
+  const bar = document.createElement('div');
+  bar.className = 'respec-bar';
+  const lbl = document.createElement('div');
+  lbl.className = 'respec-label';
+  lbl.textContent = 'Your current level (respec order):';
+  bar.appendChild(lbl);
+  const btns = document.createElement('div');
+  btns.className = 'respec-btns';
+  function mkBtn(text, val, title) {
+    const t = document.createElement('button');
+    t.type = 'button';
+    t.className = 'respec-btn' + (respecLevel === val ? ' active' : '');
+    t.textContent = text;
+    if (title) t.title = title;
+    t.addEventListener('click', () => setRespecLevel(respecLevel === val ? null : val));
+    return t;
+  }
+  btns.appendChild(mkBtn('Fresh', null, 'Show the whole level-1→12 path'));
+  for (let lv = 1; lv <= 12; lv++) btns.appendChild(mkBtn(String(lv), lv));
+  bar.appendChild(btns);
+  if (b.respecNote) {
+    const note = document.createElement('div');
+    note.className = 'respec-note';
+    note.textContent = b.respecNote;
+    bar.appendChild(note);
+  }
+  card.appendChild(bar);
+
+  // ---- Body: sticky key-items aside + level timeline ----
+  const bodyWrap = document.createElement('div');
+  bodyWrap.className = 'bd-body';
+
+  if (b.keyItems && b.keyItems.length) {
+    const aside = document.createElement('aside');
+    aside.className = 'keyitems';
+    const kt = document.createElement('div');
+    kt.className = 'keyitems-title';
+    kt.textContent = 'Key items — keep an eye out';
+    aside.appendChild(kt);
+    b.keyItems.forEach(it => {
+      // Pull a trailing "(Act N)" hint out of the name into its own chip.
+      const m = it.match(/^(.*?)\s*\(([^)]*)\)\s*$/);
+      const label = m ? m[1] : it;
+      // Link the first / primary item name to bg3.wiki (split on '/').
+      const primary = label.split('/')[0].trim();
+      const a = document.createElement('a');
+      a.className = 'keyitem';
+      a.href = 'https://bg3.wiki/wiki/' + encodeURIComponent(primary.replace(/ /g, '_'));
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.appendChild(document.createTextNode(label));
+      if (m) {
+        const act = document.createElement('span');
+        act.className = 'keyitem-act';
+        act.textContent = m[2];
+        a.appendChild(act);
+      }
+      aside.appendChild(a);
+    });
+    bodyWrap.appendChild(aside);
+  }
+
+  const tl = document.createElement('div');
+  tl.className = 'timeline';
   if (b.leveling && b.leveling.length) {
-    const byLevel = {};
-    b.leveling.forEach(st => { byLevel[st.level] = st; });
-    const wrap = document.createElement('div');
-    wrap.className = 'lvl-wrap';
-    const tabs = document.createElement('div');
-    tabs.className = 'lvl-tabs';
-    const display = document.createElement('div');
-    display.className = 'lvl-display';
-    function show(lv) {
-      const st = byLevel[lv];
-      if (!st) return;
-      display.innerHTML = '';
-      const cl = document.createElement('div');
-      cl.className = 'lvl-class';
-      cl.textContent = 'Level ' + lv + ' — ' + (st.class || '');
-      display.appendChild(cl);
-      if (st.feat) {
-        const ft = document.createElement('div');
-        ft.className = 'lvl-feat';
-        ft.textContent = 'Feat: ' + st.feat;
-        display.appendChild(ft);
-      }
-      const pk = document.createElement('div');
-      pk.className = 'lvl-picks';
-      pk.textContent = st.picks || st.notes || '';
-      display.appendChild(pk);
-      if (st.spells && st.spells.length) {
-        const lbl = document.createElement('div');
-        lbl.className = 'lvl-spells-label';
-        lbl.textContent = 'Spells to take (match the rune in-game)';
-        display.appendChild(lbl);
-        const sp = document.createElement('div');
-        sp.className = 'lvl-spells';
-        st.spells.forEach(name => sp.appendChild(spellRune(name)));
-        display.appendChild(sp);
-      }
-      [...tabs.children].forEach(c => c.classList.toggle('active', c.dataset.lv === String(lv)));
+    const seq = respecSequence(b.leveling);
+    const N = respecLevel;
+    function sectionLabel(text, cls) {
+      const s = document.createElement('div');
+      s.className = 'tl-section ' + (cls || '');
+      s.textContent = text;
+      return s;
     }
-    for (let lv = 1; lv <= 12; lv++) {
-      const st = byLevel[lv];
-      const t = document.createElement('button');
-      t.type = 'button';
-      t.className = 'lvl-tab' + (st ? '' : ' empty');
-      t.textContent = lv;
-      t.dataset.lv = String(lv);
-      if (st) t.addEventListener('click', () => show(lv));
-      tabs.appendChild(t);
+    if (N == null) {
+      tl.appendChild(sectionLabel('Level-by-level (fresh from 1)', 'plain'));
+      seq.forEach((st, i) => tl.appendChild(timelineRow(st, i + 1)));
+    } else {
+      tl.appendChild(sectionLabel('Respec at level ' + N + ' — assign these now, in order', 'now'));
+      seq.slice(0, N).forEach((st, i) => tl.appendChild(timelineRow(st, i + 1)));
+      const later = seq.slice(N);
+      if (later.length) {
+        tl.appendChild(sectionLabel('Then as you level up — take in this order', 'later'));
+        later.forEach((st, i) => tl.appendChild(timelineRow(st, N + i + 1)));
+      }
     }
-    wrap.appendChild(tabs);
-    wrap.appendChild(display);
-    card.appendChild(wrap);
-    show(b.leveling[0].level);
   } else {
     const pend = document.createElement('div');
     pend.className = 'build-pending';
     pend.textContent = 'Full level-by-level progression: watch the build guide below.';
-    card.appendChild(pend);
+    tl.appendChild(pend);
   }
+  bodyWrap.appendChild(tl);
+  card.appendChild(bodyWrap);
 
   if (b.video_url) {
     const src = document.createElement('a');
@@ -1812,24 +1996,18 @@ function renderBuildListItem(b) {
   nm.className = 'build-li-name';
   nm.textContent = b.name || 'Untitled build';
   head.appendChild(nm);
+  if (b.tag) {
+    const tg = document.createElement('span');
+    tg.className = 'build-li-tag';
+    tg.textContent = b.tag;
+    head.appendChild(tg);
+  }
   const arrow = document.createElement('span');
   arrow.className = 'build-li-arrow';
   arrow.textContent = '›';
   head.appendChild(arrow);
   item.appendChild(head);
 
-  if (b.role) {
-    const r = document.createElement('div');
-    r.className = 'build-li-role';
-    r.textContent = b.role;
-    item.appendChild(r);
-  }
-  if (b.composition) {
-    const c = document.createElement('div');
-    c.className = 'build-li-comp';
-    c.textContent = b.composition;
-    item.appendChild(c);
-  }
   item.addEventListener('click', () => openBuildDetail(b));
   return item;
 }
@@ -1840,7 +2018,16 @@ BUILDS.slice().sort((a, b) => (a.rank || 99) - (b.rank || 99))
 // Full-screen detail overlay
 const buildOverlay = document.getElementById('build-detail');
 const buildDetailInner = document.getElementById('build-detail-content');
+let currentDetailBuild = null;
+function renderBuildDetail() {
+  if (!currentDetailBuild) return;
+  const prevScroll = buildOverlay.scrollTop;
+  buildDetailInner.innerHTML = '';
+  buildDetailInner.appendChild(buildDetailContent(currentDetailBuild));
+  buildOverlay.scrollTop = prevScroll;
+}
 function openBuildDetail(b) {
+  currentDetailBuild = b;
   buildDetailInner.innerHTML = '';
   buildDetailInner.appendChild(buildDetailContent(b));
   buildOverlay.hidden = false;
@@ -1849,6 +2036,7 @@ function openBuildDetail(b) {
 }
 function closeBuildDetail() {
   buildOverlay.hidden = true;
+  currentDetailBuild = null;
   document.body.style.overflow = '';
 }
 document.getElementById('build-detail-close').addEventListener('click', closeBuildDetail);
