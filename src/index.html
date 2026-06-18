@@ -555,6 +555,12 @@
   .ability-cell.primary .ability-ab { color: var(--gold); }
   .ability-val { font-family: 'Cinzel', serif; font-weight: 600; font-size: 1.1rem; color: var(--ink); margin-top: 2px; }
   .ability-cell.primary .ability-val { color: var(--gold-bright); }
+  /* Saving-throw proficiency: blue marker that layers under the gold primary styling. */
+  .ability-cell.save { box-shadow: inset 0 -3px 0 var(--tier-b); }
+  .save-prof { font-size: 0.78rem; color: var(--ink-dim); margin-top: 9px; display: flex; align-items: baseline; gap: 7px; flex-wrap: wrap; }
+  .save-prof .save-label { text-transform: uppercase; letter-spacing: 0.07em; font-size: 0.66rem; color: var(--tier-b); }
+  .save-prof .save-abs { color: var(--ink); font-weight: 600; }
+  .save-prof .save-from { color: var(--ink-faint); }
   .ability-note { color: var(--ink-dim); font-size: 0.82rem; line-height: 1.5; margin-top: 8px; }
   .respec-bar { margin: 18px 0 6px; padding: 13px 15px; background: var(--bg-panel); border: 1px solid var(--border-bright); border-radius: 8px; }
   .respec-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); margin-bottom: 9px; }
@@ -1790,6 +1796,29 @@ function respecPlan(leveling, N) {
   return { now: eligible.slice(0, N) };
 }
 
+// Saving-throw proficiencies come ONLY from your FIRST class. Each BG3 class
+// grants exactly two — so this is the source of truth for the save markers,
+// and it re-derives from whichever class leads at the current respec level.
+const CLASS_SAVES = {
+  Barbarian: ['STR', 'CON'], Bard: ['DEX', 'CHA'], Cleric: ['WIS', 'CHA'],
+  Druid: ['INT', 'WIS'], Fighter: ['STR', 'CON'], Monk: ['STR', 'DEX'],
+  Paladin: ['WIS', 'CHA'], Ranger: ['STR', 'DEX'], Rogue: ['DEX', 'INT'],
+  Sorcerer: ['CON', 'CHA'], Warlock: ['WIS', 'CHA'], Wizard: ['INT', 'WIS'],
+};
+// "Cleric 1 (Tempest)" / "Warlock 1 (Hexblade)" -> "Cleric" / "Warlock".
+function baseClassName(classStr) {
+  return (classStr || '').replace(/\s*\(.*$/, '').replace(/\s*\d+\s*$/, '').trim();
+}
+// The first class at the current respec level, and the two saves it grants.
+function firstClassSaves(leveling, N) {
+  const plan = respecPlan(leveling, N).now;
+  const first = plan[0] || naturalOrder(leveling)[0];
+  if (!first) return null;
+  const cls = baseClassName(first.class);
+  const saves = CLASS_SAVES[cls];
+  return saves ? { cls, saves } : null;
+}
+
 // One row of the level timeline. `pos` is the character level you take it at.
 // `compact` (used for levels above your current one) shows just the class, dip,
 // feat and a small spike pill — no picks/spells/choices clutter.
@@ -1957,11 +1986,15 @@ function buildDetailContent(b) {
   // ---- Starting ability scores (creation-locked, so shown up top) ----
   if (b.abilityScores) {
     const sc = b.abilityScores;
+    const saveInfo = firstClassSaves(b.leveling || [], respecLevel);
+    const saveSet = saveInfo ? saveInfo.saves : [];
     const wrap = document.createElement('div');
     wrap.className = 'ability-array';
     ['STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA'].forEach(ab => {
       const cell = document.createElement('div');
-      cell.className = 'ability-cell' + (sc.primary && sc.primary.includes(ab) ? ' primary' : '');
+      cell.className = 'ability-cell'
+        + (sc.primary && sc.primary.includes(ab) ? ' primary' : '')
+        + (saveSet.includes(ab) ? ' save' : '');
       const lab = document.createElement('span');
       lab.className = 'ability-ab';
       lab.textContent = ab;
@@ -1973,6 +2006,25 @@ function buildDetailContent(b) {
       wrap.appendChild(cell);
     });
     card.appendChild(wrap);
+    // Saving throws come from your first class — respec-aware, so this updates
+    // when a dip leads the build at the current level.
+    if (saveInfo) {
+      const sp = document.createElement('div');
+      sp.className = 'save-prof';
+      const sl = document.createElement('span');
+      sl.className = 'save-label';
+      sl.textContent = 'Saving throws';
+      const sa = document.createElement('span');
+      sa.className = 'save-abs';
+      sa.textContent = saveInfo.saves.join(' · ');
+      const sf = document.createElement('span');
+      sf.className = 'save-from';
+      sf.textContent = 'from your first class (' + saveInfo.cls + ')';
+      sp.appendChild(sl);
+      sp.appendChild(sa);
+      sp.appendChild(sf);
+      card.appendChild(sp);
+    }
     if (sc.note) {
       const note = document.createElement('div');
       note.className = 'ability-note';

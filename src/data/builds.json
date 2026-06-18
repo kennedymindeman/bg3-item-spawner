@@ -379,7 +379,7 @@
   "role": "Ranged physical DPS, extremely tanky and forgiving",
   "composition": "Fighter 11 (Eldritch Knight) / War Domain Cleric 1",
   "summary": "Throws weapons (which use Tavern Brawler and apply all weapon effects at range) for up to seven near-guaranteed hits in the opening round. The highest first-turn burst of the martials, plus heavy armour + the Shield spell make it the hardest character in the game to kill — the most forgiving build to win honour mode with.",
-  "abilities": "Strength primary (Cloud/Hill Giant elixir frees it up); start 17 Str",
+  "abilities": "Strength build, but the Cloud/Hill Giant elixir sets STR — dump STR to 8 and lead with DEX/CON",
   "keyFeats": [
    "Tavern Brawler",
    "Alert",
@@ -1178,7 +1178,7 @@
   "role": "AOE / single-target burst caster",
   "composition": "Draconic Bloodline (Red) Sorcerer 12",
   "summary": "Elemental Affinity adds Charisma to every instance of fire damage, and an upcast Scorching Ray fires up to seven beams — so you apply your (maxed) Charisma seven-plus times a turn, then Twin or Quicken a second one. Almost nothing survives, with full sorcerer control/utility as backup.",
-  "abilities": "Charisma primary (start 17, build to 20+)",
+  "abilities": "Charisma primary (start 16, build to 20+)",
   "keyFeats": [
    "Alert",
    "ASI: Charisma",
@@ -1199,7 +1199,7 @@
    {
     "level": 1,
     "class": "Sorcerer 1",
-    "picks": "Draconic Bloodline: Red (fire). Pick Shield + Mage Armour; start 17 Charisma. Magic Missile / Chromatic Orb for the early game.",
+    "picks": "Draconic Bloodline: Red (fire). Pick Shield + Mage Armour; start 16 Charisma. Magic Missile / Chromatic Orb for the early game.",
     "spells": [
      "Shield",
      "Mage Armour",
