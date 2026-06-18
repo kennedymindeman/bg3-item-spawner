@@ -564,6 +564,7 @@
   .save-dc { margin-top: 9px; display: flex; flex-direction: column; gap: 4px; }
   .sdc-row { display: flex; align-items: baseline; gap: 9px; font-size: 0.84rem; flex-wrap: wrap; }
   .sdc-lab { color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.66rem; min-width: 96px; }
+  .sdc-cls { color: var(--ink-faint); font-size: 0.74rem; min-width: 72px; }
   .sdc-stat { color: var(--ink); font-weight: 600; }
   .sdc-dc { color: var(--tier-b); font-weight: 600; }
   .sdc-row.diverge .sdc-stat, .sdc-row.diverge .sdc-dc { color: var(--ember); }
@@ -1863,6 +1864,32 @@ function itemDcStat(leveling, N) {
   return stat;
 }
 
+// Does the build's text mention a given (casting) subclass anywhere?
+function buildMentions(b, sub) {
+  const hay = (b.composition || '') + ' '
+    + (b.leveling || []).map(st => (st.class || '') + ' ' + (st.picks || '')).join(' ');
+  return new RegExp(sub, 'i').test(hay);
+}
+// Distinct spellcasting classes you have at level N, each with its casting stat —
+// because spells learned from a class always use THAT class's stat. Natural casters
+// count; Fighter/Rogue only once their casting subclass (EK/AT, gained at class lvl 3)
+// is in play. Sorted main-class-first by level count.
+function castersAt(b, N) {
+  const plan = respecPlan(b.leveling || [], N).now;
+  const counts = {};
+  plan.forEach(st => { const c = classOf(st.class); counts[c] = (counts[c] || 0) + 1; });
+  const out = [];
+  Object.keys(counts).forEach(c => {
+    if (CAST_STAT[c]) out.push({ cls: c, stat: CAST_STAT[c], count: counts[c] });
+    else if (c === 'Fighter' && counts[c] >= 3 && buildMentions(b, 'Eldritch Knight'))
+      out.push({ cls: 'Fighter (EK)', stat: 'INT', count: counts[c] });
+    else if (c === 'Rogue' && counts[c] >= 3 && buildMentions(b, 'Arcane Trickster'))
+      out.push({ cls: 'Rogue (AT)', stat: 'INT', count: counts[c] });
+  });
+  out.sort((a, b2) => b2.count - a.count || a.stat.localeCompare(b2.stat));
+  return out;
+}
+
 // One row of the level timeline. `pos` is the character level you take it at.
 // `compact` (used for levels above your current one) shows just the class, dip,
 // feat and a small spike pill — no picks/spells/choices clutter.
@@ -2085,7 +2112,7 @@ function buildDetailContent(b) {
     // Concrete save DCs at the current level. Spell DC uses your casting stat;
     // item DC (spells from items/staves, scrolls, illithid powers) uses the casting
     // stat of the most-recent class you took your FIRST level in — so it can differ.
-    function dcRow(label, stat, diverge, hint) {
+    function dcRow(label, stat, diverge, hint, tag) {
       if (!stat) return null;
       const m = modOf(stat);
       if (m == null) return null;
@@ -2093,11 +2120,17 @@ function buildDetailContent(b) {
       row.className = 'sdc-row' + (diverge ? ' diverge' : '');
       const lab = document.createElement('span');
       lab.className = 'sdc-lab'; lab.textContent = label;
+      row.appendChild(lab);
+      if (tag) {
+        const cl = document.createElement('span');
+        cl.className = 'sdc-cls'; cl.textContent = tag;
+        row.appendChild(cl);
+      }
       const st = document.createElement('span');
       st.className = 'sdc-stat'; st.textContent = stat + ' ' + scoreOf(stat) + ' (' + fmtMod(m) + ')';
       const dc = document.createElement('span');
       dc.className = 'sdc-dc'; dc.textContent = 'DC ' + (8 + prof + m);
-      row.appendChild(lab); row.appendChild(st); row.appendChild(dc);
+      row.appendChild(st); row.appendChild(dc);
       if (hint) {
         const h = document.createElement('span');
         h.className = 'sdc-hint';
@@ -2108,16 +2141,29 @@ function buildDetailContent(b) {
       return row;
     }
     const itemStat = itemDcStat(b.leveling || [], respecLevel);
-    const diverge = b.spellSaveStat && itemStat && b.spellSaveStat !== itemStat;
-    const r1 = dcRow('Spell save DC', b.spellSaveStat, false, null);
+    // One spell-DC row per casting class (grouped by stat), since each class's
+    // spells use that class's own casting stat. Item DC diverges when it doesn't
+    // match your MAIN casting stat (the class with the most levels).
+    const casters = castersAt(b, respecLevel);
+    const primaryStat = casters.length ? casters[0].stat : null;
+    const diverge = primaryStat && itemStat && itemStat !== primaryStat;
+    const statOrder = []; const statClasses = {};
+    casters.forEach(c => {
+      if (!statClasses[c.stat]) { statClasses[c.stat] = []; statOrder.push(c.stat); }
+      statClasses[c.stat].push(c.cls);
+    });
+    const multiCast = statOrder.length > 1;
+    const spellRows = statOrder.map((stat, i) => dcRow(
+      i === 0 ? 'Spell save DC' : '', stat, false, null,
+      multiCast ? statClasses[stat].join(' / ') : null));
     const r2 = dcRow('Item save DC', itemStat, diverge,
       diverge ? 'Items, scrolls and illithid powers use the casting stat of the most '
-        + 'recent class you took your first level in — here that differs from your spell stat.'
+        + 'recent class you took your first level in — here that differs from your main casting stat.'
         : null);
-    if (r1 || r2) {
+    if (spellRows.some(Boolean) || r2) {
       const sdc = document.createElement('div');
       sdc.className = 'save-dc';
-      if (r1) sdc.appendChild(r1);
+      spellRows.forEach(r => r && sdc.appendChild(r));
       if (r2) sdc.appendChild(r2);
       const f = document.createElement('div');
       f.className = 'save-dc-formula';
