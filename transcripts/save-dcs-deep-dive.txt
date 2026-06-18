@@ -1,0 +1,833 @@
+Hello, my friends, and welcome back to
+another Baldur's Gate 3 tutorial and
+guide. Hope you're all doing well.
+Today, I'm going to be covering one of
+the weirder and more confusing mechanics
+in Baldur's Gate 3, save DCs. Saving
+throws are one of the most bizarre
+mechanics in BG3. The difficulty class
+of spells, items, illithid powers, and
+various other effects in the game use
+completely different rules and are full
+of exceptions, traps, and bugs. So,
+knowing how to build your characters to
+make sure enemies will actually fail
+their saves against your effects can be
+really difficult. Even now, years after
+the game released, I still see a ton of
+confusion around this topic. I get
+probably at least one question every
+video that I post about this, and often
+many more. So, today, I'm going to try
+to clear that up. Once you understand
+how these work, you should no longer see
+wildly low success chances on your
+spells um for completely unclear
+reasons, and you should be able to use
+some of the most powerful items and
+abilities in the game without any
+issues. Before I begin, I do want to
+take a quick moment to say thank you so
+much to Rosie O'Donnell for the $10
+donation, John Walker for the $10,
+Imperial Fish for the $25, and Duke and
+Arcade for becoming channel members.
+Thank you so much, my friends. I really
+appreciate your support. It really means
+a lot to me. All right, let's clear up
+some confusion.
+So, before we get really deep into the
+weeds on this weird mechanic, let's
+quickly go over the basics. If you
+already know what a saving throw is,
+what a save DC is, and why they're
+important, you can feel free to skip to
+the next part of the video.
+Basically, anytime something bad happens
+to a creature, they're going to roll a
+saving throw in order to try to avoid
+that effect. If you step in a trap,
+you're going to roll a save to try to
+avoid taking damage. If an enemy throws
+a fireball at you, you're going to roll
+a saving throw in order to dodge it and
+avoid taking some of the damage from
+that fireball. If you try to mind
+control an enemy, they're going to roll
+a saving throw in order to resist your
+mind control. This is true both for
+player characters and for enemies.
+Essentially, anytime something happens
+to a character that isn't a direct
+attack roll, it uses a saving throw to
+decide whether it happens or not. So,
+most of the time when you're casting a
+spell and you hover over an enemy, the
+game will show you a percentage chance.
+What it's actually showing you is the
+percent chance that that enemy's saving
+throw will beat your save difficulty
+class, and that they will then resist
+the effect. For most uh characters,
+their saving throws use one of the six
+attributes. So, for most spell effects
+and other effects that use saving
+throws, they're going to target one of
+the attributes. For example, a fireball
+you resist with your dexterity cuz
+you're dodging out of the way. A mind
+control effect like hold person, you
+resist with your wisdom cuz you're using
+your willpower to resist it.
+Um
+the actual number that you roll for your
+saving throw is 1d20 plus your ability
+modifier in the relevant ability, plus
+your proficiency bonus if you're
+proficient in that saving throw, and
+that's going to depend on what class you
+are. So, for example, a fighter is
+proficient in uh strength saves and will
+get a bonus to their strength saves
+based on their character level, and then
+any additional bonuses that you have.
+What this means is that for most
+characters at low levels, their saving
+throws are going to be somewhere between
+13 and 15 on average, and at high
+levels, they're going to be somewhere
+between 17 and 20 on average. And that
+will be compared to the difficulty class
+of making that saving throw to see
+whether they succeed. If you meet or
+beat the save DC, then you succeed, and
+the bad thing doesn't happen or happens
+with reduced effect.
+So, now we know that when you're saving
+against something, you need to meet or
+exceed the save DC in order to avoid
+that effect. But, what is actually a
+save DC? Save DC in this case stands for
+difficulty class, and it just measures
+how hard it is to avoid having something
+bad happen to you. A more powerful enemy
+will be better at casting spells, and so
+their spells will be harder for your
+character to resist. A more difficult if
+uh effect to avoid will be harder, so
+it'll have a higher difficulty class.
+For example, dodging a falling feather
+is going to be easier than dodging a
+falling building, so the save DC for
+that would be correspondingly lower. The
+higher the save DC, the harder it is to
+make the save. The lower the save DC,
+the easier it is to make the save.
+Every effect in the game that targets a
+saving throw has its own save DC so that
+you know how high the saving throw has
+to be in order to resist it. But, how do
+you actually calculate that number?
+Well, that, unfortunately, is where it
+gets really confusing. In Baldur's Gate
+3, how to calculate your save DC uses a
+ton of different formulas and different
+mathematical equations for whichever
+different type of effect it is. And so,
+knowing which governs what and how to
+maximize them can be very important for
+building your characters because it
+makes you it will let you build
+characters such that their effects are
+as difficult to resist as possible.
+So, in Baldur's Gate 3, there are five
+different types of save DC, and they
+each have their own formula in order to
+determine how difficult it is to resist
+that type of effect. This is true both
+for you and for enemies. So, if you cast
+a spell, it will use the same
+calculation to determine the spell save
+DC that enemies have to save against. Um
+then, if an enemy casts a spell, it will
+also use the same spell DC equation.
+Most mechanics in the game are
+reciprocal, so they work the same for
+you and enemies. There are some
+exceptions to this, but for the most
+part, these formulas will be true both
+for your party and for the enemies. The
+five types of saving throw in the game
+are fixed save DCs, concentration saves,
+which use their own formula, maneuver
+DCs, which are for physical actions and
+things like tripping an enemy, spell
+saves, which are the ones you're most
+often going to encounter, where you are
+casting a spell on an enemy or an enemy
+is casting a spell on you, and then item
+save DCs. Item DCs are the ones that are
+unique to Baldur's Gate 3. It's not a
+mechanic that exists in tabletop D&amp;D,
+and this is where a lot of the confusion
+arises because item DCs are both complex
+to uh determine and full of bugs and
+exceptions. So, we're going to spend the
+most time on those, but we'll go over
+how all of these different save DCs are
+calculated.
+First up, the simplest of the five,
+fixed save DCs. This is a fixed number.
+So, the DC is calculated by it's a
+number. For example, 12. This is usually
+used for consumable items or story
+effects. So, a trap that exists in the
+world will always have the same DC no
+matter what level your party is when
+they encounter it, and you'll just have
+to make the saving throws against it um
+based on the difficulty class that the
+developers set for that particular
+encounter. Other effects that use this
+are things like consumable items. For
+example, if you throw a bottle of grease
+at an enemy, the DC for them to avoid
+slipping on that grease puddle is always
+going to be 12. So, if you throw a
+bottle of grease at an enemy, they
+always have to meet or beat a 12 on
+their dexterity saving throw against it
+to avoid slipping and falling. This is
+different from if you cast the grease
+spell because that will use your spell
+save DC, but a lot of consumable items
+and and um similar effects have fixed
+numbers that are associated with them.
+There are also a couple spells and other
+items in the game that are bugged and
+have fixed DCs even though they're
+supposed to use one of the other
+formulas. Um
+you don't really need to know any of
+those exceptions, but basically, a fixed
+DC for any particular item is just a
+number, and that number will always be
+the same. So, very simple.
+The second type of save DC in the game
+is concentration saves. So, this is used
+when a character is concentrating
+on hold person or haste, and they take
+damage or something otherwise disrupts
+their concentration, they're going to
+have to make a concentration save, which
+is a constitution saving throw, uh in
+order to maintain concentration on that
+spell. If they fail the save, they lose
+the spell, and whatever effect they're
+concentrating on stops working. Again,
+this is the same for your characters and
+for the enemies. The way that this is
+calculated is the difficulty class you
+have to meet in order to maintain
+concentration on a spell is equal to
+half the damage that you took that
+caused you to make the concentration
+save. So, anytime you're concentrating
+on a spell and you take any amount of
+damage, you have to make a saving throw
+in order to maintain concentration, and
+the save DC is half the damage you took.
+There's a minimum of 10 on this. So, if
+you take one damage, you still need to
+beat a DC of 10 in order to maintain
+concentration on your spell. If you take
+100 damage at once, you would need to
+make a DC of 50, which for most
+characters is going to be impossible.
+So, this scales based on the amount of
+incoming damage. Uh it's always a
+constitution save, and it is affected by
+most bonuses to constitution saving
+throws. So, your uh con save bonuses
+will apply when you're trying to
+maintain concentration on a spell.
+There's no way to change the save DC on
+concentration spells other than just
+doing more damage cuz it's always uh
+calculated based on the damage that you
+dealt.
+The third type of save DC in the game is
+maneuver DC. So, this one is kind of a
+house rule for Baldur's Gate 3. There
+are some effects that work like this in
+tabletop, but in Baldur's Gate 3, a lot
+more effects have been changed to use
+this DC calculation, so it comes up a
+lot more often. This is particularly
+important for martial characters. If
+you're playing a fighter or a monk, this
+is probably the one that you care about
+because this is how enemies resist
+effects from those types of characters.
+To determine your character's maneuver
+DC, which is going to be used for all of
+their physical actions as well as a lot
+of special weapon actions and things
+like shield bashing, the formula is
+eight plus your proficiency bonus plus
+the higher of your strength or dexterity
+bonus. Your proficiency bonus is equal
+to two at first level and increases up
+to plus four at later levels. So, for a
+character at level one with 16 strength,
+their maneuver DC would be 13, meaning
+enemies have to meet 13 or higher in
+order to resist their effects. Um which
+of course is eight plus two from their
+proficiency plus three from their plus
+three strength bonus for having 16
+strength. At level 12, a character with
+20 strength, which is fairly typical,
+would have a maneuver DC of 17. Eight
+plus four for their proficiency bonus
+plus five for their strength bonus. So,
+enemies would have to meet or beat a 17
+in order to resist their effects.
+This bonus is also affected by most, but
+not all, save DC items. So, items that
+increase your save DC,
+a lot of them do work on maneuver DC,
+but some of them only specifically work
+on spell save DC, which we'll talk about
+in a second. And a lot of effects that
+increase your save DCs do not work on
+maneuver DCs. So, these will typically
+be a little lower because a lot of
+effects that you can use to boost them
+will not work on them
+compared to spell save.
+These are used for pretty much every
+physical action. So, things like battle
+master maneuvers, which is of course
+where we get the name,
+use your maneuver DC. If you use
+tripping attack as a battle master, an
+enemy is going to have to beat your
+maneuver DC in order to avoid getting
+tripped. A monk will use
+maneuver DC for their stunning strike as
+well as any other monk weapon abilities
+that they have. Um this is actually a
+difference from tabletop where it
+doesn't use maneuver DC in tabletop D&amp;D,
+but in Baldur's Gate 3, monk stunning
+strike does use your maneuver DC. So, an
+having high strength or high dexterity
+on your monk will make your stuns harder
+to resist. It's also used for most
+weapon actions. So, the short rest
+weapon actions that most weapons have,
+these will calculate how difficult they
+are to resist using your maneuver DC.
+Things like shield bashing with a shield
+will use your maneuver DC.
+They finally fixed the bug, so this
+should actually work properly. It used
+to use your spell DC, but it's supposed
+to use maneuver DC and has finally been
+fixed, so shield bashing should work for
+that. So, basically anything physical
+that you do that's not casting a spell
+is going to use your maneuver DC, which
+is going to be calculated using this
+formula.
+The fourth type of save DC is the one
+players are going to encounter most
+commonly, and this is your spell DC. So,
+for any character casting spells, their
+DC and their chances to hit are going to
+be based on their casting stat, very
+similar to maneuver DC using strength or
+dexterity, but for a spell caster, it's
+going to be one of the mental stats.
+This is the normal one, so it's going to
+be the one that you're going to
+encounter most often throughout the
+game. And this is what the formulas for
+this
+for this category of difficulty classes
+are typically based on. The formula for
+your spell save DC is
+eight at base plus your proficiency
+bonus plus your casting stat. So,
+just like maneuver DC, it's going to use
+a stat modifier plus your proficiency
+plus eight. In this case, your casting
+stat is going to be determined by the
+class that's casting the spell. Um this
+is used for most spells and most for
+almost all spells except the ones that
+are bugged. And most classed abilities
+for caster classes will also use their
+spell save DC if it's something that you
+resist. So, any something like a glamour
+bard using
+um
+uh
+uh mantle of majesty will the resistance
+against the command effect from that
+will be calculated using the glamour
+bard's save DC.
+The way that you calculate this is going
+to be determined by the class that's
+casting the spell. So, whenever you cast
+a spell, that will always use the
+casting stat for the class that learned
+the spell, and that's true regardless of
+whether you multi-class. For example, if
+you are playing a bard, then you're
+always going to use charisma for casting
+your bard spells. And if you're playing
+a bard cleric multi-class, then your
+bard spells will always use charisma and
+your cleric spells will always use
+wisdom to determine how difficult they
+are to resist.
+What that means is that if you're a bard
+with a one level dip in cleric, you
+probably don't care that much about
+having high wisdom, but you really want
+high charisma because that's going to be
+important for determining how difficult
+it is for enemies to resist your bard
+spells.
+If you get a spell from multiple
+sources, so if you have a spell that is
+available both to bards and clerics, for
+example, healing word,
+healing word doesn't have a DC to resist
+it, but the bonus that you get is
+determined by your casting stat. Uh then
+you get both
+uh versions of the spell and you get to
+choose which one to use. So, if you're a
+bard cleric multi-class and you have
+healing word from both of them, you can
+cast it as a bard spell or as a cleric
+spell depending on whether your charisma
+or your wisdom is higher. So, choosing
+the right version of the spell to use
+when you're multi-classing is going to
+help make your spells as impactful as
+possible. Spell DCs also do include all
+wizard spells, even the ones that they
+learn from scrolls. So, if you're a
+wizard and you're learning spells from a
+scroll, those will always use your
+intelligence no matter how you've
+multi-classed your character. Even if
+you only have one level in wizard and
+are learning high level wizard spells
+using
+the the feature of wizards that lets
+them scribe scrolls of any level, those
+scrolls that you scribe will be wizard
+spells, so they will always use your
+intelligence no matter what classes you
+take multi-classed and no matter what
+order you took your classes in. Any
+spell that's available from your actual
+casting is always going to use the
+casting stat for that class, no
+exceptions.
+So, up until this point, all of that is
+hopefully fairly straightforward and
+fairly intuitive. Have high strength,
+you're good at knocking people over.
+Have high charisma, you're good at
+casting bard spells cuz that's the stat
+that they use to determine how good
+their spells are. This is where things
+get confusing, and here is where I'm
+going to throw in a word of caution. If
+you are completely new to the game, you
+should be careful with this next bit of
+information.
+Up until this point, everything will
+make sense, and for 90% of your play
+time,
+that's all you need to know is that
+having high stats in the relevant area
+will make your spells harder to resist,
+more likely to hit when you attack with
+them, and enemies will have a harder
+time avoiding them. High charisma, good
+for bards because it increases your
+spell save DC.
+This next part though, with item save
+DC, is very confusing and weirdly set
+up. And so again, I want to say if
+you're new to the game and just looking
+for a basic overview of the mechanics,
+it is safe to ignore this next part.
+Only dive in if you're looking for a
+deep dive in the weird mechanics of
+Baldur's Gate 3. So, with that
+disclaimer out of the way, let's get
+into it.
+So, item DC. So, this is the weird one
+in Baldur's Gate 3, and basically the
+reason why I made this video is because
+the rules that govern item DC are
+counter-intuitive,
+baroque, and never explained anywhere in
+the game. And there's also a ton of
+misinformation online about how this
+actually works. So, figuring out how
+this class of difficulty class actually
+functions and what formulas actually
+govern it and what things are affected
+by it can be very difficult because the
+information out there is not necessarily
+accurate.
+So, the way that item DC works is the
+formula is similar to the uh to your
+maneuver or spell DC. It's eight plus
+your proficiency modifier plus your
+casting stat. But in this case, how the
+casting stat is determined is not just
+based on your classes.
+Um for your spell save DC, it's going to
+be whatever class
+gives you that spell, that's how you
+determine the DC. For your item DC, so
+this is for spells cast from directly
+from items, spells that you cast from
+scrolls, and your illithid powers. The
+stat is determined by the most recent
+new casting class that you multi-classed
+into. So, for a mono-class character,
+this is going to work just fine. It will
+be identical to your spell save DC. So,
+if you're playing a mono-class
+character, you don't have to worry about
+your item DC being broken. But if you're
+playing a multi-class character, it's
+very easy to ruin your character's
+ability to use items effectively if you
+take the classes in the wrong order cuz
+this is one of the only things in the
+entire game that cares about what order
+you took your classes in.
+The way that the stat is determined is
+by the most recent new casting class.
+So, the class you took level one in most
+recently is going to determine your
+casting stat. Uh it's also affected by
+most save DC increasing items, just like
+spell saves. And it's also important
+that some spells are bugged and use item
+save DC, in particular spells that have
+repeatable effects. So, if you're
+casting call lightning, the first
+instance of call lightning is going to
+use your spell save DC, but every
+subsequent time you recast it, it's
+going to use your item save DC because
+of bugs.
+So, this is obviously a little
+confusing, so let's break it down with
+some examples. So, this uh cares about
+the order that you take your classes in.
+Um so, for example, your item save DC,
+if you are a bard who then multiclasses
+into cleric, will use your wisdom
+because cleric is the class you took
+most recently. Whereas, if you're a
+cleric who multiclasses into bard,
+you're going to use your charisma for
+your item.
+It also only counts classes that have a
+casting ability, so classes that uh cast
+spells naturally. Um so, if you're a
+bard who multiclasses into fighter, it
+won't change your item save DC. You're
+still going to use charisma for that.
+Unless you then take a casting subclass.
+So, if you are a bard who multiclasses
+into fighter and then takes Eldritch
+Knight, when you hit level three and
+take Eldritch Knight because that is a
+casting class, it's going to change your
+item DC to intelligence because Eldritch
+Knights and fighters in general use
+intelligence as their casting class.
+I get that this is very confusing, but
+this is how it works.
+And of course, just to remind you, this
+is the save DC for spells that you cast
+from items,
+uh your illithid powers, and spells you
+cast from scrolls. So, if you are a
+sorcerer who learns fireball and then
+takes a level of cleric and you just
+cast fireball, it's still going to use
+your charisma. But, if you're a sorcerer
+who then takes a level of cleric and
+uses a scroll of fireball, it will use
+your wisdom. So, that's why you might
+have seen those having wildly different
+success chances if you've been playing
+multiclassed characters because they use
+different rules to determine your save
+DC.
+Give some more examples just to try to
+clarify things.
+If you have no caster levels, um
+then this will use the default attribute
+for that class. So, if you are a fighter
+using a scroll of fireball, it's going
+to determine the DC based on your
+intelligence. Fighters and rogues cast
+with intelligence, barbarians cast with
+charisma, monks cast with wisdom. So, if
+if they use a scroll or if those
+characters learn illithid powers, those
+are going to be the stats that determine
+how those uh DCs are calculated.
+Paladins and rangers count even before
+they learn their spells. So, if you
+um if you are a bard who then takes a
+level of ranger, it's immediately going
+to switch your item DC to wisdom even if
+you only take one level of ranger and
+don't actually ever learn any ranger
+spells.
+And the casting subclasses, Eldritch
+Knight and uh Arcane Trickster, count
+when you enter that casting subclass.
+So, fighter at the first two levels will
+not change your save DC, but if you then
+take a level of uh a third level of
+fighter and take Eldritch Knight, it'll
+change your DC to your item DC and
+again, item DC only, not for spells you
+cast from your class levels, uh it'll
+change that to intelligence. Um but, if
+you took battle master, then nothing
+would change because that's not a
+casting class.
+So, again, this formula is a little
+bizarre, so let's do some more specific
+examples of particular multiclass builds
+and see what casting class casting stat
+they're going to use if they're using
+illithid powers or casting spells from
+items. So, if you're a cleric, you take
+one level of cleric, then one level of
+bard, and then 10 more levels of cleric,
+that character will use its charisma for
+its item casting stat because bard is
+the most recent caster class that it
+took the first level of. The later
+levels of cleric do not matter for the
+the item casting the item save DC. It's
+only the most recent class you took
+level one in.
+A
+cleric who then takes a level of
+fighter, uh that doesn't change anything
+cuz that's not a casting class. So, if
+you do go cleric one, fighter one,
+cleric 10, you're still going to use
+your wisdom. But, if you go cleric one,
+fighter three, and take Eldritch Knight,
+and then eight more levels of cleric,
+that character will use their
+intelligence because Eldritch Knight is
+a casting class. Whereas, if you took
+cleric one, fighter, and then took
+battle master fighter, it would still
+use its wisdom cuz that's not a casting
+class. And again, I want to reiterate
+this cuz this is a really important
+point of confusion, this is not for your
+cleric spells, which will still use your
+wisdom in all of these examples, but for
+illithid powers and spells that you cast
+from scrolls.
+Uh a cleric who takes a level of paladin
+and then 10 more levels of cleric is
+going to use your charisma to cast their
+items um because paladin, even though
+you haven't learned any paladin spells
+with only one level of paladin, still
+counts as a casting class for the
+purpose of determining your save DC.
+Warlock, paladin, bard, and then cleric,
+that character is going to use its
+wisdom because cleric is the most recent
+character class that it took level one
+in. Whereas, warlock, paladin, cleric,
+and then bard, that character is going
+to use its charisma because bard is the
+most recent class that it took level one
+in. So, the things that it cares about
+for your item save DC is just the most
+recent casting class that you took the
+first level of, and the casting
+subclasses count as soon as you enter
+that subclass. Later levels of Eldritch
+Knight, similar to later levels of
+cleric, don't matter. It's only when you
+first enter that class that it changes
+your item save DC.
+So, what all that means when you're
+building your character, of course, is
+that if you're a character that wants to
+use illithid powers offensively or cast
+items from uh scrolls or cast spells
+from scrolls or cast spells from a
+staff, um you should arrange your
+character builds so that the most recent
+class that you took level one in has the
+casting stat that you want to use. So,
+if you want to use charisma for your
+items, you should make sure that you are
+taking a charisma class as your most
+recent new casting class. Um there that
+adds some extra complexity to building
+your characters cuz it does mean that
+for spellcasters, who often are the
+characters that you want to be casting
+from scrolls, you need to make sure that
+you take your classes in the right order
+in order to avoid having those be
+ineffective tools as you play through
+the game. So, hopefully this gives you
+some idea of how the formula works and
+how to arrange building your characters
+so that you don't make those uh tools
+useless as you play through the game.
+But, now that we know how it works, I
+think there's also a fairly important
+other question to ask and one that I've
+been asked a lot and that I have myself,
+and that is why. Why do item DCs work
+this way? Why is it such a complicated
+formula with so many exceptions? Why
+does it care about leveling your
+characters in a certain order when
+almost nothing else in the game cares
+about leveling your characters in a
+certain order? And the answer to that is
+uh I I just don't know. know why they
+did it this way. As far as I know, no
+one knows. I don't think we've gotten an
+answer from Larian as to why they did it
+this way or even whether it was
+intentional. And my personal strong
+suspicion is that this was not an
+intentional design decision. I think it
+was most likely to be an artifact of at
+some point in the design process, they
+had a more complex system attached to
+this and this is a leftover piece of
+that, or it's an artifact of how they
+coded calculating save DCs that they
+just never bothered to fix and maybe
+didn't even know was happening because
+only if you're doing a lot of
+multiclassing, which uh Larian didn't
+really test a lot for multiclass builds
+because a small percentage of players
+use them, um will you ever actually run
+into this effect. So, my suspicion
+is that this was not intentional and is
+just a weird artifact of some point in
+the design process that was accidentally
+left in the final product. This is not
+how it works in tabletop, so it's not
+something that they brought over from
+tabletop, and honestly, it could easily
+have been fixed. It just wasn't. Um so,
+I just don't know why it works this way.
+It, in my opinion, adds unnecessary
+complexity and unnecessary traps for new
+players uh with no benefit to the
+players, uh just making it so that you
+have to take your character levels in a
+certain order, restrict player in order
+to avoid having
+um
+something weird that you probably don't
+even know is happening happen that makes
+your character worse, restrict player
+freedom, and
+causes uh
+you know, video half-hour video essays
+on YouTube about the weird mechanic
+here, uh which
+um there's a lot of different ways that
+they could fix this, but my preferred
+solution is just to make it so that item
+DC just uses your highest mental stat.
+That would be the most intuitive way for
+any player, you know, if you're a
+charisma character, you expect that a
+spell that you cast is going to use your
+charisma even if you have one level of
+cleric, and there's no reason that that
+shouldn't be true for
+um scrolls or for your illithid powers
+or whatever. The fact that it doesn't
+work that way yields these bizarre
+corner cases, and so should probably
+have been fixed, though it's so baked
+into the game at this point that
+obviously it won't be. Um but, overall,
+uh it's something that you can easily
+work around once you know that it's
+there. It's just never explained
+anywhere in game, so knowing is uh the
+entire battle for this, and then you can
+build your characters in order to avoid
+falling into this trap.
+All right, my friends. I hope you've
+enjoyed this sort of deep mechanic dive.
+I know this is a little different from
+the videos that I normally do, but
+honestly, there's so much confusion
+around this topic that I thought and
+misinformation that I thought it would
+be useful to put all of the information
+in one place and maybe give people
+uh a more complete picture of how the
+characters actually work under the hood.
+So, hopefully you've enjoyed it, and
+hopefully you found it helpful. If you
+are a uh newer player, then maybe this
+let you avoid a trap that you were going
+to fall into. And if you're a veteran
+player, maybe it cleared up some
+misconceptions that have been very
+persistent throughout the lifetime of
+the game.
+As always, of course, if you have
+enjoyed the video, feel free to leave a
+comment. And if you have any questions
+about specific character combinations or
+how it's going to work or specific
+spells or items and whether uh what save
+DC and things that they use, definitely
+let me know in the comments, and I will
+do my best to clear those up. Um and of
+course, as always, if you've enjoyed the
+video, feel free to leave a comment and
+hit like. It'll help you out with the
+algorithm, so I appreciate you taking
+the time to do that. And of course, you
+can subscribe to my channel for more
+Baldur's Gate 3 guides and other
+strategy game analysis. Cheers, folks.
+I'll catch you next time.
