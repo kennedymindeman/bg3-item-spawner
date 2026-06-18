@@ -2027,9 +2027,17 @@ function buildDetailContent(b) {
     card.appendChild(s);
   }
 
-  // ---- Starting ability scores (creation-locked, so shown up top) ----
+  // ---- Ability scores at the current respec level (creation array + ASIs) ----
   if (b.abilityScores) {
     const sc = b.abilityScores;
+    // Score at the current level = starting array + ASIs taken by then (cap 20).
+    // Shared by the grid, the save indicators and the DC rows so they always agree.
+    const prof = 2 + Math.floor((respecLevel - 1) / 4);   // +2 (1-4), +3 (5-8), +4 (9-12)
+    const upsFor = ab => (b.abilityUps || []).reduce(
+      (sum, u) => sum + (u.ab === ab && u.level <= respecLevel ? u.amt : 0), 0);
+    const scoreOf = ab => (sc[ab] == null ? null : Math.min(20, sc[ab] + upsFor(ab)));
+    const modOf = ab => { const v = scoreOf(ab); return v == null ? null : Math.floor((v - 10) / 2); };
+    const fmtMod = m => (m >= 0 ? '+' + m : String(m));
     const saveInfo = firstClassSaves(b.leveling || [], respecLevel);
     const saveSet = saveInfo ? saveInfo.saves : [];
     const wrap = document.createElement('div');
@@ -2044,7 +2052,12 @@ function buildDetailContent(b) {
       lab.textContent = ab;
       const val = document.createElement('span');
       val.className = 'ability-val';
-      val.textContent = (sc[ab] != null ? sc[ab] : '—');
+      const cur = scoreOf(ab);
+      val.textContent = (cur != null ? cur : '—');
+      if (cur != null && cur !== sc[ab]) {
+        cell.title = ab + ' ' + sc[ab] + ' at creation, +' + (cur - sc[ab])
+          + ' from ASIs by L' + respecLevel;
+      }
       cell.appendChild(lab);
       cell.appendChild(val);
       wrap.appendChild(cell);
@@ -2072,13 +2085,6 @@ function buildDetailContent(b) {
     // Concrete save DCs at the current level. Spell DC uses your casting stat;
     // item DC (spells from items/staves, scrolls, illithid powers) uses the casting
     // stat of the most-recent class you took your FIRST level in — so it can differ.
-    const prof = 2 + Math.floor((respecLevel - 1) / 4);   // +2 (1-4), +3 (5-8), +4 (9-12)
-    // Score at the current level = starting array + ASIs taken by then (cap 20).
-    const upsFor = ab => (b.abilityUps || []).reduce(
-      (sum, u) => sum + (u.ab === ab && u.level <= respecLevel ? u.amt : 0), 0);
-    const scoreOf = ab => (sc[ab] == null ? null : Math.min(20, sc[ab] + upsFor(ab)));
-    const modOf = ab => { const v = scoreOf(ab); return v == null ? null : Math.floor((v - 10) / 2); };
-    const fmtMod = m => (m >= 0 ? '+' + m : String(m));
     function dcRow(label, stat, diverge, hint) {
       if (!stat) return null;
       const m = modOf(stat);
