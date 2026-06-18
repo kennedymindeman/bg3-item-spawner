@@ -51,8 +51,9 @@ RESPEC_NOTES = {
 # on a respec (the CON-save class), when it's affordable at the current level.
 RESPEC_LEAD = {
     1: "Fighter 1",          # CON save for the archer's concentration control spells
-    2: "Fighter 1",          # CON save + AC; War Cleric becomes a 2nd-slot dip
     6: "Sorcerer 1",         # CON save for Haste; over the Tempest Cleric opener
+    # EK Thrower (rank 2) now leads Fighter by natural order — War Cleric is a level-5
+    # dip via dipMin, so no respecLead needed.
 }
 
 # spike[rank][level] = (type, note)
@@ -67,8 +68,9 @@ SPIKES = {
     },
     2: {
         1:  ("defensive","Fighter chassis — ~20 base AC and strong from level one; no 'wait for it to come online'."),
-        3:  ("combat",   "Action Surge (Fighter 2) — an extra full action of thrown attacks."),
-        4:  ("combat",   "Eldritch Knight (Fighter 3) — bind your thrown weapon so it returns; War Magic bonus action."),
+        2:  ("combat",   "Action Surge (Fighter 2) — an extra full action of thrown attacks."),
+        3:  ("combat",   "Eldritch Knight (Fighter 3) — bind your thrown weapon so it returns; War Magic bonus action."),
+        5:  ("defensive","War Cleric dip — heavy armour, Channel Divinity, and War Priest bonus-action throws."),
         6:  ("combat",   "Extra Attack (Fighter 5) — doubles your thrown attacks."),
         12: ("combat",   "Improved Extra Attack (Fighter 11) — three attacks; with the bonus-action throw + Action Surge, a massive thrown nova."),
     },
@@ -127,7 +129,7 @@ SPIKES = {
 # dipMin[rank][level] = min total level to assign this flexible dip pick in a respec.
 DIPMIN = {
     1: {7: 7, 8: 8},   # Swords Bard: the Fighter dip is post-Bard-6
-    2: {1: 5},         # EK Thrower: the War Cleric dip is optional; lead with Fighter below level 5
+    2: {5: 5},         # EK Thrower: the War Cleric dip slots in at level 5 (Fighter leads)
 }
 
 

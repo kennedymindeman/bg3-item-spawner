@@ -548,6 +548,14 @@
   .bd-summary { color: var(--ink); font-size: 0.9rem; margin-top: 8px; line-height: 1.55; }
   .bd-meta { font-size: 0.82rem; color: var(--ink-dim); margin-top: 6px; }
   .bd-meta strong { color: var(--ink-faint); font-weight: 600; }
+  .ability-array { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 14px; }
+  .ability-cell { display: flex; flex-direction: column; align-items: center; min-width: 52px; padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg-panel); }
+  .ability-cell.primary { border-color: var(--gold); background: var(--bg-panel-2); }
+  .ability-ab { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); }
+  .ability-cell.primary .ability-ab { color: var(--gold); }
+  .ability-val { font-family: 'Cinzel', serif; font-weight: 600; font-size: 1.1rem; color: var(--ink); margin-top: 2px; }
+  .ability-cell.primary .ability-val { color: var(--gold-bright); }
+  .ability-note { color: var(--ink-dim); font-size: 0.82rem; line-height: 1.5; margin-top: 8px; }
   .respec-bar { margin: 18px 0 6px; padding: 13px 15px; background: var(--bg-panel); border: 1px solid var(--border-bright); border-radius: 8px; }
   .respec-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); margin-bottom: 9px; }
   .respec-btns { display: flex; flex-wrap: wrap; gap: 5px; }
@@ -1710,6 +1718,12 @@ const buildsContent = document.getElementById('builds-content');
 const buildSearch = document.getElementById('build-search');
 const buildEmpty = document.getElementById('build-empty');
 
+// Some spell names collide with non-spell wiki pages and need a disambiguated
+// title (e.g. "Shield" -> "Shield (spell)", not the armour page).
+const SPELL_WIKI = {
+  'Shield': 'Shield (spell)',
+};
+
 // A spell pick rendered as its in-game icon "rune" (name on hover), matching
 // how the level-up GUI shows spells. The chip links to the spell's bg3.wiki
 // page; falls back to a lettered tile if the icon can't load.
@@ -1717,7 +1731,7 @@ function spellRune(name) {
   const chip = document.createElement('a');
   chip.className = 'lvl-spell';
   chip.title = name + ' — open on bg3.wiki';
-  chip.href = 'https://bg3.wiki/wiki/' + encodeURIComponent(name.replace(/ /g, '_'));
+  chip.href = 'https://bg3.wiki/wiki/' + encodeURIComponent((SPELL_WIKI[name] || name).replace(/ /g, '_'));
   chip.target = '_blank';
   chip.rel = 'noopener';
   const url = SPELL_ICONS && SPELL_ICONS[name];
@@ -1915,7 +1929,7 @@ function buildDetailContent(b) {
   head.className = 'bd-head';
   const nm = document.createElement('span');
   nm.className = 'bd-name';
-  nm.textContent = (b.rank ? '#' + b.rank + '  ' : '') + (b.name || 'Untitled build');
+  nm.textContent = b.name || 'Untitled build';
   head.appendChild(nm);
   if (b.composition) {
     const c = document.createElement('span');
@@ -1932,30 +1946,39 @@ function buildDetailContent(b) {
   head.appendChild(close);
   card.appendChild(head);
 
-  if (b.role) {
-    const r = document.createElement('div');
-    r.className = 'bd-role';
-    r.textContent = b.role;
-    card.appendChild(r);
-  }
   if (b.summary) {
     const s = document.createElement('div');
     s.className = 'bd-summary';
     s.textContent = b.summary;
     card.appendChild(s);
   }
-  function metaLine(label, val) {
-    if (!val) return;
-    const m = document.createElement('div');
-    m.className = 'bd-meta';
-    const l = document.createElement('strong');
-    l.textContent = label + ': ';
-    m.appendChild(l);
-    m.appendChild(document.createTextNode(val));
-    card.appendChild(m);
+
+  // ---- Starting ability scores (creation-locked, so shown up top) ----
+  if (b.abilityScores) {
+    const sc = b.abilityScores;
+    const wrap = document.createElement('div');
+    wrap.className = 'ability-array';
+    ['STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA'].forEach(ab => {
+      const cell = document.createElement('div');
+      cell.className = 'ability-cell' + (sc.primary && sc.primary.includes(ab) ? ' primary' : '');
+      const lab = document.createElement('span');
+      lab.className = 'ability-ab';
+      lab.textContent = ab;
+      const val = document.createElement('span');
+      val.className = 'ability-val';
+      val.textContent = (sc[ab] != null ? sc[ab] : '—');
+      cell.appendChild(lab);
+      cell.appendChild(val);
+      wrap.appendChild(cell);
+    });
+    card.appendChild(wrap);
+    if (sc.note) {
+      const note = document.createElement('div');
+      note.className = 'ability-note';
+      note.textContent = sc.note;
+      card.appendChild(note);
+    }
   }
-  metaLine('Abilities', b.abilities);
-  metaLine('Key feats', (b.keyFeats || []).join(', '));
 
   // ---- Respec level control (global) ----
   const bar = document.createElement('div');
@@ -1975,12 +1998,6 @@ function buildDetailContent(b) {
     btns.appendChild(t);
   }
   bar.appendChild(btns);
-  if (b.respecNote) {
-    const note = document.createElement('div');
-    note.className = 'respec-note';
-    note.textContent = b.respecNote;
-    bar.appendChild(note);
-  }
   card.appendChild(bar);
 
   // ---- Body: sticky key-items aside + level timeline ----
@@ -2062,12 +2079,6 @@ function renderBuildListItem(b) {
 
   const head = document.createElement('div');
   head.className = 'build-li-head';
-  if (b.rank) {
-    const rk = document.createElement('span');
-    rk.className = 'build-li-rank';
-    rk.textContent = '#' + b.rank;
-    head.appendChild(rk);
-  }
   const nm = document.createElement('span');
   nm.className = 'build-li-name';
   nm.textContent = b.name || 'Untitled build';
