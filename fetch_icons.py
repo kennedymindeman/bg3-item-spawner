@@ -21,9 +21,10 @@ from pathlib import Path
 ICONS = Path("icons")
 SRC = Path("src") / "data" / "spell_icons.json"
 UA = "bg3-item-spawner-icon-fetch/1.0 (local reference build; one-time vendor)"
-DELAY = 6.0          # seconds between requests (bg3.wiki rate-limits aggressively)
-MAX_RETRIES = 8
-COOLDOWN = 180       # quiet seconds before the first request (clears penalty box)
+DELAY = 20.0         # seconds between requests: stay UNDER bg3.wiki's rate limit
+                     # so we never trip the sticky 429 penalty box in the first place
+MAX_RETRIES = 5
+COOLDOWN = 150       # quiet seconds before the first request (clears penalty box)
 
 
 def basename_for(url: str) -> str:
