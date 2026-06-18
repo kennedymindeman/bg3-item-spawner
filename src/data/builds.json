@@ -372,8 +372,7 @@
    ],
    "note": "Want more durability? Drop CHA to 14 and run CON 16. With Gloves of Dexterity (sets DEX to 18) you can dump DEX to 8 and move those points into CON 16 / WIS 14."
   },
-  "spellSaveStat": "CHA",
-  "itemSaveStat": "CHA"
+  "spellSaveStat": "CHA"
  },
  {
   "name": "Eldritch Knight Thrower",
@@ -507,8 +506,7 @@
    ],
    "note": "Elixir build: drink Hill/Cloud Giant Strength daily (it sets STR to 23/27), so STR is dumped to 8. Min-max spread runs DEX 17 / CON 15 / INT 12 and evens them out with later feats. No elixir? Max STR instead."
   },
-  "spellSaveStat": "INT",
-  "itemSaveStat": "WIS"
+  "spellSaveStat": "INT"
  },
  {
   "name": "Open Hand Monk",
@@ -620,8 +618,7 @@
    ],
    "note": "The Strength elixir is effectively required — it sets STR, so dump it and run DEX 16 / WIS 16. Without the elixir the build is too ability-hungry to function."
   },
-  "spellSaveStat": null,
-  "itemSaveStat": "WIS"
+  "spellSaveStat": null
  },
  {
   "name": "Berserker Barbarian Thrower",
@@ -750,8 +747,7 @@
    ],
    "note": "Strength elixir (Hill/Cloud Giant) is required for this split — it sets STR, so dump it to 8 and pump CON 16. Tavern Brawler then adds the elixir STR to thrown attacks twice over."
   },
-  "spellSaveStat": null,
-  "itemSaveStat": "CHA"
+  "spellSaveStat": null
  },
  {
   "name": "Abjuration Wizard (Tank Wizard)",
@@ -895,8 +891,7 @@
    ],
    "note": "One Sorcerer level is taken first for CON-save proficiency. With a +1 INT item or Auntie Ethel's Hair, start INT 17 to reach 18."
   },
-  "spellSaveStat": "INT",
-  "itemSaveStat": "INT"
+  "spellSaveStat": "INT"
  },
  {
   "name": "Lightning Lord",
@@ -1040,8 +1035,7 @@
    ],
    "note": "Sorcerer is taken first for CON-save proficiency (concentration on Haste). +1 CHA item / Ethel's Hair → start CHA 17 for an eventual 18."
   },
-  "spellSaveStat": "CHA",
-  "itemSaveStat": "INT"
+  "spellSaveStat": "CHA"
  },
  {
   "name": "Cleric (Light / Tempest / Nature)",
@@ -1183,8 +1177,7 @@
    ],
    "note": "Heavy-armour cleric, so DEX can stay low. +1 WIS item / Ethel's Hair → start WIS 17 to reach 18."
   },
-  "spellSaveStat": "WIS",
-  "itemSaveStat": "WIS"
+  "spellSaveStat": "WIS"
  },
  {
   "name": "Fire Sorcerer",
@@ -1315,8 +1308,7 @@
    ],
    "note": "Pure Sorcerer already grants CON-save proficiency. +1 CHA item / Ethel's Hair → start CHA 17 (move a point off CON if needed) to reach 18."
   },
-  "spellSaveStat": "CHA",
-  "itemSaveStat": "CHA"
+  "spellSaveStat": "CHA"
  },
  {
   "name": "Assassin Archer",
@@ -1447,8 +1439,7 @@
    ],
    "note": "Ranger wants some WIS for perception and spell saves. With Gloves of Dexterity (sets DEX 18), dump DEX and put the points into CON 16 / WIS 14."
   },
-  "spellSaveStat": "WIS",
-  "itemSaveStat": "WIS"
+  "spellSaveStat": "WIS"
  },
  {
   "name": "Moon Druid",
@@ -1590,8 +1581,7 @@
    ],
    "note": "Wild-shape forms use their own stats, so only your WIS (spell DC) and CON (concentration + the bonus HP) matter — dump everything else."
   },
-  "spellSaveStat": "WIS",
-  "itemSaveStat": "WIS"
+  "spellSaveStat": "WIS"
  },
  {
   "name": "Lockadin (Paladin / Warlock)",
@@ -1724,7 +1714,6 @@
    ],
    "note": "Every attack and smite scales off Charisma via Pact of the Blade. +1 CHA item / Ethel's Hair → start CHA 17 for an 18."
   },
-  "spellSaveStat": "CHA",
-  "itemSaveStat": "CHA"
+  "spellSaveStat": "CHA"
  }
 ]

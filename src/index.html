@@ -1827,6 +1827,42 @@ function firstClassSaves(leveling, N) {
   return saves ? { cls, saves } : null;
 }
 
+// Item-DC casting stats. Natural casters set the item-DC stat from their first
+// level; pure martials don't change it but supply a default if you cast a scroll
+// with no caster levels at all. (Casting subclasses EK/AT would also count, but
+// EK's default INT already matches, so we don't special-case them.)
+const CAST_STAT = {
+  Bard: 'CHA', Cleric: 'WIS', Druid: 'WIS', Paladin: 'CHA', Ranger: 'WIS',
+  Sorcerer: 'CHA', Warlock: 'CHA', Wizard: 'INT',
+};
+const NONCASTER_DEFAULT = { Fighter: 'INT', Rogue: 'INT', Barbarian: 'CHA', Monk: 'WIS' };
+const KNOWN_CLASSES = Object.keys(CAST_STAT).concat(Object.keys(NONCASTER_DEFAULT));
+// Resolve a class label to its canonical name — scans for a known class word so
+// odd labels like "War Cleric" still map to Cleric.
+function classOf(label) {
+  const s = label || '';
+  return KNOWN_CLASSES.find(c => new RegExp('\\b' + c + '\\b', 'i').test(s)) || baseClassName(s);
+}
+// BG3 item DC stat at the current respec level: the casting stat of the most
+// recent class you took your FIRST level in (so it shifts as dips come online).
+function itemDcStat(leveling, N) {
+  const ordered = respecPlan(leveling, N).now;
+  if (!ordered.length) return null;
+  let stat = null;
+  const seen = new Set();
+  ordered.forEach(st => {
+    const cls = classOf(st.class);
+    if (seen.has(cls)) return;
+    seen.add(cls);
+    if (CAST_STAT[cls]) stat = CAST_STAT[cls];   // only caster classes move it
+  });
+  if (stat == null) {                            // no caster taken yet -> class default
+    const first = classOf(ordered[0].class);
+    stat = CAST_STAT[first] || NONCASTER_DEFAULT[first] || null;
+  }
+  return stat;
+}
+
 // One row of the level timeline. `pos` is the character level you take it at.
 // `compact` (used for levels above your current one) shows just the class, dip,
 // feat and a small spike pill — no picks/spells/choices clutter.
@@ -2061,9 +2097,10 @@ function buildDetailContent(b) {
       }
       return row;
     }
-    const diverge = b.spellSaveStat && b.itemSaveStat && b.spellSaveStat !== b.itemSaveStat;
+    const itemStat = itemDcStat(b.leveling || [], respecLevel);
+    const diverge = b.spellSaveStat && itemStat && b.spellSaveStat !== itemStat;
     const r1 = dcRow('Spell save DC', b.spellSaveStat, false, null);
-    const r2 = dcRow('Item save DC', b.itemSaveStat, diverge,
+    const r2 = dcRow('Item save DC', itemStat, diverge,
       diverge ? 'Items, scrolls and illithid powers use the casting stat of the most '
         + 'recent class you took your first level in — here that differs from your spell stat.'
         : null);
