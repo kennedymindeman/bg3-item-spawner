@@ -14,6 +14,7 @@ is taken from the Special:FilePath URL (e.g. .../Aid_Icon.webp -> Aid_Icon.webp)
 import json
 import sys
 import time
+import urllib.parse
 import urllib.request
 import urllib.error
 from pathlib import Path
@@ -29,7 +30,9 @@ COOLDOWN = 150       # quiet seconds before the first request (clears penalty bo
 
 def basename_for(url: str) -> str:
     # https://bg3.wiki/wiki/Special:FilePath/Aid_Icon.webp -> Aid_Icon.webp
-    return url.rstrip("/").split("/")[-1]
+    # Decode %27 etc. so the on-disk name matches what the browser requests
+    # (the app's img.src decodeURIComponent's the same basename).
+    return urllib.parse.unquote(url.rstrip("/").split("/")[-1])
 
 
 def fetch(url: str, dest: Path) -> bool:

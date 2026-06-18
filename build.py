@@ -54,8 +54,11 @@ def main() -> int:
     # Spell-rune icons are vendored into icons/ (sidecar, lazy-loaded) so the app
     # doesn't hit bg3.wiki at runtime (it rate-limits -> blank glyphs). Warn if any
     # referenced icon is missing; run `uv run fetch_icons.py` to fetch them.
+    from urllib.parse import unquote
     icons = json.loads((SRC / "data" / "spell_icons.json").read_text(encoding="utf-8"))
-    wanted = {url.rstrip("/").split("/")[-1] for url in icons.values()}
+    # Decode %27 etc. so the check matches the on-disk filenames (Tasha's_..., not
+    # Tasha%27s_...), same as fetch_icons.py basename_for and the app's img.src.
+    wanted = {unquote(url.rstrip("/").split("/")[-1]) for url in icons.values()}
     have = {p.name for p in Path("icons").glob("*")} if Path("icons").is_dir() else set()
     missing = wanted - have
     if missing:

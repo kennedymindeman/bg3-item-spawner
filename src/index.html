@@ -1744,8 +1744,9 @@ function spellRune(name) {
   if (url) {
     // Icons are vendored into icons/ (see fetch_icons.py) so they load locally
     // instead of hitting bg3.wiki, which rate-limits (HTTP 429 -> blank glyphs).
-    // Derive the local path from the source URL's basename.
-    const file = url.split('/').pop();
+    // Derive the local path from the source URL's basename; decode %27 etc. so the
+    // request matches the on-disk filename (e.g. Tasha's_..., not Tasha%27s_...).
+    const file = decodeURIComponent(url.split('/').pop());
     const img = document.createElement('img');
     img.src = 'icons/' + file;
     img.alt = name;
