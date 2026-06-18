@@ -2027,13 +2027,17 @@ function buildDetailContent(b) {
       sp.appendChild(sf);
       card.appendChild(sp);
     }
-    // BG3 quirk: the save DC you IMPOSE via items/weapon actions doesn't use your
-    // spell DC — it scales off the higher of STR/DEX (8 + prof + mod + a hidden ~+2).
+    // BG3's weird "item DC": spells cast from items/staves, scrolls, and illithid
+    // powers don't use the class that gave you the spell — they use the casting stat
+    // of the most recent class you took your FIRST level in. Order-dependent, unlike
+    // almost everything else, so a dip in the wrong order can silently nerf it.
     const dcNote = document.createElement('div');
     dcNote.className = 'save-dc-note';
-    dcNote.innerHTML = 'Imposing saves: item & weapon-action DCs ignore your spell DC — '
-      + 'they use <b>8 + proficiency + the higher of your STR/DEX modifier</b> '
-      + '(plus a hidden ~+2 on most), so they scale off STR/DEX, not your casting stat.';
+    dcNote.innerHTML = 'Item save DCs are BG3’s weird one: spells cast from '
+      + 'items/staves, scrolls, and illithid powers use '
+      + '<b>8 + proficiency + the casting stat of the most recent class you took your '
+      + 'FIRST level in</b> — order-dependent, unlike everything else. Mono-class it '
+      + 'just equals your spell DC; multiclass in the wrong order silently weakens it.';
     card.appendChild(dcNote);
     if (sc.note) {
       const note = document.createElement('div');
