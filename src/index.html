@@ -561,8 +561,14 @@
   .save-prof .save-label { text-transform: uppercase; letter-spacing: 0.07em; font-size: 0.66rem; color: var(--tier-b); }
   .save-prof .save-abs { color: var(--ink); font-weight: 600; }
   .save-prof .save-from { color: var(--ink-faint); }
-  .save-dc-note { font-size: 0.78rem; color: var(--ink-faint); margin-top: 5px; line-height: 1.5; font-style: italic; }
-  .save-dc-note b { color: var(--tier-b); font-style: normal; font-weight: 600; }
+  .save-dc { margin-top: 9px; display: flex; flex-direction: column; gap: 4px; }
+  .sdc-row { display: flex; align-items: baseline; gap: 9px; font-size: 0.84rem; flex-wrap: wrap; }
+  .sdc-lab { color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.66rem; min-width: 96px; }
+  .sdc-stat { color: var(--ink); font-weight: 600; }
+  .sdc-dc { color: var(--tier-b); font-weight: 600; }
+  .sdc-row.diverge .sdc-stat, .sdc-row.diverge .sdc-dc { color: var(--ember); }
+  .sdc-hint { color: var(--ember); font-size: 0.7rem; font-style: italic; cursor: help; }
+  .save-dc-formula { color: var(--ink-faint); font-size: 0.72rem; margin-top: 3px; }
   .ability-note { color: var(--ink-dim); font-size: 0.82rem; line-height: 1.5; margin-top: 8px; }
   .respec-bar { margin: 18px 0 6px; padding: 13px 15px; background: var(--bg-panel); border: 1px solid var(--border-bright); border-radius: 8px; }
   .respec-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); margin-bottom: 9px; }
@@ -2027,18 +2033,52 @@ function buildDetailContent(b) {
       sp.appendChild(sf);
       card.appendChild(sp);
     }
-    // BG3's weird "item DC": spells cast from items/staves, scrolls, and illithid
-    // powers don't use the class that gave you the spell — they use the casting stat
-    // of the most recent class you took your FIRST level in. Order-dependent, unlike
-    // almost everything else, so a dip in the wrong order can silently nerf it.
-    const dcNote = document.createElement('div');
-    dcNote.className = 'save-dc-note';
-    dcNote.innerHTML = 'Item save DCs are BG3’s weird one: spells cast from '
-      + 'items/staves, scrolls, and illithid powers use '
-      + '<b>8 + proficiency + the casting stat of the most recent class you took your '
-      + 'FIRST level in</b> — order-dependent, unlike everything else. Mono-class it '
-      + 'just equals your spell DC; multiclass in the wrong order silently weakens it.';
-    card.appendChild(dcNote);
+    // Concrete save DCs at the current level. Spell DC uses your casting stat;
+    // item DC (spells from items/staves, scrolls, illithid powers) uses the casting
+    // stat of the most-recent class you took your FIRST level in — so it can differ.
+    const prof = 2 + Math.floor((respecLevel - 1) / 4);   // +2 (1-4), +3 (5-8), +4 (9-12)
+    const modOf = ab => (sc[ab] == null ? null : Math.floor((sc[ab] - 10) / 2));
+    const fmtMod = m => (m >= 0 ? '+' + m : String(m));
+    function dcRow(label, stat, diverge, hint) {
+      if (!stat) return null;
+      const m = modOf(stat);
+      if (m == null) return null;
+      const row = document.createElement('div');
+      row.className = 'sdc-row' + (diverge ? ' diverge' : '');
+      const lab = document.createElement('span');
+      lab.className = 'sdc-lab'; lab.textContent = label;
+      const st = document.createElement('span');
+      st.className = 'sdc-stat'; st.textContent = stat + ' ' + fmtMod(m);
+      const dc = document.createElement('span');
+      dc.className = 'sdc-dc'; dc.textContent = 'DC ' + (8 + prof + m);
+      row.appendChild(lab); row.appendChild(st); row.appendChild(dc);
+      if (hint) {
+        const h = document.createElement('span');
+        h.className = 'sdc-hint';
+        h.textContent = 'order quirk';
+        h.title = hint;
+        row.appendChild(h);
+      }
+      return row;
+    }
+    const diverge = b.spellSaveStat && b.itemSaveStat && b.spellSaveStat !== b.itemSaveStat;
+    const r1 = dcRow('Spell save DC', b.spellSaveStat, false, null);
+    const r2 = dcRow('Item save DC', b.itemSaveStat, diverge,
+      diverge ? 'Items, scrolls and illithid powers use the casting stat of the most '
+        + 'recent class you took your first level in — here that differs from your spell stat.'
+        : null);
+    if (r1 || r2) {
+      const sdc = document.createElement('div');
+      sdc.className = 'save-dc';
+      if (r1) sdc.appendChild(r1);
+      if (r2) sdc.appendChild(r2);
+      const f = document.createElement('div');
+      f.className = 'save-dc-formula';
+      f.textContent = '= 8 + proficiency (+' + prof + ' at L' + respecLevel
+        + ') + your modifier (from the starting array; climbs with ASIs & +DC gear)';
+      sdc.appendChild(f);
+      card.appendChild(sdc);
+    }
     if (sc.note) {
       const note = document.createElement('div');
       note.className = 'ability-note';
