@@ -565,7 +565,7 @@
   .sdc-row { display: flex; align-items: baseline; gap: 9px; font-size: 0.84rem; flex-wrap: wrap; }
   .sdc-lab { color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.66rem; min-width: 96px; }
   .sdc-cls { color: var(--ink-faint); font-size: 0.74rem; min-width: 72px; }
-  .sdc-stat { color: var(--ink); font-weight: 600; }
+  .sdc-stat { color: var(--ink); font-weight: 600; min-width: 104px; }
   .sdc-dc { color: var(--tier-b); font-weight: 600; }
   .sdc-row.diverge .sdc-stat, .sdc-row.diverge .sdc-dc { color: var(--ember); }
   .sdc-hint { color: var(--ember); font-size: 0.7rem; font-style: italic; cursor: help; }
@@ -2112,7 +2112,7 @@ function buildDetailContent(b) {
     // Concrete save DCs at the current level. Spell DC uses your casting stat;
     // item DC (spells from items/staves, scrolls, illithid powers) uses the casting
     // stat of the most-recent class you took your FIRST level in — so it can differ.
-    function dcRow(label, stat, diverge, hint, tag) {
+    function dcRow(label, stat, diverge, hint, tag, reserveCls) {
       if (!stat) return null;
       const m = modOf(stat);
       if (m == null) return null;
@@ -2121,9 +2121,9 @@ function buildDetailContent(b) {
       const lab = document.createElement('span');
       lab.className = 'sdc-lab'; lab.textContent = label;
       row.appendChild(lab);
-      if (tag) {
+      if (tag || reserveCls) {                 // reserve the column so rows align
         const cl = document.createElement('span');
-        cl.className = 'sdc-cls'; cl.textContent = tag;
+        cl.className = 'sdc-cls'; cl.textContent = tag || '';
         row.appendChild(cl);
       }
       const st = document.createElement('span');
@@ -2155,11 +2155,11 @@ function buildDetailContent(b) {
     const multiCast = statOrder.length > 1;
     const spellRows = statOrder.map((stat, i) => dcRow(
       i === 0 ? 'Spell save DC' : '', stat, false, null,
-      multiCast ? statClasses[stat].join(' / ') : null));
+      multiCast ? statClasses[stat].join(' / ') : null, multiCast));
     const r2 = dcRow('Item save DC', itemStat, diverge,
       diverge ? 'Items, scrolls and illithid powers use the casting stat of the most '
         + 'recent class you took your first level in — here that differs from your main casting stat.'
-        : null);
+        : null, null, multiCast);
     if (spellRows.some(Boolean) || r2) {
       const sdc = document.createElement('div');
       sdc.className = 'save-dc';
