@@ -2073,7 +2073,11 @@ function buildDetailContent(b) {
     // item DC (spells from items/staves, scrolls, illithid powers) uses the casting
     // stat of the most-recent class you took your FIRST level in — so it can differ.
     const prof = 2 + Math.floor((respecLevel - 1) / 4);   // +2 (1-4), +3 (5-8), +4 (9-12)
-    const modOf = ab => (sc[ab] == null ? null : Math.floor((sc[ab] - 10) / 2));
+    // Score at the current level = starting array + ASIs taken by then (cap 20).
+    const upsFor = ab => (b.abilityUps || []).reduce(
+      (sum, u) => sum + (u.ab === ab && u.level <= respecLevel ? u.amt : 0), 0);
+    const scoreOf = ab => (sc[ab] == null ? null : Math.min(20, sc[ab] + upsFor(ab)));
+    const modOf = ab => { const v = scoreOf(ab); return v == null ? null : Math.floor((v - 10) / 2); };
     const fmtMod = m => (m >= 0 ? '+' + m : String(m));
     function dcRow(label, stat, diverge, hint) {
       if (!stat) return null;
@@ -2084,7 +2088,7 @@ function buildDetailContent(b) {
       const lab = document.createElement('span');
       lab.className = 'sdc-lab'; lab.textContent = label;
       const st = document.createElement('span');
-      st.className = 'sdc-stat'; st.textContent = stat + ' ' + fmtMod(m);
+      st.className = 'sdc-stat'; st.textContent = stat + ' ' + scoreOf(stat) + ' (' + fmtMod(m) + ')';
       const dc = document.createElement('span');
       dc.className = 'sdc-dc'; dc.textContent = 'DC ' + (8 + prof + m);
       row.appendChild(lab); row.appendChild(st); row.appendChild(dc);
@@ -2112,7 +2116,7 @@ function buildDetailContent(b) {
       const f = document.createElement('div');
       f.className = 'save-dc-formula';
       f.textContent = '= 8 + proficiency (+' + prof + ' at L' + respecLevel
-        + ') + your modifier (from the starting array; climbs with ASIs & +DC gear)';
+        + ') + your modifier (array + ASIs through L' + respecLevel + '; +DC gear climbs further)';
       sdc.appendChild(f);
       card.appendChild(sdc);
     }

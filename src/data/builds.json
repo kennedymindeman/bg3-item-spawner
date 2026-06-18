@@ -618,7 +618,14 @@
    ],
    "note": "The Strength elixir is effectively required — it sets STR, so dump it and run DEX 16 / WIS 16. Without the elixir the build is too ability-hungry to function."
   },
-  "spellSaveStat": null
+  "spellSaveStat": null,
+  "abilityUps": [
+   {
+    "level": 11,
+    "ab": "WIS",
+    "amt": 2
+   }
+  ]
  },
  {
   "name": "Berserker Barbarian Thrower",
@@ -891,7 +898,14 @@
    ],
    "note": "One Sorcerer level is taken first for CON-save proficiency. With a +1 INT item or Auntie Ethel's Hair, start INT 17 to reach 18."
   },
-  "spellSaveStat": "INT"
+  "spellSaveStat": "INT",
+  "abilityUps": [
+   {
+    "level": 9,
+    "ab": "INT",
+    "amt": 2
+   }
+  ]
  },
  {
   "name": "Lightning Lord",
@@ -1035,7 +1049,14 @@
    ],
    "note": "Sorcerer is taken first for CON-save proficiency (concentration on Haste). +1 CHA item / Ethel's Hair → start CHA 17 for an eventual 18."
   },
-  "spellSaveStat": "CHA"
+  "spellSaveStat": "CHA",
+  "abilityUps": [
+   {
+    "level": 10,
+    "ab": "CHA",
+    "amt": 2
+   }
+  ]
  },
  {
   "name": "Cleric (Light / Tempest / Nature)",
@@ -1177,7 +1198,14 @@
    ],
    "note": "Heavy-armour cleric, so DEX can stay low. +1 WIS item / Ethel's Hair → start WIS 17 to reach 18."
   },
-  "spellSaveStat": "WIS"
+  "spellSaveStat": "WIS",
+  "abilityUps": [
+   {
+    "level": 8,
+    "ab": "WIS",
+    "amt": 2
+   }
+  ]
  },
  {
   "name": "Fire Sorcerer",
@@ -1308,7 +1336,14 @@
    ],
    "note": "Pure Sorcerer already grants CON-save proficiency. +1 CHA item / Ethel's Hair → start CHA 17 (move a point off CON if needed) to reach 18."
   },
-  "spellSaveStat": "CHA"
+  "spellSaveStat": "CHA",
+  "abilityUps": [
+   {
+    "level": 8,
+    "ab": "CHA",
+    "amt": 2
+   }
+  ]
  },
  {
   "name": "Assassin Archer",
@@ -1714,6 +1749,13 @@
    ],
    "note": "Every attack and smite scales off Charisma via Pact of the Blade. +1 CHA item / Ethel's Hair → start CHA 17 for an 18."
   },
-  "spellSaveStat": "CHA"
+  "spellSaveStat": "CHA",
+  "abilityUps": [
+   {
+    "level": 4,
+    "ab": "CHA",
+    "amt": 2
+   }
+  ]
  }
 ]
