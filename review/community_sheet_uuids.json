@@ -1,0 +1,25 @@
+{
+  "_source": {
+    "what": "UUIDs recovered for tier-list items that bg3.wiki lacked, via a community spreadsheet linked from a Steam guide.",
+    "steam_guide": "https://steamcommunity.com/sharedfiles/filedetails/?id=3501904106",
+    "google_sheet": "https://docs.google.com/spreadsheets/d/1XV5x32MSApPIT14yxVVWnMq4NtOa9bm8P6uXi6PUmOM",
+    "note": "The sheet itself is web-crawled from bg3.wiki PLUS a few UUIDs the author found in-game. Pulled CSV via the /export?format=csv&gid=<gid> endpoints.",
+    "date": "2026-06-19"
+  },
+  "resolved": [
+    {"list": "boots", "name": "Spacehunt Boots", "uuid": "ae4af670-5674-4fed-bbf9-4083f06519b0",
+     "confidence": "high", "validation": "UUID is already in items.json as 'Spaceshunt Boots' (spelling variant)"},
+    {"list": "finesse_weapons", "name": "Coldsnap", "uuid": "a8661143-d94d-4f49-a92f-cbd0a9a500a1",
+     "confidence": "high", "validation": "UUID is already in items.json as 'Cold Snap' (spacing variant)"},
+    {"list": "versatile_weapons", "name": "Voss's Silver Sword (Act 3)", "uuid": "20c66f8d-f455-42fc-8e48-543512247e75",
+     "confidence": "high", "validation": "Same physical item as the base 'Voss's Silver Sword' (already mapped); '(Act 3)' is an acquisition-timing annotation, not a different item"},
+    {"list": "finesse_weapons", "name": "Salty Scimitar (RRR)", "uuid": "f9100179-19f6-49f9-8ad5-bda4d21220bc",
+     "confidence": "medium", "validation": "Community sheet only — NOT in items.json or bg3.wiki. Corroborated by its 3 sheet-mates all validating against items.json; well-formed; no UUID collision"}
+  ],
+  "still_unresolved": [
+    {"list": "barrels", "name": "Box of Fireworks", "reason": "not on bg3.wiki, items.json, or the community sheet"},
+    {"list": "barrels", "name": "Box of Oddfire Fireworks", "reason": "community sheet marks it 'ToDo: Not on Wiki/Easycheat'"},
+    {"note": "Generic family placeholders (Ring, Shield, Hat, Amulet (non-magical), Resistance elixir) are not single items and correctly have no single UUID."},
+    {"note": "Remaining specific gaps would need extracted RootTemplate game data (Nexus 'All Item UUIDs' txt or a .pak extraction)."}
+  ]
+}

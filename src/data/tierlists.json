@@ -240,7 +240,8 @@
     },
     "uuids": {
       "Bonespike Boots": "23806fd3-f5f6-4ff3-826d-054afe03b7c0",
-      "Hoarfrost Shoes": "6ca10a61-07d8-478c-a6e7-8e43072233cf"
+      "Hoarfrost Shoes": "6ca10a61-07d8-478c-a6e7-8e43072233cf",
+      "Spacehunt Boots": "ae4af670-5674-4fed-bbf9-4083f06519b0"
     },
     "wnames": {
       "Bonespike Boots": "Bonespike Boots",
@@ -745,7 +746,9 @@
       "Shortsword": "467ddb4f-6791-41fa-99f7-ee8620d63bbe",
       "Sylvan Scimitar": "b9656931-da39-4024-92a2-f45264593b14",
       "Scimitar": "868217db-9dcb-414c-bb88-e321ab3e0349",
-      "Poo-Scraper": "26398e41-8636-4fd5-bc12-d7971dfe1ca8"
+      "Poo-Scraper": "26398e41-8636-4fd5-bc12-d7971dfe1ca8",
+      "Salty Scimitar (RRR)": "f9100179-19f6-49f9-8ad5-bda4d21220bc",
+      "Coldsnap": "a8661143-d94d-4f49-a92f-cbd0a9a500a1"
     },
     "wnames": {
       "Render of Body and Mind": "Render of Mind and Body",
@@ -3232,7 +3235,8 @@
       "+1 Warhammer": "3e1b3db9-036e-4931-ab92-c3730a1c3d5f",
       "+1 Longsword": "3fc2ba50-3070-4caa-abe8-3bf885969bde",
       "Ceremonial Battleaxe": "0698b266-b7f8-4593-9063-f1189082c6e1",
-      "Voss's Silver Sword": "20c66f8d-f455-42fc-8e48-543512247e75"
+      "Voss's Silver Sword": "20c66f8d-f455-42fc-8e48-543512247e75",
+      "Voss's Silver Sword (Act 3)": "20c66f8d-f455-42fc-8e48-543512247e75"
     },
     "wnames": {
       "Phalar Aluve": "Phalar Aluve",

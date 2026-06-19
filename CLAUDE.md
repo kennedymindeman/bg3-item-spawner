@@ -78,12 +78,20 @@ role, summary, key items, and a source-video link.
      lists in `tierlists.json`. The wiki infobox `| uuid =` (first one) matches the
      `TemplateAddTo` UUID — validated against items.json. Wrong search matches were
      hand-rejected (e.g. Voss the NPC, Worg Fang the ingredient, Sussur≠Redcap).
-   - ⬜ **14 still unresolved** (see `review/wiki_uuids.json` statuses):
-     5 generic "non-magical X"/family placeholders (Ring, Shield, Hat, Amulet
-     (non-magical), Resistance elixir — not single items); 4 whose wiki page has an
-     EMPTY uuid field (Worgfang, Redcap Sickle, Box of Fireworks, Box of Oddfire
-     Fireworks); plus Spacehunt Boots, Coldsnap, Salty Scimitar (RRR),
-     Mattis's Rings, Voss's Silver Sword (Act 3). Need another source or a decision.
+   - ✅ **4 more recovered (2026-06-19)** via a community spreadsheet linked from a
+     Steam guide (`review/community_sheet_uuids.json` has the source + provenance):
+     `Spacehunt Boots`, `Coldsnap`, `Voss's Silver Sword (Act 3)` were all VALIDATED
+     against `items.json` (the UUIDs were already there under spelling/timing variants
+     — "Spaceshunt Boots", "Cold Snap", base "Voss' Silver Sword"); `Salty Scimitar
+     (RRR)` is the one community-only entry (medium confidence). Added as `uuids`
+     overrides in `tierlists.json`. NOTE: `review/wiki_uuids.json` is STALE — several
+     it lists (Dark Justiciar Gauntlets/Half-Plate, Hra'cknir Bracers) were already
+     resolved in `tierlists.json`; trust `tierlists.json` over the review file.
+   - ⬜ **Still unresolved:** `Box of Fireworks` and `Box of Oddfire Fireworks`
+     (not on bg3.wiki, items.json, or the community sheet — the sheet marks Oddfire
+     "ToDo") plus the 5 generic family placeholders (Ring/Shield/Hat/Amulet
+     (non-magical)/Resistance — not single items). Real gaps need extracted
+     RootTemplate game data (Nexus "All Item UUIDs" txt or a `.pak` extraction).
 2. **Filterable tags** (e.g. crit immunity, full Dex bonus, reverberation,
    radiating orb, initiative). Needs a schema + UI filter; much tag content is
    already in the `review/*.json` `why` strings.
