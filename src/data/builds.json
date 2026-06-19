@@ -371,6 +371,14 @@
     "CHA"
    ],
    "note": "Want more durability? Drop CHA to 14 and run CON 16. With Gloves of Dexterity (sets DEX to 18) you can dump DEX to 8 and move those points into CON 16 / WIS 14."
+  },
+  "rpgbot": {
+   "class": "Bard",
+   "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/bard/",
+   "racesTop": [
+    "Deep Gnome",
+    "Lightfoot Halfling"
+   ]
   }
  },
  {
@@ -504,6 +512,13 @@
     "DEX"
    ],
    "note": "Elixir build: drink Hill/Cloud Giant Strength daily (it sets STR to 23/27), so STR is dumped to 8. Min-max spread runs DEX 17 / CON 15 / INT 12 and evens them out with later feats. No elixir? Max STR instead."
+  },
+  "rpgbot": {
+   "class": "Fighter",
+   "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/fighter/",
+   "racesTop": [
+    "Zariel Tiefling"
+   ]
   }
  },
  {
@@ -750,6 +765,11 @@
     "STR"
    ],
    "note": "Strength elixir (Hill/Cloud Giant) is required for this split — it sets STR, so dump it to 8 and pump CON 16. Tavern Brawler then adds the elixir STR to thrown attacks twice over."
+  },
+  "rpgbot": {
+   "class": "Barbarian",
+   "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/barbarian/",
+   "racesTop": []
   }
  },
  {
@@ -900,7 +920,12 @@
     "ab": "INT",
     "amt": 2
    }
-  ]
+  ],
+  "rpgbot": {
+   "class": "Wizard",
+   "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/wizard/",
+   "racesTop": []
+  }
  },
  {
   "name": "Lightning Lord",
@@ -1050,7 +1075,14 @@
     "ab": "CHA",
     "amt": 2
    }
-  ]
+  ],
+  "rpgbot": {
+   "class": "Sorcerer",
+   "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/sorcerer/",
+   "racesTop": [
+    "Asmodeus Tiefling"
+   ]
+  }
  },
  {
   "name": "Cleric (Light / Tempest / Nature)",
@@ -1198,7 +1230,12 @@
     "ab": "WIS",
     "amt": 2
    }
-  ]
+  ],
+  "rpgbot": {
+   "class": "Cleric",
+   "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/cleric/",
+   "racesTop": []
+  }
  },
  {
   "name": "Fire Sorcerer",
@@ -1335,7 +1372,14 @@
     "ab": "CHA",
     "amt": 2
    }
-  ]
+  ],
+  "rpgbot": {
+   "class": "Sorcerer",
+   "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/sorcerer/",
+   "racesTop": [
+    "Asmodeus Tiefling"
+   ]
+  }
  },
  {
   "name": "Assassin Archer",
@@ -1745,6 +1789,14 @@
     "ab": "CHA",
     "amt": 2
    }
-  ]
+  ],
+  "rpgbot": {
+   "class": "Paladin",
+   "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/paladin/",
+   "racesTop": [
+    "Drow Half-Elf",
+    "Zariel Tiefling"
+   ]
+  }
  }
 ]

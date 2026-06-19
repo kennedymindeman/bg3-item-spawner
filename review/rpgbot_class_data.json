@@ -1,0 +1,55 @@
+{
+  "bard": {
+    "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/bard/",
+    "races_top": [
+      "Deep Gnome",
+      "Lightfoot Halfling"
+    ]
+  },
+  "fighter": {
+    "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/fighter/",
+    "races_top": [
+      "Zariel Tiefling"
+    ]
+  },
+  "barbarian": {
+    "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/barbarian/",
+    "races_top": []
+  },
+  "wizard": {
+    "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/wizard/",
+    "races_top": []
+  },
+  "sorcerer": {
+    "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/sorcerer/",
+    "races_top": [
+      "Asmodeus Tiefling"
+    ]
+  },
+  "cleric": {
+    "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/cleric/",
+    "races_top": []
+  },
+  "paladin": {
+    "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/paladin/",
+    "races_top": [
+      "Drow Half-Elf",
+      "Zariel Tiefling"
+    ]
+  },
+  "warlock": {
+    "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/warlock/",
+    "races_top": [
+      "Drow Half-Elf",
+      "Asmodeus Tiefling"
+    ]
+  },
+  "rogue": {
+    "url": "https://rpgbot.net/video-games/baldurs-gate-3/classes/rogue/",
+    "races_top": [
+      "Wood Elf",
+      "Wood Half-Elf",
+      "Zariel Tiefling"
+    ]
+  }
+}

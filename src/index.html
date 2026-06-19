@@ -570,6 +570,13 @@
   .sdc-row.diverge .sdc-stat, .sdc-row.diverge .sdc-dc { color: var(--ember); }
   .sdc-hint { color: var(--ember); font-size: 0.7rem; font-style: italic; cursor: help; }
   .save-dc-formula { color: var(--ink-faint); font-size: 0.72rem; margin-top: 3px; }
+  /* rpgbot.net cross-reference — secondary source, tagged distinctly */
+  .rpgbot { margin: 11px 0 2px; display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; font-size: 0.8rem; }
+  .rpgbot-tag { font-size: 0.6rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); border: 1px solid var(--border); border-radius: 4px; padding: 2px 6px; cursor: help; }
+  .rpgbot-races { color: var(--ink-dim); }
+  .rpgbot-races b { color: var(--ink); font-weight: 600; }
+  .rpgbot-link { color: var(--gold); text-decoration: none; }
+  .rpgbot-link:hover { text-decoration: underline; }
   .ability-note { color: var(--ink-dim); font-size: 0.82rem; line-height: 1.5; margin-top: 8px; }
   .respec-bar { margin: 18px 0 6px; padding: 13px 15px; background: var(--bg-panel); border: 1px solid var(--border-bright); border-radius: 8px; }
   .respec-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); margin-bottom: 9px; }
@@ -2178,6 +2185,31 @@ function buildDetailContent(b) {
       note.textContent = sc.note;
       card.appendChild(note);
     }
+  }
+
+  // ---- rpgbot.net cross-reference (SECONDARY source — rated by class, not by
+  // these exact multiclass builds; tagged distinctly from the primary guides) ----
+  if (b.rpgbot) {
+    const rp = document.createElement('div');
+    rp.className = 'rpgbot';
+    const tag = document.createElement('span');
+    tag.className = 'rpgbot-tag';
+    tag.textContent = 'rpgbot.net';
+    tag.title = 'Secondary source: rpgbot.net ' + b.rpgbot.class
+      + ' handbook — rated for the class generally, not this specific multiclass build.';
+    rp.appendChild(tag);
+    if (b.rpgbot.racesTop && b.rpgbot.racesTop.length) {
+      const r = document.createElement('span');
+      r.className = 'rpgbot-races';
+      r.innerHTML = 'Top races: <b>' + b.rpgbot.racesTop.join('</b> · <b>') + '</b>';
+      rp.appendChild(r);
+    }
+    const a = document.createElement('a');
+    a.className = 'rpgbot-link';
+    a.href = b.rpgbot.url; a.target = '_blank'; a.rel = 'noopener';
+    a.textContent = b.rpgbot.class + ' guide ↗';
+    rp.appendChild(a);
+    card.appendChild(rp);
   }
 
   // ---- Respec level control (global) ----
