@@ -5,8 +5,11 @@ and Honour Mode tier lists.
 
 ## Open the website
 
-Double-click **`bg3_console.html`** (or `index.html`, an identical copy) — it
-opens in any browser, no server or install needed. Everything is inlined.
+**Live site: https://kennedymindeman.github.io/bg3-item-spawner/**
+
+Or open it locally: double-click **`bg3_console.html`** (or `index.html`, an
+identical copy) — it opens in any browser, no server or install needed.
+Everything is inlined.
 
 To copy a spawn command, find an item and click it; paste the command into the
 Script Extender console in-game.
