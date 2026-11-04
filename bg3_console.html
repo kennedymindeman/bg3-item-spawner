@@ -20,7 +20,7 @@
     --bg-panel: #1a130d;
     --bg-panel-2: #221811;
     --border: #3d2a18;
-    --border-bright: #5c3f24;
+    --border-bright: #806040;   /* 3.2:1 on panels: control edges meet WCAG 1.4.11 */
     --gold: #d4a548;
     --gold-bright: #f0c060;
     --ember: #c45a2c;
@@ -200,6 +200,10 @@
     .subtitle { font-size: 0.98rem; }
     .tabs { gap: 6px; margin-bottom: 20px; }
     .tab { flex: 1 1 auto; padding: 8px 10px; font-size: 0.85rem; letter-spacing: 0.04em; }
+  }
+  /* Below ~360px the one-line title would overflow; let it wrap (WCAG 1.4.10 reflow). */
+  @media (max-width: 360px) {
+    h1 { white-space: normal; font-size: 1.15rem; letter-spacing: 0.06em; }
   }
 
   .card {
@@ -619,7 +623,7 @@
   @media (max-width: 600px) {
     .build-tags {
       display: grid; grid-template-rows: auto auto; grid-auto-flow: column; justify-content: start;
-      overflow-x: auto; scrollbar-width: none; margin: 0 -14px 16px; padding: 0 14px;
+      overflow-x: auto; scrollbar-width: none; margin: -4px -14px 12px; padding: 4px 14px;
       -webkit-mask-image: linear-gradient(90deg, #000 85%, transparent); mask-image: linear-gradient(90deg, #000 85%, transparent);
     }
     .build-tags::-webkit-scrollbar { display: none; }
