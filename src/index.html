@@ -6,9 +6,16 @@
 <title>BG3 Script Extender Console</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
+    /* Line icons (copy, check, search, clear, chevrons), used as masks so they take currentColor. */
+    --icon-search: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5'/%3E%3Cpath d='M15.5 15.5 21 21'/%3E%3C/svg%3E");
+    --icon-clear: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.2' stroke-linecap='round'%3E%3Cpath d='M6 6l12 12M18 6 6 18'/%3E%3C/svg%3E");
+    --icon-copy: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linejoin='round'%3E%3Crect x='8' y='8' width='12' height='12' rx='1.5'/%3E%3Cpath d='M16 8V5.5A1.5 1.5 0 0 0 14.5 4h-9A1.5 1.5 0 0 0 4 5.5v9A1.5 1.5 0 0 0 5.5 16H8'/%3E%3C/svg%3E");
+    --icon-check: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M4.5 12.5l5 5L19.5 7'/%3E%3C/svg%3E");
+    --icon-chevron-down: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23a89070' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+    --icon-chevron-right: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M9 6l6 6-6 6'/%3E%3C/svg%3E");
     --bg-deep: #0e0a07;
     --bg-panel: #1a130d;
     --bg-panel-2: #221811;
@@ -19,20 +26,32 @@
     --ember: #c45a2c;
     --ink: #e8d9b8;
     --ink-dim: #a89070;
-    --ink-faint: #6b5a40;
+    --ink-faint: #9a8566;   /* 4.9:1 on panels (was 2.8:1) */
+    --line-faint: #6b5a40;
     --parchment: #f0e3c4;
     --shadow: rgba(0,0,0,0.6);
 
     /* Tier badge colors */
-    --tier-splus: #e63946;   --tier-splus-bg: rgba(230, 57, 70, 0.15);
+    --tier-splus: #f2555f;   --tier-splus-bg: rgba(230, 57, 70, 0.15);
     --tier-s:     #ffb627;   --tier-s-bg:     rgba(255, 182, 39, 0.15);
     --tier-a:     #6abf69;   --tier-a-bg:     rgba(106, 191, 105, 0.13);
     --tier-b:     #5a9bd4;   --tier-b-bg:     rgba(90, 155, 212, 0.13);
-    --tier-c:     #a89070;   --tier-c-bg:     rgba(168, 144, 112, 0.12);
-    --tier-d:     #6b5a40;   --tier-d-bg:     rgba(107, 90, 64, 0.12);
-    --tier-f:     #555;      --tier-f-bg:     rgba(85, 85, 85, 0.18);
+    --tier-c:     #b89f7c;   --tier-c-bg:     rgba(168, 144, 112, 0.12);
+    --tier-d:     #94826a;   --tier-d-bg:     rgba(107, 90, 64, 0.12);
+    --tier-f:     #8a8a8a;   --tier-f-bg:     rgba(85, 85, 85, 0.18);
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { color-scheme: dark; scrollbar-color: var(--border-bright) var(--bg-deep); -webkit-text-size-adjust: 100%; }
+  button, input, select, textarea { font-family: inherit; color: inherit; }
+  a { color: var(--gold); text-underline-offset: 3px; }
+  a:hover { color: var(--gold-bright); }
+  ::selection { background: rgba(212, 165, 72, 0.35); color: var(--parchment); }
+  input, textarea { caret-color: var(--gold-bright); }
+  :focus-visible { outline: 2px solid var(--gold-bright); outline-offset: 2px; }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { transition: none !important; animation: none !important; }
+  }
   html, body {
     background: var(--bg-deep);
     color: var(--ink);
@@ -51,8 +70,8 @@
 
   header {
     text-align: center;
-    margin-bottom: 36px;
-    padding-bottom: 28px;
+    margin-bottom: 28px;
+    padding-bottom: 24px;
     border-bottom: 1px solid var(--border);
     position: relative;
   }
@@ -62,7 +81,6 @@
     bottom: -1px; left: 50%; transform: translateX(-50%);
     width: 80px; height: 1px;
     background: var(--gold);
-    box-shadow: 0 0 12px var(--gold);
   }
   h1 {
     font-family: 'Cinzel', serif;
@@ -72,7 +90,6 @@
     color: var(--gold);
     text-transform: uppercase;
     margin-bottom: 8px;
-    text-shadow: 0 0 20px rgba(212, 165, 72, 0.2);
   }
   h1 .ornament { color: var(--ember); font-size: 0.7em; margin: 0 0.5em; vertical-align: middle; }
   .subtitle { font-style: italic; color: var(--ink-dim); font-size: 1.05rem; letter-spacing: 0.04em; }
@@ -81,108 +98,159 @@
     display: flex;
     justify-content: center;
     gap: 8px;
-    margin-bottom: 32px;
+    margin-bottom: 28px;
     flex-wrap: wrap;
   }
   .tab {
+    position: relative;
     background: transparent;
     border: 1px solid var(--border);
     color: var(--ink-dim);
     padding: 10px 24px;
+    min-height: 44px;
+    border-radius: 6px;
     font-family: 'Cinzel', serif;
-    font-size: 0.85rem;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
+    font-size: 0.95rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
     cursor: pointer;
-    transition: all 0.2s;
+    transition: border-color 0.2s, color 0.2s, background 0.2s;
   }
   .tab:hover { border-color: var(--border-bright); color: var(--ink); }
-  .tab.active { background: var(--bg-panel); border-color: var(--gold); color: var(--gold); }
+  .tab.active { background: var(--bg-panel); border-color: var(--gold); color: var(--gold-bright); }
 
   .panel { display: none; }
   .panel.active { display: block; }
 
+  /* Search: magnifier + "/" shortcut hint live in a wrapper so every panel's search reads the same. */
+  .search { position: relative; display: block; margin-bottom: 20px; }
+  .items-controls .search { margin-bottom: 0; }
+  .search::before {
+    content: '';
+    position: absolute; left: 16px; top: 50%; width: 18px; height: 18px; transform: translateY(-50%);
+    background: var(--gold);
+    -webkit-mask: var(--icon-search) center / contain no-repeat;
+            mask: var(--icon-search) center / contain no-repeat;
+    opacity: 0.75;
+    pointer-events: none;
+  }
+  .search:focus-within::before { opacity: 1; }
+  .search-kbd {
+    position: absolute; right: 14px; top: 50%; transform: translateY(-50%);
+    min-width: 24px; padding: 1px 7px;
+    font-family: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 0.78rem; text-align: center;
+    color: var(--ink-dim); border: 1px solid var(--border-bright); border-radius: 4px; background: var(--bg-panel-2);
+    pointer-events: none;
+  }
+  .search-input:focus ~ .search-kbd, .search-input:not(:placeholder-shown) ~ .search-kbd { display: none; }
+  @media (hover: none), (max-width: 600px) { .search-kbd { display: none; } }
   .search-input {
     width: 100%;
+    min-height: 52px;
     background: var(--bg-panel);
-    border: 1px solid var(--border);
+    border: 1px solid var(--border-bright);
     color: var(--ink);
-    padding: 14px 18px;
+    padding: 12px 52px 12px 46px;
     font-family: 'EB Garamond', serif;
-    font-size: 1.1rem;
+    font-size: 1.15rem;
     transition: border-color 0.2s, box-shadow 0.2s;
+    -webkit-appearance: none; appearance: none;
   }
   .search-input::placeholder { color: var(--ink-faint); font-style: italic; }
+  .search-input:hover { border-color: var(--gold); }
   .search-input:focus {
     outline: none;
     border-color: var(--gold);
-    box-shadow: 0 0 0 1px var(--gold), 0 0 20px rgba(212, 165, 72, 0.15);
+    box-shadow: 0 0 0 1px var(--gold);
   }
+  .search-input::-webkit-search-cancel-button {
+    -webkit-appearance: none; appearance: none;
+    width: 18px; height: 18px; cursor: pointer;
+    background: var(--ink-dim);
+    -webkit-mask: var(--icon-clear) center / contain no-repeat;
+            mask: var(--icon-clear) center / contain no-repeat;
+  }
+  .search-input::-webkit-search-cancel-button:hover { background: var(--gold-bright); }
+
+  /* Copy buttons share one icon (copy -> check) drawn with a mask so it follows the text color. */
+  .copy-btn::before, .item-copy::before, .detail-copy::before {
+    content: ''; display: inline-block; width: 1.15em; height: 1.15em; margin-right: 0.55em; vertical-align: -0.2em;
+    background: currentColor;
+    -webkit-mask: var(--icon-copy) center / contain no-repeat;
+            mask: var(--icon-copy) center / contain no-repeat;
+  }
+  .copy-btn.copied::before, .item-copy.copied::before, .detail-copy.copied::before {
+    -webkit-mask-image: var(--icon-check);
+            mask-image: var(--icon-check);
+  }
+  .copy-btn.failed, .item-copy.failed, .detail-copy.failed { border-color: var(--tier-splus); color: var(--tier-splus); background: transparent; }
 
   .commands {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr));
+    gap: 16px;
+    align-items: start;
   }
   @media (max-width: 480px) {
     .commands { grid-template-columns: 1fr; }
-    body { padding: 24px 16px 60px; }
-    h1 { font-size: 1.5rem; letter-spacing: 0.1em; }
-    .tab { padding: 8px 16px; font-size: 0.75rem; }
+    body { padding: 22px 14px 56px; }
+    header { margin-bottom: 20px; padding-bottom: 18px; }
+    h1 { font-size: 1.3rem; letter-spacing: 0.1em; white-space: nowrap; }
+    h1 .ornament { margin: 0 0.3em; }
+    .subtitle { font-size: 0.98rem; }
+    .tabs { gap: 6px; margin-bottom: 20px; }
+    .tab { flex: 1 1 auto; padding: 8px 10px; font-size: 0.85rem; letter-spacing: 0.04em; }
   }
 
   .card {
     background: linear-gradient(180deg, var(--bg-panel) 0%, var(--bg-panel-2) 100%);
     border: 1px solid var(--border);
-    padding: 22px 24px;
+    border-top-color: var(--border-bright);
+    border-radius: 8px;
+    padding: 20px 22px;
     position: relative;
+    display: flex;
+    flex-direction: column;
     transition: border-color 0.2s;
   }
-  .card::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0;
-    width: 3px; height: 100%;
-    background: linear-gradient(180deg, var(--gold) 0%, var(--ember) 100%);
-    opacity: 0.5;
-    transition: opacity 0.2s;
-  }
-  .card:hover { border-color: var(--border-bright); }
-  .card:hover::before { opacity: 1; }
+  .card:hover, .card:focus-within { border-color: var(--border-bright); }
   .card.hidden { display: none; }
 
   .card-header { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 6px; gap: 12px; }
-  .card-num { font-family: 'Cinzel', serif; color: var(--ember); font-size: 0.85rem; letter-spacing: 0.15em; font-weight: 500; }
+  .card-num { font-family: 'Cinzel', serif; color: var(--ink-faint); font-size: 0.85rem; letter-spacing: 0.1em; font-weight: 500; }
   .card-title { font-family: 'Cinzel', serif; font-weight: 600; font-size: 1.15rem; color: var(--gold-bright); letter-spacing: 0.04em; }
-  .card-desc { color: var(--ink-dim); font-size: 0.95rem; margin-bottom: 16px; font-style: italic; }
+  .card-desc { color: var(--ink-dim); font-size: 1rem; line-height: 1.5; margin-bottom: 16px; }
 
   .input-group { margin-bottom: 12px; }
   .input-group label {
     display: block;
     font-family: 'Cinzel', serif;
-    font-size: 0.72rem;
-    letter-spacing: 0.18em;
-    color: var(--ink-faint);
-    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.06em;
+    color: var(--ink-dim);
     margin-bottom: 4px;
   }
   .input-group input, .input-group select {
     width: 100%;
+    min-height: 40px;
     background: rgba(0,0,0,0.3);
-    border: 1px solid var(--border);
+    border: 1px solid var(--border-bright);
+    border-radius: 6px;
     color: var(--ink);
     padding: 8px 12px;
-    font-family: 'JetBrains Mono', monospace;
+    font-family: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
     font-size: 0.88rem;
   }
-  .input-group input:focus, .input-group select:focus { outline: none; border-color: var(--gold); }
+  .input-group input:focus, .input-group select:focus { outline: none; border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold); }
   .input-group select { font-family: 'EB Garamond', serif; font-size: 0.95rem; }
 
   .cmd-output {
     background: #050402;
     border: 1px solid var(--border);
+    border-radius: 6px;
+    user-select: all;
     padding: 12px 14px;
-    font-family: 'JetBrains Mono', monospace;
+    font-family: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
     font-size: 0.82rem;
     color: var(--parchment);
     word-break: break-all;
@@ -196,15 +264,18 @@
     font-family: 'EB Garamond', serif;
   }
 
+  /* Every copy action shares one look: gold outline + tint, fills on hover, turns green when copied. */
   .copy-btn {
-    background: transparent;
+    background: rgba(212, 165, 72, 0.08);
     border: 1px solid var(--gold);
-    color: var(--gold);
+    border-radius: 6px;
+    color: var(--gold-bright);
+    min-height: 44px;
     padding: 8px 18px;
     font-family: 'Cinzel', serif;
-    font-size: 0.78rem;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 0.9rem;
+    letter-spacing: 0.06em;
     cursor: pointer;
     transition: background 0.15s, color 0.15s, box-shadow 0.2s;
     width: 100%;
@@ -212,43 +283,52 @@
   .copy-btn:hover:not(:disabled) {
     background: var(--gold);
     color: var(--bg-deep);
-    box-shadow: 0 0 16px rgba(212, 165, 72, 0.4);
   }
-  .copy-btn:disabled { opacity: 0.35; cursor: not-allowed; border-color: var(--ink-faint); color: var(--ink-faint); }
-  .copy-btn.copied { background: var(--ember); border-color: var(--ember); color: var(--parchment); }
+  .copy-btn:disabled { cursor: not-allowed; background: transparent; border-color: var(--border-bright); color: var(--ink-faint); }
+  .copy-btn.copied { background: var(--tier-a); border-color: var(--tier-a); color: var(--bg-deep); }
 
   /* Items panel controls */
   .attribution {
-    color: var(--ink-faint);
-    font-size: 0.85rem;
+    color: var(--ink-dim);
+    font-size: 0.98rem;
     font-style: italic;
-    margin-bottom: 14px;
+    max-width: 68ch;
+    margin: 0 auto 16px;
     text-align: center;
   }
   .items-controls {
     display: grid;
-    grid-template-columns: 1fr 180px 130px 130px 90px;
+    grid-template-columns: 1fr 190px 150px 140px 84px;
     gap: 10px;
-    margin-bottom: 18px;
+    margin-bottom: 14px;
   }
   @media (max-width: 900px) {
-    .items-controls {
-      grid-template-columns: 1fr 1fr;
-    }
-  }
-  @media (max-width: 480px) {
-    .items-controls { grid-template-columns: 1fr; }
+    .items-controls { grid-template-columns: 1fr 1fr 84px; }
+    .items-controls .search, .items-controls .combobox { grid-column: 1 / -1; }
   }
   .items-controls select, .items-controls input[type="number"] {
+    min-width: 0;
+    min-height: 52px;
     background: var(--bg-panel);
-    border: 1px solid var(--border);
+    border: 1px solid var(--border-bright);
+    border-radius: 6px;
     color: var(--ink);
-    padding: 14px 14px;
+    padding: 12px 14px;
     font-family: 'EB Garamond', serif;
-    font-size: 0.98rem;
+    font-size: 1rem;
   }
-  .items-controls select:focus, .items-controls input[type="number"]:focus { outline: none; border-color: var(--gold); }
-  .items-controls input[type="number"] { font-family: 'JetBrains Mono', monospace; text-align: center; }
+  .items-controls select, .input-group select {
+    -webkit-appearance: none; appearance: none;
+    padding-right: 34px;
+    background-image: var(--icon-chevron-down);
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 16px;
+    cursor: pointer;
+  }
+  .items-controls select:hover, .items-controls input[type="number"]:hover, .combobox-input:hover { border-color: var(--gold); }
+  .items-controls select:focus, .items-controls input[type="number"]:focus { outline: none; border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold); }
+  .items-controls input[type="number"] { font-family: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace; text-align: center; }
 
   /* Combobox (searchable category) */
   .combobox {
@@ -256,36 +336,40 @@
   }
   .combobox-input {
     width: 100%;
+    min-height: 52px;
     background: var(--bg-panel);
-    border: 1px solid var(--border);
+    border: 1px solid var(--border-bright);
+    border-radius: 6px;
     color: var(--ink);
-    padding: 14px 14px;
-    padding-right: 32px;
+    padding: 12px 14px;
+    padding-right: 34px;
     font-family: 'EB Garamond', serif;
-    font-size: 0.98rem;
+    font-size: 1rem;
     cursor: pointer;
   }
   .combobox-input::placeholder { color: var(--ink-faint); font-style: italic; }
-  .combobox-input:focus { outline: none; border-color: var(--gold); }
+  .combobox-input:focus { outline: none; border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold); }
   .combobox-input:not([readonly]) { cursor: text; }
   .combobox::after {
-    content: '\25BE'; /* down triangle */
+    content: '';
     position: absolute;
-    right: 12px;
+    right: 10px;
     top: 50%;
+    width: 16px; height: 16px;
     transform: translateY(-50%);
-    color: var(--ink-faint);
+    background: var(--icon-chevron-down) center / contain no-repeat;
     pointer-events: none;
-    font-size: 0.8rem;
+    transition: transform 0.15s;
   }
-  .combobox.open::after { content: '\25B4'; /* up triangle */ }
+  .combobox.open::after { transform: translateY(-50%) rotate(180deg); }
   .combobox-dropdown {
     position: absolute;
-    top: calc(100% + 2px);
+    top: calc(100% + 4px);
     left: 0;
     right: 0;
     background: var(--bg-panel);
     border: 1px solid var(--gold);
+    border-radius: 6px;
     max-height: 320px;
     overflow-y: auto;
     z-index: 10;
@@ -318,34 +402,38 @@
     font-weight: 600;
   }
   .qty-wrap { position: relative; }
+  .qty-wrap input { width: 100%; }
   .qty-wrap::before {
-    content: 'QTY';
+    content: 'Qty';
     position: absolute;
-    top: -8px;
-    left: 12px;
+    top: -9px;
+    left: 10px;
     background: var(--bg-deep);
-    padding: 0 6px;
+    padding: 0 5px;
     font-family: 'Cinzel', serif;
-    font-size: 0.65rem;
-    letter-spacing: 0.18em;
-    color: var(--ink-faint);
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    color: var(--ink-dim);
     pointer-events: none;
   }
 
   .results-meta {
-    color: var(--ink-faint);
-    font-size: 0.88rem;
-    font-style: italic;
-    margin-bottom: 12px;
-    padding: 0 4px;
+    color: var(--ink-dim);
+    font-size: 0.92rem;
+    margin-bottom: 10px;
+    padding: 0 2px;
+    min-height: 1.4em;
   }
+  .results-meta strong { color: var(--ink); font-weight: 600; }
 
   .item-list {
     background: var(--bg-panel);
     border: 1px solid var(--border);
+    border-radius: 8px;
     max-height: 70vh;
     overflow-y: auto;
   }
+  .item-list:empty { display: none; }
   .item-list::-webkit-scrollbar { width: 10px; }
   .item-list::-webkit-scrollbar-track { background: var(--bg-deep); }
   .item-list::-webkit-scrollbar-thumb { background: var(--border-bright); }
@@ -353,14 +441,15 @@
 
   .item-row {
     display: grid;
-    grid-template-columns: 50px 1fr auto auto auto;
+    grid-template-columns: 44px minmax(0, 1fr) auto auto auto;
     align-items: center;
-    gap: 14px;
-    padding: 10px 18px;
+    gap: 6px 14px;
+    padding: 8px 12px 8px 14px;
+    min-height: 56px;
     border-bottom: 1px solid var(--border);
     transition: background 0.1s;
   }
-  .item-row:hover { background: var(--bg-panel-2); }
+  .item-row:hover, .item-row:focus-within { background: var(--bg-panel-2); }
   .item-row:last-child { border-bottom: none; }
 
   .tier-badge {
@@ -371,10 +460,11 @@
     text-align: center;
     padding: 4px 0;
     border: 1px solid;
-    cursor: pointer;
+    border-radius: 4px;
     transition: filter 0.15s;
   }
-  .tier-badge:hover { filter: brightness(1.3); }
+  button.tier-badge { cursor: pointer; min-height: 30px; }
+  button.tier-badge:hover { filter: brightness(1.3); }
   .tier-splus { color: var(--tier-splus); border-color: var(--tier-splus); background: var(--tier-splus-bg); }
   .tier-s     { color: var(--tier-s);     border-color: var(--tier-s);     background: var(--tier-s-bg); }
   .tier-a     { color: var(--tier-a);     border-color: var(--tier-a);     background: var(--tier-a-bg); }
@@ -382,79 +472,91 @@
   .tier-c     { color: var(--tier-c);     border-color: var(--tier-c);     background: var(--tier-c-bg); }
   .tier-d     { color: var(--tier-d);     border-color: var(--tier-d);     background: var(--tier-d-bg); }
   .tier-f     { color: var(--tier-f);     border-color: var(--tier-f);     background: var(--tier-f-bg); }
-  .tier-none {
-    color: var(--ink-faint);
-    border: 1px dashed var(--border);
-    font-size: 0.7rem;
-    padding: 4px 0;
-    text-align: center;
-    font-style: italic;
-    font-family: 'EB Garamond', serif;
-    cursor: default;
-  }
+  /* Unrated items: keep the column, drop the mark (a dashed dash read as a disabled control). */
+  .tier-none { visibility: hidden; }
 
-  .item-name { color: var(--ink); font-size: 1rem; display: flex; align-items: center; gap: 10px; min-width: 0; }
+  .item-name { color: var(--ink); font-size: 1.05rem; display: flex; align-items: center; gap: 10px; min-width: 0; }
   .item-name-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .act-tag {
     flex: none;
     font-family: 'Cinzel', serif;
-    font-size: 0.6rem;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
+    font-size: 0.66rem;
+    letter-spacing: 0.06em;
     color: var(--ink-dim);
-    border: 1px solid var(--border);
-    border-radius: 2px;
+    border: 1px solid var(--border-bright);
+    border-radius: 4px;
     padding: 1px 6px;
     white-space: nowrap;
   }
   .tier-row-items .act-tag { margin: 2px 8px 2px 4px; }
   .item-cat {
-    font-family: 'Cinzel', serif;
-    font-size: 0.7rem;
-    letter-spacing: 0.12em;
+    font-size: 0.88rem;
+    font-style: italic;
     color: var(--ink-faint);
-    text-transform: uppercase;
     white-space: nowrap;
+    text-align: right;
+  }
+  /* Row actions: Copy is the gold action; Wiki is a quiet neutral link. Both 40px tall. */
+  .item-copy, .item-wiki {
+    display: inline-flex; align-items: center; justify-content: center;
+    min-height: 40px;
+    border-radius: 6px;
+    font-family: 'Cinzel', serif;
+    font-size: 0.8rem;
+    letter-spacing: 0.06em;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
   }
   .item-copy {
-    background: transparent;
-    border: 1px solid var(--border-bright);
-    color: var(--gold);
-    padding: 6px 16px;
-    font-family: 'Cinzel', serif;
-    font-size: 0.7rem;
-    letter-spacing: 0.16em;
-    text-transform: uppercase;
-    cursor: pointer;
-    transition: all 0.15s;
-    min-width: 90px;
-  }
-  .item-copy:hover { background: var(--gold); color: var(--bg-deep); border-color: var(--gold); }
-  .item-copy.copied { background: var(--ember); border-color: var(--ember); color: var(--parchment); }
-  .item-wiki {
-    display: inline-block;
-    background: transparent;
-    border: 1px solid var(--border);
-    color: var(--ink-dim);
+    background: rgba(212, 165, 72, 0.08);
+    border: 1px solid var(--gold);
+    color: var(--gold-bright);
+    font-weight: 600;
     padding: 6px 14px;
-    font-family: 'Cinzel', serif;
-    font-size: 0.7rem;
-    letter-spacing: 0.16em;
-    text-transform: uppercase;
+    min-width: 98px;
+  }
+  .item-copy:hover { background: var(--gold); color: var(--bg-deep); }
+  .item-copy.copied { background: var(--tier-a); border-color: var(--tier-a); color: var(--bg-deep); }
+  .item-wiki {
+    background: transparent;
+    border: 1px solid transparent;
+    color: var(--ink-dim);
+    padding: 6px 10px;
     text-decoration: none;
-    cursor: pointer;
-    transition: all 0.15s;
-    white-space: nowrap;
   }
-  .item-wiki:hover { background: var(--border-bright); color: var(--parchment); border-color: var(--border-bright); }
+  .item-wiki:hover { color: var(--parchment); border-color: var(--border-bright); }
 
-  @media (max-width: 480px) {
-    .item-row { grid-template-columns: 44px 1fr auto auto; gap: 10px; padding: 12px 14px; }
-    .item-cat { display: none; }
-    .item-name-text { white-space: normal; }
+  @media (max-width: 600px) {
+    .item-row {
+      grid-template-columns: 36px minmax(0, 1fr) auto auto;
+      grid-template-areas: "tier name wiki copy" "tier cat wiki copy";
+      gap: 0 8px;
+      padding: 8px 8px 8px 10px;
+    }
+    .item-row > .tier-badge { grid-area: tier; font-size: 0.78rem; }
+    .item-name { grid-area: name; font-size: 1rem; }
+    .item-name-text { white-space: normal; line-height: 1.3; }
+    .item-cat { grid-area: cat; text-align: left; font-size: 0.82rem; overflow: hidden; text-overflow: ellipsis; }
+    .item-wiki { grid-area: wiki; padding: 6px 6px; }
+    .item-copy { grid-area: copy; min-width: 0; padding: 6px 10px; }
   }
 
-  .empty-state { text-align: center; padding: 60px 20px; color: var(--ink-faint); font-style: italic; }
+  .empty-state {
+    text-align: center;
+    padding: 40px 20px;
+    border: 1px dashed var(--border-bright);
+    border-radius: 8px;
+    color: var(--ink-dim);
+  }
+  .empty-title { font-family: 'Cinzel', serif; font-size: 1.05rem; color: var(--ink); margin-bottom: 6px; }
+  .empty-hint { font-style: italic; margin-bottom: 16px; }
+  .empty-clear {
+    min-height: 40px; padding: 6px 18px;
+    background: transparent; border: 1px solid var(--gold); border-radius: 6px;
+    color: var(--gold-bright); font-family: 'Cinzel', serif; font-size: 0.85rem; letter-spacing: 0.06em; cursor: pointer;
+  }
+  .empty-clear:hover { background: var(--gold); color: var(--bg-deep); }
   .empty-state.hidden { display: none; }
   .tierlist-section.hidden, .tier-row.hidden, .item-pill.hidden { display: none; }
 
@@ -478,18 +580,18 @@
     margin-bottom: 18px;
   }
   .tierlist-source {
-    color: var(--ink-faint);
-    font-size: 0.72rem;
+    color: var(--ink-dim);
+    font-family: 'EB Garamond', serif;
+    font-size: 0.92rem;
+    font-style: italic;
     font-weight: 400;
-    letter-spacing: 0.02em;
-    text-transform: none;
-    text-decoration: none;
+    letter-spacing: 0;
+    text-decoration: underline;
+    text-decoration-color: var(--border-bright);
     margin-left: 12px;
     vertical-align: middle;
-    opacity: 0.7;
   }
-  .tierlist-source::before { content: "\25B8 "; }
-  .tierlist-source:hover { color: var(--gold); opacity: 1; text-decoration: underline; }
+  .tierlist-source:hover { color: var(--gold-bright); text-decoration-color: currentColor; }
   .build-card { background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; padding: 18px 22px; margin-bottom: 18px; }
   .build-card.hidden { display: none; }
   .build-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
@@ -501,7 +603,7 @@
   .build-meta strong { color: var(--ink-faint); font-weight: 600; }
   .lvl-wrap { margin-top: 16px; }
   .lvl-tabs { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 10px; }
-  .lvl-tab { width: 30px; height: 30px; border: 1px solid var(--border); background: var(--bg-deep); color: var(--ink); border-radius: 5px; cursor: pointer; font-size: 0.85rem; }
+  .lvl-tab { width: 30px; height: 30px; border: 1px solid var(--border); background: var(--bg-deep); color: var(--ink); border-radius: 4px; cursor: pointer; font-size: 0.85rem; }
   .lvl-tab:hover { border-color: var(--border-bright); }
   .lvl-tab.active { background: var(--gold); color: var(--bg-deep); border-color: var(--gold); font-weight: 600; }
   .lvl-tab.empty { opacity: 0.28; cursor: default; }
@@ -513,32 +615,46 @@
   .build-source:hover { color: var(--gold); text-decoration: underline; }
   /* Build playstyle tag filter */
   .build-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
-  .build-tag-btn { border: 1px solid var(--border); background: var(--bg-deep); color: var(--ink); border-radius: 6px; padding: 7px 12px; cursor: pointer; font-size: 0.84rem; transition: border-color .12s, background .12s; }
+  /* Phone: two scrollable rows of intents instead of nine stacked lines; the fade says there's more. */
+  @media (max-width: 600px) {
+    .build-tags {
+      display: grid; grid-template-rows: auto auto; grid-auto-flow: column; justify-content: start;
+      overflow-x: auto; scrollbar-width: none; margin: 0 -14px 16px; padding: 0 14px;
+      -webkit-mask-image: linear-gradient(90deg, #000 85%, transparent); mask-image: linear-gradient(90deg, #000 85%, transparent);
+    }
+    .build-tags::-webkit-scrollbar { display: none; }
+    .build-tag-btn { white-space: nowrap; }
+  }
+  .build-tag-btn { min-height: 40px; border: 1px solid var(--border-bright); background: var(--bg-deep); color: var(--ink); border-radius: 6px; padding: 6px 13px; cursor: pointer; font-size: 0.98rem; transition: border-color .12s, background .12s; }
   .build-tag-btn:hover { border-color: var(--border-bright); }
   .build-tag-btn.active { background: var(--gold); color: var(--bg-deep); border-color: var(--gold); font-weight: 600; }
   /* Per-level feat badge + spell runes */
   .lvl-feat { display: inline-block; font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--gold-bright); border: 1px solid var(--border-bright); border-radius: 4px; padding: 1px 7px; margin: 2px 0 7px; }
   .lvl-spells { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 9px; }
-  .lvl-spell { display: flex; align-items: center; gap: 6px; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 5px; padding: 3px 9px 3px 4px; font-size: 0.8rem; color: var(--ink); }
-  .lvl-spell img { width: 24px; height: 24px; border-radius: 3px; display: block; background: var(--bg-deep); }
-  .lvl-spell .rune-fallback { width: 24px; height: 24px; border-radius: 3px; display: flex; align-items: center; justify-content: center; background: var(--bg-deep); font-family: 'Cinzel', serif; font-size: 0.8rem; color: var(--ink-faint); }
+  .lvl-spell { display: flex; align-items: center; gap: 6px; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 4px; padding: 3px 9px 3px 4px; font-size: 0.8rem; color: var(--ink); }
+  .lvl-spell img { width: 24px; height: 24px; border-radius: 4px; display: block; background: var(--bg-deep); }
+  .lvl-spell .rune-fallback { width: 24px; height: 24px; border-radius: 4px; display: flex; align-items: center; justify-content: center; background: var(--bg-deep); font-family: 'Cinzel', serif; font-size: 0.8rem; color: var(--ink-faint); }
   .lvl-spells-label { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); margin-top: 11px; }
   /* Build list -> full-screen detail */
   .build-list { display: flex; flex-direction: column; gap: 10px; }
-  .build-list-item { width: 100%; text-align: left; cursor: pointer; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; padding: 14px 18px; display: flex; flex-direction: column; gap: 5px; transition: border-color .12s, background .12s; font: inherit; color: inherit; }
+  .build-list-item { position: relative; width: 100%; text-align: left; cursor: pointer; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; padding: 14px 48px 14px 18px; min-height: 56px; justify-content: center; display: flex; flex-direction: column; gap: 5px; transition: border-color .12s, background .12s; font: inherit; color: inherit; }
   .build-list-item:hover { border-color: var(--gold); background: var(--bg-panel-2); }
   .build-list-item.hidden { display: none; }
   .build-li-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
   .build-li-rank { font-family: 'Cinzel', serif; color: var(--ink-faint); font-size: 0.9rem; }
   .build-li-name { font-family: 'Cinzel', serif; font-weight: 600; font-size: 1.05rem; color: var(--gold-bright); letter-spacing: 0.02em; }
-  .build-li-arrow { margin-left: auto; color: var(--ink-faint); font-size: 1.1rem; }
+  .build-li-arrow { position: absolute; right: 16px; top: 50%; width: 18px; height: 18px; transform: translateY(-50%); background: var(--ink-faint); transition: transform .12s, background .12s;
+    -webkit-mask: var(--icon-chevron-right) center / contain no-repeat;
+            mask: var(--icon-chevron-right) center / contain no-repeat; }
+  .build-list-item:hover .build-li-arrow { background: var(--gold); transform: translate(3px, -50%); }
   .build-li-role { color: var(--gold); font-size: 0.84rem; }
   .build-li-comp { color: var(--ink-dim); font-size: 0.8rem; }
   .build-detail-overlay { position: fixed; inset: 0; background: rgba(8,5,3,0.72); z-index: 60; overflow-y: auto; }
   .build-detail-overlay[hidden] { display: none; }
   .build-detail-panel { max-width: 860px; margin: 0 auto; min-height: 100%; background: var(--bg-deep); border-left: 1px solid var(--border); border-right: 1px solid var(--border); padding: 16px 26px 64px; }
-  .build-detail-panel { max-width: 1100px; padding-top: 22px; }
-  .bd-close { margin-left: auto; flex-shrink: 0; align-self: flex-start; width: 30px; height: 30px; line-height: 28px; text-align: center; background: transparent; border: 1px solid var(--border); color: var(--ink-faint); border-radius: 6px; cursor: pointer; font-size: 0.82rem; font: inherit; }
+  .build-detail-panel { max-width: 1100px; padding-top: 22px; position: relative; }
+  .bd-head { padding-right: 52px; }
+  .bd-close { position: absolute; top: 16px; right: 16px; width: 44px; height: 44px; line-height: 42px; text-align: center; background: transparent; border: 1px solid var(--border); color: var(--ink-faint); border-radius: 6px; cursor: pointer; font-size: 0.82rem; font: inherit; }
   .bd-close:hover { border-color: var(--gold); color: var(--gold); }
   /* Redesigned build detail: header + respec bar + sticky items + timeline */
   .bd-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
@@ -581,7 +697,7 @@
   .respec-bar { margin: 18px 0 6px; padding: 13px 15px; background: var(--bg-panel); border: 1px solid var(--border-bright); border-radius: 8px; }
   .respec-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); margin-bottom: 9px; }
   .respec-btns { display: flex; flex-wrap: wrap; gap: 5px; }
-  .respec-btn { min-width: 30px; height: 30px; padding: 0 8px; border: 1px solid var(--border); background: var(--bg-deep); color: var(--ink); border-radius: 5px; cursor: pointer; font-size: 0.84rem; font: inherit; line-height: 28px; }
+  .respec-btn { min-width: 30px; height: 30px; padding: 0 8px; border: 1px solid var(--border); background: var(--bg-deep); color: var(--ink); border-radius: 4px; cursor: pointer; font-size: 0.84rem; font: inherit; line-height: 28px; }
   .respec-btn:hover { border-color: var(--border-bright); }
   .respec-btn.active { background: var(--gold); color: var(--bg-deep); border-color: var(--gold); font-weight: 600; }
   .respec-note { margin-top: 11px; color: var(--ink-dim); font-size: 0.84rem; line-height: 1.5; border-left: 2px solid var(--gold); padding-left: 11px; }
@@ -592,7 +708,7 @@
   .keyitem:last-child { border-bottom: none; }
   .keyitem::before { content: "\2756"; color: var(--gold); font-size: 0.7rem; }
   .keyitem:hover { color: var(--gold-bright); }
-  .keyitem-act { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-faint); border: 1px solid var(--border); border-radius: 3px; padding: 0 5px; }
+  .keyitem-act { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-faint); border: 1px solid var(--border); border-radius: 4px; padding: 0 5px; }
   .timeline { min-width: 0; }
   .tl-section { font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.07em; margin: 4px 0 10px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }
   .tl-section.now { color: var(--gold-bright); border-color: var(--border-bright); }
@@ -600,13 +716,13 @@
   .tl-section.plain { color: var(--ink-faint); }
   .tl-row { display: grid; grid-template-columns: 40px 1fr; gap: 12px; padding: 9px 0; border-bottom: 1px solid var(--border); }
   .tl-row:last-child { border-bottom: none; }
-  .tl-badge { font-family: 'Cinzel', serif; font-weight: 600; font-size: 0.8rem; color: var(--bg-deep); background: var(--gold); border-radius: 5px; height: 26px; display: flex; align-items: center; justify-content: center; }
+  .tl-badge { font-family: 'Cinzel', serif; font-weight: 600; font-size: 0.8rem; color: var(--bg-deep); background: var(--gold); border-radius: 4px; height: 26px; display: flex; align-items: center; justify-content: center; }
   .tl-body { min-width: 0; }
   .tl-top { display: flex; align-items: baseline; gap: 9px; flex-wrap: wrap; }
   .tl-class { color: var(--gold-bright); font-weight: 600; font-size: 0.95rem; }
-  .tl-dip { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-faint); border: 1px solid var(--border-bright); border-radius: 3px; padding: 0 5px; cursor: help; }
+  .tl-dip { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-faint); border: 1px solid var(--border-bright); border-radius: 4px; padding: 0 5px; cursor: help; }
   .tl-feat { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--gold-bright); border: 1px solid var(--border-bright); border-radius: 4px; padding: 1px 7px; }
-  .tl-spike { display: flex; align-items: baseline; gap: 8px; font-size: 0.85rem; line-height: 1.45; color: var(--ink); margin-top: 6px; padding: 5px 9px; border-radius: 5px; background: var(--bg-panel); border-left: 2px solid var(--ink-faint); }
+  .tl-spike { display: flex; align-items: baseline; gap: 8px; font-size: 0.85rem; line-height: 1.45; color: var(--ink); margin-top: 6px; padding: 5px 9px; border-radius: 4px; background: var(--bg-panel); border-left: 2px solid var(--ink-faint); }
   .tl-spike.combat { border-left-color: #d4734a; }
   .tl-spike.utility { border-left-color: #4a90d4; }
   .tl-spike.defensive { border-left-color: #6bbf6b; }
@@ -629,11 +745,11 @@
   .tl-row.compact { padding: 5px 0; opacity: 0.72; }
   .tl-row.compact .tl-badge { background: var(--border-bright); color: var(--ink); height: 22px; font-size: 0.72rem; }
   .tl-row.compact .tl-class { font-size: 0.86rem; }
-  .tl-spike-pill { font-size: 0.58rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; border-radius: 3px; padding: 1px 5px; border: 1px solid; }
+  .tl-spike-pill { font-size: 0.58rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; border-radius: 4px; padding: 1px 5px; border: 1px solid; }
   .tl-spike-pill.combat { color: #e08a5f; border-color: #d4734a; }
   .tl-spike-pill.utility { color: #6aa6e0; border-color: #4a90d4; }
   .tl-spike-pill.defensive { color: #84cf84; border-color: #6bbf6b; }
-  .build-li-tag { font-size: 0.78rem; color: var(--ink-dim); }
+  .build-li-tag { font-size: 0.92rem; color: var(--ink-dim); }
   @media (max-width: 720px) {
     .bd-body { grid-template-columns: 1fr; }
     .keyitems { position: static; }
@@ -664,8 +780,8 @@
   .bp-empty { color: var(--ink-faint); font-style: italic; font-size: 0.85rem; margin-top: 12px; }
   .tier-row {
     display: grid;
-    grid-template-columns: 70px 1fr;
-    gap: 14px;
+    grid-template-columns: 64px minmax(0, 1fr);
+    gap: 10px;
     margin-bottom: 8px;
     align-items: stretch;
   }
@@ -675,107 +791,119 @@
     justify-content: center;
     font-family: 'Cinzel', serif;
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 1.15rem;
     border: 1px solid;
+    border-radius: 6px;
     padding: 12px 0;
   }
   .tier-row-items {
     background: var(--bg-panel);
     border: 1px solid var(--border);
-    padding: 12px 16px;
+    border-radius: 6px;
+    padding: 10px 12px;
     color: var(--ink);
-    line-height: 1.85;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    gap: 6px;
   }
   .act-filter { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
   .act-filter-btn {
+    min-height: 36px;
     font-family: 'Cinzel', serif;
-    font-size: 0.68rem;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
+    font-size: 0.82rem;
+    letter-spacing: 0.06em;
     color: var(--ink-dim);
     background: var(--bg-panel);
-    border: 1px solid var(--border);
-    padding: 5px 12px;
+    border: 1px solid var(--border-bright);
+    border-radius: 6px;
+    padding: 5px 14px;
     cursor: pointer;
-    transition: all 0.12s;
+    transition: background 0.12s, color 0.12s, border-color 0.12s;
   }
-  .act-filter-btn:hover { border-color: var(--border-bright); color: var(--parchment); }
-  .act-filter-btn.active { background: var(--gold); color: var(--bg-deep); border-color: var(--gold); }
+  .act-filter-btn:hover { border-color: var(--gold); color: var(--parchment); }
+  .act-filter-btn.active { background: var(--gold); color: var(--bg-deep); border-color: var(--gold); font-weight: 600; }
   .tier-row-items .item-pill {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    min-height: 34px;
     font-family: inherit;
-    padding: 2px 10px;
-    margin: 2px 4px 2px 0;
+    padding: 3px 11px;
     background: var(--bg-panel-2);
     border: 1px solid var(--border);
-    font-size: 0.92rem;
-    line-height: 1.5;
+    border-radius: 4px;
+    font-size: 0.98rem;
+    line-height: 1.3;
     color: var(--ink);
     text-decoration: none;
     text-align: left;
     cursor: pointer;
-    transition: all 0.12s;
+    transition: background 0.12s, border-color 0.12s, color 0.12s;
   }
-  .tier-row-items .item-pill:hover { background: var(--border-bright); border-color: var(--border-bright); color: var(--parchment); }
+  .tier-row-items .item-pill:hover { border-color: var(--gold); color: var(--parchment); }
   .tier-row-items .item-pill.pill-active { background: var(--gold); border-color: var(--gold); color: var(--bg-deep); }
   .pill-detail {
     flex-basis: 100%;
     display: none;
     background: var(--bg-deep);
-    border-left: 2px solid var(--gold);
-    padding: 10px 14px;
-    margin: 4px 0 10px 0;
+    border: 1px solid var(--border-bright);
+    border-radius: 6px;
+    padding: 12px 14px;
+    margin: 2px 0 6px 0;
   }
   .pill-detail.open { display: block; }
   .detail-act {
     font-family: 'Cinzel', serif;
-    font-size: 0.72rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
+    font-size: 0.82rem;
+    letter-spacing: 0.06em;
     color: var(--gold);
     margin-bottom: 6px;
   }
   .detail-note {
     font-family: 'EB Garamond', serif;
-    font-size: 0.95rem;
-    line-height: 1.55;
+    font-size: 1rem;
+    line-height: 1.6;
+    max-width: 70ch;
     color: var(--ink);
     margin-bottom: 10px;
   }
   .detail-loc {
     font-family: 'EB Garamond', serif;
-    font-size: 0.85rem;
+    font-size: 0.95rem;
     line-height: 1.5;
+    max-width: 70ch;
     color: var(--ink-dim);
-    margin-bottom: 10px;
+    margin-bottom: 12px;
   }
   .detail-loc strong {
-    font-family: 'Cinzel', serif;
-    font-size: 0.66rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
+    font-weight: 600;
     color: var(--gold);
   }
   .detail-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
   .detail-copy, .detail-wiki {
+    display: inline-flex; align-items: center;
+    min-height: 40px;
+    border-radius: 6px;
     font-family: 'Cinzel', serif;
-    font-size: 0.68rem;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
+    font-size: 0.82rem;
+    letter-spacing: 0.06em;
     padding: 6px 14px;
     cursor: pointer;
-    transition: all 0.15s;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
     text-decoration: none;
     white-space: nowrap;
   }
-  .detail-copy { background: var(--ember); border: 1px solid var(--ember); color: var(--parchment); }
-  .detail-copy:hover { filter: brightness(1.15); }
-  .detail-copy.copied { background: var(--gold); border-color: var(--gold); color: var(--bg-deep); }
+  .detail-copy { background: rgba(212, 165, 72, 0.08); border: 1px solid var(--gold); color: var(--gold-bright); font-weight: 600; }
+  .detail-copy:hover { background: var(--gold); color: var(--bg-deep); }
+  .detail-copy.copied { background: var(--tier-a); border-color: var(--tier-a); color: var(--bg-deep); }
   .detail-wiki { background: transparent; border: 1px solid var(--border-bright); color: var(--ink-dim); }
-  .detail-wiki:hover { background: var(--border-bright); color: var(--parchment); }
+  .detail-wiki:hover { border-color: var(--gold); color: var(--parchment); }
+  @media (max-width: 480px) {
+    .tier-row { grid-template-columns: 40px minmax(0, 1fr); gap: 6px; }
+    .tier-row-items { padding: 8px; }
+    .tier-row-items .item-pill { white-space: normal; }
+    .tierlist-source { margin-left: 8px; }
+  }
   .tier-defs {
     display: flex;
     flex-wrap: wrap;
@@ -794,16 +922,16 @@
   }
 
   .footer-note {
-    margin-top: 48px;
+    margin-top: 40px;
     padding-top: 24px;
     border-top: 1px solid var(--border);
     text-align: center;
-    color: var(--ink-faint);
-    font-size: 0.88rem;
+    color: var(--ink-dim);
+    font-size: 0.95rem;
     font-style: italic;
   }
   .footer-note code {
-    font-family: 'JetBrains Mono', monospace;
+    font-family: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
     font-style: normal;
     color: var(--ink-dim);
     background: var(--bg-panel);
@@ -819,23 +947,23 @@
     <div class="subtitle">A console reference for Baldur's Gate III</div>
   </header>
 
-  <nav class="tabs">
-    <button class="tab active" data-tab="builds">Builds</button>
-    <button class="tab" data-tab="breakpoints">Breakpoints</button>
-    <button class="tab" data-tab="items">Item Spawner</button>
-    <button class="tab" data-tab="commands">Commands</button>
-    <button class="tab" data-tab="tierlists">Tier Lists</button>
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button class="tab active" data-tab="builds" role="tab" id="tab-builds" aria-controls="panel-builds" aria-selected="true">Builds</button>
+    <button class="tab" data-tab="breakpoints" role="tab" id="tab-breakpoints" aria-controls="panel-breakpoints" aria-selected="false" tabindex="-1">Breakpoints</button>
+    <button class="tab" data-tab="items" role="tab" id="tab-items" aria-controls="panel-items" aria-selected="false" tabindex="-1">Item Spawner</button>
+    <button class="tab" data-tab="commands" role="tab" id="tab-commands" aria-controls="panel-commands" aria-selected="false" tabindex="-1">Commands</button>
+    <button class="tab" data-tab="tierlists" role="tab" id="tab-tierlists" aria-controls="panel-tierlists" aria-selected="false" tabindex="-1">Tier Lists</button>
   </nav>
 
-  <section class="panel" id="panel-items">
+  <section class="panel" id="panel-items" role="tabpanel" aria-labelledby="tab-items">
     <div class="attribution">Tier ratings sourced from Cephalopocalypse's Honour Mode guides. Filter or sort by tier to focus on what matters.</div>
     <div class="items-controls">
-      <input type="text" id="item-search" class="search-input" placeholder="Search items by name..." autocomplete="off">
+      <label class="search"><span class="sr-only">Search items</span><input type="search" id="item-search" class="search-input" placeholder="Search items by name..." autocomplete="off" aria-keyshortcuts="/"><kbd class="search-kbd" aria-hidden="true">/</kbd></label>
       <div class="combobox" id="item-category-combo">
-        <input type="text" id="item-category" class="combobox-input" placeholder="All categories" readonly autocomplete="off">
+        <input type="text" id="item-category" class="combobox-input" placeholder="All categories" readonly autocomplete="off" aria-label="Category">
         <div class="combobox-dropdown" id="item-category-dropdown" hidden></div>
       </div>
-      <select id="item-tier">
+      <select id="item-tier" aria-label="Tier">
         <option value="">All tiers</option>
         <option value="rated">Any tier (rated only)</option>
         <option value="S+">S+ only</option>
@@ -847,36 +975,36 @@
         <option value="F">F only</option>
         <option value="SA+">S+ / S / A</option>
       </select>
-      <select id="item-sort">
+      <select id="item-sort" aria-label="Sort order">
         <option value="alpha">Sort: A → Z</option>
         <option value="tier">Sort: by tier</option>
       </select>
-      <div class="qty-wrap"><input type="number" id="item-qty" value="1" min="1" max="999"></div>
+      <div class="qty-wrap"><input type="number" id="item-qty" value="1" min="1" max="999" aria-label="Quantity to spawn"></div>
     </div>
-    <div class="results-meta" id="results-meta"></div>
+    <div class="results-meta" id="results-meta" aria-live="polite"></div>
     <div class="item-list" id="item-list"></div>
-    <div class="empty-state hidden" id="item-empty">No items match those filters.</div>
+    <div class="empty-state hidden" id="item-empty" role="status"><div class="empty-title">No items match</div><div class="empty-hint"></div><button type="button" class="empty-clear">Clear search and filters</button></div>
   </section>
 
-  <section class="panel" id="panel-commands">
-    <input type="text" id="cmd-search" class="search-input" placeholder="Search commands..." style="margin-bottom: 24px;">
+  <section class="panel" id="panel-commands" role="tabpanel" aria-labelledby="tab-commands">
+    <label class="search"><span class="sr-only">Search commands</span><input type="search" id="cmd-search" class="search-input" placeholder="Search commands..." autocomplete="off" aria-keyshortcuts="/"><kbd class="search-kbd" aria-hidden="true">/</kbd></label>
     <div class="commands" id="commands"></div>
-    <div class="empty-state hidden" id="cmd-empty">No commands match that search.</div>
+    <div class="empty-state hidden" id="cmd-empty"><div class="empty-title">No commands match</div><div class="empty-hint"></div><button type="button" class="empty-clear">Clear search</button></div>
   </section>
 
-  <section class="panel" id="panel-tierlists">
+  <section class="panel" id="panel-tierlists" role="tabpanel" aria-labelledby="tab-tierlists">
     <div class="attribution">Tier lists from Cephalopocalypse. Skills and Cantrips are reference-only — they aren't spawnable items.</div>
-    <input type="text" id="tl-search" class="search-input" placeholder="Search tier lists..." autocomplete="off" style="margin-bottom: 24px;">
+    <label class="search"><span class="sr-only">Search tier lists</span><input type="search" id="tl-search" class="search-input" placeholder="Search tier lists..." autocomplete="off" aria-keyshortcuts="/"><kbd class="search-kbd" aria-hidden="true">/</kbd></label>
     <div id="tierlists-content"></div>
-    <div class="empty-state hidden" id="tl-empty">Nothing matches that search.</div>
+    <div class="empty-state hidden" id="tl-empty"><div class="empty-title">No tier lists match</div><div class="empty-hint"></div><button type="button" class="empty-clear">Clear search</button></div>
   </section>
 
-  <section class="panel active" id="panel-builds">
+  <section class="panel active" id="panel-builds" role="tabpanel" aria-labelledby="tab-builds">
     <div class="attribution">Builds from Cephalopocalypse's <a href="https://www.youtube.com/playlist?list=PLgTVc5Jd2rrK8-luUV3-rvMfiYz46BjQ2" target="_blank" rel="noopener">Full Party Builds</a> playlist. Pick what you want to do, then follow the level-by-level progression.</div>
     <div id="build-tags" class="build-tags"></div>
-    <input type="text" id="build-search" class="search-input" placeholder="Search builds..." autocomplete="off" style="margin-bottom: 24px;">
+    <label class="search"><span class="sr-only">Search builds</span><input type="search" id="build-search" class="search-input" placeholder="Search builds..." autocomplete="off" aria-keyshortcuts="/"><kbd class="search-kbd" aria-hidden="true">/</kbd></label>
     <div id="builds-content" class="build-list"></div>
-    <div class="empty-state hidden" id="build-empty">Nothing matches that search.</div>
+    <div class="empty-state hidden" id="build-empty"><div class="empty-title">No builds match</div><div class="empty-hint"></div><button type="button" class="empty-clear">Clear search and filter</button></div>
     <div class="build-detail-overlay" id="build-detail" hidden>
       <div class="build-detail-panel">
         <div id="build-detail-content"></div>
@@ -884,7 +1012,7 @@
     </div>
   </section>
 
-  <section class="panel" id="panel-breakpoints">
+  <section class="panel" id="panel-breakpoints" role="tabpanel" aria-labelledby="tab-breakpoints">
     <div class="attribution">A respec-friendly planner: see the power-spike breakpoints across every class and how to mix them. Independent of the pre-made builds.</div>
     <div class="bp-planner" id="bp-planner">
       <div class="bp-title">Breakpoint planner</div>
@@ -897,6 +1025,7 @@
     </div>
   </section>
 
+  <div class="sr-only" id="sr-status" aria-live="polite"></div>
   <div class="footer-note">
     Open the in-game console with <code>&grave;</code> (backtick) and paste. Requires the BG3 Script Extender mod.
   </div>
@@ -988,14 +1117,48 @@ const commands = [
 ];
 
 // ============== TAB SWITCHING ==============
-document.querySelectorAll('.tab').forEach(t => {
+const tabs = [...document.querySelectorAll('.tab')];
+tabs.forEach((t, i) => {
   t.addEventListener('click', () => {
-    document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+    tabs.forEach(x => { x.classList.remove('active'); x.setAttribute('aria-selected', 'false'); x.tabIndex = -1; });
     document.querySelectorAll('.panel').forEach(x => x.classList.remove('active'));
     t.classList.add('active');
+    t.setAttribute('aria-selected', 'true');
+    t.tabIndex = 0;
     document.getElementById('panel-' + t.dataset.tab).classList.add('active');
   });
+  // WAI-ARIA tabs: arrows / Home / End move between sections.
+  t.addEventListener('keydown', e => {
+    const next = { ArrowRight: i + 1, ArrowLeft: i - 1, Home: 0, End: tabs.length - 1 }[e.key];
+    if (next === undefined) return;
+    e.preventDefault();
+    const target = tabs[(next + tabs.length) % tabs.length];
+    target.focus();
+    target.click();
+  });
 });
+
+// "/" focuses the visible panel's search box (unless you're already typing somewhere).
+document.addEventListener('keydown', e => {
+  if (e.key !== '/' || e.metaKey || e.ctrlKey || e.altKey) return;
+  const el = document.activeElement;
+  if (el && (el.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(el.tagName))) return;
+  const box = document.querySelector('.panel.active .search-input');
+  if (!box || !document.getElementById('build-detail').hidden) return;
+  e.preventDefault();
+  box.focus();
+  box.select();
+});
+
+// Empty state: echo the query and offer a one-tap way back.
+function setEmpty(el, show, query, extra) {
+  el.classList.toggle('hidden', !show);
+  if (!show) return;
+  const parts = [];
+  if (query) parts.push('Nothing matches \u201c' + query + '\u201d');
+  if (extra) parts.push(extra);
+  el.querySelector('.empty-hint').textContent = parts.length ? parts.join(' ') + '.' : '';
+}
 
 // ============== CLIPBOARD ==============
 function fallbackCopy(text) {
@@ -1009,15 +1172,24 @@ function fallbackCopy(text) {
   document.body.removeChild(ta);
   return ok;
 }
+const srStatus = document.getElementById('sr-status');
+function announce(msg) { srStatus.textContent = ''; setTimeout(() => { srStatus.textContent = msg; }, 30); }
 function flashCopied(btn, label) {
-  const orig = btn.textContent;
+  clearTimeout(btn._flash);
+  if (btn.dataset.orig === undefined) btn.dataset.orig = btn.textContent;
   btn.textContent = label || 'Copied';
+  btn.classList.remove('failed');
   btn.classList.add('copied');
-  setTimeout(() => { btn.textContent = orig; btn.classList.remove('copied'); }, 1200);
+  announce('Copied to clipboard');
+  btn._flash = setTimeout(() => { btn.textContent = btn.dataset.orig; delete btn.dataset.orig; btn.classList.remove('copied'); }, 1600);
 }
 function flashFailed(btn, label) {
-  btn.textContent = 'Failed';
-  setTimeout(() => { btn.textContent = label || 'Copy'; }, 1200);
+  clearTimeout(btn._flash);
+  if (btn.dataset.orig === undefined) btn.dataset.orig = btn.textContent;
+  btn.textContent = 'Copy failed';
+  btn.classList.add('failed');
+  announce('Copy failed. Select the command text and copy it by hand.');
+  btn._flash = setTimeout(() => { btn.textContent = btn.dataset.orig; delete btn.dataset.orig; btn.classList.remove('failed'); }, 2400);
 }
 function copyToClipboard(text, btn, label) {
   if (navigator.clipboard && window.isSecureContext) {
@@ -1364,16 +1536,17 @@ function renderItems() {
 
   if (total === 0) {
     itemList.innerHTML = '';
-    itemEmpty.classList.remove('hidden');
+    const filtered = cat || tier;
+    setEmpty(itemEmpty, true, itemSearch.value.trim(), filtered ? 'Category and tier filters also apply' : '');
     resultsMeta.textContent = '';
     return;
   }
-  itemEmpty.classList.add('hidden');
+  setEmpty(itemEmpty, false);
 
   if (total > MAX_RENDER) {
-    resultsMeta.textContent = `Showing first ${MAX_RENDER} of ${total} matches \u2014 type to refine.`;
+    resultsMeta.innerHTML = `Showing the first <strong>${MAX_RENDER}</strong> of <strong>${total.toLocaleString()}</strong> items. Type to narrow it down.`;
   } else {
-    resultsMeta.textContent = total + (total === 1 ? ' item' : ' items');
+    resultsMeta.innerHTML = `<strong>${total.toLocaleString()}</strong> ` + (total === 1 ? 'item' : 'items');
   }
 
   const frag = document.createDocumentFragment();
@@ -1382,19 +1555,20 @@ function renderItems() {
     const row = document.createElement('div');
     row.className = 'item-row';
 
-    const badge = document.createElement('div');
+    const badge = document.createElement(item.t ? 'button' : 'div');
     badge.className = 'tier-badge ' + tierClass(item.t);
     badge.textContent = item.t || '\u2014';
     if (item.t) {
-      badge.title = `Click to filter to tier ${item.t}`;
+      badge.type = 'button';
+      badge.title = `Show only tier ${item.t}`;
+      badge.setAttribute('aria-label', `Tier ${item.t}. Show only tier ${item.t} items`);
       badge.addEventListener('click', () => {
         // Filter dropdown to this tier
         const opt = [...itemTier.options].find(o => o.value === item.t);
         if (opt) { itemTier.value = item.t; renderItems(); }
       });
     } else {
-      badge.classList.add('tier-none');
-      badge.style.cursor = 'default';
+      badge.setAttribute('aria-hidden', 'true');
     }
 
     const name = document.createElement('div');
@@ -1422,10 +1596,14 @@ function renderItems() {
     wiki.target = '_blank';
     wiki.rel = 'noopener';
     wiki.title = 'Open ' + wikiName(item.n) + ' on bg3.wiki';
+    wiki.setAttribute('aria-label', wikiName(item.n) + ' on bg3.wiki (opens in a new tab)');
 
     const btn = document.createElement('button');
+    btn.type = 'button';
     btn.className = 'item-copy';
     btn.textContent = 'Copy';
+    btn.title = 'Copy the spawn command for ' + item.d;
+    btn.setAttribute('aria-label', 'Copy spawn command for ' + item.d);
     btn.addEventListener('click', () => copyToClipboard(buildItemCmd(item.u), btn));
 
     row.appendChild(badge);
@@ -1443,6 +1621,19 @@ let renderTimer = null;
 itemSearch.addEventListener('input', () => {
   clearTimeout(renderTimer);
   renderTimer = setTimeout(renderItems, 80);
+});
+// ArrowDown from the search box jumps to the first result's Copy button.
+itemSearch.addEventListener('keydown', e => {
+  if (e.key !== 'ArrowDown') return;
+  if (renderTimer) { clearTimeout(renderTimer); renderTimer = null; renderItems(); } // flush the debounce so focus lands on fresh results
+  const first = itemList.querySelector('.item-copy');
+  if (first) { e.preventDefault(); first.focus(); }
+});
+itemEmpty.querySelector('.empty-clear').addEventListener('click', () => {
+  itemSearch.value = '';
+  itemTier.value = '';
+  comboSelect('', '');
+  itemSearch.focus();
 });
 itemTier.addEventListener('change', renderItems);
 itemSort.addEventListener('change', renderItems);
@@ -1482,7 +1673,7 @@ commands.forEach(cmd => {
     <div class="card-desc">${cmd.desc}</div>
     ${inputsHtml}
     <div class="cmd-output" data-output></div>
-    <button class="copy-btn" data-copy>Copy Command</button>
+    <button type="button" class="copy-btn" data-copy aria-label="Copy command: ${cmd.title}">Copy command</button>
   `;
   cmdContainer.appendChild(card);
 
@@ -1510,7 +1701,7 @@ commands.forEach(cmd => {
   });
   btn.addEventListener('click', () => {
     if (btn.disabled) return;
-    copyToClipboard(output.textContent, btn, 'Copied to Clipboard');
+    copyToClipboard(output.textContent, btn, 'Copied');
   });
   update();
 });
@@ -1523,7 +1714,12 @@ cmdSearch.addEventListener('input', () => {
     card.classList.toggle('hidden', !match);
     if (match) visible++;
   });
-  cmdEmpty.classList.toggle('hidden', visible !== 0);
+  setEmpty(cmdEmpty, visible === 0, cmdSearch.value.trim());
+});
+cmdEmpty.querySelector('.empty-clear').addEventListener('click', () => {
+  cmdSearch.value = '';
+  cmdSearch.dispatchEvent(new Event('input'));
+  cmdSearch.focus();
 });
 
 // ============== TIER LISTS REFERENCE ==============
@@ -1548,7 +1744,7 @@ function renderTierlist(tl) {
   if (tl.video) {
     const src = document.createElement('a');
     src.className = 'tierlist-source';
-    src.textContent = 'source';
+    src.textContent = 'Source video';
     src.title = tl.video;
     src.href = videoUrl(tl);
     src.target = '_blank';
@@ -1732,7 +1928,12 @@ tlSearch.addEventListener('input', () => {
     section.classList.toggle('hidden', !match);
     if (match) anyVisible++;
   });
-  tlEmpty.classList.toggle('hidden', anyVisible !== 0);
+  setEmpty(tlEmpty, anyVisible === 0, tlSearch.value.trim(), 'Search matches list names like \u201cboots\u201d or \u201ccantrips\u201d');
+});
+tlEmpty.querySelector('.empty-clear').addEventListener('click', () => {
+  tlSearch.value = '';
+  tlSearch.dispatchEvent(new Event('input'));
+  tlSearch.focus();
 });
 
 // ============== BUILDS ==============
@@ -2050,6 +2251,7 @@ function buildDetailContent(b) {
   close.className = 'bd-close';
   close.textContent = '✕';
   close.title = 'Close (Esc)';
+  close.setAttribute('aria-label', 'Close build');
   close.addEventListener('click', closeBuildDetail);
   head.appendChild(close);
   card.appendChild(head);
@@ -2323,7 +2525,7 @@ function renderBuildListItem(b) {
   }
   const arrow = document.createElement('span');
   arrow.className = 'build-li-arrow';
-  arrow.textContent = '›';
+  arrow.setAttribute('aria-hidden', 'true');
   head.appendChild(arrow);
   item.appendChild(head);
 
@@ -2374,8 +2576,16 @@ function applyBuildFilter() {
     c.classList.toggle('hidden', !m);
     if (m) vis++;
   });
-  buildEmpty.classList.toggle('hidden', vis !== 0);
+  const tagBtn = activeBuildTag && buildTagsEl.querySelector('.build-tag-btn.active');
+  setEmpty(buildEmpty, vis === 0, buildSearch.value.trim(), tagBtn ? 'with \u201c' + tagBtn.textContent + '\u201d selected' : '');
 }
+buildEmpty.querySelector('.empty-clear').addEventListener('click', () => {
+  buildSearch.value = '';
+  activeBuildTag = null;
+  [...buildTagsEl.children].forEach(c => { c.classList.remove('active'); c.setAttribute('aria-pressed', 'false'); });
+  applyBuildFilter();
+  buildSearch.focus();
+});
 
 // Intent/playstyle filter — same vocabulary as the breakpoint planner. Ask what
 // you want to DO, not what class to play. Single-select; click again to clear.
@@ -2391,9 +2601,13 @@ function applyBuildFilter() {
     btn.className = 'build-tag-btn';
     btn.dataset.tag = t;
     btn.textContent = labelById[t] || t;
+    btn.setAttribute('aria-pressed', 'false');
     btn.addEventListener('click', () => {
       activeBuildTag = (activeBuildTag === t) ? null : t;
-      [...buildTagsEl.children].forEach(c => c.classList.toggle('active', c.dataset.tag === activeBuildTag));
+      [...buildTagsEl.children].forEach(c => {
+        c.classList.toggle('active', c.dataset.tag === activeBuildTag);
+        c.setAttribute('aria-pressed', String(c.dataset.tag === activeBuildTag));
+      });
       applyBuildFilter();
     });
     buildTagsEl.appendChild(btn);
