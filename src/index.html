@@ -117,7 +117,7 @@
     transition: border-color 0.2s, color 0.2s, background 0.2s;
   }
   .tab:hover { border-color: var(--border-bright); color: var(--ink); }
-  .tab.active { background: var(--bg-panel); border-color: var(--gold); color: var(--gold-bright); }
+  .tab.active { background: var(--gold); border-color: var(--gold); color: var(--bg-deep); }
 
   .panel { display: none; }
   .panel.active { display: block; }
@@ -156,7 +156,7 @@
     transition: border-color 0.2s, box-shadow 0.2s;
     -webkit-appearance: none; appearance: none;
   }
-  .search-input::placeholder { color: var(--ink-faint); font-style: italic; }
+  .search-input::placeholder { color: var(--ink-faint); }
   .search-input:hover { border-color: var(--gold); }
   .search-input:focus {
     outline: none;
@@ -289,7 +289,7 @@
     color: var(--bg-deep);
   }
   .copy-btn:disabled { cursor: not-allowed; background: transparent; border-color: var(--border-bright); color: var(--ink-faint); }
-  .copy-btn.copied { background: var(--tier-a); border-color: var(--tier-a); color: var(--bg-deep); }
+  .copy-btn.copied { background: var(--gold); border-color: var(--gold); color: var(--bg-deep); }
 
   /* Items panel controls */
   .attribution {
@@ -351,7 +351,7 @@
     font-size: 1rem;
     cursor: pointer;
   }
-  .combobox-input::placeholder { color: var(--ink-faint); font-style: italic; }
+  .combobox-input::placeholder { color: var(--ink-faint); }
   .combobox-input:focus { outline: none; border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold); }
   .combobox-input:not([readonly]) { cursor: text; }
   .combobox::after {
@@ -521,7 +521,7 @@
     min-width: 98px;
   }
   .item-copy:hover { background: var(--gold); color: var(--bg-deep); }
-  .item-copy.copied { background: var(--tier-a); border-color: var(--tier-a); color: var(--bg-deep); }
+  .item-copy.copied { background: var(--gold); border-color: var(--gold); color: var(--bg-deep); }
   .item-wiki {
     background: transparent;
     border: 1px solid transparent;
@@ -753,7 +753,7 @@
   .tl-spike-pill.combat { color: #e08a5f; border-color: #d4734a; }
   .tl-spike-pill.utility { color: #6aa6e0; border-color: #4a90d4; }
   .tl-spike-pill.defensive { color: #84cf84; border-color: #6bbf6b; }
-  .build-li-tag { font-size: 0.92rem; color: var(--ink-dim); }
+  .build-li-tag { font-size: 0.92rem; color: var(--ink-dim); flex-basis: 100%; } /* always its own line, so every card has one shape */
   @media (max-width: 720px) {
     .bd-body { grid-template-columns: 1fr; }
     .keyitems { position: static; }
@@ -899,7 +899,7 @@
   }
   .detail-copy { background: rgba(212, 165, 72, 0.08); border: 1px solid var(--gold); color: var(--gold-bright); font-weight: 600; }
   .detail-copy:hover { background: var(--gold); color: var(--bg-deep); }
-  .detail-copy.copied { background: var(--tier-a); border-color: var(--tier-a); color: var(--bg-deep); }
+  .detail-copy.copied { background: var(--gold); border-color: var(--gold); color: var(--bg-deep); }
   .detail-wiki { background: transparent; border: 1px solid var(--border-bright); color: var(--ink-dim); }
   .detail-wiki:hover { border-color: var(--gold); color: var(--parchment); }
   @media (max-width: 480px) {
